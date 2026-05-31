@@ -1,0 +1,854 @@
+{
+  "file_id": "3548",
+  "text_count": 106,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "��������W-where are we...?",
+      "_offset": 3852,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "There's humans everywhere...",
+      "_offset": 3879,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "Did we...did we do it? Did we make\nit back to our world?",
+      "_offset": 3908,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "What about Etemon? Where are the\nothers?",
+      "_offset": 3965,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "No doubt about it! We're near my\nplace! We're back in Japan!",
+      "_offset": 4006,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "This is your world, Taichi?",
+      "_offset": 4067,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "Must be because of that distortion\nwe got sucked into! That must be \nwhy you devolved to Koromon!",
+      "_offset": 4095,
+      "_length": 97,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "This is great, Taichi!",
+      "_offset": 4193,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "We did it, we did it!",
+      "_offset": 4216,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "This is my house, Koromon! I\nwonder if Mom and Dad are okay...",
+      "_offset": 4238,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "Your place, huh...",
+      "_offset": 4301,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "(How long has it been since I went\nto the other world?)",
+      "_offset": 4320,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "(Maybe someone I've never met will\nopen the door.)",
+      "_offset": 4376,
+      "_length": 50,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "Taichi, are you okay?",
+      "_offset": 4427,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "Yeah...ah, excuse me...",
+      "_offset": 4449,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "Hikari...",
+      "_offset": 4473,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "You're back, Taichi.",
+      "_offset": 4483,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "Y-yeah....",
+      "_offset": 4504,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "You brought Koromon with you?",
+      "_offset": 4515,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "Huh?",
+      "_offset": 4545,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "You...You're not surprised to see\nhim?",
+      "_offset": 4550,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "Why should I be surprised? I mean,\nit's just Koromon, right?",
+      "_offset": 4589,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "Where are Mom and Dad?",
+      "_offset": 4650,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "They left this morning to visit\nGrandma, since she's sick and all,\ndidn't they?",
+      "_offset": 4673,
+      "_length": 79,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "Y-yeah, you're right.",
+      "_offset": 4753,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "Taichi, where'd you really go?",
+      "_offset": 4775,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "Huh?",
+      "_offset": 4806,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "Did you go to Koromon's world?",
+      "_offset": 4811,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "So you didn't go to camp with the\nother kids after all...",
+      "_offset": 4842,
+      "_length": 57,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "Oh, right. Maybe the others came\nback too.",
+      "_offset": 4900,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "No one else is back. Are they\nstill on the other side?",
+      "_offset": 4943,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "This is the afternoon news for\nAugust 1. First, the daily report.",
+      "_offset": 4998,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "In terms of the abnormal weather,\nthere has still been no rain in\nSoutheast Asia...",
+      "_offset": 5064,
+      "_length": 83,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "Taichi! Look!",
+      "_offset": 5148,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "Ah, that's Meramon!",
+      "_offset": 5162,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "Record-breaking rains in the\nMiddle East have caused flooding,\nNorth America is covered in snow.",
+      "_offset": 5182,
+      "_length": 96,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "Seadramon and Yukidarumon! This\nisn't just abnormal weather!",
+      "_offset": 5279,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "The distortion from the Digital\nWorld is affecting my world, too!",
+      "_offset": 5340,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "Now you can see them, Taichi? You\ntoo?",
+      "_offset": 5406,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "You can see them?",
+      "_offset": 5445,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "I've been able to see them for a\nlong time, but whenever I said\nanything, nobody believed me.",
+      "_offset": 5463,
+      "_length": 93,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "Huh? Taichi, that's...",
+      "_offset": 5557,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "Ah!",
+      "_offset": 5580,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "...chi, Taichi...",
+      "_offset": 5584,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "K-Koushirou!",
+      "_offset": 5602,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "Ta...Taichi? Where are...now...?",
+      "_offset": 5615,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "I'm at home! I came back to our\nworld! I'm with Koromon right now!",
+      "_offset": 5648,
+      "_length": 66,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "I see...so...as for here...",
+      "_offset": 5715,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "Hey, Koushirou! I can't hear you!",
+      "_offset": 5743,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "...n't come back...please...",
+      "_offset": 5777,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "Koushirou! Koushiroooou!",
+      "_offset": 5806,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "What's going on over there, and\nwhat's going on over here...?",
+      "_offset": 5831,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "Taichi...",
+      "_offset": 5893,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "Hey, Koromon. Is it okay for us to\njust stay here?",
+      "_offset": 5903,
+      "_length": 50,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "But, Taichi...",
+      "_offset": 5954,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "Yeah. I mean, we don't even know\nhow to get back to the other side.",
+      "_offset": 5969,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "Hey, Koromon.",
+      "_offset": 6037,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "What?",
+      "_offset": 6051,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "Taichi doesn't have to go back,\nright? You can stay here now,\nright?",
+      "_offset": 6057,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "Both of you can stay here from now\non...",
+      "_offset": 6126,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "I mean, Koromon, if you stay at\nour place, you won't need to\nfight.",
+      "_offset": 6167,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "You can eat our food, you can eat\nsweets anytime you want.",
+      "_offset": 6235,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "Taichi...",
+      "_offset": 6294,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "It's summer vacation! We're on\nsummer vacation right now! We\nstill haven't gone to the beach...",
+      "_offset": 6304,
+      "_length": 95,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "We have to go see the fireworks,\ntoo! And I haven't done my\nhomework...",
+      "_offset": 6400,
+      "_length": 71,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "I haven't done my homework...",
+      "_offset": 6472,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "Taichi, what about the Digivice?",
+      "_offset": 6502,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "This thing dragged me over there.\nWho cares about it being a holy\ndevice, and all that!",
+      "_offset": 6535,
+      "_length": 87,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "That's...that's Tyrannomon! Aaaah!\nNo!!",
+      "_offset": 6623,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "I'm going, too!",
+      "_offset": 6663,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "Wait!",
+      "_offset": 6679,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "Hikari, you stay home!",
+      "_offset": 6685,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "Ah...",
+      "_offset": 6708,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "Huh? It disappeared!",
+      "_offset": 6714,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "Huh?! Drimogemon!",
+      "_offset": 6735,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "I-it disappeared too.",
+      "_offset": 6753,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "Taichi, I'm going back to the\nothers.",
+      "_offset": 6775,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "Huh?",
+      "_offset": 6813,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "Digimon shouldn't be in this\nworld.",
+      "_offset": 6818,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "I'm a Digimon, so I can't stay\nhere...",
+      "_offset": 6854,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "Don't say things like that,\nKoromon! Don't say you're\nleaving...",
+      "_offset": 6893,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "Taichiiiiiiiii!",
+      "_offset": 6958,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "Hikari! I *told* you not to come!",
+      "_offset": 6974,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "But...",
+      "_offset": 7008,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "Taichi! Look over there!",
+      "_offset": 7015,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "Huh? O-Ogremon!",
+      "_offset": 7040,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "Taichi! Get out of here, fast!",
+      "_offset": 7056,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "Don't go in by yourself! We've\nalways fought together, right?",
+      "_offset": 7087,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "Taichi!",
+      "_offset": 7149,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "Koromon!",
+      "_offset": 7157,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "You did it, Agumon!",
+      "_offset": 7166,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "Taichi...Hikari...bye-bye.",
+      "_offset": 7186,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "Wait, Agumon! I'm coming too!",
+      "_offset": 7213,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "Hikari, I'll be sure to come back.",
+      "_offset": 7243,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "I've got no choice. I have to go\nwith him...",
+      "_offset": 7278,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "Get well soon.",
+      "_offset": 7323,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "Taichi...",
+      "_offset": 7338,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "So we're back.",
+      "_offset": 7348,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 98,
+      "english": "Yeah...",
+      "_offset": 7363,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 99,
+      "english": "Was this really the right thing to\ndo?",
+      "_offset": 7371,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 100,
+      "english": "We'll be sure to return, once\nwe've done what we have to.",
+      "_offset": 7410,
+      "_length": 57,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 101,
+      "english": "Let's go home now.",
+      "_offset": 7468,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 102,
+      "english": "Um, is Sora there?",
+      "_offset": 7487,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 103,
+      "english": "I see...",
+      "_offset": 7510,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 104,
+      "english": "Is Yamato there?",
+      "_offset": 7519,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 105,
+      "english": "Ah.",
+      "_offset": 7540,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    }
+  ]
+}

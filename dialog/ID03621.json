@@ -1,0 +1,758 @@
+{
+  "file_id": "ID03621",
+  "text_count": 94,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "Someone else is there, too!",
+      "_offset": 1640,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "Yo, man, that's the biggest one\nI've seen so far! Go get him,\nArresterdramon!",
+      "_offset": 1668,
+      "_length": 77,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "Grooooooooh!",
+      "_offset": 1746,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "...Too inexperienced!",
+      "_offset": 1759,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "Aaaaaaagh!",
+      "_offset": 1781,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "Arresterdramon!",
+      "_offset": 1792,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "There you are, Gankuumon!",
+      "_offset": 1808,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "Not again!",
+      "_offset": 1838,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "He's gone...",
+      "_offset": 1849,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "Man, he got away...",
+      "_offset": 1862,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "Sorry, Tagiru!",
+      "_offset": 1882,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "No sweat, no sweat. We'll just\nhave to look for him again.",
+      "_offset": 1897,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "By the way, would you happen to be\nTaiki's friend?",
+      "_offset": 1956,
+      "_length": 50,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "Taiki? Aaaaah! Aaaaaaaaaaaaaaaah!",
+      "_offset": 2007,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "Ack!",
+      "_offset": 2041,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "Whoopsie-daisy! I *totally* forgot\nabout Taiki!",
+      "_offset": 2046,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "We gotta go back, Arresterdramon!",
+      "_offset": 2094,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "But, Tagiru... what about these\nguys...",
+      "_offset": 2128,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "Oops, forgot about them! Hey, why\ndon't you come with us?",
+      "_offset": 2168,
+      "_length": 57,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "O-Okay!",
+      "_offset": 2226,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "I'm Tagiru Akashi, and this is\nArresterdramon.",
+      "_offset": 2234,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "Nice to meet you, Taichi and\nAgumon!",
+      "_offset": 2281,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "Nice to meet you!",
+      "_offset": 2318,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "Nice to meet you!",
+      "_offset": 2336,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "I'm Taiki's junior, and a Digimon\nHunter!",
+      "_offset": 2354,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "What?!",
+      "_offset": 2396,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "A Digimon... Hunter?!",
+      "_offset": 2403,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "Oh! No worries, no worries! We\ndon't take other people's Digimon!",
+      "_offset": 2425,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "...R-Right! Thank goodness!",
+      "_offset": 2491,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "There's a fake, right there!",
+      "_offset": 2523,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "Right on... just like they said.\nLooks just like Arresterdramon!",
+      "_offset": 2552,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "Let's go, guys!",
+      "_offset": 2617,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "We did it, Tagiru!",
+      "_offset": 2633,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "Great job as always,\nArresterdramon!",
+      "_offset": 2652,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "You did great, Agumon!",
+      "_offset": 2689,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "Well, it wasn't easy...",
+      "_offset": 2712,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "So Taichi can go home, right?",
+      "_offset": 2736,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "You've finally arrived, chosen\nones...",
+      "_offset": 2772,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "Gankuumon!",
+      "_offset": 2811,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "I'm gonna get revenge for Hackmon!",
+      "_offset": 2822,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "And we're gonna getcha this time!",
+      "_offset": 2857,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "Get ready!",
+      "_offset": 2891,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "Ngh... ghhhh...",
+      "_offset": 2906,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "Hackmon!",
+      "_offset": 2922,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "Taichi... Agumon...",
+      "_offset": 2931,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "So you've finally recovered...\nHave you finally trained properly?",
+      "_offset": 2951,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "And you didn't let a silly little\npunch get you down either, did\nyou?",
+      "_offset": 3017,
+      "_length": 69,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "Hahahahaha!",
+      "_offset": 3087,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "Hahahahaha!",
+      "_offset": 3099,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "...Why are you two so friendly all\nof a sudden?",
+      "_offset": 3114,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "Oh, Gankuumon's like my guardian\nof sorts.",
+      "_offset": 3162,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "What?!",
+      "_offset": 3205,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "So then why were you attacking\nGankuumon earlier?",
+      "_offset": 3212,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "Oh, I always do that. It's like\nour daily ritual.",
+      "_offset": 3262,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "'Cause if I don't, he's gonna get\n*me* instead.",
+      "_offset": 3312,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "Exactly.",
+      "_offset": 3360,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "What? You really seemed like you\nhated each other, I thought you\nwere mortal enemies!",
+      "_offset": 3369,
+      "_length": 85,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "Hey, hey, but then what are you?\nYou're clearly not normal.",
+      "_offset": 3455,
+      "_length": 59,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "Gankuumon is one of the Royal\nKnights who protects the order of\nthe Digital World!",
+      "_offset": 3515,
+      "_length": 82,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "The Royal Knights?!",
+      "_offset": 3598,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "And someday I'll be as strong as\nhim, you just wait!",
+      "_offset": 3618,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "So then why are *we* trapped in\nhere?",
+      "_offset": 3671,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "We need you to correct the\ndistortions in the digital fields.",
+      "_offset": 3709,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "Something with great power has\nforced itself into this space and\nhastened its collapse.",
+      "_offset": 3771,
+      "_length": 87,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "You have defeated numerous\nenemies, and you have finally\nreached this place.",
+      "_offset": 3859,
+      "_length": 76,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "So then what are the distortions?",
+      "_offset": 3936,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "In this place, distorted fragments\nin the Digital World are\ngathering...",
+      "_offset": 3970,
+      "_length": 72,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "It has copied the appearance of\nyour Digimon and, without any\nconscience, continued to grow.",
+      "_offset": 4043,
+      "_length": 92,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "So if we don't do anything about\nall the fake Digimon...",
+      "_offset": 4136,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "The copies will continue to\npermeate through things and gain\npower.",
+      "_offset": 4193,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "If they were to overflow from this\nspace, they would completely cover\nthe Digital Field.",
+      "_offset": 4261,
+      "_length": 88,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "No way...",
+      "_offset": 4350,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "And if that happens, it'll have\nbad effects on our world, too.",
+      "_offset": 4360,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "There is not much time left before\nthis space collapses.",
+      "_offset": 4423,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "I have opened the door to the\nspatial core that controls this\nspace. Now go, chosen ones.",
+      "_offset": 4480,
+      "_length": 89,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "I shall stave off the collapse of\nthis space in the meantime.",
+      "_offset": 4570,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "Hackmon, come here!",
+      "_offset": 4632,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "Gankuumon...",
+      "_offset": 4652,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "You are still immature, but your\npotential exceeds even mine.",
+      "_offset": 4665,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "I-It does?!",
+      "_offset": 4727,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "You'll lead the chosen ones to the \nspatial core, where you will fix \nthe source that has gone haywire.",
+      "_offset": 4739,
+      "_length": 103,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "I will!",
+      "_offset": 4843,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "Taichi!",
+      "_offset": 4851,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "Yeah, there's no way we're gonna\nrun away from this!",
+      "_offset": 4859,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "We'll go with you, too!",
+      "_offset": 4912,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "Yeah, let us join in!",
+      "_offset": 4936,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "Let's go, guys!",
+      "_offset": 4958,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "I've reached my limits in my\ntraining as a Digimon Hunter. I'll\nshow you a real Hunt next time!",
+      "_offset": 4974,
+      "_length": 95,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "And in order to make that happen,\nwe'll save the digital field!\nLet's go!",
+      "_offset": 5070,
+      "_length": 73,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "It'll be fine, Taichi!",
+      "_offset": 5144,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "Of course! We'll always find a\nway!",
+      "_offset": 5167,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "【Area 1】",
+      "_offset": 5203,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "【Area 2】",
+      "_offset": 5226,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "【Area 3】",
+      "_offset": 5249,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    }
+  ]
+}

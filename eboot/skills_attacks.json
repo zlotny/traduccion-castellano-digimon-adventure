@@ -1,0 +1,685 @@
+{
+  "source": "EBOOT.BIN/skills_attacks",
+  "strings": [
+    {
+      "text": "Numemon Boss",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Great Bakemon",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Stray Bakemon",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Baby Flame",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Sharp Claws",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Mega Flame",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Great Antler",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Grey Tooth",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Giga Destroyer",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Trident Arm",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Metal Slash",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Gaia Force",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Brave Tornado",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Dramon Killer",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Petit Fire",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Little Horn",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Hidden Knock",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Fox Fire",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "text": "Freeze Fang",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Garuru Thrust",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Kaiser Nail",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Full Moon Kick",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Baldy Blow",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Cocytus Breath",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Garuru Tomahawk",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Grace Cross Freezer",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Magical Fire",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Piyorin Attack",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Dash Peck",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Meteor Wing",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Fire Flap",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Mach Glide",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Shadow Wing",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Fire Hurricane",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Eagle Claw",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Crimson Flare",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Life Force",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Poison Ivy",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Root Stretch",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Plant Shock",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Prickly Bang Bang",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Mach Jab",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "text": "Coconuts Punch",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Flower Cannon",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Flower Necklace",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Thorn Whip",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Roses Rapier",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Petit Thunder",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Twice Arm",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Rolling Guard",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Mega Blaster",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Beetle Horn",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Blink Thrust",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Horn Buster",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Mega Blaster",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Wild Scratch",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Giga Blaster",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "High Mega Blaster",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Horn Buster Revised",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Marching Fishes",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Sharp Edge",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Surfer Dive",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Harpoon Vulcan",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Icicle Coat",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Golden TriHorn",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Hammer Spark",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Horn & Tusk",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Hammer Boomerang",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Arctic Blizzard",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Viking Axe",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Mega Gain Guard",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Air Shot",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "text": "Wing Slap",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Thousand Wing",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Heaven's Knuckle",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Holy Rod",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "text": "God Typhoon",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Heaven's Gate",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Mega Heal",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Giga Heal",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Tera Heal",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Mega Heal +",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Giga Heal +",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Tera Heal +",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Poison Cure",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Skill Release",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Super Counter",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Ultra Counter",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Auto Heal",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Poop Throw",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Poop Throw",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Poop Throw",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Super Stinky Spray",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Scissor Arms",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Power Guillotine",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Grateful Knuckle",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Plasma Shoot",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Light Aura Barrier",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Extreme Jihad",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Royal Saber",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Royal Slash",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Final Elysion",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Dragon Soul Sword ",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Flame Dragon Strike",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Nine-headed Dragon Formation",
+      "translation": "",
+      "_length": 28
+    },
+    {
+      "text": "Shining Blast",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "GeoGrey Sword",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Glorious Burst",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Beat Slash",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Hard Rock Spirit",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Heavy Metal Vulcan",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Mach Flicker",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Spin Caliber",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Prism Garrett",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "First Strike Punishment",
+      "translation": "",
+      "_length": 23
+    },
+    {
+      "text": "Quake! Lightning! Fire! Father!",
+      "translation": "",
+      "_length": 31
+    },
+    {
+      "text": "Flipping Table In Anger",
+      "translation": "",
+      "_length": 23
+    },
+    {
+      "text": "Continuous Attack",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Auto Heal ",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Fox Tail",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "text": "Puppy Howling",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Gran Death Big Bang",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Death Evolution",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "V-mon Head",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Boom Boom Punch",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Rock Breaker",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Burning Salamander",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Salamander Break",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Baby Burner",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Rock Spirit",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Soul Crusher",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Rowdy Rocker",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Fifth Rush",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Teen Ram",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "text": "Baby Flame",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Great Bakemon",
+      "translation": "",
+      "_length": 13
+    }
+  ]
+}

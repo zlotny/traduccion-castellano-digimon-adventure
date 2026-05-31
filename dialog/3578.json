@@ -1,0 +1,622 @@
+{
+  "file_id": "3578",
+  "text_count": 77,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "Hey, guys, let's go to\nPinocchimon's mansion.",
+      "_offset": 4089,
+      "_length": 45,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "We'll lead the way!",
+      "_offset": 4135,
+      "_length": 19,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "I doubt he'll just be waiting for\nus. He'll most likely challenge us\nto a fight.",
+      "_offset": 4155,
+      "_length": 80,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "Wait! He's an Ultimate, you know!\nIt's not gonna be easy to defeat\nhim...",
+      "_offset": 4236,
+      "_length": 73,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "But we're gonna have to face him\nin the end, no matter what...",
+      "_offset": 4310,
+      "_length": 62,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "Well, let's just see how it goes.",
+      "_offset": 4373,
+      "_length": 33,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "All right!",
+      "_offset": 4407,
+      "_length": 10,
+      "speaker_id": 3,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "This way!",
+      "_offset": 4418,
+      "_length": 9,
+      "speaker_id": 5,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "Sora...",
+      "_offset": 4432,
+      "_length": 7,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "Well, if you say so... we don't\nhave any other options.",
+      "_offset": 4440,
+      "_length": 55,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "Don't worry about it. If something\nbad happens, Koromon and I will\nstop them.",
+      "_offset": 4496,
+      "_length": 77,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "And when it does, you need to take\nthe others and get out of there.",
+      "_offset": 4574,
+      "_length": 67,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "Taichi...",
+      "_offset": 4642,
+      "_length": 9,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "I'm counting on you.",
+      "_offset": 4652,
+      "_length": 20,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "Okay.",
+      "_offset": 4673,
+      "_length": 5,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "So that's Pinocchimon's mansion,\nhuh? Looks like there's two guards\nout there.",
+      "_offset": 4679,
+      "_length": 78,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "They ain't nothin'! We'll show 'em\nwhat we're made of!",
+      "_offset": 4758,
+      "_length": 54,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "Hold it! We don't know what else\nmight be inside, so I'll go first.\nYou guys wait here.",
+      "_offset": 4813,
+      "_length": 87,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "I'll go in with you! I already\nknow what's in there!",
+      "_offset": 4901,
+      "_length": 52,
+      "speaker_id": 144,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "Yeah, but...",
+      "_offset": 4954,
+      "_length": 12,
+      "speaker_id": 190,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "Are you still gonna treat me like\na kid?",
+      "_offset": 4967,
+      "_length": 40,
+      "speaker_id": 210,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "Well...",
+      "_offset": 5008,
+      "_length": 7,
+      "speaker_id": 35,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "Let's go in together, Taichi.",
+      "_offset": 5016,
+      "_length": 29,
+      "speaker_id": 109,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "I agree as well.",
+      "_offset": 5046,
+      "_length": 16,
+      "speaker_id": 172,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "Okay. We'll go in together.",
+      "_offset": 5063,
+      "_length": 27,
+      "speaker_id": 206,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "Now!",
+      "_offset": 5091,
+      "_length": 4,
+      "speaker_id": 217,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "Huh? What monstrosity is this--",
+      "_offset": 5096,
+      "_length": 31,
+      "speaker_id": 227,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "Aaaargh! What're you doing?!",
+      "_offset": 5128,
+      "_length": 28,
+      "speaker_id": 231,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "You're Pinocchimon's minions,\naren't you?",
+      "_offset": 5157,
+      "_length": 41,
+      "speaker_id": 239,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "Forsooth, we are not!",
+      "_offset": 5199,
+      "_length": 21,
+      "speaker_id": 39,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "We're not his minions!",
+      "_offset": 5221,
+      "_length": 22,
+      "speaker_id": 117,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "So then what are you?",
+      "_offset": 5244,
+      "_length": 21,
+      "speaker_id": 185,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "We sought a playmate of worth on\nthe other side...",
+      "_offset": 5266,
+      "_length": 50,
+      "speaker_id": 195,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "Ah, verily. Pinocchimon hath no\nfriends, forsooth.",
+      "_offset": 5317,
+      "_length": 50,
+      "speaker_id": 216,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "So? Is Pinocchimon there or not?",
+      "_offset": 5368,
+      "_length": 32,
+      "speaker_id": 222,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "Hath no hair or hide of him.",
+      "_offset": 5401,
+      "_length": 28,
+      "speaker_id": 45,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "Forsooth! Well, Delumon, thou\nshalt be our guide.",
+      "_offset": 5430,
+      "_length": 49,
+      "speaker_id": 100,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "Verily!",
+      "_offset": 5480,
+      "_length": 7,
+      "speaker_id": 188,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "Who's gonna be my next playmate?",
+      "_offset": 5488,
+      "_length": 32,
+      "speaker_id": 241,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "We were waiting for you,\nPinocchimon!",
+      "_offset": 5521,
+      "_length": 37,
+      "speaker_id": 254,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "You... What are *you* doing here?!",
+      "_offset": 5559,
+      "_length": 34,
+      "speaker_id": 39,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "Gyaaaah!",
+      "_offset": 5594,
+      "_length": 8,
+      "speaker_id": 47,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "Time to settle the score,\nPinocchimon!",
+      "_offset": 5603,
+      "_length": 38,
+      "speaker_id": 77,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "Hmph! Fine! If you wanna play with\nme that badly, then let's go!",
+      "_offset": 5642,
+      "_length": 64,
+      "speaker_id": 94,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "Taichi!",
+      "_offset": 5710,
+      "_length": 7,
+      "speaker_id": 127,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "Ack!",
+      "_offset": 5718,
+      "_length": 4,
+      "speaker_id": 159,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "Hahaha! You mooooorooooooons!\nSee, Takeru? I was telling the\ntruth!",
+      "_offset": 5723,
+      "_length": 67,
+      "speaker_id": 188,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "I have friends! See? Get 'em,\nRedVeggiemon!",
+      "_offset": 5791,
+      "_length": 43,
+      "speaker_id": 230,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "Pinocchimon's gone!",
+      "_offset": 5835,
+      "_length": 19,
+      "speaker_id": 252,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "Where'd he go?",
+      "_offset": 5855,
+      "_length": 14,
+      "speaker_id": 19,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "He can't have gone *that* far.\nLet's go find him!",
+      "_offset": 5870,
+      "_length": 49,
+      "speaker_id": 41,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "We've got you now, Pinocchimon!",
+      "_offset": 5920,
+      "_length": 31,
+      "speaker_id": 92,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "They're just running left and\nright! How useless!",
+      "_offset": 5952,
+      "_length": 49,
+      "speaker_id": 143,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "Let's go, guys!",
+      "_offset": 6002,
+      "_length": 15,
+      "speaker_id": 176,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "All right, Pinocchimon! Let's have\nat it!",
+      "_offset": 6018,
+      "_length": 41,
+      "speaker_id": 205,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "Gh...",
+      "_offset": 6060,
+      "_length": 5,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "Be wary of the Chosen Children!",
+      "_offset": 6066,
+      "_length": 31,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "If you underestimate them, even\nyou might lose, Lord Pinocchimon.",
+      "_offset": 6098,
+      "_length": 65,
+      "speaker_id": 40,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "You're saying I might lose?",
+      "_offset": 6164,
+      "_length": 27,
+      "speaker_id": 78,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "Hah, there's no way I could lose!\nTake this!",
+      "_offset": 6192,
+      "_length": 44,
+      "speaker_id": 113,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "He fled again!",
+      "_offset": 6237,
+      "_length": 14,
+      "speaker_id": 122,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "Ugh!",
+      "_offset": 6252,
+      "_length": 4,
+      "speaker_id": 161,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "Hah! That caught 'em off guard.\nNow's my chance...",
+      "_offset": 6257,
+      "_length": 50,
+      "speaker_id": 226,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "Lord Pinocchimon! Take me with\nyou!",
+      "_offset": 6308,
+      "_length": 35,
+      "speaker_id": 229,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "Shut up! You'll only be a\nnuisance!",
+      "_offset": 6344,
+      "_length": 35,
+      "speaker_id": 237,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "Wasn't he supposed to be a friend\nof yours?",
+      "_offset": 6380,
+      "_length": 43,
+      "speaker_id": 242,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "W-Who's there?!",
+      "_offset": 6424,
+      "_length": 15,
+      "speaker_id": 54,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "Oh! Nice timing! Hey, why don't\nyou go up against those guys?",
+      "_offset": 6440,
+      "_length": 61,
+      "speaker_id": 98,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "Hey! Aren't you listening?",
+      "_offset": 6506,
+      "_length": 26,
+      "speaker_id": 133,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "Do you *seriously* think I'd\nlisten to someone who just\nstraight-up murders his friends?",
+      "_offset": 6533,
+      "_length": 88,
+      "speaker_id": 183,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "What did you just say? You're\ngetting on my nerves!",
+      "_offset": 6622,
+      "_length": 51,
+      "speaker_id": 215,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "Cocytus Breath!",
+      "_offset": 6674,
+      "_length": 15,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "Aaaaaaaagh!",
+      "_offset": 6690,
+      "_length": 11,
+      "speaker_id": 25,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "J-Jureimon...",
+      "_offset": 6702,
+      "_length": 13,
+      "speaker_id": 67,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "What was it... that I was\nmissing...?",
+      "_offset": 6716,
+      "_length": 37,
+      "speaker_id": 73,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "Yamato!",
+      "_offset": 6754,
+      "_length": 7,
+      "speaker_id": 105,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "Yamato...",
+      "_offset": 6766,
+      "_length": 9,
+      "speaker_id": 199,
+      "translation": ""
+    }
+  ]
+}

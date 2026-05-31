@@ -1,0 +1,910 @@
+{
+  "file_id": "3587",
+  "text_count": 113,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "��������Hey! Taichi's writing an email!\nWhat's it say?",
+      "_offset": 5377,
+      "_length": 54,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "\"Dear Sora, it was my fault, so\ndon't be angry anymore...\"",
+      "_offset": 5432,
+      "_length": 58,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "Don't read my emails! Hey, are you\ngoing somewhere?",
+      "_offset": 5491,
+      "_length": 51,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "I'm going to a friend's birthday\nparty! I'm getting her this\npresent!",
+      "_offset": 5543,
+      "_length": 69,
+      "speaker_id": 3,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "Hmmmm? Gimme!",
+      "_offset": 5613,
+      "_length": 13,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "No!",
+      "_offset": 5627,
+      "_length": 3,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "You can't just keep it to\nyourself!",
+      "_offset": 5631,
+      "_length": 35,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "If you wanna send an email, all\nyou gotta do is click here!",
+      "_offset": 5667,
+      "_length": 59,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "Don't just *send* it!",
+      "_offset": 5727,
+      "_length": 21,
+      "speaker_id": 28,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "Why not?",
+      "_offset": 5749,
+      "_length": 8,
+      "speaker_id": 3,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "Huh? Mail rejected? Come *on*,\nSora...",
+      "_offset": 5758,
+      "_length": 38,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "Hey, Koushirou!",
+      "_offset": 5797,
+      "_length": 15,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "*pant* *pant* The egg...",
+      "_offset": 5813,
+      "_length": 24,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "Huh?",
+      "_offset": 5838,
+      "_length": 4,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "The egg... hatched!",
+      "_offset": 5843,
+      "_length": 19,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "The heck is this? It's like a\nsquishy little jellyfish.",
+      "_offset": 5863,
+      "_length": 55,
+      "speaker_id": 5,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "It's a species of Digimon that\nI've never seen before.",
+      "_offset": 5919,
+      "_length": 54,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "Huh, it's pretty cute! So what\nabout it?",
+      "_offset": 5974,
+      "_length": 40,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "It seems that the egg was formed\nfrom the combination of many\ncomputer bugs.",
+      "_offset": 6015,
+      "_length": 76,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "The jellyfish evolved!",
+      "_offset": 6092,
+      "_length": 22,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "It grows by eating data...",
+      "_offset": 6115,
+      "_length": 26,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "It's only a Baby, but at this rate\nit'll eat up all the data on the\nInternet!",
+      "_offset": 6142,
+      "_length": 77,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "What'll happen if it eats data?",
+      "_offset": 6220,
+      "_length": 31,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "Everything will go haywire!",
+      "_offset": 6252,
+      "_length": 27,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "What?!",
+      "_offset": 6280,
+      "_length": 6,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "Hey, can't we find a way to get\nrid of the jellyfish from inside\nthe Internet?",
+      "_offset": 6287,
+      "_length": 78,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "We can't...",
+      "_offset": 6366,
+      "_length": 11,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "I was emailing a friend in LA who \nsaid they were in contact with \nvarious organizations, but...",
+      "_offset": 6378,
+      "_length": 96,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "They couldn't get anyone to\nlisten...",
+      "_offset": 6475,
+      "_length": 37,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "Ack! It evolved again!",
+      "_offset": 6513,
+      "_length": 22,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "Now it's in its Child form.",
+      "_offset": 6536,
+      "_length": 27,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "Uh-oh! Koushirou!",
+      "_offset": 6564,
+      "_length": 17,
+      "speaker_id": 8,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "We have to get rid of him somehow!",
+      "_offset": 6582,
+      "_length": 34,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "But how?",
+      "_offset": 6617,
+      "_length": 8,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "Well...",
+      "_offset": 6626,
+      "_length": 7,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "Ugh... Times like this, I wish\nAgumon were here...",
+      "_offset": 6634,
+      "_length": 50,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "Taichi!",
+      "_offset": 6685,
+      "_length": 7,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "Huh? Agumon?",
+      "_offset": 6693,
+      "_length": 12,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "Taichi!",
+      "_offset": 6706,
+      "_length": 7,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "Agumon! Agumon, it's you!",
+      "_offset": 6714,
+      "_length": 25,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "Taichi! We're receiving a\ntransmission from the Digital\nWorld!",
+      "_offset": 6740,
+      "_length": 62,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "Taichi!",
+      "_offset": 6803,
+      "_length": 7,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "It's been a while.",
+      "_offset": 6811,
+      "_length": 18,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "Gennai!",
+      "_offset": 6830,
+      "_length": 7,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "How're you doin', Koushirou?",
+      "_offset": 6838,
+      "_length": 28,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "Tentomon!",
+      "_offset": 6867,
+      "_length": 9,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "Hey!",
+      "_offset": 6877,
+      "_length": 4,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "Piyomon! Gabumon! Palmon! Hey,\neveryone's here!",
+      "_offset": 6882,
+      "_length": 47,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "So, I assume you already know\nabout it, right?",
+      "_offset": 6930,
+      "_length": 46,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "There's a new Digimon on the\nInternet.",
+      "_offset": 6977,
+      "_length": 38,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "See, I thought you would.",
+      "_offset": 7016,
+      "_length": 25,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "This isn't looking good, Taichi!\nIt's a really dangerous Digimon!",
+      "_offset": 7042,
+      "_length": 65,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "Yeah! But how are we supposed to\ntake care of it?",
+      "_offset": 7108,
+      "_length": 49,
+      "speaker_id": 5,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "We'll fight, Taichi!",
+      "_offset": 7158,
+      "_length": 20,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "But...",
+      "_offset": 7179,
+      "_length": 6,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "We'll go into the Internet.",
+      "_offset": 7186,
+      "_length": 27,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "You're the ones who saved our\nworld...",
+      "_offset": 7214,
+      "_length": 38,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "so this time 'round, we'll be the\nones to save yours!",
+      "_offset": 7253,
+      "_length": 53,
+      "speaker_id": 3,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "Tentomon!",
+      "_offset": 7307,
+      "_length": 9,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "Okay, guys!",
+      "_offset": 7317,
+      "_length": 11,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "We're counting on you. Got your\nDigivice, Koushirou?",
+      "_offset": 7329,
+      "_length": 52,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "Got your Digivice, Koushirou?",
+      "_offset": 7382,
+      "_length": 29,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "Of course!",
+      "_offset": 7412,
+      "_length": 10,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "Of course!",
+      "_offset": 7423,
+      "_length": 10,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "Okay! We've got our Digivices, so\nyou'll be able to evolve!",
+      "_offset": 7434,
+      "_length": 59,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "Okay!",
+      "_offset": 7494,
+      "_length": 5,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "I'll be sending the Digimon in, so\nhang tight.",
+      "_offset": 7500,
+      "_length": 46,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "I'll get in touch with the others!",
+      "_offset": 7547,
+      "_length": 34,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "None of them are home... Hey,\nKoushirou, can you call Sora for\nme?",
+      "_offset": 7582,
+      "_length": 66,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "Did something happen?",
+      "_offset": 7649,
+      "_length": 21,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "Nothing in particular, just...",
+      "_offset": 7671,
+      "_length": 30,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "Did you two just happen to get in\na fight?",
+      "_offset": 7702,
+      "_length": 42,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "It wasn't a fight! Anyway, isn't\nit time?",
+      "_offset": 7745,
+      "_length": 41,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "Transmission complete!",
+      "_offset": 7787,
+      "_length": 22,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "Taichi! Koushirou! We'll be there\nsoon!",
+      "_offset": 7810,
+      "_length": 39,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "Taichi! Koushirou! We'll be there\nsoon!",
+      "_offset": 7850,
+      "_length": 39,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "We're counting on you, Agumon!",
+      "_offset": 7890,
+      "_length": 30,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "It hasn't noticed us yet! Let's\nlaunch a surprise attack!",
+      "_offset": 7921,
+      "_length": 57,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "Right-o! I'm goin' in!",
+      "_offset": 7979,
+      "_length": 22,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "Why's there Digimon all over?",
+      "_offset": 8002,
+      "_length": 29,
+      "speaker_id": 3,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "The mysterious Digimon may have\ncaused them to appear...",
+      "_offset": 8032,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "It must have copied data from the\nDigital World.",
+      "_offset": 8089,
+      "_length": 48,
+      "speaker_id": 3,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "Well, we'll just have to clear\nthem out!",
+      "_offset": 8138,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "Okay, do it!",
+      "_offset": 8179,
+      "_length": 12,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "Now's the time!",
+      "_offset": 8192,
+      "_length": 15,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "It's a Child, so you guys should\nevolve to Adult!",
+      "_offset": 8208,
+      "_length": 49,
+      "speaker_id": 5,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "Okay!",
+      "_offset": 8258,
+      "_length": 5,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "Roger!",
+      "_offset": 8264,
+      "_length": 6,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "Get him!",
+      "_offset": 8271,
+      "_length": 8,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "Ha! Piece of cake!",
+      "_offset": 8280,
+      "_length": 18,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "Wait a minute!",
+      "_offset": 8299,
+      "_length": 14,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "Did he just evolve again?!",
+      "_offset": 8314,
+      "_length": 26,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "We'll still be okay... it's an\nAdult, just like them.",
+      "_offset": 8341,
+      "_length": 53,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "Somethin's up! What are we gonna\ndo?",
+      "_offset": 8395,
+      "_length": 36,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "Kabuterimon! Aaaaagh!",
+      "_offset": 8432,
+      "_length": 21,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "Greymon!",
+      "_offset": 8454,
+      "_length": 8,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "Taichi! I just realized! It's\nactually a Perfect-level Digimon!",
+      "_offset": 8463,
+      "_length": 63,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "So that means...",
+      "_offset": 8527,
+      "_length": 16,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 98,
+      "english": "It evolved twice back then!",
+      "_offset": 8544,
+      "_length": 27,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 99,
+      "english": "That's not good... okay, we'll\nhave to evolve them to Perfect\ntoo!",
+      "_offset": 8572,
+      "_length": 66,
+      "speaker_id": 4,
+      "translation": ""
+    },
+    {
+      "index": 100,
+      "english": "Aaaaaagh!",
+      "_offset": 8639,
+      "_length": 9,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 101,
+      "english": "Ack!",
+      "_offset": 8649,
+      "_length": 4,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 102,
+      "english": "Did it just attack them while they\nwere evolving?",
+      "_offset": 8654,
+      "_length": 49,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 103,
+      "english": "Are you okay, Agumon?",
+      "_offset": 8704,
+      "_length": 21,
+      "speaker_id": 3,
+      "translation": ""
+    },
+    {
+      "index": 104,
+      "english": "Sorry... Taichi...",
+      "_offset": 8726,
+      "_length": 18,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 105,
+      "english": "Tentomon...",
+      "_offset": 8745,
+      "_length": 11,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 106,
+      "english": "That guy's out of our league...",
+      "_offset": 8757,
+      "_length": 31,
+      "speaker_id": 3,
+      "translation": ""
+    },
+    {
+      "index": 107,
+      "english": "You two need to rest for a bit.",
+      "_offset": 8789,
+      "_length": 31,
+      "speaker_id": 8,
+      "translation": ""
+    },
+    {
+      "index": 108,
+      "english": "But then... where are they gonna\nhide...",
+      "_offset": 8821,
+      "_length": 40,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 109,
+      "english": "It's been a while since we've\nfought beside them.",
+      "_offset": 8862,
+      "_length": 49,
+      "speaker_id": 9,
+      "translation": ""
+    },
+    {
+      "index": 110,
+      "english": "And what about that?",
+      "_offset": 8912,
+      "_length": 20,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 111,
+      "english": "It might take a while for them to\nevolve to Perfect again.",
+      "_offset": 8933,
+      "_length": 58,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 112,
+      "english": "We'll just have to stick to Adult\nfor now. Let's do it!",
+      "_offset": 8992,
+      "_length": 55,
+      "speaker_id": 7,
+      "translation": ""
+    }
+  ]
+}

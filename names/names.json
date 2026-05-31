@@ -1,0 +1,1012 @@
+{
+  "source": "EBOOT.BIN",
+  "character_names": [
+    {
+      "name": "Hikari",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Hikari Yagami",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Hikari's Father",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Hikari's Mother",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Hiroaki Ishida",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "name": "Jou Kido",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Jou's Brother",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Jou's Father",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "name": "Jou's Mother",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "name": "Jou's Shadow",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "name": "Kae Izumi",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Koushirou Izumi",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Koushirou's Father",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "name": "Koushirou's Mother",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "name": "Masami Izumi",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "name": "Mimi Tachikawa",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "name": "Mimi's Father",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Mimi's Mother",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Natsuko Takaishi",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "name": "Satoe Tachikawa",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Shin Kido",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Sora Takenouchi",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Sora's Copy",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "Sora's Father",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Sora's Mother",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Susumu Yagami",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Taichi",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Taichi Yagami",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Taichi's Father",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Taichi's Mother",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Takeru Takaishi",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Takeru's Father",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Takeru's Mother",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Toshiko Takenouchi",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "name": "Yamato Ishida",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Yamato's Father",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Yamato's Mother",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Yuuko Yagami",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "name": "Yuusuke Tachikawa",
+      "translation": "",
+      "_length": 17
+    }
+  ],
+  "digimon_names": [
+    {
+      "name": "Agumon",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Andromon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Angemon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Angewomon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Announcer",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Anomalocarimon",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "name": "Apocalymon",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "AtlurKabuterimon",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "name": "Bakemon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Bakemon A",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Bakemon B",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Bakemon C",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Birdramon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Blossomon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Boy",
+      "translation": "",
+      "_length": 3
+    },
+    {
+      "name": "Centarumon",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "Children",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Chioka",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Chuumon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Cockatrimon",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "Daisuke",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "DeathMeramon",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "name": "Delumon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Devidramon",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "Devimon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Digimon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Digitamamon",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "Dokugumon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Drimogemon",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "Elecmon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Etemon",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Floramon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Gabumon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Garbamon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Garbamon A",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "Garbamon B",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "Garudamon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Garurumon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Gazimon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Gazimon A",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Gazimon B",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Gekomon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Gekomon A",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Gekomon B",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Gekomon C",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Gennai",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Gesomon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Girl",
+      "translation": "",
+      "_length": 4
+    },
+    {
+      "name": "Gomamon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Gotsumon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Great Bakemon",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Greymon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Hagurumon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Hagurumon A",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "Hagurumon B",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "Hangyomon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "HerakleKabuterimon",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "name": "HolyAngemon",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "Hououmon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Ikkakumon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Infermon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Jureimon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Kabuterimon",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "Kiwimon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Koromon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Koromon A",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Koromon B",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Koromon C",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Kuwagamon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "LadyDevimon",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "Leomon",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Lilimon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Mammon",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Masaru",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "MegaSeadramon",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Meramon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "MetalEtemon",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "MetalGarurumon",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "name": "MetalGreymon",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "name": "MetalSeadramon",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "name": "Mochimon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Mojyamon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Monzaemon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Mugendramon",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "Mushmon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Nanimon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Nanomon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Narration",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Numemon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Numemon ",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Numemon Boss",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "name": "Nyaromon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Ogremon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Old Man",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Old Woman",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Omegamon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Ophanimon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Otamamon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Pagumon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Pagumon A",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Pagumon B",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Pagumon C",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Palmon",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Parrotmon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Passerby",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Patamon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Phantomon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Piccolomon",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "PicoDevimon",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "Piemon",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Pinocchimon",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "Piyomon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Plotmon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Priest",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Pukamon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Pumpmon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Pyocomon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Pyocomon ",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Pyocomon A",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "Pyocomon B",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "Pyocomon C",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "Raremon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "RedVeggiemon",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "name": "Rosemon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "SaberLeomon",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "Sakurada",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Scumon",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Seadramon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "Seraphimon",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "Shellmon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Snimon",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Stray Bakemon",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Tagiru",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Taiki",
+      "translation": "",
+      "_length": 5
+    },
+    {
+      "name": "Tailmon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Takato",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Takuya",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Tanemon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Tentomon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Togemon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Tokomon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "TonosamaGekomon",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Tsunomon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Tuskmon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Tyrannomon",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "Unimon",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Vadermon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Vamdemon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Vamdemon's Army",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "name": "Veggiemon",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "name": "VenomVamdemon",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Vikemon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "WarGreymon",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "WaruMonzaemon",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "WereGarurumon",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "name": "Whamon",
+      "translation": "",
+      "_length": 6
+    },
+    {
+      "name": "Wizarmon",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "name": "Woodmon",
+      "translation": "",
+      "_length": 7
+    },
+    {
+      "name": "Young Lady",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "name": "Yuki",
+      "translation": "",
+      "_length": 4
+    },
+    {
+      "name": "Yukidarumon",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "name": "Zudomon",
+      "translation": "",
+      "_length": 7
+    }
+  ]
+}

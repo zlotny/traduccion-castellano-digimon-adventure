@@ -1,0 +1,886 @@
+{
+  "file_id": "ID03529",
+  "text_count": 110,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "��������I have to go! I've gotta do this,\nfor everyone's sake!",
+      "_offset": 3698,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "Uh-huh. Trying to look cool?",
+      "_offset": 3761,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "Who's there?",
+      "_offset": 3790,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "So you wanna go up that mountain\nall by yourself?",
+      "_offset": 3803,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "Gomamon! Don't try to stop me!",
+      "_offset": 3853,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "Okay.",
+      "_offset": 3884,
+      "_length": 5,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "And don't follow me! I'm doing\nthis on my own!",
+      "_offset": 3890,
+      "_length": 46,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "Well, I've got some of business of\nmy own on that mountain.",
+      "_offset": 3937,
+      "_length": 59,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "Suit yourself!",
+      "_offset": 3997,
+      "_length": 14,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "Seriously, Jou, be honest. You'd \nbe completely lost trying to go up\nthere alone, wouldn't you?",
+      "_offset": 4012,
+      "_length": 95,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "Don't be stupid!",
+      "_offset": 4108,
+      "_length": 16,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "Jou! That's the wrong way!",
+      "_offset": 4125,
+      "_length": 26,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "I-I was about to turn back!",
+      "_offset": 4152,
+      "_length": 27,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "Anyway, this is a really big\nmountain.",
+      "_offset": 4180,
+      "_length": 38,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "Giving up already?",
+      "_offset": 4219,
+      "_length": 18,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "Not at all!",
+      "_offset": 4238,
+      "_length": 11,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "Let's take a break for bit! We've\nprobably got at least half the\nmountain left.",
+      "_offset": 4250,
+      "_length": 79,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "You're not doing half bad, Jou!",
+      "_offset": 4330,
+      "_length": 31,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "You too, Gomamon!",
+      "_offset": 4362,
+      "_length": 17,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "What's that?!",
+      "_offset": 4380,
+      "_length": 13,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "An earthquake?!",
+      "_offset": 4394,
+      "_length": 15,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "Those black gears!",
+      "_offset": 4410,
+      "_length": 18,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "Why are they coming out of there?\nLet's go check it out! Maybe we'll\nfigure something out!",
+      "_offset": 4429,
+      "_length": 90,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "Okay!",
+      "_offset": 4520,
+      "_length": 5,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "I'm sure there was something weird\ngoing on around here. Let's look a\nlittle closer!",
+      "_offset": 4526,
+      "_length": 84,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "Wait! What's that? That sound...",
+      "_offset": 4611,
+      "_length": 32,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "It's Unimon! He's a really wise\nand peaceful Digimon!",
+      "_offset": 4644,
+      "_length": 53,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "We should hide! You haven't\nexactly been giving us reliable \ninformation on Digimon so far.",
+      "_offset": 4698,
+      "_length": 91,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "Maybe so, but...",
+      "_offset": 4790,
+      "_length": 16,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "He's drinking water! So that's\nwhat he was doing.",
+      "_offset": 4807,
+      "_length": 49,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "I told you it'd be fine! Let's get\na closer look!",
+      "_offset": 4857,
+      "_length": 49,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "This is bad!",
+      "_offset": 4907,
+      "_length": 12,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "His eyes are going crazy.",
+      "_offset": 4920,
+      "_length": 25,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "Mmm! I slept well! I wonder if\nJou's up yet...",
+      "_offset": 4946,
+      "_length": 46,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "\"I'll be back soon. Stay here and\nwait for me. Jou.\"",
+      "_offset": 4993,
+      "_length": 52,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "He didn't go to Infinity Mountain\nby himself, did he?! This is bad!\nEveryone, get up!",
+      "_offset": 5046,
+      "_length": 85,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "Jou went to Infinity Mountain\nalone?",
+      "_offset": 5132,
+      "_length": 36,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "That's what it looks like. What\nshould we do?",
+      "_offset": 5169,
+      "_length": 45,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "Okay, there's only one thing to\ndo! I'm going after him!",
+      "_offset": 5215,
+      "_length": 56,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "I'll go with you!",
+      "_offset": 5272,
+      "_length": 17,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "Yamato, you should stay here and\nprotect the others! We can't risk \nendangering everyone right now.",
+      "_offset": 5290,
+      "_length": 99,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "Taichi...!\nGot it. Be careful!",
+      "_offset": 5390,
+      "_length": 30,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "Okay, let's go! We'll catch up\nwith him if we ride on Birdramon!",
+      "_offset": 5421,
+      "_length": 64,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "So reckless, going up there\nwithout us. We're coming to save\nyou, Jou!",
+      "_offset": 5486,
+      "_length": 70,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "Yamato, you should stay here and\nprotect the others.",
+      "_offset": 5557,
+      "_length": 52,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "Got it. Be careful!",
+      "_offset": 5610,
+      "_length": 19,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "Okay, let's go! We'll catch up\nwith him if we ride on Birdramon!",
+      "_offset": 5630,
+      "_length": 64,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "Jou went up Infinity Mountain by\nhimself. It's dangerous! We can't\nleave him alone up there!",
+      "_offset": 5695,
+      "_length": 92,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "I'll go with you!",
+      "_offset": 5788,
+      "_length": 17,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "No, Taichi, you should stay here\nand protect the others!",
+      "_offset": 5806,
+      "_length": 56,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "Got it! Be careful!",
+      "_offset": 5863,
+      "_length": 19,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "All right, take care of everyone\nelse!",
+      "_offset": 5883,
+      "_length": 38,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "Okay, let's go! We'll catch up\nwith him if we ride on Birdramon!",
+      "_offset": 5922,
+      "_length": 64,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "We're trapped! There's no way out!",
+      "_offset": 5987,
+      "_length": 34,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "At this rate...",
+      "_offset": 6022,
+      "_length": 15,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "Jou!",
+      "_offset": 6038,
+      "_length": 4,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "Are you two all right?",
+      "_offset": 6043,
+      "_length": 22,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "You came to save us! Now\nthere's nothing left for us\nto be afraid of!",
+      "_offset": 6066,
+      "_length": 69,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "Jou!",
+      "_offset": 6136,
+      "_length": 4,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "Are you two all right?",
+      "_offset": 6141,
+      "_length": 22,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "You came to save us! Now\nthere's nothing left for us\nto be afraid of!",
+      "_offset": 6164,
+      "_length": 69,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "You came to save us! Now\nthere's nothing left for us\nto be afraid of!",
+      "_offset": 6234,
+      "_length": 69,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "You came to save us! Now\nthere's nothing left for us\nto be afraid of!",
+      "_offset": 6304,
+      "_length": 69,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "Whoaaaaaa!",
+      "_offset": 6374,
+      "_length": 10,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "Whoaaaaaa!",
+      "_offset": 6385,
+      "_length": 10,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "Whoaaaaaa!",
+      "_offset": 6396,
+      "_length": 10,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "Whoaaaaaa!",
+      "_offset": 6407,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "Guys!",
+      "_offset": 6418,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "That black gear is what's making\nUnimon rampage!",
+      "_offset": 6424,
+      "_length": 48,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "The black gear...If I get rid of\nit, I might be able to stop him!",
+      "_offset": 6473,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "Everyone!",
+      "_offset": 6539,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "That black gear is what's making\nUnimon rampage!",
+      "_offset": 6549,
+      "_length": 48,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "The black gear...If I get rid of\nit, I might be able to stop him!",
+      "_offset": 6598,
+      "_length": 65,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "Now! Waaaaaah!",
+      "_offset": 6664,
+      "_length": 14,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "Brrrrrngh! Hyiiiii!",
+      "_offset": 6679,
+      "_length": 19,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "Jou!",
+      "_offset": 6699,
+      "_length": 4,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "Uwaaaaaah!",
+      "_offset": 6704,
+      "_length": 10,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "Joooooou!",
+      "_offset": 6715,
+      "_length": 9,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "Brrrrrngh! Hyiiiii!",
+      "_offset": 6725,
+      "_length": 19,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "Jou!",
+      "_offset": 6745,
+      "_length": 4,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "Uwaaaaaah!",
+      "_offset": 6750,
+      "_length": 10,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "Joooooou!",
+      "_offset": 6761,
+      "_length": 9,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "Are you okay, Jou?",
+      "_offset": 6771,
+      "_length": 18,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "You saved me, Ikkakumon! But\nUnimon's faster than I thought, so\nbe careful!",
+      "_offset": 6790,
+      "_length": 75,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "Okay! Hold on tight and leave it\nto me!",
+      "_offset": 6866,
+      "_length": 39,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "We did it! We did it! We did it!",
+      "_offset": 6906,
+      "_length": 32,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "Not bad, Jou!",
+      "_offset": 6939,
+      "_length": 13,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "Jou's courage made Gomamon evolve,\ndidn't it?",
+      "_offset": 6953,
+      "_length": 45,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "Well, I wouldn't say that...",
+      "_offset": 6999,
+      "_length": 28,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "Nah! It wasn't because of Jou's\ncourage, it was because of my hard\nwork!...I think.",
+      "_offset": 7028,
+      "_length": 83,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "Thank you, Gomamon! You saved us!",
+      "_offset": 7112,
+      "_length": 33,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "Huh?! I don't...",
+      "_offset": 7146,
+      "_length": 16,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "Gomamon's embarrassed!",
+      "_offset": 7163,
+      "_length": 22,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "Okay, everyone, let's go! We're\nheading for the peak!",
+      "_offset": 7186,
+      "_length": 53,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "We did it! We did it! We did it!",
+      "_offset": 7240,
+      "_length": 32,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "Not bad, Jou!",
+      "_offset": 7273,
+      "_length": 13,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "Jou's courage made Gomamon evolve,\ndidn't it?",
+      "_offset": 7287,
+      "_length": 45,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "Well, I wouldn't say that...",
+      "_offset": 7333,
+      "_length": 28,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 98,
+      "english": "Nah! It wasn't because of Jou's\ncourage, it was because of my hard\nwork!...I think.",
+      "_offset": 7362,
+      "_length": 83,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 99,
+      "english": "Thank you, Gomamon! You saved us!",
+      "_offset": 7446,
+      "_length": 33,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 100,
+      "english": "Huh?! I don't...",
+      "_offset": 7480,
+      "_length": 16,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 101,
+      "english": "Gomamon's embarrassed!",
+      "_offset": 7497,
+      "_length": 22,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 102,
+      "english": "Okay, everyone, let's go! We're\nheading for the peak!",
+      "_offset": 7520,
+      "_length": 53,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 103,
+      "english": "What's wrong, Gomamon?",
+      "_offset": 7577,
+      "_length": 22,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 104,
+      "english": "Something's coming!",
+      "_offset": 7600,
+      "_length": 19,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 105,
+      "english": "What's that?!",
+      "_offset": 7620,
+      "_length": 13,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 106,
+      "english": "The black gears!",
+      "_offset": 7634,
+      "_length": 16,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 107,
+      "english": "Jou! Unimon isn't that way!",
+      "_offset": 7651,
+      "_length": 27,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 108,
+      "english": "I-I know!\nIt's not like I'm scared of\nUnimon, or anything like that!",
+      "_offset": 7679,
+      "_length": 68,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 109,
+      "english": "Brrrrrngh! Hyiiiii!",
+      "_offset": 7748,
+      "_length": 19,
+      "speaker_id": 255,
+      "translation": ""
+    }
+  ]
+}

@@ -1,0 +1,2134 @@
+{
+  "file_id": "3542",
+  "text_count": 266,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "��������So, where do we go from here?",
+      "_offset": 1254,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "Gennai told us to go to Server\nContinent, but...",
+      "_offset": 1292,
+      "_length": 48,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "According to the map I just\nreceived, Server Continent is\nquite a distance from here.",
+      "_offset": 1341,
+      "_length": 85,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "Do we *have* to go? I mean,\nDevimon's gone...",
+      "_offset": 1427,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "We know this island pretty well,\nand we won't have problems finding\nfood and water.",
+      "_offset": 1473,
+      "_length": 83,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "What do you mean by that?",
+      "_offset": 1557,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "I mean, can we trust this Gennai\nguy and what he said about Server\nContinent?",
+      "_offset": 1583,
+      "_length": 77,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "Can we believe he's on our side\njust because he sent us a map?",
+      "_offset": 1661,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "But if we just hang around here,\nwe'll never return home!",
+      "_offset": 1724,
+      "_length": 57,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "We had so much trouble with\nDevimon, and there are even more\ndangerous enemies ahead...",
+      "_offset": 1782,
+      "_length": 87,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "We don't even have a way to get to\na continent across the ocean.",
+      "_offset": 1870,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "And there are probably even more\nweird Digimon.",
+      "_offset": 1935,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "We should probably check this\nplace out a bit more.",
+      "_offset": 1983,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "What's with you guys?",
+      "_offset": 2035,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "...Let's go.",
+      "_offset": 2061,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "Takeru?!",
+      "_offset": 2074,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "Even if we don't know what kind of\nenemies will be waiting for us, we\nshould go!",
+      "_offset": 2083,
+      "_length": 80,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "I think Angemon would agree, so,\nI...",
+      "_offset": 2164,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "We'll go! At the very least, if we\ncan find those Tags and Crests...",
+      "_offset": 2202,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "I'm sure I can evolve more and\nprotect you, Taichi!",
+      "_offset": 2271,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "Agumon...",
+      "_offset": 2323,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "Let's go, Sora!",
+      "_offset": 2333,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "We'll pull through, okay?",
+      "_offset": 2349,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "I'll be the most beautiful flower\non Server Continent!",
+      "_offset": 2375,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "I'll cross the whole ocean if I\nhave to!",
+      "_offset": 2430,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "Yamato, let's go!",
+      "_offset": 2471,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "...okay!",
+      "_offset": 2489,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "Let's go!",
+      "_offset": 2498,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "Okay, I'll go too!",
+      "_offset": 2508,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "If everyone else is going, I'll\ntag along!",
+      "_offset": 2527,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "A new continent, huh?",
+      "_offset": 2570,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "Okay, it's decided! We're going to\nServer Continent!",
+      "_offset": 2592,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "Yeah!",
+      "_offset": 2645,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "Now that it looks like you're done\ntalking...",
+      "_offset": 2651,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "Leomon!",
+      "_offset": 2697,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "We heard rumors that you're going\nto Server Continent, and these\nguys wanted to help you out.",
+      "_offset": 2705,
+      "_length": 93,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "Hey!",
+      "_offset": 2799,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "You need a ship, right? We'll help\nout!",
+      "_offset": 2804,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "We want to help you guys, too.",
+      "_offset": 2844,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "Thanks, guys!",
+      "_offset": 2875,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "How do we get to the other side?",
+      "_offset": 2889,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "You can cross if you can find\nsomething to use as a bridge.",
+      "_offset": 2922,
+      "_length": 59,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "To use as a bridge...?",
+      "_offset": 2982,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "Yes, like a bunch of logs or\nsomething.",
+      "_offset": 3005,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "Logs...okay, let's go find some!",
+      "_offset": 3045,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "Be careful around here. The trees\nare falling in this direction.",
+      "_offset": 3078,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "Are you cutting down trees to make\na raft?",
+      "_offset": 3143,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "These are some nice logs! Hey,\nLeomon! Can we use them?",
+      "_offset": 3186,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "Take as many as you like!",
+      "_offset": 3242,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "Hey, Centarumon, we found some\nlogs!",
+      "_offset": 3268,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "Ah, perfect. They'll make a good\nbridge.",
+      "_offset": 3305,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "There, now you can cross.",
+      "_offset": 3346,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "Thanks, Centarumon!",
+      "_offset": 3372,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "What are you doing, Elecmon?",
+      "_offset": 3392,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "Oh, I'm trying to fish for food,\nbut I don't have any bait.",
+      "_offset": 3421,
+      "_length": 59,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "In that case, we'll help you out\nand find some bait!",
+      "_offset": 3481,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "Thanks!",
+      "_offset": 3534,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "Heeeey, Mojyamon!",
+      "_offset": 3542,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "I've found some nice food!",
+      "_offset": 3560,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "Really? What'd you find?",
+      "_offset": 3587,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "Look, some nice earthworms!",
+      "_offset": 3612,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "Kyaaaaaah! They're squirming\naround...",
+      "_offset": 3640,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "Mojyamon, humans can't eat\nearthworms.",
+      "_offset": 3679,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "You should've told me sooner!",
+      "_offset": 3718,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "But we can use it for fish bait!\nIf that's okay with you.",
+      "_offset": 3748,
+      "_length": 57,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "Yeah! Take it!",
+      "_offset": 3806,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "Thanks! This'll be a great help!",
+      "_offset": 3821,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "Elecmon! We got some bait!",
+      "_offset": 3854,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "The fish'll be biting like crazy\nwith this. One sec...see, look!",
+      "_offset": 3881,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "Ah! A DigiCarp!",
+      "_offset": 3946,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "Heheh, I'm not bad at this!",
+      "_offset": 3962,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "Thank you!",
+      "_offset": 3990,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "It's mine!",
+      "_offset": 4001,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "I'm the one who found it!",
+      "_offset": 4012,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "Meramon...and Yukidarumon? Why are\nyou two fighting?",
+      "_offset": 4038,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "It's this DigiPiece! Meramon\ncalled dibs on it, but I'm the one\nwho found it!",
+      "_offset": 4091,
+      "_length": 77,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "I was the one who climbed the tree\nto retrieve it from the branch!\nAll *you* did was find it!",
+      "_offset": 4169,
+      "_length": 93,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "But all you did was climb a tree.\nHonestly, you fire-type Digimon\nare so pushy...",
+      "_offset": 4263,
+      "_length": 81,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "No, Ice-type Digimon are just\ncowards! Give me back my\nDigiPiece!",
+      "_offset": 4345,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "Stop it! I asked you to explain,\nnot to start fighting again!",
+      "_offset": 4411,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "Okay, then you decide whose\nDigiPiece it is, Taichi!",
+      "_offset": 4473,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "Hey, that's a good idea!",
+      "_offset": 4526,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "Huh? Don't just spring that on me\nall of a sudden.",
+      "_offset": 4551,
+      "_length": 50,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "Yukidarumon found it, so it's his!",
+      "_offset": 4602,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "Meramon did the work, so it's his!",
+      "_offset": 4637,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "See? It's mine!",
+      "_offset": 4672,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "If that's what Taichi says, I have\nto go along with it.",
+      "_offset": 4688,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "Hey, don't feel bad! So, about the\nDigiPiece I found...",
+      "_offset": 4744,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "Here, Taichi! You can have it!",
+      "_offset": 4800,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "Huh? Me?",
+      "_offset": 4831,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "Yeah! When I found it, I was\nthinking I'd give you it as a\npresent.",
+      "_offset": 4840,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "Hey, that's what I was planning,\ntoo!",
+      "_offset": 4908,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "Well, now that we've cleared that\nup... thanks!",
+      "_offset": 4946,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "So, here's the...huh?",
+      "_offset": 4994,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "What's wrong?",
+      "_offset": 5016,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "The DigiPiece changed. Maybe it's\nbecause I was holding it?",
+      "_offset": 5030,
+      "_length": 59,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "Huh, so that can happen?",
+      "_offset": 5090,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "See, I knew you'd say that,\nTaichi!",
+      "_offset": 5115,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 98,
+      "english": "Hmmm, I'm not convinced...",
+      "_offset": 5151,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 99,
+      "english": "Hahaha, the people who put in\neffort are the ones who get\nrewarded. Don't feel too bad!",
+      "_offset": 5178,
+      "_length": 87,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 100,
+      "english": "Here, Taichi, it's for you!",
+      "_offset": 5266,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 101,
+      "english": "Ehh? For me?",
+      "_offset": 5294,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 102,
+      "english": "I was thinking I'd give it to you,\nso here, take it!",
+      "_offset": 5307,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 103,
+      "english": "Huh, that's what I was thinking as\nwell.",
+      "_offset": 5360,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 104,
+      "english": "Well, now that we've cleared that\nup... thanks!",
+      "_offset": 5401,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 105,
+      "english": "So, here's the...huh?",
+      "_offset": 5449,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 106,
+      "english": "What's wrong?",
+      "_offset": 5471,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 107,
+      "english": "The DigiPiece changed. Maybe it's\nbecause I was holding it?",
+      "_offset": 5485,
+      "_length": 59,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 108,
+      "english": "Huh, so that can happen?",
+      "_offset": 5545,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 109,
+      "english": "Taichi!",
+      "_offset": 5570,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 110,
+      "english": "Hm? What's up, Pyocomon?",
+      "_offset": 5578,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 111,
+      "english": "A present for you, Taichi! I found\nthis in the forest, so I thought\nI'd give it to you!",
+      "_offset": 5603,
+      "_length": 87,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 112,
+      "english": "Thanks, Pyocomon!",
+      "_offset": 5691,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 113,
+      "english": "You're welcome!",
+      "_offset": 5709,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 114,
+      "english": "Hm? I smell fish...",
+      "_offset": 5725,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 115,
+      "english": "Oh! Elecmon gave this to us. See,\nit's a DigiCarp! Are you hungry?",
+      "_offset": 5745,
+      "_length": 66,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 116,
+      "english": "No, thank you...I don't really\nlike fish.",
+      "_offset": 5812,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 117,
+      "english": "Huh, that's a surprise.",
+      "_offset": 5854,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 118,
+      "english": "That's not good! Mommy always told\nme that you can't get strong if\nyou don't eat fish!",
+      "_offset": 5878,
+      "_length": 86,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 119,
+      "english": "Well...you're probably right,\nbut...",
+      "_offset": 5965,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 120,
+      "english": "You say something to Leomon too,\nTaichi!",
+      "_offset": 6002,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 121,
+      "english": "Leomon, you shouldn't be picky.",
+      "_offset": 6043,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 122,
+      "english": "You should listen to Leomon.",
+      "_offset": 6075,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 123,
+      "english": "No, it's not that. I got food\npoisoning from a fish once and \nseeing one makes my whiskers itch.",
+      "_offset": 6104,
+      "_length": 96,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 124,
+      "english": "Oh! So you're not being picky?",
+      "_offset": 6201,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 125,
+      "english": "Sorry, Leomon!",
+      "_offset": 6232,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 126,
+      "english": "Sorry about that, Leomon.",
+      "_offset": 6247,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 127,
+      "english": "Don't worry about it! It's just\nthat my whiskers get on edge even\nat the mention of fish.",
+      "_offset": 6273,
+      "_length": 89,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 128,
+      "english": "Okay, but why?",
+      "_offset": 6363,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 129,
+      "english": "Actually, I got food poisoning\nfrom a fish a while back and even\nseeing one makes my whiskers itch.",
+      "_offset": 6378,
+      "_length": 99,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 130,
+      "english": "Ah, so that's it...",
+      "_offset": 6478,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 131,
+      "english": "Can't do anything about that.\nSorry, I shouldn't have tried to\nget you to eat it.",
+      "_offset": 6498,
+      "_length": 81,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 132,
+      "english": "No big deal, don't worry about it.",
+      "_offset": 6580,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 133,
+      "english": "We've got logs to make a raft...",
+      "_offset": 6615,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 134,
+      "english": "And some fish to eat while we're\non the ocean, but...",
+      "_offset": 6648,
+      "_length": 53,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 135,
+      "english": "We can't find a large cloth to\nmake a sail...",
+      "_offset": 6702,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 136,
+      "english": "That's no good.",
+      "_offset": 6748,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 137,
+      "english": "Let's head back to where we\nstarted, then. We'll come up with\na new plan.",
+      "_offset": 6764,
+      "_length": 73,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 138,
+      "english": "Yeah. There aren't any dangerous\nDigimon around here, anyway.",
+      "_offset": 6838,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 139,
+      "english": "Hey, everyone!",
+      "_offset": 6900,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 140,
+      "english": "Monzaemon! What's up?",
+      "_offset": 6915,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 141,
+      "english": "I thought you'd need a cloth to\nmake a sail, so I picked one up at\nToy Town!",
+      "_offset": 6937,
+      "_length": 76,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 142,
+      "english": "Really?!",
+      "_offset": 7014,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 143,
+      "english": "Yeah! Though to be honest, it's\nactually my bedsheet...",
+      "_offset": 7023,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 144,
+      "english": "As long as it's big enough for a\nsail, it's fine!",
+      "_offset": 7079,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 145,
+      "english": "Really? I'm glad!",
+      "_offset": 7129,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 146,
+      "english": "We can finish the raft now!",
+      "_offset": 7147,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 147,
+      "english": "I'll carry the raft for you.",
+      "_offset": 7175,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 148,
+      "english": "Are you ready to leave?",
+      "_offset": 7204,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 149,
+      "english": "Yeah! Let's go to Server Continent!",
+      "_offset": 7228,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 150,
+      "english": "We're not ready yet. Wait a little!",
+      "_offset": 7264,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 151,
+      "english": "All right, we'll wait for you at\nthe beach!",
+      "_offset": 7300,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 152,
+      "english": "Call us when you're ready.",
+      "_offset": 7344,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 153,
+      "english": "I wonder if this'll hold up out\nthere...",
+      "_offset": 7371,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 154,
+      "english": "I'm sure if anyone can get across\nthis ocean, it'll be you guys.",
+      "_offset": 7412,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 155,
+      "english": "Thanks, Leomon! It's all thanks to\nall your help.",
+      "_offset": 7477,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 156,
+      "english": "Ah!",
+      "_offset": 7527,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 157,
+      "english": "What's wrong?!",
+      "_offset": 7531,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 158,
+      "english": "The DigiEgg, it hatched!",
+      "_offset": 7546,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 159,
+      "english": "How cute!",
+      "_offset": 7571,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 160,
+      "english": "Yaaaaay!",
+      "_offset": 7581,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 161,
+      "english": "Thank you so much!",
+      "_offset": 7590,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 162,
+      "english": "Goodbye!",
+      "_offset": 7609,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 163,
+      "english": "Farewell, Chosen Children!",
+      "_offset": 7618,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 164,
+      "english": "Ugh, I don't feel good...",
+      "_offset": 7645,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 165,
+      "english": "I didn't think it would shake this\nmuch.",
+      "_offset": 7671,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 166,
+      "english": "How much longer are we gonna be on\nhere?",
+      "_offset": 7712,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 167,
+      "english": "We've just started!",
+      "_offset": 7753,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 168,
+      "english": "But we only have so much food and\nwater. There's only enough for\nabout half a month.",
+      "_offset": 7773,
+      "_length": 84,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 169,
+      "english": "Jou...",
+      "_offset": 7858,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 170,
+      "english": "You've gotta pull yourself together!",
+      "_offset": 7865,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 171,
+      "english": "If we run out, we can catch fish.",
+      "_offset": 7902,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 172,
+      "english": "I'm just worried because I'm your\nsenior! If we run out of food,\nwe're done for!",
+      "_offset": 7936,
+      "_length": 80,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 173,
+      "english": "Well, you're right, but...",
+      "_offset": 8017,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 174,
+      "english": "You're right! And there'll\nprobably be rain before we run out\nof water!",
+      "_offset": 8044,
+      "_length": 71,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 175,
+      "english": "Yeah! If we put our minds to it,\nthings will work out somehow.",
+      "_offset": 8116,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 176,
+      "english": "Thanks, Taichi! I feel a bit\nbetter now!",
+      "_offset": 8179,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 177,
+      "english": "W-what's going on?",
+      "_offset": 8220,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 178,
+      "english": "Kyaaaaaaaaaah!",
+      "_offset": 8239,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 179,
+      "english": "Something's approaching us from\nbehind!",
+      "_offset": 8254,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 180,
+      "english": "An island!",
+      "_offset": 8294,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 181,
+      "english": "No, that's not an island!",
+      "_offset": 8305,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 182,
+      "english": "It's Whamon! He usually stays at\nthe bottom of the ocean, so why is\nhe here?",
+      "_offset": 8331,
+      "_length": 76,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 183,
+      "english": "He's coming this way!",
+      "_offset": 8408,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 184,
+      "english": "We're gonna get swallowed!",
+      "_offset": 8430,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 185,
+      "english": "We're being consumed! And by\n\"consumed\", I don't mean the\neconomic definition!",
+      "_offset": 8457,
+      "_length": 78,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 186,
+      "english": "We *know*!",
+      "_offset": 8536,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 187,
+      "english": "So he really is eating us...",
+      "_offset": 8547,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 188,
+      "english": "And we can't do anything but sit\nand watch.",
+      "_offset": 8576,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 189,
+      "english": "We're in an open space...",
+      "_offset": 8620,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 190,
+      "english": "I think we're out of the\nesophagus. In other words, we're\nin the stomach.",
+      "_offset": 8646,
+      "_length": 73,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 191,
+      "english": "Isn't that where food is digested?",
+      "_offset": 8720,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 192,
+      "english": "If we don't escape from here\nquickly, *we're* the ones who'll\nbe digested!",
+      "_offset": 8755,
+      "_length": 74,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 193,
+      "english": "Ah! Taichi, over there!",
+      "_offset": 8830,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 194,
+      "english": "A black gear...",
+      "_offset": 8854,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 195,
+      "english": "So that's why Whamon's on a\nrampage!",
+      "_offset": 8870,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 196,
+      "english": "I'll give you something to climb\non! Poison Ivy!",
+      "_offset": 8907,
+      "_length": 48,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 197,
+      "english": "Okay, I'm going!",
+      "_offset": 8956,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 198,
+      "english": "There's a pool of gastric juice\nunderneath, this thing's swaying a\nlot ...ah!",
+      "_offset": 8973,
+      "_length": 77,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 199,
+      "english": "Taichi!",
+      "_offset": 9051,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 200,
+      "english": "Taichi! Step on the left ivy!",
+      "_offset": 9059,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 201,
+      "english": "Taichi! Step on the right ivy!",
+      "_offset": 9089,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 202,
+      "english": "Ah!...There we go!",
+      "_offset": 9120,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 203,
+      "english": "Okay! Now grab it with your right\nhand!",
+      "_offset": 9139,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 204,
+      "english": "Thanks, Yamato! You're a huge\nhelp!",
+      "_offset": 9179,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 205,
+      "english": "You're not too bad yourself, with\nthat quick reaction and all.",
+      "_offset": 9215,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 206,
+      "english": "Well, I'll leave it to you to\nguide me up there!",
+      "_offset": 9278,
+      "_length": 48,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 207,
+      "english": "Oof! There we go! Ah?!",
+      "_offset": 9327,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 208,
+      "english": "The other way! On *my* right, not\nyour right!",
+      "_offset": 9350,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 209,
+      "english": "I can't think that quickly!",
+      "_offset": 9396,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 210,
+      "english": "Hey! I'm trying to help you out\nhere!",
+      "_offset": 9424,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 211,
+      "english": "Just keep your mouth shut, okay...",
+      "_offset": 9462,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 212,
+      "english": "Just a bit more! Keep at it!",
+      "_offset": 9497,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 213,
+      "english": "All right, I'm pulling out the\ngear!",
+      "_offset": 9526,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 214,
+      "english": "Uwaaaaaaaah!",
+      "_offset": 9563,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 215,
+      "english": "Are you okay, Sora?",
+      "_offset": 9576,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 216,
+      "english": "Yeah!",
+      "_offset": 9596,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 217,
+      "english": "We made it out, somehow!",
+      "_offset": 9602,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 218,
+      "english": "Are you okay, Poyomon?",
+      "_offset": 9627,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 219,
+      "english": "I apologize for acting so\nviolently.",
+      "_offset": 9650,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 220,
+      "english": "No worries! It's the black gear's\nfault.",
+      "_offset": 9687,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 221,
+      "english": "I feel refreshed now, thanks to\nyou.",
+      "_offset": 9728,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 222,
+      "english": "Hey, Whamon, how far is it to\nServer Continent from here?",
+      "_offset": 9765,
+      "_length": 57,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 223,
+      "english": "It would take me five days to get\nthere.",
+      "_offset": 9823,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 224,
+      "english": "That's pretty far...",
+      "_offset": 9864,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 225,
+      "english": "So then, do you know anything\nabout those Tags that Devimon hid?\nOr the Crests for that matter?",
+      "_offset": 9885,
+      "_length": 95,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 226,
+      "english": "Tags and Crests...I don't know\nanything.",
+      "_offset": 9981,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 227,
+      "english": "Oh...",
+      "_offset": 10022,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 228,
+      "english": "But I do know that Devimon went\nunder the sea once and put\nsomething there...",
+      "_offset": 10028,
+      "_length": 77,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 229,
+      "english": "Where?",
+      "_offset": 10106,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 230,
+      "english": "On the way to Server Continent.\nAllow me to escort you.",
+      "_offset": 10113,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 231,
+      "english": "Thanks so much!",
+      "_offset": 10169,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 232,
+      "english": "Yeah! We're counting on you,\nWhamon!",
+      "_offset": 10185,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 233,
+      "english": "It's a bit chilly. So the Tags and\nCrests are around here...",
+      "_offset": 10222,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 234,
+      "english": "Yeah, let's go look for them!",
+      "_offset": 10283,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 235,
+      "english": "It's...",
+      "_offset": 10313,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 236,
+      "english": "...a convenience store!",
+      "_offset": 10321,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 237,
+      "english": "Aaaaaaaaah!",
+      "_offset": 10345,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 238,
+      "english": "It's Drimogemon!",
+      "_offset": 10357,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 239,
+      "english": "Taichi, we'll take care of this!",
+      "_offset": 10374,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 240,
+      "english": "Taichi, we'll take care of this!",
+      "_offset": 10407,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 241,
+      "english": "We found the Tags in the\nconvenience store!",
+      "_offset": 10440,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 242,
+      "english": "So if we combine the Tags and the\nCrests...",
+      "_offset": 10484,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 243,
+      "english": "...we'll be able to evolve even\nfurther, right?",
+      "_offset": 10528,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 244,
+      "english": "Yeah, so we'll make sure to find\nthose Crests!",
+      "_offset": 10576,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 245,
+      "english": "Sorry to keep you waiting, Whamon!",
+      "_offset": 10623,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 246,
+      "english": "It's no problem at all. I'll take\nyou to Server Continent.",
+      "_offset": 10658,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 247,
+      "english": "All right, thanks, Whamon! I\nwonder what Server Continent is\nlike?",
+      "_offset": 10717,
+      "_length": 66,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 248,
+      "english": "It's gonna be fun, Taichi!",
+      "_offset": 10784,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 249,
+      "english": "I'm sure there are other Digimon\nwho want to help you.",
+      "_offset": 10811,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 250,
+      "english": "All right, thanks!",
+      "_offset": 10866,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 251,
+      "english": "I'm sorry for causing you trouble\nwhen I was being controlled by\nDevimon...",
+      "_offset": 10885,
+      "_length": 75,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 252,
+      "english": "Don't worry about it! It's all in\nthe past.",
+      "_offset": 10961,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 253,
+      "english": "DigiCarp is delicious! Doesn't\nmatter if you boil it or bake it!",
+      "_offset": 11005,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 254,
+      "english": "Huh! I'll have to ask Yamato to\nteach me how to cook it sometime.",
+      "_offset": 11070,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 255,
+      "english": "Ugh...It's way too hot today...",
+      "_offset": 11136,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 256,
+      "english": "Huh, really? I feel like it's a\nbit colder than usual.",
+      "_offset": 11168,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 257,
+      "english": "Being differently-typed Digimon\nmust be hard.",
+      "_offset": 11223,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 258,
+      "english": "DigiEarthworms are delicious, you\nknow. Are you sure you don't want\nto try some?",
+      "_offset": 11269,
+      "_length": 80,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 259,
+      "english": "Ugh, no!",
+      "_offset": 11350,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 260,
+      "english": "It's probably a bad thing for me\nto keep avoiding fish.",
+      "_offset": 11359,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 261,
+      "english": "After Taichi and his friends\ndefeated Drimogemon...",
+      "_offset": 11415,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 262,
+      "english": "they found the Tags inside the\nconvenience store.",
+      "_offset": 11467,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 263,
+      "english": "Obtained Logs!",
+      "_offset": 11517,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 264,
+      "english": "Obtained DigiEarthworms!",
+      "_offset": 11532,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 265,
+      "english": "Obtained DigiCarp!",
+      "_offset": 11557,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    }
+  ]
+}

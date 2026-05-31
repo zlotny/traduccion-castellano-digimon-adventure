@@ -1,0 +1,1310 @@
+{
+  "file_id": "ID03545",
+  "text_count": 163,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "��������Sora, are you okay?",
+      "_offset": 7120,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "Yeah. Somehow.",
+      "_offset": 7148,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "I'm sorry, Koromon. You're like\nthis because of me...",
+      "_offset": 7163,
+      "_length": 53,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "Taichi, nothing's gonna change if\nyou just wallow in regret.",
+      "_offset": 7217,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "Mimi...",
+      "_offset": 7278,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "You have to perk up! For Koromon's\nsake, and for yourself!",
+      "_offset": 7286,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "Chosen Children...Chosen\nChildren...!",
+      "_offset": 7345,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "It's Gennai!",
+      "_offset": 7383,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "We got the Tags and Crests like\nyou told us to, but...",
+      "_offset": 7396,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "...we couldn't get our Digimon to\nproperly evolve!",
+      "_offset": 7451,
+      "_length": 50,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "I don't want these Crests!",
+      "_offset": 7502,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "Calm down, Chosen Children...",
+      "_offset": 7529,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "You'll find yourselves with the\nCrests in the end, even if you\ndon't want them.",
+      "_offset": 7559,
+      "_length": 79,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "The Tags and Crests are drawn to\neach other, you see.",
+      "_offset": 7639,
+      "_length": 53,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "No way...",
+      "_offset": 7693,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "But...for example, even with the\nCrests and Tags you've obtained...",
+      "_offset": 7703,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "You'll get more things like the\nGreymon incident if you don't\nraise the Digimon properly.",
+      "_offset": 7771,
+      "_length": 89,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "Raise them properly?",
+      "_offset": 7861,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "Yes. If you don't raise them\nproperly, you can't evolve them\ncorrectly.",
+      "_offset": 7882,
+      "_length": 71,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "But how are we supposed to raise\nthem properly?",
+      "_offset": 7954,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "Chosen Children, when caring for\nyour Digimon, you should...",
+      "_offset": 8002,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "Gennai! Ugh, that old man's always\nsaying all these confusing things!",
+      "_offset": 8063,
+      "_length": 69,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "Raise us properly, he said.",
+      "_offset": 8133,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "I'm not very confident about this.",
+      "_offset": 8161,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "I've got no confidence, nope, none\nat all. Confidence at 0 percent.",
+      "_offset": 8196,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "Hey, hey!",
+      "_offset": 8264,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "A warship?!",
+      "_offset": 8277,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "No, it's a luxury liner!",
+      "_offset": 8289,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "Why is there a luxury liner in the\nmiddle of the desert?!",
+      "_offset": 8314,
+      "_length": 57,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "Aaaaaaaaaaaah!!",
+      "_offset": 8372,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "Nume...",
+      "_offset": 8388,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "Ah! Numemon!",
+      "_offset": 8396,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "Ughhh. I'm hurting.",
+      "_offset": 8409,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "Numemon! Can you let us rest on\nyour ship? Koromon's feeling weak!",
+      "_offset": 8429,
+      "_length": 66,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "Leave the Numemon to me!",
+      "_offset": 8496,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "Numemoooon~! We're tired, so\nplease let us rest in this luxury\nliner, pleeeeease~!",
+      "_offset": 8524,
+      "_length": 82,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "Nu!",
+      "_offset": 8607,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "P-l-e-a-s-e!",
+      "_offset": 8611,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "Numeeeeeeeeeeee!",
+      "_offset": 8624,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "Whoaaaaa!",
+      "_offset": 8641,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "Heehee!",
+      "_offset": 8651,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "Waaaaah! It's like a five-star\nhotel!",
+      "_offset": 8659,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "How nice!",
+      "_offset": 8697,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "I'm hungry!",
+      "_offset": 8707,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "It seems there's also a dining\nroom!",
+      "_offset": 8719,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "Let's go check it out!",
+      "_offset": 8756,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "!! It's a huge feast!",
+      "_offset": 8779,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "I...I wanna eat it.",
+      "_offset": 8801,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "It would be wrong to just barge in\nand eat their food!",
+      "_offset": 8821,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "But I *really* wanna eat it.",
+      "_offset": 8876,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "Me too.",
+      "_offset": 8905,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "Well, if we let the food get cold,\nit would be a disservice to the\nperson who made it.",
+      "_offset": 8913,
+      "_length": 86,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "Yeah!",
+      "_offset": 9000,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "Right on, right on!",
+      "_offset": 9006,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "Let's eat!",
+      "_offset": 9026,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "Yeah!!",
+      "_offset": 9037,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "W-what?!",
+      "_offset": 9044,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "Aaaaaaagh!",
+      "_offset": 9053,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "Nuuuuuuuu!!",
+      "_offset": 9064,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "Numemon! What are you doing?",
+      "_offset": 9076,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "Don't touch Koromon!",
+      "_offset": 9105,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "Taichiiiiiiiii!",
+      "_offset": 9126,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "A-Agumon!",
+      "_offset": 9142,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "Numemon! I'll be your opponent!",
+      "_offset": 9152,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "All right, that's it!",
+      "_offset": 9184,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "Uwaaaaaaah!",
+      "_offset": 9206,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "You're...you're Cockatrimon!",
+      "_offset": 9218,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "I've got a big catch today, gya!",
+      "_offset": 9247,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "While we were in the\nshowers...where'd everyone go?",
+      "_offset": 9280,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "!! Who's there?",
+      "_offset": 9332,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "Nuuuuuuu!!",
+      "_offset": 9348,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "Kyaaaaaaaaah! Help, Palmon!",
+      "_offset": 9359,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "It's rude to just barge in on us\nlike that! Let's go, Piyomon!",
+      "_offset": 9387,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "Leave it to us!",
+      "_offset": 9450,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "We'll give 'em a beating!",
+      "_offset": 9466,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "Haaahhhh, that took way too long!",
+      "_offset": 9492,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "The others might be in trouble,\ntoo. Come on, Mimi, let's go look\nfor them!",
+      "_offset": 9526,
+      "_length": 75,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "Okaaaay!",
+      "_offset": 9602,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "A dining room! Someone's eaten\nhere, but...",
+      "_offset": 9611,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "Must have been Taichi and the\nothers.",
+      "_offset": 9655,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "But it doesn't look like they're\nhere anymore.",
+      "_offset": 9693,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "So they were all...",
+      "_offset": 9740,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "They must've been captured. Hurry,\nlet's find them!",
+      "_offset": 9760,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "Now that you're here anyway, it\nsaves me some time, ga-ya!",
+      "_offset": 9812,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "Cockatrimon?!",
+      "_offset": 9871,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "Is he working with Etemon?",
+      "_offset": 9885,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "Seems like it.",
+      "_offset": 9912,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "I've put the other five Chosen\nChildren out to be sun-dried,\nga-ya!",
+      "_offset": 9927,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "They'll be sun-dried, ga-ya!",
+      "_offset": 9995,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "Aaah! He's got their Tags!",
+      "_offset": 10024,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "Aaah! He's got their Tags!",
+      "_offset": 10051,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "Just a bit and I'll have 'em\ncooked nice and dry, ga-ya!",
+      "_offset": 10078,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "How horrible...",
+      "_offset": 10135,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "I'll be doing the same to you,\ntoo! Cocka-ka-ka-ka-ka!",
+      "_offset": 10151,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "We're gonna save everyone!",
+      "_offset": 10206,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "We won't let you get away with\nthis!",
+      "_offset": 10233,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "Let's go!",
+      "_offset": 10270,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "Take that!",
+      "_offset": 10280,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 98,
+      "english": "Nngyaaaaaaaaa!",
+      "_offset": 10291,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 99,
+      "english": "Sora! Mimi!",
+      "_offset": 10306,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 100,
+      "english": "Taichi! Everyone! I'm so glad\nyou're safe!",
+      "_offset": 10318,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 101,
+      "english": "Yeah, the Numemon suddenly ran\naway. W-what's that?!",
+      "_offset": 10361,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 102,
+      "english": "Aaahhh...",
+      "_offset": 10414,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 103,
+      "english": "It's Mimi's Crest.",
+      "_offset": 10424,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 104,
+      "english": "Mmmmm...",
+      "_offset": 10443,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 105,
+      "english": "Gennai said that the Tags and\nCrests are drawn to one another.",
+      "_offset": 10452,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 106,
+      "english": "I didn't even want this. Am I even\nable to raise Palmon properly?",
+      "_offset": 10515,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 107,
+      "english": "M-Mimi...",
+      "_offset": 10581,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 108,
+      "english": "Ah, looks like we can go into this\nroom.",
+      "_offset": 10591,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 109,
+      "english": "Let's check out the dining room\nfirst!",
+      "_offset": 10632,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 110,
+      "english": "...They were all really hungry,\nweren't they?",
+      "_offset": 10671,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 111,
+      "english": "I can't open this door, it's huge.",
+      "_offset": 10717,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 112,
+      "english": "It's locked, huh? Let's go find\nthe key!",
+      "_offset": 10752,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 113,
+      "english": "What's this? It says \"deck key\".",
+      "_offset": 10793,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 114,
+      "english": "Maybe this opens that big door!",
+      "_offset": 10826,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 115,
+      "english": "Ready? I'll go in first, once we\nget the door open.",
+      "_offset": 10858,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 116,
+      "english": "I'll go in with you!",
+      "_offset": 10910,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 117,
+      "english": "Be careful, Sora!",
+      "_offset": 10931,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 118,
+      "english": "Mimi, it's dangerous!",
+      "_offset": 10949,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 119,
+      "english": "I'm not letting you face danger by\nyourself!",
+      "_offset": 10971,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 120,
+      "english": "Okay. We'll go in together!",
+      "_offset": 11016,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 121,
+      "english": "Okay!",
+      "_offset": 11044,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 122,
+      "english": "Thanks, Mimi! Okay, I'm going in!",
+      "_offset": 11050,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 123,
+      "english": "Okay!",
+      "_offset": 11084,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 124,
+      "english": "This is a bit too convenient. It\nreminds me of when we fell into\nDevimon's trap, in that mansion.",
+      "_offset": 11090,
+      "_length": 97,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 125,
+      "english": "You're overthinking it, aren't you?",
+      "_offset": 11188,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 126,
+      "english": "We gotta be careful around Numemon.",
+      "_offset": 11224,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 127,
+      "english": "Maybe. Maybe I'm just tired.",
+      "_offset": 11260,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 128,
+      "english": "You should get some rest!",
+      "_offset": 11289,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 129,
+      "english": "Yeah, that's a good idea. I'll\ntalk to the others about it, too.",
+      "_offset": 11315,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 130,
+      "english": "Okaaaaaaay!",
+      "_offset": 11380,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 131,
+      "english": "But you know, I'm starving...",
+      "_offset": 11392,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 132,
+      "english": "Mimi, you shouldn't have been so\nforward to those Numemon.",
+      "_offset": 11422,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 133,
+      "english": "But they let us on the ship.",
+      "_offset": 11481,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 134,
+      "english": "We're safe if we're together, Sora!",
+      "_offset": 11510,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 135,
+      "english": "They must be plotting something.\nIt's strange for Numemon to be\nliving in a luxury liner.",
+      "_offset": 11546,
+      "_length": 89,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 136,
+      "english": "Really?",
+      "_offset": 11636,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 137,
+      "english": "Yeah, let's stick together as best\nas we can.",
+      "_offset": 11644,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 138,
+      "english": "Thanks, Sora!",
+      "_offset": 11690,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 139,
+      "english": "I hope this isn't one of Etemon's\ntraps, but...",
+      "_offset": 11704,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 140,
+      "english": "If we don't figure out what Gennai\nmeant about raising them\nproperly...",
+      "_offset": 11752,
+      "_length": 71,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 141,
+      "english": "Are you thinking about something,\nKoushirou?",
+      "_offset": 11824,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 142,
+      "english": "Yes, I was just thinking about the\nfuture, since we don't know enough\nabout the Crests.",
+      "_offset": 11869,
+      "_length": 87,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 143,
+      "english": "We don't need those Crests.",
+      "_offset": 11957,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 144,
+      "english": "Just what I expected, Koushirou!",
+      "_offset": 11985,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 145,
+      "english": "No, we can't possibly fight\nwithout the Crests. We have to\nlearn to utilize them properly.",
+      "_offset": 12018,
+      "_length": 90,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 146,
+      "english": "But I don't want Palmon to end up\nevolving like Agumon!",
+      "_offset": 12109,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 147,
+      "english": "I see what you mean, but...",
+      "_offset": 12165,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 148,
+      "english": "No, Taichi's been working at this\nmuch harder than I have.",
+      "_offset": 12193,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 149,
+      "english": "Really? I think you've been\nspending a lot of time thinking\nabout this, Koushirou.",
+      "_offset": 12252,
+      "_length": 82,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 150,
+      "english": "You're embarrassing me...",
+      "_offset": 12335,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 151,
+      "english": "\"Raise properly\"...*muttering*",
+      "_offset": 12361,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 152,
+      "english": "You were amazing back there, Mimi!\nI heard what you said to the\nNumemon!",
+      "_offset": 12392,
+      "_length": 72,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 153,
+      "english": "You can't beat my natural charm!",
+      "_offset": 12465,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 154,
+      "english": "I doubt you could do it, Takeru.",
+      "_offset": 12498,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 155,
+      "english": "Seems like you're the Numemon\nprincess!",
+      "_offset": 12531,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 156,
+      "english": "Yuck. I don't want to be *that*\nkind of princess...",
+      "_offset": 12571,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 157,
+      "english": "Hmph! Even I could do that, if\nit's just a Numemon henchman!",
+      "_offset": 12623,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 158,
+      "english": "You're so cute when you get\nirritated!",
+      "_offset": 12684,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 159,
+      "english": "Awwww! You're mean, Mimi!",
+      "_offset": 12723,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 160,
+      "english": "There are a lot of different\nNumemon, huh.",
+      "_offset": 12749,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 161,
+      "english": "I wanna take a shower soon!",
+      "_offset": 12792,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 162,
+      "english": "I'll talk with everyone a bit more.",
+      "_offset": 12820,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    }
+  ]
+}

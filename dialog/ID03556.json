@@ -1,0 +1,926 @@
+{
+  "file_id": "ID03556",
+  "text_count": 115,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "��������All right, let's hurry to the\ngate!",
+      "_offset": 5773,
+      "_length": 43,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "Yeah!",
+      "_offset": 5817,
+      "_length": 5,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "Enlistment Conscription",
+      "_offset": 5823,
+      "_length": 23,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "...Can those Digimon even read\nthis?",
+      "_offset": 5847,
+      "_length": 36,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "Come on, Taichi! Lay out the\ncards!",
+      "_offset": 5884,
+      "_length": 35,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "Huh? Are you sure you want me to\ndo it?",
+      "_offset": 5920,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "I'll leave this to you, Taichi!",
+      "_offset": 5960,
+      "_length": 31,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "W-what's this all of a sudden?",
+      "_offset": 5992,
+      "_length": 30,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "I'm not just trying to shove all\nthe responsibility onto you. I\nreally believe in you!",
+      "_offset": 6023,
+      "_length": 86,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "Huuuuuuuuuh?!",
+      "_offset": 6110,
+      "_length": 13,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "Me, too! At a time like this, we\nshould be following the leader!",
+      "_offset": 6124,
+      "_length": 64,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "Hey, hey! When did I become the\nleader?",
+      "_offset": 6189,
+      "_length": 39,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "The group fell apart the moment\nyou disappeared!",
+      "_offset": 6229,
+      "_length": 48,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "And you're the one who brought us\nall together again!",
+      "_offset": 6278,
+      "_length": 53,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "Well, I don't care about that!",
+      "_offset": 6332,
+      "_length": 30,
+      "speaker_id": 8,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "Mimi...",
+      "_offset": 6363,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "Get me home! Do whatever you can!",
+      "_offset": 6371,
+      "_length": 33,
+      "speaker_id": 23,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "..that's what I'd have said back \nthen, but I'm not gonna say \nselfish things like that anymore!",
+      "_offset": 6405,
+      "_length": 96,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "You're right. If we don't change\nourselves, nothing else will\nchange.",
+      "_offset": 6502,
+      "_length": 69,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "I'll believe in my friends!",
+      "_offset": 6572,
+      "_length": 27,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "Guys...",
+      "_offset": 6600,
+      "_length": 7,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "Don't you agree, Takeru?",
+      "_offset": 6608,
+      "_length": 24,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "Yeah! We'll still be together even\nif we end up in the wrong world,\nright?",
+      "_offset": 6633,
+      "_length": 74,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "I'm not scared at all!",
+      "_offset": 6708,
+      "_length": 22,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "Yeah...",
+      "_offset": 6731,
+      "_length": 7,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "What about you, Koushirou?",
+      "_offset": 6739,
+      "_length": 26,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "Ah, yes. As always, I believe in\nTaichi.",
+      "_offset": 6766,
+      "_length": 40,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "Do it, Taichi!",
+      "_offset": 6807,
+      "_length": 14,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "...Okay.",
+      "_offset": 6822,
+      "_length": 8,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "Hm?! This is...",
+      "_offset": 6831,
+      "_length": 15,
+      "speaker_id": 18,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "What's wrong?",
+      "_offset": 6847,
+      "_length": 13,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "There's something written in the\narea where you put the cards.",
+      "_offset": 6861,
+      "_length": 62,
+      "speaker_id": 18,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "It must be a hint about what cards\nto choose!",
+      "_offset": 6924,
+      "_length": 45,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "They're the same characters we've \nseen elsewhere in this world. I'll \ntranslate them with my computer.",
+      "_offset": 6970,
+      "_length": 103,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "Okay, I'll leave it to you!",
+      "_offset": 7074,
+      "_length": 27,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "Here's the first sentence.",
+      "_offset": 7102,
+      "_length": 26,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "\"From the Virus-types, present a\nChild form.\"",
+      "_offset": 7129,
+      "_length": 45,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "A Child form from the\nVirus-types... um...",
+      "_offset": 7175,
+      "_length": 42,
+      "speaker_id": 18,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "It's Kuwagamon!",
+      "_offset": 7218,
+      "_length": 15,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "It's Gazimon!",
+      "_offset": 7234,
+      "_length": 13,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "It's TonosamaGekomon!",
+      "_offset": 7248,
+      "_length": 21,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "Next one, Koushirou.",
+      "_offset": 7270,
+      "_length": 20,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "Yes. Here's the second hint.",
+      "_offset": 7291,
+      "_length": 28,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "\"From the Data-types, present an\nAdult form.\"",
+      "_offset": 7320,
+      "_length": 45,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "An Adult form from the Data-types,\nthat's...",
+      "_offset": 7366,
+      "_length": 44,
+      "speaker_id": 18,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "It's Unimon!",
+      "_offset": 7411,
+      "_length": 12,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "It's Digitamamon!",
+      "_offset": 7424,
+      "_length": 17,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "It's Drimogemon!",
+      "_offset": 7442,
+      "_length": 16,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "That brings us to the third\nsentence.",
+      "_offset": 7459,
+      "_length": 37,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "\"From the Vaccine-types, present a\nPerfect form.\"",
+      "_offset": 7497,
+      "_length": 49,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "A Perfect form from the\nVaccine-types, that's...",
+      "_offset": 7547,
+      "_length": 48,
+      "speaker_id": 18,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "It's Unimon!",
+      "_offset": 7596,
+      "_length": 12,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "It's Digitamamon!",
+      "_offset": 7609,
+      "_length": 17,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "It's Andromon!",
+      "_offset": 7627,
+      "_length": 14,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "Got it! Koushirou, the last hint.",
+      "_offset": 7642,
+      "_length": 33,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "It's still translating. Just a\nlittle longer...",
+      "_offset": 7676,
+      "_length": 47,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "I won't let you do that!",
+      "_offset": 7724,
+      "_length": 24,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "What's that?",
+      "_offset": 7752,
+      "_length": 12,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "I won't let you intrude in Lord\nVamdemon's castle!",
+      "_offset": 7765,
+      "_length": 50,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "Aaaaaaaaaaaah!",
+      "_offset": 7816,
+      "_length": 14,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "Taichi, we can't do anything else\nhere!",
+      "_offset": 7831,
+      "_length": 39,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "Wh...what?!",
+      "_offset": 7871,
+      "_length": 11,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "This is bad! The castle's\nbeginning to fall apart!",
+      "_offset": 7883,
+      "_length": 50,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "Taichi, we're out of time! Hurry!",
+      "_offset": 7934,
+      "_length": 33,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "Ah, okay!",
+      "_offset": 7968,
+      "_length": 9,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "Taichi, can I have a moment?",
+      "_offset": 7978,
+      "_length": 28,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "What's wrong, Koushirou? At a time\nlike this...",
+      "_offset": 8007,
+      "_length": 47,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "You made a mistake in the cards\nyou chose, so I went ahead and\ncorrected it.",
+      "_offset": 8055,
+      "_length": 76,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "Gh! Thank you...",
+      "_offset": 8132,
+      "_length": 16,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "...Translation complete!",
+      "_offset": 8149,
+      "_length": 24,
+      "speaker_id": 23,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "\"From the Vaccine-types, present a\nChild form.\"",
+      "_offset": 8174,
+      "_length": 47,
+      "speaker_id": 24,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "A Child form from the\nVaccine-types! That's...",
+      "_offset": 8222,
+      "_length": 46,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "What's wrong...",
+      "_offset": 8269,
+      "_length": 15,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "There are two cards that work!\nAgumon and Gomamon...",
+      "_offset": 8285,
+      "_length": 52,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "N-no way...",
+      "_offset": 8338,
+      "_length": 11,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "What do we do? Taichi?",
+      "_offset": 8350,
+      "_length": 22,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "Agumon",
+      "_offset": 8377,
+      "_length": 6,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "Gomamon",
+      "_offset": 8384,
+      "_length": 7,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "I can't choose...",
+      "_offset": 8392,
+      "_length": 17,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "All right! I've decided!",
+      "_offset": 8410,
+      "_length": 24,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "It's the Agumon card! Open the\ndoor!",
+      "_offset": 8435,
+      "_length": 36,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "All right! I've decided!",
+      "_offset": 8472,
+      "_length": 24,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "It's this one! Open the door,\nGomamon!",
+      "_offset": 8497,
+      "_length": 38,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "It's no good, I can't choose!",
+      "_offset": 8536,
+      "_length": 29,
+      "speaker_id": 18,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "I'll do it!",
+      "_offset": 8566,
+      "_length": 11,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "It's this one! Open the door,\nGomamon!",
+      "_offset": 8578,
+      "_length": 38,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "Please!",
+      "_offset": 8617,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "Open!",
+      "_offset": 8625,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "It's opening...",
+      "_offset": 8631,
+      "_length": 15,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "We did it!",
+      "_offset": 8647,
+      "_length": 10,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "Ah..!",
+      "_offset": 8658,
+      "_length": 5,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "What's wrong, Taichi?",
+      "_offset": 8664,
+      "_length": 21,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "I put down the wrong card! I\naccidentally put in the Gomamon\ncard!",
+      "_offset": 8686,
+      "_length": 66,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "Well, the result turned out fine.",
+      "_offset": 8753,
+      "_length": 33,
+      "speaker_id": 7,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "We'll keep this a secret.",
+      "_offset": 8787,
+      "_length": 25,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "Y-yes...",
+      "_offset": 8813,
+      "_length": 8,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "Come on, everyone! Go through the\ndoor!",
+      "_offset": 8822,
+      "_length": 39,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "Let's go, guys!",
+      "_offset": 8862,
+      "_length": 15,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 98,
+      "english": "Huh? W-we're in...",
+      "_offset": 8881,
+      "_length": 18,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 99,
+      "english": "Japan...?",
+      "_offset": 8900,
+      "_length": 9,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 100,
+      "english": "The shrine! The campgrounds! We're\nback!",
+      "_offset": 8910,
+      "_length": 40,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 101,
+      "english": "Yaaaaaaaaaaaay!",
+      "_offset": 8951,
+      "_length": 15,
+      "speaker_id": 2,
+      "translation": ""
+    },
+    {
+      "index": 102,
+      "english": "But...what about the Digimon?",
+      "_offset": 8967,
+      "_length": 29,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 103,
+      "english": "Soraaaaaaaaa!",
+      "_offset": 8997,
+      "_length": 13,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 104,
+      "english": "Welcome back!",
+      "_offset": 9014,
+      "_length": 13,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 105,
+      "english": "Welcome back!",
+      "_offset": 9028,
+      "_length": 13,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 106,
+      "english": "Welcome back!",
+      "_offset": 9042,
+      "_length": 13,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 107,
+      "english": "We're back!",
+      "_offset": 9056,
+      "_length": 11,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 108,
+      "english": "Hey, Vamdemon's probably already\ngotten to work by now.",
+      "_offset": 9068,
+      "_length": 55,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 109,
+      "english": "Yeah, at Hikarigaoka! The eighth\nchild must be there!",
+      "_offset": 9124,
+      "_length": 53,
+      "speaker_id": 21,
+      "translation": ""
+    },
+    {
+      "index": 110,
+      "english": "We have to find them before he\ndoes and help them!",
+      "_offset": 9178,
+      "_length": 50,
+      "speaker_id": 6,
+      "translation": ""
+    },
+    {
+      "index": 111,
+      "english": "We have to find them before he\ndoes and help them!",
+      "_offset": 9229,
+      "_length": 50,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 112,
+      "english": "We have to find them before he\ndoes and help them!",
+      "_offset": 9280,
+      "_length": 50,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 113,
+      "english": "Yeah!",
+      "_offset": 9331,
+      "_length": 5,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 114,
+      "english": "Oh, Taichi! I found this while we\nwere going through the gate.",
+      "_offset": 9337,
+      "_length": 62,
+      "speaker_id": 255,
+      "translation": ""
+    }
+  ]
+}

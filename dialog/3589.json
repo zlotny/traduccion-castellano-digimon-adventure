@@ -1,0 +1,862 @@
+{
+  "file_id": "3589",
+  "text_count": 107,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "Taichi! What happened? WarGreymon\nstopped moving!",
+      "_offset": 6511,
+      "_length": 49,
+      "speaker_id": 255,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "Huh? What?",
+      "_offset": 6561,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "Sorry about that...",
+      "_offset": 6572,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "Koushirou, the computer's not\nworking.",
+      "_offset": 6592,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "What happened?!",
+      "_offset": 6631,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "I didn't do anything? Why'd you\nhave to go to the bathroom at the\nmost important time?",
+      "_offset": 6647,
+      "_length": 86,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "It's not working... What did you\ndo? Why did you make it freeze?",
+      "_offset": 6734,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "It wasn't on purpose!",
+      "_offset": 6799,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "See, this is why you get into\nfights with Sora!",
+      "_offset": 6821,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "I... I didn't... I just wanted to\nget her a present...",
+      "_offset": 6869,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "A present?",
+      "_offset": 6924,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "Her birthday was coming up, so I\ngot her a hairpin, but...",
+      "_offset": 6935,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "She started saying stuff like \"Oh,\nso you don't think this hat looks\ngood on me?\"...",
+      "_offset": 6994,
+      "_length": 84,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "So that was it?",
+      "_offset": 7079,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "But I apologized, you know!",
+      "_offset": 7095,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "It's back!",
+      "_offset": 7123,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "Aaaaaah... WarGreymon!",
+      "_offset": 7134,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "Taichi! Koushirou! You idiots!\nWhat were you up to?",
+      "_offset": 7157,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "WarGreymon! WarGreymon!\nWarGreymooooooon!",
+      "_offset": 7209,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "T-Taichi...",
+      "_offset": 7251,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "If I could be there... If I could\nbe right next to you...",
+      "_offset": 7263,
+      "_length": 57,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "\"You lost again?\"",
+      "_offset": 7321,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "What?!",
+      "_offset": 7339,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "That was from Canberra...",
+      "_offset": 7346,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "\"You were almost there, too. What\nthe heck?\"",
+      "_offset": 7372,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "This one's from Berlin...",
+      "_offset": 7417,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "Put a lid on it!",
+      "_offset": 7443,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "I'm just reading all the emails!",
+      "_offset": 7460,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "Why, you, Koushirou...!",
+      "_offset": 7493,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "Hey, stop it! Right now's not the\ntime to be fighting!",
+      "_offset": 7517,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "Hmph! Stupid emails...",
+      "_offset": 7572,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "We've received another email from\nDiablomon!",
+      "_offset": 7595,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "\"WHO'S GOT THE CLOCK?\" ...That's\nall it says.",
+      "_offset": 7640,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "The clock?",
+      "_offset": 7686,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "It's copying itself!",
+      "_offset": 7697,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "What's that number?",
+      "_offset": 7718,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "What are we going to do?!",
+      "_offset": 7738,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "Huh?",
+      "_offset": 7764,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "I received an email from a\nTaiwanese middle school student...",
+      "_offset": 7769,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "Thirty minutes ago, an American\nmilitary base fired a missile.",
+      "_offset": 7831,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "What?!",
+      "_offset": 7894,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "They said it's a bug in the launch\ncontrol computer, but...I'm sure\nit's because of this!",
+      "_offset": 7901,
+      "_length": 89,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "So then, this number would be...",
+      "_offset": 7991,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "Probably when the missile will hit\nits destination...",
+      "_offset": 8024,
+      "_length": 53,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "No way...",
+      "_offset": 8078,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "Only one missile was fired. Its\nname is Peace Keeper.",
+      "_offset": 8088,
+      "_length": 53,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "But nobody knows where it's\nheaded, so it could be going\nanywhere...",
+      "_offset": 8142,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "And in nine minutes, it's going to\nexplode somewhere in the world...",
+      "_offset": 8211,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "How are we going to defeat all of\nthem?",
+      "_offset": 8280,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "Nuclear missiles don't explode if\nthe fuse in them fails to\nactivate...",
+      "_offset": 8320,
+      "_length": 71,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "If it's trying to play a game with\nus, only one of them will have the\nclock.",
+      "_offset": 8392,
+      "_length": 76,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "And if we defeat that one, then we\ncan stop it...",
+      "_offset": 8469,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "How are we gonna find that one,\nthen?",
+      "_offset": 8519,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "We'll just have to take them out,\none at a time...",
+      "_offset": 8557,
+      "_length": 50,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "That's gonna take way too long!",
+      "_offset": 8608,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "But there's no other way...",
+      "_offset": 8640,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "Taichi... Taichi... Taichi!",
+      "_offset": 8668,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "Ah!",
+      "_offset": 8696,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "Taichi! Get yourself together,\nTaichi! Leave it to me...",
+      "_offset": 8700,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "WarGreymon...",
+      "_offset": 8757,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "Do you know where it is?",
+      "_offset": 8771,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "MetalGarurumon...",
+      "_offset": 8796,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "I'll send you the address now!",
+      "_offset": 8814,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "Please!",
+      "_offset": 8845,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "Yeah... It's our only choice...\nI'm sorry...",
+      "_offset": 8853,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "No, don't...",
+      "_offset": 8898,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "We're getting so many emails...",
+      "_offset": 8911,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "\"You can do it, WarGreymon!\"\nThat's from Costa Rica...",
+      "_offset": 8943,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "From the Philippines, \"You gotta\nwin, MetalGarurumon!\"",
+      "_offset": 8998,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "They're coming in like a flood.",
+      "_offset": 9053,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "We can't give up... until the\nend...",
+      "_offset": 9085,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "There's no way we can give up...",
+      "_offset": 9122,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "How many of them are there?!",
+      "_offset": 9155,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "Eight thousand... no, sixteen\nthousand... It keeps copying\nitself!",
+      "_offset": 9184,
+      "_length": 66,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "Aaaaaah!",
+      "_offset": 9251,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "WarGreymon...",
+      "_offset": 9260,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "Something's wrong with the way\nWarGreymon and MetalGarurumon are\nmoving!",
+      "_offset": 9274,
+      "_length": 72,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "It's because of all the emails\ncoming from all over the world!",
+      "_offset": 9347,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "The sheer amount of emails is\ntaking up processing speed!",
+      "_offset": 9410,
+      "_length": 57,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "To everyone around the world,\nWarGreymon and MetalGarurumon's\nresponse time is too low!",
+      "_offset": 9468,
+      "_length": 87,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "Please! Stop sending us emails!",
+      "_offset": 9556,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "Ah...",
+      "_offset": 9588,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "WarGreymon...",
+      "_offset": 9594,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "Do you want more tea, Koushirou?",
+      "_offset": 9608,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "Ah, sorry. I'll leave you alone...",
+      "_offset": 9641,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "It's no use. The emails keep\ncoming in. We only have five\nminutes left, what are we to do?",
+      "_offset": 9676,
+      "_length": 90,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "WarGreymon...",
+      "_offset": 9767,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "MetalGarurumon... It's me,\nYamato... Open your eyes...",
+      "_offset": 9781,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "I'm here! I'm here, too!",
+      "_offset": 9836,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "I want to fight with you... I\nwon't let you fight alone...I'm\nhere...",
+      "_offset": 9861,
+      "_length": 69,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "MetalGarurumon... let's fight\ntogether!",
+      "_offset": 9931,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "WarGreymon and...",
+      "_offset": 9971,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "MetalGarurumon...",
+      "_offset": 9989,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "Combined...",
+      "_offset": 10007,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "There! There's the last one! That\none has the clock!",
+      "_offset": 10019,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "Yamato! Hurry up and find it! We\ndon't have time! Hurry!",
+      "_offset": 10072,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "It's too fast...",
+      "_offset": 10129,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "And it still outclasses us in\npower and response time...",
+      "_offset": 10146,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 98,
+      "english": "What should I do...",
+      "_offset": 10203,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 99,
+      "english": "Thirty seconds!",
+      "_offset": 10223,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 100,
+      "english": "That's it... redirection!",
+      "_offset": 10239,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 101,
+      "english": "If I redirect all of these emails\nto its address...",
+      "_offset": 10265,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 102,
+      "english": "Go!",
+      "_offset": 10317,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 103,
+      "english": "Ten seconds! Nine... eight...\nseven... six... five... four...\nthree... two... one...",
+      "_offset": 10321,
+      "_length": 84,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 104,
+      "english": "Ah! A response?",
+      "_offset": 10406,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 105,
+      "english": "\"Dear Sora, it was my fault, so\ndon't be angry anymore...\"",
+      "_offset": 10422,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 106,
+      "english": "\"Taichi Yagami\"...? Oh, what an\nidiot!",
+      "_offset": 10481,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    }
+  ]
+}

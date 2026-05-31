@@ -1,0 +1,894 @@
+{
+  "file_id": "3555",
+  "text_count": 111,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "����All right then, let's go to\nGennai's place!",
+      "_offset": 799,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "Wait a second, what's this?!",
+      "_offset": 847,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "Does he live in the middle of the\nlake?",
+      "_offset": 876,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "So that's why I couldn't find it,\neven after searching the mountain\nfor two months.",
+      "_offset": 916,
+      "_length": 83,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "No waaaaay!",
+      "_offset": 1000,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "Does that mean we're supposed to\ngo down there?",
+      "_offset": 1012,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "Okay, we'll try it!",
+      "_offset": 1060,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "Ah! Is that it?",
+      "_offset": 1080,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "I think so.",
+      "_offset": 1096,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "Pardon us! We're heading in!",
+      "_offset": 1108,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "Thank you for coming, children.",
+      "_offset": 1137,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "Is it the real one this time?",
+      "_offset": 1169,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "Yes.",
+      "_offset": 1199,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "Hey, old man! We've got something\nto ask you!",
+      "_offset": 1204,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "What is it?",
+      "_offset": 1250,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "Why didn't you leave this place\nand meet us in person earlier?",
+      "_offset": 1262,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "I'm a stay-at-home kind of guy and\nI don't have much free time. Here,\nthis way.",
+      "_offset": 1325,
+      "_length": 79,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "This is Vamdemon's location on\nEarth. He's around this spot.",
+      "_offset": 1405,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "Ah!",
+      "_offset": 1466,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "Ah!",
+      "_offset": 1470,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "What's wrong?",
+      "_offset": 1474,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "It's nothing, no big deal. You?",
+      "_offset": 1488,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "It's nothing to worry about, it's\njust...that's Hikarigaoka.",
+      "_offset": 1520,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "Hikarigaoka?!",
+      "_offset": 1581,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "I will now explain how to open the\ngate.",
+      "_offset": 1599,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "Okay. We're counting on you.",
+      "_offset": 1640,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "Okay. We're counting on you.",
+      "_offset": 1669,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "Got it. So we just have to put\nthese cards on the slate in front\nof the gate.",
+      "_offset": 1698,
+      "_length": 77,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "If you make a mistake, you may end\nup in another world, or fail to\ncome out in one piece.",
+      "_offset": 1776,
+      "_length": 89,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "So pay attention to the card\nplacement!",
+      "_offset": 1866,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "Got it.",
+      "_offset": 1906,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "Be sure to get a good night's\nsleep tonight.",
+      "_offset": 1914,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "Are you ready?",
+      "_offset": 1959,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "Yes!",
+      "_offset": 1974,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "Chosen Children, you're dealing\nwith a difficult situation here. \nBelieve in your own abilities.",
+      "_offset": 1979,
+      "_length": 96,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "Yes!",
+      "_offset": 2076,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "Hey, Koushirou, what did you do\nwhile we were separated?",
+      "_offset": 2081,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "I was searching for Gennai.",
+      "_offset": 2138,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "A story that'll wrench the heart\nout no matter what!",
+      "_offset": 2166,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "But Taichi was gone for two\nmonths...",
+      "_offset": 2219,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "You're right, it was around two\nmonths.",
+      "_offset": 2257,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "Yup.",
+      "_offset": 2297,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "You were looking for Gennai for\ntwo months?",
+      "_offset": 2302,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "(Talk about why I kept searching.)",
+      "_offset": 2346,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "(Talk about how I got frustrated.)",
+      "_offset": 2381,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "I'm thankful that Tentomon\naccompanied me all this time.",
+      "_offset": 2416,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "Yep! You and Tentomon are really\ngood friends!",
+      "_offset": 2473,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "Just like you and Patamon, Takeru.",
+      "_offset": 2520,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "Yeah! We're totally inseparable!",
+      "_offset": 2555,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "There were times when we wanted to\ngive up.",
+      "_offset": 2588,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "Really? That must have been quite\na journey.",
+      "_offset": 2632,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "At one point, I gave into my\nweaknesses...",
+      "_offset": 2677,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "So Gennai lives in this sort of\nplace.",
+      "_offset": 2720,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "I'm surprised as well. I didn't\nthink he would live somewhere like\nthis.",
+      "_offset": 2759,
+      "_length": 72,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "What on earth *is* that old guy\nsupposed to be, anyway?",
+      "_offset": 2832,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "A human?",
+      "_offset": 2888,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "A non-human existence?",
+      "_offset": 2897,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "A human who can't get back home,\nlike us?",
+      "_offset": 2920,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "But he's using a lot of amazing\ntechnology that we don't have.",
+      "_offset": 2962,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "I don't think he's just an\nordinary human.",
+      "_offset": 3025,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "You're probably right...",
+      "_offset": 3068,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "Maybe he's like the god of this\nworld?",
+      "_offset": 3093,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "I think so, too.",
+      "_offset": 3132,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "Every time we hit a roadblock,\nhe pops in with suspiciously\nconvenient timing.",
+      "_offset": 3149,
+      "_length": 78,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "Sora, Taichi was looking for you.",
+      "_offset": 3228,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "Really? What did he want?",
+      "_offset": 3262,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "It seemed like he needed help.",
+      "_offset": 3288,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "He was unusually excited...",
+      "_offset": 3319,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "I think it was something about a\nbutton falling off and needing it\nre-sewn on.",
+      "_offset": 3347,
+      "_length": 78,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "Did it rip off again? He's always\nso reckless.",
+      "_offset": 3426,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "Thanks for telling me, Koushirou!",
+      "_offset": 3473,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "Oh, it's no problem.",
+      "_offset": 3507,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "Seems like he's plotting something\nsneaky.",
+      "_offset": 3528,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "Huh?!",
+      "_offset": 3571,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "As if he'd found a huge bug.",
+      "_offset": 3577,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "Ugh, Taichi!",
+      "_offset": 3606,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "Thanks for letting me know,\nKoushirou!",
+      "_offset": 3619,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "Oh, it's no problem.",
+      "_offset": 3658,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "It seems you went through a lot of\nhard work, Jou. Yamato told me all\nabout it.",
+      "_offset": 3679,
+      "_length": 79,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "It really was. While everyone was\ngone, I felt like I'd been working\nin that restaurant forever.",
+      "_offset": 3759,
+      "_length": 96,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "But Jou, I feel like you've\nchanged a little.",
+      "_offset": 3856,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "Really? In what way?",
+      "_offset": 3902,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "In appearance",
+      "_offset": 3923,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "In attitude",
+      "_offset": 3937,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "I feel like you've gotten a little\ntaller.",
+      "_offset": 3949,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "Really? I don't think I've grown\nthat much.",
+      "_offset": 3992,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "I think you did, but...",
+      "_offset": 4036,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "So I didn't change that much after\nall...",
+      "_offset": 4060,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "Cheer up, Jou!",
+      "_offset": 4102,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "Your eyes are shining with\nconfidence.",
+      "_offset": 4117,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "Honestly, when I was alone, I\ndecided to stop relying on others.",
+      "_offset": 4156,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "I was able to re-examine myself\nwhen I traveled alone, as well.",
+      "_offset": 4221,
+      "_length": 63,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "So it turned out for the better,\nright?",
+      "_offset": 4285,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "It did!",
+      "_offset": 4325,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "We shouldn't keep Gennai waiting\ntoo long.",
+      "_offset": 4333,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "Let's hurry and meet Gennai.",
+      "_offset": 4376,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "Talk with everyone for a bit longer.",
+      "_offset": 4405,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "A lot of stuff happened to\neveryone while we were separated,\nhuh.",
+      "_offset": 4442,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 98,
+      "english": "A lot of stuff happened to us,\ntoo!",
+      "_offset": 4508,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 99,
+      "english": "Yup!",
+      "_offset": 4544,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 100,
+      "english": "If it's all right with you,\nTakeru, I'd like to hear your\nstory as well.",
+      "_offset": 4549,
+      "_length": 72,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 101,
+      "english": "Even after all this, Taichi's\nstill Taichi.",
+      "_offset": 4622,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 102,
+      "english": "You seem pleased about that, Sora.",
+      "_offset": 4666,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 103,
+      "english": "If Gennai turns out to be human,\nwould he be Japanese?",
+      "_offset": 4701,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 104,
+      "english": "I don't know. There's a high\nprobability he's Japanese, but he\ncould also be a foreigner.",
+      "_offset": 4756,
+      "_length": 89,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 105,
+      "english": "I've met a surprising number of\nthose on the Internet.",
+      "_offset": 4846,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 106,
+      "english": "Speaking of which, this garden\nlooks pretty suspicious.",
+      "_offset": 4901,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 107,
+      "english": "Thinking about it again, every\ntime we went somewhere new...",
+      "_offset": 4957,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 108,
+      "english": "I was always saying stuff like\n\"There's got to be some humans\nhere!\"",
+      "_offset": 5018,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 109,
+      "english": "Now that I think about it, you're\nright.",
+      "_offset": 5087,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 110,
+      "english": "At least I've gotten pretty used\nto this world.",
+      "_offset": 5128,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    }
+  ]
+}

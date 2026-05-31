@@ -1,0 +1,934 @@
+{
+  "file_id": "3619",
+  "text_count": 116,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "��������I wonder how long it's been since\nwe got here. I really don't\nknow...",
+      "_offset": 2027,
+      "_length": 77,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "But now, I'm starving...",
+      "_offset": 2105,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "But there's something weird about\nthe flow of time here.",
+      "_offset": 2130,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "But where does this place even go?",
+      "_offset": 2187,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "The next time I see that black\nshadow, I'm beatin' it to a pulp!",
+      "_offset": 2222,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "If you're gonna be like that, let\nus fight with you!",
+      "_offset": 2287,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "I don't wanna fight with weak\npeople!",
+      "_offset": 2340,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "I don't know what to say to\nthat...",
+      "_offset": 2378,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "Hey! You over there!",
+      "_offset": 2414,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "Aaah! Another human?",
+      "_offset": 2435,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "Hey, Boss! Look at him! He looks\njust like me, from head to toe!",
+      "_offset": 2456,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "Huh? Another Agumon?",
+      "_offset": 2521,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "Whaddya think you're doin',\nthrowin' a fake Agumon at us?!",
+      "_offset": 2542,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "Could it be... they're the true\nidentity of that black shadow?!",
+      "_offset": 2601,
+      "_length": 63,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "...And now they're saying all this\nweird stuff.",
+      "_offset": 2665,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "Hah! Nice job making it to me! If \nyou're a man, come fight me fair \nand square, with your fists!",
+      "_offset": 2713,
+      "_length": 97,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "Let's have at it, fake Agumon!",
+      "_offset": 2811,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "Aaaaaaaagh!",
+      "_offset": 2842,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "Wait! Hold it!",
+      "_offset": 2854,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "Don't interrupt a fight between\nmen!",
+      "_offset": 2869,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "Why are *we* suddenly the bad\nguys? We're trapped in here, you\nknow!",
+      "_offset": 2906,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "Can't you see? We were trapped in\nhere by the black shadow!",
+      "_offset": 2975,
+      "_length": 59,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "Hey, Boss...",
+      "_offset": 3038,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "W-Well, we were trapped here by\nthe black shadow, but...",
+      "_offset": 3051,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "So were we!",
+      "_offset": 3108,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "Well, looks like we've made a\nmistake.",
+      "_offset": 3128,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "Sorry...",
+      "_offset": 3167,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "So there are humans who like\nfighting, too...",
+      "_offset": 3176,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "Ahahah! How disgraceful of me!",
+      "_offset": 3222,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "I'm Taichi Yagami, and this is\nHackmon!",
+      "_offset": 3253,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "I'm Masaru Daimon, the number one\nstreet fighter in Japan!",
+      "_offset": 3293,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "A street fighter? Taichi, what's\nthat?",
+      "_offset": 3352,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "Uh... Someone who dedicates\nhimself to fighting day and night,\nI guess?",
+      "_offset": 3391,
+      "_length": 71,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "So someone who's enthusiastic\nabout training! I'm Hackmon! Nice\nto meet you!",
+      "_offset": 3463,
+      "_length": 76,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "I'm...",
+      "_offset": 3540,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "...Agumon, of course! Nice to meet\nyou!",
+      "_offset": 3547,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "We've spent too much time here.\nWe're looking for the enemy, so\nlet's talk on our way there.",
+      "_offset": 3587,
+      "_length": 92,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "Yeah, my fists are itching for\nsomething to punch, anyway!",
+      "_offset": 3680,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "Let's go, Boss!",
+      "_offset": 3739,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "Hey, wait!",
+      "_offset": 3755,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "Looks like they're having a lot of\nfun with their training!",
+      "_offset": 3766,
+      "_length": 59,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "Yeah...",
+      "_offset": 3826,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "Hey, Boss! I got a whiff of the\nenemy over there!",
+      "_offset": 3834,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "All right, wait for me! I'm\ncoming!",
+      "_offset": 3884,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "H-Hey, wait!",
+      "_offset": 3920,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "What's wrong, Taichi?",
+      "_offset": 3933,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "You can't just charge in like\nthat, it's dangerous!",
+      "_offset": 3955,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "Yeah, but if I'm not goin' in with\na BANG, it ain't my style.",
+      "_offset": 4007,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "Aw... He got away, Boss.",
+      "_offset": 4069,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "What!? Aaaargh...",
+      "_offset": 4094,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "That's not good...",
+      "_offset": 4112,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "Hey, why are you always calling\nMasaru \"Boss\"?",
+      "_offset": 4131,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "That's 'cause Agumon's my\nfollower!",
+      "_offset": 4178,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "Follower?",
+      "_offset": 4214,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "When I first met Boss, we\ncommunicated with our fists!",
+      "_offset": 4224,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "You *fought* with your Digimon\nduring your first meeting?!",
+      "_offset": 4279,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "Yeah, yeah! Agumon throws a real\ngood punch!",
+      "_offset": 4338,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "Boss's punch can make you go all\ndizzy!",
+      "_offset": 4383,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "Hahaha!",
+      "_offset": 4423,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "Hahaha!",
+      "_offset": 4431,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "Those two are... quite\nsomething...",
+      "_offset": 4439,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "Now *that's* a fake if I've ever\nseen one!",
+      "_offset": 4482,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "Yeah, let's go, Boss!",
+      "_offset": 4525,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "You can do it, guys! Get him!",
+      "_offset": 4547,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "We're going in too, Agumon!",
+      "_offset": 4577,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "Yeah!",
+      "_offset": 4605,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "How's that? Didja see what I can\ndo? You're not bad yourself,\nTaichi!",
+      "_offset": 4611,
+      "_length": 69,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "Thanks! Great job there.",
+      "_offset": 4681,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "Well, now we can keep going!",
+      "_offset": 4706,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "What's wrong, Hackmon?",
+      "_offset": 4740,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "Someone's watching us...",
+      "_offset": 4763,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "From where?",
+      "_offset": 4788,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "Hey, that's...",
+      "_offset": 4807,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "The true form of the guy who\nbrought us here!",
+      "_offset": 4822,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "He looks real intimidating\njust standing there!",
+      "_offset": 4868,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "Is that an Ultimate-level Digimon?!",
+      "_offset": 4916,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "...There you are, Gankuumon!",
+      "_offset": 4952,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "Gankuumon?!",
+      "_offset": 4981,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "Aaaaaaargh!",
+      "_offset": 4993,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "Stop it, Hackmon!",
+      "_offset": 5005,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "...You're too inexperienced!",
+      "_offset": 5023,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "Aaaaaaaaaagh!",
+      "_offset": 5052,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "Hackmon!",
+      "_offset": 5066,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "Are you okay, Hackmon?!",
+      "_offset": 5075,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "I can... still... take him...",
+      "_offset": 5099,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "Look what you did to Hackmon!",
+      "_offset": 5129,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "I can't forgive you for that!",
+      "_offset": 5159,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "Your job is done.",
+      "_offset": 5189,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "What?!",
+      "_offset": 5207,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "What'd you bring us for?",
+      "_offset": 5214,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "I have no intention of explaining,\nfor we have little time.",
+      "_offset": 5239,
+      "_length": 59,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "Wait!",
+      "_offset": 5299,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "He's gone...",
+      "_offset": 5305,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "Hey, Hackmon! Keep it together!",
+      "_offset": 5318,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "How's he doing?",
+      "_offset": 5350,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "He got hit real hard and he can't\ntalk, but he'll be okay!",
+      "_offset": 5366,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "That's good...",
+      "_offset": 5425,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "Hey, Hackmon, why'd you try to\nfight him all by yourself?",
+      "_offset": 5440,
+      "_length": 57,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 98,
+      "english": "You said his name was Gankuumon,\nright?",
+      "_offset": 5502,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 99,
+      "english": "How do you know him, anyway?",
+      "_offset": 5542,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 100,
+      "english": "Well, we'll figure it out once he\nrecovers.",
+      "_offset": 5571,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 101,
+      "english": "Anyway, this guy's got a lot of\nguts.",
+      "_offset": 5615,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 102,
+      "english": "Yeah! It takes a lot to try and\nfight someone that strong.",
+      "_offset": 5653,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 103,
+      "english": "I'm leaving Hackmon in your hands,\nTaichi.",
+      "_offset": 5712,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 104,
+      "english": "So then what are *you* gonna do?",
+      "_offset": 5755,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 105,
+      "english": "I'm chasin' after Gankuumon! I\ncan't rest until I've gotten to\nhim and taken him out in one shot!",
+      "_offset": 5788,
+      "_length": 97,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 106,
+      "english": "Me too, me too!",
+      "_offset": 5886,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 107,
+      "english": "Really now...",
+      "_offset": 5902,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 108,
+      "english": "Well, we're not gonna turn back\njust because that guy wants us to.",
+      "_offset": 5916,
+      "_length": 66,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 109,
+      "english": "Let's go, Taichi!",
+      "_offset": 5983,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 110,
+      "english": "Well, I guess we're parting ways\nhere.",
+      "_offset": 6001,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 111,
+      "english": "Listen up! The fight's not over\nuntil you say you've lost! Got it?",
+      "_offset": 6040,
+      "_length": 66,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 112,
+      "english": "Yeah! We won't give up!",
+      "_offset": 6107,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 113,
+      "english": "【Area 1】",
+      "_offset": 6131,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 114,
+      "english": "【Area 2】",
+      "_offset": 6154,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 115,
+      "english": "【Area 3】",
+      "_offset": 6177,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    }
+  ]
+}

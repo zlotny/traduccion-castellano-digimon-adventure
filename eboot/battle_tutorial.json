@@ -1,0 +1,1315 @@
+{
+  "source": "EBOOT.BIN/battle_tutorial",
+  "strings": [
+    {
+      "text": "The character will move in the",
+      "translation": "",
+      "_length": 30
+    },
+    {
+      "text": "direction of  the analog stick.",
+      "translation": "",
+      "_length": 31
+    },
+    {
+      "text": "~ button while you point",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": "the analog stick to run.",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": " when next to a person   ",
+      "translation": "",
+      "_length": 25
+    },
+    {
+      "text": "or an item to talk or examine.",
+      "translation": "",
+      "_length": 30
+    },
+    {
+      "text": "You can have up to three Digimon",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "in your party during battle.",
+      "translation": "",
+      "_length": 28
+    },
+    {
+      "text": "Normal Attack: Use the left or right arrow keys",
+      "translation": "",
+      "_length": 47
+    },
+    {
+      "text": "to select if there is more than one enemy.",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "Skill: Use SP to perform a powerful skill.",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "The effects and SP cost depend on the skill.",
+      "translation": "",
+      "_length": 44
+    },
+    {
+      "text": "Guard: Weakens damage sustained from",
+      "translation": "",
+      "_length": 36
+    },
+    {
+      "text": "enemies. This will last until the next turn.",
+      "translation": "",
+      "_length": 44
+    },
+    {
+      "text": "Item: Uses an item on hand. Items have",
+      "translation": "",
+      "_length": 38
+    },
+    {
+      "text": "various effects such as support and healing.",
+      "translation": "",
+      "_length": 44
+    },
+    {
+      "text": "Run: Allows you to run from battle.",
+      "translation": "",
+      "_length": 35
+    },
+    {
+      "text": "However, you may end up taking attacks.",
+      "translation": "",
+      "_length": 39
+    },
+    {
+      "text": "Strategy: Allows you to change the",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "strategy of your ally Digimon.",
+      "translation": "",
+      "_length": 30
+    },
+    {
+      "text": "The Timeline will be in the",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "lower area during battle.",
+      "translation": "",
+      "_length": 25
+    },
+    {
+      "text": "The Timeline indicates all of the Digimon",
+      "translation": "",
+      "_length": 41
+    },
+    {
+      "text": "who are participating in the battle.",
+      "translation": "",
+      "_length": 36
+    },
+    {
+      "text": "The icons move to the left, and a Digimon",
+      "translation": "",
+      "_length": 41
+    },
+    {
+      "text": "will act when their icon hits the edge.",
+      "translation": "",
+      "_length": 39
+    },
+    {
+      "text": "When a Digimon has acted,",
+      "translation": "",
+      "_length": 25
+    },
+    {
+      "text": "their icon will return to the right.",
+      "translation": "",
+      "_length": 36
+    },
+    {
+      "text": "Powerful skills push the icon away further,",
+      "translation": "",
+      "_length": 43
+    },
+    {
+      "text": "delaying the Digimon's next turn.",
+      "translation": "",
+      "_length": 33
+    },
+    {
+      "text": "While attacking, you'll encounter the",
+      "translation": "",
+      "_length": 37
+    },
+    {
+      "text": "Shock and Break effects.",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": "Shock causes the icon of the",
+      "translation": "",
+      "_length": 28
+    },
+    {
+      "text": "affected Digimon to stop moving.",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "Break returns the icon of the",
+      "translation": "",
+      "_length": 29
+    },
+    {
+      "text": "affected Digimon to the right.",
+      "translation": "",
+      "_length": 30
+    },
+    {
+      "text": "After clearing Episode, you'll return",
+      "translation": "",
+      "_length": 37
+    },
+    {
+      "text": "to the Episode Selection screen.",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "Here, you can select an Episode to play next,",
+      "translation": "",
+      "_length": 45
+    },
+    {
+      "text": "or change your party member strategy.",
+      "translation": "",
+      "_length": 37
+    },
+    {
+      "text": "However, you can't play another Episode",
+      "translation": "",
+      "_length": 39
+    },
+    {
+      "text": "until you finish the one in progress.",
+      "translation": "",
+      "_length": 37
+    },
+    {
+      "text": "On the Episode Selection screen,",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "press the SELECT button to save.",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": " button to see the main menu where",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "you can use items and arrange equipment.",
+      "translation": "",
+      "_length": 40
+    },
+    {
+      "text": "By equipping obtained DigiPieces, your",
+      "translation": "",
+      "_length": 38
+    },
+    {
+      "text": "Digimon will become stronger.",
+      "translation": "",
+      "_length": 29
+    },
+    {
+      "text": "DigiPieces can raise stats, add",
+      "translation": "",
+      "_length": 31
+    },
+    {
+      "text": "new skills, or have other effects.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "Choose a DigiPiece to equip and",
+      "translation": "",
+      "_length": 31
+    },
+    {
+      "text": "place it in the central Skill Panel.",
+      "translation": "",
+      "_length": 36
+    },
+    {
+      "text": "You cannot place two equipped",
+      "translation": "",
+      "_length": 29
+    },
+    {
+      "text": "DigiPieces so that they overlap.",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "Press the ",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": " button to remove a DigiPiece.",
+      "translation": "",
+      "_length": 30
+    },
+    {
+      "text": "The Skill Panel shape varies by Digimon.",
+      "translation": "",
+      "_length": 40
+    },
+    {
+      "text": "You have limited space to fit the pieces.",
+      "translation": "",
+      "_length": 41
+    },
+    {
+      "text": "When a Digimon reaches a certain",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "level, their Skill Panel will grow.",
+      "translation": "",
+      "_length": 35
+    },
+    {
+      "text": "You can synthesize a new DigiPiece",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "by collecting necessary materials.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "You can also obtain materials by",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "breaking down unwanted DigiPieces.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "You can also make items",
+      "translation": "",
+      "_length": 23
+    },
+    {
+      "text": "from the same materials.",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": "During the game, conversations between ",
+      "translation": "",
+      "_length": 39
+    },
+    {
+      "text": "characters may deepen their bonds.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "This is the Bonding Rank, and",
+      "translation": "",
+      "_length": 29
+    },
+    {
+      "text": "higher ranks will affect battles.",
+      "translation": "",
+      "_length": 33
+    },
+    {
+      "text": "If the Digimon of a character with a high ",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "Bonding Rank will be acting next,",
+      "translation": "",
+      "_length": 33
+    },
+    {
+      "text": "a powerful Bonding Combo support",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "attack may be triggered.",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": "The higher the rank, the higher",
+      "translation": "",
+      "_length": 31
+    },
+    {
+      "text": "the chance of a Bonding Combo.",
+      "translation": "",
+      "_length": 30
+    },
+    {
+      "text": "You can check the status of your Bonding",
+      "translation": "",
+      "_length": 40
+    },
+    {
+      "text": "Rank in the status menu at any time.",
+      "translation": "",
+      "_length": 36
+    },
+    {
+      "text": "As the story progresses, the Digimon",
+      "translation": "",
+      "_length": 36
+    },
+    {
+      "text": "will become able to evolve.",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "Evolution costs SP but stats will rise",
+      "translation": "",
+      "_length": 38
+    },
+    {
+      "text": "and the Digimon will be stronger.",
+      "translation": "",
+      "_length": 33
+    },
+    {
+      "text": "Status effects such as lowered stats",
+      "translation": "",
+      "_length": 36
+    },
+    {
+      "text": "or  poison will be removed.",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "The skillset will also change to have",
+      "translation": "",
+      "_length": 37
+    },
+    {
+      "text": "more powerful but SP-costly skills.",
+      "translation": "",
+      "_length": 35
+    },
+    {
+      "text": "There are two types of Episodes,",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "Main and Sub-Episodes.",
+      "translation": "",
+      "_length": 22
+    },
+    {
+      "text": "A Sub-Episode with a yellow icon",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "indicates limited time left to play it.",
+      "translation": "",
+      "_length": 39
+    },
+    {
+      "text": "Continuing with a Main Episode will",
+      "translation": "",
+      "_length": 35
+    },
+    {
+      "text": "cause the Sub-Episode to disappear.",
+      "translation": "",
+      "_length": 35
+    },
+    {
+      "text": "Press left or right at the",
+      "translation": "",
+      "_length": 26
+    },
+    {
+      "text": "Episode Selection menu...",
+      "translation": "",
+      "_length": 25
+    },
+    {
+      "text": "...to switch the type displayed",
+      "translation": "",
+      "_length": 31
+    },
+    {
+      "text": "between All, Main, or Sub.",
+      "translation": "",
+      "_length": 26
+    },
+    {
+      "text": "From the Episode Selection screen,",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "you can challenge the Digital Dungeon.",
+      "translation": "",
+      "_length": 38
+    },
+    {
+      "text": "Press the L or R button at the Episode Selection",
+      "translation": "",
+      "_length": 48
+    },
+    {
+      "text": "screen to switch to Dungeon Selection.",
+      "translation": "",
+      "_length": 38
+    },
+    {
+      "text": "The enemies vary by dungeon level and type.",
+      "translation": "",
+      "_length": 43
+    },
+    {
+      "text": "This is a good place to earn EXP and items.",
+      "translation": "",
+      "_length": 43
+    },
+    {
+      "text": "The goal will move you to the next level.",
+      "translation": "",
+      "_length": 41
+    },
+    {
+      "text": " at the starting point marked EXIT",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "to return to the Episode Selection screen.",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "New dungeons will be added during the story",
+      "translation": "",
+      "_length": 43
+    },
+    {
+      "text": "progress with stronger enemies within.",
+      "translation": "",
+      "_length": 38
+    },
+    {
+      "text": "You have cleared all of the Main Episodes!",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "If you load the save data created after clearing",
+      "translation": "",
+      "_length": 48
+    },
+    {
+      "text": "the game, you can start a New Game+.",
+      "translation": "",
+      "_length": 36
+    },
+    {
+      "text": "You will retain your levels from your cleared",
+      "translation": "",
+      "_length": 45
+    },
+    {
+      "text": "game, along with your evolutions.",
+      "translation": "",
+      "_length": 33
+    },
+    {
+      "text": "Skill Panel size, obtained DigiPieces, items,",
+      "translation": "",
+      "_length": 45
+    },
+    {
+      "text": "materials, and recipes will also be retained.",
+      "translation": "",
+      "_length": 45
+    },
+    {
+      "text": "The last Digital Dungeon will also be",
+      "translation": "",
+      "_length": 37
+    },
+    {
+      "text": "added to the Dungeon Selection.",
+      "translation": "",
+      "_length": 31
+    },
+    {
+      "text": "There will be very strong enemies here,",
+      "translation": "",
+      "_length": 39
+    },
+    {
+      "text": "but you can find even more valuable items.",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "During a New Game+, you can evolve",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "to Omegamon during battle.",
+      "translation": "",
+      "_length": 26
+    },
+    {
+      "text": "When you have both WarGreymon &",
+      "translation": "",
+      "_length": 31
+    },
+    {
+      "text": "MetalGarurumon in your party during battle,",
+      "translation": "",
+      "_length": 43
+    },
+    {
+      "text": "select Omegamon from the Evolve menu",
+      "translation": "",
+      "_length": 36
+    },
+    {
+      "text": "to fuse them into ultra-powerful Omegamon.",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "Basic Operation",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Battle Tutorial",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Episode Selection",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Using DigiPieces",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Bonding Ranks",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Digital Dungeon",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Evolving Omegamon",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Attacks a random target 2 times.",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "Attacks a random target 4 times.",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "Restores a little HP every turn ",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "(enemy only).",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Claw Attack",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Bit Fire",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "text": "Over Flame",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Crush Nail",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Slamming Attack",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Garuru Kick",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Metal Fang",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Spiral Wing",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Crimson Claw",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Wing Flutter",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Scooping Punch",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Body Attack",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Whip Attack",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Rolling Attack",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Edge Toss",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Edge Toss Revised",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Bubble Barrier",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Northern Lights",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Thor's Hammer",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Pretty Rush",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Rod Strike",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Soul Banish",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Spiritual Energy Blast",
+      "translation": "",
+      "_length": 22
+    },
+    {
+      "text": "Holy Slap",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Tail Crash",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Eden's Needle",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Sefirot Crystal",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Eden's Javelin",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Eden's Air",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Sword Attack",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Dark Nail",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Energy Shot",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Pollinosis Shower",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Ivy Attack",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Cocoon Guard",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Paradise Lost",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Full Out",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "text": "Dark Crusher",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Sacrifice Attack",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Drain Attack",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Shock Attack",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Shock Attack ",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Break Attack",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Break Attack ",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Rage Attack",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Rage Attack ",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Giga Shock",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Poison Attack",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Poison Attack ",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Sticky Attack",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Sticky Attack ",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Gamble Attack",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "All Attack",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "ATK Break",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "ATK Break ",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "DEF Break",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "DEF Break ",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Status Reset",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Give direct orders.",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Prioritize attack over everything else.",
+      "translation": "",
+      "_length": 39
+    },
+    {
+      "text": "Turn the battle advantage to your favor.",
+      "translation": "",
+      "_length": 40
+    },
+    {
+      "text": "Fight while caring for the team's HP.",
+      "translation": "",
+      "_length": 37
+    },
+    {
+      "text": "Act freely.",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "To the Digimon World",
+      "translation": "",
+      "_length": 20
+    },
+    {
+      "text": "Encounter with Koromon",
+      "translation": "",
+      "_length": 22
+    },
+    {
+      "text": "Kuwagamon's Counterattack",
+      "translation": "",
+      "_length": 25
+    },
+    {
+      "text": "Devimon's Arrival",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "File Island's Collapse",
+      "translation": "",
+      "_length": 22
+    },
+    {
+      "text": "Giant Devimon",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Defeating Devimon",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "The Dark Network",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Dark Evolution to SkullGreymon",
+      "translation": "",
+      "_length": 30
+    },
+    {
+      "text": "Taichi Drawn into the Vortex",
+      "translation": "",
+      "_length": 28
+    },
+    {
+      "text": "Returning to the Digital World",
+      "translation": "",
+      "_length": 30
+    },
+    {
+      "text": "Vamdemon Appears",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Wizarmon Falls",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "VenomVandemon's Awakening",
+      "translation": "",
+      "_length": 25
+    },
+    {
+      "text": "Two's Courage! Ultimate-Levels!",
+      "translation": "",
+      "_length": 31
+    },
+    {
+      "text": "The Dark Masters",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "The Death of Whamon",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "The Death of Leomon",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Piemon's Defeat",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "A Space in Another Dimension",
+      "translation": "",
+      "_length": 28
+    },
+    {
+      "text": "Apocalymon Sealed",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Ignoring the Rules",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "We'll Fight, Too",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Evolve to Omegamon",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Evolve to Agumon",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Evolve to Greymon",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Evolve to MetalGreymon",
+      "translation": "",
+      "_length": 22
+    },
+    {
+      "text": "Evolve to WarGreymon",
+      "translation": "",
+      "_length": 20
+    },
+    {
+      "text": "Evolve to Gabumon",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Garurumon",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Evolve to WereGarurumon",
+      "translation": "",
+      "_length": 23
+    },
+    {
+      "text": "Evolve to MetalGarurumon",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": "Evolve to Piyomon",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Birdramon",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Evolve to Garudamon",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Evolve to Hououmon",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Evolve to Tentomon",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Evolve to Kabuterimon",
+      "translation": "",
+      "_length": 21
+    },
+    {
+      "text": "Evolve to AtlurKabuterimon",
+      "translation": "",
+      "_length": 26
+    },
+    {
+      "text": "Evolve to HerakleKabuterimon",
+      "translation": "",
+      "_length": 28
+    },
+    {
+      "text": "Evolve to Palmon",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Evolve to Togemon",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Lilimon",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Rosemon",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Gomamon",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Ikkakumon",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Evolve to Zudomon",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Vikemon",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Patamon",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Angemon",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Evolve to HolyAngemon",
+      "translation": "",
+      "_length": 21
+    },
+    {
+      "text": "Evolve to Seraphimon",
+      "translation": "",
+      "_length": 20
+    },
+    {
+      "text": "Evolve to Angewomon",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Evolve to Ophanimon",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Baby to Child",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "sceUtilitySavedataInitStart failed - %d",
+      "translation": "",
+      "_length": 39
+    },
+    {
+      "text": "Digimon Adventure",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Episode Selection",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Create new data",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Do you want to begin a new game?",
+      "translation": "",
+      "_length": 32
+    },
+    {
+      "text": "Do you want to overwrite the data?",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "No more free space. You need at least %s or more to save.",
+      "translation": "",
+      "_length": 57
+    },
+    {
+      "text": "Save complete.",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Process interrupted.",
+      "translation": "",
+      "_length": 20
+    }
+  ]
+}

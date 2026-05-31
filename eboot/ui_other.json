@@ -1,0 +1,2700 @@
+{
+  "source": "EBOOT.BIN/ui_other",
+  "strings": [
+    {
+      "text": "Start \"%s\"?",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Stat Boost",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Stat Boost",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "     Change Members",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "    Change Strategy",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "*Episode Mode Lv[%d]",
+      "translation": "",
+      "_length": 20
+    },
+    {
+      "text": " Episode Mode Lv[%d]",
+      "translation": "",
+      "_length": 20
+    },
+    {
+      "text": "radius %.4f",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "CPathCamera : Intersect is Nothing...",
+      "translation": "",
+      "_length": 37
+    },
+    {
+      "text": "(x)   : Fit Ground",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "(s)   : Wall Collision",
+      "translation": "",
+      "_length": 22
+    },
+    {
+      "text": "R+(o) : Put PLAYER INFO",
+      "translation": "",
+      "_length": 23
+    },
+    {
+      "text": "Test Area  ",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Camp Site  ",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Tropical Jungle  ",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Gear Savannah  ",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Factorial Town  ",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Toy Town  ",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Hot Springs  ",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Infinity Mountain  ",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Ancient Dino Region  ",
+      "translation": "",
+      "_length": 21
+    },
+    {
+      "text": "Overdell Cemetery  ",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Village of Beginnings  ",
+      "translation": "",
+      "_length": 23
+    },
+    {
+      "text": "Koromon Village  ",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Piccolomon's Forest  ",
+      "translation": "",
+      "_length": 21
+    },
+    {
+      "text": "Inverted Pyramid  ",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Amusement Park  ",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Veggiemon's Restaurant  ",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": "Vadermon's Den  ",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "TonosamaGekomon's Castle  ",
+      "translation": "",
+      "_length": 26
+    },
+    {
+      "text": "Jungle Area  ",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Vamdemon's Castle  ",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Gennai's Residence  ",
+      "translation": "",
+      "_length": 20
+    },
+    {
+      "text": "Hikarigaoka Apartments  ",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": "Main Street  ",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Tokyo Big Sight  ",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Spiral Mountain  ",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Beach Area  ",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Forest Area  ",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Urban Area  ",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Underground Passage  ",
+      "translation": "",
+      "_length": 21
+    },
+    {
+      "text": "Piemon's Castle  ",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Network World  ",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Digital Dungeon  ",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Susumu Yagami",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Yuuko Yagami",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Toshiko Takenouchi",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Shin Kido",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Masami Izumi",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Kae Izumi",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Yuusuke Tachikawa",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Satoe Tachikawa",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Hiroaki Ishida",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Natsuko Takaishi",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Vamdemon's Army",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Taichi's Father",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Taichi's Mother",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Yamato's Father",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Yamato's Mother",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Sora's Father",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Sora's Mother",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Koushirou's Father",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Koushirou's Mother",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Jou's Father",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Jou's Mother",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Mimi's Father",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Mimi's Mother",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Takeru's Father",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Takeru's Mother",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Hikari's Father",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Hikari's Mother",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Jou's Brother",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Sora's Copy",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Jou's Shadow",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Old Woman",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Young Lady",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Satellite Phone",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": " Voice :%2d",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "[Voice Pool Ch]",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": " ATRAC3  : %2d/%2d",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": " HCA     : %2d/%2d",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Seven Heavens",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Divine Breaker",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Cat Punch",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Cat Kick ",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Cat's Eye",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Holy Arrow",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Heaven's Charm",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Saint Air",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Holy Flame",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Hermit Fog",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Grey Sword",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Garuru Cannon",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Omega Blast",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Scissor Arms",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Power Guillotine",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Hydro Pressure",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Shell Guard",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Volcano Strike",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Grand Fire",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Guardy Tusk",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Ice Arrow",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Tail Attack",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Burning Fist",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Heat Wave",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Gatling Missile",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Spiral Sword",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Weak Slap",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Poop Throw",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Poop Throw Barrage",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Super Stinky Spray",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Lovely Attack",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Bun Bun Punch",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Eye Beam",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "text": "Holy Shot",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Uni Gallop",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Fist of the Tyrant",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Bone Club",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Fist of the Beast King",
+      "translation": "",
+      "_length": 22
+    },
+    {
+      "text": "Lion King",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Death Claw",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Razor Wing",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Demon's Ray",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Absolute Zero Punch",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Ice Breath",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Snowball Fight",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Icicle Rod",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Bone Bone Boomerang",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Cheese Bomb",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Double Attack",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Hunting Cannon",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Jet Gallop",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Heat Upper",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Death Charm",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Hell's Hand",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Ghost Chop",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Sparkling Thunder",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Thunder Knife",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Jet Arrow",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Tidal Wave",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Body Blow",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Drill Spin",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Crusher Bone",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Poison Bubbles",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Paralyze Breath",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Hidden Blow",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Love Serenade",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Dark Spirits",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Grateful Knuckle",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Ground Zero Revised",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Ground Zero",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Death Nail ",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Petra Fire",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Feather Cutter",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Again Star",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Pit Bomb",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "text": "Fire Breath",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Slash Nail",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Dino Kick",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Plug Bomb",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Nano Crash",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Counter Trap",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Love Serenade Chaos",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Dark Spirits Chaos",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Pico Darts",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Bat Flutter",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Devil's Whisper",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Sharp Leaf",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Delicious Breath",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Nightmare Syndrome",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Swing Egg",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Electric Shock",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Beta Slugger",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Devil's Blown Kiss",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Abduction Ray",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Mute Ray",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "text": "Lullaby Bubble",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Child Claw",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Crash Symphony",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Noisy Echo",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Samurai Tone",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Tonosama Jump",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Night Raid",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Bloody Stream",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Dead Scream",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Deadly Sting",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Poison Powder",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Howling Noise",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Poop Dunk",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "BOSS Punch",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Crimson Nail",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Demonic Gale",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Stinger Pollation",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Arachno Batoto",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Spider Machine Gun",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Tusk Strikes",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Tundra Breath",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Nose Stamp",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Deadly Shade",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Devil Bashing",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Squire Dome",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Stinky Gas",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Rotun Tackle",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Heavy Metal Fire",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Heat Chain",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Trick or Treat",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Angry Rock",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Hardest Punch",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Thunder Cloud",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Magic Game",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Magic Heal",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Spiral Edge",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Frog Kick",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Water Cure",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Soul Chopper",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Diabolic Star",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Death Sentence",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Fire Blast",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Iron Tail",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Thunder Javelin",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Panzer Knuckle",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Horn Driver",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Shadow Sickle",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Sharp Edge",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Venom Infuse",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Tyrant Savage",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Chaos Flame",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Ultimate Stream",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Hell Squeeze",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Bullet Hammer",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Bullet Machine Gun",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Infinity Cannon",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Booster Claw",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Trump Sword",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Ending Spell",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Toy Wonderness",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Stinger Surprise",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Tail Blade",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Sand Shower",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Strike Fishing",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Hell Dive",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Little Pecker",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Nose Mattock",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Poison Smush",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Rough Smush",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Spiral Flower",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Thorn Whip",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Cherry Bomb",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Illusion Mist",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Poop Bazooka",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Dirty Saucer",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Black Hole",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Mjolnir Thunder",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Sonic Destroyer",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Destruction Grenade",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Homing Laser",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Warning Laser",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Twinkle Beam",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Gyro Break",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Branch Drain",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Woody Smash",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Banana Slip",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Dark Spirits Deluxe",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "No. 1 Punch",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Allergy Shower",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Sweet Scent",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Royal Nuts",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Gorgeous Beak",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Nail Crusher",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Infinity Arrow",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Hazard Breath",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Red Thorn",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Red Hot Machine Gun",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Darkness Gear",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Haguru Attack",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Crash Device",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Hyper Cannon",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Machine Gun Arm",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Hell Drive",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Genocide Attack",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Ultimate Slicer",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Metal Arm",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Genocide Gear",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Guilty Claw",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Heartbreak Attack",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Bear Claw",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Megalo Spark",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Darkness Wave",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Darkness Spear",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Nightmare Shock",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Scratch Beat",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Darkness Zone",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Ultimate Stream",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Plug Bomb",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Bloody Stream",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Infinity Cannon",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Death Claw",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Glare Eye",
+      "translation": "",
+      "_length": 9
+    },
+    {
+      "text": "Nail Scratch",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Crazy Giggle",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Data Crusher",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Hell's Grenade",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Cocoon Attack",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Catastrophe Cannon",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "Tentacle Bug",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Special Meat",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Life Saver Kit",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "Skill Release",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Smooth Powder",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Fighting Spirit",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "ATK Charge",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "ATK Charge ",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "ATK Charge+",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "ATK Charge ",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "DEF Charge",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "DEF Charge ",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "DEF Charge +",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "DEF Charge ",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "All-Out Evade",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Scumon & Chuumon",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Etemon Chaos",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Numemon Boss",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Bakemon Boss",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Scumon & Chuumon",
+      "translation": "",
+      "_length": 16
+    },
+    {
+      "text": "Digimon Adventure",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "Install Data",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Install data for Digimon Adventure.",
+      "translation": "",
+      "_length": 35
+    },
+    {
+      "text": "Exit Select Button / Break L Button",
+      "translation": "",
+      "_length": 35
+    },
+    {
+      "text": "eye    %.4f, %.4f,%.4f",
+      "translation": "",
+      "_length": 22
+    },
+    {
+      "text": "center %.4f, %.4f,%.4f",
+      "translation": "",
+      "_length": 22
+    },
+    {
+      "text": "fov    %.4f",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "pad %0.3f/%4d",
+      "translation": "",
+      "_length": 13
+    },
+    {
+      "text": "Error: can not alloc memory",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "new  %5d",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "text": "MAIN %3d KiB",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "VRAM %3d KiB",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "PKT  %3d KiB",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "Mipmap Edit",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "Fog Edit",
+      "translation": "",
+      "_length": 8
+    },
+    {
+      "text": "libc:%s: should be called from main thread",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "libc:%s: something wrong 0x%08X",
+      "translation": "",
+      "_length": 31
+    },
+    {
+      "text": "bug in vfprintf: bad base",
+      "translation": "",
+      "_length": 25
+    },
+    {
+      "text": "bug in vfprintf: bad base",
+      "translation": "",
+      "_length": 25
+    },
+    {
+      "text": "2011121201:Num contents is over specified.(%d in)",
+      "translation": "",
+      "_length": 49
+    },
+    {
+      "text": "E100502704:Failed in criCs_Create().",
+      "translation": "",
+      "_length": 36
+    },
+    {
+      "text": "E09022032B:Increase max_streams of CriAtomDbasConfig.",
+      "translation": "",
+      "_length": 53
+    },
+    {
+      "text": "CRI Atom/PSP Ver.1.25.00 Build:Apr 27 2012 22:52:50",
+      "translation": "",
+      "_length": 51
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "E09011602B:File information is already set.",
+      "translation": "",
+      "_length": 43
+    },
+    {
+      "text": "E11071101B:seamless playback is not allowed on using streaming cache.",
+      "translation": "",
+      "_length": 69
+    },
+    {
+      "text": "E08122500B:CriAtomStdStreamer is already started.",
+      "translation": "",
+      "_length": 49
+    },
+    {
+      "text": "E09030301B:Failed in criCs_Create().",
+      "translation": "",
+      "_length": 36
+    },
+    {
+      "text": "E09012006B:Specified offset is invalid.(path:%s, offset:%lld)",
+      "translation": "",
+      "_length": 61
+    },
+    {
+      "text": "E09031602B:Specified offset is invalid.(id:%d, offset:%lld)",
+      "translation": "",
+      "_length": 59
+    },
+    {
+      "text": "E09012001B:Faild to get file size.(path:%s)",
+      "translation": "",
+      "_length": 43
+    },
+    {
+      "text": "E09031601B:Faild to get file size.(id:%d)",
+      "translation": "",
+      "_length": 41
+    },
+    {
+      "text": "CRI AtomEx/PSP Ver.1.23.00 Build:Apr 27 2012 22:52:44",
+      "translation": "",
+      "_length": 53
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "CRI Atom Sound Output",
+      "translation": "",
+      "_length": 21
+    },
+    {
+      "text": "ADX Codec PluginVer.1.03",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": "CRI Atom Atrac Decode",
+      "translation": "",
+      "_length": 21
+    },
+    {
+      "text": "ACF Support Format Low/  Ver.0.04.60 Build:",
+      "translation": "",
+      "_length": 43
+    },
+    {
+      "text": "ACF Support Format High/  Ver.0.70.00 Build:",
+      "translation": "",
+      "_length": 44
+    },
+    {
+      "text": "ACB Support Format Low/  Ver.0.05.00 Build:",
+      "translation": "",
+      "_length": 43
+    },
+    {
+      "text": "ACB Support Format High/  Ver.1.03.01 Build:",
+      "translation": "",
+      "_length": 44
+    },
+    {
+      "text": "CRI AtomEx Sequencer/PSP Ver.1.03.01 Build:Apr 27 2012 22:52:55",
+      "translation": "",
+      "_length": 63
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "CRI Atom Sound/PSP Ver.1.33.04 Build:Apr 27 2012 22:52:58",
+      "translation": "",
+      "_length": 57
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "HCA Codec Plugin Ver.1.02.00",
+      "translation": "",
+      "_length": 28
+    },
+    {
+      "text": "CRI ADX Decoder/PSP Ver.1.00.08 Build:Apr 27 2012 22:50:41",
+      "translation": "",
+      "_length": 58
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "CRI C Runtime Wrapper/PSP Ver.1.03.00 Build:Apr 27 2012 22:50:32",
+      "translation": "",
+      "_length": 64
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "This is a error message.",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": "The detail of error messge should be witten heare.",
+      "translation": "",
+      "_length": 50
+    },
+    {
+      "text": "Error Parameter 0 is ...",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": "Trouble shooting must be here",
+      "translation": "",
+      "_length": 29
+    },
+    {
+      "text": "Can't open '%s'",
+      "translation": "",
+      "_length": 15
+    },
+    {
+      "text": "Can't create Stream Joint.",
+      "translation": "",
+      "_length": 26
+    },
+    {
+      "text": "Because of the size of heap area is short.",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "Please increase heap area size (heap=%08x)",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "Size of CriHeapObj structure is not a multiple of 16. (%dbyte)",
+      "translation": "",
+      "_length": 62
+    },
+    {
+      "text": "Function pointer of AllocFix is NULL.",
+      "translation": "",
+      "_length": 37
+    },
+    {
+      "text": "Function pointer of AllocTemporary is NULL.",
+      "translation": "",
+      "_length": 43
+    },
+    {
+      "text": "Function pointer of AllocDynamic is NULL.",
+      "translation": "",
+      "_length": 41
+    },
+    {
+      "text": "Function pointer of Free is NULL.",
+      "translation": "",
+      "_length": 33
+    },
+    {
+      "text": "The number of audio channel(%d) is different to ADX decoder channels(%d).",
+      "translation": "",
+      "_length": 73
+    },
+    {
+      "text": "<Can not find error message>",
+      "translation": "",
+      "_length": 28
+    },
+    {
+      "text": "CRI Error/PSP Ver.1.03.01 Build:Apr 27 2012 22:50:33",
+      "translation": "",
+      "_length": 52
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "Unknown Error.",
+      "translation": "",
+      "_length": 14
+    },
+    {
+      "text": "<No Error>",
+      "translation": "",
+      "_length": 10
+    },
+    {
+      "text": "Some kind of error.",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Invalid parameter. ",
+      "translation": "",
+      "_length": 19
+    },
+    {
+      "text": "Failed to allocate memory.",
+      "translation": "",
+      "_length": 26
+    },
+    {
+      "text": "Thread-unsafe function has been executed in parallel.",
+      "translation": "",
+      "_length": 53
+    },
+    {
+      "text": "Function not implemented.",
+      "translation": "",
+      "_length": 25
+    },
+    {
+      "text": "Initialize the library before calling this function.",
+      "translation": "",
+      "_length": 52
+    },
+    {
+      "text": "CRI Random Number Generator/PSP Ver.1.00.00 Build:Apr 27 2012 22:50:41",
+      "translation": "",
+      "_length": 70
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "E09030326B:Failed in criCs_Create().",
+      "translation": "",
+      "_length": 36
+    },
+    {
+      "text": "E10092103B:too high streaming bit-rate. (limit total bps is %u. cannot start streaming)",
+      "translation": "",
+      "_length": 87
+    },
+    {
+      "text": "CRI Server Manager",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "=src != NULL",
+      "translation": "",
+      "_length": 12
+    },
+    {
+      "text": "dst != NULL",
+      "translation": "",
+      "_length": 11
+    },
+    {
+      "text": "CRI Base/PSP Ver.2.23.00 Build:Apr 27 2012 22:50:32",
+      "translation": "",
+      "_length": 51
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "CRI Critical Section/PSP Ver.1.00.12 Build:Apr 27 2012 22:50:32",
+      "translation": "",
+      "_length": 63
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "CRI Thread/PSP Ver.1.01.12 Build:Apr 27 2012 22:50:34",
+      "translation": "",
+      "_length": 53
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "CRI Timer/PSP Ver.0.50.02 Build:Apr 27 2012 22:50:35",
+      "translation": "",
+      "_length": 52
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "CRI CPK Analyzer/PSP Ver.0.99.32 Build:Apr 27 2012 22:50:56",
+      "translation": "",
+      "_length": 59
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "CRI File System/PSP Ver.2.53.00 Build:Apr 27 2012 22:50:56",
+      "translation": "",
+      "_length": 58
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "This function is available only on multithread framework.",
+      "translation": "",
+      "_length": 57
+    },
+    {
+      "text": "CriFsBinder/PSP Ver.1.02.66 Build:Apr 27 2012 22:50:57",
+      "translation": "",
+      "_length": 54
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "CRI FS Data Decompression ",
+      "translation": "",
+      "_length": 26
+    },
+    {
+      "text": "CriFsGroupLoader/PSP Ver.1.00.73 Build:Apr 27 2012 22:50:59",
+      "translation": "",
+      "_length": 59
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "W090910s08:nativeIoClose() failed.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "W090910s07:nativeIoLseek() failed.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "W090910s06:nativeIoClose() failed.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "W091029s01:nativeIoClose() failed.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "W090910s17:nativeIoClose() failed.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "E091027s01:nativeIoOpen() failed for EDATA from NOT ms0.",
+      "translation": "",
+      "_length": 56
+    },
+    {
+      "text": "E090910s05:nativeIoOpen() UMD failed. :SCE_ERROR_ERRNO_ENOENT",
+      "translation": "",
+      "_length": 61
+    },
+    {
+      "text": "E091109s07:nativeIoOpen() HOST failed. :SCE_ERROR_ERRNO_ENOENT",
+      "translation": "",
+      "_length": 62
+    },
+    {
+      "text": "W090910s04:nativeIoOpen() failed.",
+      "translation": "",
+      "_length": 33
+    },
+    {
+      "text": "W090910s03:nativeIoOpen() failed. : SCE_ERROR_ERRNO_ENOENT",
+      "translation": "",
+      "_length": 58
+    },
+    {
+      "text": "W090910s09:nativeIoClose() failed.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "W090910s12:nativeIoRead() failed.",
+      "translation": "",
+      "_length": 33
+    },
+    {
+      "text": "W100218s01:nativeIoRead() returned data error.",
+      "translation": "",
+      "_length": 46
+    },
+    {
+      "text": "W090910s11:nativeIoLseek() failed.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "W090910s16:nativeIoLseek() failed.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "W091029s02:nativeIoClose() failed.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "W090910s15:nativeIoClose() failed.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "W090910s14:nativeIoOpen() failed.",
+      "translation": "",
+      "_length": 33
+    },
+    {
+      "text": "W090910s13:nativeIoOpen() failed. : SCE_ERROR_ERRNO_ENOENT",
+      "translation": "",
+      "_length": 58
+    },
+    {
+      "text": "W090910s02:nativeIoClose() failed.",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "E090707s03:sceFatmsRegisterNotifyCallback failed.",
+      "translation": "",
+      "_length": 49
+    },
+    {
+      "text": "E090707s01:sceKernelCreateCallback failed for ms.",
+      "translation": "",
+      "_length": 49
+    },
+    {
+      "text": "E090617s01:sceKernelCreateCallback failed for power.",
+      "translation": "",
+      "_length": 52
+    },
+    {
+      "text": "E090707s04:sceFatmsUnRegisterNotifyCallback failed.",
+      "translation": "",
+      "_length": 51
+    },
+    {
+      "text": "E090707s02:sceKernelDeleteCallback failed for ms.",
+      "translation": "",
+      "_length": 49
+    },
+    {
+      "text": "E090617s02:sceKernelDeleteCallback failed on Read Thread.",
+      "translation": "",
+      "_length": 57
+    },
+    {
+      "text": "E091029s04:Dnas ext string is invalid.",
+      "translation": "",
+      "_length": 38
+    },
+    {
+      "text": "E091029s03:Dnas ext is NULL.",
+      "translation": "",
+      "_length": 28
+    },
+    {
+      "text": "E090910s00:The number of file handles from ms is over restriction.",
+      "translation": "",
+      "_length": 66
+    },
+    {
+      "text": "CRI FS File Access",
+      "translation": "",
+      "_length": 18
+    },
+    {
+      "text": "CRI FS Memory File System",
+      "translation": "",
+      "_length": 25
+    },
+    {
+      "text": "E08121829F:Failed to create CriFsStmIoObj.",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "E09011612F:File is already opened or some error occurred.",
+      "translation": "",
+      "_length": 57
+    },
+    {
+      "text": "E09011609F:Failed to register file. (path:%s)",
+      "translation": "",
+      "_length": 45
+    },
+    {
+      "text": "E09031608F:Specified id(%d) is invalid.",
+      "translation": "",
+      "_length": 39
+    },
+    {
+      "text": "E09031609F:Failed to register file. (id:%d)",
+      "translation": "",
+      "_length": 43
+    },
+    {
+      "text": "E09031607F:File is already opened or some error occurred.",
+      "translation": "",
+      "_length": 57
+    },
+    {
+      "text": "E09011614F:File is already opened or some error occurred.",
+      "translation": "",
+      "_length": 57
+    },
+    {
+      "text": "E09012005F:Can not get file size now.",
+      "translation": "",
+      "_length": 37
+    },
+    {
+      "text": "CRI Sofdec(forADX2)/PSP Ver.1.70 Build:May 13 2011 12:35:52",
+      "translation": "",
+      "_length": 59
+    },
+    {
+      "text": "Append: GCC3003 SCE06030510",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "E05072701M: failed sceMpegInit(). 0x%08X",
+      "translation": "",
+      "_length": 40
+    },
+    {
+      "text": "E05072706M: failed sceMpegRegistStream(AVC).",
+      "translation": "",
+      "_length": 44
+    },
+    {
+      "text": "E05072707M: failed sceMpegMallocAvcEsBuf().",
+      "translation": "",
+      "_length": 43
+    },
+    {
+      "text": "E05072715M: failed MWSTM_Create().",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "E05072714M: failed SJRBF_Create(). size=%d.",
+      "translation": "",
+      "_length": 43
+    },
+    {
+      "text": "E05072703M: Failed malloc. [%s]",
+      "translation": "",
+      "_length": 31
+    },
+    {
+      "text": "E05072708M: failed sceMpegInitAu(). 0x%08x",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "E05072704M: failed sceMpegRingbufferConstruct(). 0x%08x",
+      "translation": "",
+      "_length": 55
+    },
+    {
+      "text": "E05072716M: Can't destroy handle on this Status(%d).",
+      "translation": "",
+      "_length": 52
+    },
+    {
+      "text": "E05072719M: failed sceMpegAtracDecode(). 0x%08X",
+      "translation": "",
+      "_length": 47
+    },
+    {
+      "text": "E09093005S: failed sceMpegAvcDecode(). 0x%08X",
+      "translation": "",
+      "_length": 45
+    },
+    {
+      "text": "E05072721M: failed sceMpegAvcDecodeDetail(). 0x%08X",
+      "translation": "",
+      "_length": 51
+    },
+    {
+      "text": "E09093004S: failed sceMpegAvcDecodeYCbCr(). 0x%08X",
+      "translation": "",
+      "_length": 50
+    },
+    {
+      "text": "E09093007S: failed sceMpegAvcDecodeStop(). 0x%08X",
+      "translation": "",
+      "_length": 49
+    },
+    {
+      "text": "E05072723M: failed sceMpegAvcDecodeDetail(). 0x%08X",
+      "translation": "",
+      "_length": 51
+    },
+    {
+      "text": "E09093006S: failed sceMpegAvcDecodeStopYCbCr(). 0x%08X",
+      "translation": "",
+      "_length": 54
+    },
+    {
+      "text": "E05072727M: failed sceMpegRingbufferPut(). 0x%08X",
+      "translation": "",
+      "_length": 49
+    },
+    {
+      "text": "E05072724M: Callback Function Pointer is invalid at sceMpegRingbufferPut(). 0x%08X",
+      "translation": "",
+      "_length": 82
+    },
+    {
+      "text": "E05072726M: Stream is invalid at sceMpegRingbufferPut(). 0x%08X",
+      "translation": "",
+      "_length": 63
+    },
+    {
+      "text": "E05072725M: Input parameter is invalid at sceMpegRingbufferPut(). 0x%08X",
+      "translation": "",
+      "_length": 72
+    },
+    {
+      "text": "E05072702M: failed sceMpegFinish(). 0x%08X",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "E09060301M: mwPlySetAudioOutputChannel() was called befoer initialization.(%d)",
+      "translation": "",
+      "_length": 78
+    },
+    {
+      "text": "E09060302M: mwPlySetAudioOutputChannel() was called during MWPLY handls is active.(%d)",
+      "translation": "",
+      "_length": 86
+    },
+    {
+      "text": "E09060303M: audio output channel is invalid value.(%d)",
+      "translation": "",
+      "_length": 54
+    },
+    {
+      "text": "E10010801M: mwPlySetAudioThreadPriority() was called befoer initialization.(%d)",
+      "translation": "",
+      "_length": 79
+    },
+    {
+      "text": "E10010802M: mwPlySetAudioThreadPriority() was called during MWPLY handls is active.(%d)",
+      "translation": "",
+      "_length": 87
+    },
+    {
+      "text": "E10010803M: audio thread priority is invalid value.(%d)",
+      "translation": "",
+      "_length": 55
+    },
+    {
+      "text": "E05072705M: failed sceMpegCreate(). 0x%08x",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "E05072710M: failed sceMpegQueryAtracEsSize(). 0x%08x",
+      "translation": "",
+      "_length": 52
+    },
+    {
+      "text": "E05072711M: failed sceMpegInitAu(). 0x%08x",
+      "translation": "",
+      "_length": 42
+    },
+    {
+      "text": "E05110801M: wave out buffer is short. need %d[byte].",
+      "translation": "",
+      "_length": 52
+    },
+    {
+      "text": "E05072709M: failed sceMpegRegistStream(ATRAC3P).",
+      "translation": "",
+      "_length": 48
+    },
+    {
+      "text": "E05072712M: failed SJUNI_Create(). img_pool_sj.",
+      "translation": "",
+      "_length": 47
+    },
+    {
+      "text": "E09093002S: sceMpegAvcQueryYCbCrSize() failed. 0x%08X",
+      "translation": "",
+      "_length": 53
+    },
+    {
+      "text": "E09093001S: YCbCr buffer size is not correct. (%d)",
+      "translation": "",
+      "_length": 50
+    },
+    {
+      "text": "E09093003S: sceMpegAvcInitYCbCr() failed. 0x%08X",
+      "translation": "",
+      "_length": 48
+    },
+    {
+      "text": "E05072713M: failed soundbuf_create().",
+      "translation": "",
+      "_length": 37
+    },
+    {
+      "text": "E05072718M: failed sceMpegQueryStreamOffset(). 0x%08X",
+      "translation": "",
+      "_length": 53
+    },
+    {
+      "text": "E05072718M: failed sceMpegQueryStreamSize(). 0x%08X",
+      "translation": "",
+      "_length": 51
+    },
+    {
+      "text": "E05072717M: failed sceMpegFlushAllStream(). 0x%08X",
+      "translation": "",
+      "_length": 50
+    },
+    {
+      "text": "E05072717M: failed sceMpegAvcDecodeFlush(). 0x%08X",
+      "translation": "",
+      "_length": 50
+    },
+    {
+      "text": "E05070202: Can't start playback on this handle status(%d). ",
+      "translation": "",
+      "_length": 59
+    },
+    {
+      "text": "CRI Handle Manager/PSP Ver.1.00.07 Build:Apr 27 2012 22:50:33",
+      "translation": "",
+      "_length": 61
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "CRI Stream Joint/PSP Ver.1.01.00 Build:Apr 27 2012 22:50:39",
+      "translation": "",
+      "_length": 59
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "E09021620B:Failed in criCs_Create().",
+      "translation": "",
+      "_length": 36
+    },
+    {
+      "text": "E09021213:Failed in criCs_Create().",
+      "translation": "",
+      "_length": 35
+    },
+    {
+      "text": "CRI LLDECOMP3/PSP Ver.0.90.04 Build:Apr 27 2012 22:50:34",
+      "translation": "",
+      "_length": 56
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "E08012802:Not Empty Index Table",
+      "translation": "",
+      "_length": 31
+    },
+    {
+      "text": "E08012803:Internal Error",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": "E08012801:Invalid table no",
+      "translation": "",
+      "_length": 26
+    },
+    {
+      "text": "E08070301:No Heap",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "E08012804:Invalid table no",
+      "translation": "",
+      "_length": 26
+    },
+    {
+      "text": "E08012805:Internal Error",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": "CRI UTF Retriever/PSP Ver.1.00.02 Build:Apr 27 2012 22:50:36",
+      "translation": "",
+      "_length": 60
+    },
+    {
+      "text": "Append: GCC3003 SCE06060010",
+      "translation": "",
+      "_length": 27
+    },
+    {
+      "text": "E06100301:Invalid IFF header (mismatched four_cc).",
+      "translation": "",
+      "_length": 50
+    },
+    {
+      "text": "E06100311:Size error.",
+      "translation": "",
+      "_length": 21
+    },
+    {
+      "text": "C++ runtime abort",
+      "translation": "",
+      "_length": 17
+    },
+    {
+      "text": "terminate() called by the exception handling mechanism",
+      "translation": "",
+      "_length": 54
+    },
+    {
+      "text": "returned from a user-defined terminate() routine",
+      "translation": "",
+      "_length": 48
+    },
+    {
+      "text": "internal error: static object marked for destruction more than once",
+      "translation": "",
+      "_length": 67
+    },
+    {
+      "text": "main() called more than once",
+      "translation": "",
+      "_length": 28
+    },
+    {
+      "text": "a pure virtual function was called",
+      "translation": "",
+      "_length": 34
+    },
+    {
+      "text": "invalid dynamic cast",
+      "translation": "",
+      "_length": 20
+    },
+    {
+      "text": "invalid typeid operation",
+      "translation": "",
+      "_length": 24
+    },
+    {
+      "text": "freeing array not allocated by an array new operation",
+      "translation": "",
+      "_length": 53
+    },
+    {
+      "text": "assertion \"%s\" failed: file \"%s\", line %d",
+      "translation": "",
+      "_length": 41
+    },
+    {
+      "text": "ungetc error: *static buffer overflow* - char not added to buffer",
+      "translation": "",
+      "_length": 65
+    },
+    {
+      "text": "HCA Decoder (Float) Ver.2.00.02 Build:Apr 27 2012 22:50:38",
+      "translation": "",
+      "_length": 58
+    },
+    {
+      "text": "Copyright (c) 2009-2010 CRI Middleware Co., Ltd.",
+      "translation": "",
+      "_length": 48
+    },
+    {
+      "text": "SFDRT Ver.6.3.5 Build:May 13 2011 12:35:52",
+      "translation": "",
+      "_length": 42
+    }
+  ]
+}

@@ -1,0 +1,790 @@
+{
+  "file_id": "ID03607",
+  "text_count": 98,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "Digitamamon's\nrestaurant! We had a lot of bad\nmemories here, didn't we, Yamato?",
+      "_offset": 1621,
+      "_length": 79,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "Yeah... I was working hard, so I\ncould get back to Takeru.",
+      "_offset": 1701,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "So both of you were working at\nthis restaurant?",
+      "_offset": 1760,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "Yeah, I made the food...",
+      "_offset": 1808,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "...and I washed the dishes and\ningredients.",
+      "_offset": 1833,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "I'm gettin' kinda hungry.",
+      "_offset": 1877,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "Me too, actually...",
+      "_offset": 1903,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "Well, there's a kitchen here. Why\ndon't we all make food together?",
+      "_offset": 1923,
+      "_length": 66,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "We could all just straight-up\ncook, but that'd be boring, so why\ndon't we have a cook-off!",
+      "_offset": 1990,
+      "_length": 90,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "Sounds fun! The one with the worst\nfood has to wash the dishes.",
+      "_offset": 2081,
+      "_length": 63,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "Then I won't lose!",
+      "_offset": 2145,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "All right, then I'll be the judge.",
+      "_offset": 2164,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "Me, too! So make a lot, okay?",
+      "_offset": 2199,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "Got any cooking experience,\nKoushirou?",
+      "_offset": 2229,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "Not quite, but I have my computer!",
+      "_offset": 2268,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "Finished! Please don't hesitate\nand try it right away.",
+      "_offset": 2303,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "Ughhhh...",
+      "_offset": 2358,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "What kind of food is this?",
+      "_offset": 2368,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "It's \"Food for Thought\"! I made it\nincorporating the methods of\nmultiple countries.",
+      "_offset": 2395,
+      "_length": 83,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "The taste is too complex for me, I\ndon't really get it...",
+      "_offset": 2479,
+      "_length": 57,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "I don't like this at all...",
+      "_offset": 2537,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "I... I can't believe... my \"Food\nfor Thought\" tastes bad...",
+      "_offset": 2565,
+      "_length": 59,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "Bleh... it tastes awful.",
+      "_offset": 2625,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "Koushirou, why didn't you try\ntastin' the food while you were\ncookin' it?!",
+      "_offset": 2650,
+      "_length": 74,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "This is strange, I inspected the\nrecipe thoroughly...",
+      "_offset": 2725,
+      "_length": 53,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "It's Ogremon!",
+      "_offset": 2779,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "Why are you here?",
+      "_offset": 2793,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "Ghhh...! Gaaaaaaah!",
+      "_offset": 2811,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "?! Something's strange.",
+      "_offset": 2831,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "He's real powerful, too! Let's\nfight, Koushirou!",
+      "_offset": 2855,
+      "_length": 48,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "Ow ow ow... what's with all of ya?",
+      "_offset": 2904,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "That's what we'd like to know\nabout *you*.",
+      "_offset": 2939,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "You started throwing a fit as soon\nas you got here.",
+      "_offset": 2982,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "Did I?!... I don't remember\nanything after eatin' some\nmushrooms from the roadside...",
+      "_offset": 3034,
+      "_length": 85,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "Must have been hallucinogenic\nmushrooms.",
+      "_offset": 3120,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "I know! If you have any more\ningredients, please let me have\nanother attempt!",
+      "_offset": 3161,
+      "_length": 77,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "Doesn't matter what, just gimme\nsomethin' to eat!",
+      "_offset": 3239,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "Here you are!",
+      "_offset": 3289,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "Let's see...",
+      "_offset": 3303,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "It's delicious!",
+      "_offset": 3316,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "Good. I thought you might have\nlost your strength because of the\nmushrooms...",
+      "_offset": 3332,
+      "_length": 77,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "...so I made a soup that assists\nin digestion.",
+      "_offset": 3410,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "Looks a lot better than that mess\nyou made earlier.",
+      "_offset": 3457,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "It truly is better to tailor food\nto those who will eat it, rather \nthan making something elaborate.",
+      "_offset": 3509,
+      "_length": 100,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "That was a pretty good meal! I\nain't got money on me, so I'll\ngive ya this.",
+      "_offset": 3610,
+      "_length": 75,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "Oh! Older brother boy! We meet\nagain!",
+      "_offset": 3686,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "Aren't *you* the one who came up\nhere without warning?",
+      "_offset": 3724,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "Hm! Is that what you're gonna say\nto me? Then I'll give you this,\ntoo!",
+      "_offset": 3779,
+      "_length": 70,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "All right, I'm outta here!",
+      "_offset": 3850,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "He left as quickly as he came...",
+      "_offset": 3877,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "How troublesome...",
+      "_offset": 3910,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "First, we should gather the\ningredients in this area. Um...\naccording to the recipe...",
+      "_offset": 3929,
+      "_length": 86,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "DigiTaters, DigiTomatoes,\nDigiCelery, and finally\nDigiPineaps...",
+      "_offset": 4016,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "Found DigiTaters!",
+      "_offset": 4081,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "Found DigiTomatoes!",
+      "_offset": 4099,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "Found DigiCelery!",
+      "_offset": 4119,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "Found DigiPineaps!",
+      "_offset": 4137,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "Let's keep at it and find the\nremaining ingredients!",
+      "_offset": 4156,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "We've found all of the ingredients\nfor the recipe now.",
+      "_offset": 4209,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "Let's go back to the restaurant\nand start cooking!",
+      "_offset": 4264,
+      "_length": 50,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "Koushirou... I don't like\nvegetables, so please don't give\nme anything with vegetables in it.",
+      "_offset": 4315,
+      "_length": 93,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "No. You have to eat a balanced diet.",
+      "_offset": 4409,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "I'll make it easier to eat them.",
+      "_offset": 4446,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "Mom says the same thing...",
+      "_offset": 4479,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "Well, I'll try to eat a little...",
+      "_offset": 4506,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "Please leave it to me!",
+      "_offset": 4540,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "I'm pretty hungry!",
+      "_offset": 4563,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "Do you cook at home, Koushirou?",
+      "_offset": 4582,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "My mother usually cooks for me.",
+      "_offset": 4614,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "I can make things like boiled eggs.",
+      "_offset": 4646,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "Is that so...",
+      "_offset": 4682,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "But making them well is difficult.",
+      "_offset": 4696,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "Boiled eggs seem easy, but they're\nactually pretty hard. I'll teach\nyou how to make them sometime.",
+      "_offset": 4731,
+      "_length": 98,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "Really? Thank you!",
+      "_offset": 4830,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "I can't let myself lose this\ncontest, either!",
+      "_offset": 4849,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "I'm not good at cooking, and back\nthen I was breaking all the\ndishes...",
+      "_offset": 4895,
+      "_length": 71,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "It seems like you don't do it often.",
+      "_offset": 4967,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "Speed is part of making food.",
+      "_offset": 5004,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "Were you in poor physical\ncondition?",
+      "_offset": 5034,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "T-that must have been it... I was\nprobably being unusually clumsy...",
+      "_offset": 5071,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "No, that's not what I...",
+      "_offset": 5140,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "You're likely to drop dishes more\noften when you're cooking quickly.",
+      "_offset": 5165,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "You're right!",
+      "_offset": 5234,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "My goal is to not break any dishes\ntoday!",
+      "_offset": 5248,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "I think I'll put fermented\nsoybeans in these fried eggs after\nall.",
+      "_offset": 5290,
+      "_length": 66,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "Yes... fermented soybeans are\ndelicious.",
+      "_offset": 5357,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "Aren't they? All right, how about\nputting fresh cream on kimchi\nfried rice?",
+      "_offset": 5398,
+      "_length": 75,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "T-that sounds delicious...",
+      "_offset": 5474,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "I think that might be impossible...",
+      "_offset": 5501,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "Then we'll go eat some as soon as\nwe get home!",
+      "_offset": 5537,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "Ah, all right...!",
+      "_offset": 5584,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "Eeeeeeeh?! I bet your cooking's\njust as bad, Koushirou!",
+      "_offset": 5602,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "The point is getting the perfect\nbalance of sweet and spicy!",
+      "_offset": 5658,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "Return to the restaurant",
+      "_offset": 5719,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "Talk to everyone for a bit longer",
+      "_offset": 5744,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "Let's return to the restaurant\nright away. I'll start cooking\nwith the recipe as reference!",
+      "_offset": 5778,
+      "_length": 91,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "We have to hurry up and\ncollect all the ingredients!",
+      "_offset": 5870,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "We can't go there! We have to\nhurry up, return to the\nrestaurant, and start cooking!",
+      "_offset": 5923,
+      "_length": 84,
+      "speaker_id": 0,
+      "translation": ""
+    }
+  ]
+}

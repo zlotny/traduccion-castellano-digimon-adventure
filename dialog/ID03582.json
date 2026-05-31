@@ -1,0 +1,702 @@
+{
+  "file_id": "ID03582",
+  "text_count": 87,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "��������We're finally at Spiral Mountain.",
+      "_offset": 2077,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "MetalSeadramon, Pinocchimon, and\nMugendramon...",
+      "_offset": 2119,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "We wouldn't have been able to\ndefeat them alone.",
+      "_offset": 2167,
+      "_length": 48,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "That's right. We were helped by so\nmany other Digimon...",
+      "_offset": 2216,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "But...",
+      "_offset": 2273,
+      "_length": 6,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "We won't be able to defeat Piemon\nif we can't all get back together\nagain...",
+      "_offset": 2280,
+      "_length": 76,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "Taichi...",
+      "_offset": 2357,
+      "_length": 9,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "Ah, don't worry about it. Come on,\nlet's hurry to the top!",
+      "_offset": 2367,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "Taichi! What's that?",
+      "_offset": 2426,
+      "_length": 20,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "Remember what Chuumon said?",
+      "_offset": 2447,
+      "_length": 27,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "The Dark Masters live on top of\nSpiral Mountain.",
+      "_offset": 2475,
+      "_length": 48,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "So then that thing up there...",
+      "_offset": 2524,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "That's where they live, right?",
+      "_offset": 2555,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "That's where they live, right?",
+      "_offset": 2586,
+      "_length": 30,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "Someone's coming!",
+      "_offset": 2617,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "Huh?",
+      "_offset": 2635,
+      "_length": 4,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "Oh hoh hoh! Welcome, my adorable\nlittle children!",
+      "_offset": 2640,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "This Digimon gives me the creeps!",
+      "_offset": 2690,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "That's one of the Nightmare\nSoldiers.",
+      "_offset": 2724,
+      "_length": 37,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "You're tired, aren't you? Then\nI'll let you sleep... for\neternity!",
+      "_offset": 2762,
+      "_length": 66,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "L-Lord Piemon!",
+      "_offset": 2829,
+      "_length": 14,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "We did it!",
+      "_offset": 2844,
+      "_length": 10,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "Hahaha...",
+      "_offset": 2855,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "Piemon...",
+      "_offset": 2865,
+      "_length": 9,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "The final Dark Master...",
+      "_offset": 2875,
+      "_length": 24,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "Sora, I need you to do something\nfor me, and you're the only one\nwho can do it.",
+      "_offset": 2900,
+      "_length": 79,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "Huh?!",
+      "_offset": 2980,
+      "_length": 5,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "Go find Yamato! And take Takeru\nwith you!",
+      "_offset": 2986,
+      "_length": 41,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "But Piemon's right here!",
+      "_offset": 3028,
+      "_length": 24,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "Piemon's the last Dark Master, and\nhe's probably ridiculously\nstrong...",
+      "_offset": 3053,
+      "_length": 71,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "There's no way we're going to beat\nhim unless all of us work\ntogether!",
+      "_offset": 3125,
+      "_length": 70,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "Taichi's right.",
+      "_offset": 3196,
+      "_length": 15,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "Taichi...",
+      "_offset": 3212,
+      "_length": 9,
+      "speaker_id": 1,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "It's just like soccer.",
+      "_offset": 3222,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "Huh?",
+      "_offset": 3245,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "After Yamato and Mimi left us, I\nrealized...",
+      "_offset": 3250,
+      "_length": 44,
+      "speaker_id": 110,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "We can't keep charging in like\nthis. I don't want there to be any\nmore sacrifices.",
+      "_offset": 3295,
+      "_length": 82,
+      "speaker_id": 101,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "Taichi... I'll make sure to tell\nthem that!",
+      "_offset": 3378,
+      "_length": 43,
+      "speaker_id": 100,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "Good! Now hurry!",
+      "_offset": 3422,
+      "_length": 16,
+      "speaker_id": 97,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "Takeru!",
+      "_offset": 3439,
+      "_length": 7,
+      "speaker_id": 115,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "Let's go, Sora!",
+      "_offset": 3447,
+      "_length": 15,
+      "speaker_id": 110,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "Hahaha...",
+      "_offset": 3463,
+      "_length": 9,
+      "speaker_id": 110,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "I'm counting on you, Agumon!",
+      "_offset": 3473,
+      "_length": 28,
+      "speaker_id": 119,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "Okay, Taichi!",
+      "_offset": 3502,
+      "_length": 13,
+      "speaker_id": 103,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "Watch out! He's a tough one!",
+      "_offset": 3516,
+      "_length": 28,
+      "speaker_id": 121,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "We're almost at the top. We'll\ntake our last break.",
+      "_offset": 3545,
+      "_length": 51,
+      "speaker_id": 32,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "Okay! Time to get moving!",
+      "_offset": 3597,
+      "_length": 25,
+      "speaker_id": 63,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "Yeah!",
+      "_offset": 3623,
+      "_length": 5,
+      "speaker_id": 101,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "We've gone through a lot to get\nhere, haven't we?",
+      "_offset": 3629,
+      "_length": 49,
+      "speaker_id": 105,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "Yeah...",
+      "_offset": 3679,
+      "_length": 7,
+      "speaker_id": 103,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "I'm really glad I'm here with you\nguys.",
+      "_offset": 3687,
+      "_length": 39,
+      "speaker_id": 108,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "Hey, Taichi, I wonder if we'll\never see the others again...",
+      "_offset": 3731,
+      "_length": 59,
+      "speaker_id": 104,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "I don't know.",
+      "_offset": 3791,
+      "_length": 13,
+      "speaker_id": 98,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "Of course we will!",
+      "_offset": 3805,
+      "_length": 18,
+      "speaker_id": 110,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "Taichi...",
+      "_offset": 3824,
+      "_length": 9,
+      "speaker_id": 101,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "We'll do everything we can. We'll\nhave to make up for everyone who's\nnot here, too.",
+      "_offset": 3834,
+      "_length": 83,
+      "speaker_id": 39,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "Yeah... you're right.",
+      "_offset": 3918,
+      "_length": 21,
+      "speaker_id": 32,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "We've been separated multiple\ntimes, and we've always managed to\nget together again.",
+      "_offset": 3940,
+      "_length": 84,
+      "speaker_id": 76,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "Yeah, you're right.",
+      "_offset": 4025,
+      "_length": 19,
+      "speaker_id": 46,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "We'll do everything we can. We'll\nhave to make up for everyone who's\nnot here, too.",
+      "_offset": 4045,
+      "_length": 83,
+      "speaker_id": 116,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "Yeah!",
+      "_offset": 4129,
+      "_length": 5,
+      "speaker_id": 109,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "I'll do it! I'll do whatever I can\ndo!",
+      "_offset": 4135,
+      "_length": 38,
+      "speaker_id": 110,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "We won't be able to defeat Piemon\nlike this.",
+      "_offset": 4174,
+      "_length": 44,
+      "speaker_id": 102,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "Koushirou!",
+      "_offset": 4219,
+      "_length": 10,
+      "speaker_id": 104,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "I think so, too. Unless we get all\nthe Chosen Children back together,\nwe're going to lose.",
+      "_offset": 4230,
+      "_length": 90,
+      "speaker_id": 80,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "So you've realized... the only\nreason we've been able to get this\nfar is because of your strategies.",
+      "_offset": 4321,
+      "_length": 100,
+      "speaker_id": 110,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "Not really strategy, more like\njust the stuff I think up...",
+      "_offset": 4422,
+      "_length": 59,
+      "speaker_id": 114,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "I trust you, Taichi.",
+      "_offset": 4482,
+      "_length": 20,
+      "speaker_id": 110,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "Koushirou...",
+      "_offset": 4503,
+      "_length": 12,
+      "speaker_id": 119,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "I believe in you, Taichi.",
+      "_offset": 4516,
+      "_length": 25,
+      "speaker_id": 97,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "I wonder if Yamato will come...",
+      "_offset": 4542,
+      "_length": 31,
+      "speaker_id": 72,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "Whenever I was getting all\nself-centered, Yamato acted in \neveryone's best interest.",
+      "_offset": 4574,
+      "_length": 84,
+      "speaker_id": 117,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "You two were always fighting, even\nfrom the start.",
+      "_offset": 4659,
+      "_length": 50,
+      "speaker_id": 99,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "Yeah...",
+      "_offset": 4710,
+      "_length": 7,
+      "speaker_id": 97,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "So there's no need to worry! He's\nnot the kind of guy who'd abandon\nhis friends!",
+      "_offset": 4718,
+      "_length": 80,
+      "speaker_id": 99,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "That's right! I trust Yamato!",
+      "_offset": 4799,
+      "_length": 29,
+      "speaker_id": 32,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "I trust Yamato!",
+      "_offset": 4829,
+      "_length": 15,
+      "speaker_id": 33,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "Are you scared, Hikari?",
+      "_offset": 4845,
+      "_length": 23,
+      "speaker_id": 46,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "No. I was scared when Vamdemon\nwas there, and I couldn't do\nanything...",
+      "_offset": 4869,
+      "_length": 71,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "But now, Tailmon's with me.",
+      "_offset": 4941,
+      "_length": 27,
+      "speaker_id": 32,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "I'll protect Hikari!",
+      "_offset": 4969,
+      "_length": 20,
+      "speaker_id": 116,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "I wonder where Yamato and the\nothers went?",
+      "_offset": 4990,
+      "_length": 42,
+      "speaker_id": 79,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "I trust Yamato.",
+      "_offset": 5033,
+      "_length": 15,
+      "speaker_id": 87,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "If that's what you think, then\nI'll trust him, too!",
+      "_offset": 5049,
+      "_length": 51,
+      "speaker_id": 104,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "I trust Yamato, too!",
+      "_offset": 5101,
+      "_length": 20,
+      "speaker_id": 97,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "Time to get moving",
+      "_offset": 5122,
+      "_length": 18,
+      "speaker_id": 46,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "Talk with everyone else a bit more",
+      "_offset": 5141,
+      "_length": 34,
+      "speaker_id": 101,
+      "translation": ""
+    }
+  ]
+}

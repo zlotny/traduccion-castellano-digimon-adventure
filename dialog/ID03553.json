@@ -1,0 +1,1510 @@
+{
+  "file_id": "ID03553",
+  "text_count": 188,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "��������So, princess, where should we go?",
+      "_offset": 969,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "Ugh! Don't call me \"princess\"!",
+      "_offset": 1011,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "I was joking! Joking!",
+      "_offset": 1042,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "Heeeeeeeeeey!",
+      "_offset": 1064,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "It's Yamato!",
+      "_offset": 1078,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "Have you seen Sora?",
+      "_offset": 1091,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "No, we haven't been able to find\nher.",
+      "_offset": 1111,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "Really? I wonder where she went.",
+      "_offset": 1149,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "I...saw Sora.",
+      "_offset": 1182,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "Huh? Where'd you see her?",
+      "_offset": 1196,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "At the Gekomon castle. I thought\nit might have been a dream, but...",
+      "_offset": 1222,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "I have a feeling...the voice that\ntold me not to eat the mushrooms\nwas also Sora's.",
+      "_offset": 1290,
+      "_length": 83,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "Really?",
+      "_offset": 1374,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "But why isn't Sora showing herself\nto us?",
+      "_offset": 1382,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "Worrying about it won't solve\nanything. We have to find her in\nthe flesh first.",
+      "_offset": 1424,
+      "_length": 79,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "Heeeeey! Soraaaaaaaa!",
+      "_offset": 1504,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "Soraaaaaaaaa!",
+      "_offset": 1526,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "What's going on?",
+      "_offset": 1543,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "I hear something.",
+      "_offset": 1560,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "Huh? Maybe it's Sora.",
+      "_offset": 1578,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "It's a Flymon!",
+      "_offset": 1600,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "Not good! Flymon are real fast!",
+      "_offset": 1615,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "Birdramon! She saved us!",
+      "_offset": 1647,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "If Birdramon is here, then so is\nSora!",
+      "_offset": 1672,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "She's there! Over there!",
+      "_offset": 1711,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "Soraaaaaa! Wait for us!",
+      "_offset": 1736,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "Soraaaaaa! Wait for us!",
+      "_offset": 1760,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "Wait, Sora!",
+      "_offset": 1784,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "Why are you running away?!",
+      "_offset": 1796,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "Sora, do you hate us?",
+      "_offset": 1823,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "No...I don't.",
+      "_offset": 1845,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "Sora, go ahead. Tell them.",
+      "_offset": 1859,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "The night Piyomon and I left to\nlook for Taichi, I saw them.",
+      "_offset": 1886,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "PicoDevimon was talking to\nsomeone.",
+      "_offset": 1947,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "What were they talking about?",
+      "_offset": 1983,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "Everyone's Crests have a meaning.\nFor example, Taichi has the Crest\nof Courage...",
+      "_offset": 2013,
+      "_length": 81,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "The Crest of Courage...",
+      "_offset": 2095,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "Yamato has the Crest of\nFriendship.",
+      "_offset": 2119,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "Friendship...",
+      "_offset": 2155,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "What about me?",
+      "_offset": 2169,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "You have the Crest of Hope.",
+      "_offset": 2184,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "The Crest of Hope...Huh.",
+      "_offset": 2212,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "Koushirou has the Crest of\nKnowledge, Jou has the Crest of\nHonesty...",
+      "_offset": 2237,
+      "_length": 69,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "Mimi has the Crest of Purity, and\nI...have the Crest of Love.",
+      "_offset": 2307,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "Huh. The Crest of Love suits you,\nSora.",
+      "_offset": 2369,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "No, it doesn't! It doesn't suit me\nat all!",
+      "_offset": 2409,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "But Sora, you're always worrying\nabout us...",
+      "_offset": 2452,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "I don't care about everyone! You\ndon't know what I'm *really* like!",
+      "_offset": 2497,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "I'm sorry...",
+      "_offset": 2569,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "W-what's wrong?",
+      "_offset": 2582,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "My Crest will never glow.",
+      "_offset": 2598,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "Huh?",
+      "_offset": 2624,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "Because I don't have any love.",
+      "_offset": 2629,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "What do you mean, you don't have\nany love?",
+      "_offset": 2660,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "PicoDevimon said that I was raised\nwithout any real love...",
+      "_offset": 2703,
+      "_length": 59,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "He said, because of that, my Crest\nwill never glow!",
+      "_offset": 2763,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "Don't be silly. PicoDevimon was\njust lying.",
+      "_offset": 2815,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "It's not a lie. When I was on the\ngirls' soccer team...",
+      "_offset": 2859,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "I was injured, but no matter how\nmuch I asked, my mother wouldn't \nlet me go to an important match.",
+      "_offset": 2915,
+      "_length": 99,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "She only sees me as the daughter\nof a flower arrangement school\nhead.",
+      "_offset": 3019,
+      "_length": 69,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "What's that? A school head?",
+      "_offset": 3089,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "A hereditary teacher of flower\narrangement.",
+      "_offset": 3117,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "So if I grew up without love, I\ncan't do anything about that!",
+      "_offset": 3161,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "But even if that's true, you can't\njust believe everything\nPicoDevimon says!",
+      "_offset": 3223,
+      "_length": 76,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "W-waaaaaaaaaaaaah!",
+      "_offset": 3300,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "H-hey, Yamato. What am I supposed\nto do at a time like this?",
+      "_offset": 3319,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "If she wants to cry, let her cry.",
+      "_offset": 3380,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "Yamato's such an adult.",
+      "_offset": 3414,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "Well, more than Taichi, anyway.",
+      "_offset": 3438,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "Thank you, Sora. You were secretly\nhelping us, weren't you?",
+      "_offset": 3470,
+      "_length": 59,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "She knew PicoDevimon was up to\nsomething, so she decided to help\nyou in secret.",
+      "_offset": 3530,
+      "_length": 79,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "I didn't know.",
+      "_offset": 3610,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "I...like having you around, Sora.",
+      "_offset": 3625,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "Huh?",
+      "_offset": 3659,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "Huh?",
+      "_offset": 3664,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "So, don't leave us anymore. I\ndon't want my family...",
+      "_offset": 3669,
+      "_length": 53,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "I mean, I don't want everyone to\nsplit up.",
+      "_offset": 3723,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "Takeru... Okay, I understand.",
+      "_offset": 3766,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "Things have calmed down a bit.",
+      "_offset": 3796,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "You're our friend no matter what",
+      "_offset": 3827,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "Your Crest will surely glow someday",
+      "_offset": 3860,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "Even if your Crest doesn't glow,\nSora, you're still our friend.",
+      "_offset": 3896,
+      "_length": 63,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "Thanks, but then how are we gonna\nsave the world?",
+      "_offset": 3960,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "We'll all think of a way.",
+      "_offset": 4010,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "Yeah. I understand.",
+      "_offset": 4036,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "Your Crest will glow someday,\nSora. I'm sure of it.",
+      "_offset": 4056,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "Haha! It's weird for you to say\nthings like \"I'm sure of it\".",
+      "_offset": 4108,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "My intuition's always right on the\nmark, you know.",
+      "_offset": 4170,
+      "_length": 50,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "I get the feeling your Crest will\nglow, too.",
+      "_offset": 4221,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "Me too!",
+      "_offset": 4266,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "Thanks, guys.",
+      "_offset": 4274,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "Sora's been deep in thought over\nthere.",
+      "_offset": 4288,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "Yeah, she's dealing with a lot of\nstuff.",
+      "_offset": 4328,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "Sora will cheer up.",
+      "_offset": 4369,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "Yeah! She's just a bit tired.",
+      "_offset": 4389,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "Thank you for earlier, Takeru!",
+      "_offset": 4419,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "What do you mean?",
+      "_offset": 4450,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "For convincing Sora.",
+      "_offset": 4468,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 98,
+      "english": "Your words cheered her up, Takeru!",
+      "_offset": 4489,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 99,
+      "english": "Yeah! I think so, too!",
+      "_offset": 4524,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 100,
+      "english": "I just said what I was thinking.",
+      "_offset": 4547,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 101,
+      "english": "That's good.",
+      "_offset": 4580,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 102,
+      "english": "I have to do something impressive\nbefore Lord Vamdemon gets here!",
+      "_offset": 4593,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 103,
+      "english": "Sora! Watch out!",
+      "_offset": 4659,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 104,
+      "english": "Piyomon!",
+      "_offset": 4676,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 105,
+      "english": "Gh!",
+      "_offset": 4685,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 106,
+      "english": "Piyomon! Hang in there, Piyomon!",
+      "_offset": 4689,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 107,
+      "english": "I'll...protect Sora...",
+      "_offset": 4722,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 108,
+      "english": "Mm, what's going on?",
+      "_offset": 4745,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 109,
+      "english": "Aaaaah! PicoDevimon!",
+      "_offset": 4766,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 110,
+      "english": "Uh-oh!",
+      "_offset": 4787,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 111,
+      "english": "W-what?!",
+      "_offset": 4794,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 112,
+      "english": "Chosen Children...",
+      "_offset": 4806,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 113,
+      "english": "PicoDevimon was talking to this\nguy!",
+      "_offset": 4825,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 114,
+      "english": "He's not \"this guy\"! He's Lord\nVamdemon!",
+      "_offset": 4862,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 115,
+      "english": "Vamdemon...",
+      "_offset": 4903,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 116,
+      "english": "Hahaha. Your journey ends here!",
+      "_offset": 4915,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 117,
+      "english": "Agumon!",
+      "_offset": 4947,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 118,
+      "english": "Yeah! Let's go, everyone!",
+      "_offset": 4955,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 119,
+      "english": "He's strong, Taichi.",
+      "_offset": 4981,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 120,
+      "english": "No way...",
+      "_offset": 5002,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 121,
+      "english": "I have to go...",
+      "_offset": 5012,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 122,
+      "english": "What?!",
+      "_offset": 5028,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 123,
+      "english": "I'm the only one left.",
+      "_offset": 5035,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 124,
+      "english": "You can't, not in that state!",
+      "_offset": 5058,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 125,
+      "english": "I know, Sora, but I have to go!",
+      "_offset": 5088,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 126,
+      "english": "You can't!",
+      "_offset": 5120,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 127,
+      "english": "Let me go!",
+      "_offset": 5131,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 128,
+      "english": "No! You can't go!",
+      "_offset": 5142,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 129,
+      "english": "Why can't you understand?!",
+      "_offset": 5160,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 130,
+      "english": "Those are...the words I said to my\nmother back then....",
+      "_offset": 5187,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 131,
+      "english": "My mother...was putting me before\neverything else...",
+      "_offset": 5243,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 132,
+      "english": "Take that!",
+      "_offset": 5296,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 133,
+      "english": "Is that all you've got?",
+      "_offset": 5307,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 134,
+      "english": "Birdramoooooooooon!",
+      "_offset": 5331,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 135,
+      "english": "W-what's this light?!",
+      "_offset": 5351,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 136,
+      "english": "My Crest glowed!",
+      "_offset": 5373,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 137,
+      "english": "I can feel the depths of Sora's\nlove!",
+      "_offset": 5390,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 138,
+      "english": "Yeah...",
+      "_offset": 5428,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 139,
+      "english": "Aaaaargh! The Crest of Love just\nhad to activate at the worst\npossible time!",
+      "_offset": 5436,
+      "_length": 76,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 140,
+      "english": "I will protect Sora!",
+      "_offset": 5513,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 141,
+      "english": "You look so cool, Piyomon!",
+      "_offset": 5534,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 142,
+      "english": "Shadow Wing!",
+      "_offset": 5561,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 143,
+      "english": "Tch!",
+      "_offset": 5574,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 144,
+      "english": "Here's your chance!",
+      "_offset": 5579,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 145,
+      "english": "Everyone, run for it!",
+      "_offset": 5599,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 146,
+      "english": "The sun will be rising soon.\nYou've barely escaped, children...",
+      "_offset": 5621,
+      "_length": 63,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 147,
+      "english": "See? Your Crest glowed!",
+      "_offset": 5685,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 148,
+      "english": "I realized, I...was acting exactly\nlike my mother.",
+      "_offset": 5709,
+      "_length": 50,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 149,
+      "english": "Sora...",
+      "_offset": 5760,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 150,
+      "english": "And then I realized that my mother\nreally does love me.",
+      "_offset": 5768,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 151,
+      "english": "Aaaah, I want Sora's love, too.",
+      "_offset": 5824,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 152,
+      "english": "Y-you idiot! Taichi, you can't\njust *say* that!",
+      "_offset": 5856,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 153,
+      "english": "Huh? Jou, your face is red.",
+      "_offset": 5904,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 154,
+      "english": "Jou, I'll give you my love, too.",
+      "_offset": 5932,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 155,
+      "english": "Huh?",
+      "_offset": 5965,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 156,
+      "english": "Here!",
+      "_offset": 5970,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 157,
+      "english": "These are just tree nuts.\nSeriously...",
+      "_offset": 5976,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 158,
+      "english": "Hahaha!",
+      "_offset": 6015,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 159,
+      "english": "Haha!",
+      "_offset": 6023,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 160,
+      "english": "Chosen Children...",
+      "_offset": 6029,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 161,
+      "english": "Hey, old man. What do you want\nthis time?",
+      "_offset": 6048,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 162,
+      "english": "Well, I've got good news and bad\nnews. Which do you want to hear?",
+      "_offset": 6090,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 163,
+      "english": "We're going to be disappointed\nanyway, so let's hear the good\nnews.",
+      "_offset": 6156,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 164,
+      "english": "Then here's the good news. I've\nfound a comrade for you.",
+      "_offset": 6224,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 165,
+      "english": "A comrade? You mean a Chosen\nChild?",
+      "_offset": 6281,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 166,
+      "english": "Yes. In truth, there are actually\neight Chosen Children.",
+      "_offset": 6317,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 167,
+      "english": "actually eight Chosen Children.",
+      "_offset": 6374,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 168,
+      "english": "actually eight Chosen Children.",
+      "_offset": 6406,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 169,
+      "english": "Whaaaaaaaat?!!",
+      "_offset": 6438,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 170,
+      "english": "You can't fix the distortions in \nthis world unless all eight of you \nare together.",
+      "_offset": 6453,
+      "_length": 83,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 171,
+      "english": "And the distortions will affect\nyour world as well. Understand?",
+      "_offset": 6537,
+      "_length": 63,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 172,
+      "english": "Of course!",
+      "_offset": 6601,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 173,
+      "english": "I wonder what kind of person they\nare.",
+      "_offset": 6612,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 174,
+      "english": "So where are they? What's their\nname?",
+      "_offset": 6651,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 175,
+      "english": "As for their name... I don't know!",
+      "_offset": 6689,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 176,
+      "english": "...hey, old man!",
+      "_offset": 6724,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 177,
+      "english": "But I do know where they are.\nThey're in Japan.",
+      "_offset": 6741,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 178,
+      "english": "Japan?!",
+      "_offset": 6789,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 179,
+      "english": "Where's that?",
+      "_offset": 6797,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 180,
+      "english": "It's Taichi's world.",
+      "_offset": 6811,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 181,
+      "english": "Ah, right, you've been there\nbefore, Agumon.",
+      "_offset": 6832,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 182,
+      "english": "So, what's the bad news?",
+      "_offset": 6877,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 183,
+      "english": "Vamdemon already knows about what\nI just said, and he's heading to\nJapan to reach them first.",
+      "_offset": 6902,
+      "_length": 93,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 184,
+      "english": "He's raising an army so that he\ncan find and kill the child.",
+      "_offset": 6996,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 185,
+      "english": "Huh?! Vamdemon's going to Japan?!",
+      "_offset": 7057,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 186,
+      "english": "There should be a gate leading to\nJapan in Vamdemon's castle.",
+      "_offset": 7091,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 187,
+      "english": "I'm counting on you to stop his\nplans and protect your comrade...",
+      "_offset": 7153,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    }
+  ]
+}

@@ -1,0 +1,1550 @@
+{
+  "file_id": "ID03583",
+  "text_count": 193,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "scape looks different, so\nI don't know how to find the\nVillage of Beginnings...",
+      "_offset": 100,
+      "_length": 79,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "I'm tired! I can't take another\nstep...",
+      "_offset": 180,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "Mimi is hungry, ribbit!",
+      "_offset": 220,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "Hang in there, tama! I'll be back\nwith some food, tama!",
+      "_offset": 244,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "Ah! No, no, I didn't mean to...",
+      "_offset": 300,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "We know, ribbit!",
+      "_offset": 332,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "But we'd like to do something\nuseful, tama! So wait for us,\ntama!",
+      "_offset": 349,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "I'll go with you, too!",
+      "_offset": 415,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "Aren't they being a little *too*\nnice to me?",
+      "_offset": 438,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "That's because they like you.",
+      "_offset": 483,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "Sorry for the wait, ribbit!",
+      "_offset": 513,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "Wow! You even found some cola! Aw,\nbut it's not cold...",
+      "_offset": 541,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "Let me borrow it. I'll chill it up\nfor you.",
+      "_offset": 597,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "Burn, burn, burn! And it's cooked.",
+      "_offset": 641,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "Not bad! You're pretty useful!",
+      "_offset": 676,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "*zzzzzzzzzz*",
+      "_offset": 707,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "You know, Jou... you don't have to\nbe a doctor if you don't want to.",
+      "_offset": 720,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "But Dad said...",
+      "_offset": 789,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "That's what Dad wants. But you\nneed to find your own path for\nyourself.",
+      "_offset": 805,
+      "_length": 71,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "It was a dream...",
+      "_offset": 877,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "Ogremon?",
+      "_offset": 895,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "Yeah?",
+      "_offset": 904,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "It's my turn.",
+      "_offset": 910,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "Really? Okay, take it.",
+      "_offset": 924,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "Find my own path... Is that what\nyou did, Yamato?",
+      "_offset": 947,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "This is the Village of Beginnings.",
+      "_offset": 997,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "So cruel...",
+      "_offset": 1032,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "What's wrong, Jou?",
+      "_offset": 1044,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "I just...",
+      "_offset": 1063,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "Yeah, that's it!",
+      "_offset": 1073,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "Hey, Jou!",
+      "_offset": 1090,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "Was that... the sound of a\nharmonica?",
+      "_offset": 1100,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "Let's go check it out!",
+      "_offset": 1138,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "What?! It was you... I was so sure\nit was...",
+      "_offset": 1161,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "Now that the Village of Beginnings\nis like this, there's nothing left\nfor me to do...",
+      "_offset": 1206,
+      "_length": 85,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "By the way, how are Takeru and\nPatamon doing?",
+      "_offset": 1292,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "Oh! They're doing fine.",
+      "_offset": 1338,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "We're not really traveling\ntogether, though.",
+      "_offset": 1362,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "I see... Good to hear!",
+      "_offset": 1407,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "Hey, why don't you come with us?",
+      "_offset": 1430,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "Huh?",
+      "_offset": 1463,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "The village won't go back to\nnormal until we defeat the Dark\nMasters.",
+      "_offset": 1468,
+      "_length": 69,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "We're looking for allies to help\nus!",
+      "_offset": 1538,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "Defeat the Dark Masters? Man, you\nguys think big!",
+      "_offset": 1575,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "We're not just thinking about it!\nThe fight's already started!",
+      "_offset": 1625,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "Takeru and Patamon are fighting,\ntoo!",
+      "_offset": 1688,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "Well, I guess I can't just let\nPatamon one-up me!",
+      "_offset": 1726,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "I'll come with you, then! You guys\nwon't be able to do anything by\nyourselves, anyway.",
+      "_offset": 1776,
+      "_length": 86,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "Now *what* did ya just say?!",
+      "_offset": 1863,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "By the way, about that\nharmonica...",
+      "_offset": 1892,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "About that harmonica...",
+      "_offset": 1928,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "Oh, this? Someone dropped it on\nthe shore. I found it there.",
+      "_offset": 1952,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "Dropped? Let me see it for a\nsecond...\nYep, it's Yamato's.",
+      "_offset": 2013,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "it's Yamato's.",
+      "_offset": 2072,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "Really? Then he must be around\nhere! But...",
+      "_offset": 2087,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "Now that you mention it, I saw a\nswan boat going off into the\nsea...",
+      "_offset": 2131,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "I thought it was the Nightmare\nSoldiers doing something weird\nagain.",
+      "_offset": 2200,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "A swan boat?",
+      "_offset": 2269,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "No doubt about it, it's Yamato.\nListen, Mimi...",
+      "_offset": 2282,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "Now that we've gotten some more\nallies, Gomamon and I don't need\nto be here anymore, right?",
+      "_offset": 2330,
+      "_length": 91,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "Huh? What do you mean? Are you\ngoing somewhere, Jou?",
+      "_offset": 2422,
+      "_length": 52,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "I'm going after Yamato.",
+      "_offset": 2475,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "But then we should all go\ntogether...",
+      "_offset": 2499,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "No, Gomamon and I will go by\nourselves.",
+      "_offset": 2537,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "Why?",
+      "_offset": 2577,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "We have to follow our own paths.",
+      "_offset": 2582,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "You're taking the path of finding\nallies, Mimi. Taichi's group is \ntaking the path of fighting.",
+      "_offset": 2615,
+      "_length": 95,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "No, no, I'm not going to let\nTaichi fight by himself. I want to\nfight, too!",
+      "_offset": 2715,
+      "_length": 75,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "And I thought, \"But I'm not\nstrong, I'm only getting in the\nway...\"",
+      "_offset": 2791,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "Jou...",
+      "_offset": 2859,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "But I'm pretty sure there's\nsomething that only I can do!",
+      "_offset": 2866,
+      "_length": 57,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "I think that's the kind of thing\nYamato was thinking, too. So I'm\ngonna go after him!",
+      "_offset": 2924,
+      "_length": 85,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "Jou...",
+      "_offset": 3010,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "Let 'im go. He's tougher than he\nlooks!",
+      "_offset": 3017,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "Is it okay for me to come to a\nconclusion, just like that?",
+      "_offset": 3057,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "Of course it is!",
+      "_offset": 3116,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "Thanks, Gomamon!",
+      "_offset": 3133,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "Yamato, this cave creeps me out.\nLet's find a way out of here!",
+      "_offset": 3150,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "Yeah, you're right...",
+      "_offset": 3213,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "I've always been saying that\nTakeru needs me, but the truth is \nthat I'm the one who needed him.",
+      "_offset": 3235,
+      "_length": 96,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "Huh?",
+      "_offset": 3332,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "If I got him to depend on me, then\nI'd have my life's purpose...",
+      "_offset": 3337,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "That's why I always got mad at\nTaichi. I felt like he was taking\nhim away from me...",
+      "_offset": 3402,
+      "_length": 84,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "What's wrong? Yamato...",
+      "_offset": 3487,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "It's over for me. I can't just go\nback to being their friend.",
+      "_offset": 3511,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "Don't say that! All eight of us\nhave to work together if we wanna\nsave the world!",
+      "_offset": 3573,
+      "_length": 81,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "They don't need me. Nothing would\nchange if I weren't there...",
+      "_offset": 3655,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "Yamato...",
+      "_offset": 3718,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "Ow! The heck was that?!",
+      "_offset": 3728,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "There's only one of you in this\nworld, Yamato!",
+      "_offset": 3752,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "What am *I* supposed to do if\nyou're not here?",
+      "_offset": 3803,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "I spent all this time in this\nworld, waiting for you!",
+      "_offset": 3850,
+      "_length": 53,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "Gabumon...",
+      "_offset": 3904,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "Do you really want to be alone?\nBecause if you really, truly do,\nI'll leave.",
+      "_offset": 3915,
+      "_length": 76,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "No, I don't want to be alone... I\nlied.",
+      "_offset": 3992,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "I was just trying to feel cool...\nbut the truth is... I'm really\nlonely.",
+      "_offset": 4032,
+      "_length": 72,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "Yamato...",
+      "_offset": 4105,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "I always thought, \"I shouldn't\ncry\"... But I really, really want\nto!",
+      "_offset": 4115,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 98,
+      "english": "I hate being alone...",
+      "_offset": 4184,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 99,
+      "english": "I'm here, right? I'm relying on\nyou...",
+      "_offset": 4206,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 100,
+      "english": "So you can rely on me, and we'll\nbe able to do more together!",
+      "_offset": 4245,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 101,
+      "english": "Gabumon... you're right, you're\nhere with me.",
+      "_offset": 4307,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 102,
+      "english": "I'm not alone...",
+      "_offset": 4353,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 103,
+      "english": "Yamato...",
+      "_offset": 4370,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 104,
+      "english": "I've got friends... I've got\nTakeru, and my mom and dad...",
+      "_offset": 4380,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 105,
+      "english": "Did the cave just... disappear?",
+      "_offset": 4439,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 106,
+      "english": "Yamato, look!",
+      "_offset": 4471,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 107,
+      "english": "What's that?",
+      "_offset": 4485,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 108,
+      "english": "That thing was floating around\nyou. Didn't you notice?",
+      "_offset": 4498,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 109,
+      "english": "It was trying to get inside your\nheart.",
+      "_offset": 4553,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 110,
+      "english": "No, that's not it... the darkness\nin my lonely heart was attracting\nit.",
+      "_offset": 4593,
+      "_length": 71,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 111,
+      "english": "But it's different now!",
+      "_offset": 4665,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 112,
+      "english": "That's right!",
+      "_offset": 4689,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 113,
+      "english": "It's only gonna get tougher from\nhere on out, so I'm going to have\nto rely on you quite a bit.",
+      "_offset": 4703,
+      "_length": 94,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 114,
+      "english": "No problem!",
+      "_offset": 4798,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 115,
+      "english": "I'm not gonna just sit around and\ncomplain anymore.",
+      "_offset": 4810,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 116,
+      "english": "I don't mind if you do, as long as\nI'm the only one you do it to!",
+      "_offset": 4862,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 117,
+      "english": "Fine! Then I'll save my\ncomplaints, just for you!",
+      "_offset": 4928,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 118,
+      "english": "Haha!",
+      "_offset": 4978,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 119,
+      "english": "Haha!",
+      "_offset": 4984,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 120,
+      "english": "Heeeeeeey! Yamato!",
+      "_offset": 4990,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 121,
+      "english": "Jou!",
+      "_offset": 5009,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 122,
+      "english": "*pant* *pant* *pant*",
+      "_offset": 5014,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 123,
+      "english": "See? Did you see that? Look who\nfound him!",
+      "_offset": 5037,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 124,
+      "english": "Hey, I never said you *weren't*\ngonna!",
+      "_offset": 5080,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 125,
+      "english": "What's wrong?",
+      "_offset": 5119,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 126,
+      "english": "I just wanted to tell you that you\nshould follow your own path, and\nhave faith in it...",
+      "_offset": 5133,
+      "_length": 87,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 127,
+      "english": "I see.",
+      "_offset": 5221,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 128,
+      "english": "Oh, and here!",
+      "_offset": 5228,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 129,
+      "english": "Oh, and here!",
+      "_offset": 5242,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 130,
+      "english": "It's your harmonica, right?",
+      "_offset": 5256,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 131,
+      "english": "It's your harmonica, right?",
+      "_offset": 5284,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 132,
+      "english": "Oh! Thank you!",
+      "_offset": 5312,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 133,
+      "english": "Gabumon! Are you ready?",
+      "_offset": 5330,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 134,
+      "english": "Yeah!",
+      "_offset": 5354,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 135,
+      "english": "Well done, Gabumon!",
+      "_offset": 5360,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 136,
+      "english": "Great job, Gomamon!",
+      "_offset": 5380,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 137,
+      "english": "So what do we do now?",
+      "_offset": 5400,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 138,
+      "english": "Well... uh...",
+      "_offset": 5422,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 139,
+      "english": "Sora! Sora...!",
+      "_offset": 5436,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 140,
+      "english": "That voice...",
+      "_offset": 5454,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 141,
+      "english": "Could it be... Takeru?",
+      "_offset": 5468,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 142,
+      "english": "Let's go!",
+      "_offset": 5491,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 143,
+      "english": "Yeah!",
+      "_offset": 5501,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 144,
+      "english": "We can't find Yamato at all...",
+      "_offset": 5507,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 145,
+      "english": "(At this rate, Taichi and the\nothers are going to...)",
+      "_offset": 5538,
+      "_length": 53,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 146,
+      "english": "(No, I have to find them... I\npromised I would... I'll find\nthem, no matter what...)",
+      "_offset": 5592,
+      "_length": 84,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 147,
+      "english": "Sora! There's something black on\nyour feet!",
+      "_offset": 5677,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 148,
+      "english": "Huh?",
+      "_offset": 5721,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 149,
+      "english": "Aaaaaaaaah!",
+      "_offset": 5726,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 150,
+      "english": "Sora!",
+      "_offset": 5738,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 151,
+      "english": "Sora! Sora...!",
+      "_offset": 5744,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 152,
+      "english": "Takeru!",
+      "_offset": 5759,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 153,
+      "english": "Ah! Yamato! Where were you? I was\nso worried...",
+      "_offset": 5767,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 154,
+      "english": "I'm really sorry. I won't leave\nyou from now on. I promise.",
+      "_offset": 5815,
+      "_length": 59,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 155,
+      "english": "Huh? Yamato, you've changed...",
+      "_offset": 5875,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 156,
+      "english": "More importantly, what happened\nhere?",
+      "_offset": 5906,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 157,
+      "english": "Sora fell into that cave!",
+      "_offset": 5944,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 158,
+      "english": "Sora?",
+      "_offset": 5970,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 159,
+      "english": "It's a cave like the one we were\nin before...",
+      "_offset": 5976,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 160,
+      "english": "What cave?",
+      "_offset": 6022,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 161,
+      "english": "Let's go help her!",
+      "_offset": 6033,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 162,
+      "english": "Sora! What's wrong? Hey, Sora!",
+      "_offset": 6052,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 163,
+      "english": "Sora!",
+      "_offset": 6083,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 164,
+      "english": "Guys...",
+      "_offset": 6089,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 165,
+      "english": "Sora! What's wrong? Come on, get\nup...",
+      "_offset": 6097,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 166,
+      "english": "...! She's heavy!",
+      "_offset": 6136,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 167,
+      "english": "What the...?",
+      "_offset": 6154,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 168,
+      "english": "She's saying something...",
+      "_offset": 6167,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 169,
+      "english": "I have to find Mimi...",
+      "_offset": 6196,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 170,
+      "english": "And Jou, and Yamato... if I can't\nhelp Taichi, our world's done\nfor...",
+      "_offset": 6219,
+      "_length": 70,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 171,
+      "english": "She's being saying that for a\nwhile now.",
+      "_offset": 6290,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 172,
+      "english": "I have to get myself together... I\nhave to help Taichi... Or else the\nworld will end...",
+      "_offset": 6331,
+      "_length": 87,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 173,
+      "english": "Sora, you've got a real sense of\nresponsibility...",
+      "_offset": 6419,
+      "_length": 50,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 174,
+      "english": "Sora, you have to stop thinking\nlike that! This cave comes from \nthe darkness inside your heart!",
+      "_offset": 6470,
+      "_length": 96,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 175,
+      "english": "Thinking... like this...?",
+      "_offset": 6567,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 176,
+      "english": "We're not obligated to do\nanything!",
+      "_offset": 6593,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 177,
+      "english": "You don't have to do anything if\nyou don't want to! We came this\nfar because we did!",
+      "_offset": 6629,
+      "_length": 84,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 178,
+      "english": "If I don't want to... No, I have\nto...",
+      "_offset": 6714,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 179,
+      "english": "Sora, I know that things really\ndon't look good for us right\nnow...",
+      "_offset": 6753,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 180,
+      "english": "But we've come this far because we\ncan get past it!",
+      "_offset": 6821,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 181,
+      "english": "Can we... do it?",
+      "_offset": 6873,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 182,
+      "english": "Doesn't that give you courage?",
+      "_offset": 6890,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 183,
+      "english": "We've come this far... because we\ncan get past it!",
+      "_offset": 6921,
+      "_length": 50,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 184,
+      "english": "We can do it! That's right!",
+      "_offset": 6972,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 185,
+      "english": "Sora!",
+      "_offset": 7000,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 186,
+      "english": "Piyomon...",
+      "_offset": 7006,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 187,
+      "english": "I'm glad to see you back to\nnormal, Sora!",
+      "_offset": 7017,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 188,
+      "english": "Guys, Taichi's waiting for us!",
+      "_offset": 7059,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 189,
+      "english": "Yeah!",
+      "_offset": 7090,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 190,
+      "english": "Let's go meet up with Taichi!",
+      "_offset": 7096,
+      "_length": 29,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 191,
+      "english": "Yeah!",
+      "_offset": 7126,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 192,
+      "english": "All right, it's time to go!",
+      "_offset": 7132,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    }
+  ]
+}

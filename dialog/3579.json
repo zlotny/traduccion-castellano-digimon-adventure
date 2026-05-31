@@ -1,0 +1,982 @@
+{
+  "file_id": "3579",
+  "text_count": 122,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "��������*cough, cough*",
+      "_offset": 1800,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "Hikari!",
+      "_offset": 1823,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "Looks like her cold's returned...",
+      "_offset": 1831,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "Hikari... Are you okay?",
+      "_offset": 1865,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "Why didn't you tell us? You've\nbeen sick for a while, haven't\nyou?",
+      "_offset": 1893,
+      "_length": 66,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "I know, but... if we don't\nhurry... the Earth will...",
+      "_offset": 1960,
+      "_length": 53,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "Hikari...",
+      "_offset": 2014,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "I *knew* we shouldn't have brought\nher with us!",
+      "_offset": 2024,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "Huh? But unless Hikari is here, we\nwon't be able to save the Digimon\nworld, or the Earth!",
+      "_offset": 2072,
+      "_length": 89,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "But she's the kind of person who\nnever says anything and keeps it\nto herself...",
+      "_offset": 2162,
+      "_length": 79,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "Taichi...",
+      "_offset": 2242,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "There's a town here!",
+      "_offset": 2252,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "Thank goodness there happened to\nbe a town nearby.",
+      "_offset": 2273,
+      "_length": 50,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "Isn't it weird, though? There\naren't any Digimon in this town at\nall.",
+      "_offset": 2324,
+      "_length": 69,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "We're just lucky to be able to\nfind a bed for Hikari.",
+      "_offset": 2394,
+      "_length": 53,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "Hikari... are you okay?",
+      "_offset": 2448,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "I'll go out and find some medicine\nfor Hikari. Sorry, but... can you\ntake care of her?",
+      "_offset": 2472,
+      "_length": 86,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "Of course. Be careful, Taichi.",
+      "_offset": 2559,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "I'll go with you!",
+      "_offset": 2590,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "No, I need you to stay here.",
+      "_offset": 2608,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "We don't know when the Dark\nMasters might attack us again.",
+      "_offset": 2637,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "Okay! I'll protect everyone here,\nthen!",
+      "_offset": 2696,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "Just leave it to us!",
+      "_offset": 2736,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "Good man!",
+      "_offset": 2757,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "Taichi, there's a hospital! I'm\nsure we'll be able to find some\nmedicine there!",
+      "_offset": 2767,
+      "_length": 79,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "Okay, let's hurry!",
+      "_offset": 2847,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "Agumon! Did you find anything...",
+      "_offset": 2866,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "Bandages... adhesive plaster...\nnope, I can't find anything...",
+      "_offset": 2899,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "Taichi, I've found medicine!",
+      "_offset": 2962,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "Really?",
+      "_offset": 2991,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "Ugh, there's way too many\ndifferent kinds. Which one's cold\nmedicine?",
+      "_offset": 2999,
+      "_length": 69,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "If only Jou were here... His\nfather is a doctor, isn't he?",
+      "_offset": 3069,
+      "_length": 58,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "It wouldn't be Jou if he were\naround whenever you needed him...",
+      "_offset": 3128,
+      "_length": 63,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "I know! We can use the Internet to\nlook up which one is cold\nmedicine!",
+      "_offset": 3192,
+      "_length": 70,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "That's it! Go for it!",
+      "_offset": 3263,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "All right!",
+      "_offset": 3285,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "Lord Mugendramon, our connection\nhas been accessed from within the\nhospital.",
+      "_offset": 3296,
+      "_length": 76,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "Hmph... set the hospital as the\ntarget, and prepare to attack!",
+      "_offset": 3373,
+      "_length": 62,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "Roger! Metal Empire forces! March!",
+      "_offset": 3436,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "Metal Empire forces! March!",
+      "_offset": 3471,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "Here it is!",
+      "_offset": 3499,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "No doubt about it!",
+      "_offset": 3511,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "Great. Let's go back.",
+      "_offset": 3530,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "Aaaaaah!",
+      "_offset": 3552,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "What?!",
+      "_offset": 3561,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "At this rate, the building will\ncollapse! Taichi, we need to get\nout!",
+      "_offset": 3568,
+      "_length": 69,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "Right!",
+      "_offset": 3638,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "Aaaaagh! The heck are those?",
+      "_offset": 3645,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "Ugh, now isn't the time for this!",
+      "_offset": 3674,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "Get out of the way!",
+      "_offset": 3708,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "Now the town's full of Digimon!",
+      "_offset": 3728,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "You think they know we're here?",
+      "_offset": 3760,
+      "_length": 31,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "It's possible that they saw us\nwhile we were entering the\nhospital.",
+      "_offset": 3792,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "Gh! Right when we'd found the\nmedicine...",
+      "_offset": 3860,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "Why don't we hide for a bit and\nwait it out?",
+      "_offset": 3902,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "Okay. Let's find a place to hide,\nthen.",
+      "_offset": 3947,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "Taichi, let's rest here for a\nbit...",
+      "_offset": 3987,
+      "_length": 36,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "This a good place?",
+      "_offset": 4024,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "A church? Well... it'll have to do\nfor now.",
+      "_offset": 4043,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "That's it!",
+      "_offset": 4087,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "What's up, Koushirou?",
+      "_offset": 4098,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "I was careless...",
+      "_offset": 4120,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "Our enemies located our position \nfrom the signal I transmitted when \nI accessed their network...",
+      "_offset": 4138,
+      "_length": 97,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "What a great time to be careless!\nNow we're here, while Hikari is...",
+      "_offset": 4236,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "Hey there, Taichi...",
+      "_offset": 4305,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "What's wrong, Taichi? You're not\nacting like yourself. Is it\nbecause of Hikari?",
+      "_offset": 4326,
+      "_length": 79,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "Ah... I... I'm sorry...",
+      "_offset": 4406,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "Did something in particular\nhappen, Taichi?",
+      "_offset": 4430,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "Hikari... almost died, once,\nbecause of me.",
+      "_offset": 4474,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "I was in second grade, and she was\nin kindergarten. She had a cold,\nso she couldn't go to school.",
+      "_offset": 4521,
+      "_length": 97,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "She looked like she was doing\nbetter, so I took her outside to\nplay.",
+      "_offset": 4619,
+      "_length": 68,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "But instead, she was on the verge\nof death for 3 days 'til she was\ndischarged from the hospital.",
+      "_offset": 4692,
+      "_length": 96,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "And on that day, she said...",
+      "_offset": 4789,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "\"Taichi... I'm sorry I couldn't\nkick the ball very well.\"",
+      "_offset": 4818,
+      "_length": 57,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "Taichi...",
+      "_offset": 4876,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "That's the kind of person she is!\nShe always puts others before\nherself!",
+      "_offset": 4886,
+      "_length": 72,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "And if something's bothering her,\nshe won't say a thing until the \nend, no matter how much it hurts!",
+      "_offset": 4959,
+      "_length": 100,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "And that's why she didn't tell us\nabout her illness until it was too\nlate...",
+      "_offset": 5060,
+      "_length": 76,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "Yeah... and I'm supposed to be\nkeeping a close eye on her, and\nyet...",
+      "_offset": 5137,
+      "_length": 69,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "Taichi, you shouldn't blame\nyourself.",
+      "_offset": 5207,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "That's right! So let's get the\nmedicine to her, as quickly as we\ncan!",
+      "_offset": 5245,
+      "_length": 69,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "Yeah... but how? We're completely\nsurrounded.",
+      "_offset": 5315,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "We won't be able to attack them\nhead-on, but we can use their own\ntactics against them.",
+      "_offset": 5361,
+      "_length": 87,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "Whaddya mean by that, Koushirou?",
+      "_offset": 5449,
+      "_length": 32,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "We'll use a program that masks our\naccess point.",
+      "_offset": 5482,
+      "_length": 48,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "With this, we will be able to pull\nthe wool over their eyes.",
+      "_offset": 5531,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "We've caught their point of\naddress! They're...",
+      "_offset": 5592,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "Get to it! Tell me where they are,\nnow!",
+      "_offset": 5640,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "...I can't read this! The\nreactions are coming from all over\nthe map!",
+      "_offset": 5680,
+      "_length": 69,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "There's the house! We're here,\nHikari!",
+      "_offset": 5754,
+      "_length": 38,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "Hikari!",
+      "_offset": 5793,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "Aaaaaaaah!",
+      "_offset": 5801,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "No...",
+      "_offset": 5812,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "N-No way... Hikari...",
+      "_offset": 5818,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "Was that a missile?!",
+      "_offset": 5840,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "Huh?!",
+      "_offset": 5861,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "Angemon!",
+      "_offset": 5870,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "Angemon!",
+      "_offset": 5879,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 98,
+      "english": "Taichi! Are you okay?",
+      "_offset": 5888,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 99,
+      "english": "Takeru!",
+      "_offset": 5910,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 100,
+      "english": "Hikari!",
+      "_offset": 5918,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 101,
+      "english": "So you were safe after all!",
+      "_offset": 5926,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 102,
+      "english": "See? I protected everyone like I\nsaid I would, Taichi!",
+      "_offset": 5954,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 103,
+      "english": "Great job, Takeru!",
+      "_offset": 6009,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 104,
+      "english": "It's Mugendramon!",
+      "_offset": 6031,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 105,
+      "english": "Guys, run for it!",
+      "_offset": 6049,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 106,
+      "english": "This is where you will meet your\nend, Chosen Children! Infinity\nCannon!",
+      "_offset": 6067,
+      "_length": 71,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 107,
+      "english": "Gyaaaaah!",
+      "_offset": 6139,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 108,
+      "english": "Aaaaaaaah!",
+      "_offset": 6149,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 109,
+      "english": "Taichi!",
+      "_offset": 6160,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 110,
+      "english": "Hikariiiiiiii!",
+      "_offset": 6168,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 111,
+      "english": "Taichi, let's look for somewhere\nwe can find medicine.",
+      "_offset": 6183,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 112,
+      "english": "Okay!",
+      "_offset": 6238,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 113,
+      "english": "It's a church... I don't think\nwe'll find any medicine here.",
+      "_offset": 6244,
+      "_length": 60,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 114,
+      "english": "Let's look elsewhere!",
+      "_offset": 6305,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 115,
+      "english": "It's dangerous to go back to the\nhospital! We need to find a place\nto hide!",
+      "_offset": 6327,
+      "_length": 75,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 116,
+      "english": "Ugh! Right when we'd gotten the\nmedicine...",
+      "_offset": 6403,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 117,
+      "english": "The enemy is confused! Now's our\nchance!",
+      "_offset": 6447,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 118,
+      "english": "We need to hurry over to the\nhouse!",
+      "_offset": 6488,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 119,
+      "english": "An ambush... they're trying to\nblock our escape routes!",
+      "_offset": 6524,
+      "_length": 55,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 120,
+      "english": "We won't be able to get to the\nhouse at this rate.",
+      "_offset": 6580,
+      "_length": 50,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 121,
+      "english": "Taichi, we need to find a place to\nhide for now!",
+      "_offset": 6631,
+      "_length": 48,
+      "speaker_id": 0,
+      "translation": ""
+    }
+  ]
+}
