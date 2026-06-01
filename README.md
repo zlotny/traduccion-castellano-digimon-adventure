@@ -13,16 +13,16 @@ Traducción al español de España del juego **Digimon Adventure** para PSP (201
 
 | Categoría | Líneas | % |
 |-----------|-------:|--:|
-| Diálogos  | 734/12867 | 5.7% |
+| Diálogos  | 965/12867 | 7.5% |
 | EBOOT     | 0/3487   | 0.0% |
 | Nombres   | 0/201   | 0.0% |
-| **Total** | **734/16555** | **4.4%** |
+| **Total** | **965/16555** | **5.8%** |
 
 ### Progreso por arco
 
 | Arco | Líneas | Progreso |
 |------|-------:|----------|
-| Arco Devimon (Eps 1–13) | 734/2033 | `█████░░░░░░░░░░` 36.1% |
+| Arco Devimon (Eps 1–13) | 965/2033 | `███████░░░░░░░░` 47.5% |
 | Arco Etemon (Eps 14–20) | 0/801 | `░░░░░░░░░░░░░░░` 0.0% |
 | Arco Myotismon (Eps 21–39) | 0/3611 | `░░░░░░░░░░░░░░░` 0.0% |
 | Arco Dark Masters (Eps 40–52) | 0/1904 | `░░░░░░░░░░░░░░░` 0.0% |
