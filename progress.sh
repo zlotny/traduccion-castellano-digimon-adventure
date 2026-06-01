@@ -79,14 +79,16 @@ def bar(d, t, width=20):
 
 # ── build markdown ──────────────────────────────────────────────────────────
 lines = []
+lines.append(f"**Progreso total:** `{bar(tot_d, tot_t, 30)}` **{pct(tot_d, tot_t)}** ({tot_d}/{tot_t} líneas)")
+lines.append("")
 lines.append("### Resumen")
 lines.append("")
-lines.append("| Categoría | Líneas | % |")
-lines.append("|-----------|-------:|--:|")
-lines.append(f"| Diálogos  | {dlg_d}/{dlg_t} | {pct(dlg_d, dlg_t)} |")
-lines.append(f"| EBOOT     | {eb_d}/{eb_t}   | {pct(eb_d, eb_t)} |")
-lines.append(f"| Nombres   | {nm_d}/{nm_t}   | {pct(nm_d, nm_t)} |")
-lines.append(f"| **Total** | **{tot_d}/{tot_t}** | **{pct(tot_d, tot_t)}** |")
+lines.append("| Categoría | Líneas | Progreso |")
+lines.append("|-----------|-------:|----------|")
+lines.append(f"| Diálogos  | {dlg_d}/{dlg_t} | `{bar(dlg_d, dlg_t, 15)}` {pct(dlg_d, dlg_t)} |")
+lines.append(f"| EBOOT     | {eb_d}/{eb_t}   | `{bar(eb_d, eb_t, 15)}` {pct(eb_d, eb_t)} |")
+lines.append(f"| Nombres   | {nm_d}/{nm_t}   | `{bar(nm_d, nm_t, 15)}` {pct(nm_d, nm_t)} |")
+lines.append(f"| **Total** | **{tot_d}/{tot_t}** | `{bar(tot_d, tot_t, 15)}` **{pct(tot_d, tot_t)}** |")
 lines.append("")
 lines.append("### Progreso por arco")
 lines.append("")
