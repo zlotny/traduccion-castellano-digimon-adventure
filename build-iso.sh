@@ -12,5 +12,9 @@ echo "==> Importando CSV → JSON..."
 python digimon_toolkit/cli.py from-csv
 
 echo ""
+echo "==> Importando atlas de fuente (translations/font_atlas.png)..."
+python digimon_toolkit/font_tool.py import-atlas
+
+echo ""
 echo "==> Construyendo ISO + xdelta..."
 python digimon_toolkit/cli.py apply
