@@ -14,9 +14,9 @@ Traducción al español de España del juego **Digimon Adventure** para PSP (201
 | Categoría | Líneas | % |
 |-----------|-------:|--:|
 | Diálogos  | 1135/12867 | 8.8% |
-| EBOOT     | 0/3487   | 0.0% |
-| Nombres   | 0/201   | 0.0% |
-| **Total** | **1135/16555** | **6.9%** |
+| EBOOT     | 136/3487   | 3.9% |
+| Nombres   | 201/201   | 100.0% |
+| **Total** | **1472/16555** | **8.9%** |
 
 ### Progreso por arco
 
