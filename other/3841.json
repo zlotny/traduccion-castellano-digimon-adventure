@@ -1,0 +1,2198 @@
+{
+  "file_id": "3841",
+  "text_count": 274,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "Synthesize materials into a new item.",
+      "_offset": 1138,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 1,
+      "english": "Synthesis",
+      "_offset": 1176,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 2,
+      "english": "Equipment",
+      "_offset": 1190,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 3,
+      "english": "Dismantle",
+      "_offset": 1204,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 4,
+      "english": "Materials",
+      "_offset": 1218,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 5,
+      "english": "Synthesize materials into a new DigiPiece.",
+      "_offset": 1232,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 6,
+      "english": "Equip new DigiPiece.",
+      "_offset": 1275,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 7,
+      "english": "Dismantle DigiPiece into materials.",
+      "_offset": 1296,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 8,
+      "english": "View all materials.",
+      "_offset": 1332,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 9,
+      "english": "Item",
+      "_offset": 1352,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 10,
+      "english": "DigiPiece",
+      "_offset": 1359,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 11,
+      "english": "Status",
+      "_offset": 1374,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 12,
+      "english": "Party",
+      "_offset": 1382,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 13,
+      "english": "Library",
+      "_offset": 1393,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 14,
+      "english": "Pick",
+      "_offset": 1403,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 15,
+      "english": "OK",
+      "_offset": 1408,
+      "_length": 2,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 16,
+      "english": "Back",
+      "_offset": 1411,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 17,
+      "english": "Options",
+      "_offset": 1416,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 18,
+      "english": "Save",
+      "_offset": 1424,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 19,
+      "english": "Type",
+      "_offset": 1429,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 20,
+      "english": "Evolution",
+      "_offset": 1434,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 21,
+      "english": "Remove",
+      "_offset": 1444,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 22,
+      "english": "Back",
+      "_offset": 1451,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 23,
+      "english": "Change",
+      "_offset": 1456,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 24,
+      "english": "Char",
+      "_offset": 1463,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 25,
+      "english": "Rotate",
+      "_offset": 1468,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 26,
+      "english": "Use or synthesize items, or view materials.",
+      "_offset": 1475,
+      "_length": 43,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 27,
+      "english": "Equip, synthesize, or dismantle a DigiPiece.",
+      "_offset": 1519,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 28,
+      "english": "View the Bonding Ranks with your friends.",
+      "_offset": 1564,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 29,
+      "english": "Change strategy and party members for battle.",
+      "_offset": 1606,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 30,
+      "english": "View the Digimon Encyclopedia and a summary of past events.",
+      "_offset": 1652,
+      "_length": 59,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 31,
+      "english": "Item",
+      "_offset": 1712,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 32,
+      "english": "Digivice",
+      "_offset": 1717,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 33,
+      "english": "Status",
+      "_offset": 1726,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 34,
+      "english": "Party",
+      "_offset": 1733,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 35,
+      "english": "Library",
+      "_offset": 1739,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 36,
+      "english": "Use",
+      "_offset": 1747,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 37,
+      "english": "Use an item.",
+      "_offset": 1762,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 38,
+      "english": "Synthesis",
+      "_offset": 1775,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 39,
+      "english": "Synthesize materials into a new item.",
+      "_offset": 1789,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 40,
+      "english": "Item to be created",
+      "_offset": 1827,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 41,
+      "english": "All",
+      "_offset": 1846,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 42,
+      "english": "Recovery",
+      "_offset": 1851,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 43,
+      "english": "Battle",
+      "_offset": 1865,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 44,
+      "english": "Event",
+      "_offset": 1876,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 45,
+      "english": "HP",
+      "_offset": 1882,
+      "_length": 2,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 46,
+      "english": "ATK",
+      "_offset": 1885,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 47,
+      "english": "DEF",
+      "_offset": 1889,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 48,
+      "english": "Manual",
+      "_offset": 1893,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 49,
+      "english": "Parameter",
+      "_offset": 1900,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 50,
+      "english": "Select",
+      "_offset": 1910,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 51,
+      "english": "Open",
+      "_offset": 1917,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 52,
+      "english": "Confirm",
+      "_offset": 1922,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 53,
+      "english": "Back",
+      "_offset": 1930,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 54,
+      "english": "Keep these settings?",
+      "_offset": 1935,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 55,
+      "english": "OK",
+      "_offset": 1956,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 56,
+      "english": "Cancel",
+      "_offset": 1964,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 57,
+      "english": "Material",
+      "_offset": 1974,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 58,
+      "english": "Synthesize \"%s\"?",
+      "_offset": 1986,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 59,
+      "english": "Disassemble \"%s\"?",
+      "_offset": 2003,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 60,
+      "english": "Materials to be acquired",
+      "_offset": 2021,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 61,
+      "english": "Skill",
+      "_offset": 2046,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 62,
+      "english": "Abilities",
+      "_offset": 2052,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 63,
+      "english": "Select the DigiPiece you would like to remove.",
+      "_offset": 2062,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 64,
+      "english": "\"%s\" is currently equipped. Press □ to remove.",
+      "_offset": 2109,
+      "_length": 47,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 65,
+      "english": "All",
+      "_offset": 2157,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 66,
+      "english": "Rank %d Pieces",
+      "_offset": 2161,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 67,
+      "english": "Composition information",
+      "_offset": 2176,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 68,
+      "english": "DigiPiece to be synthesized",
+      "_offset": 2200,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 69,
+      "english": "Required materials",
+      "_offset": 2228,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 70,
+      "english": "Select a Digimon to equip this DigiPiece.",
+      "_offset": 2247,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 71,
+      "english": "Dismantle DigiPiece into materials.",
+      "_offset": 2289,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 72,
+      "english": "DigiPiece to dismantle",
+      "_offset": 2325,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 73,
+      "english": "Materials to be acquired",
+      "_offset": 2348,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 74,
+      "english": "Summary",
+      "_offset": 2373,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 75,
+      "english": "Choose the Digimon whose status you want to view.",
+      "_offset": 2384,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 76,
+      "english": "Review skills available to this Digimon.",
+      "_offset": 2434,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 77,
+      "english": "View the Bonding Ranks with your friends.",
+      "_offset": 2475,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 78,
+      "english": "You can view your friends' Bonding Ranks here.",
+      "_offset": 2517,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 79,
+      "english": "List of Skills",
+      "_offset": 2564,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 80,
+      "english": "Bonding Rank",
+      "_offset": 2590,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 81,
+      "english": "You may replace the leader with other members.",
+      "_offset": 2611,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 82,
+      "english": "You may replace this party member.",
+      "_offset": 2658,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 83,
+      "english": "Add a party member.",
+      "_offset": 2693,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 84,
+      "english": "Change party members.",
+      "_offset": 2713,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 85,
+      "english": "Change ally strategy.",
+      "_offset": 2735,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 86,
+      "english": "Select a party member.",
+      "_offset": 2757,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 87,
+      "english": "Party Members",
+      "_offset": 2780,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 88,
+      "english": "Strategy",
+      "_offset": 2803,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 89,
+      "english": "The leader cannot be changed in this area.",
+      "_offset": 2814,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 90,
+      "english": "No Digimon can be selected.",
+      "_offset": 2857,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 91,
+      "english": "The supporting Digimon cannot be changed.",
+      "_offset": 2885,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 92,
+      "english": "View the data of encountered Digimon.",
+      "_offset": 2937,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 93,
+      "english": "Review previously cleared Episodes.",
+      "_offset": 2975,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 94,
+      "english": "You can rotate the model with the arrow keys or analog stick.",
+      "_offset": 3011,
+      "_length": 61,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 95,
+      "english": "View summaries of previously cleared Episodes.",
+      "_offset": 3073,
+      "_length": 46,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 96,
+      "english": "You can rewatch previous cutscenes here.",
+      "_offset": 3120,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 97,
+      "english": "You can rewatch previous cutscenes here.",
+      "_offset": 3161,
+      "_length": 40,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 98,
+      "english": "You can review tutorials here.",
+      "_offset": 3202,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 99,
+      "english": "You can review tutorials here.",
+      "_offset": 3233,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 100,
+      "english": "All",
+      "_offset": 3264,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 101,
+      "english": "Main Episodes",
+      "_offset": 3269,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 102,
+      "english": "Sub-Episodes",
+      "_offset": 3291,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 103,
+      "english": "Synopsis",
+      "_offset": 3312,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 104,
+      "english": "All",
+      "_offset": 3326,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 105,
+      "english": "Registered",
+      "_offset": 3331,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 106,
+      "english": "Virus",
+      "_offset": 3348,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 107,
+      "english": "Data",
+      "_offset": 3354,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 108,
+      "english": "Vaccine",
+      "_offset": 3359,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 109,
+      "english": "Other",
+      "_offset": 3367,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 110,
+      "english": "Baby",
+      "_offset": 3373,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 111,
+      "english": "Child",
+      "_offset": 3378,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 112,
+      "english": "Adult",
+      "_offset": 3384,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 113,
+      "english": "Perfect",
+      "_offset": 3390,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 114,
+      "english": "Ultimate",
+      "_offset": 3398,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 115,
+      "english": "%s-type Digimon",
+      "_offset": 3410,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 116,
+      "english": "Encyclopedia",
+      "_offset": 3426,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 117,
+      "english": "Episodes",
+      "_offset": 3448,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 118,
+      "english": "Movies",
+      "_offset": 3460,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 119,
+      "english": "Tutorials",
+      "_offset": 3467,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 120,
+      "english": "All",
+      "_offset": 3483,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 121,
+      "english": "Completed",
+      "_offset": 3488,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 122,
+      "english": "Skill",
+      "_offset": 3503,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 123,
+      "english": "Description",
+      "_offset": 3509,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 124,
+      "english": "Switch",
+      "_offset": 3521,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 125,
+      "english": "BGM",
+      "_offset": 3528,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 126,
+      "english": "Sound Effects",
+      "_offset": 3543,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 127,
+      "english": "Voice",
+      "_offset": 3568,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 128,
+      "english": "Data Install",
+      "_offset": 3584,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 129,
+      "english": "Are you sure you would like to install data?",
+      "_offset": 3605,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 130,
+      "english": "Failed to install data.",
+      "_offset": 3650,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 131,
+      "english": "Are you sure you would like to remove data installation?",
+      "_offset": 3674,
+      "_length": 56,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 132,
+      "english": "Title Screen",
+      "_offset": 3731,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 133,
+      "english": "Return to the title screen?",
+      "_offset": 3752,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 134,
+      "english": "Default",
+      "_offset": 3780,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 135,
+      "english": "Set the volume for BGM.",
+      "_offset": 3789,
+      "_length": 23,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 136,
+      "english": "Set the volume for sound effects.",
+      "_offset": 3813,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 137,
+      "english": "Set the volume for voices.",
+      "_offset": 3847,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 138,
+      "english": "Install or remove installed data.",
+      "_offset": 3874,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 139,
+      "english": "End the game and return to the title screen.",
+      "_offset": 3908,
+      "_length": 44,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 140,
+      "english": "Revert to default settings.",
+      "_offset": 3953,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 141,
+      "english": "Restore default settings?",
+      "_offset": 3981,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 142,
+      "english": "Off",
+      "_offset": 4007,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 143,
+      "english": "On",
+      "_offset": 4011,
+      "_length": 2,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 144,
+      "english": "Found %s! \nYou can't hold any more.",
+      "_offset": 4014,
+      "_length": 35,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 145,
+      "english": "Found %s x%d! \nYou can't hold any more.",
+      "_offset": 4050,
+      "_length": 39,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 146,
+      "english": "Obtained \n%s!",
+      "_offset": 4090,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 147,
+      "english": "Obtained \n%s x%d!",
+      "_offset": 4104,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 148,
+      "english": "Obtained the recipe \nfor %s!",
+      "_offset": 4122,
+      "_length": 28,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 149,
+      "english": "Items",
+      "_offset": 4151,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 150,
+      "english": "DigiPiece",
+      "_offset": 4157,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 151,
+      "english": "Materials",
+      "_offset": 4167,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 152,
+      "english": "Recipes",
+      "_offset": 4177,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 153,
+      "english": "Stat Boost",
+      "_offset": 4185,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 154,
+      "english": "Manual",
+      "_offset": 4196,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 155,
+      "english": "Auto",
+      "_offset": 4203,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 156,
+      "english": "Special",
+      "_offset": 4208,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 157,
+      "english": "All",
+      "_offset": 4216,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 158,
+      "english": "Main",
+      "_offset": 4221,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 159,
+      "english": "Sub",
+      "_offset": 4227,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 160,
+      "english": "Free",
+      "_offset": 4231,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 161,
+      "english": "Dungeon",
+      "_offset": 4236,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 162,
+      "english": "Start \"%s\"?",
+      "_offset": 4244,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 163,
+      "english": "Start Episode",
+      "_offset": 4256,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 164,
+      "english": "Party",
+      "_offset": 4270,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 165,
+      "english": "Begin episode with these members.",
+      "_offset": 4280,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 166,
+      "english": "Change party members.",
+      "_offset": 4314,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 167,
+      "english": "You cannot change party members in this episode.",
+      "_offset": 4336,
+      "_length": 48,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 168,
+      "english": "The leader cannot be changed in this area.",
+      "_offset": 4385,
+      "_length": 42,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 169,
+      "english": "The leader can be swapped with other party members.",
+      "_offset": 4428,
+      "_length": 51,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 170,
+      "english": "Currently using %s. You can replace this party member.",
+      "_offset": 4480,
+      "_length": 54,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 171,
+      "english": "The supporting Digimon cannot be changed.",
+      "_offset": 4535,
+      "_length": 41,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 172,
+      "english": "Add a party member.",
+      "_offset": 4577,
+      "_length": 19,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 173,
+      "english": "Change party members.",
+      "_offset": 4597,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 174,
+      "english": "Change ally strategy.",
+      "_offset": 4619,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 175,
+      "english": "Save data for a New Game+?",
+      "_offset": 4641,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 176,
+      "english": "Save data for a New Game+?\n(Selectiong “Cancel” will return you to the title screen.)",
+      "_offset": 4668,
+      "_length": 87,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 177,
+      "english": "Could not save.\nWould you like to create save data for New Game+?",
+      "_offset": 4756,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 178,
+      "english": "Would you like to install data?\n%d KB of free space is required.",
+      "_offset": 4822,
+      "_length": 64,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 179,
+      "english": "Installation was interrupted.\nWould you like to install data again?",
+      "_offset": 4887,
+      "_length": 67,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 180,
+      "english": "Would you like to install data again?",
+      "_offset": 4955,
+      "_length": 37,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 181,
+      "english": "New Game",
+      "_offset": 4993,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 182,
+      "english": "Load Game",
+      "_offset": 5005,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 183,
+      "english": "Install Data",
+      "_offset": 5018,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 184,
+      "english": "Examine",
+      "_offset": 5032,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 185,
+      "english": "Talk",
+      "_offset": 5040,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 186,
+      "english": "Save",
+      "_offset": 5045,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 187,
+      "english": "Map",
+      "_offset": 5050,
+      "_length": 3,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 188,
+      "english": "A successful ambush!",
+      "_offset": 5054,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 189,
+      "english": "Caught off guard!",
+      "_offset": 5075,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 190,
+      "english": "Assume a defensive position to reduce the damage.",
+      "_offset": 5093,
+      "_length": 49,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 191,
+      "english": "Try to escape from the battle.",
+      "_offset": 5143,
+      "_length": 30,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 192,
+      "english": "Can't escape!",
+      "_offset": 5174,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 193,
+      "english": "Use a skill.",
+      "_offset": 5188,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 194,
+      "english": "Can't use a skill.",
+      "_offset": 5201,
+      "_length": 18,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 195,
+      "english": "Use an item.",
+      "_offset": 5220,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 196,
+      "english": "You don't have any items.",
+      "_offset": 5233,
+      "_length": 25,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 197,
+      "english": "Change strategy",
+      "_offset": 5259,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 198,
+      "english": "Evolve into a more advanced stage.",
+      "_offset": 5275,
+      "_length": 34,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 199,
+      "english": "A basic attack.",
+      "_offset": 5310,
+      "_length": 15,
+      "speaker_id": 0,
+      "translation": "Ataque básico."
+    },
+    {
+      "index": 200,
+      "english": "Skills sealed!",
+      "_offset": 5326,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 201,
+      "english": "Poisoned!",
+      "_offset": 5341,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 202,
+      "english": "Recovered from poison.",
+      "_offset": 5351,
+      "_length": 22,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 203,
+      "english": "Skills sealed!",
+      "_offset": 5374,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 204,
+      "english": "Skills unsealed.",
+      "_offset": 5389,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 205,
+      "english": "Sticky!",
+      "_offset": 5406,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 206,
+      "english": "Recovered from stickiness.",
+      "_offset": 5414,
+      "_length": 26,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 207,
+      "english": "Unconscious",
+      "_offset": 5441,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 208,
+      "english": "Attack",
+      "_offset": 5453,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 209,
+      "english": "Defense",
+      "_offset": 5460,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 210,
+      "english": "Evasion",
+      "_offset": 5468,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 211,
+      "english": "Hit Rate",
+      "_offset": 5476,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 212,
+      "english": "inflicted!",
+      "_offset": 5485,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 213,
+      "english": "up!",
+      "_offset": 5497,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 214,
+      "english": "lowered!",
+      "_offset": 5502,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 215,
+      "english": "returned to normal!",
+      "_offset": 5512,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 216,
+      "english": "can't go any higher!",
+      "_offset": 5533,
+      "_length": 21,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 217,
+      "english": "can't go any lower!",
+      "_offset": 5555,
+      "_length": 20,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 218,
+      "english": "Cured of status effects.",
+      "_offset": 5579,
+      "_length": 24,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 219,
+      "english": "Ran away!",
+      "_offset": 5604,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 220,
+      "english": "Couldn't escape!",
+      "_offset": 5614,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 221,
+      "english": "Changed strategy.",
+      "_offset": 5631,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 222,
+      "english": "Resume game",
+      "_offset": 5649,
+      "_length": 11,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 223,
+      "english": "Pause game",
+      "_offset": 5661,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 224,
+      "english": "Ambush",
+      "_offset": 5672,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 225,
+      "english": "Danger Alert",
+      "_offset": 5679,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 226,
+      "english": "Escape Master",
+      "_offset": 5692,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 227,
+      "english": "Taunt",
+      "_offset": 5706,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 228,
+      "english": "Protect",
+      "_offset": 5712,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 229,
+      "english": "Defend",
+      "_offset": 5720,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 230,
+      "english": "Continuous Action",
+      "_offset": 5727,
+      "_length": 17,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 231,
+      "english": "Pray",
+      "_offset": 5745,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 232,
+      "english": "Lock On",
+      "_offset": 5750,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 233,
+      "english": "Auto",
+      "_offset": 5758,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 234,
+      "english": "Auto Death",
+      "_offset": 5763,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 235,
+      "english": "Counter",
+      "_offset": 5774,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 236,
+      "english": "Recoil Damage",
+      "_offset": 5782,
+      "_length": 13,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 237,
+      "english": "Drain",
+      "_offset": 5796,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 238,
+      "english": "Bonding Attack",
+      "_offset": 5802,
+      "_length": 14,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 239,
+      "english": "Skill Panel size increased!",
+      "_offset": 5817,
+      "_length": 27,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 240,
+      "english": "Taichi",
+      "_offset": 5845,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 241,
+      "english": "Yamato",
+      "_offset": 5856,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 242,
+      "english": "Sora",
+      "_offset": 5866,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 243,
+      "english": "Koushirou",
+      "_offset": 5873,
+      "_length": 16,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 244,
+      "english": "Mimi",
+      "_offset": 5890,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 245,
+      "english": "Jou",
+      "_offset": 5897,
+      "_length": 4,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 246,
+      "english": "Takeru",
+      "_offset": 5902,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 247,
+      "english": "Hikari",
+      "_offset": 5913,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 248,
+      "english": "Omegamon",
+      "_offset": 5924,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 249,
+      "english": "Leomon",
+      "_offset": 5933,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 250,
+      "english": "Saber Leomon",
+      "_offset": 5940,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 251,
+      "english": "Ogremon",
+      "_offset": 5953,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 252,
+      "english": "Andromon",
+      "_offset": 5961,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 253,
+      "english": "Daisuke",
+      "_offset": 5970,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 254,
+      "english": "Takato",
+      "_offset": 5978,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 255,
+      "english": "Takuya",
+      "_offset": 5985,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 256,
+      "english": "Masaru",
+      "_offset": 5992,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 257,
+      "english": "Taiki",
+      "_offset": 5999,
+      "_length": 5,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 258,
+      "english": "Tagiru",
+      "_offset": 6005,
+      "_length": 6,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 259,
+      "english": "Tailmon",
+      "_offset": 6012,
+      "_length": 7,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 260,
+      "english": "Piccolomon",
+      "_offset": 6020,
+      "_length": 10,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 261,
+      "english": "Wizarmon",
+      "_offset": 6031,
+      "_length": 8,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 262,
+      "english": "No memory card was detected.\nIn order to save the game, a memory card\nof at least %d KB of free space is required.",
+      "_offset": 6040,
+      "_length": 114,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 263,
+      "english": "There is not enough space on the memory card.\nIn order to save the game,\nat least %d KB of free space is required.",
+      "_offset": 6155,
+      "_length": 114,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 264,
+      "english": "Delete unnecessary data from the memory card?",
+      "_offset": 6270,
+      "_length": 45,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 265,
+      "english": "Failed to read installed data.\nDisabled the reading of installed data.",
+      "_offset": 6316,
+      "_length": 70,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 266,
+      "english": "Data deletion canceled.\nSaving...",
+      "_offset": 6387,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 267,
+      "english": "Saving...",
+      "_offset": 6421,
+      "_length": 9,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 268,
+      "english": "There is not enough space.\nIn order to install data,\nat least %d KB of free space is required.",
+      "_offset": 6431,
+      "_length": 94,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 269,
+      "english": "Would you like to open up free space\nby deleting other save data?",
+      "_offset": 6526,
+      "_length": 65,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 270,
+      "english": "New Game+",
+      "_offset": 6592,
+      "_length": 12,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 271,
+      "english": "Keep your data and play the game from the start.\nYou'll be able to use evolution stages that you had.\n*Bonding Ranks will not be retained.",
+      "_offset": 6605,
+      "_length": 138,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 272,
+      "english": "Data has already been installed.\nWould you like to delete it\nand reinstall?",
+      "_offset": 6744,
+      "_length": 75,
+      "speaker_id": 0,
+      "translation": ""
+    },
+    {
+      "index": 273,
+      "english": "Play time: %2d hr %2d min %2d sec",
+      "_offset": 6820,
+      "_length": 33,
+      "speaker_id": 0,
+      "translation": ""
+    }
+  ]
+}

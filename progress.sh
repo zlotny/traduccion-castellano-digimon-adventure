@@ -65,8 +65,9 @@ def cat_sum(entries):
 dlg_d, dlg_t   = cat_sum(data.get("dialog", []))
 eb_d,  eb_t    = cat_sum(data.get("eboot", []))
 nm_d,  nm_t    = cat_sum(data.get("names", []))
-tot_d = dlg_d + eb_d + nm_d
-tot_t = dlg_t + eb_t + nm_t
+oth_d, oth_t   = cat_sum(data.get("other", []))
+tot_d = dlg_d + eb_d + nm_d + oth_d
+tot_t = dlg_t + eb_t + nm_t + oth_t
 
 def pct(d, t):
     return f"{round(100*d/t, 1)}%" if t else "—"
@@ -88,6 +89,7 @@ lines.append("|-----------|-------:|----------|")
 lines.append(f"| Diálogos  | {dlg_d}/{dlg_t} | `{bar(dlg_d, dlg_t, 15)}` {pct(dlg_d, dlg_t)} |")
 lines.append(f"| EBOOT     | {eb_d}/{eb_t}   | `{bar(eb_d, eb_t, 15)}` {pct(eb_d, eb_t)} |")
 lines.append(f"| Nombres   | {nm_d}/{nm_t}   | `{bar(nm_d, nm_t, 15)}` {pct(nm_d, nm_t)} |")
+lines.append(f"| UI / otros | {oth_d}/{oth_t} | `{bar(oth_d, oth_t, 15)}` {pct(oth_d, oth_t)} |")
 lines.append(f"| **Total** | **{tot_d}/{tot_t}** | `{bar(tot_d, tot_t, 15)}` **{pct(tot_d, tot_t)}** |")
 lines.append("")
 lines.append("### Progreso por arco")
