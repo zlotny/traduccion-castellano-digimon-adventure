@@ -2,4434 +2,1834 @@
   "source": "EBOOT.BIN/episode_menu",
   "strings": [
     {
-      "text": "Tai Yagami",
+      "text": "Taichi Yagami",
       "translation": "",
+      "_offset": 1677368,
       "_length": 13
     },
     {
-      "text": "Matt Ishida",
+      "text": "Yamato Ishida",
       "translation": "",
+      "_offset": 1677382,
       "_length": 13
     },
     {
       "text": "Sora Takenouchi",
       "translation": "",
+      "_offset": 1677396,
       "_length": 15
     },
     {
-      "text": "Izzy Izumi",
+      "text": "Koushirou Izumi",
       "translation": "",
+      "_offset": 1677412,
       "_length": 15
     },
     {
-      "text": "Joe Kido",
+      "text": "Jou Kido",
       "translation": "",
+      "_offset": 1677428,
       "_length": 8
     },
     {
       "text": "Mimi Tachikawa",
       "translation": "",
+      "_offset": 1677437,
       "_length": 14
     },
     {
-      "text": "T.K Takaishi",
+      "text": "Takeru Takaishi",
       "translation": "",
+      "_offset": 1677452,
       "_length": 15
     },
     {
-      "text": "Kari Yagami",
+      "text": "Hikari Yagami",
       "translation": "",
+      "_offset": 1677468,
       "_length": 13
+    },
+    {
+      "text": "Tutorial\nTutorial",
+      "translation": "",
+      "_offset": 1871720,
+      "_length": 17
     },
     {
       "text": "Adrift? Island of Adventure!",
       "translation": "",
+      "_offset": 1871738,
       "_length": 28
     },
     {
       "text": "Seven young kids go to summer camp, and see...",
       "translation": "",
+      "_offset": 1871767,
       "_length": 46
     },
     {
-      "text": "Seven children - Tai Yagami,",
+      "text": "Seven children - Taichi Yagami,\nSora Takenouchi, Yamato Ishida,\nKoushirou Izumi, Mimi Tachikawa,\nJou Kido and Takeru Takaishi -\ngo to summer camp, find strange\ndevices in a snowstorm, fall\ninto another world, and meet\nDigimon!",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Sora Takenouchi, Matt Ishida,",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Izzy Izumi, Mimi Tachikawa,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Joe Kido and T.K Takaishi -",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "go to summer camp, find strange",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "devices in a snowstorm, fall",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "into another world, and meet",
-      "translation": "",
-      "_length": 28
+      "_offset": 1871814,
+      "_length": 226
     },
     {
       "text": "Explosive Evolution! Greymon",
       "translation": "",
+      "_offset": 1872041,
       "_length": 28
     },
     {
       "text": "The kids fell into a river and head for the ocean, but...",
       "translation": "",
+      "_offset": 1872070,
       "_length": 57
     },
     {
-      "text": "The kids were attacked by",
+      "text": "The kids were attacked by\nKuwagamon and fell into a\nriver. On the beach, they\nfind malfunctioning phones\nand get attacked by Shellmon.\nAgumon evolves to protect Taichi\nand repels the attack.",
       "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "Kuwagamon and fell into a",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "river. On the beach, they",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "find malfunctioning phones",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "and get attacked by Shellmon.",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Agumon evolves to protect Tai",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "and repels the attack.",
-      "translation": "",
-      "_length": 22
+      "_offset": 1872128,
+      "_length": 190
     },
     {
       "text": "The Blue Wolf! Garurumon",
       "translation": "",
+      "_offset": 1872319,
       "_length": 24
     },
     {
       "text": "The kids, tired of walking, arrive at a lake.",
       "translation": "",
+      "_offset": 1872344,
       "_length": 45
     },
     {
-      "text": "The group makes camp near the",
+      "text": "The group makes camp near the\nlake. They spend the night in an\nout-of-place trolley and are\nattacked by the gigantic\nSeadramon. Gabumon evolves to\nsave Yamato and deals with\nSeadramon.",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "lake. They spend the night in an",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "out-of-place trolley and are",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "attacked by the gigantic",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Seadramon. Gabumon evolves to",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "save Matt and deals with",
-      "translation": "",
-      "_length": 26
+      "_offset": 1872390,
+      "_length": 184
     },
     {
       "text": "Red Hot! Birdramon",
       "translation": "",
+      "_offset": 1872575,
       "_length": 18
     },
     {
       "text": "Sora's tired of Piyomon acting spoiled. But then, an evolution!",
       "translation": "",
+      "_offset": 1872594,
       "_length": 63
     },
     {
-      "text": "The water's dried out in",
+      "text": "The water's dried out in\nPyocomon Village, because\nMeramon, its guardian, went\nberserk. Piyomon evolves to\nprotect Sora and defeats\nMeramon, who was driven\ncrazy by a Black Gear.",
       "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Yokomon Village, because",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "Meramon, its guardian, went",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "berserk. Piyomon evolves to",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "protect Sora and defeats",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Meramon, who was driven",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "crazy by a Black Gear.",
-      "translation": "",
-      "_length": 22
+      "_offset": 1872658,
+      "_length": 178
     },
     {
       "text": "Lightning! Kabuterimon",
       "translation": "",
+      "_offset": 1872837,
       "_length": 22
     },
     {
-      "text": "In a factory, Izzy learns this world's secret.",
+      "text": "In a factory, Koushirou learns this world's secret.",
       "translation": "",
+      "_offset": 1872860,
       "_length": 51
     },
     {
-      "text": "The kids explore a mysterious",
+      "text": "The kids explore a mysterious\nfactory. Koushirou discovers\nthat energy in this world \ncomes from computer programs. \nThey're attacked by Andromon, a \nPerfect Digimon, and Tentomon \nevolves to free him from the \nBlack Gear.",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "factory. Izzy discovers",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "that energy in this world ",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "comes from computer programs. ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "They're attacked by Andromon, a ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Perfect Digimon, and Tentomon ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "evolves to free him from the ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Black Gear.",
-      "translation": "",
-      "_length": 11
+      "_offset": 1872912,
+      "_length": 222
     },
     {
       "text": "Run Away! The Numemon Sewers!",
       "translation": "",
+      "_offset": 1873135,
       "_length": 29
     },
     {
       "text": "The kids arrive in the sewers.",
       "translation": "",
+      "_offset": 1873165,
       "_length": 30
     },
     {
-      "text": "The underground sewer passage",
+      "text": "The underground sewer passage\nis full of disgusting Numemon.\nThe kids continue, fighting the\nstench. They reach the exit and\ncan breathe again.",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "is full of disgusting Numemon.",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "The kids continue, fighting the",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "stench. They reach the exit and",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "can breathe again.",
-      "translation": "",
-      "_length": 18
+      "_offset": 1873196,
+      "_length": 143
     },
     {
       "text": "Palmon's Raging Evolution!",
       "translation": "",
+      "_offset": 1873340,
       "_length": 26
     },
     {
       "text": "Escaping from the Numemon, Mimi and Palmon reach town, but...",
       "translation": "",
+      "_offset": 1873367,
       "_length": 61
     },
     {
-      "text": "The children are attacked by",
+      "text": "The children are attacked by\nNumemon from vending machines.\nThey split up and are caught by\nToy Town's mayor, Monzaemon.\nPalmon hurries there with a\nhorde of Numemon, and evolves.\nAnd Monzaemon's Black Gear is...",
       "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Numemon from vending machines.",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "They split up and are caught by",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Toy Town's mayor, Monzaemon.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Palmon hurries there with a",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "horde of Numemon, and evolves.",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "And Monzaemon's Black Gear is...",
-      "translation": "",
-      "_length": 32
+      "_offset": 1873429,
+      "_length": 212
     },
     {
       "text": "Onwards! Leave the Snowy Fields!",
       "translation": "",
+      "_offset": 1873642,
       "_length": 32
     },
     {
       "text": "The kids, shocked by this world's absurdity, see...",
       "translation": "",
+      "_offset": 1873675,
       "_length": 51
     },
     {
-      "text": "The kids, walking through cold and",
+      "text": "The kids, walking through cold and\nsnowy fields, find a hot spring \nand fridge and decide to\nspend the night. Taichi and\nYamato argue whether to climb\nInfinity Mountain. Jou, as the\noldest, stops them, but gets\nemotional.",
       "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "snowy fields, find a hot spring ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "and fridge and decide to",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "spend the night. Tai and",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Matt argue whether to climb",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Monte Infinito. Joe, as the",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "oldest, stops them, but gets",
-      "translation": "",
-      "_length": 28
+      "_offset": 1873727,
+      "_length": 221
     },
     {
       "text": "Roar! Ikkakumon",
       "translation": "",
+      "_offset": 1873960,
       "_length": 15
     },
     {
-      "text": "Joe, as the oldest, feels responsible and chooses...?!",
+      "text": "Jou, as the oldest, feels responsible and chooses...?!",
       "translation": "",
+      "_offset": 1873976,
       "_length": 54
     },
     {
-      "text": "Joe, feeling responsible for",
+      "text": "Jou, feeling responsible for\nthe younger Chosen Children,\nclimbs Infinity Mountain alone.\nGomamon joins and teases him\non the way. Unimon's driven\ncrazy by the Black Gears. To\ngive Jou cover, Gomamon evolves\nand fights back.",
       "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "the younger Chosen Children,",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "climbs Monte Infinito alone.",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Gomamon joins and teases him",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "on the way. Unimon's driven",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "crazy by the Black Gears. To",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "give Joe cover, Gomamon evolves",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "and fights back.",
-      "translation": "",
-      "_length": 16
+      "_offset": 1874031,
+      "_length": 224
     },
     {
       "text": "Messenger of Darkness, Devimon!",
       "translation": "",
+      "_offset": 1874256,
       "_length": 31
     },
     {
       "text": "They reach the summit and learn the shocking truth!",
       "translation": "",
+      "_offset": 1874288,
       "_length": 51
     },
     {
-      "text": "From the mountain's peak, the",
+      "text": "From the mountain's peak, the\nkids learn they're on an island.\nUpset, they descend and are\nattacked by Leomon and Ogremon.\nA sudden landslide lets them \nescape.",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "kids learn they're on an island.",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Upset, they descend and are",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "attacked by Leomon and Ogremon.",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "A sudden landslide lets them ",
-      "translation": "",
-      "_length": 29
+      "_offset": 1874340,
+      "_length": 160
     },
     {
       "text": "The Mysterious Mansion",
       "translation": "",
+      "_offset": 1874501,
       "_length": 22
     },
     {
       "text": "The disappointed kids see a mysterious mansion.",
       "translation": "",
+      "_offset": 1874524,
       "_length": 47
     },
     {
-      "text": "The kids rest at a mysterious",
+      "text": "The kids rest at a mysterious\nmansion. They enjoy the baths\nand food, but it's all Devimon's\ntrap. The light of the Digivice\nfrees Leomon, who saves them.\nBut File Island's destroyed and\nthe kids scattered.",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "mansion. They enjoy the baths",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "and food, but it's all Devimon's",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "trap. The light of the Digivice",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "frees Leomon, who saves them.",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "But File Island's destroyed and",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "the kids scattered.",
-      "translation": "",
-      "_length": 19
+      "_offset": 1874572,
+      "_length": 206
     },
     {
       "text": "Clash! The Freezing Digimon",
       "translation": "",
+      "_offset": 1874779,
       "_length": 27
     },
     {
-      "text": "Tai and Agumon search for their friends on an island of ice.",
+      "text": "Taichi and Agumon search for their friends on an island of ice.",
       "translation": "",
+      "_offset": 1874807,
       "_length": 63
     },
     {
-      "text": "Tai and Agumon search ",
+      "text": "Taichi and Agumon search \nfor their friends on an ice\nisland and are attacked by\nYukidarumon. After returning\nto its senses, Yukidarumon makes\na bridge to an island where\nhe spotted another kid.",
       "translation": "",
-      "_length": 25
+      "_offset": 1874871,
+      "_length": 194
     },
     {
-      "text": "for their friends on an ice",
+      "text": "Yamato in the Snowstorm",
       "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "island and are attacked by",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Frigimon. After returning",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "to its senses, Frigimon makes",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "a bridge to an island where",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "he spotted another kid.",
-      "translation": "",
+      "_offset": 1875066,
       "_length": 23
     },
     {
-      "text": "Matt in the Snowstorm",
+      "text": "Yamato searches for his brother. Gabumon worries about him.",
       "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "Matt searches for his brother. Gabumon worries about him.",
-      "translation": "",
+      "_offset": 1875090,
       "_length": 59
     },
     {
-      "text": "Matt walks through a storm in",
+      "text": "Yamato walks through a storm in\nsearch of his little brother, \nTakeru. He's worried about him,\nand feels worse as it gets\ncolder.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "search of his little brother, ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "T.K. He's worried about him,",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "and feels worse as it gets",
-      "translation": "",
-      "_length": 26
+      "_offset": 1875150,
+      "_length": 129
     },
     {
       "text": "Attacked! The Frozen Mojyamon!",
       "translation": "",
+      "_offset": 1875280,
       "_length": 30
     },
     {
-      "text": "Matt and Gabumon search for T.K, and find...",
+      "text": "Yamato and Gabumon search for Takeru, and find...",
       "translation": "",
+      "_offset": 1875311,
       "_length": 49
     },
     {
-      "text": "Matt and Gabumon rest in a",
+      "text": "Yamato and Gabumon rest in a\ncave. Yamato collapses and\nGabumon removes his fur pelt to\nwarm him. Taichi joins and they\nfight again, but team up to beat\nMojyamon. The island drifts\ntowards Infinity Mountain.",
       "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "cave. Matt collapses and",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Gabumon removes his fur pelt to",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "warm him. Tai joins and they",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "fight again, but team up to beat",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Mojyamon. The island drifts",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "towards Monte Infinito.",
-      "translation": "",
-      "_length": 26
+      "_offset": 1875361,
+      "_length": 207
     },
     {
       "text": "Centarumon, The Guardian!",
       "translation": "",
+      "_offset": 1875569,
       "_length": 25
     },
     {
-      "text": "Mimi finally meets Izzy.",
+      "text": "Mimi finally meets Koushirou.",
       "translation": "",
+      "_offset": 1875595,
       "_length": 29
     },
     {
-      "text": "Mimi and Palmon find Izzy",
+      "text": "Mimi and Palmon find Koushirou\nin ruins, who, absorbed in\nresearch, angers Mimi.\nCentarumon attacks them and they\nfight back. Leomon attacks too,\nbut they escape because of the\nDigivice's light.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "in ruins, who, absorbed in",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "research, angers Mimi.",
-      "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "Centarumon attacks them and they",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "fight back. Leomon attacks too,",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "but they escape because of the",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Digivice's light.",
-      "translation": "",
-      "_length": 17
+      "_offset": 1875625,
+      "_length": 194
     },
     {
       "text": "The Dancing Ghost! Bakemon",
       "translation": "",
+      "_offset": 1875820,
       "_length": 26
     },
     {
       "text": "Sora and Piyomon go fishing. What a catch!",
       "translation": "",
+      "_offset": 1875847,
       "_length": 42
     },
     {
-      "text": "Sora and Piyomon catch Gomamon",
+      "text": "Sora and Piyomon catch Gomamon\nand Jou while fishing. They\njoin a ritual in a church. It's\na festival of Bakemon\ndisguised as people. They fuse\ninto one great Bakemon, but\nJou's sutra defeats them.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "and Joe while fishing. They",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "join a ritual in a church. It's",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "a festival of Bakemon",
-      "translation": "",
-      "_length": 21
-    },
-    {
-      "text": "disguised as people. They fuse",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "into one great Bakemon, but",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Joe's sutra defeats them.",
-      "translation": "",
-      "_length": 25
+      "_offset": 1875890,
+      "_length": 197
     },
     {
       "text": "Adventure! Patamon and I",
       "translation": "",
+      "_offset": 1876088,
       "_length": 24
     },
     {
-      "text": "T.K learns how Digimon are born.",
+      "text": "Takeru learns how Digimon are born.",
       "translation": "",
+      "_offset": 1876113,
       "_length": 35
     },
     {
-      "text": "T.K and Patamon reach the",
+      "text": "Takeru and Patamon reach the\nVillage of Beginnings, where\nDigimon are born. They take care\nof DigiEggs, but are attacked by\nElecmon. They win, but Leomon and\nOgremon appear. The others rescue\nthem and return Leomon to his\nsenses.",
       "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Village of Beginnings, where",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Digimon are born. They take care",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "of DigiEggs, but are attacked by",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Elecmon. They win, but Leomon and",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Ogremon appear. The others rescue",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "them and return Leomon to his",
-      "translation": "",
-      "_length": 29
+      "_offset": 1876149,
+      "_length": 229
     },
     {
       "text": "Angemon's Awakening!",
       "translation": "",
+      "_offset": 1876379,
       "_length": 20
     },
     {
       "text": "With Leomon's help, the kids fight Devimon.",
       "translation": "",
+      "_offset": 1876400,
       "_length": 43
     },
     {
-      "text": "Everyone's finally together.",
+      "text": "Everyone's finally together.\nWith Leomon's help, they fight\nDevimon, but lose badly. Then,\nPatamon becomes Angemon and\ndefeats Devimon, at the price of\nreturning to a DigiEgg.",
       "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "With Leomon's help, they fight",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Devimon, but lose badly. Then,",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Patamon becomes Angemon and",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "defeats Devimon, at the price of",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "returning to a DigiEgg.",
-      "translation": "",
-      "_length": 23
+      "_offset": 1876444,
+      "_length": 175
     },
     {
       "text": "Departure - to a New Continent!",
       "translation": "",
+      "_offset": 1876620,
       "_length": 31
     },
     {
       "text": "Hearing Gennai's words, the kids depart for a bigger adventure.",
       "translation": "",
+      "_offset": 1876652,
       "_length": 63
     },
     {
-      "text": "Gennai sends a message from the",
+      "text": "Gennai sends a message from the\nServer Continent, telling the\nkids to search for the Tags\nand Crests. With Whamon's help\nthey explore a cave on the\nocean floor. They're attacked by\na Drimogemon guard, but get\ntheir Tags.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Server Continent, telling the",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "kids to search for the Tags",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "and Crests. With Whamon's help",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "they explore a cave on the",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "ocean floor. They're attacked by",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "a Drimogemon guard, but get",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "their Tags.",
-      "translation": "",
-      "_length": 11
+      "_offset": 1876716,
+      "_length": 220
     },
     {
       "text": "Etemon! Evil Mounts the Stage!",
       "translation": "",
+      "_offset": 1876937,
       "_length": 30
     },
     {
       "text": "When they arrive at the Server Continent...",
       "translation": "",
+      "_offset": 1876968,
       "_length": 43
     },
     {
-      "text": "The kids finally arrive at the",
+      "text": "The kids finally arrive at the\nServer Continent. They head to\nthe Koromon Village, but only\nPagumon are there. Behind this\nis a new enemy, Etemon. They're\npowerless against a Perfect,\nbut somehow escape, and\nTaichi obtains his Crest.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Server Continent. They head to",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "the Koromon Village, but only",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Pagumon are there. Behind this",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "is a new enemy, Etemon. They're",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "powerless against a Perfect,",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "but somehow escape, and",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "Tai obtains his Crest.",
-      "translation": "",
-      "_length": 25
+      "_offset": 1877012,
+      "_length": 233
     },
     {
       "text": "Dark Evolution! SkullGreymon",
       "translation": "",
+      "_offset": 1877246,
       "_length": 28
     },
     {
-      "text": "Tai, who got the first crest...",
+      "text": "Taichi, who got the first crest...",
       "translation": "",
+      "_offset": 1877275,
       "_length": 34
     },
     {
-      "text": "After getting his crest, Tai",
+      "text": "After getting his crest, Taichi\nforces Agumon to evolve. Jou\nsearches for his crest in the\nColosseum and is attacked by\nEtemon. Agumon goes crazy\nand evolves to SkullGreymon.\nThey stop him, but he devolves\nto Koromon.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "forces Agumon to evolve. Joe",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "searches for his crest in the",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Colosseum and is attacked by",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Etemon. Agumon goes crazy",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "and evolves to SkullGreymon.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "They stop him, but he devolves",
-      "translation": "",
-      "_length": 30
+      "_offset": 1877310,
+      "_length": 217
     },
     {
       "text": "Illusory Captain Cockatrimon!",
       "translation": "",
+      "_offset": 1877528,
       "_length": 29
     },
     {
       "text": "Agumon is back to Koromon, and...",
       "translation": "",
+      "_offset": 1877558,
       "_length": 33
     },
     {
-      "text": "The children see a cruise ship",
+      "text": "The children see a cruise ship\nin the desert. It belongs to\nEtemon's minion, Cockatrimon.\nThe boys are caught, but Sora\nand Mimi fight back and Mimi\ngets her Crest. They wonder if\nthey can properly raise their\nDigimon.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "in the desert. It belongs to",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Etemon's minion, Cockatrimon.",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "The boys are caught, but Sora",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "and Mimi fight back and Mimi",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "gets her Crest. They wonder if",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "they can properly raise their",
-      "translation": "",
-      "_length": 29
+      "_offset": 1877592,
+      "_length": 218
     },
     {
       "text": "The Fairy! Piccolomon",
       "translation": "",
+      "_offset": 1877811,
       "_length": 21
     },
     {
       "text": "How to raise your Digimon? Piccolomon appears.",
       "translation": "",
+      "_offset": 1877833,
       "_length": 46
     },
     {
-      "text": "Piccolomon meets and trains the",
+      "text": "Piccolomon meets and trains the\nkids. Taichi faces his past self\nand pulls himself together. When\nthey're attacked by Tyranomon,\nhe makes Agumon evolve and\ndefeats it.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "kids. Tai faces his past self",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "and pulls himself together. When",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "they're attacked by Tyranomon,",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "he makes Agumon evolve and",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "defeats it.",
-      "translation": "",
-      "_length": 11
+      "_offset": 1877880,
+      "_length": 167
     },
     {
       "text": "Perfect Evolution! MetalGreymon",
       "translation": "",
+      "_offset": 1878048,
       "_length": 31
     },
     {
       "text": "The kids explore Etemon's network, and find...",
       "translation": "",
+      "_offset": 1878080,
       "_length": 46
     },
     {
-      "text": "To save Etemon's prisoner,",
+      "text": "To save Etemon's prisoner,\nNanomon, the kids sneak into a\npyramid. But Nanomon was using\nthem. Etemon rampages while they\nfight Nanomon. Taichi defeats\nthem with MetalGreymon, and they\nwake up in Tokyo.",
       "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Nanomon, the kids sneak into a",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "pyramid. But Nanomon was using",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "them. Etemon rampages while they",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "fight Nanomon. Tai defeats",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "them with MetalGreymon, and they",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "wake up in Tokyo.",
-      "translation": "",
-      "_length": 17
+      "_offset": 1878127,
+      "_length": 202
     },
     {
       "text": "Koromon! Great Clash in Tokyo!",
       "translation": "",
+      "_offset": 1878330,
       "_length": 30
     },
     {
-      "text": "Tai and Koromon wake up in Tokyo.",
+      "text": "Taichi and Koromon wake up in Tokyo.",
       "translation": "",
+      "_offset": 1878361,
       "_length": 36
     },
     {
-      "text": "A space-time distortion returns",
+      "text": "A space-time distortion returns\nTaichi and Agumon to Tokyo.\nTaichi's younger sister,\nHikari, says she's already met\nKoromon. After learning the\nDigital World caused the Real\nWorld's abnormal weather, Taichi\nand Agumon go back.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Tai and Agumon to Tokyo.",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Tai's younger sister,",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Kari, says she's already met",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Koromon. After learning the",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Digital World caused the Real",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "World's abnormal weather, Tai",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "and Agumon go back.",
-      "translation": "",
-      "_length": 19
+      "_offset": 1878398,
+      "_length": 226
     },
     {
       "text": "The Whispering Imp, PicoDevimon",
       "translation": "",
+      "_offset": 1878625,
       "_length": 31
     },
     {
-      "text": "Without Tai, the group scatters!",
+      "text": "Without Taichi, the group scatters!",
       "translation": "",
+      "_offset": 1878657,
       "_length": 35
     },
     {
-      "text": "Without Tai and Agumon, the",
+      "text": "Without Taichi and Agumon, the\nkids split up. After returning\nto the Digital World, Taichi\nfinds Patamon, who fought with\nTakeru. Pico Devimon broke them\nup. Patamon and Takeru see\nthrough his scheme and make up.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "kids split up. After returning",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "to the Digital World, Tai",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "finds Patamon, who fought with",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "T.K. Pico Devimon broke them",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "up. Patamon and T.K see",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "through his scheme and make up.",
-      "translation": "",
-      "_length": 31
+      "_offset": 1878693,
+      "_length": 212
     },
     {
       "text": "Oh Friend! WereGarurumon",
       "translation": "",
+      "_offset": 1878906,
       "_length": 24
     },
     {
-      "text": "After leaving T.K, Matt sees...",
+      "text": "After leaving Takeru, Yamato sees...",
       "translation": "",
+      "_offset": 1878931,
       "_length": 36
     },
     {
-      "text": "To save Joe, who has to work in",
+      "text": "To save Jou, who has to work in\na restaurant, Yamato joins him.\nBut Jou screws up and the hours\nincrease. Yamato blows up at\nJou, but Jou tries hard to save\nTakeru. Yamato apologizes after\nWereGarurumon evolves and\ndefeats Digitamamon.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "a restaurant, Matt joins him.",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "But Joe screws up and the hours",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "increase. Matt blows up at",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Joe, but Joe tries hard to save",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "T.K. Matt apologizes after",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "WereGarurumon evolves and",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "defeats Digitamamon.",
-      "translation": "",
-      "_length": 20
+      "_offset": 1878968,
+      "_length": 235
     },
     {
       "text": "Break Through! AlturKabuterimon",
       "translation": "",
+      "_offset": 1879204,
       "_length": 31
     },
     {
-      "text": "Izzy and Tentomon search for Gennai, until...",
+      "text": "Koushirou and Tentomon search for Gennai, until...",
       "translation": "",
+      "_offset": 1879236,
       "_length": 50
     },
     {
-      "text": ".Izzy and Tentomon fall into",
+      "text": ".Koushirou and Tentomon fall into\nPicoDevimon's trap. Vadermon\ncatches them and steals\nKoushirou's curiosity. They\nsteal it back, Tentomon super\nevolves, and they defeat\nVadermon to escape his \ndimension.",
       "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "PicoDevimon's trap. Vadermon",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "catches them and steals",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "Izzy's curiosity. They",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "steal it back, Tentomon super",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "evolves, and they defeat",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Vadermon to escape his ",
-      "translation": "",
-      "_length": 23
+      "_offset": 1879287,
+      "_length": 204
     },
     {
       "text": "Asleep Tyrant! TonosamaGeckomon",
       "translation": "",
+      "_offset": 1879492,
       "_length": 31
     },
     {
-      "text": "Tai and Joe arrive at a castle ruled by a selfish princess.",
+      "text": "Taichi and Jou arrive at a castle ruled by a selfish princess.",
       "translation": "",
+      "_offset": 1879524,
       "_length": 62
     },
     {
-      "text": "Tai and Joe find Mimi, who's",
+      "text": "Taichi and Jou find Mimi, who's\nbecome a selfish princess in the\nGeckomon castle. Mimi orders the\nGeckomon to arrest Taichi and\nJou, then repents. They defeat\nthe raging TonosamaGeckomon,\nwho Mimi's song awakened.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "become a selfish princess in the",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Geckomon castle. Mimi orders the",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Geckomon to arrest Tai and",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Joe, then repents. They defeat",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "the raging TonosamaGeckomon,",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "who Mimi's song awakened.",
-      "translation": "",
-      "_length": 25
+      "_offset": 1879587,
+      "_length": 213
     },
     {
       "text": "Shining Wings! Garudamon",
       "translation": "",
+      "_offset": 1879801,
       "_length": 24
     },
     {
       "text": "Only Sora's left! Why won't she show herself?",
       "translation": "",
+      "_offset": 1879826,
       "_length": 45
     },
     {
-      "text": "Sora's the last to appear. Pico",
+      "text": "Sora's the last to appear. Pico\nDevimon upset her by saying she\ndidn't know what love is. In a\nfight with Vamdemon, Sora\nrealizes her mother loves her.\nThey escape with Garudamon's\nevolution, and learn there's an\neighth child.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Devimon upset her by saying she",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "didn't know what love is. In a",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "fight with Vamdemon, Sora",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "realizes her mother loves her.",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "They escape with Garudamon's",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "evolution, and learn there's an",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "eighth child.",
-      "translation": "",
-      "_length": 13
+      "_offset": 1879872,
+      "_length": 226
     },
     {
       "text": "Vamdemon, the Castle of Darkness",
       "translation": "",
+      "_offset": 1880099,
       "_length": 32
     },
     {
       "text": "They reach Vamdemon's castle. A secret plan?",
       "translation": "",
+      "_offset": 1880132,
       "_length": 44
     },
     {
-      "text": "To protect the eighth Chosen",
+      "text": "To protect the eighth Chosen\nChild, who's in Japan, the kids\nsneak into Vamdemon's castle.\nSuddenly, Vamdemon summons his\narmy and closes the Digital \nGate. Gennai says he knows how\nto reopen it, and invites them\nto his home.",
       "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Child, who's in Japan, the kids",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "sneak into Vamdemon's castle.",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Suddenly, Vamdemon summons his",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "army and closes the Digital ",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Gate. Gennai says he knows how",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "to reopen it, and invites them",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "to his home.",
-      "translation": "",
-      "_length": 12
+      "_offset": 1880177,
+      "_length": 225
     },
     {
       "text": "Gennai Tells All",
       "translation": "",
+      "_offset": 1880403,
       "_length": 16
     },
     {
       "text": "The gate closed at the last moment. They ask Gennai...?",
       "translation": "",
+      "_offset": 1880420,
       "_length": 55
     },
     {
-      "text": "Gennai gives them a map of how",
+      "text": "Gennai gives them a map of how\nto reopen the gate. It may be\nreconstructed improperly, and\nif the positioning is wrong,\nthey can be thrown into another\nworld. The kids prepare.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "to reopen the gate. It may be",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "reconstructed improperly, and",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "if the positioning is wrong,",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "they can be thrown into another",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "world. The kids prepare.",
-      "translation": "",
-      "_length": 24
+      "_offset": 1880476,
+      "_length": 176
     },
     {
       "text": "The Chase! Hurry to Japan!",
       "translation": "",
+      "_offset": 1880653,
       "_length": 26
     },
     {
       "text": "Chasing Vamdemon, the kids sneak in again. Finally, the gate...",
       "translation": "",
+      "_offset": 1880680,
       "_length": 63
     },
     {
-      "text": "The kids return to Vamdemon's",
+      "text": "The kids return to Vamdemon's\nCastle. After fighting \nDokugumon, they reach the slate\nto open the gate. Acclaimed as\nleader, Taichi shouts: \"Open \nthe gate, Gomamon!\" And they're\nback to Japan.",
       "translation": "",
-      "_length": 29
+      "_offset": 1880744,
+      "_length": 193
     },
     {
-      "text": "Castle. After fighting ",
+      "text": "Mammon, Clash at Hikarigaoka!",
       "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "Dokugumon, they reach the slate",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "to open the gate. Acclaimed as",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "leader, Tai shouts: \"Open ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "the gate, Gomamon!\" And they're",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "back to Japan.",
-      "translation": "",
-      "_length": 14
-    },
-    {
-      "text": "Mammon, Clash at Karigaoka!",
-      "translation": "",
+      "_offset": 1880938,
       "_length": 29
     },
     {
       "text": "They're finally on Earth. A clue about the Eighth Child?",
       "translation": "",
+      "_offset": 1880968,
       "_length": 56
     },
     {
-      "text": "The kids are finally back in",
+      "text": "The kids are finally back in\nthe Real World. They go to\nHikarigaoka in search of a\nclue about the Eighth Child,\nand learn they all witnessed\nthe \"Terrorist Attack\" there\nfour years ago. The shocked kids \nbeat Vamdemon's minion, Mammon.",
       "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "the Real World. They go to",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Karigaoka in search of a",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "clue about the Eighth Child,",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "and learn they all witnessed",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "the \"Terrorist Attack\" there",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "four years ago. The shocked kids ",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "beat Vamdemon's minion, Mammon.",
-      "translation": "",
-      "_length": 31
+      "_offset": 1881025,
+      "_length": 235
     },
     {
       "text": "The Great Tokyo Digimon Crossing",
       "translation": "",
+      "_offset": 1881261,
       "_length": 32
     },
     {
       "text": "The kids try to go home, but they're out of money.",
       "translation": "",
+      "_offset": 1881294,
       "_length": 50
     },
     {
-      "text": "The kids spend their last yen on",
+      "text": "The kids spend their last yen on\nhamburgers and have to hitchhike\nhome. They encounter Gesomon,\nanother minion of Vamdemon, who\nrampages through the city. After\nfighting it, they ride Ikakkumon\nback to Odaiba.",
       "translation": "",
-      "_length": 32
+      "_offset": 1881345,
+      "_length": 209
     },
     {
-      "text": "hamburgers and have to hitchhike",
+      "text": "Taichi and Hikari, Reunited!",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "home. They encounter Gesomon,",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "another minion of Vamdemon, who",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "rampages through the city. After",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "fighting it, they ride Ikakkumon",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "back to Odaiba.",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "Tai and Kari, Reunited!",
-      "translation": "",
+      "_offset": 1881555,
       "_length": 28
     },
     {
-      "text": "Finally home. Tai's nervous after being gone so long, but...",
+      "text": "Finally home. Taichi's nervous after being gone so long, but...",
       "translation": "",
+      "_offset": 1881584,
       "_length": 63
     },
     {
-      "text": "Tai's finally home. Unable",
+      "text": "Taichi's finally home. Unable\nto hold back tears, he hugs his\nparents. Taichi and Koromon ask\nHikari, who remembers the\nincident four years ago, if\nshe has a Digivice, but she says\nno. So where's the Eighth Child?",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "to hold back tears, he hugs his",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "parents. Tai and Koromon ask",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Kari, who remembers the",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "incident four years ago, if",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "she has a Digivice, but she says",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "no. So where's the Eighth Child?",
-      "translation": "",
-      "_length": 32
+      "_offset": 1881648,
+      "_length": 213
     },
     {
       "text": "Raremon! Surprise at Tokyo Bay",
       "translation": "",
+      "_offset": 1881862,
       "_length": 30
     },
     {
-      "text": "Izzy rests, but in his email...",
+      "text": "Koushirou rests, but in his email...",
       "translation": "",
+      "_offset": 1881893,
       "_length": 36
     },
     {
-      "text": "Gennai informs Izzy and",
+      "text": "Gennai informs Koushirou and\nTentomon that Raremon appeared\nin Shibaura, and together they\ndefeat it. Koushirou finds the\nEighth Child's signal on his\nDigivice and learns they're\nnearby.",
       "translation": "",
-      "_length": 28
+      "_offset": 1881930,
+      "_length": 186
     },
     {
-      "text": "Tentomon that Raremon appeared",
+      "text": "Meanwhile, with Yamato...",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "in Shibaura, and together they",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "defeat it. Izzy finds the",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Eighth Child's signal on his",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Digivice and learns they're",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Meanwhile, with Matt...",
-      "translation": "",
+      "_offset": 1882117,
       "_length": 25
     },
     {
-      "text": "Matt makes a delivery to his father, but...",
+      "text": "Yamato makes a delivery to his father, but...",
       "translation": "",
+      "_offset": 1882143,
       "_length": 45
     },
     {
-      "text": "Matt has to deliver some",
+      "text": "Yamato has to deliver some\ndocuments to his father. After\npreparing a lunch box, Yamato\nhas to fight Gazimon, and the\nlunch gets messed up. But\nYamato's happy to finally\nshare his feelings with\nhis father.",
       "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "documents to his father. After",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "preparing a lunch box, Matt",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "has to fight Gazimon, and the",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "lunch gets messed up. But",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "Matt's happy to finally",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "share his feelings with",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "his father.",
-      "translation": "",
-      "_length": 11
+      "_offset": 1882189,
+      "_length": 205
     },
     {
       "text": "Meanwhile, with Sora...",
       "translation": "",
+      "_offset": 1882395,
       "_length": 23
     },
     {
       "text": "Sora worries about her relationship with her mother.",
       "translation": "",
+      "_offset": 1882419,
       "_length": 52
     },
     {
-      "text": "Sora can't attend soccer",
+      "text": "Sora can't attend soccer\npractice because of her mother's\nwork. On her way back, she sees\na Veggiemon destroying a flower\nshop, and Piyomon fights it.\nSora learns her mother was\nworried about her, and has\nstrong feelings of her own.",
       "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "practice because of her mother's",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "work. On her way back, she sees",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "a Veggiemon destroying a flower",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "shop, and Piyomon fights it.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Sora learns her mother was",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "worried about her, and has",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "strong feelings of her own.",
-      "translation": "",
-      "_length": 27
+      "_offset": 1882472,
+      "_length": 232
     },
     {
       "text": "Meanwhile, with Mimi...",
       "translation": "",
+      "_offset": 1882705,
       "_length": 23
     },
     {
       "text": "Mimi goes out with her family and finds a rampaging Digimon.",
       "translation": "",
+      "_offset": 1882729,
       "_length": 60
     },
     {
-      "text": "Mimi is enjoying a family outing",
+      "text": "Mimi is enjoying a family outing\nwhen a Tyranomon rampages\nthrough town. It hasn't fully\nmaterialized, so others can't\nsee it, and Mimi and Palmon\ndefeat it. But the swimsuit\nher mother bought her is\ndestroyed.",
       "translation": "",
-      "_length": 32
+      "_offset": 1882790,
+      "_length": 210
     },
     {
-      "text": "when a Tyranomon rampages",
+      "text": "Meanwhile, with Jou...",
       "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "through town. It hasn't fully",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "materialized, so others can't",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "see it, and Mimi and Palmon",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "defeat it. But the swimsuit",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "her mother bought her is",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Meanwhile, with Joe...",
-      "translation": "",
+      "_offset": 1883001,
       "_length": 22
     },
     {
-      "text": "Instead of studying, Joe goes fishing with Gomamon?",
+      "text": "Instead of studying, Jou goes fishing with Gomamon?",
       "translation": "",
+      "_offset": 1883024,
       "_length": 51
     },
     {
-      "text": "Joe and Gomamon sneak off with",
+      "text": "Jou and Gomamon sneak off with\nJou's older brother's fishing\nrod. Instead of fish, they catch\na Digimon. They beat it, but\nthe rod breaks. Jou's troubled\nand Gomamon says to tell the\ntruth. His brother, happy with\nhow he grew up, forgives him.",
       "translation": "",
-      "_length": 30
+      "_offset": 1883076,
+      "_length": 243
     },
     {
-      "text": "Joe's older brother's fishing",
+      "text": "Meanwhile, with Takeru...",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "rod. Instead of fish, they catch",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "a Digimon. They beat it, but",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "the rod breaks. Joe's troubled",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "and Gomamon says to tell the",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "truth. His brother, happy with",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "how he grew up, forgives him.",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Meanwhile, with T.K...",
-      "translation": "",
+      "_offset": 1883320,
       "_length": 25
     },
     {
-      "text": "I'll protect Mom! For T.K, who became stronger, Patamon...",
+      "text": "I'll protect Mom! For Takeru, who became stronger, Patamon...",
       "translation": "",
+      "_offset": 1883346,
       "_length": 61
     },
     {
-      "text": "T.K's mom is worried when she",
+      "text": "Takeru's mom is worried when she\nsees him talk to a plush toy\n(it's really Patamon). Dokugumon\nappears and his mom faints.\nTakeru and Patamon protect\nTakeru's mom, who hates\nspiders. When she comes to,\nTakeru seems strangely reliable.",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "sees him talk to a plush toy",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "(it's really Patamon). Dokugumon",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "appears and his mom faints.",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "T.K and Patamon protect",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "T.K's mom, who hates",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "spiders. When she comes to,",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "T.K seems strangely reliable.",
-      "translation": "",
-      "_length": 32
+      "_offset": 1883408,
+      "_length": 234
     },
     {
       "text": "Blazing! DeathMeramon!",
       "translation": "",
+      "_offset": 1883643,
       "_length": 22
     },
     {
       "text": "The Eighth Child's in Odaiba?",
       "translation": "",
+      "_offset": 1883666,
       "_length": 29
     },
     {
-      "text": "The Eighth Child witnessed the",
+      "text": "The Eighth Child witnessed the\nincident in Hikarigaoka, so the\nkids try a list of names, but\nget nowhere. Mimi and Sora\ndefeat DeathMeramon. Tailmon\nmeets Hikari and is cautious,\nbut can't shake a strange\nfeeling.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "incident in Karigaoka, so the",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "kids try a list of names, but",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "get nowhere. Mimi and Sora",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "defeat DeathMeramon. Tailmon",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "meets Kari and is cautious,",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "but can't shake a strange",
-      "translation": "",
-      "_length": 25
+      "_offset": 1883696,
+      "_length": 213
     },
     {
       "text": "Pump & Gotsu are Shibuya types",
       "translation": "",
+      "_offset": 1883910,
       "_length": 30
     },
     {
-      "text": "Matt and T.K go to Shibuya, where they meet...",
+      "text": "Yamato and Takeru go to Shibuya, where they meet...",
       "translation": "",
+      "_offset": 1883941,
       "_length": 51
     },
     {
-      "text": "While searching for Patamon after",
+      "text": "While searching for Patamon after\nhe fought with Takeru, Yamato and\nTakeru meet Pumpmon and Gotsumon,\nwho enjoy Shibuya far more than\nthe Digital World. Vamdemon kills\nthem, although they were his\ncomrades. Patamon evolves again\nto protect Takeru.",
       "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "he fought with T.K, Matt and",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "T.K meet Pumpmon and Gotsumon,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "who enjoy Shibuya far more than",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "the Digital World. Vamdemon kills",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "them, although they were his",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "comrades. Patamon evolves again",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "to protect T.K.",
-      "translation": "",
-      "_length": 18
+      "_offset": 1883993,
+      "_length": 247
     },
     {
       "text": "The Fated Encounter! Tailmon!",
       "translation": "",
+      "_offset": 1884241,
       "_length": 29
     },
     {
       "text": "The Eighth Child is finally found. To them, Tailmon is...",
       "translation": "",
+      "_offset": 1884271,
       "_length": 57
     },
     {
-      "text": "Kari was the Eighth Child",
+      "text": "Hikari was the Eighth Child\nafter all. Tailmon remembers\nhow she was waiting for her\npartner. Wizarmon and Tailmon\ntry to steal Hikari's crest,\nbut are defeated by Vamdemon,\nwho captures Tailmon to draw\nout the Eighth Child.",
       "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "after all. Tailmon remembers",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "how she was waiting for her",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "partner. Wizarmon and Tailmon",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "try to steal Kari's crest,",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "but are defeated by Vamdemon,",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "who captures Tailmon to draw",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "out the Eighth Child.",
-      "translation": "",
-      "_length": 21
+      "_offset": 1884329,
+      "_length": 224
     },
     {
       "text": "All Out Assault! The Odaiba Fog!",
       "translation": "",
+      "_offset": 1884554,
       "_length": 32
     },
     {
       "text": "A fog barrier covers Odaiba, as Vamdemon planned.",
       "translation": "",
+      "_offset": 1884587,
       "_length": 49
     },
     {
-      "text": "Odaiba is shrouded in Vamdemon's",
+      "text": "Odaiba is shrouded in Vamdemon's\nfog barrier. Palmon and Gomamon\nsuper evolve. Jou and Takeru \nfind Wizarmon drifting in the \nwater, rescue him, and breach \nthe barrier. Hikari sacrifices\nherself to save the others.",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "fog barrier. Palmon and Gomamon",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "super evolve. Joe and T.K ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "find Wizarmon drifting in the ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "water, rescue him, and breach ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "the barrier. Kari sacrifices",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "herself to save the others.",
-      "translation": "",
-      "_length": 27
+      "_offset": 1884637,
+      "_length": 215
     },
     {
       "text": "She Descends! Angewomon!",
       "translation": "",
+      "_offset": 1884853,
       "_length": 24
     },
     {
-      "text": "Kari is kidnapped. Tai tries to save her, but...",
+      "text": "Hikari is kidnapped. Taichi tries to save her, but...",
       "translation": "",
+      "_offset": 1884878,
       "_length": 53
     },
     {
-      "text": "Tai and others head to Tokyo",
+      "text": "Taichi and others head to Tokyo\nBig Sight to save the captives,\nincluding Hikari. The Digivice\nresponds to Wizarmon's sacrifice\nto save Tailmon, who becomes\nAngewomon and defeats Vamdemon,\nbut the fog remains.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Big Sight to save the captives,",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "including Kari. The Digivice",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "responds to Wizarmon's sacrifice",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "to save Tailmon, who becomes",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Angewomon and defeats Vamdemon,",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "but the fog remains.",
-      "translation": "",
-      "_length": 20
+      "_offset": 1884932,
+      "_length": 209
     },
     {
       "text": "The Resurrected VenomVamdemon",
       "translation": "",
+      "_offset": 1885142,
       "_length": 29
     },
     {
       "text": "The kids defeated Vamdemon, but the fog isn't gone?!",
       "translation": "",
+      "_offset": 1885172,
       "_length": 52
     },
     {
-      "text": "The Undead Digimon King is",
+      "text": "The Undead Digimon King is\nreborn! The kids are confused,\nbut, as Gennai's prophecy said,\nAgumon and Gabumon ultimate\nevolve and defeat\nVenomVamdemon. The kids say\ntheir goodbyes and return\nto the Digital World.",
       "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "reborn! The kids are confused,",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "but, as Gennai's prophecy said,",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Agumon and Gabumon ultimate",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "evolve and defeat",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "VenomVamdemon. The kids say",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "their goodbyes and return",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "to the Digital World.",
-      "translation": "",
-      "_length": 21
+      "_offset": 1885225,
+      "_length": 211
     },
     {
       "text": "The Four Dark Masters!",
       "translation": "",
+      "_offset": 1885437,
       "_length": 22
     },
     {
       "text": "The kids return to the Digital World, but it's changed.",
       "translation": "",
+      "_offset": 1885460,
       "_length": 55
     },
     {
-      "text": "The Dark Masters, who changed",
+      "text": "The Dark Masters, who changed\nthe Digital World, appear. Even\ntwo Ultimates are powerless\nagainst them. Piccolomon's\nsacrifice lets the Chosen\nChildren escape.",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "the Digital World, appear. Even",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "two Ultimates are powerless",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "against them. Piccolomon's",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "sacrifice lets the Chosen",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "Children escape.",
-      "translation": "",
-      "_length": 16
+      "_offset": 1885516,
+      "_length": 159
     },
     {
       "text": "Nostalgic Beach",
       "translation": "",
+      "_offset": 1885676,
       "_length": 15
     },
     {
       "text": "Upset by Piccolomon's death, the kids head to...",
       "translation": "",
+      "_offset": 1885692,
       "_length": 48
     },
     {
-      "text": "While fighting Shellmon again, ",
+      "text": "While fighting Shellmon again, \nthe kids see how they've grown.\nAfter defeating Anomalocarimon,\nwho trapped them in a beach\nhouse, they encounter Whamon,\nwho dives into the ocean\nto escape MetalSeadramon.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "the kids see how they've grown.",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "After defeating Anomalocarimon,",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "who trapped them in a beach",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "house, they encounter Whamon,",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "who dives into the ocean",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "to escape MetalSeadramon.",
-      "translation": "",
-      "_length": 25
+      "_offset": 1885741,
+      "_length": 204
     },
     {
       "text": "The Sea King, MetalSeadramon!",
       "translation": "",
+      "_offset": 1885946,
       "_length": 29
     },
     {
       "text": "Having met Whamon, the kids escape MetalSeadramon!",
       "translation": "",
+      "_offset": 1885976,
       "_length": 50
     },
     {
-      "text": "To flee MetalSeadramon, Whamon",
+      "text": "To flee MetalSeadramon, Whamon\nswallows the kids and plunges to\nthe ocean's depths. Whamon\nfights to the death to save the\nkids. Thanks to his sacrifice,\nthe kids defeat MetalSeadramon.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "swallows the kids and plunges to",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "the ocean's depths. Whamon",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "fights to the death to save the",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "kids. Thanks to his sacrifice,",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "the kids defeat MetalSeadramon.",
-      "translation": "",
-      "_length": 31
+      "_offset": 1886027,
+      "_length": 185
     },
     {
       "text": "Dangerous Game with Pinocchimon!",
       "translation": "",
+      "_offset": 1886213,
       "_length": 32
     },
     {
       "text": "The kids finally defeated a Dark Master, but Mimi is...",
       "translation": "",
+      "_offset": 1886246,
       "_length": 55
     },
     {
-      "text": "The kids continue to clash. ",
+      "text": "The kids continue to clash. \nYamato pushes Taichi away. \nPinocchimon kidnaps Takeru\nto play with him, but he\noutsmarts him and escapes.\nYamato quietly leaves.",
       "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Matt pushes Tai away. ",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Pinocchimon kidnaps T.K",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "to play with him, but he",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "outsmarts him and escapes.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Matt quietly leaves.",
-      "translation": "",
-      "_length": 22
+      "_offset": 1886302,
+      "_length": 158
     },
     {
       "text": "Clash! The Ultimate Digimon",
       "translation": "",
+      "_offset": 1886461,
       "_length": 27
     },
     {
-      "text": "Matt leaves his friends. He's approached by...",
+      "text": "Yamato leaves his friends. He's approached by...",
       "translation": "",
+      "_offset": 1886489,
       "_length": 48
     },
     {
-      "text": "Jyureimon approaches Matt,",
+      "text": "Jyureimon approaches Yamato,\nwho's sad and alone, and tells\nhim to fight his comrade.\nWarGreymon and MetalGarurumon\nclash. Meanwhile, someone takes\ncontrol of Hikari and talks\nabout the Chosen Children and\nthe secret of this world.",
       "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "who's sad and alone, and tells",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "him to fight his comrade.",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "WarGreymon and MetalGarurumon",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "clash. Meanwhile, someone takes",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "control of Kari and talks",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "about the Chosen Children and",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "the secret of this world.",
-      "translation": "",
-      "_length": 25
+      "_offset": 1886538,
+      "_length": 231
     },
     {
       "text": "MetalEtemon's Counterattack!",
       "translation": "",
+      "_offset": 1886770,
       "_length": 28
     },
     {
-      "text": "Joe and Mimi see a big star?!",
+      "text": "Jou and Mimi see a big star?!",
       "translation": "",
+      "_offset": 1886799,
       "_length": 29
     },
     {
-      "text": "Joe and Mimi, who hate fighting,",
+      "text": "Jou and Mimi, who hate fighting,\ncare for the injured Ogremon, to\nhis surprise. SaberLeomon\nsacrifices himself to defeat\na reborn MetalEtemon. After the\nfight, the kids head for the\nVillage of Beginnings.",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "care for the injured Ogremon, to",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "his surprise. SaberLeomon",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "sacrifices himself to defeat",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "a reborn MetalEtemon. After the",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "fight, the kids head for the",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Village of Beginnings.",
-      "translation": "",
-      "_length": 22
+      "_offset": 1886829,
+      "_length": 204
     },
     {
       "text": "Pursuit! Defeat Pinocchimon!",
       "translation": "",
+      "_offset": 1887034,
       "_length": 28
     },
     {
-      "text": "The others say Pinocchimon must be defeated. Tai says...?",
+      "text": "The others say Pinocchimon must be defeated. Taichi says...?",
       "translation": "",
+      "_offset": 1887063,
       "_length": 60
     },
     {
-      "text": "Tai's group sneaks into",
+      "text": "Taichi's group sneaks into\nPinocchimon's mansion and corner\nhim, but he escapes. Yamato and\nMetalGarurumon finish him off.\nWhen Sora calls his name, he\nsilently walks away.",
       "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Pinocchimon's mansion and corner",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "him, but he escapes. Matt and",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "MetalGarurumon finish him off.",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "When Sora calls his name, he",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "silently walks away.",
-      "translation": "",
-      "_length": 20
+      "_offset": 1887124,
+      "_length": 172
     },
     {
       "text": "Orders to Bomb! Mugendramon!",
       "translation": "",
+      "_offset": 1887297,
       "_length": 28
     },
     {
-      "text": "The kids defeat Pinocchimon. Kari's exhausted.",
+      "text": "The kids defeat Pinocchimon. Hikari's exhausted.",
       "translation": "",
+      "_offset": 1887326,
       "_length": 48
     },
     {
-      "text": "Kari's cold is back. Tai",
+      "text": "Hikari's cold is back. Taichi\nand Koushirou search for\nmedicine, but get bombarded by\nMugendramon. Taichi worries\nabout Hikari and fights with\nKoushirou. They get the\nmedicine, but Mugendramon\nplunges them into darkness.",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "and Izzy search for",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "medicine, but get bombarded by",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Mugendramon. Tai worries",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "about Kari and fights with",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Izzy. They get the",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "medicine, but Mugendramon",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "plunges them into darkness.",
-      "translation": "",
-      "_length": 27
+      "_offset": 1887375,
+      "_length": 220
     },
     {
       "text": "The Diabolical WaruMonzaemon",
       "translation": "",
+      "_offset": 1887596,
       "_length": 28
     },
     {
       "text": "The kids flee Mugendramon through underground ruins, and find...",
       "translation": "",
+      "_offset": 1887625,
       "_length": 64
     },
     {
-      "text": "Sora, T.K and Kari awaken",
+      "text": "Sora, Takeru and Hikari awaken\nin an underground labyrinth.\nThey see WaruMonzaemon force\nNumemon to work to power a big\ncity. Hikari, shining with a\nstrange light, saves the Numemon\nand helps defeat WaruMonzaemon.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "in an underground labyrinth.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "They see WaruMonzaemon force",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Numemon to work to power a big",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "city. Kari, shining with a",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "strange light, saves the Numemon",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "and helps defeat WaruMonzaemon.",
-      "translation": "",
-      "_length": 31
+      "_offset": 1887690,
+      "_length": 213
     },
     {
       "text": "Reunion! Overthrow Mugendramon!",
       "translation": "",
+      "_offset": 1887904,
       "_length": 31
     },
     {
-      "text": "Tai and Izzy search for Kari, but they meet...",
+      "text": "Taichi and Koushirou search for Hikari, but they meet...",
       "translation": "",
+      "_offset": 1887936,
       "_length": 56
     },
     {
-      "text": "Tai and Izzy meet",
+      "text": "Taichi and Koushirou meet\nAndromon, who leads a lonely\nresistance. Hikari and Sora join\nTakeru and the showdown with\nMugendramon begins. The Numemon\nfight recklessly to save Hikari.\nAfter defeating Mugendramon, the\nkids make the Numemon graves.",
       "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "Andromon, who leads a lonely",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "resistance. Kari and Sora join",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "T.K and the showdown with",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Mugendramon begins. The Numemon",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "fight recklessly to save Kari.",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "After defeating Mugendramon, the",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "kids make the Numemon graves.",
-      "translation": "",
-      "_length": 29
+      "_offset": 1887993,
+      "_length": 244
     },
     {
       "text": "Woman's Battle! LadyDevimon!",
       "translation": "",
+      "_offset": 1888238,
       "_length": 28
     },
     {
       "text": "The kids finally reach Spiral Mountain, and prepare for...?",
       "translation": "",
+      "_offset": 1888267,
       "_length": 59
     },
     {
-      "text": "Tai's team finally reaches",
+      "text": "Taichi's team finally reaches\nSpiral Mountain's peak. After\nLadyDevimon is defeated, only\nPiemon remains. Taichi says\nthey need everyone's power to\nbeat him, and asks Sora to\nget Yamato and Gabumon.",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Spiral Mountain's peak. After",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "LadyDevimon is defeated, only",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Piemon remains. Tai says",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "they need everyone's power to",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "beat him, and asks Sora to",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "get Matt and Gabumon.",
-      "translation": "",
-      "_length": 23
+      "_offset": 1888327,
+      "_length": 198
     },
     {
       "text": "Fight with Darkness",
       "translation": "",
+      "_offset": 1888526,
       "_length": 19
     },
     {
       "text": "Scattered friends finally join forces?",
       "translation": "",
+      "_offset": 1888546,
       "_length": 38
     },
     {
-      "text": "Joe and Mimi gather Digimon",
+      "text": "Jou and Mimi gather Digimon\nallies. Jou searches for\nYamato, whose heart is taken\nby darkness, but Gabumon returns\nhim to his senses. Sora escapes\nthe darkness too, with help from\nher friends, and they rejoin\nTaichi.",
       "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "allies. Joe searches for",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Matt, whose heart is taken",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "by darkness, but Gabumon returns",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "him to his senses. Sora escapes",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "the darkness too, with help from",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "her friends, and they rejoin",
-      "translation": "",
-      "_length": 28
+      "_offset": 1888585,
+      "_length": 216
     },
     {
       "text": "The Hellish Clown, Piemon!",
       "translation": "",
+      "_offset": 1888802,
       "_length": 26
     },
     {
       "text": "At last, they fight last Dark Master, Piemon!",
       "translation": "",
+      "_offset": 1888829,
       "_length": 45
     },
     {
-      "text": "Piemon defeats WarGreymon, and",
+      "text": "Piemon defeats WarGreymon, and\nYamato's friendship lets him\nrise again, but Piemon turns\nthe kids into puppets. \nHolyAngemon super evolves and\nobliterates Piemon. Gennai says\nthey haven't met their true\nenemy.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Matt's friendship lets him",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "rise again, but Piemon turns",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "the kids into puppets. ",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "HolyAngemon super evolves and",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "obliterates Piemon. Gennai says",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "they haven't met their true",
-      "translation": "",
-      "_length": 27
+      "_offset": 1888875,
+      "_length": 209
     },
     {
       "text": "The Last Evil Digimon",
       "translation": "",
+      "_offset": 1889085,
       "_length": 21
     },
     {
       "text": "The world remains abnormal. The kids fight the final battle!",
       "translation": "",
+      "_offset": 1889107,
       "_length": 60
     },
     {
-      "text": "It appeared long ago, behind",
+      "text": "It appeared long ago, behind\nthe \"wall of fire\". Apocalymon's\npower is beyond any they've\nfaced. The Childrens' Crests are\ndestroyed and they're turned\ninto data. They learn their power\nis in their hearts, and seal\nApocalymon.",
       "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "the \"wall of fire\". Apocalymon's",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "power is beyond any they've",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "faced. The Childrens' Crests are",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "destroyed and they're turned",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "into data. They learn their power",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "is in their hearts, and seal",
-      "translation": "",
-      "_length": 28
+      "_offset": 1889168,
+      "_length": 226
     },
     {
       "text": "A Brand New World",
       "translation": "",
+      "_offset": 1889395,
       "_length": 17
     },
     {
       "text": "The final battle is over. What awaits them?",
       "translation": "",
+      "_offset": 1889413,
       "_length": 43
     },
     {
-      "text": "Having saved the world, the",
+      "text": "Having saved the world, the\nkids are sad because they have\nto part with their Digimon.\nGennai tells them that if they\nstay through the eclipse they\nmay never return, so they say\ngoodbye.",
       "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "kids are sad because they have",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "to part with their Digimon.",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Gennai tells them that if they",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "stay through the eclipse they",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "may never return, so they say",
-      "translation": "",
-      "_length": 29
+      "_offset": 1889457,
+      "_length": 186
     },
     {
       "text": "Our War Game, Beginning",
       "translation": "",
+      "_offset": 1889644,
       "_length": 23
     },
     {
-      "text": "Everyday life. Izzy discovers a new type of Digimon.",
+      "text": "Everyday life. Koushirou discovers a new type of Digimon.",
       "translation": "",
+      "_offset": 1889668,
       "_length": 57
     },
     {
-      "text": "The kids return from the",
+      "text": "The kids return from the\nDigital World and resume\ntheir lives. Taichi fights with\nSora, and Koushirou learns about\na Digimon absorbing data from \naround the world. They must save\nthe world again!",
       "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Digital World and resume",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "their lives. Tai fights with",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Sora, and Izzy learns about",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "a Digimon absorbing data from ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "around the world. They must save",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "the world again!",
-      "translation": "",
-      "_length": 16
+      "_offset": 1889726,
+      "_length": 195
     },
     {
       "text": "Our War Game, Middle",
       "translation": "",
+      "_offset": 1889922,
       "_length": 20
     },
     {
-      "text": "Tai and Izzy struggle, but their reliable friends...",
+      "text": "Taichi and Koushirou struggle, but their reliable friends...",
       "translation": "",
+      "_offset": 1889943,
       "_length": 60
     },
     {
-      "text": "The enemy quickly evolves.",
+      "text": "The enemy quickly evolves.\nTaichi can't reach his\nfriends by phone. He finally\ncontacts Yamato and Takeru,\nand a back-and-forth fight\nbegins. But while Koushirou's\nin the bathroom, Taichi's\ncomputer freezes.",
       "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Tai can't reach his",
-      "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "friends by phone. He finally",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "contacts Matt and T.K,",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "and a back-and-forth fight",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "begins. But while Izzy's",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "in the bathroom, Tai's",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "computer freezes.",
-      "translation": "",
-      "_length": 17
+      "_offset": 1890004,
+      "_length": 207
     },
     {
       "text": "Our War Game, End",
       "translation": "",
+      "_offset": 1890212,
       "_length": 17
     },
     {
       "text": "The battle has no end! Can they save humanity?",
       "translation": "",
+      "_offset": 1890230,
       "_length": 46
     },
     {
-      "text": "Diablomon launches a nuclear",
+      "text": "Diablomon launches a nuclear\nmissile. WarGreymon and \nMetalGarurumon fuse into\nOmegamon, but they're too late.\nKoushirou slows the enemy down\nwith an enormous number of\nemails, Omegamon attacks, and\nthe world's finally saved.",
       "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "missile. WarGreymon and ",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "MetalGarurumon fuse into",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Omegamon, but they're too late.",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Izzy slows the enemy down",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "with an enormous number of",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "emails, Omegamon attacks, and",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "the world's finally saved.",
-      "translation": "",
-      "_length": 26
+      "_offset": 1890277,
+      "_length": 225
     },
     {
       "text": "Sandy Beaches and Some Bait",
       "translation": "",
+      "_offset": 1890503,
       "_length": 27
     },
     {
-      "text": "Gomamon suddenly asks Joe's advice?",
+      "text": "Gomamon suddenly asks Jou's advice?",
       "translation": "",
+      "_offset": 1890531,
       "_length": 35
     },
     {
-      "text": "Gomamon and the others",
+      "text": "Gomamon and the others\ngather some Digi-hamaguri\non the beach to thank the\nMarching Fishes. Taichi and\nYamato compete to collect the\nmost. The kids finally forget\ntheir quest for a day.",
       "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "gather some Digi-hamaguri",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "on the beach to thank the",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "Marching Fishes. Tai and",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Matt compete to collect the",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "most. The kids finally forget",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "their quest for a day.",
-      "translation": "",
-      "_length": 22
+      "_offset": 1890567,
+      "_length": 185
     },
     {
       "text": "Piyomon Runs Amok",
       "translation": "",
+      "_offset": 1890753,
       "_length": 17
     },
     {
-      "text": "Yokomon ask Sora and Piyomon for help. Hurry to the village!",
+      "text": "Pyocomon ask Sora and Piyomon for help. Hurry to the village!",
       "translation": "",
+      "_offset": 1890771,
       "_length": 61
     },
     {
-      "text": "Sora and Piyomon search for",
+      "text": "Sora and Piyomon search for\nPyocomon who went to gather\nDigiStrawberries and haven't\nreturned, but can't find the\nlast one. Suddenly, another\nPiyomon! It's the last Pyocomon,\nwho ate DigiTomatoes and \nrampaged.",
       "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Yokomon who went to gather",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "DigiStrawberries and haven't",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "returned, but can't find the",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "last one. Suddenly, another",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Piyomon! It's the last Yokomon,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "who ate DigiTomatoes and ",
-      "translation": "",
-      "_length": 25
+      "_offset": 1890833,
+      "_length": 210
     },
     {
       "text": "The Numemon Boss",
       "translation": "",
+      "_offset": 1891044,
       "_length": 16
     },
     {
-      "text": "T.K dropped something in the sewers! The kids look, but...",
+      "text": "Takeru dropped something in the sewers! The kids look, but...",
       "translation": "",
+      "_offset": 1891061,
       "_length": 61
     },
     {
-      "text": "T.K dropped something",
+      "text": "Takeru dropped something\nimportant in the sewers! It's\na present from his father, an\nice cream badge. The kids\nrecover it and punish the\nNumemon boss that stole it.",
       "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "important in the sewers! It's",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "a present from his father, an",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "ice cream badge. The kids",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "recover it and punish the",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "Numemon boss that stole it.",
-      "translation": "",
-      "_length": 27
+      "_offset": 1891123,
+      "_length": 164
     },
     {
       "text": "Mimi's Date",
       "translation": "",
+      "_offset": 1891288,
       "_length": 11
     },
     {
       "text": "Mimi badly wants a soda. She'll do anything for it?",
       "translation": "",
+      "_offset": 1891300,
       "_length": 51
     },
     {
-      "text": "Mimi goes on a date with",
+      "text": "Mimi goes on a date with\nNumemon because she really\nwants a soda. During the date,\nNumemon gives her a quiz.\nMimi gets her soda, but it's too\nsyrupy.",
       "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Numemon because she really",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "wants a soda. During the date,",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Numemon gives her a quiz.",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "Mimi gets her soda, but it's too",
-      "translation": "",
-      "_length": 32
+      "_offset": 1891352,
+      "_length": 149
     },
     {
       "text": "The Missing Digimon",
       "translation": "",
+      "_offset": 1891502,
       "_length": 19
     },
     {
-      "text": "Izzy goes to the factory to fix his computer, but...",
+      "text": "Koushirou goes to the factory to fix his computer, but...",
       "translation": "",
+      "_offset": 1891522,
       "_length": 57
     },
     {
-      "text": "Izzy goes to the factory to",
+      "text": "Koushirou goes to the factory to\nfind parts for his computer. A\nlost Pyocomon thinks he's its \ndaddy, and he leads it to their\nvillage. Koushirou gives up on\nfinding parts, but is still\nrewarded.",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "find parts for his computer. A",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "lost Yokomon thinks he's its ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "daddy, and he leads it to their",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "village. Izzy gives up on",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "finding parts, but is still",
-      "translation": "",
-      "_length": 27
+      "_offset": 1891580,
+      "_length": 195
     },
     {
       "text": "Dirty Harmonica",
       "translation": "",
+      "_offset": 1891776,
       "_length": 15
     },
     {
-      "text": "Gabumon really likes Matt's harmonica, but...",
+      "text": "Gabumon really likes Yamato's harmonica, but...",
       "translation": "",
+      "_offset": 1891792,
       "_length": 47
     },
     {
-      "text": "Matt dropped his harmonica in",
+      "text": "Yamato dropped his harmonica in\nthe lake. Gomamon tries to get\nit, but the lake's full of\ngarbage. After scolding Scumon\nand Chuumon, who were throwing\ntrash in the lake, they find the\nharmonica.",
       "translation": "",
-      "_length": 31
+      "_offset": 1891840,
+      "_length": 195
     },
     {
-      "text": "the lake. Gomamon tries to get",
+      "text": "Pyocomon Sparring",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "it, but the lake's full of",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "garbage. After scolding Scumon",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "and Chuumon, who were throwing",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "trash in the lake, they find the",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Yokomon Sparring",
-      "translation": "",
+      "_offset": 1892036,
       "_length": 17
     },
     {
-      "text": "Yokomon are fighting, but Sora and Piyomon...?",
+      "text": "Pyocomon are fighting, but Sora and Piyomon...?",
       "translation": "",
+      "_offset": 1892054,
       "_length": 47
     },
     {
-      "text": "Yokomon keep arguing over who",
+      "text": "Pyocomon keep arguing over who\nwill evolve first. Piyomon and \nSora think they'll continue \nwhoever they pick, and settle\nit by force.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "will evolve first. Piyomon and ",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Sora think they'll continue ",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "whoever they pick, and settle",
-      "translation": "",
-      "_length": 29
+      "_offset": 1892102,
+      "_length": 134
     },
     {
       "text": "Forgotten at the Church",
       "translation": "",
+      "_offset": 1892237,
       "_length": 23
     },
     {
       "text": "Sora dropped something at the church, but won't say what?",
       "translation": "",
+      "_offset": 1892261,
       "_length": 57
     },
     {
-      "text": "Sora returns to the church to",
+      "text": "Sora returns to the church to\nget something she dropped.\nThe others want to help, but\nSora won't say what she lost.\nShe gets it back, and reveals\nit's a friendship bracelet.\nWeaved into it is her wish to\ncontinue soccer.",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "get something she dropped.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "The others want to help, but",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Sora won't say what she lost.",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "She gets it back, and reveals",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "it's a friendship bracelet.",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Weaved into it is her wish to",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "continue soccer.",
-      "translation": "",
-      "_length": 16
+      "_offset": 1892319,
+      "_length": 220
     },
     {
       "text": "Centarumon's Worries",
       "translation": "",
+      "_offset": 1892540,
       "_length": 20
     },
     {
       "text": "Centarumon asks the kids for advice. He's worried about...?",
       "translation": "",
+      "_offset": 1892561,
       "_length": 59
     },
     {
-      "text": "Centarumon hears a weird voice",
+      "text": "Centarumon hears a weird voice\nin the ruins at night and asks\nthe kids for advice. It's a\nlone Bakemon chanting for its\nfriend. Most of the kids are\ndisappointed, but Koushirou's\nstrangely intrigued.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "in the ruins at night and asks",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "the kids for advice. It's a",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "lone Bakemon chanting for its",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "friend. Most of the kids are",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "disappointed, but Izzy's",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "strangely intrigued.",
-      "translation": "",
-      "_length": 20
+      "_offset": 1892621,
+      "_length": 199
     },
     {
       "text": "Mojyamon's Lineage",
       "translation": "",
+      "_offset": 1892821,
       "_length": 18
     },
     {
       "text": "Mojyamon wants to look stylish? The kids try to help, but...",
       "translation": "",
+      "_offset": 1892840,
       "_length": 60
     },
     {
-      "text": "Mojyamon says it wants to make",
+      "text": "Mojyamon says it wants to make\nits fur shiny. The kids search\nfor ingredients to make fur\nmedicine. Unimon ate the\ningredients and lost its mind.\nMojyamon thanks the kids, who\nhandle Unimon.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "its fur shiny. The kids search",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "for ingredients to make fur",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "medicine. Unimon ate the",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "ingredients and lost its mind.",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Mojyamon thanks the kids, who",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "handle Unimon.",
-      "translation": "",
-      "_length": 14
+      "_offset": 1892901,
+      "_length": 190
     },
     {
       "text": "Where are the Digimon?",
       "translation": "",
+      "_offset": 1893092,
       "_length": 22
     },
     {
       "text": "Elecmon's incredibly worried. What's wrong?",
       "translation": "",
+      "_offset": 1893115,
       "_length": 43
     },
     {
-      "text": "All the precious babies are",
+      "text": "All the precious babies are\nkidnapped? Elecmon asks the\nkids to search for them. They\nwere secretly trying to learn\na new song for Elecmon, who's\ngrateful when he finds out.",
       "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "kidnapped? Elecmon asks the",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "kids to search for them. They",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "were secretly trying to learn",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "a new song for Elecmon, who's",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "grateful when he finds out.",
-      "translation": "",
-      "_length": 27
+      "_offset": 1893159,
+      "_length": 173
     },
     {
       "text": "The Thief Digimon",
       "translation": "",
+      "_offset": 1893333,
       "_length": 17
     },
     {
       "text": "Monzaemon is fixing the toys. Is he searching for something...?",
       "translation": "",
+      "_offset": 1893351,
       "_length": 63
     },
     {
-      "text": "Monzaemon has lost his",
+      "text": "Monzaemon has lost his\nscrewdriver and went to the\nfactory to borrow one.\nAt the factory, Andromon gets\nattacked by the thief. Can it be\nMonzaemon?.. But the culprit is\nKaito Drimogen, who steals any\nspinning things it sees...",
       "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "screwdriver and went to the",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "factory to borrow one.",
-      "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "At the factory, Andromon gets",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "attacked by the thief. Can it be",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Monzaemon?.. But the culprit is",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Kaito Drimogen, who steals any",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "spinning things it sees...",
-      "translation": "",
-      "_length": 26
+      "_offset": 1893415,
+      "_length": 226
     },
     {
       "text": "Revisiting the Koromon Village",
       "translation": "",
+      "_offset": 1893642,
       "_length": 30
     },
     {
-      "text": "Tai's sad because Koromon devolved. Can he get Agumon back?",
+      "text": "Taichi's sad because Koromon devolved. Can he get Agumon back?",
       "translation": "",
+      "_offset": 1893673,
       "_length": 62
     },
     {
-      "text": "The kids visit the Koromon",
+      "text": "The kids visit the Koromon\nVillage to learn how to\nevolve Koromon again. The\nKoromon say there's a medicine\nto re-energize Taichi's Koromon.\nIt fails, but Taichi and Koromon\nare motivated by everyone's\nsupport.",
       "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Village to learn how to",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "evolve Koromon again. The",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "Koromon say there's a medicine",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "to re-energize Tai's Koromon.",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "It fails, but Tai and Koromon",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "are motivated by everyone's",
-      "translation": "",
-      "_length": 27
+      "_offset": 1893736,
+      "_length": 210
     },
     {
       "text": "DigiOne Grand Prix",
       "translation": "",
+      "_offset": 1893947,
       "_length": 18
     },
     {
       "text": "Digimon test their ability? DigiOne Grand Prix is open!",
       "translation": "",
+      "_offset": 1893966,
       "_length": 55
     },
     {
-      "text": "The DigiOne Grand Prix, where",
+      "text": "The DigiOne Grand Prix, where\nDigimon annually test their\nability, is starting. The\npartner Digimon join in, win,\nand get prizes.",
       "translation": "",
-      "_length": 29
+      "_offset": 1894022,
+      "_length": 129
     },
     {
-      "text": "Digimon annually test their",
+      "text": "Jou's Training",
       "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "ability, is starting. The",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "partner Digimon join in, win,",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "and get prizes.",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "Joe's Training",
-      "translation": "",
+      "_offset": 1894152,
       "_length": 14
     },
     {
-      "text": "Joe asks Piccolomon for help, but he seems unusually serious.",
+      "text": "Jou asks Piccolomon for help, but he seems unusually serious.",
       "translation": "",
+      "_offset": 1894167,
       "_length": 61
     },
     {
-      "text": "Joe goes to Piccolomon to",
+      "text": "Jou goes to Piccolomon to\nget stronger before next year's\nentrance exams. But Jou, who is\nphysically weak, was hoping to\ntrain his mind. Piccolomon shows\nJou that all he does is whine.",
       "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "get stronger before next year's",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "entrance exams. But Joe, who is",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "physically weak, was hoping to",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "train his mind. Piccolomon shows",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Joe that all he does is whine.",
-      "translation": "",
-      "_length": 30
+      "_offset": 1894229,
+      "_length": 184
     },
     {
       "text": "Ogremon's Bone",
       "translation": "",
+      "_offset": 1894414,
       "_length": 14
     },
     {
       "text": "Is it THAT Ogremon, or another one as he claims?",
       "translation": "",
+      "_offset": 1894429,
       "_length": 48
     },
     {
-      "text": "Ogremon is out hunting for Skull",
+      "text": "Ogremon is out hunting for Skull\nGreymon to replace its favorite\nbone club. He asks the kids for\nhelp. Takeru fights Skull \nGreymon. Ogremon's surprised by\nhow much the kids, who defeat \nit, have grown.",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Greymon to replace its favorite",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "bone club. He asks the kids for",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "help. T.K fights Skull ",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Greymon. Ogremon's surprised by",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "how much the kids, who defeat ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "it, have grown.",
-      "translation": "",
-      "_length": 15
+      "_offset": 1894478,
+      "_length": 202
     },
     {
       "text": "Karaoke Competition",
       "translation": "",
+      "_offset": 1894681,
       "_length": 19
     },
     {
       "text": "The Gekomon ask Mimi for help. What's wrong?",
       "translation": "",
+      "_offset": 1894701,
       "_length": 44
     },
     {
-      "text": "Mimi and Palmon try to help",
+      "text": "Mimi and Palmon try to help\nGekomon and Otamamon, who can't\nsleep because TonosamaGekomon's\nsinging all night. In the end, \nTonosamaGekomon promises it'll\nonly sing during the day.",
       "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Gekomon and Otamamon, who can't",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "sleep because TonosamaGekomon's",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "singing all night. In the end, ",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "TonosamaGekomon promises it'll",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "only sing during the day.",
-      "translation": "",
-      "_length": 25
+      "_offset": 1894746,
+      "_length": 180
     },
     {
       "text": "Food For Thought",
       "translation": "",
+      "_offset": 1894927,
       "_length": 16
     },
     {
       "text": "The gang gather in a restaurant for a cooking showdown!",
       "translation": "",
+      "_offset": 1894944,
       "_length": 55
     },
     {
-      "text": "The kids visit Digitamamon's",
+      "text": "The kids visit Digitamamon's\nrestaurant. Koushirou uses his\ncomputer to make food, but it's\ncriticized. Ogremon shows up\nand challenges Koushirou, who\nlearns that, when preparing\nfood, he needs to consider\nwho'll eat it.",
       "translation": "",
-      "_length": 28
+      "_offset": 1895000,
+      "_length": 220
     },
     {
-      "text": "restaurant. Izzy uses his",
+      "text": "Brainwashed Yamato",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "computer to make food, but it's",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "criticized. Ogremon shows up",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "and challenges Izzy, who",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "learns that, when preparing",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "food, he needs to consider",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "who'll eat it.",
-      "translation": "",
-      "_length": 14
-    },
-    {
-      "text": "Brainwashed Matt",
-      "translation": "",
+      "_offset": 1895221,
       "_length": 18
     },
     {
-      "text": "They relax at the amusement park, but what's wrong with Matt?",
+      "text": "They relax at the amusement park, but what's wrong with Yamato?",
       "translation": "",
+      "_offset": 1895240,
       "_length": 63
     },
     {
-      "text": "The kids visit the amusement",
+      "text": "The kids visit the amusement\npark, but Yamato doesn't want to\nride the ferris wheel or jet\ncoaster. Vadermon, who stole\nYamato's \"strong heart\", is\nbehind this. They retrieve it,\nbut he doesn't like the\nattractions anyway.",
       "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "park, but Matt doesn't want to",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "ride the ferris wheel or jet",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "coaster. Vadermon, who stole",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Matt's \"strong heart\", is",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "behind this. They retrieve it,",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "but he doesn't like the",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "attractions anyway.",
-      "translation": "",
-      "_length": 19
+      "_offset": 1895304,
+      "_length": 222
     },
     {
       "text": "The Digital World may be nostalgic, but the heat isn't.",
       "translation": "",
+      "_offset": 1895537,
       "_length": 55
     },
     {
-      "text": "Agumon is interested in a toy",
+      "text": "Agumon is interested in a toy\nsnowglobe. They buy one and try\nto send it with a greeting card\nto Yukidarumon, but Meramon breaks\nit. After being brought back to his\nsenses, he apologizes profusely.",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "snowglobe. They buy one and try",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "to send it with a greeting card",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "to Frigimon, but Meramon breaks",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "it. After being brought back to his",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "senses, he apologizes profusely.",
-      "translation": "",
-      "_length": 32
+      "_offset": 1895593,
+      "_length": 197
     },
     {
       "text": "A Mysterious Email",
       "translation": "",
+      "_offset": 1895791,
       "_length": 18
     },
     {
-      "text": "Tai receives a mysterious email.",
+      "text": "Taichi receives a mysterious email.",
       "translation": "",
+      "_offset": 1895810,
       "_length": 35
     },
     {
-      "text": "Following a mysterious email,",
+      "text": "Following a mysterious email,\nTaichi and Agumon go to\nHikarigaoka, and are attacked by\nParrotmon. It's supposedly their\nfirst encounter, but Taichi\nfeels like he's seen it before.",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Tai and Agumon go to",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "Karigaoka, and are attacked by",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Parrotmon. It's supposedly their",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "first encounter, but Tai",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "feels like he's seen it before.",
-      "translation": "",
-      "_length": 31
+      "_offset": 1895846,
+      "_length": 179
     },
     {
       "text": "The Undersea Cave",
       "translation": "",
+      "_offset": 1896026,
       "_length": 17
     },
     {
       "text": "Memories of Whamon",
       "translation": "",
+      "_offset": 1896058,
       "_length": 18
     },
     {
       "text": "The kids mourn Whamon's sacrifice.",
       "translation": "",
+      "_offset": 1896077,
       "_length": 34
     },
     {
-      "text": "Whamon sacrificed itself to",
+      "text": "Whamon sacrificed itself to\ndefeat Metal Seadramon. The\nkids make a grave for him and\nremember their time together.",
       "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "defeat Metal Seadramon. The",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "kids make a grave for him and",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "remember their time together.",
-      "translation": "",
-      "_length": 29
+      "_offset": 1896112,
+      "_length": 115
     },
     {
       "text": "Injured Koromon",
       "translation": "",
+      "_offset": 1896228,
       "_length": 15
     },
     {
-      "text": "While separated from Matt, the kids find an injured Koromon.",
+      "text": "While separated from Yamato, the kids find an injured Koromon.",
       "translation": "",
+      "_offset": 1896244,
       "_length": 62
     },
     {
-      "text": "Tai's group finds a Koromon",
+      "text": "Taichi's group finds a Koromon\nwho was attacked by the Dark\nMasters. Koromon thanks them\nafter they find some medicinal\nherbs.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "who was attacked by the Dark",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Masters. Koromon thanks them",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "after they find some medicinal",
-      "translation": "",
-      "_length": 30
+      "_offset": 1896307,
+      "_length": 126
     },
     {
       "text": "Memories of Piccolomon",
       "translation": "",
+      "_offset": 1896434,
       "_length": 22
     },
     {
       "text": "Piccolomon sacrificed himself for the kids. How to honor him?",
       "translation": "",
+      "_offset": 1896457,
       "_length": 61
     },
     {
-      "text": "The kids gather flowers to make",
+      "text": "The kids gather flowers to make\na grave for Piccolomon. Hikari\nasks Taichi about him. A wild \nand hungry Digitamamon appears,\nbut Taichi feeds him.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "a grave for Piccolomon. Kari",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "asks Tai about him. A wild ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "and hungry Digitamamon appears,",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "but Tai feeds him.",
-      "translation": "",
-      "_length": 21
+      "_offset": 1896519,
+      "_length": 147
     },
     {
       "text": "Training Digimon? Hackmon",
       "translation": "",
+      "_offset": 1896667,
       "_length": 25
     },
     {
-      "text": "Tai and Agumon, in another world, meet...",
+      "text": "Taichi and Agumon, in another world, meet...",
       "translation": "",
+      "_offset": 1896693,
       "_length": 44
     },
     {
-      "text": "During the battle with the",
+      "text": "During the battle with the\nDark Masters, Taichi and Agumon\nenter the Digital Dungeon. They\nmeet Hackmon, who wants to\ndefeat Agumon, but cooperates to\nescape the Dungeon.",
       "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Dark Masters, Tai and Agumon",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "enter the Digital Dungeon. They",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "meet Hackmon, who wants to",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "defeat Agumon, but cooperates to",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "escape the Dungeon.",
-      "translation": "",
-      "_length": 19
+      "_offset": 1896738,
+      "_length": 170
     },
     {
       "text": "Golden Armor! Magnamon",
       "translation": "",
+      "_offset": 1896909,
       "_length": 22
     },
     {
-      "text": "Trapped in a dungeon, Tai meets a boy who says he knows him?",
+      "text": "Trapped in a dungeon, Taichi meets a boy who says he knows him?",
       "translation": "",
+      "_offset": 1896932,
       "_length": 63
     },
     {
-      "text": "Tai and Agumon can't escape.",
+      "text": "Taichi and Agumon can't escape.\nThey meet V-mon and a mysterious\nboy who says he knows them and\nthey'll meet in three years.\nAt the last floor, a shadow\nshaped like Magnamon awaits.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "They meet V-mon and a mysterious",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "boy who says he knows them and",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "they'll meet in three years.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "At the last floor, a shadow",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "shaped like Magnamon awaits.",
-      "translation": "",
-      "_length": 28
+      "_offset": 1896996,
+      "_length": 181
     },
     {
       "text": "Crimson Knight! Dukemon",
       "translation": "",
+      "_offset": 1897178,
       "_length": 23
     },
     {
-      "text": "After leaving Daisuke, Tai and Agumon meet another boy.",
+      "text": "After leaving Daisuke, Taichi and Agumon meet another boy.",
       "translation": "",
+      "_offset": 1897202,
       "_length": 58
     },
     {
-      "text": "Next they meet Takato Matsuda,",
+      "text": "Next they meet Takato Matsuda,\nwho's glad to meet a celebrity\nhe admires. A strange black\nshadow tells them to proceed.\nThere's a copy of Dukemon at the\nend of the floor. The kids unite\nand fight him.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "who's glad to meet a celebrity",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "he admires. A strange black",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "shadow tells them to proceed.",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "There's a copy of Dukemon at the",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "end of the floor. The kids unite",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "and fight him.",
-      "translation": "",
-      "_length": 14
+      "_offset": 1897261,
+      "_length": 200
     },
     {
       "text": "Dragon Warrior, KaiserGreymon",
       "translation": "",
+      "_offset": 1897462,
       "_length": 29
     },
     {
-      "text": "Tai and Agumon continue as the black shadow commanded.",
+      "text": "Taichi and Agumon continue as the black shadow commanded.",
       "translation": "",
+      "_offset": 1897492,
       "_length": 57
     },
     {
-      "text": "They're attacked by ",
+      "text": "They're attacked by \nKaiserGreymon, a boy who turned\ninto a Digimon. Taichi and the\nboy, Takuya Kanbara, have a\nnice chat about soccer. A copy\nof KaiserGreymon appears, they \nbattle it, and promise they'll\nmeet again.",
       "translation": "",
-      "_length": 20
-    },
-    {
-      "text": "KaiserGreymon, a boy who turned",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "into a Digimon. Tai and the",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "boy, Takuya Kanbara, have a",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "nice chat about soccer. A copy",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "of KaiserGreymon appears, they ",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "battle it, and promise they'll",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "meet again.",
-      "translation": "",
-      "_length": 11
+      "_offset": 1897550,
+      "_length": 217
     },
     {
       "text": "Light Dragon! ShineGreymon",
       "translation": "",
+      "_offset": 1897768,
       "_length": 26
     },
     {
-      "text": "Tai and Agumon meet another Agumon?! What the...?!",
+      "text": "Taichi and Agumon meet another Agumon?! What the...?!",
       "translation": "",
+      "_offset": 1897795,
       "_length": 53
     },
     {
-      "text": "Tai meets another Agumon and",
+      "text": "Taichi meets another Agumon and\na fighting gang leader, Masaru\nDaimon, and is confused by their\nheated spirit. They defeat\na copy of ShineGreymon, then an\nincredibly powerful Digimon \nappears who Hackmon knows.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "a fighting gang leader, Masaru",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Daimon, and is confused by their",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "heated spirit. They defeat",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "a copy of ShineGreymon, then an",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "incredibly powerful Digimon ",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "appears who Hackmon knows.",
-      "translation": "",
-      "_length": 26
+      "_offset": 1897849,
+      "_length": 210
     },
     {
       "text": "Shout! OmegaShoutmon",
       "translation": "",
+      "_offset": 1898060,
       "_length": 20
     },
     {
       "text": "A mysterious Digimon defeats Hackmon. His target's...?",
       "translation": "",
+      "_offset": 1898081,
       "_length": 54
     },
     {
-      "text": "Another boy, Taiki Kudou, meets",
+      "text": "Another boy, Taiki Kudou, meets\nTaichi and Agumon, along with\nShoutmon, the self-proclaimed\nKing of Digimon. Together they\ndefeat OmegaShoutmon's shadow.\nTaiki asks Taichi to greet the\nfriend he came with, and they\npart.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Tai and Agumon, along with",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Shoutmon, the self-proclaimed",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "King of Digimon. Together they",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "defeat OmegaShoutmon's shadow.",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Taiki asks Tai to greet the",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "friend he came with, and they",
-      "translation": "",
-      "_length": 29
+      "_offset": 1898136,
+      "_length": 220
     },
     {
       "text": "Dragon Beast! Arresterdramon",
       "translation": "",
+      "_offset": 1898357,
       "_length": 28
     },
     {
       "text": "A boy who's a \"Digimon Hunter\" and Taiki's junior?",
       "translation": "",
+      "_offset": 1898386,
       "_length": 50
     },
     {
-      "text": "Taiki's junior, Tagiru Akashi,",
+      "text": "Taiki's junior, Tagiru Akashi,\nand Arresterdramon challenge\nGankoomon, but are defeated.\nAfter Arresterdramon defeats his\ncopy at the end of this floor,\nthey meet again. Hackmon reveals\nit's a Royal Knight!",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "and Arresterdramon challenge",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Gankoomon, but are defeated.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "After Arresterdramon defeats his",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "copy at the end of this floor,",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "they meet again. Hackmon reveals",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "it's a Royal Knight!",
-      "translation": "",
-      "_length": 20
+      "_offset": 1898437,
+      "_length": 206
     },
     {
       "text": "Everyone Unite! The Final Battle",
       "translation": "",
+      "_offset": 1898644,
       "_length": 32
     },
     {
       "text": "Gankuumon leads the kids to fix the world. Everyone together!",
       "translation": "",
+      "_offset": 1898677,
       "_length": 61
     },
     {
-      "text": "It was all Gankuumon's plan to",
+      "text": "It was all Gankuumon's plan to\nfix the distortions in the\nDigital World. The kids try to\nstop the control core's rampage,\nthe copies they defeated revive,\nand Hackmon shows his true\npower. Gankoomon trains the kids\nwho saved the world.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "fix the distortions in the",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Digital World. The kids try to",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "stop the control core's rampage,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "the copies they defeated revive,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "and Hackmon shows his true",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "power. Gankoomon trains the kids",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "who saved the world.",
-      "translation": "",
-      "_length": 20
-    },
-    {
-      "text": "Digital Dungeon: ",
-      "translation": "",
-      "_length": 17
+      "_offset": 1898739,
+      "_length": 235
     },
     {
       "text": "A dungeon in another dimension. It's perfect for training?",
       "translation": "",
+      "_offset": 1898995,
       "_length": 58
     },
     {
-      "text": "A digital space in an alternate ",
+      "text": "A digital space in an alternate \ndimension. Kids step into the\nDungeon to train.",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "dimension. Kids step into the",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Dungeon to train.",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "Digital Dungeon: ",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "Digital Dungeon: ",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "Digital Dungeon: ",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "Digital Dungeon: ",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "Digital Dungeon: ",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "Digital Dungeon: ",
-      "translation": "",
-      "_length": 17
+      "_offset": 1899054,
+      "_length": 80
     }
   ]
 }

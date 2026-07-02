@@ -4,1382 +4,386 @@
     {
       "text": "Max HP +50.",
       "translation": "",
+      "_offset": 1744132,
       "_length": 11
     },
     {
       "text": "Max HP +100.",
       "translation": "",
+      "_offset": 1744156,
       "_length": 12
     },
     {
       "text": "Max HP +200.",
       "translation": "",
+      "_offset": 1744181,
       "_length": 12
     },
     {
       "text": "Max HP +400.",
       "translation": "",
+      "_offset": 1744206,
       "_length": 12
     },
     {
       "text": "Max HP +800.",
       "translation": "",
+      "_offset": 1744231,
       "_length": 12
     },
     {
       "text": "Max HP +1200.",
       "translation": "",
+      "_offset": 1744256,
       "_length": 13
     },
     {
       "text": "Max HP +2000.",
       "translation": "",
+      "_offset": 1744282,
       "_length": 13
     },
     {
       "text": "Max SP +10.",
       "translation": "",
+      "_offset": 1744308,
       "_length": 11
     },
     {
       "text": "Max SP +20.",
       "translation": "",
+      "_offset": 1744332,
       "_length": 11
     },
     {
       "text": "Max SP +40.",
       "translation": "",
+      "_offset": 1744356,
       "_length": 11
     },
     {
       "text": "Max SP +60.",
       "translation": "",
+      "_offset": 1744380,
       "_length": 11
     },
     {
       "text": "Max SP +80.",
       "translation": "",
+      "_offset": 1744404,
       "_length": 11
     },
     {
       "text": "Max SP +120.",
       "translation": "",
+      "_offset": 1744428,
       "_length": 12
     },
     {
       "text": "Max SP +200.",
       "translation": "",
+      "_offset": 1744453,
       "_length": 12
-    },
-    {
-      "text": "ATK Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "ATK Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "ATK Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "ATK Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "ATK Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "ATK Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "DEF Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "DEF Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "DEF Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "DEF Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "DEF Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "DEF Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "SPD Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "SPD Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "SPD Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "SPD Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "SPD Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "SPD Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "Shock Guard",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "Lowers chance of Shock.",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "Break Guard",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "Lowers chance of Break.",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "Poison Guard",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "Lowers chance of Poison.",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Poison Guard ",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Nullifies Poison.",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "Sticky Guard",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "Lowers chance of Sticky.",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Sticky Guard ",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Nullifies Sticky.",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "Skill Guard",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "Lowers chance of Skill Seal.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Skill Guard ",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "Nullifies Skill Seal.",
-      "translation": "",
-      "_length": 21
-    },
-    {
-      "text": "Healthy Child",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Lowers chance of Poison, ",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "Sticky, and Skill Seal.",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "Healthy Child +",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "Nullifies Poison, Sticky, ",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "and Skill Seal.",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "Raises evasion rate.",
-      "translation": "",
-      "_length": 20
-    },
-    {
-      "text": "Fighting Spirit",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "Raises the user's ATK and DEF ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "by one stage.",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Raises the user's ATK and DEF ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "by two stages.",
-      "translation": "",
-      "_length": 14
-    },
-    {
-      "text": "ATK Charge",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "Raises ATK by one stage ",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "for one ally.",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "ATK Charge ",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "Raises ATK by two stages ",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "for one ally.",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "ATK Charge +",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "Raises ATK by one stage ",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "for all allies.",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "ATK Charge ",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "Raises ATK by two stages ",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "for all allies.",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "DEF Charge",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "Raises DEF by one stage ",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "for one ally.",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "DEF Charge ",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "Raises DEF by two stages ",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "for one ally.",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "DEF Charge +",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "Raises DEF by one stage ",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "for all allies.",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "DEF Charge ",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "Raises DEF by two stages ",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "for all allies.",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "Allows one ally to attack ",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Allows one ally to attack twice ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "for three turns.",
-      "translation": "",
-      "_length": 16
-    },
-    {
-      "text": "Shields one ally from attacks.",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "All-Out Evade",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Raises the user's evasion.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Makes enemies target you ",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "until the next round.",
-      "translation": "",
-      "_length": 21
-    },
-    {
-      "text": "Heal 400 HP for one ally.",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "Mega Heal",
-      "translation": "",
-      "_length": 9
-    },
-    {
-      "text": "Heal 800 HP for one ally.",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "Giga Heal",
-      "translation": "",
-      "_length": 9
-    },
-    {
-      "text": "Heal 2000 HP for one ally.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Tera Heal",
-      "translation": "",
-      "_length": 9
-    },
-    {
-      "text": "Heal Full HP for one ally.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Heal 400 HP for all allies.",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Mega Heal +",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "Heal 800 HP for all allies.",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Giga Heal +",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "Heal 2000 HP for all allies.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Tera Heal +",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "Heal Full HP for all allies.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Poison Cure",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "Cures Poison for one ally.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Cures Sticky for one ally.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Skill Release",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Unseals Skills for one ally.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Cures Poison, Sticky, ",
-      "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "and Skill Seal for one ally.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Cures Poison, Sticky, ",
-      "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "and Skill Seal for all allies.",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Revives one KO'd ally ",
-      "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "with full HP.",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Sacrifice Attack",
-      "translation": "",
-      "_length": 16
-    },
-    {
-      "text": "Executes a strong attack ",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "on one enemy, but costs HP.",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Drain Attack",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "Inflicts damage on one enemy ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "and recovers HP.",
-      "translation": "",
-      "_length": 16
-    },
-    {
-      "text": "Shock Attack",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "Attacks one enemy with a chance ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Shock Attack ",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Attacks one enemy and causes ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Break Attack",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "Attacks one enemy with a chance ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Break Attack ",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Attacks one enemy and causes ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Rage Attack",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "Attacks one enemy with a ",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "chance of Shock and Break.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Rage Attack ",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "Attacks one enemy and causes ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Shock and Break.",
-      "translation": "",
-      "_length": 16
-    },
-    {
-      "text": "Giga Shock",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "Attacks all enemies and causes ",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Poison Attack",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Attacks one enemy with a chance ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Poison Attack ",
-      "translation": "",
-      "_length": 14
-    },
-    {
-      "text": "Attacks one enemy and causes ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Sticky Attack",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Attacks one enemy with a chance ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Sticky Attack ",
-      "translation": "",
-      "_length": 14
-    },
-    {
-      "text": "Attacks one enemy and causes ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Gamble Attack",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Attacks with a low hit rate but ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "a guaranteed critical hit.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "All Attack",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "Attacks all enemies.",
-      "translation": "",
-      "_length": 20
-    },
-    {
-      "text": "ATK Break",
-      "translation": "",
-      "_length": 9
-    },
-    {
-      "text": "Attacks and lowers the ATK of ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "one enemy by one stage.",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "ATK Break ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "Attacks and lowers the ATK of ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "one enemy by two stages.",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "DEF Break",
-      "translation": "",
-      "_length": 9
-    },
-    {
-      "text": "Attacks and lowers the DEF of ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "one enemy by one stage.",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "DEF Break ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "Attacks and lowers the DEF of ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "one enemy by two stages.",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Status Reset",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "Removes stat boosts on all ",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Raises ATK by one stage when ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "you receive damage.",
-      "translation": "",
-      "_length": 19
-    },
-    {
-      "text": "Raises evasion rate when your ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "HP becomes low.",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "Attacks will always hit.",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "A chance of a counterattack ",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "when you receive damage.",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Super Counter",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Counterattacks when you receive ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Ultra Counter",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Counterattacks with a critical ",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "hit when you receive damage.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Automatically takes an attack ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "for an ally with low HP.",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "Auto Heal",
-      "translation": "",
-      "_length": 9
-    },
-    {
-      "text": "Recovers some HP at the start ",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "of every turn.",
-      "translation": "",
-      "_length": 14
-    },
-    {
-      "text": "Revives the user upon fainting ",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "once and restores 1000 HP.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Revives the user upon fainting ",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "once and restores Full HP.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Allows the user to attack ",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Allows the user to attack ",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "three times.",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "Allows one enemy to ",
-      "translation": "",
-      "_length": 20
-    },
-    {
-      "text": "counterattack (enemy only).",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Continuous Attack",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "Attacks a random target 2 times.",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Attacks a random target 4 times.",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Increases the chance of making ",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "the first strike.",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "Danger Alert",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "Enemies will not sneak up on ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Increases the item drop rate.",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Super Luck",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "Significantly increases the ",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "item drop rate.",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "Fast Growth",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "Doubles experience gain for the ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Halves SP consumption.",
-      "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "Nullifies SP consumption.",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "EVO Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "Starts battle having evolved ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "one level (if possible).",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "EVO Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "Starts battle having evolved ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "two levels (if possible).",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "EVO Boost ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "Starts battle having evolved ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "three levels (if possible).",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Escape Master",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "Guarantees escape.",
-      "translation": "",
-      "_length": 18
-    },
-    {
-      "text": "Auto Heal ",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "Restores a little HP every turn ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "(enemy only).",
-      "translation": "",
-      "_length": 13
     },
     {
       "text": "Recover 400 HP (one ally).",
       "translation": "",
+      "_offset": 1752277,
       "_length": 26
     },
     {
       "text": "Recover 800 HP (one ally).",
       "translation": "",
+      "_offset": 1752317,
       "_length": 26
     },
     {
       "text": "Recover 2000 HP (one ally).",
       "translation": "",
+      "_offset": 1752357,
       "_length": 27
     },
     {
       "text": "Recover Full HP (one ally).",
       "translation": "",
+      "_offset": 1752399,
       "_length": 27
     },
     {
       "text": "Recover 400 HP (all allies).",
       "translation": "",
+      "_offset": 1752437,
       "_length": 28
     },
     {
       "text": "Recover 800 HP (all allies).",
       "translation": "",
+      "_offset": 1752476,
       "_length": 28
     },
     {
       "text": "Recover 2000 HP (all allies).",
       "translation": "",
+      "_offset": 1752515,
       "_length": 29
     },
     {
       "text": "Recover Full HP (all allies).",
       "translation": "",
+      "_offset": 1752556,
       "_length": 29
     },
     {
       "text": "Recover 30 SP (one ally).",
       "translation": "",
+      "_offset": 1752597,
       "_length": 25
     },
     {
       "text": "Recover 100 SP (one ally).",
       "translation": "",
+      "_offset": 1752637,
       "_length": 26
     },
     {
       "text": "Recover 30 SP (all allies).",
       "translation": "",
+      "_offset": 1752672,
       "_length": 27
     },
     {
       "text": "Recover 100 SP (all allies).",
       "translation": "",
+      "_offset": 1752711,
       "_length": 28
     },
     {
-      "text": "Recover Full HP and SP, cure ",
+      "text": "Recover Full HP and SP, cure \nbad status (one ally).",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "bad status (one ally).",
-      "translation": "",
-      "_length": 22
+      "_offset": 1752745,
+      "_length": 52
     },
     {
       "text": "Special Meat",
       "translation": "",
+      "_offset": 1752798,
       "_length": 12
     },
     {
-      "text": "Recover Full HP and SP, cure ",
+      "text": "Recover Full HP and SP, cure \nbad status (all allies).",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "bad status (all allies).",
-      "translation": "",
-      "_length": 24
+      "_offset": 1752811,
+      "_length": 54
     },
     {
       "text": "Raise ATK by 1 level (one ally).",
       "translation": "",
+      "_offset": 1752877,
       "_length": 32
     },
     {
       "text": "Raise ATK by 1 level (all allies).",
       "translation": "",
+      "_offset": 1752924,
       "_length": 34
     },
     {
       "text": "Raise ATK by 2 levels (one ally).",
       "translation": "",
+      "_offset": 1752972,
       "_length": 33
     },
     {
       "text": "Raise ATK by 2 levels (all allies).",
       "translation": "",
+      "_offset": 1753022,
       "_length": 35
     },
     {
       "text": "Raise DEF by 1 level (one ally).",
       "translation": "",
+      "_offset": 1753069,
       "_length": 32
     },
     {
       "text": "Raise DEF by 1 level (all allies).",
       "translation": "",
+      "_offset": 1753116,
       "_length": 34
     },
     {
       "text": "Raise DEF by 2 levels (one ally).",
       "translation": "",
+      "_offset": 1753164,
       "_length": 33
     },
     {
       "text": "Raise DEF by 2 levels (all allies).",
       "translation": "",
+      "_offset": 1753214,
       "_length": 35
     },
     {
       "text": "Lower ATK by 1 level (one enemy).",
       "translation": "",
+      "_offset": 1753261,
       "_length": 33
     },
     {
       "text": "Lower ATK by 1 level (all enemies).",
       "translation": "",
+      "_offset": 1753309,
       "_length": 35
     },
     {
       "text": "Lower ATK by 2 levels (one enemy).",
       "translation": "",
+      "_offset": 1753358,
       "_length": 34
     },
     {
       "text": "Lower ATK by 2 levels (all enemies).",
       "translation": "",
+      "_offset": 1753409,
       "_length": 36
     },
     {
       "text": "Lower DEF by 1 level (one enemy).",
       "translation": "",
+      "_offset": 1753457,
       "_length": 33
     },
     {
       "text": "Lower DEF by 1 level (all enemies).",
       "translation": "",
+      "_offset": 1753505,
       "_length": 35
     },
     {
       "text": "Lower DEF by 2 levels (one enemy).",
       "translation": "",
+      "_offset": 1753554,
       "_length": 34
     },
     {
       "text": "Lower DEF by 2 levels (all enemies).",
       "translation": "",
+      "_offset": 1753605,
       "_length": 36
     },
     {
       "text": "Life Saver Kit",
       "translation": "",
+      "_offset": 1753642,
       "_length": 14
     },
     {
-      "text": "Revives one KO'd ally ",
+      "text": "Revives one KO'd ally \nwith full HP.",
       "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "with full HP.",
-      "translation": "",
-      "_length": 13
+      "_offset": 1753657,
+      "_length": 36
     },
     {
       "text": "Cures Poison for one ally.",
       "translation": "",
+      "_offset": 1753703,
       "_length": 26
     },
     {
       "text": "Skill Release",
       "translation": "",
+      "_offset": 1753730,
       "_length": 13
     },
     {
       "text": "Unseals Skills for one ally.",
       "translation": "",
+      "_offset": 1753744,
       "_length": 28
     },
     {
       "text": "Smooth Powder",
       "translation": "",
+      "_offset": 1753773,
       "_length": 13
     },
     {
       "text": "Cures Sticky for one ally.",
       "translation": "",
+      "_offset": 1753787,
       "_length": 26
     },
     {
-      "text": "Cures Poison, Sticky, ",
+      "text": "Cures Poison, Sticky, \nand Skill Seal for one ally.",
       "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "and Skill Seal for one ally.",
-      "translation": "",
-      "_length": 28
+      "_offset": 1753821,
+      "_length": 51
     },
     {
       "text": "Recover 400 HP (one ally).",
       "translation": "",
+      "_offset": 1754165,
       "_length": 26
     },
     {
       "text": "Recover 30 SP (one ally).",
       "translation": "",
+      "_offset": 1754203,
       "_length": 25
     },
     {
       "text": "Cures Poison for one ally.",
       "translation": "",
+      "_offset": 1754238,
       "_length": 26
     },
     {
       "text": "Skill Release",
       "translation": "",
+      "_offset": 1754265,
       "_length": 13
     },
     {
       "text": "Unseals Skills for one ally.",
       "translation": "",
+      "_offset": 1754279,
       "_length": 28
     },
     {
       "text": "Smooth Powder",
       "translation": "",
+      "_offset": 1754308,
       "_length": 13
     },
     {
       "text": "Cures Sticky for one ally.",
       "translation": "",
+      "_offset": 1754322,
       "_length": 26
     },
     {
       "text": "Recover 800 HP (one ally).",
       "translation": "",
+      "_offset": 1754362,
       "_length": 26
     },
     {
       "text": "Recover 100 SP (one ally).",
       "translation": "",
+      "_offset": 1754403,
       "_length": 26
     },
     {
       "text": "Life Saver Kit",
       "translation": "",
+      "_offset": 1754430,
       "_length": 14
     },
     {
-      "text": "Revives one KO'd ally ",
+      "text": "Revives one KO'd ally \nwith full HP.",
       "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "with full HP.",
-      "translation": "",
-      "_length": 13
+      "_offset": 1754445,
+      "_length": 36
     }
   ]
 }

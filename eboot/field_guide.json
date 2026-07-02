@@ -2,6453 +2,1389 @@
   "source": "EBOOT.BIN/field_guide",
   "strings": [
     {
-      "text": "A Lesser Digimon that evolved",
+      "text": "A Lesser Digimon that evolved\nfrom Botamon. It shed its fur and\ngrew much larger. It's more active,\nbut not yet ready to fight. It\nthreatens its opponents by spitting\nbubbles.",
       "translation": "",
-      "_length": 29
+      "_offset": 1700672,
+      "_length": 175
     },
     {
-      "text": "from Botamon. It shed its fur and",
+      "text": "A Reptile Digimon shaped like a\nsmall dinosaur which learned to\nwalk on two legs. It's weak and\nstill growing, but it's fearless and\nhas a ferocious personality.\nSharp claws on its hands and feet\ndemonstrate its power. With its \nSpecial Move, Baby Flame, it spits\nfire.",
       "translation": "",
-      "_length": 33
+      "_offset": 1700862,
+      "_length": 269
     },
     {
-      "text": "grew much larger. It's more active,",
+      "text": "A dinosaur Digimon whose cranial\nskin is as hard as a rhinoceros\nbeetle's shell. A very aggressive\nDigimon whose whole body is a\ndeadly weapon, with huge horns and\nsharp claws. But it's very smart,\nand, if tamed, among the strongest\nmonsters. Its Special Move, Mega\nFlame, spits super hot flames that\nburn everything to ash.",
       "translation": "",
-      "_length": 35
+      "_offset": 1701148,
+      "_length": 324
     },
     {
-      "text": "but not yet ready to fight. It",
+      "text": "A Perfect Level Digimon whose body\nbecame an armored weapon so it\ncould win more fights. Its attack\nis comparable to a nuclear strike\nand annihilates lower level Digimon.\nIts Special Move, Giga Destroyer,\nhas unparalleled destructive power.",
       "translation": "",
-      "_length": 30
+      "_offset": 1701495,
+      "_length": 240
     },
     {
-      "text": "threatens its opponents by spitting",
+      "text": "An Ultimate Level Digimon that Warp\nEvolved from Agumon. Its whole body\nis covered with the super-metal\n\"Chrome Digizoid\". The strongest\ndragon warrior in the Greymon line.\nUnlike other giant Greymon forms, its\nshape is somewhat humanoid. Its\nSpecial Move, Gaia Force, gathers\nenergy from its surroundings and\nreleases it all at once.",
       "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "A Reptile Digimon shaped like a",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "small dinosaur which learned to",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "walk on two legs. It's weak and",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "still growing, but it's fearless and",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "has a ferocious personality.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Sharp claws on its hands and feet",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "demonstrate its power. With its ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Special Move, Llama Bebé, it spits",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "A dinosaur Digimon whose cranial",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "skin is as hard as a rhinoceros",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "beetle's shell. A very aggressive",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Digimon whose whole body is a",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "deadly weapon, with huge horns and",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "sharp claws. But it's very smart,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "and, if tamed, among the strongest",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "monsters. Its Special Move, Mega",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Flame, spits super hot flames that",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "burn everything to ash.",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "A Perfect Level Digimon whose body",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "became an armored weapon so it",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "could win more fights. Its attack",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "is comparable to a nuclear strike",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "and annihilates lower level Digimon.",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Its Special Move, Giga Destroyer,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "has unparalleled destructive power.",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "An Ultimate Level Digimon that Warp",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Evolved from Agumon. Its whole body",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "is covered with the super-metal",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "\"Chrome Digizoid\". The strongest",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "dragon warrior in the Greymon line.",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Unlike other giant Greymon forms, its",
-      "translation": "",
-      "_length": 37
-    },
-    {
-      "text": "shape is somewhat humanoid. Its",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Special Move, Gaia Force, gathers",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "energy from its surroundings and",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "releases it all at once.",
-      "translation": "",
-      "_length": 24
+      "_offset": 1701754,
+      "_length": 334
     },
     {
       "text": "Dragon Man",
       "translation": "",
+      "_offset": 1702089,
       "_length": 10
     },
     {
-      "text": "A Lesser Digimon that evolved from",
+      "text": "A Lesser Digimon that evolved from\nPunimon into a more animalistic\nshape. It's covered with fluffy\nbody hair and one of Punimon's\nfeelers hardened into a horn on its\nhead. It still likes to play\naround and has a mischievous\npersonality, and its fighting\ninstincts are yet to awaken.",
       "translation": "",
-      "_length": 34
+      "_offset": 1702109,
+      "_length": 282
     },
     {
-      "text": "Punimon into a more animalistic",
+      "text": "Despite being covered by a fur pelt,\nit's a genuine Reptile Digimon.\nExtremely shy and timid, it gathers\nGarurumon's data and shapes it into\nits fur pelt. The fur of Garurumon,\nwho's feared by other Digimon,\nprotects Gabumon but reverses its\npersonality. Its Special Move is\nPetit Fire.",
       "translation": "",
-      "_length": 31
+      "_offset": 1702407,
+      "_length": 286
     },
     {
-      "text": "shape. It's covered with fluffy",
+      "text": "A Beast Digimon. A wolf covered in\nsilver, white and blue fur as hard\nas the legendary metal mithril. The\nblades on its shoulders cut whatever\nthey touch. It's very smart and\nfaithfully obeys those it accepts as\nmaster. It spits a hot flame with\nits Special Move, Fox Fire.",
       "translation": "",
-      "_length": 31
+      "_offset": 1702712,
+      "_length": 273
     },
     {
-      "text": "body hair and one of Punimon's",
+      "text": "A Beast Man Digimon that evolved\nfrom Garurumon and learned to\nwalk on two legs. It lost some\nspeed but became a Commando Type\nDigimon and gained in attack,\ndefense, and tactics. Its kicks use\nGarurumon's leg strength, and its\njumps are in the top 2 among\nDigimon. Its Special Move, Kaiser\nNail, cuts with sharp claws.",
       "translation": "",
-      "_length": 30
+      "_offset": 1703006,
+      "_length": 318
     },
     {
-      "text": "feelers hardened into a horn on its",
+      "text": "A Bulb-type Lesser Digimon with\na large flower on its head. It moves\naround on its root-like tentacles\nand is light enough to float a few\ninches off the ground. It looks very\ncute and is so curious that it\nrarely stays still. It lives in\nflocks varying from a few to\nhundreds.",
       "translation": "",
-      "_length": 35
+      "_offset": 1703706,
+      "_length": 276
     },
     {
-      "text": "head. It still likes to play",
+      "text": "A bird Digimon whose wings partly\ndeveloped as arms. It can use them\nto grab objects, but is bad at\nflying. It lives on the ground, but\nflies away when endangered. It sees\nPatamon as a rival because of its\nsimilar flying skill. It's curious\nand likes to peck Tanemon heads. Its\nSpecial Move is the ghostly flame,\nMagical Fire.",
       "translation": "",
-      "_length": 28
+      "_offset": 1703996,
+      "_length": 326
     },
     {
-      "text": "around and has a mischievous",
+      "text": "A Giant Bird Digimon surrounded by\nburning flames. Like Meramon, it\noriginates from the Internet\nsecurity system, \"Firewall\". It\nsoars through the sky flapping its\ngigantic wings. Although it wants to\navoid combat, it fights aggressively\nwhen attacked. Its Special Move,\nMeteor Wing, flaps its wings to\nunleash meteoric feathers.",
       "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "personality, and its fighting",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "instincts are yet to awaken.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Despite being covered by a fur pelt,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "it's a genuine Reptile Digimon.",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Extremely shy and timid, it gathers",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Garurumon's data and shapes it into",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "its fur pelt. The fur of Garurumon,",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "who's feared by other Digimon,",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "protects Gabumon but reverses its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "personality. Its Special Move is",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "MiniFuego.",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "A Beast Digimon. A wolf covered in",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "silver, white and blue fur as hard",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "as the legendary metal mithril. The",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "blades on its shoulders cut whatever",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "they touch. It's very smart and",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "faithfully obeys those it accepts as",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "master. It spits a hot flame with",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "its Special Move, Fox Fire.",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "A Beast Man Digimon that evolved",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "from Garurumon and learned to",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "walk on two legs. It lost some",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "speed but became a Commando Type",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Digimon and gained in attack,",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "defense, and tactics. Its kicks use",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Garurumon's leg strength, and its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "jumps are in the top 2 among",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Digimon. Its Special Move, Kaiser",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Nail, cuts with sharp claws.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Beast Man",
-      "translation": "",
-      "_length": 9
-    },
-    {
-      "text": "An Ultimate Level Digimon that Warp",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Evolved from Gabumon. Garurumon's",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "final form, it retains its agility",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "despite being covered in metal. It",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "crushes foes with countless hidden",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "weapons. It extends its beam-shaped",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "wings to fly through Net Space at",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "high speeds. Its Special Move,",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Cocytus Breath, freezes its",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "enemies, then blows them to pieces.",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "A Bulb-type Lesser Digimon with",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "a large flower on its head. It moves",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "around on its root-like tentacles",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "and is light enough to float a few",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "inches off the ground. It looks very",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "cute and is so curious that it",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "rarely stays still. It lives in",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "flocks varying from a few to",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "A bird Digimon whose wings partly",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "developed as arms. It can use them",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "to grab objects, but is bad at",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "flying. It lives on the ground, but",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "flies away when endangered. It sees",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Patamon as a rival because of its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "similar flying skill. It's curious",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "and likes to peck Tanemon heads. Its",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Special Move is the ghostly flame,",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Fuego Mágico.",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "A Giant Bird Digimon surrounded by",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "burning flames. Like Meramon, it",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "originates from the Internet",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "security system, \"Firewall\". It",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "soars through the sky flapping its",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "gigantic wings. Although it wants to",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "avoid combat, it fights aggressively",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "when attacked. Its Special Move,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Meteor Wing, flaps its wings to",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "unleash meteoric feathers.",
-      "translation": "",
-      "_length": 26
+      "_offset": 1704339,
+      "_length": 329
     },
     {
       "text": "Giant Bird",
       "translation": "",
+      "_offset": 1704669,
       "_length": 10
     },
     {
-      "text": "A Bird Man Digimon that evolved from",
+      "text": "A Bird Man Digimon that evolved from\nBirdramon. A guardian deity of wind\nand water, it loves nature and\ntreasures justice and order. It's\nsmarter and stronger than other Bird\nDigimon, and is admired as only\nchosen Digimon can become it. If the\nDigital World's order is disturbed,\nit fixes it. Its Special Move,\nShadow Wing, chops up its foes\nwith a speedy vacuum blade.",
       "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Birdramon. A guardian deity of wind",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "and water, it loves nature and",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "treasures justice and order. It's",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "smarter and stronger than other Bird",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Digimon, and is admired as only",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "chosen Digimon can become it. If the",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Digital World's order is disturbed,",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "it fixes it. Its Special Move,",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Shadow Wing, chops up its foes",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "with a speedy vacuum blade.",
-      "translation": "",
-      "_length": 27
+      "_offset": 1704690,
+      "_length": 369
     },
     {
       "text": "Bird Man",
       "translation": "",
+      "_offset": 1705060,
       "_length": 8
     },
     {
-      "text": "A Holy Beast Digimon with four",
+      "text": "A Holy Beast Digimon with four\nshining golden wings. The Ultimate\nform and leader of all Bird Digimon,\nit also commands Holy Digimon. It\ndraws incalculable power from two\nHoly Rings. Its Special Move,\nStarlight Explosion, flaps four holy\nwings to rain golden particles and\npurify all evil.",
       "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "shining golden wings. The Ultimate",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "form and leader of all Bird Digimon,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "it also commands Holy Digimon. It",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "draws incalculable power from two",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Holy Rings. Its Special Move,",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Starlight Explosion, flaps four holy",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "wings to rain golden particles and",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "purify all evil.",
-      "translation": "",
-      "_length": 16
+      "_offset": 1705078,
+      "_length": 289
     },
     {
       "text": "Holy Beast",
       "translation": "",
+      "_offset": 1705368,
       "_length": 10
     },
     {
-      "text": "A soft-bodied Digimon with elastic",
+      "text": "A soft-bodied Digimon with elastic\nskin that scurries around with the\ntentacles on its underside. It's\ncalled Mochimon because, when worked\nup, it inflates its body and looks\nlike mochi. Despite its appearance,\nits quite smart and understands\nhuman speech. It's sometimes seen\ndeforming its body as if trying to\ntalk back.",
       "translation": "",
-      "_length": 34
+      "_offset": 1705388,
+      "_length": 322
     },
     {
-      "text": "skin that scurries around with the",
+      "text": "A recently discovered, unique Insect\nDigimon. It's unclear how it evolved\ninto an Insect Digimon, but it\nhas ant-like strength and rhinoceros\nbeetle-like defense. It mercilessly\nattacks hostile Virus Digimon. Its\nmetal head is as sturdy as an iron\nwall. Its Special Move is Mega\nBlaster.",
       "translation": "",
-      "_length": 34
+      "_offset": 1706082,
+      "_length": 287
     },
     {
-      "text": "tentacles on its underside. It's",
+      "text": "A giant Insect Digimon that evolved\nfrom Kabuterimon and grew to one and\na half times its size. Its flight\ncapability decreased slightly, but\nthe power of its main weapon, the\nhorn, massively increased, and it\ngrew muscles at the base of its\nforelimbs. It strives to protect the\nweak. Its Special Move, Horn Buster,\nsmashes with its giant horn.",
       "translation": "",
-      "_length": 32
+      "_offset": 1706394,
+      "_length": 344
     },
     {
-      "text": "called Mochimon because, when worked",
+      "text": "A Bulb Digimon with a sprout growing\nfrom its head. A Yuramon that\nfloated into the air searching for\nthe right enviroment, then landed\nand evolved. Very timid, when it\nsenses an intruder, it digs a hole\nwith its four feet to hide, leaving\nonly its sprout on the surface. This\ndisguises it as a plant to avoid\npredators, but doesn't work on\nherbivorous Digimon.",
       "translation": "",
-      "_length": 36
+      "_offset": 1707098,
+      "_length": 361
     },
     {
-      "text": "up, it inflates its body and looks",
+      "text": "A Plant Digimon with a tropical\nflower on its head. Although it\nevolved from Tanemon into a Reptile,\nit's still classified as a Plant.\nIt photosynthesizes in the day by\nopening its flower and spreading its\nleafy arms. It usually buries its\nroot-like feet in the ground to\nabsorb nutrients, but can also walk.\nIts Special Move, Poison Ivy,\nentangles with toxic vines.",
       "translation": "",
-      "_length": 34
+      "_offset": 1707472,
+      "_length": 366
     },
     {
-      "text": "like mochi. Despite its appearance,",
+      "text": "A Plant Digimon that looks like a\nlarge cactus. It stores nutrient\ndata to survive in empty deserts.\nNo one can determine its mood from\nits face, as it constantly stares\ninto nothingness. If angered, its\nface changes and it goes berserk.\nIts Special move, Prickly Bang Bang,\nreleases needles from all over its\nbody.",
       "translation": "",
-      "_length": 35
+      "_offset": 1707853,
+      "_length": 315
     },
     {
-      "text": "its quite smart and understands",
+      "text": "A Perfect Level Fairy Digimon that\nflies with its four wings. Said to\nopen its heart to a human girl with\nthe same capricious, tomboyish\npersonality. A fresh wind blows\nwherever it flies. Its special move,\nFlower Cannon, forms a gun\nmuzzle with its wrist petals and\nshoots an energy charge.",
       "translation": "",
-      "_length": 31
+      "_offset": 1708183,
+      "_length": 290
     },
     {
-      "text": "human speech. It's sometimes seen",
+      "text": "A Fairy Digimon called the Rose\nQueen that looks like a beautiful\nwoman and wants to stay that way\nforever. On its breast is the jewel\n\"Tiferet\" engraved with the symbol\nof love and beauty which promises\nthose who wear it eternal beauty and\npower. It tames even the wildest\nDigimon with its Special Move, Thorn\nWhip, by whipping them with\nelectrified thorns.",
       "translation": "",
-      "_length": 33
+      "_offset": 1708488,
+      "_length": 358
     },
     {
-      "text": "deforming its body as if trying to",
+      "text": "Despite looking like an aquatic\nbaby dinosaur, it moves as\nintelligently as a seahorse, but\nis not as friendly as when it was\nPitchmon. When anyone approaches it,\nit runs away. It can't dive for too\nlong, as its skin can't bear the\npressure and cold of the deep ocean.",
       "translation": "",
-      "_length": 34
+      "_offset": 1708861,
+      "_length": 268
     },
     {
-      "text": "talk back.",
+      "text": "A Marine Animal Digimon that can\nmove on land and is covered with fur\nto regulate its temperature. Its\nwhite fur lengthens and turns brown\nas it grows, while the red fur on\nits back indicates its emotions and\nbristles when it's angered. Its\nclaws easily cut through ice. With\nits Special Move, Marching Fishes,\nit summons little fish minions.",
       "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "The original hard-shelled Insect",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Digimon, it's not very aggressive.",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Each foreleg has one claw, and each",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "middle and hind leg has four. It",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "grabs objects with its middle legs.",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Tentomon leads a carefree life",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "sniffing flowers and napping under",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "trees. Its Special Move, Petit",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Thunder, releases static electricity",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "it amplifies with its wings.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "A recently discovered, unique Insect",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Digimon. It's unclear how it evolved",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "into an Insect Digimon, but it",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "has ant-like strength and rhinoceros",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "beetle-like defense. It mercilessly",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "attacks hostile Virus Digimon. Its",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "metal head is as sturdy as an iron",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "wall. Its Special Move is Mega",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "A giant Insect Digimon that evolved",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "from Kabuterimon and grew to one and",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "a half times its size. Its flight",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "capability decreased slightly, but",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "the power of its main weapon, the",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "horn, massively increased, and it",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "grew muscles at the base of its",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "forelimbs. It strives to protect the",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "weak. Its Special Move, Horn Buster,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "smashes with its giant horn.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "An Ultimate Level Insect Digimon",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "with a giant horn and scissors,",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "that evolves with a combination of",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Kabuterimon and Kuwagamon's data.",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Its body shines with gold and it",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "flies around the Digital World at",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "supersonic speed. Its Special Move",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "is the improved version of Mega",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Blaster, Giga Blaster, which",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "annihilates any foe.",
-      "translation": "",
-      "_length": 20
-    },
-    {
-      "text": "A Bulb Digimon with a sprout growing",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "from its head. A Yuramon that",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "floated into the air searching for",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "the right enviroment, then landed",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "and evolved. Very timid, when it",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "senses an intruder, it digs a hole",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "with its four feet to hide, leaving",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "only its sprout on the surface. This",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "disguises it as a plant to avoid",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "predators, but doesn't work on",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "herbivorous Digimon.",
-      "translation": "",
-      "_length": 20
-    },
-    {
-      "text": "A Plant Digimon with a tropical",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "flower on its head. Although it",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "evolved from Tanemon into a Reptile,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "it's still classified as a Plant.",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "It photosynthesizes in the day by",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "opening its flower and spreading its",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "leafy arms. It usually buries its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "root-like feet in the ground to",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "absorb nutrients, but can also walk.",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Its Special Move, Poison Ivy,",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "entangles with toxic vines.",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "A Plant Digimon that looks like a",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "large cactus. It stores nutrient",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "data to survive in empty deserts.",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "No one can determine its mood from",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "its face, as it constantly stares",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "into nothingness. If angered, its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "face changes and it goes berserk.",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Its Special move, Prickly Bang Bang,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "releases needles from all over its",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "A Perfect Level Fairy Digimon that",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "flies with its four wings. Said to",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "open its heart to a human girl with",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "the same capricious, tomboyish",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "personality. A fresh wind blows",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "wherever it flies. Its special move,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Flower Cannon, forms a gun",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "muzzle with its wrist petals and",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "shoots an energy charge.",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "A Fairy Digimon called the Rose",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Queen that looks like a beautiful",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "woman and wants to stay that way",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "forever. On its breast is the jewel",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "\"Tiferet\" engraved with the symbol",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "of love and beauty which promises",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "those who wear it eternal beauty and",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "power. It tames even the wildest",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Digimon with its Special Move, Thorn",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Whip, by whipping them with",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "electrified thorns.",
-      "translation": "",
-      "_length": 19
-    },
-    {
-      "text": "Despite looking like an aquatic",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "baby dinosaur, it moves as",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "intelligently as a seahorse, but",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "is not as friendly as when it was",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Pitchmon. When anyone approaches it,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "it runs away. It can't dive for too",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "long, as its skin can't bear the",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "pressure and cold of the deep ocean.",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "A Marine Animal Digimon that can",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "move on land and is covered with fur",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "to regulate its temperature. Its",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "white fur lengthens and turns brown",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "as it grows, while the red fur on",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "its back indicates its emotions and",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "bristles when it's angered. Its",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "claws easily cut through ice. With",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "its Special Move, Marching Fishes,",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "it summons little fish minions.",
-      "translation": "",
-      "_length": 31
+      "_offset": 1709145,
+      "_length": 342
     },
     {
       "text": "Marine Animal",
       "translation": "",
+      "_offset": 1709488,
       "_length": 13
     },
     {
-      "text": "A Marine Animal Digimon discovered",
+      "text": "A Marine Animal Digimon discovered\nin a computer at an Arctic research\nfacility. Its thick fur and strong\nbody withstand even the coldest\nclimates. It has a mithril horn and\nits skin is just as hard. It has\nheat tops at the base of its claws,\nso it stands firmly on ice, but\ncan't move nimbly. Its Special Move,\nHarpoon Vulcan shoots its horn, but\nit grows back.",
       "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "in a computer at an Arctic research",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "facility. Its thick fur and strong",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "body withstand even the coldest",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "climates. It has a mithril horn and",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "its skin is just as hard. It has",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "heat tops at the base of its claws,",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "so it stands firmly on ice, but",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "can't move nimbly. Its Special Move,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Harpoon Vulcan shoots its horn, but",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "it grows back.",
-      "translation": "",
-      "_length": 14
+      "_offset": 1709512,
+      "_length": 362
     },
     {
       "text": "Marine Animal",
       "translation": "",
+      "_offset": 1709875,
       "_length": 13
     },
     {
-      "text": "A Power Digimon that evolved from",
+      "text": "A Power Digimon that evolved from\nIkkakumon and walks on two legs.\nIt covers its well-developed muscles\nwith armor it builds from pelts and\nshells taken from defeated foes. Its\nhorn is saw-shaped, but its\nstrongest weapon, which it dug up\nfrom ancient ice, is Thor's Hammer,\nmade of Chrome Digizoid. Its Special\nMove, Hammer Spark, uses it to shoot\nelectricity.",
       "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Ikkakumon and walks on two legs.",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "It covers its well-developed muscles",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "with armor it builds from pelts and",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "shells taken from defeated foes. Its",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "horn is saw-shaped, but its",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "strongest weapon, which it dug up",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "from ancient ice, is Thor's Hammer,",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "made of Chrome Digizoid. Its Special",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Move, Hammer Spark, uses it to shoot",
-      "translation": "",
-      "_length": 36
+      "_offset": 1709897,
+      "_length": 361
     },
     {
       "text": "Marine Animal",
       "translation": "",
+      "_offset": 1710259,
       "_length": 13
     },
     {
-      "text": "A Beast Man Digimon that survives in",
+      "text": "A Beast Man Digimon that survives in\nlands covered in permafrost. Its fur\nis like ice crystals and as hard as\nChrome Digizoid.  It carries the\nmorning star \"Mjollnir\" on its back,\nwhich destroys mountains in one\nswing and even warps space itself.\nIts Special Move, Arctic Blizzard,\nreduces the temperature to absolute\nzero, then crushes foes with\nMjollnir.",
       "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "lands covered in permafrost. Its fur",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "is like ice crystals and as hard as",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Chrome Digizoid.  It carries the",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "morning star \"Mjollnir\" on its back,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "which destroys mountains in one",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "swing and even warps space itself.",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Its Special Move, Arctic Blizzard,",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "reduces the temperature to absolute",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "zero, then crushes foes with",
-      "translation": "",
-      "_length": 28
+      "_offset": 1710281,
+      "_length": 356
     },
     {
       "text": "Beast Man",
       "translation": "",
+      "_offset": 1710638,
       "_length": 9
     },
     {
-      "text": "A Lesser Digimon with something",
+      "text": "A Lesser Digimon with something\nlike feet and hands under its body.\nA Baby Digimon with hands and feet\nis unusual and extremely cute. But\nif you stretch out your hand, it\nwon't hesitate to bite with its\nclosely packed fangs. Then again,\nit's very innocent and means no\nharm.",
       "translation": "",
-      "_length": 31
+      "_offset": 1710656,
+      "_length": 274
     },
     {
-      "text": "like feet and hands under its body.",
+      "text": "A Mammal Digimon with recognizably\nlarge ears. It can float in the air\nusing its ears as wings, but only at\n1 km/h, so walking would be much\nfaster. It's popular because it\nlooks adorable when it tries to\nfly, although it may disagree.\nIt's very obedient and easily\nperforms tricks. Its Special Move,\nAir Shot, sucks in air and spews it\nout in one burst.",
       "translation": "",
-      "_length": 35
+      "_offset": 1710946,
+      "_length": 354
     },
     {
-      "text": "A Baby Digimon with hands and feet",
+      "text": "An Archangel Digimon that holds a\nBeam Shield and the holy sword\nExcalibur, with eight shining\nsilver wings. Its mission is to\nenforce the law and lead other Angel\nDigimon. Its Special Move, Heaven's\nGate, creates an interdimensional\ndoor to seal its enemies.",
       "translation": "",
-      "_length": 34
+      "_offset": 1711680,
+      "_length": 259
     },
     {
-      "text": "is unusual and extremely cute. But",
+      "text": "A Seraph Digimon with 10 golden\nwings, clad in silver, shining holy\narmor. The highest ranked Angel\nDigimon, it rules over the others.\nIts identity is hidden behind its\nhelmet. It's the entity closest to\n\"God\". It's said it'll descend in\nthe final battle against evil beings\nand purify them all. Its Special\nMove, Seven Heavens, releases 7\nhot spheres of light.",
       "translation": "",
-      "_length": 34
+      "_offset": 1711961,
+      "_length": 361
     },
     {
-      "text": "if you stretch out your hand, it",
+      "text": "A small Digimon that looks like a\ncat. It got its name from its\ncapricious personality and feline\nbehavior, yet it still feels lonely.\nIts Special Move, Fox Tail, puffs\nup its tail and strikes with its\nwirey fur. No Digimon has yet been\nharmed by this attack.",
       "translation": "",
-      "_length": 32
+      "_offset": 1712339,
+      "_length": 259
     },
     {
-      "text": "won't hesitate to bite with its",
+      "text": "A small Holy Digimon with\ndistinctive lop ears. It's too\nyoung to use holy power and not yet\naware of its mission. Its \npersonality is unstable and it can\nturn evil, but the day may come when\nPlotmon, born as a Holy Digimon,\nawakens to its mission as a Virus\nBuster. Its Special Move, Puppy\nHowling, paralyzes with a very\nhigh-pitched cry.",
       "translation": "",
-      "_length": 31
+      "_offset": 1712614,
+      "_length": 339
     },
     {
-      "text": "closely packed fangs. Then again,",
+      "text": "A cute kitty at first glance, but\nevery rose has its thorns. The Holy\nRing on its tail proves it's a Holy\nDigimon, but if it's lost Tailmon\nweakens dramatically. It wears claws\ncopied from Saber Leomon's data. Its\nSpecial Move, Cat Punch, which\nuses these long and sharp claws, is\nquite powerful.",
       "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "it's very innocent and means no",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "A Mammal Digimon with recognizably",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "large ears. It can float in the air",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "using its ears as wings, but only at",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "1 km/h, so walking would be much",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "faster. It's popular because it",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "looks adorable when it tries to",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "fly, although it may disagree.",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "It's very obedient and easily",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "performs tricks. Its Special Move,",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Disparo de Aire, sucks in air and spews it",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "out in one burst.",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "An Angel Digimon with six shining",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "wings, clad in pure white holy",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "clothes. A being of virtue which",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "brings happiness but ruthlessly",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "fights evil until it's vanquished.",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Legends say that, when the Digital",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "World's in danger, it descends to",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "lead Digimon of the same genus. Its",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Special Move, Heaven's Knuckle,",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "smashes enemies with a shining",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "golden fist.",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "An Archangel Digimon that holds a",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Beam Shield and the holy sword",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Excalibur, with eight shining",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "silver wings. Its mission is to",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "enforce the law and lead other Angel",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Digimon. Its Special Move, Heaven's",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Gate, creates an interdimensional",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "door to seal its enemies.",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "A Seraph Digimon with 10 golden",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "wings, clad in silver, shining holy",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "armor. The highest ranked Angel",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Digimon, it rules over the others.",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Its identity is hidden behind its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "helmet. It's the entity closest to",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "\"God\". It's said it'll descend in",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "the final battle against evil beings",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "and purify them all. Its Special",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Move, Seven Heavens, releases 7",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "hot spheres of light.",
-      "translation": "",
-      "_length": 21
-    },
-    {
-      "text": "A small Digimon that looks like a",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "cat. It got its name from its",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "capricious personality and feline",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "behavior, yet it still feels lonely.",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Its Special Move, Fox Tail, puffs",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "up its tail and strikes with its",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "wirey fur. No Digimon has yet been",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "harmed by this attack.",
-      "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "A small Holy Digimon with",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "distinctive lop ears. It's too",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "young to use holy power and not yet",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "aware of its mission. Its ",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "personality is unstable and it can",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "turn evil, but the day may come when",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Plotmon, born as a Holy Digimon,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "awakens to its mission as a Virus",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Buster. Its Special Move, Puppy",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Howling, paralyzes with a very",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "high-pitched cry.",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "A cute kitty at first glance, but",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "every rose has its thorns. The Holy",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Ring on its tail proves it's a Holy",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Digimon, but if it's lost Tailmon",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "weakens dramatically. It wears claws",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "copied from Saber Leomon's data. Its",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Special Move, Cat Punch, which",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "uses these long and sharp claws, is",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "quite powerful.",
-      "translation": "",
-      "_length": 15
+      "_offset": 1712969,
+      "_length": 296
     },
     {
       "text": "Holy Beast",
       "translation": "",
+      "_offset": 1713266,
       "_length": 10
     },
     {
-      "text": "An Archangel Digimon which looks",
+      "text": "An Archangel Digimon which looks\nlike a beautiful woman, known as the\nGoddess of the Digital World. Once\nclassified as an Angel, its power\nconfirmed it as an Archangel. Its\nvery calm, but does not abide anyone\ntwisted and evil and attacks until\nthey reform. Its Special Move, Holy\nArrow is a powerful lightning\nstrike also called Heaven's\nPunishment.",
       "translation": "",
-      "_length": 32
+      "_offset": 1713287,
+      "_length": 350
     },
     {
-      "text": "like a beautiful woman, known as the",
+      "text": "An Insect Digimon with giant\npincers on its head, well protected\nby its strength and sturdy shell.\nOnce it clenches its pincers, it\nsqueezes until it kills its prey.\nIts Special Move, Scissor Arms, cuts\nthrough any hard object.",
       "translation": "",
-      "_length": 36
+      "_offset": 1714019,
+      "_length": 227
     },
     {
-      "text": "Goddess of the Digital World. Once",
+      "text": "A fierce and aggressive Adult\nDigimon. It changes its shell as it\ngrows until it's as big as a small\nmountain. It's stupid and\naggressive. Its Special Move, Hydro\nPressure, shoots highly pressurized\nwater.",
       "translation": "",
-      "_length": 34
+      "_offset": 1714263,
+      "_length": 205
     },
     {
-      "text": "classified as an Angel, its power",
+      "text": "An Ankylosaur Digimon with a horn\nas hard as diamond. It's herbivorous\nand usually calm, but if angered\nwill charge until it defeats its\nfoe. Its Special Move, Volcano\nStrike, is a powerful fire bomb.",
       "translation": "",
-      "_length": 33
+      "_offset": 1714489,
+      "_length": 200
     },
     {
-      "text": "confirmed it as an Archangel. Its",
+      "text": "An aggressive Adult Aquatic Digimon\nthat looks like a dragon. It\nentangles its foes with its long\nbody and squeezes until they stop\nbreathing. Its Special Move, Ice\nArrow, spits shards of ice.",
       "translation": "",
-      "_length": 33
+      "_offset": 1714711,
+      "_length": 192
     },
     {
-      "text": "very calm, but does not abide anyone",
+      "text": "A soft-bodied Digimon that looks\nlike a slime and loves dark, damp\nand humid places. It protects itself\nby attacking with its own poop.",
       "translation": "",
-      "_length": 36
+      "_offset": 1714920,
+      "_length": 135
     },
     {
-      "text": "twisted and evil and attacks until",
+      "text": "It looks like a plush toy, but\nis actually a Perfect Level Digimon.\nIt has a chuck on its back, and it's\nrumored someone's inside. Its\nSpecial Move, Lovely Attack, makes\neven its enemies happy!",
       "translation": "",
-      "_length": 34
+      "_offset": 1715074,
+      "_length": 193
     },
     {
-      "text": "they reform. Its Special Move, Holy",
+      "text": "A flying Composite Digimon that\nlooks like a combination of the\nlegendary beasts Unicorn and\nPegasus. It flies around the Net\nSpace instantaneously with its wings\nand pierces its enemies with the\nsharp horn on its head. Its Special\nMove, Holy Shot, is a Qigong shot.",
       "translation": "",
-      "_length": 35
+      "_offset": 1715282,
+      "_length": 266
     },
     {
-      "text": "Arrow is a powerful lightning",
+      "text": "A Flame Digimon that constantly\nburns. It originated from the\n\"Firewall\" that prevents\nunauthorized access from the\nInternet, and its personality is as\nhot as the flames that surround its\nbody. When fighting, it burns\nwhatever it touches to ashes! Its\nSpecial Move, Burning Fist, flares\nup its arms and hits its opponent.",
       "translation": "",
-      "_length": 29
+      "_offset": 1715567,
+      "_length": 321
     },
     {
-      "text": "strike also called Heaven's",
+      "text": "A Cyborg Digimon whose body's\ncompletely mechanized. It evolved\nto Perfect Level and many Digimon\nconsider it the strongest. Its\nSpecial Move, Spiral Sword, fires a\nblade of energy from its arm module.",
       "translation": "",
-      "_length": 27
+      "_offset": 1715904,
+      "_length": 201
     },
     {
-      "text": "An Ophan Digimon, the final form of",
+      "text": "A snow Digimon covered in ice\ncrystals. It seems cold, but has a\nvery warm personality and softens\nhearts with calm movements and sweet\ngestures. It doesn't like to fight.\nIts Special Move, Absolute Zero\nPunch, freezes anything!",
       "translation": "",
-      "_length": 35
+      "_offset": 1716125,
+      "_length": 228
     },
     {
-      "text": "the female Angel Digimon. One of the",
+      "text": "A legendary Rare Animal Digimon that\nlives in snowy mountains. It doesn't\nlike to fight and has a mild\npersonality, but thinks of its lair\nas holy ground and punishes whoever\ndamages it. Its Special Move,\nIcicle Rod, makes a giant icicle\nfrom the air's humidity.",
       "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Three Archangel Digimon that protect",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "the Digital World's core \"Kernel\"",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "(God's domain). The Digital World's",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Holy Mother that brings God's",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "compassion and love, while",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Seraphimon executes God's will",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "and Cherubimon guards the divine",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "wisdom. Its Special Move is Eden's",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "An Insect Digimon with giant",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "pincers on its head, well protected",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "by its strength and sturdy shell.",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Once it clenches its pincers, it",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "squeezes until it kills its prey.",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Its Special Move, Scissor Arms, cuts",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "through any hard object.",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "A fierce and aggressive Adult",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Digimon. It changes its shell as it",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "grows until it's as big as a small",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "mountain. It's stupid and",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "aggressive. Its Special Move, Hydro",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Pressure, shoots highly pressurized",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "An Ankylosaur Digimon with a horn",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "as hard as diamond. It's herbivorous",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "and usually calm, but if angered",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "will charge until it defeats its",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "foe. Its Special Move, Volcano",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Strike, is a powerful fire bomb.",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "An aggressive Adult Aquatic Digimon",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "that looks like a dragon. It",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "entangles its foes with its long",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "body and squeezes until they stop",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "breathing. Its Special Move, Ice",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Arrow, spits shards of ice.",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "A soft-bodied Digimon that looks",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "like a slime and loves dark, damp",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "and humid places. It protects itself",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "by attacking with its own poop.",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "It looks like a plush toy, but",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "is actually a Perfect Level Digimon.",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "It has a chuck on its back, and it's",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "rumored someone's inside. Its",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Special Move, Lovely Attack, makes",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "even its enemies happy!",
-      "translation": "",
-      "_length": 23
-    },
-    {
-      "text": "A flying Composite Digimon that",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "looks like a combination of the",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "legendary beasts Unicorn and",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Pegasus. It flies around the Net",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Space instantaneously with its wings",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "and pierces its enemies with the",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "sharp horn on its head. Its Special",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Move, Holy Shot, is a Qigong shot.",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "A Flame Digimon that constantly",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "burns. It originated from the",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "\"Firewall\" that prevents",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "unauthorized access from the",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Internet, and its personality is as",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "hot as the flames that surround its",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "body. When fighting, it burns",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "whatever it touches to ashes! Its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Special Move, Burning Fist, flares",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "up its arms and hits its opponent.",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "A Cyborg Digimon whose body's",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "completely mechanized. It evolved",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "to Perfect Level and many Digimon",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "consider it the strongest. Its",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Special Move, Espada Espiral, fires a",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "blade of energy from its arm module.",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "A snow Digimon covered in ice",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "crystals. It seems cold, but has a",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "very warm personality and softens",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "hearts with calm movements and sweet",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "gestures. It doesn't like to fight.",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Its Special Move, Absolute Zero",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Punch, freezes anything!",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "A legendary Rare Animal Digimon that",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "lives in snowy mountains. It doesn't",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "like to fight and has a mild",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "personality, but thinks of its lair",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "as holy ground and punishes whoever",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "damages it. Its Special Move,",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Icicle Rod, makes a giant icicle",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "from the air's humidity.",
-      "translation": "",
-      "_length": 24
+      "_offset": 1716372,
+      "_length": 262
     },
     {
       "text": "Rare Animal",
       "translation": "",
+      "_offset": 1716635,
       "_length": 11
     },
     {
       "text": "Scumon & Chuumon",
       "translation": "",
+      "_offset": 1716647,
       "_length": 16
     },
     {
-      "text": "A Digimon shaped like a shiny golden",
+      "text": "A Digimon shaped like a shiny golden\npoop. It has little intelligence, so\na small mouse Digimon, Chuumon, acts\nas its brain. Chuumon can't fight\nbut is an excellent guide, so it\nyanks Scumon around and pulls\npranks.",
       "translation": "",
-      "_length": 36
+      "_offset": 1716664,
+      "_length": 215
     },
     {
-      "text": "poop. It has little intelligence, so",
+      "text": "A proud Beast Man Digimon. It moves\nat near-supersonic speed by spewing\npressurized air from its back. It's\nproud and dislikes being bossed\naround or restrained. Its Special\nMove, Hunting Cannon, fires a gun\nembedded in its right arm.",
       "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "a small mouse Digimon, Chuumon, acts",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "as its brain. Chuumon can't fight",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "but is an excellent guide, so it",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "yanks Scumon around and pulls",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "A proud Beast Man Digimon. It moves",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "at near-supersonic speed by spewing",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "pressurized air from its back. It's",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "proud and dislikes being bossed",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "around or restrained. Its Special",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Move, Hunting Cannon, fires a gun",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "embedded in its right arm.",
-      "translation": "",
-      "_length": 26
+      "_offset": 1716898,
+      "_length": 234
     },
     {
       "text": "Beast Man",
       "translation": "",
+      "_offset": 1717133,
       "_length": 9
     },
     {
-      "text": "A proud Beast Man Digimon with a",
+      "text": "A proud Beast Man Digimon with a\nheart of justice. While most Digimon\nare barbaric, it has a strong sense\nof justice and has defeated many\naggressive Digimon. It's Ogremon's\nrival. Its mysterious Special Move,\nJuuouken, stops the opponent's life.",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "heart of justice. While most Digimon",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "are barbaric, it has a strong sense",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "of justice and has defeated many",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "aggressive Digimon. It's Ogremon's",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "rival. Its mysterious Special Move,",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Juuouken, stops the opponent's life.",
-      "translation": "",
-      "_length": 36
+      "_offset": 1717150,
+      "_length": 246
     },
     {
       "text": "Beast Man",
       "translation": "",
+      "_offset": 1717397,
       "_length": 9
     },
     {
-      "text": "An angry Digimon that, motivated",
+      "text": "An angry Digimon that, motivated\nby its rage, destroys everything it\ncan. It loves to fight and is\ncalled a \"Digimon Hunter\" because it\nchallenges much stronger Digimon.\nThe bone club in its right hand is a\ntrophy from when it defeated\nSkullGreymon. Its Special Move,\nHaouken!, smashes with its large\nfists.",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "by its rage, destroys everything it",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "can. It loves to fight and is",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "called a \"Digimon Hunter\" because it",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "challenges much stronger Digimon.",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "The bone club in its right hand is a",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "trophy from when it defeated",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "SkullGreymon. Its Special Move,",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Haouken!, smashes with its large",
-      "translation": "",
-      "_length": 32
+      "_offset": 1717415,
+      "_length": 307
     },
     {
       "text": "Demon Man",
       "translation": "",
+      "_offset": 1717723,
       "_length": 9
     },
     {
-      "text": "A Ghost Digimon completely hidden",
+      "text": "A Ghost Digimon completely hidden\nby its white shroud. What's under \nit? Nobody knows! Its Special Move,\nHell's Hand, pulls whoever it\ncatches into hell.",
       "translation": "",
-      "_length": 33
+      "_offset": 1717741,
+      "_length": 153
     },
     {
-      "text": "by its white shroud. What's under ",
+      "text": "A newborn Digimon with thick black\nfuzz all over its slime-like body.\nIt's too young to fight, but it\nscares off predators by releasing\nbubbles from its mouth.",
       "translation": "",
-      "_length": 34
+      "_offset": 1717909,
+      "_length": 159
     },
     {
-      "text": "it? Nobody knows! Its Special Move,",
+      "text": "A new kind of newborn Digimon. It\nhas a squishy jelly-like red body\nand three feeler-like objects on its\nhead. It can't fight, but scares off\npredators with acid bubbles.",
       "translation": "",
-      "_length": 35
+      "_offset": 1718083,
+      "_length": 170
     },
     {
-      "text": "Hell's Hand, pulls whoever it",
+      "text": "A Seed Digimon covered by long, soft\nfur. When it hatches, it drifts\nthrough the air like a dandelion\nseed. Once it finds a safe location,\nit lands and prepares for evolution.\nIt can't fight, so it releases\nsticky bubbles to slow predators as\nit flees.",
       "translation": "",
-      "_length": 29
+      "_offset": 1718268,
+      "_length": 252
     },
     {
-      "text": "catches into hell.",
+      "text": "A very curious, active and\nmischievous Mammal Digimon. It\nspreads its nine tails like a\npeacock to intimidate its foes!\nIts Special Move is Sparkling\nThunder.",
       "translation": "",
-      "_length": 18
+      "_offset": 1718534,
+      "_length": 158
     },
     {
-      "text": "A newborn Digimon with thick black",
+      "text": "An extra large Digimon that lives in\nthe Digital World's ocean depths.\nBecause of its ferocious\npersonality, it sometimes attacks,\ncreating giant tsunami waves. Its\nSpecial Move is a pressurized Jet\nArrow it shoots from its blowhole.",
       "translation": "",
-      "_length": 34
+      "_offset": 1718707,
+      "_length": 233
     },
     {
-      "text": "fuzz all over its slime-like body.",
+      "text": "Lives deep underground and uses its\nlarge drill to move at high speeds.\nDrimogemon is rarely encountered, as\nit hides deep under the surface. Its\nSpecial Move, Drill Spin, attacks\nwith its giant drill.",
       "translation": "",
-      "_length": 34
+      "_offset": 1718960,
+      "_length": 201
     },
     {
-      "text": "It's too young to fight, but it",
+      "text": "A Lesser Digimon that enjoys\nbullying and laughing at its\nopponents. It skillfully uses its\nears to mock its targets by\nknocking them on their butts, while\npulling down its eyelid and sticking\nout its tongue.",
       "translation": "",
-      "_length": 31
+      "_offset": 1719176,
+      "_length": 208
     },
     {
-      "text": "scares off predators by releasing",
+      "text": "A Mammal Digimon with large, sharp\nclaws. It's cruel and can seriously\nwound those who approach recklessly.\nIts foreleg claws are very good\nweapons, but, being mischievous, it\nalso uses them to dig pitfall traps\nand enjoys watching other Digimon\nfall into them. Its special move, \nParalyze Breath, is an electric,\nparalyzing cloud!",
       "translation": "",
-      "_length": 33
+      "_offset": 1719400,
+      "_length": 331
     },
     {
-      "text": "bubbles from its mouth.",
+      "text": "A skeleton Digimon made of only\nbones. Its appearance makes many\nDigimon shiver in fear. It has\ndestructive power and never tires\nof battling! Its Special Move,\nGround Zero, launches an organic\nmissile from its spinal cord.",
       "translation": "",
-      "_length": 23
+      "_offset": 1719752,
+      "_length": 223
     },
     {
-      "text": "A new kind of newborn Digimon. It",
+      "text": "A fierce and rude Giant Bird \nDigimon. Its wings are obsolete\nand it can't fly, and it's angry\nabout this. It needs lots of\nenergy to support its large body, so\nit's poor in battle. Its Special\nMove is Petra Fire, a scary,\npetrifying technique.",
       "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "has a squishy jelly-like red body",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "and three feeler-like objects on its",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "head. It can't fight, but scares off",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "predators with acid bubbles.",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "A Seed Digimon covered by long, soft",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "fur. When it hatches, it drifts",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "through the air like a dandelion",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "seed. Once it finds a safe location,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "it lands and prepares for evolution.",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "It can't fight, so it releases",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "sticky bubbles to slow predators as",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "A very curious, active and",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "mischievous Mammal Digimon. It",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "spreads its nine tails like a",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "peacock to intimidate its foes!",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Its Special Move is Sparkling",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "An extra large Digimon that lives in",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "the Digital World's ocean depths.",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Because of its ferocious",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "personality, it sometimes attacks,",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "creating giant tsunami waves. Its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Special Move is a pressurized Jet",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Arrow it shoots from its blowhole.",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Lives deep underground and uses its",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "large drill to move at high speeds.",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Drimogemon is rarely encountered, as",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "it hides deep under the surface. Its",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Special Move, Drill Spin, attacks",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "with its giant drill.",
-      "translation": "",
-      "_length": 21
-    },
-    {
-      "text": "A Lesser Digimon that enjoys",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "bullying and laughing at its",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "opponents. It skillfully uses its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "ears to mock its targets by",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "knocking them on their butts, while",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "pulling down its eyelid and sticking",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "out its tongue.",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "A Mammal Digimon with large, sharp",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "claws. It's cruel and can seriously",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "wound those who approach recklessly.",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Its foreleg claws are very good",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "weapons, but, being mischievous, it",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "also uses them to dig pitfall traps",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "and enjoys watching other Digimon",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "fall into them. Its special move, ",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Paralyze Breath, is an electric,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "paralyzing cloud!",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "A skeleton Digimon made of only",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "bones. Its appearance makes many",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Digimon shiver in fear. It has",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "destructive power and never tires",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "of battling! Its Special Move,",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Ground Zero, launches an organic",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "missile from its spinal cord.",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "A fierce and rude Giant Bird ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Digimon. Its wings are obsolete",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "and it can't fly, and it's angry",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "about this. It needs lots of",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "energy to support its large body, so",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "it's poor in battle. Its Special",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Move is Petra Fire, a scary,",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "petrifying technique.",
-      "translation": "",
-      "_length": 21
+      "_offset": 1719995,
+      "_length": 244
     },
     {
       "text": "Giant Bird",
       "translation": "",
+      "_offset": 1720240,
       "_length": 10
     },
     {
-      "text": "A Dinosaur Digimon of wild beauty.",
+      "text": "A Dinosaur Digimon of wild beauty.\nIt strikes down anything with its\npowerful arms and gigantic tail.\nIt's intelligent and easy to tame\nbecause of its peaceful personality.\nIts Special Move, Fire Breath, is a\nscorching red flame.",
       "translation": "",
-      "_length": 34
+      "_offset": 1720262,
+      "_length": 229
     },
     {
-      "text": "It strikes down anything with its",
+      "text": "A Fairy Digimon that performs\nmysterious magic by swinging its\ncherished spear, \"Fairy Tale\". This\nDigimon can appear anywhere in space\nand time, and although it's small,\nits special power blocks enemies'\nattacks and pulverizes them with\none blow. Its Special Move is a\npowerful bomb infused with a\ncomputer virus, Pit Bomb.",
       "translation": "",
-      "_length": 33
+      "_offset": 1720512,
+      "_length": 324
     },
     {
-      "text": "powerful arms and gigantic tail.",
+      "text": "A Perfect Digimon shaped like a\nDigiEgg. It wears an exoskeleton\nwhich withstands any attack. Its\nSpecial Move, Nightmare Syndrome,\ncan surely defeat its enemies.",
       "translation": "",
-      "_length": 32
+      "_offset": 1720855,
+      "_length": 162
     },
     {
-      "text": "It's intelligent and easy to tame",
+      "text": "A Perfect Level Machine Digimon that\ncan rebuild any system with its\ndistortion technique. It's good\nat destroying various types of data,\nincluding (probably) the body data\nof any Digimon. Its Special Move,\nPlug Bomb, fires its fingertips as\nbombs.",
       "translation": "",
-      "_length": 33
+      "_offset": 1721034,
+      "_length": 248
     },
     {
-      "text": "because of its peaceful personality.",
+      "text": "A tiny Child Digimon that looks like\na bat and prefers darkness. Although\nit's weak, it uses its intelligence\nfor all sorts of mischief. It's\noften seen with higher level Digimon\nand rarely found alone. Its Special\nMove, Pico Darts, throws large,\nblood-draining syringes.",
       "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Its Special Move, Fire Breath, is a",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "scorching red flame.",
-      "translation": "",
-      "_length": 20
-    },
-    {
-      "text": "A Fairy Digimon that performs",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "mysterious magic by swinging its",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "cherished spear, \"Fairy Tale\". This",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Digimon can appear anywhere in space",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "and time, and although it's small,",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "its special power blocks enemies'",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "attacks and pulverizes them with",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "one blow. Its Special Move is a",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "powerful bomb infused with a",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "computer virus, Pit Bomb.",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "A Perfect Digimon shaped like a",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "DigiEgg. It wears an exoskeleton",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "which withstands any attack. Its",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Special Move, Nightmare Syndrome,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "can surely defeat its enemies.",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "A Perfect Level Machine Digimon that",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "can rebuild any system with its",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "distortion technique. It's good",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "at destroying various types of data,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "including (probably) the body data",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "of any Digimon. Its Special Move,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Plug Bomb, fires its fingertips as",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "A tiny Child Digimon that looks like",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "a bat and prefers darkness. Although",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "it's weak, it uses its intelligence",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "for all sorts of mischief. It's",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "often seen with higher level Digimon",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "and rarely found alone. Its Special",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Move, Pico Darts, throws large,",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "blood-draining syringes.",
-      "translation": "",
-      "_length": 24
+      "_offset": 1721303,
+      "_length": 271
     },
     {
       "text": "Small Devil",
       "translation": "",
+      "_offset": 1721575,
       "_length": 11
     },
     {
-      "text": "An unidentifiable Digimon, strange",
+      "text": "An unidentifiable Digimon, strange\nin every aspect. It has a developed\nhead and its lower octopoid body has\nunbelievable strength. Its Special\nMove, Devil's Blown Kiss, humiliates\nits victim.",
       "translation": "",
-      "_length": 34
+      "_offset": 1721596,
+      "_length": 191
     },
     {
-      "text": "in every aspect. It has a developed",
+      "text": "An Insectivorous Plant Digimon that\nskillfully uses its ivy. It attracts\nsmall Digimon with the sweet scent\nof its mouth and pulls them inside\nwith a long tentacle-like ivy vine.\nIt's a poor fighter, yet is evil,\naggressive, and cowardly. Its\nSpecial Move is Poop Throw.",
       "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "head and its lower octopoid body has",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "unbelievable strength. Its Special",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Move, Devil's Blown Kiss, humiliates",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "its victim.",
-      "translation": "",
-      "_length": 11
-    },
-    {
-      "text": "An Insectivorous Plant Digimon that",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "skillfully uses its ivy. It attracts",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "small Digimon with the sweet scent",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "of its mouth and pulls them inside",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "with a long tentacle-like ivy vine.",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "It's a poor fighter, yet is evil,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "aggressive, and cowardly. Its",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Special Move is Poop Throw.",
-      "translation": "",
-      "_length": 27
+      "_offset": 1721804,
+      "_length": 270
     },
     {
       "text": "Insectivorous Plant",
       "translation": "",
+      "_offset": 1722075,
       "_length": 19
     },
     {
-      "text": "\"Nanimon\" is its name, not \"What's",
+      "text": "\"Nanimon\" is its name, not \"What's\nthis?\" (\"Koitsu wa nanimon?\") in\nJapanese. An unknown vagabond with\nthe nickname \"Old Man\". It likes to\nattack, because it's inspired by the\nDigital World's law of the jungle,\nbut its true power is unknown. Its\nSpecial Move is Poop Throw.",
       "translation": "",
-      "_length": 34
+      "_offset": 1722103,
+      "_length": 273
     },
     {
-      "text": "this?\" (\"Koitsu wa nanimon?\") in",
+      "text": "An Amphibian Digimon. Its large tail\nlets it swim around the Net Ocean's\nstreams, swamps and rivers, and its\ndeveloped front legs let it climb\ncliffs to practice vocalization. Its\nSpecial Move is a Lullaby Bubble\nthat puts listeners to sleep.",
       "translation": "",
-      "_length": 32
+      "_offset": 1722393,
+      "_length": 242
     },
     {
-      "text": "Japanese. An unknown vagabond with",
+      "text": "Despite its appearance, it likes\nmusic. Born when music-making\nsoftware creates a masterpiece. Its\nSpecial Move, Crash Symphony, uses\nthe horn around its neck and the\nthree holes in its tongue.",
       "translation": "",
-      "_length": 34
+      "_offset": 1722654,
+      "_length": 193
     },
     {
-      "text": "the nickname \"Old Man\". It likes to",
+      "text": "As its name suggests, it's the \nlord of the Gekomon. It plays its\nmelody using the two horns on its\nshoulders and sings in a really low\nvoice, demonstrating its lordly\ngreatness to the Gekomon. Its\nSpecial Move, Samurai Tone, makes\nlow-frequency waves by smashing\naway with its fists.",
       "translation": "",
-      "_length": 35
+      "_offset": 1722874,
+      "_length": 284
     },
     {
-      "text": "attack, because it's inspired by the",
+      "text": "A Perfect Level Digimon holding a\ngiant sickle and chain. A higher\nlevel Ghost Digimon than Bakemon,\nPhantomon possesses individuals in\ntheir last moments. Its Special\nMove, Soul Chopper, slices souls\nwith its sickle and chain.",
       "translation": "",
-      "_length": 36
+      "_offset": 1723179,
+      "_length": 227
     },
     {
-      "text": "Digital World's law of the jungle,",
+      "text": "An Evil Dragon Digimon called \"The\nMany-eyed Demon\". The messenger of\ndarkness, Devimon, summoned it from\nthe Dark Area. It's the most evil of\nall Digimon. Although its a Dramon,\nit has developed limbs, and its long\ntail pierces foes. Its Special Move\nis Crimson Nail.",
       "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "but its true power is unknown. Its",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Special Move is Poop Throw.",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "An Amphibian Digimon. Its large tail",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "lets it swim around the Net Ocean's",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "streams, swamps and rivers, and its",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "developed front legs let it climb",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "cliffs to practice vocalization. Its",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Special Move is a Lullaby Bubble",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "that puts listeners to sleep.",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Despite its appearance, it likes",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "music. Born when music-making",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "software creates a masterpiece. Its",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Special Move, Crash Symphony, uses",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "the horn around its neck and the",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "three holes in its tongue.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "As its name suggests, it's the ",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "lord of the Gekomon. It plays its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "melody using the two horns on its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "shoulders and sings in a really low",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "voice, demonstrating its lordly",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "greatness to the Gekomon. Its",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Special Move, Samurai Tone, makes",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "low-frequency waves by smashing",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "away with its fists.",
-      "translation": "",
-      "_length": 20
-    },
-    {
-      "text": "A Perfect Level Digimon holding a",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "giant sickle and chain. A higher",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "level Ghost Digimon than Bakemon,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Phantomon possesses individuals in",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "their last moments. Its Special",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Move, Soul Chopper, slices souls",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "with its sickle and chain.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "An Evil Dragon Digimon called \"The",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Many-eyed Demon\". The messenger of",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "darkness, Devimon, summoned it from",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "the Dark Area. It's the most evil of",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "all Digimon. Although its a Dramon,",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "it has developed limbs, and its long",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "tail pierces foes. Its Special Move",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "is Crimson Nail.",
-      "translation": "",
-      "_length": 16
+      "_offset": 1723424,
+      "_length": 268
     },
     {
       "text": "Evil Dragon",
       "translation": "",
+      "_offset": 1723693,
       "_length": 11
     },
     {
-      "text": "An Adult Level Insect Digimon with",
+      "text": "An Adult Level Insect Digimon with\ngiant, menacing wings, with which it\nflies fast and makes a loud buzz\nthat deafens listeners. Its Special\nMove, Deadly Sting, shoots\npoisonous needles!",
       "translation": "",
-      "_length": 34
+      "_offset": 1723712,
+      "_length": 186
     },
     {
-      "text": "giant, menacing wings, with which it",
+      "text": "A Perfect Level Digimon engulfed in\na hot flame, which burns blue\nbecause it's even hotter than\nMeramon's. It's significantly\nincreased both its offense and\ndefense, and as the Power-Type its\nflames possess special destructive\npower. Its Special Move, Heavy Metal\nFire, melts metal within its body\nand spews it out.",
       "translation": "",
-      "_length": 36
+      "_offset": 1723919,
+      "_length": 315
     },
     {
-      "text": "flies fast and makes a loud buzz",
+      "text": "A Perfect Level Digimon, covered in\nthick fur, with a great and ancient\npower. However, it's weak against\nintense heat. Its Special Move, \nTusk Strikes, skewers opponents with\nits two long tusks.",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "that deafens listeners. Its Special",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Move, Deadly Sting, shoots",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "poisonous needles!",
-      "translation": "",
-      "_length": 18
-    },
-    {
-      "text": "A Perfect Level Digimon engulfed in",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "a hot flame, which burns blue",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "because it's even hotter than",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Meramon's. It's significantly",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "increased both its offense and",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "defense, and as the Power-Type its",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "flames possess special destructive",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "power. Its Special Move, Heavy Metal",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Fire, melts metal within its body",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "and spews it out.",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "A Perfect Level Digimon, covered in",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "thick fur, with a great and ancient",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "power. However, it's weak against",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "intense heat. Its Special Move, ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Tusk Strikes, skewers opponents with",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "its two long tusks.",
-      "translation": "",
-      "_length": 19
+      "_offset": 1724248,
+      "_length": 195
     },
     {
       "text": "Ancient Beast",
       "translation": "",
+      "_offset": 1724444,
       "_length": 13
     },
     {
-      "text": "A soft-bodied squid Digimon that",
+      "text": "A soft-bodied squid Digimon that\nlives deep in the Net Ocean.\nIt's known and feared as \"The White\nDemon of the Depths\", but is quite\nintelligent and won't harm Digimon\noutside its territory. Its Special\nMove, Deadly Shade, paralyzes the\nvictim!",
       "translation": "",
-      "_length": 32
+      "_offset": 1724466,
+      "_length": 244
     },
     {
-      "text": "lives deep in the Net Ocean.",
+      "text": "An Undead Digimon that tried to\nreplace rotten parts of its body\nwith mechanical ones, but failed!\nIts body is rotting, so it has\nneither power nor brains, but moves\naround by instinct. Its Special Move\nis Sludge.",
       "translation": "",
-      "_length": 28
+      "_offset": 1724727,
+      "_length": 213
     },
     {
-      "text": "It's known and feared as \"The White",
+      "text": "An aggressive Digimon whose soul's\ncorrupted by a virus. It turned\nblack and its arms got stronger. It\nconsiders everyone enemies, so\nattacks whatever it sees. It's\ncompletely out of its mind. Its\nSpecial Move, Fire Blast, is a jet\nof flames that turns everything into\na lake of fire.",
       "translation": "",
-      "_length": 35
+      "_offset": 1724962,
+      "_length": 284
     },
     {
-      "text": "Demon of the Depths\", but is quite",
+      "text": "A cursed Digimon whose body was\ncompletely infected by a computer\nvirus! It was once tame, but got\ncaught in a storm and infected, and\nnow corrodes anything it touches.\nIts Special Move, Stinger Pollation,\nis released from its sharp fangs!",
       "translation": "",
-      "_length": 34
+      "_offset": 1725266,
+      "_length": 239
     },
     {
-      "text": "intelligent and won't harm Digimon",
+      "text": "An advanced Demon Man Digimon that\ncame here from another dimension's\nDigital World to master the sorcery\n(high-level programming language) of\nfire and earth and become a great\nsorcerer in its native world,\nWitchelny. It's a bit mischievous,\nbut so shy it never shows its face.\nIts Special Move, Thunder Cloud,\nsummons a cloud that shoots powerful\nlightning strikes!",
       "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "outside its territory. Its Special",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Move, Deadly Shade, paralyzes the",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "An Undead Digimon that tried to",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "replace rotten parts of its body",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "with mechanical ones, but failed!",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Its body is rotting, so it has",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "neither power nor brains, but moves",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "around by instinct. Its Special Move",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "An aggressive Digimon whose soul's",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "corrupted by a virus. It turned",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "black and its arms got stronger. It",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "considers everyone enemies, so",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "attacks whatever it sees. It's",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "completely out of its mind. Its",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Special Move, Fire Blast, is a jet",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "of flames that turns everything into",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "a lake of fire.",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "A cursed Digimon whose body was",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "completely infected by a computer",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "virus! It was once tame, but got",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "caught in a storm and infected, and",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "now corrodes anything it touches.",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Its Special Move, Stinger Pollation,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "is released from its sharp fangs!",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "An advanced Demon Man Digimon that",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "came here from another dimension's",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Digital World to master the sorcery",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "(high-level programming language) of",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "fire and earth and become a great",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "sorcerer in its native world,",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Witchelny. It's a bit mischievous,",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "but so shy it never shows its face.",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Its Special Move, Thunder Cloud,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "summons a cloud that shoots powerful",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "lightning strikes!",
-      "translation": "",
-      "_length": 18
+      "_offset": 1725522,
+      "_length": 366
     },
     {
       "text": "Demon Man",
       "translation": "",
+      "_offset": 1725889,
       "_length": 9
     },
     {
-      "text": "An aggressive Child Level Digimon",
+      "text": "An aggressive Child Level Digimon\nthat's cowardly and jumps around\nlike a frog on land, but prefers to\nlive underwater, where it shows its\ncruel nature. Its Special Move,\nSpiral Edge, attacks with its sharp,\nknife-like fin!",
       "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "that's cowardly and jumps around",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "like a frog on land, but prefers to",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "live underwater, where it shows its",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "cruel nature. Its Special Move,",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Spiral Edge, attacks with its sharp,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "knife-like fin!",
-      "translation": "",
-      "_length": 15
+      "_offset": 1725907,
+      "_length": 223
     },
     {
       "text": "Aquatic Mammal",
       "translation": "",
+      "_offset": 1726131,
       "_length": 14
     },
     {
-      "text": "Despite its sturdy body, it's a",
+      "text": "Despite its sturdy body, it's a\ncheerful and playful Digimon. It's\neasy-going and always positive,\nbut slightly selfish, and if\nangered rages like an erupting\nvolcano. Its Special Move, Angry\nRock, shoots extremely hard rocks\nfrom its head.",
       "translation": "",
-      "_length": 31
+      "_offset": 1726155,
+      "_length": 240
     },
     {
-      "text": "cheerful and playful Digimon. It's",
+      "text": "A plush toy Digimon with a pumpkin\nhead. It's very popular among girls\nbecause of its creepy-cute\nappearance! Despite this, it has\nhighly destructive power. As is\nobvious from its empty expression,\nthe inability to show emotions is\ncommon among Puppet-type Digimon.\nIts Special Move, Trick or Treat,\ncrushes enemies with a giant\npumpkin.",
       "translation": "",
-      "_length": 34
+      "_offset": 1726408,
+      "_length": 337
     },
     {
-      "text": "easy-going and always positive,",
+      "text": "A cruel and brutal Insect Digimon\nthat looks like a mantis. It uses the\nred sensors on its head to spot its\nenemies and chases them with\nmechanical accuracy. Its Special\nMove, Shadow Sickle, uses its\nscythes to cut too quickly for the\nnaked eye.",
       "translation": "",
-      "_length": 31
+      "_offset": 1726760,
+      "_length": 245
     },
     {
-      "text": "but slightly selfish, and if",
+      "text": "A powerful Digimon whose roar blows\naway any obstacle. It has a reckless\npersonality and demolishes whatever\nstands in its way, so it's called\n\"The Panzer Digimon\". Its Special\nMove, Panzer Knuckle, is a powerful\nstrike!",
       "translation": "",
-      "_length": 28
+      "_offset": 1727021,
+      "_length": 220
     },
     {
-      "text": "angered rages like an erupting",
+      "text": "An Aquatic Digimon, Seadramon's\nevolution. It's smarter than\nSeadramon, so it can pursue its\nopponents with homing torpedoes\nuntil finishing them off. Its\nSpecial Move, Thunder Javelin,\nlaunches a powerful lightning\nstrike from the blade on its head.",
       "translation": "",
-      "_length": 30
+      "_offset": 1727265,
+      "_length": 250
     },
     {
-      "text": "volcano. Its Special Move, Angry",
+      "text": "An Ancient Crustacean Digimon. It\nskillfully uses the tentacles on its\nhead to grab prey, which it finishes\noff with its sharp tail blade. When\nstruggling in combat, it digs into\nthe sea floor with its sharp\ntentacles and hides. Its radar eye\nfollows enemies like a night vision\ndevice as it waits, before crossing\nits arms and releasing its Special\nMove, Stinger Surprise!",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Rock, shoots extremely hard rocks",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "from its head.",
-      "translation": "",
-      "_length": 14
-    },
-    {
-      "text": "A plush toy Digimon with a pumpkin",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "head. It's very popular among girls",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "because of its creepy-cute",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "appearance! Despite this, it has",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "highly destructive power. As is",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "obvious from its empty expression,",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "the inability to show emotions is",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "common among Puppet-type Digimon.",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Its Special Move, Trick or Treat,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "crushes enemies with a giant",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "A cruel and brutal Insect Digimon",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "that looks like a mantis. It uses the",
-      "translation": "",
-      "_length": 37
-    },
-    {
-      "text": "red sensors on its head to spot its",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "enemies and chases them with",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "mechanical accuracy. Its Special",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Move, Shadow Sickle, uses its",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "scythes to cut too quickly for the",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "naked eye.",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "A powerful Digimon whose roar blows",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "away any obstacle. It has a reckless",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "personality and demolishes whatever",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "stands in its way, so it's called",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "\"The Panzer Digimon\". Its Special",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Move, Panzer Knuckle, is a powerful",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "An Aquatic Digimon, Seadramon's",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "evolution. It's smarter than",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Seadramon, so it can pursue its",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "opponents with homing torpedoes",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "until finishing them off. Its",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Special Move, Thunder Javelin,",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "launches a powerful lightning",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "strike from the blade on its head.",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "An Ancient Crustacean Digimon. It",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "skillfully uses the tentacles on its",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "head to grab prey, which it finishes",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "off with its sharp tail blade. When",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "struggling in combat, it digs into",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "the sea floor with its sharp",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "tentacles and hides. Its radar eye",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "follows enemies like a night vision",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "device as it waits, before crossing",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "its arms and releasing its Special",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Move, Stinger Surprise!",
-      "translation": "",
-      "_length": 23
+      "_offset": 1727539,
+      "_length": 373
     },
     {
       "text": "Ancient Crustacean",
       "translation": "",
+      "_offset": 1727913,
       "_length": 18
     },
     {
-      "text": "An Aquatic Beast Man Digimon in a",
+      "text": "An Aquatic Beast Man Digimon in a\ndiving suit that swims in the deep\nsea, with a cheerful personality. It\nmoves around well underwater, so it\nuses a highspeed aquatic motor that\ngives it a quick fighting style.\nIts Special Move is Strike Fishing!",
       "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "diving suit that swims in the deep",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "sea, with a cheerful personality. It",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "moves around well underwater, so it",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "uses a highspeed aquatic motor that",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "gives it a quick fighting style.",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Its Special Move is Strike Fishing!",
-      "translation": "",
-      "_length": 35
+      "_offset": 1727942,
+      "_length": 246
     },
     {
       "text": "Aquatic Beast Man",
       "translation": "",
+      "_offset": 1728189,
       "_length": 17
     },
     {
-      "text": "A small Digimon which looks like a",
+      "text": "A small Digimon which looks like a\npoisonous mushroom. It has small\ntoxic mushroom bombs on its body\nthat inflict every affliction. It's\nvery mean and loves bullying, but\nis so shy it hides half its face.\nIts Special Move, Poison S-Mush,\nreleases all its mushroom bombs\nat once.",
       "translation": "",
-      "_length": 34
+      "_offset": 1728215,
+      "_length": 278
     },
     {
-      "text": "poisonous mushroom. It has small",
+      "text": "A Perfect Level Plant Digimon that\nlooks like a giant flower with\ncountless tentacles. Despite its\nlooks, it's very calm and rarely\nseen in public. It dislikes dry\nplaces and lives near water. Its\nSpecial Move, Spiral Flower, throws\nflowers like shurikens from its\ntentacles.",
       "translation": "",
-      "_length": 32
+      "_offset": 1728510,
+      "_length": 275
     },
     {
-      "text": "toxic mushroom bombs on its body",
+      "text": "A strange Digimon that looks like\na bird with a plant sticking out of\nits back. It's highly proud and\nconsiders itself royalty, which\nmakes it very upset at being\nflightless. Its Special Move, Royal\nNuts, throws eggs and nuts from its\nplant.",
       "translation": "",
-      "_length": 32
+      "_offset": 1728800,
+      "_length": 241
     },
     {
-      "text": "that inflict every affliction. It's",
+      "text": "An ancient Digimon, said to be\nextinct. Although a bird Digimon,\nits wings have degenerated and it\ncan't fly. It also has Plant-type\ntraits and a leaf on its head that\nlets it photosynthesize. Its special\nmove, Little Pecker, attacks with\nminiature versions of itself it\nhides on its body.",
       "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "very mean and loves bullying, but",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "is so shy it hides half its face.",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Its Special Move, Poison S-Mush,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "releases all its mushroom bombs",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "A Perfect Level Plant Digimon that",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "looks like a giant flower with",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "countless tentacles. Despite its",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "looks, it's very calm and rarely",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "seen in public. It dislikes dry",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "places and lives near water. Its",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Special Move, Spiral Flower, throws",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "flowers like shurikens from its",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "A strange Digimon that looks like",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "a bird with a plant sticking out of",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "its back. It's highly proud and",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "considers itself royalty, which",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "makes it very upset at being",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "flightless. Its Special Move, Royal",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Nuts, throws eggs and nuts from its",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "An ancient Digimon, said to be",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "extinct. Although a bird Digimon,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "its wings have degenerated and it",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "can't fly. It also has Plant-type",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "traits and a leaf on its head that",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "lets it photosynthesize. Its special",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "move, Little Pecker, attacks with",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "miniature versions of itself it",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "hides on its body.",
-      "translation": "",
-      "_length": 18
+      "_offset": 1729055,
+      "_length": 289
     },
     {
       "text": "Ancient Bird",
       "translation": "",
+      "_offset": 1729345,
       "_length": 12
     },
     {
-      "text": "A Plant Digimon that evolved like a",
+      "text": "A Plant Digimon that evolved like a\nreptile. Its face is flower-shaped,\nand its head's usually protected by\na petal-shaped shell. When no\nenemies are around, it opens the\npetals on its head and arms. Its\nSpecial Move, Allergy Shower,\nreleases allergy-inducing pollen.",
       "translation": "",
-      "_length": 35
+      "_offset": 1729367,
+      "_length": 267
     },
     {
-      "text": "reptile. Its face is flower-shaped,",
+      "text": "A Perfect Level Digimon that lives\ndeep in the forest, called the king\nof trees. Its body produces mist\nthat causes hallucinations to lure\nits prey into the forest, which it\ngrabs with twig-like vines. Its\nSpecial Move, Cherry Bomb, is a\nforbidden fruit grown in the foliage\non its head!",
       "translation": "",
-      "_length": 35
+      "_offset": 1729651,
+      "_length": 287
     },
     {
-      "text": "and its head's usually protected by",
+      "text": "A garbage Digimon. Garbage Digimon\nare considered the weakest type of\nDigimon, but Garbamon's arrival may\nchange this. Its Special Move is\nPoop Bazooka. Despite everything,\nit's still Perfect!",
       "translation": "",
-      "_length": 35
+      "_offset": 1729954,
+      "_length": 192
     },
     {
-      "text": "a petal-shaped shell. When no",
+      "text": "A Machine Digimon with defense\nlike an iron wall. Originally a\nDigimon that scared off intruders\nfrom the network's barriers. Its\nSpecial Move, Destruction Grenade,\nfollows trespassers to the ends of\nthe earth.",
       "translation": "",
-      "_length": 29
+      "_offset": 1730165,
+      "_length": 210
     },
     {
-      "text": "enemies are around, it opens the",
+      "text": "A vehicular power suit Digimon. A\nunique Digimon that is motionless\nunless controlled by another\nDigimon. Its Special Move, Twinkle\nBeam, is beamed from the linear\nlens embedded in its body.",
       "translation": "",
-      "_length": 32
+      "_offset": 1730397,
+      "_length": 190
     },
     {
-      "text": "petals on its head and arms. Its",
+      "text": "The Ultimate form of Leomon,\nwith Mach speed to avoid even the\nquickest attacks! Its two developed\nfangs and sharp claws give it\nunbelievable destructive power. Its\nSpecial Move, Infinity Arrow,\nhardens its mane hair as it charges.",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Special Move, Allergy Shower,",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "releases allergy-inducing pollen.",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "A Perfect Level Digimon that lives",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "deep in the forest, called the king",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "of trees. Its body produces mist",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "that causes hallucinations to lure",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "its prey into the forest, which it",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "grabs with twig-like vines. Its",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Special Move, Cherry Bomb, is a",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "forbidden fruit grown in the foliage",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "on its head!",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "A garbage Digimon. Garbage Digimon",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "are considered the weakest type of",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Digimon, but Garbamon's arrival may",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "change this. Its Special Move is",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Poop Bazooka. Despite everything,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "it's still Perfect!",
-      "translation": "",
-      "_length": 19
-    },
-    {
-      "text": "A Machine Digimon with defense",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "like an iron wall. Originally a",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Digimon that scared off intruders",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "from the network's barriers. Its",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Special Move, Destruction Grenade,",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "follows trespassers to the ends of",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "the earth.",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "A vehicular power suit Digimon. A",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "unique Digimon that is motionless",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "unless controlled by another",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Digimon. Its Special Move, Twinkle",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Beam, is beamed from the linear",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "lens embedded in its body.",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "The Ultimate form of Leomon,",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "with Mach speed to avoid even the",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "quickest attacks! Its two developed",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "fangs and sharp claws give it",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "unbelievable destructive power. Its",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Special Move, Infinity Arrow,",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "hardens its mane hair as it charges.",
-      "translation": "",
-      "_length": 36
+      "_offset": 1730608,
+      "_length": 231
     },
     {
       "text": "Ancient Beast",
       "translation": "",
+      "_offset": 1730840,
       "_length": 13
     },
     {
-      "text": "A powered up version of Veggiemon",
+      "text": "A powered up version of Veggiemon\nwhich turned red! Unlike unevolved\nVeggiemon, it's intelligent and\nhas high attack. Its personality is\ntreacherous and sly. Pinocchimon can\nsummon it anywhere. Its Special \nMove, Hazard Breath, is just its\ndisgusting, stinky breath!",
       "translation": "",
-      "_length": 33
+      "_offset": 1730867,
+      "_length": 266
     },
     {
-      "text": "which turned red! Unlike unevolved",
+      "text": "Has the highest power among Perfect\nLevel Dramon Digimon. This Digimon \nwas artificially remodeled and\nprogrammed to destroy everything. \nIts Special Move, Genocide Attack,\nburns everything down!",
       "translation": "",
-      "_length": 34
+      "_offset": 1731151,
+      "_length": 195
     },
     {
-      "text": "Veggiemon, it's intelligent and",
+      "text": "A dark Cyborg Digimon with even\ngreater power and flight speed\nthan Megadramon. Its Special Move\nis Genocide Gear!",
       "translation": "",
-      "_length": 31
+      "_offset": 1731365,
+      "_length": 114
     },
     {
-      "text": "has high attack. Its personality is",
+      "text": "Heavy weapons on its body and\nheavyweight-class power lets it\nshred targets into tiny pieces.\nThis loner Digimon likes battles,\ngoes wherever they occur, and makes\nthem never end. Its Special Move,\nHyper Cannon, shoots super powerful\nmissiles from the gun barrel on its\nhead.",
       "translation": "",
-      "_length": 35
+      "_offset": 1731495,
+      "_length": 275
     },
     {
-      "text": "treacherous and sly. Pinocchimon can",
+      "text": "A Puppet Digimon that looks like\nMonzaemon, but completely black,\nwith an evil look on its face. It's\non good terms with MetalEtemon and\nsent it the plush toy of itself that\nMetalEtemon wears on its waist. Its\nSpecial Move, Heartbreak Attack,\nputs everyone in a dark mood.",
       "translation": "",
-      "_length": 36
+      "_offset": 1731792,
+      "_length": 272
     },
     {
-      "text": "summon it anywhere. Its Special ",
+      "text": "A Perfect Level Fallen Angel Digimon\nof noble stature.  Because of its\nincomparable power of pure darkness,\nthere's almost no limit to its\nspread through PCs. Its Special\nMove, Darkness Wave, releases\ncountless bats to burn its enemies.",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Move, Hazard Breath, is just its",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "disgusting, stinky breath!",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "Has the highest power among Perfect",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Level Dramon Digimon. This Digimon ",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "was artificially remodeled and",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "programmed to destroy everything. ",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Its Special Move, Genocide Attack,",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "burns everything down!",
-      "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "A dark Cyborg Digimon with even",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "greater power and flight speed",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "than Megadramon. Its Special Move",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "is Genocide Gear!",
-      "translation": "",
-      "_length": 17
-    },
-    {
-      "text": "Heavy weapons on its body and",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "heavyweight-class power lets it",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "shred targets into tiny pieces.",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "This loner Digimon likes battles,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "goes wherever they occur, and makes",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "them never end. Its Special Move,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Hyper Cannon, shoots super powerful",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "missiles from the gun barrel on its",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "A Puppet Digimon that looks like",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Monzaemon, but completely black,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "with an evil look on its face. It's",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "on good terms with MetalEtemon and",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "sent it the plush toy of itself that",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "MetalEtemon wears on its waist. Its",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Special Move, Heartbreak Attack,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "puts everyone in a dark mood.",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "A Perfect Level Fallen Angel Digimon",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "of noble stature.  Because of its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "incomparable power of pure darkness,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "there's almost no limit to its",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "spread through PCs. Its Special",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Move, Darkness Wave, releases",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "countless bats to burn its enemies.",
-      "translation": "",
-      "_length": 35
+      "_offset": 1732084,
+      "_length": 236
     },
     {
       "text": "Fallen Angel",
       "translation": "",
+      "_offset": 1732321,
       "_length": 12
     },
     {
-      "text": "A dark Digimon that likes to fight.",
+      "text": "A dark Digimon that likes to fight.\nA coward that hates losing, it\npricks at weak Digimon and avoids\ndirect combat. Appears to be the\nsource of the Dark-species Digimon\nin the Dark Area, but this has not\nbeen confirmed. Its Special Move,\nNightmare Shock, is an ultrasonic\nwave from its mouth that gives\nlisteners nightmares.",
       "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "A coward that hates losing, it",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "pricks at weak Digimon and avoids",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "direct combat. Appears to be the",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "source of the Dark-species Digimon",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "in the Dark Area, but this has not",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "been confirmed. Its Special Move,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Nightmare Shock, is an ultrasonic",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "wave from its mouth that gives",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "listeners nightmares.",
-      "translation": "",
-      "_length": 21
+      "_offset": 1732342,
+      "_length": 324
     },
     {
       "text": "Small Devil",
       "translation": "",
+      "_offset": 1732667,
       "_length": 11
     },
     {
-      "text": "A mysterious Perfect Level Digimon",
+      "text": "A mysterious Perfect Level Digimon\nthat once appeared before Taichi and\nthe others in Hikarigaoka. A strange\nbird from another Digital World that\ngot lost in a rip in space, with\npowerful claws. Its Special Move,\nMjolnir Thunder, releases electric\ncharges from its head feathers and\nlaunches lightning bolts.",
       "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "that once appeared before Tai and",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "the others in Karigaoka. A strange",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "bird from another Digital World that",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "got lost in a rip in space, with",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "powerful claws. Its Special Move,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Mjolnir Thunder, releases electric",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "charges from its head feathers and",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "launches lightning bolts.",
-      "translation": "",
-      "_length": 25
+      "_offset": 1732689,
+      "_length": 308
     },
     {
       "text": "Giant Bird",
       "translation": "",
+      "_offset": 1732998,
       "_length": 10
     },
     {
-      "text": "An Amphibian Digimon that walks on",
+      "text": "An Amphibian Digimon that walks on\nfour legs. Betamon has a calm and\npolite personality, but if angered\nunleashes an electric charge of over\n100,000 volts. Its Special Move is\nElectric Shock.",
       "translation": "",
-      "_length": 34
+      "_offset": 1733017,
+      "_length": 191
     },
     {
-      "text": "four legs. Betamon has a calm and",
+      "text": "A Slime Digimon that looks like a\njellyfish, it's often considered\nthe most primitive Digimon, but it\nhas a lot of vitality and\nadaptability. It spits acid bubbles\nto protect itself.",
       "translation": "",
-      "_length": 33
+      "_offset": 1733227,
+      "_length": 182
     },
     {
-      "text": "polite personality, but if angered",
+      "text": "A wicked devil Digimon, a Fallen\nAngel covered in black cloth. It's\nquite intelligent and said to\ncontrol the mind of whoever looks\ninto its dark purple eyes. Its\nSpecial Move is Death Claw, which\nsqueezes its enemy's heart!",
       "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "unleashes an electric charge of over",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "100,000 volts. Its Special Move is",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Electric Shock.",
-      "translation": "",
-      "_length": 15
-    },
-    {
-      "text": "A Slime Digimon that looks like a",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "jellyfish, it's often considered",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "the most primitive Digimon, but it",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "has a lot of vitality and",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "adaptability. It spits acid bubbles",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "to protect itself.",
-      "translation": "",
-      "_length": 18
-    },
-    {
-      "text": "A wicked devil Digimon, a Fallen",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Angel covered in black cloth. It's",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "quite intelligent and said to",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "control the mind of whoever looks",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "into its dark purple eyes. Its",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Special Move is Garra Mortal, which",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "squeezes its enemy's heart!",
-      "translation": "",
-      "_length": 27
+      "_offset": 1733424,
+      "_length": 224
     },
     {
       "text": "Fallen Angel",
       "translation": "",
+      "_offset": 1733649,
       "_length": 12
     },
     {
-      "text": "The (self-proclaimed) strongest",
+      "text": "The (self-proclaimed) strongest\nDigimon! Its fighting ability is\nunimaginable. Rumored to control\nthe mysterious Digimon, Monzaemon.\nIt wears a monkey costume which\nwithstands any type of attack, and\nrides around the world in endless\nsearch of battles. It has two\npowerful Special Moves, Love\nSerenade and Dark Spirits, suiting\nits title of \"strongest\"!",
       "translation": "",
-      "_length": 31
+      "_offset": 1733669,
+      "_length": 353
     },
     {
-      "text": "Digimon! Its fighting ability is",
+      "text": "An Ultimate Level Digimon, the\nevolution of Etemon. It fully\nmetallicized itself with Chrome\nDigizoid and was reborn as an\nabsolute fighting machine. Its\nSpecial Move, Banana Slip, trips\nits opponent!",
       "translation": "",
-      "_length": 32
+      "_offset": 1734042,
+      "_length": 200
     },
     {
-      "text": "unimaginable. Rumored to control",
+      "text": "A very cunning Undead Digimon.\nThe King of Undead-type Digimon,\nit was resurrected by the dark arts\nand gained unbelievable power which\nis halved during the day. Its\nSpecial Moves are Night Raid and\nBloody Stream!",
       "translation": "",
-      "_length": 32
+      "_offset": 1734259,
+      "_length": 213
     },
     {
-      "text": "the mysterious Digimon, Monzaemon.",
+      "text": "Vamdemon's Ultimate evolution. By\nunleashing its hidden power, Venom\nVamdemon lost its intelligence and\nretains only the instinct to\nmassacre. Its special move, Venom\nInfuse, injects a virus that\ndestroys the target's body data.",
       "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "It wears a monkey costume which",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "withstands any type of attack, and",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "rides around the world in endless",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "search of battles. It has two",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "powerful Special Moves, Love",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Serenade and Dark Spirits, suiting",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "its title of \"strongest\"!",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "An Ultimate Level Digimon, the",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "evolution of Etemon. It fully",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "metallicized itself with Chrome",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "Digizoid and was reborn as an",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "absolute fighting machine. Its",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Special Move, Banana Slip, trips",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "its opponent!",
-      "translation": "",
-      "_length": 13
-    },
-    {
-      "text": "A very cunning Undead Digimon.",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "The King of Undead-type Digimon,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "it was resurrected by the dark arts",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "and gained unbelievable power which",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "is halved during the day. Its",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Special Moves are Night Raid and",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Bloody Stream!",
-      "translation": "",
-      "_length": 14
-    },
-    {
-      "text": "Vamdemon's Ultimate evolution. By",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "unleashing its hidden power, Venom",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Vamdemon lost its intelligence and",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "retains only the instinct to",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "massacre. Its special move, Venom",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Infuse, injects a virus that",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "destroys the target's body data.",
-      "translation": "",
-      "_length": 32
+      "_offset": 1734494,
+      "_length": 228
     },
     {
       "text": "Demon Beast",
       "translation": "",
+      "_offset": 1734723,
       "_length": 11
     },
     {
-      "text": "An Ultimate Level Digimon whose body",
+      "text": "An Ultimate Level Digimon whose body\nis coated with Chrome Digizoid. The\nstrongest member of the Seadramon\nfamily, it boasts unbelievable power\nand unmatched speed. Its body\nreflects any attack. It's the\nquickest aquatic Digimon. Its\nSpecial Move, Ultimate Stream, is\nan energy gun fired from its snout.",
       "translation": "",
-      "_length": 36
+      "_offset": 1734750,
+      "_length": 303
     },
     {
-      "text": "is coated with Chrome Digizoid. The",
+      "text": "An Ultimate Level Digimon which\noverpowers others. It's constructed\nwith various Cyborg Digimon parts,\nand it's said all prior Cyborg\nDigimon were prototypes made to\nperfect Mugendramon. Its Special\nMove, Infinity Cannon, fires energy\nwaves from its two dreadnought\ncannons.",
       "translation": "",
-      "_length": 35
+      "_offset": 1735073,
+      "_length": 274
     },
     {
-      "text": "strongest member of the Seadramon",
+      "text": "The nastiest Ultimate Level Digimon,\nit's made from the body of a cursed\nJyureimon. It looks like a\nmarionette, but has its own will.\nIts Special Move, Bullet Hammer,\nputs gunpowder in its revolver-style\nhammer to smash its foes.",
       "translation": "",
-      "_length": 33
+      "_offset": 1735368,
+      "_length": 229
     },
     {
-      "text": "family, it boasts unbelievable power",
+      "text": "An Ultimate Level Demon Man Digimon.\nIt's unclear why it exists or\nappeared, but its power's unmatched;\nif you meet Piemon, all that's left\nis to curse your fate. Its Special\nMove, Trump Sword, teleports its\nfour swords to pierce its opponents.",
       "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "and unmatched speed. Its body",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "reflects any attack. It's the",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "quickest aquatic Digimon. Its",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Special Move, Ultimate Stream, is",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "an energy gun fired from its snout.",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "An Ultimate Level Digimon which",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "overpowers others. It's constructed",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "with various Cyborg Digimon parts,",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "and it's said all prior Cyborg",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Digimon were prototypes made to",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "perfect Mugendramon. Its Special",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Move, Infinity Cannon, fires energy",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "waves from its two dreadnought",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "The nastiest Ultimate Level Digimon,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "it's made from the body of a cursed",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Jyureimon. It looks like a",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "marionette, but has its own will.",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Its Special Move, Bullet Hammer,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "puts gunpowder in its revolver-style",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "hammer to smash its foes.",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "An Ultimate Level Demon Man Digimon.",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "It's unclear why it exists or",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "appeared, but its power's unmatched;",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "if you meet Piemon, all that's left",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "is to curse your fate. Its Special",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Move, Trump Sword, teleports its",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "four swords to pierce its opponents.",
-      "translation": "",
-      "_length": 36
+      "_offset": 1735612,
+      "_length": 244
     },
     {
       "text": "Demon Man",
       "translation": "",
+      "_offset": 1735857,
       "_length": 9
     },
     {
-      "text": "A Digimon whose identity's covered",
+      "text": "A Digimon whose identity's covered\nin darkness. Its Special Move,\nDarkness Zone, turns everything\ninto nothingness.",
       "translation": "",
-      "_length": 34
+      "_offset": 1735878,
+      "_length": 115
     },
     {
-      "text": "in darkness. Its Special Move,",
+      "text": "An Unknown Digimon that appeared in\na computer network, born as the\nembodiment of its bugs. A highly\ndangerous Digimon. It multiplies\nlike a virus and causes trouble. Its\nSpecial Move, Glare Eye, produces\nfoam from its large eye.",
       "translation": "",
-      "_length": 30
+      "_offset": 1736010,
+      "_length": 229
     },
     {
-      "text": "Darkness Zone, turns everything",
+      "text": "A Baby Digimon that evolved from\nKuramon. It became fiercer and\ngrew fangs at the tips of its\nfeelers. It corrupts data at a\nterrifying speed and makes the\nnetwork go haywire. It's harder to\ncatch in this form because it's much\nfaster. Its Special Move, Nail\nScratch, cuts its opponents with its\nfangs.",
       "translation": "",
-      "_length": 31
+      "_offset": 1736257,
+      "_length": 302
     },
     {
-      "text": "into nothingness.",
+      "text": "A Child Level Digimon that evolved\nfrom Tsumemon. It grew larger and\nwith its bigger mouth can corrupt\nmore data than Tsumemon, over\n100 MB in 1 second, destroying files\nthe moment it gets inside. It has a\nvery cheerful personality and thinks\nof destroying data as a game. Its\nSpecial Move, Crazy Giggle, spits\nbeam bullets with unusual\ndestructive power.",
       "translation": "",
-      "_length": 17
+      "_offset": 1736576,
+      "_length": 355
     },
     {
-      "text": "An Unknown Digimon that appeared in",
+      "text": "A Perfect Level Digimon with\nspidery legs and hands. It usually\nhas its legs and head extended, but\ncan assume a cocoon form by\nretracting its limbs, which reflects\nall attacks but restricts movement\nto straight lines. Its Special Move,\nHell's Grenade, shoots an electric\nbullet from the gunpoint in its\nmouth.",
       "translation": "",
-      "_length": 35
+      "_offset": 1737289,
+      "_length": 310
     },
     {
-      "text": "a computer network, born as the",
+      "text": "A Holy Knight Digimon, one of the\nRoyal Knights, born by fusing\nWarGreymon and MetalGarurumon. It \ncombines the traits of two Digimon,\nso it's an adaptable multitype\nwarrior. Its Special Moves are\nGaruru Cannon, which shoots\nabsolute zero bullets from its\nMetalGarurumon-shaped gun, and\nthe Grey Sword that can cut through\nanything.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "embodiment of its bugs. A highly",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "dangerous Digimon. It multiplies",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "like a virus and causes trouble. Its",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Special Move, Glare Eye, produces",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "foam from its large eye.",
-      "translation": "",
-      "_length": 24
-    },
-    {
-      "text": "A Baby Digimon that evolved from",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Kuramon. It became fiercer and",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "grew fangs at the tips of its",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "feelers. It corrupts data at a",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "terrifying speed and makes the",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "network go haywire. It's harder to",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "catch in this form because it's much",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "faster. Its Special Move, Nail",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Scratch, cuts its opponents with its",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "A Child Level Digimon that evolved",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "from Tsumemon. It grew larger and",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "with its bigger mouth can corrupt",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "more data than Tsumemon, over",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "100 MB in 1 second, destroying files",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "the moment it gets inside. It has a",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "very cheerful personality and thinks",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "of destroying data as a game. Its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Special Move, Crazy Giggle, spits",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "beam bullets with unusual",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "destructive power.",
-      "translation": "",
-      "_length": 18
-    },
-    {
-      "text": "An Adult Level Digimon that looks",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "like a chrysalis. To evolve from",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Keramon to more powerful Digimon,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "it temporarily gathers energy and",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "takes a chrysalis shape. It can't",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "move but is protected by a sturdy",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "shell and attacks with the tentacles",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "on its back. Its Special Move, Data",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Crusher, destroys data with its",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "A Perfect Level Digimon with",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "spidery legs and hands. It usually",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "has its legs and head extended, but",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "can assume a cocoon form by",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "retracting its limbs, which reflects",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "all attacks but restricts movement",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "to straight lines. Its Special Move,",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Hell's Grenade, shoots an electric",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "bullet from the gunpoint in its",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "It grows by absorbing more and more",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "data in the internet, almost",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "destroying the electronic world.",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Convinced of its own omniscience and",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "omnipotence, it began to enjoy",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "rampaging. Its goal is to use",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "military computers to destroy the",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Real World with nuclear weapons. Its",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Special Move, Catastrophe Cannon,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "shoots powerful destructive energy",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "from its chest-cannon.",
-      "translation": "",
-      "_length": 22
-    },
-    {
-      "text": "A Holy Knight Digimon, one of the",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Royal Knights, born by fusing",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "WarGreymon and MetalGarurumon. It ",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "combines the traits of two Digimon,",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "so it's an adaptable multitype",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "warrior. Its Special Moves are",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Garuru Cannon, which shoots",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "absolute zero bullets from its",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "MetalGarurumon-shaped gun, and",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "the Grey Sword that can cut through",
-      "translation": "",
-      "_length": 35
+      "_offset": 1737994,
+      "_length": 332
     },
     {
       "text": "Holy Knight",
       "translation": "",
+      "_offset": 1738327,
       "_length": 11
     },
     {
-      "text": "A Small Dragon Digimon that's",
+      "text": "A Small Dragon Digimon that's\nmischievous and naughty, but still\nhas a very strong sense of justice.\nThe survivor of a tribe that\nflourished in the early Digital\nWorld, it has a hidden power. Its\nSpecial Move, V-mon Head, hits with\na strong headbutt.",
       "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "mischievous and naughty, but still",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "has a very strong sense of justice.",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "The survivor of a tribe that",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "flourished in the early Digital",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "World, it has a hidden power. Its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Special Move, V-mon Head, hits with",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "a strong headbutt.",
-      "translation": "",
-      "_length": 18
+      "_offset": 1738345,
+      "_length": 250
     },
     {
       "text": "Small Dragon",
       "translation": "",
+      "_offset": 1738596,
       "_length": 12
     },
     {
-      "text": "A Holy Knight Digimon that evolved",
+      "text": "A Holy Knight Digimon that evolved\nwith the Digimental of Miracles. Its\ndefense is unbelievable, and its\nfighting ability nigh-absolute. One\nof the Royal Knights. Its Special\nMoves are Plasma Shoot which fires\na spherical plasma bullet and\nExtreme Jihad which uses the\nDigimental's power to emit\nenergy waves with its whole body.",
       "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "with the Digimental of Miracles. Its",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "defense is unbelievable, and its",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "fighting ability nigh-absolute. One",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "of the Royal Knights. Its Special",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Moves are Plasma Shoot which fires",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "a spherical plasma bullet and",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Extreme Jihad which uses the",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Digimental's power to emit",
-      "translation": "",
-      "_length": 26
-    },
-    {
-      "text": "energy waves with its whole body.",
-      "translation": "",
-      "_length": 33
+      "_offset": 1738618,
+      "_length": 329
     },
     {
       "text": "Holy Knight",
       "translation": "",
+      "_offset": 1738948,
       "_length": 11
     },
     {
-      "text": "A dinosaur Digimon that retains its",
+      "text": "A dinosaur Digimon that retains its\nyouth. Although still a Child, as a\nCombat Species it has very high\npotential and hides the ferocity of\na predator. Its Special Move,\nFireball, spits a powerful fire\nprojectile.",
       "translation": "",
-      "_length": 35
+      "_offset": 1738968,
+      "_length": 213
     },
     {
-      "text": "youth. Although still a Child, as a",
+      "text": "A Holy Knight Digimon and a Royal\nKnight. A loyal warrior who honors\nchivalry. Despite its Virus\nattribute, it's a guardian deity of\nthe Net. Its holy armor's made of\npure Chrome Digizoid. It carries the\nholy spear Gram and the holy shield\nAegis. Its Special Moves are a\npowerful strike with Gram, Royal\nSaber, and a purifying beam from\nAegis, Final Elysion.",
       "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Combat Species it has very high",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "potential and hides the ferocity of",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "a predator. Its Special Move,",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "Fireball, spits a powerful fire",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "A Holy Knight Digimon and a Royal",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "Knight. A loyal warrior who honors",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "chivalry. Despite its Virus",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "attribute, it's a guardian deity of",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "the Net. Its holy armor's made of",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "pure Chrome Digizoid. It carries the",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "holy spear Gram and the holy shield",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Aegis. Its Special Moves are a",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "powerful strike with Gram, Royal",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Saber, and a purifying beam from",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Aegis, Final Elysion.",
-      "translation": "",
-      "_length": 21
+      "_offset": 1739198,
+      "_length": 358
     },
     {
       "text": "Holy Knight",
       "translation": "",
+      "_offset": 1739557,
       "_length": 11
     },
     {
-      "text": "A Digimon with Flame powers and",
+      "text": "A Digimon with Flame powers and\nthe might of one of the Ten\nLegendary Warriors. Its Digicore is\nsurrounded by a spiritual fire known\nas the holy flame, so it controls\nfire at will. It's a guardian\ndeity that originates from the\nFirewall. Its Special Move,\nBurning Salamander, unleashes from\nits fist a blazing dragon engulfed\nin flames.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "the might of one of the Ten",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Legendary Warriors. Its Digicore is",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "surrounded by a spiritual fire known",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "as the holy flame, so it controls",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "fire at will. It's a guardian",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "deity that originates from the",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Firewall. Its Special Move,",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Burning Salamander, unleashes from",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "its fist a blazing dragon engulfed",
-      "translation": "",
-      "_length": 34
+      "_offset": 1739577,
+      "_length": 336
     },
     {
       "text": "Demon Man",
       "translation": "",
+      "_offset": 1739914,
       "_length": 9
     },
     {
-      "text": "A Transcendent-type Digimon with",
+      "text": "A Transcendent-type Digimon with\nflames that surpass the Ten\nLegendary Warriors. It bears the\npower of the nine dragons' veins\nthat flow through Gaia, and controls\nGaia by sealing their souls in its\nDragon Soul Sword. Its Special Move\nNine-Headed Dragon Formation \nunleashes eight veins, becomes the\nninth dragon, and destroys with its\ngreat blade.",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "flames that surpass the Ten",
-      "translation": "",
-      "_length": 27
-    },
-    {
-      "text": "Legendary Warriors. It bears the",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "power of the nine dragons' veins",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "that flow through Gaia, and controls",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Gaia by sealing their souls in its",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Dragon Soul Sword. Its Special Move",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Nine-Headed Dragon Formation ",
-      "translation": "",
-      "_length": 29
-    },
-    {
-      "text": "unleashes eight veins, becomes the",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "ninth dragon, and destroys with its",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "great blade.",
-      "translation": "",
-      "_length": 12
+      "_offset": 1739938,
+      "_length": 348
     },
     {
       "text": "Dragon Warrior",
       "translation": "",
+      "_offset": 1740287,
       "_length": 14
     },
     {
-      "text": "A special Agumon that differs from",
+      "text": "A special Agumon that differs from\nregular Agumon by height and the\nred leather belts on its arms. It's\nweak and still growing, but its\nsharp, hard claws demonstrate its\nfighting skill. With its Special\nMove, Baby Flame, it spits fire.",
       "translation": "",
-      "_length": 34
+      "_offset": 1740309,
+      "_length": 235
     },
     {
-      "text": "regular Agumon by height and the",
+      "text": "A Light Dragon Digimon that fights\nwith the stored energy of the sun's\nscorching heat. It summons Geo Grey\nSword, which contains Gaia's power.\nIts Special Moves are Glorious\nBurst, which spreads its gigantic\nwings to concentrate and unleash\nlight energy, and Shining Blast,\nwhich mows down enemies with its\nshining wings.",
       "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "red leather belts on its arms. It's",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "weak and still growing, but its",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "sharp, hard claws demonstrate its",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "fighting skill. With its Special",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Move, Llama Bebé, it spits fire.",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "A Light Dragon Digimon that fights",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "with the stored energy of the sun's",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "scorching heat. It summons Geo Grey",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Sword, which contains Gaia's power.",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Its Special Moves are Glorious",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Burst, which spreads its gigantic",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "wings to concentrate and unleash",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "light energy, and Shining Blast,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "which mows down enemies with its",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "shining wings.",
-      "translation": "",
-      "_length": 14
+      "_offset": 1740566,
+      "_length": 321
     },
     {
       "text": "Light Dragon",
       "translation": "",
+      "_offset": 1740888,
       "_length": 12
     },
     {
-      "text": "A ferocious Digimon with a hot-",
+      "text": "A ferocious Digimon with a hot-\nblooded nature that's extremely\naggressive, but friendly to its\ncomrades. It forms deep bonds with\nthose it acknowledges as worthy,\nregardless of species. Shoutmon's\nsinging transforms its enthusiasm \ninto energy. It fights by amplifying\nthe blazing feelings in its chest\nwith its microphone and attacking\nwith Soul Crusher.",
       "translation": "",
-      "_length": 31
+      "_offset": 1740910,
+      "_length": 356
     },
     {
-      "text": "blooded nature that's extremely",
+      "text": "A Small Dragon Digimon with a cold\nwhite shine. Its wild adventurous\nway of life is probably due to\nGankoomon's DNA. It calmly endures\nGankoomon's trials. It's good in\nclose combat, always using its quick\nwits. As it fights on, it dreams of\nbecoming a Royal Knight like\nGankoomon. Its Special Move, Fif\nSlash, cuts with its hard claws.",
       "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "aggressive, but friendly to its",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "comrades. It forms deep bonds with",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "those it acknowledges as worthy,",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "regardless of species. Shoutmon's",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "singing transforms its enthusiasm ",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "into energy. It fights by amplifying",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "the blazing feelings in its chest",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "with its microphone and attacking",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "with Soul Crusher.",
-      "translation": "",
-      "_length": 18
+      "_offset": 1742068,
+      "_length": 335
     },
     {
       "text": "Small Dragon",
       "translation": "",
+      "_offset": 1742404,
       "_length": 12
     },
     {
-      "text": "OmegaShoutmon was the form achieved",
+      "text": "A Holy Knight Digimon that became a\nRoyal Knight. It claims residence in\nthe southwestern Digital World, but\nconstantly travels to destroy the\nomens of chaos and calamity. It puts\nHackmon through harsh training to\npass on its title. The \"Hinukamuy\"\nthat emerges from its body is silent\nbut helpful. Its Special Move,\nFirst Strike Punishment, strikes\nwhoever backtalks it.",
       "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "when Omegamon bestowed the Legendary",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Evolution upon Shoutmon, unleashing",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "its burning spirit. Its body's",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "enveloped in this newfound power,",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "the Omega inForce, which gave it a",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "golden shine and a sharp, crisp ",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "build. Its Special Move, Heavy",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Metal Vulcan, fires shots",
-      "translation": "",
-      "_length": 25
-    },
-    {
-      "text": "transformed into heat by its chest's",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "blazing friendship.",
-      "translation": "",
-      "_length": 19
-    },
-    {
-      "text": "Dragon Man",
-      "translation": "",
-      "_length": 10
-    },
-    {
-      "text": "What Gumdramon's evolution looks",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "like when free of the Kinkoji. It",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "wears a special rubber battle armor",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "which maximizes Gumdramon's special",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "trait, elasticity. Its defense",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "improved, its wings grew, and it",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "flies at high speeds. It turns its",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "tail into an anchor to grab its",
-      "translation": "",
-      "_length": 31
-    },
-    {
-      "text": "enemies and cut them to pieces. Its",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Special Move, Prism Garrett, cuts",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "with countless revolutions of light.",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "A Small Dragon Digimon with a cold",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "white shine. Its wild adventurous",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "way of life is probably due to",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "Gankoomon's DNA. It calmly endures",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "Gankoomon's trials. It's good in",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "close combat, always using its quick",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "wits. As it fights on, it dreams of",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "becoming a Royal Knight like",
-      "translation": "",
-      "_length": 28
-    },
-    {
-      "text": "Gankoomon. Its Special Move, Fif",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Slash, cuts with its hard claws.",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "Small Dragon",
-      "translation": "",
-      "_length": 12
-    },
-    {
-      "text": "A Holy Knight Digimon that became a",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "Royal Knight. It claims residence in",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "the southwestern Digital World, but",
-      "translation": "",
-      "_length": 35
-    },
-    {
-      "text": "constantly travels to destroy the",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "omens of chaos and calamity. It puts",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "Hackmon through harsh training to",
-      "translation": "",
-      "_length": 33
-    },
-    {
-      "text": "pass on its title. The \"Hinukamuy\"",
-      "translation": "",
-      "_length": 34
-    },
-    {
-      "text": "that emerges from its body is silent",
-      "translation": "",
-      "_length": 36
-    },
-    {
-      "text": "but helpful. Its Special Move,",
-      "translation": "",
-      "_length": 30
-    },
-    {
-      "text": "First Strike Punishment, strikes",
-      "translation": "",
-      "_length": 32
-    },
-    {
-      "text": "whoever backtalks it.",
-      "translation": "",
-      "_length": 21
-    },
-    {
-      "text": "Holy Knight",
-      "translation": "",
-      "_length": 11
+      "_offset": 1742427,
+      "_length": 371
     },
     {
       "text": "Hard Wing",
       "translation": "",
+      "_offset": 1750096,
       "_length": 9
     },
     {
       "text": "A wing from an insect Digimon. Durable and easy to process.",
       "translation": "",
+      "_offset": 1750106,
       "_length": 59
     },
     {
       "text": "Shiny Antenna",
       "translation": "",
+      "_offset": 1750166,
       "_length": 13
     },
     {
       "text": "An antenna from an insect Digimon. Fragile and valuable.",
       "translation": "",
+      "_offset": 1750180,
       "_length": 56
     },
     {
       "text": "Bent Vine",
       "translation": "",
+      "_offset": 1750237,
       "_length": 9
     },
     {
       "text": "A vine from a plant Digimon. A versatile material.",
       "translation": "",
+      "_offset": 1750247,
       "_length": 50
     },
     {
       "text": "Fragrant Petal",
       "translation": "",
+      "_offset": 1750298,
       "_length": 14
     },
     {
       "text": "A petal from a plant Digimon. Has a nice smell.",
       "translation": "",
+      "_offset": 1750313,
       "_length": 47
     },
     {
       "text": "Sticky Sap",
       "translation": "",
+      "_offset": 1750361,
       "_length": 10
     },
     {
       "text": "Sap from a plant Digimon. Nice and sticky.",
       "translation": "",
+      "_offset": 1750372,
       "_length": 42
     },
     {
       "text": "Smooth Wood",
       "translation": "",
+      "_offset": 1750415,
       "_length": 11
     },
     {
       "text": "Wood from a plant Digimon. Said to be material for a puppet.",
       "translation": "",
+      "_offset": 1750427,
       "_length": 60
     },
     {
       "text": "Fluffy Cloth",
       "translation": "",
+      "_offset": 1750488,
       "_length": 12
     },
     {
       "text": "High-quality cloth. Good as material for clothes and puppets.",
       "translation": "",
+      "_offset": 1750501,
       "_length": 61
     },
     {
       "text": "Sharp Claws",
       "translation": "",
+      "_offset": 1750563,
       "_length": 11
     },
     {
       "text": "A claw from a dinosaur or animal Digimon. Very sharp.",
       "translation": "",
+      "_offset": 1750575,
       "_length": 53
     },
     {
       "text": "Sharp Fang",
       "translation": "",
+      "_offset": 1750629,
       "_length": 10
     },
     {
       "text": "A fang from a dinosaur or animal Digimon. Extremely sharp.",
       "translation": "",
+      "_offset": 1750640,
       "_length": 58
     },
     {
       "text": "Honed Claw",
       "translation": "",
+      "_offset": 1750699,
       "_length": 10
     },
     {
       "text": "A claw from a dinosaur or animal Digimon. Can cut through anything.",
       "translation": "",
+      "_offset": 1750710,
       "_length": 67
     },
     {
       "text": "Ancient Fang",
       "translation": "",
+      "_offset": 1750778,
       "_length": 12
     },
     {
       "text": "A fang from a dinosaur or animal Digimon. Quite heavy.",
       "translation": "",
+      "_offset": 1750791,
       "_length": 54
     },
     {
       "text": "Fine Horn",
       "translation": "",
+      "_offset": 1750846,
       "_length": 9
     },
     {
       "text": "A horn from a dinosaur or animal Digimon. Very beautiful.",
       "translation": "",
+      "_offset": 1750856,
       "_length": 57
     },
     {
       "text": "Soft Fur",
       "translation": "",
+      "_offset": 1750914,
       "_length": 8
     },
     {
       "text": "Fur from an animal Digimon. Pleasant to the touch.",
       "translation": "",
+      "_offset": 1750923,
       "_length": 50
     },
     {
       "text": "Stiff Fur",
       "translation": "",
+      "_offset": 1750974,
       "_length": 9
     },
     {
       "text": "Fur from an animal Digimon. Quite stiff.",
       "translation": "",
+      "_offset": 1750984,
       "_length": 40
     },
     {
       "text": "Large Feather",
       "translation": "",
+      "_offset": 1751025,
       "_length": 13
     },
     {
       "text": "A feather from a winged Digimon. Big, but light.",
       "translation": "",
+      "_offset": 1751039,
       "_length": 48
     },
     {
       "text": "Warm Feather",
       "translation": "",
+      "_offset": 1751088,
       "_length": 12
     },
     {
-      "text": "A feather from a winged Digimon. Has a nice heating effect.",
+      "text": "A feather from a winged Digimon. Has a nice heating effect.\n",
       "translation": "",
-      "_length": 59
+      "_offset": 1751101,
+      "_length": 60
     },
     {
       "text": "Decayed Wing",
       "translation": "",
+      "_offset": 1751162,
       "_length": 12
     },
     {
       "text": "Came from a flying Digimon. Gently rugged, but not damaged.",
       "translation": "",
+      "_offset": 1751175,
       "_length": 59
     },
     {
       "text": "Thick Scales",
       "translation": "",
+      "_offset": 1751235,
       "_length": 12
     },
     {
       "text": "Scales from a water Digimon. Rather thick.",
       "translation": "",
+      "_offset": 1751248,
       "_length": 42
     },
     {
       "text": "Sharp Spine",
       "translation": "",
+      "_offset": 1751291,
       "_length": 11
     },
     {
       "text": "A spine of some Digimon. A robust and light material.",
       "translation": "",
+      "_offset": 1751303,
       "_length": 53
     },
     {
       "text": "Steel Shell",
       "translation": "",
+      "_offset": 1751357,
       "_length": 11
     },
     {
       "text": "A shell from a shellfish Digimon. Wholly sturdy.",
       "translation": "",
+      "_offset": 1751369,
       "_length": 48
     },
     {
       "text": "Wriggling Tentacle",
       "translation": "",
+      "_offset": 1751418,
       "_length": 18
     },
     {
       "text": "A wriggling and squirming tentacle. Looks like it's still alive.",
       "translation": "",
+      "_offset": 1751437,
       "_length": 64
     },
     {
       "text": "Slimy Ball",
       "translation": "",
+      "_offset": 1751502,
       "_length": 10
     },
     {
       "text": "A mysterious, slimy ball. It smells a little...",
       "translation": "",
+      "_offset": 1751513,
       "_length": 47
     },
     {
       "text": "Broken Circuit",
       "translation": "",
+      "_offset": 1751561,
       "_length": 14
     },
     {
       "text": "A component of a mechanical Digimon. Unfortunately, it's broken.",
       "translation": "",
+      "_offset": 1751576,
       "_length": 64
     },
     {
       "text": "Worn-out Chip",
       "translation": "",
+      "_offset": 1751641,
       "_length": 13
     },
     {
       "text": "A component of a mechanical Digimon. An old-fashioned chip.",
       "translation": "",
+      "_offset": 1751655,
       "_length": 59
     },
     {
       "text": "Flexible Tube",
       "translation": "",
+      "_offset": 1751715,
       "_length": 13
     },
     {
       "text": "A component of a mechanical Digimon. A complex-shaped tube.",
       "translation": "",
+      "_offset": 1751729,
       "_length": 59
     },
     {
       "text": "Iron Fragment",
       "translation": "",
+      "_offset": 1751789,
       "_length": 13
     },
     {
       "text": "Sturdy iron used in Digimon weapons.",
       "translation": "",
+      "_offset": 1751803,
       "_length": 36
     },
     {
       "text": "Platinum Fragment",
       "translation": "",
+      "_offset": 1751840,
       "_length": 17
     },
     {
       "text": "Precious metal used in Digimon accessories.",
       "translation": "",
+      "_offset": 1751858,
       "_length": 43
     },
     {
       "text": "Black Crystal",
       "translation": "",
+      "_offset": 1751902,
       "_length": 13
     },
     {
       "text": "A very mysterious crystal. Feels like it's got evil energy.",
       "translation": "",
+      "_offset": 1751916,
       "_length": 59
     }
   ]
