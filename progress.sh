@@ -29,14 +29,31 @@ except Exception as exc:
              f"  ¿Está arrancado el servidor? Ejecuta ./serve.sh\n  ({exc})")
 
 # ── arc labels ─────────────────────────────────────────────────────────────
+# Boundaries verified against actual dialog content (not just file-ID guessing)
+# in 2026-07: Devimon's defeat + Gennai's "go to Server Continent" epilogue is
+# the tail of 3541; Etemon dies in 3547; VenomVamdemon falls in 3571; the four
+# Dark Masters fall across 3572-3584 with two non-contiguous memorial scenes
+# at 3611-3614; Apocalymon + the series finale are 3585-3586. Past that, the
+# file range is NOT one bucket: 3587-3589 is the "Our War Game!" movie (not a
+# TV episode), 3590-3610 is unrelated side-quests/minigames, and 3615-3622 is
+# a bonus dungeon cameo-ing heroes from later Digimon series.
 ARC_RANGES = [
-    (range(3520, 3534), "Arco Devimon (Eps 1–13)"),
-    (range(3534, 3541), "Arco Etemon (Eps 14–20)"),
-    (range(3541, 3562), "Arco Myotismon (Eps 21–39)"),
-    (range(3562, 3575), "Arco Dark Masters (Eps 40–52)"),
-    (range(3575, 3581), "Arco Apocalymon (Eps 53–54)"),
-    (range(3581, 9999), "Escenas originales / batallas"),
+    (range(3520, 3542), "Arco Devimon (Eps 1–13)"),
+    (range(3542, 3548), "Arco Etemon (Eps 14–20)"),
+    (range(3548, 3572), "Arco Myotismon (Eps 21–39)"),
+    (range(3572, 3585), "Arco Dark Masters (Eps 40–52)"),
+    (range(3585, 3587), "Arco Apocalymon (Eps 53–54)"),
+    (range(3587, 3590), "Película: Our War Game!"),
+    (range(3590, 3611), "Escenas originales / minijuegos"),
+    (range(3611, 3615), "Arco Dark Masters (Eps 40–52)"),
+    (range(3615, 3623), "Dungeon crossover (otras series Digimon)"),
+    (range(3623, 9999), "Escenas originales / minijuegos"),
 ]
+
+# Some labels above cover more than one non-contiguous range (Dark Masters,
+# Escenas originales) — dedupe by first appearance so the per-arc table
+# doesn't print the same row twice while still summing every matching range.
+ARC_LABELS = list(dict.fromkeys(label for _, label in ARC_RANGES))
 
 def arc_for(file_id: str) -> str:
     try:
@@ -96,7 +113,7 @@ lines.append("### Progreso por arco")
 lines.append("")
 lines.append("| Arco | Líneas | Progreso |")
 lines.append("|------|-------:|----------|")
-for _, arc_label in ARC_RANGES:
+for arc_label in ARC_LABELS:
     acc = arc_totals.get(arc_label, {"done": 0, "total": 0})
     d, t = acc["done"], acc["total"]
     lines.append(f"| {arc_label} | {d}/{t} | `{bar(d, t, 15)}` {pct(d, t)} |")

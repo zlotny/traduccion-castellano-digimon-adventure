@@ -25,12 +25,14 @@ Traducción al español de España del juego **Digimon Adventure** para PSP (201
 
 | Arco | Líneas | Progreso |
 |------|-------:|----------|
-| Arco Devimon (Eps 1–13) | 2033/2033 | `███████████████` 100.0% |
-| Arco Etemon (Eps 14–20) | 801/801 | `███████████████` 100.0% |
-| Arco Myotismon (Eps 21–39) | 696/3611 | `███░░░░░░░░░░░░` 19.3% |
-| Arco Dark Masters (Eps 40–52) | 0/1904 | `░░░░░░░░░░░░░░░` 0.0% |
-| Arco Apocalymon (Eps 53–54) | 0/893 | `░░░░░░░░░░░░░░░` 0.0% |
-| Escenas originales / batallas | 0/3625 | `░░░░░░░░░░░░░░░` 0.0% |
+| Arco Devimon (Eps 1–13) | 3007/3007 | `███████████████` 100.0% |
+| Arco Etemon (Eps 14–20) | 523/1589 | `█████░░░░░░░░░░` 32.9% |
+| Arco Myotismon (Eps 21–39) | 0/3119 | `░░░░░░░░░░░░░░░` 0.0% |
+| Arco Dark Masters (Eps 40–52) | 0/2307 | `░░░░░░░░░░░░░░░` 0.0% |
+| Arco Apocalymon (Eps 53–54) | 0/726 | `░░░░░░░░░░░░░░░` 0.0% |
+| Película: Our War Game! | 0/349 | `░░░░░░░░░░░░░░░` 0.0% |
+| Escenas originales / minijuegos | 0/1046 | `░░░░░░░░░░░░░░░` 0.0% |
+| Dungeon crossover (otras series Digimon) | 0/724 | `░░░░░░░░░░░░░░░` 0.0% |
 <!-- progress-end -->
 
 ---
