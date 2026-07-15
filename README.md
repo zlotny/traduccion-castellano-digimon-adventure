@@ -9,17 +9,17 @@ Traducción al español de España del juego **Digimon Adventure** para PSP (201
 ## Estado
 
 <!-- progress-start -->
-**Progreso total:** `███████░░░░░░░░░░░░░░░░░░░░░░░` **24.7%** (3713/15037 líneas)
+**Progreso total:** `████████░░░░░░░░░░░░░░░░░░░░░░` **26.4%** (3970/15037 líneas)
 
 ### Resumen
 
 | Categoría | Líneas | Progreso |
 |-----------|-------:|----------|
-| Diálogos  | 3273/12867 | `████░░░░░░░░░░░` 25.4% |
+| Diálogos  | 3530/12867 | `████░░░░░░░░░░░` 27.4% |
 | EBOOT     | 238/1695   | `██░░░░░░░░░░░░░` 14.0% |
 | Nombres   | 201/201   | `███████████████` 100.0% |
 | UI / otros | 1/274 | `░░░░░░░░░░░░░░░` 0.4% |
-| **Total** | **3713/15037** | `████░░░░░░░░░░░` **24.7%** |
+| **Total** | **3970/15037** | `████░░░░░░░░░░░` **26.4%** |
 
 ### Progreso por arco
 
@@ -27,7 +27,7 @@ Traducción al español de España del juego **Digimon Adventure** para PSP (201
 |------|-------:|----------|
 | Arco Devimon (Eps 1–13) | 2033/2033 | `███████████████` 100.0% |
 | Arco Etemon (Eps 14–20) | 801/801 | `███████████████` 100.0% |
-| Arco Myotismon (Eps 21–39) | 439/3611 | `██░░░░░░░░░░░░░` 12.2% |
+| Arco Myotismon (Eps 21–39) | 696/3611 | `███░░░░░░░░░░░░` 19.3% |
 | Arco Dark Masters (Eps 40–52) | 0/1904 | `░░░░░░░░░░░░░░░` 0.0% |
 | Arco Apocalymon (Eps 53–54) | 0/893 | `░░░░░░░░░░░░░░░` 0.0% |
 | Escenas originales / batallas | 0/3625 | `░░░░░░░░░░░░░░░` 0.0% |
