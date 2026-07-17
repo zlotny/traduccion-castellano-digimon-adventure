@@ -9,17 +9,17 @@ Traducción al español de España del juego **Digimon Adventure** para PSP (201
 ## Estado
 
 <!-- progress-start -->
-**Progreso total:** `████████████████████░░░░░░░░░░` **65.5%** (9851/15037 líneas)
+**Progreso total:** `██████████████████████░░░░░░░░` **73.6%** (11063/15037 líneas)
 
 ### Resumen
 
 | Categoría | Líneas | Progreso |
 |-----------|-------:|----------|
-| Diálogos  | 9411/12867 | `███████████░░░░` 73.1% |
+| Diálogos  | 10623/12867 | `████████████░░░` 82.6% |
 | EBOOT     | 238/1695   | `██░░░░░░░░░░░░░` 14.0% |
 | Nombres   | 201/201   | `███████████████` 100.0% |
 | UI / otros | 1/274 | `░░░░░░░░░░░░░░░` 0.4% |
-| **Total** | **9851/15037** | `██████████░░░░░` **65.5%** |
+| **Total** | **11063/15037** | `███████████░░░░` **73.6%** |
 
 ### Progreso por arco
 
@@ -28,9 +28,9 @@ Traducción al español de España del juego **Digimon Adventure** para PSP (201
 | Arco Devimon (Eps 1–13) | 3007/3007 | `███████████████` 100.0% |
 | Arco Etemon (Eps 14–20) | 1589/1589 | `███████████████` 100.0% |
 | Arco Myotismon (Eps 21–39) | 3119/3119 | `███████████████` 100.0% |
-| Arco Dark Masters (Eps 40–52) | 1696/2307 | `███████████░░░░` 73.5% |
-| Arco Apocalymon (Eps 53–54) | 0/726 | `░░░░░░░░░░░░░░░` 0.0% |
-| Película: Our War Game! | 0/349 | `░░░░░░░░░░░░░░░` 0.0% |
+| Arco Dark Masters (Eps 40–52) | 2069/2307 | `█████████████░░` 89.7% |
+| Arco Apocalymon (Eps 53–54) | 726/726 | `███████████████` 100.0% |
+| Película: Our War Game! | 113/349 | `█████░░░░░░░░░░` 32.4% |
 | Escenas originales / minijuegos | 0/1046 | `░░░░░░░░░░░░░░░` 0.0% |
 | Dungeon crossover (otras series Digimon) | 0/724 | `░░░░░░░░░░░░░░░` 0.0% |
 <!-- progress-end -->
