@@ -17,3 +17,20 @@
 - [ ] Revisar los `speaker_id` de los ficheros de diálogo — llevan mal desde el
       principio (varios ficheros traen `speaker_id: 0` en todas las entradas, sin
       variación, obligando a atribuir personajes por contexto narrativo)
+- [ ] Revisar "Aldea del Comienzo" (así aparece en `documentacion/03_lugares_terminologia.md`
+      y así se usa en 3577 y ahora también en 3540) vs "Ciudad de los Bebés" — recuerdo
+      haber visto un capítulo de la serie doblado donde se llamaba "Ciudad de los Bebés".
+      Revisar cuál es el término real del doblaje ES España.
+- [ ] Revisar toda la nomenclatura de niveles de evolución de los Digimon (Cuerpo
+      Novato/Maduro/Perfecto/Supremo, etc.) — hay una discrepancia real: `documentacion/
+      03_lugares_terminologia.md` mapea Champion→Cuerpo Maduro, Ultimate→Cuerpo Perfecto,
+      Mega→Cuerpo Supremo (asumiendo la nomenclatura del doblaje/Bandai USA), pero el
+      texto fuente del propio juego (confirmado en 3571 y 3573) usa "Ultimate" para
+      referirse a formas que son de nivel Mega (WarGreymon, MetalGarurumon) — como si
+      siguiera la nomenclatura japonesa/original en vez de la de Bandai USA, donde los
+      niveles en inglés son: Baby I/II → Child → **Adult** → **Perfect** → **Ultimate**
+      (JP) en vez de Fresh → In-Training → Rookie → **Champion** → **Ultimate** → **Mega**
+      (dub USA) — la colisión está en que el "Perfect" japonés equivale al "Ultimate" del
+      dub USA, y el "Ultimate" japonés equivale al "Mega" del dub USA. Para buscar
+      referencias, los términos en inglés a tener en cuenta son: Champion/Adult,
+      Ultimate/Perfect, Mega/Ultimate (según qué nomenclatura use la fuente que se consulte).
