@@ -9,17 +9,17 @@ Traducción al español de España del juego **Digimon Adventure** para PSP (201
 ## Estado
 
 <!-- progress-start -->
-**Progreso total:** `█████████████████████████░░░░░` **83.7%** (12583/15037 líneas)
+**Progreso total:** `███████████████████████████░░░` **88.5%** (13307/15037 líneas)
 
 ### Resumen
 
 | Categoría | Líneas | Progreso |
 |-----------|-------:|----------|
-| Diálogos  | 12143/12867 | `██████████████░` 94.4% |
+| Diálogos  | 12867/12867 | `███████████████` 100.0% |
 | EBOOT     | 238/1695   | `██░░░░░░░░░░░░░` 14.0% |
 | Nombres   | 201/201   | `███████████████` 100.0% |
 | UI / otros | 1/274 | `░░░░░░░░░░░░░░░` 0.4% |
-| **Total** | **12583/15037** | `█████████████░░` **83.7%** |
+| **Total** | **13307/15037** | `█████████████░░` **88.5%** |
 
 ### Progreso por arco
 
@@ -32,7 +32,7 @@ Traducción al español de España del juego **Digimon Adventure** para PSP (201
 | Arco Apocalymon (Eps 53–54) | 726/726 | `███████████████` 100.0% |
 | Película: Our War Game! | 349/349 | `███████████████` 100.0% |
 | Escenas originales / minijuegos | 1046/1046 | `███████████████` 100.0% |
-| Dungeon crossover (otras series Digimon) | 0/724 | `░░░░░░░░░░░░░░░` 0.0% |
+| Dungeon crossover (otras series Digimon) | 724/724 | `███████████████` 100.0% |
 <!-- progress-end -->
 
 ---
