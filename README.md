@@ -37,6 +37,14 @@ Traducción al español de España del juego **Digimon Adventure** para PSP (201
 
 ---
 
+## Audio y vídeo
+
+El **vídeo de apertura** (opening de la serie) y el **tema musical del menú
+principal** llevan también audio doblado al castellano, extraído, traducido
+y recodificado a ATRAC3+ con el propio toolkit.
+
+---
+
 ## Cómo aplicar el parche
 
 El parche distribuible (`translation_patch.xdelta`) se aplica sobre la **ISO original japonesa** del juego. Necesitas:

@@ -83,8 +83,9 @@ dlg_d, dlg_t   = cat_sum(data.get("dialog", []))
 eb_d,  eb_t    = cat_sum(data.get("eboot", []))
 nm_d,  nm_t    = cat_sum(data.get("names", []))
 oth_d, oth_t   = cat_sum(data.get("other", []))
-tot_d = dlg_d + eb_d + nm_d + oth_d
-tot_t = dlg_t + eb_t + nm_t + oth_t
+img_d, img_t   = cat_sum(data.get("images", []))
+tot_d = dlg_d + eb_d + nm_d + oth_d + img_d
+tot_t = dlg_t + eb_t + nm_t + oth_t + img_t
 
 def pct(d, t):
     return f"{round(100*d/t, 1)}%" if t else "—"
@@ -107,6 +108,7 @@ lines.append(f"| Diálogos  | {dlg_d}/{dlg_t} | `{bar(dlg_d, dlg_t, 15)}` {pct(d
 lines.append(f"| EBOOT     | {eb_d}/{eb_t}   | `{bar(eb_d, eb_t, 15)}` {pct(eb_d, eb_t)} |")
 lines.append(f"| Nombres   | {nm_d}/{nm_t}   | `{bar(nm_d, nm_t, 15)}` {pct(nm_d, nm_t)} |")
 lines.append(f"| UI / otros | {oth_d}/{oth_t} | `{bar(oth_d, oth_t, 15)}` {pct(oth_d, oth_t)} |")
+lines.append(f"| Imágenes (texto en banners/UI) | {img_d}/{img_t} | `{bar(img_d, img_t, 15)}` {pct(img_d, img_t)} |")
 lines.append(f"| **Total** | **{tot_d}/{tot_t}** | `{bar(tot_d, tot_t, 15)}` **{pct(tot_d, tot_t)}** |")
 lines.append("")
 lines.append("### Progreso por arco")
