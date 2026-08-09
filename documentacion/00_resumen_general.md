@@ -76,6 +76,6 @@ Para la traducción al español (es_ES):
 - La serie usa nombres japoneses completos (apellido + nombre). ES España mantuvo los nombres japoneses.
 - En EP25 Mimi canta "I Wish" (el ending real interpretado por su actriz de voz).
 - "Odaiba" es un distrito real de Tokyo donde viven los personajes.
-- "Hikarigaoka" es otro barrio de Tokyo donde vivían cuando eran pequeños.
+- "Hikarioka" (el guion escrito trae a veces "Hikarigaoka", pero los actores de doblaje dicen siempre "Hikarioka") es otro barrio de Tokyo donde vivían cuando eran pequeños.
 - La profecía de las "6 horas, 6 minutos, 6 segundos" (EP38) hace referencia al número de la bestia.
 - Los niveles de digievolución tienen traducción distinta en ES España respecto a LA.

@@ -1,7 +1,13 @@
 # Personajes de Digimon Adventure — Guía de Traducción (ES-ES)
 
 > Los nombres usados en el doblaje de España son los mismos que en el doblaje inglés (Tai, Matt, Izzy, T.K., Kari), NO los nombres japoneses originales.
-> Fuente: [eldoblaje.com — Digimon (serie)](https://www.eldoblaje.com/datos/fichapelicula.asp?id=929)
+> Fuentes: [eldoblaje.com — Digimon (serie)](https://www.eldoblaje.com/datos/fichapelicula.asp?id=929)
+> y la [Doblaje España Wiki](https://doblaje-espana.fandom.com/es/wiki/Digimon). Ver
+> `documentacion/05_doblaje_es_verificado.md` para el detalle y las fuentes en bruto.
+>
+> **Apellido de la familia de Tai/Kari**: confirmado como **"Yagami"** (no "Kamiya", el
+> apellido que usó Saban en EE.UU.) revisando la serie original. Es también el que usa
+> el 100% del texto fuente del juego y de lo traducido.
 
 ---
 
@@ -43,86 +49,90 @@
 
 ## Líneas evolutivas completas
 
+> El doblaje ES España no distingue entre las dos fases de Bebé — ambas se llaman
+> "Bebé", de ahí que aparezca dos veces seguidas en cada línea evolutiva. Ver
+> `03_lugares_terminologia.md` para la tabla completa de niveles.
+
 ### Tai → Agumon
 | Nivel | Nombre |
 |-------|--------|
 | Bebé | Botamon |
-| Principiante | Koromon |
+| Bebé | Koromon |
 | Novato | **Agumon** |
 | Campeón | **Greymon** |
-| Perfecto | **MetalGreymon** |
-| Supremo | **WarGreymon** |
+| Cuerpo Perfecto | **MetalGreymon** |
+| Cuerpo Supremo | **WarGreymon** |
 | Fusión | Omegamon (con MetalGarurumon) |
 
 ### Matt → Gabumon
 | Nivel | Nombre |
 |-------|--------|
 | Bebé | Punimon |
-| Principiante | Tsunomon |
+| Bebé | Tsunomon |
 | Novato | **Gabumon** |
 | Campeón | **Garurumon** |
-| Perfecto | **WereGarurumon** |
-| Supremo | **MetalGarurumon** |
+| Cuerpo Perfecto | **WereGarurumon** |
+| Cuerpo Supremo | **MetalGarurumon** |
 
 ### Sora → Piyomon
 | Nivel | Nombre |
 |-------|--------|
 | Bebé | Nyokimon |
-| Principiante | **Yokomon** (= Pyocomon en japonés) |
+| Bebé | **Yokomon** (= Pyocomon en japonés) |
 | Novato | **Piyomon** |
 | Campeón | **Birdramon** |
-| Perfecto | **Garudamon** |
-| Supremo | Phoenixmon |
+| Cuerpo Perfecto | **Garudamon** |
+| Cuerpo Supremo | Phoenixmon |
 
 ### Izzy → Tentomon
 | Nivel | Nombre |
 |-------|--------|
 | Bebé | Pabumon |
-| Principiante | Motimon |
+| Bebé | Motimon |
 | Novato | **Tentomon** |
 | Campeón | **Kabuterimon** |
-| Perfecto | **MegaKabuterimon** |
-| Supremo | HerculesKabuterimon |
+| Cuerpo Perfecto | **MegaKabuterimon** |
+| Cuerpo Supremo | HerculesKabuterimon |
 
 ### Mimi → Palmon
 | Nivel | Nombre |
 |-------|--------|
 | Bebé | Yuramon |
-| Principiante | Tanemon |
+| Bebé | Tanemon |
 | Novato | **Palmon** |
 | Campeón | **Togemon** |
-| Perfecto | **Lillymon** |
-| Supremo | Rosemon |
+| Cuerpo Perfecto | **Lillymon** |
+| Cuerpo Supremo | Rosemon |
 
 ### Joe → Gomamon
 | Nivel | Nombre |
 |-------|--------|
 | Bebé | Pichimon |
-| Principiante | Bukamon |
+| Bebé | Bukamon |
 | Novato | **Gomamon** |
 | Campeón | **Ikkakumon** |
-| Perfecto | **Zudomon** |
-| Supremo | Vikemon |
+| Cuerpo Perfecto | **Zudomon** |
+| Cuerpo Supremo | Vikemon |
 
 ### T.K. → Patamon
 | Nivel | Nombre |
 |-------|--------|
 | Bebé | Poyomon |
-| Principiante | Tokomon |
+| Bebé | Tokomon |
 | Novato | **Patamon** |
 | Campeón | **Angemon** |
-| Perfecto | **MagnaAngemon** |
-| Supremo | Seraphimon |
+| Cuerpo Perfecto | **MagnaAngemon** |
+| Cuerpo Supremo | Seraphimon |
 
 ### Kari → Gatomon
 | Nivel | Nombre |
 |-------|--------|
 | Bebé | YukimiBotamon |
-| Principiante | Nyaromon |
+| Bebé | Nyaromon |
 | Novato | Salamon |
 | Campeón | **Gatomon** |
-| Perfecto | **Angewomon** |
-| Supremo | Ophanimon / Magnadramon |
+| Cuerpo Perfecto | **Angewomon** |
+| Cuerpo Supremo | Ophanimon / Magnadramon |
 
 ---
 
@@ -155,6 +165,7 @@
 | **Whamon** | Digimon ballena. Muere por MetalSeadramon. |
 | **Wizardmon** | Amigo de Gatomon. Se sacrifica para salvar a Kari. |
 | **Piximon** | Entrenador. Se sacrifica contra los Maestros Oscuros. |
+| **DemiDevimon** | Espía y aliado de Myotismon; antes secuaz de Devimon. Nombre de doblaje ES — no "PicoDevimon", el nombre japonés. |
 
 ---
 
