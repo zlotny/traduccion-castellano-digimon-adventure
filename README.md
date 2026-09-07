@@ -9,7 +9,7 @@ Traducción al español de España del juego **Digimon Adventure** para PSP (201
 ## Estado
 
 <!-- progress-start -->
-**Progreso total:** `██████████████████████████████` **99.8%** (15037/15065 líneas)
+**Progreso total:** `██████████████████████████████` **100.0%** (15065/15065 líneas)
 
 ### Resumen
 
@@ -19,8 +19,8 @@ Traducción al español de España del juego **Digimon Adventure** para PSP (201
 | EBOOT     | 1695/1695   | `███████████████` 100.0% |
 | Nombres   | 201/201   | `███████████████` 100.0% |
 | UI / otros | 274/274 | `███████████████` 100.0% |
-| Imágenes (texto en banners/UI) | 0/28 | `░░░░░░░░░░░░░░░` 0.0% |
-| **Total** | **15037/15065** | `███████████████` **99.8%** |
+| Imágenes (texto en banners/UI) | 28/28 | `███████████████` 100.0% |
+| **Total** | **15065/15065** | `███████████████` **100.0%** |
 
 ### Progreso por arco
 
