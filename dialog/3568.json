@@ -1,670 +1,1439 @@
 {
   "file_id": "3568",
-  "text_count": 83,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 159,
   "dialog": [
     {
       "index": 0,
-      "english": "nd waited, but\nnobody came.",
-      "_offset": 0,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "y esperé, pero nadie vino."
+      "english": "It's reacting. But why here?",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 9128,
+      "_bytes": 28,
+      "translation": "Reacciona. ¿Pero por qué aquí?"
     },
     {
       "index": 1,
-      "english": "When I evolved into Plotmon, I \nstopped waiting and went on a \njourney to find them myself...",
-      "_offset": 28,
-      "_length": 93,
-      "speaker_id": 0,
-      "translation": "Cuando evolucioné a Salamon, dejé\nde esperar y salí a buscarla\npor mi cuenta..."
+      "english": "It's the Digivice. Did a crow pick\nit up and bury it in its nest?",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 9157,
+      "_bytes": 65,
+      "translation": "Es el Digivice. ¿Lo cogería un\ncuervo y lo enterraría en su nido?"
     },
     {
       "index": 2,
-      "english": "But the one who appeared before me\nwasn't the eighth Chosen Child,\nbut Vamdemon...",
-      "_offset": 122,
-      "_length": 82,
-      "speaker_id": 0,
-      "translation": "Pero quien apareció ante mí no\nera el octavo Niño Elegido,\nsino Myotismon..."
+      "english": "Hey, Wizarmon! What are you doing\nhere?",
+      "speaker_id": 4221,
+      "line_type": 2,
+      "_offset": 9223,
+      "_bytes": 39,
+      "translation": "¡Eh, Wizardmon! ¿Qué haces\naquí?"
     },
     {
       "index": 3,
-      "english": "And then the days of despair\nbegan, and at some point I forgot\nthat I was waiting for someone...",
-      "_offset": 205,
-      "_length": 96,
-      "speaker_id": 0,
-      "translation": "Así empezaron los días de\ndesesperación, hasta que\nolvidé que esperaba a alguien."
+      "english": "Nothing in particular...",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 9263,
+      "_bytes": 24,
+      "translation": "Nada en especial..."
     },
     {
       "index": 4,
-      "english": "I-I don't understand. What's the\neighth Chosen Child?",
-      "_offset": 302,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "N-no lo entiendo. Qué es eso\ndel octavo Niño Elegido?"
+      "english": "Nothing? In the middle of nowhere?\nYou found something, didn't you?",
+      "speaker_id": 4221,
+      "line_type": 2,
+      "_offset": 9288,
+      "_bytes": 67,
+      "translation": "¿Nada? ¿En medio de la nada?\nHas encontrado algo, ¿a que sí?"
     },
     {
       "index": 5,
-      "english": "Heeeeeey! Kari!",
-      "_offset": 356,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Eeeeh! Kari!"
+      "english": "Well, I did find *something*,\nbut...",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 9356,
+      "_bytes": 36,
+      "translation": "Bueno, sí que he encontrado\nALGO, pero..."
     },
     {
       "index": 6,
-      "english": "Tai!",
-      "_offset": 374,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Tai!"
+      "english": "What?",
+      "speaker_id": 4221,
+      "line_type": 2,
+      "_offset": 9393,
+      "_bytes": 5,
+      "translation": "¿Qué?"
     },
     {
       "index": 7,
-      "english": "You're...",
-      "_offset": 382,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Sois..."
+      "english": "...This world turned out to be\nsurprisingly enjoyable. Before I\nknew it, I was already drunk...",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 9399,
+      "_bytes": 95,
+      "translation": "...Este mundo resultó ser\nmuy divertido. Cuando me di\ncuenta, ya estaba borracho..."
     },
     {
       "index": 8,
-      "english": "Wait! Hear us out!",
-      "_offset": 392,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Espera, óyenos!"
+      "english": "*hiccup*",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 9495,
+      "_bytes": 8,
+      "translation": "(hip)"
     },
     {
       "index": 9,
-      "english": "Kari, get away from them! These\nguys are our enemies!",
-      "_offset": 411,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Kari, apártate de ellos!\nSon nuestros enemigos!"
+      "english": "What are you doing?! If you don't\nstop goofing off, you'll be erased\nlike Pumpmon and Gotsumon!",
+      "speaker_id": 4221,
+      "line_type": 2,
+      "_offset": 9504,
+      "_bytes": 95,
+      "translation": "¡¿Qué haces?! ¡Si no dejas de\nhacer el tonto, te borrarán\ncomo a Pumpmon y Gotsumon!"
     },
     {
       "index": 10,
-      "english": "Get away from her, both of you!\nLlama Bebé!",
-      "_offset": 467,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Apártate de ella, los dos!\nLlama Bebé!"
+      "english": "Please keep this a secret from\nLord Myotismon.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 9600,
+      "_bytes": 45,
+      "translation": "Por favor, no se lo digas al\nAmo Myotismon."
     },
     {
       "index": 11,
-      "english": "Stop it...",
-      "_offset": 511,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Parad..."
+      "english": "Man, Tailmon's buddies are all a\nbunch of good-for-nothings...",
+      "speaker_id": 4221,
+      "line_type": 2,
+      "_offset": 9646,
+      "_bytes": 62,
+      "translation": "Vaya, los colegas de Gatomon\nson unos inútiles..."
     },
     {
       "index": 12,
-      "english": "Kari! Get out of the way!",
-      "_offset": 522,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Kari! Apártate de ahí!"
+      "english": "I can't afford to hand over this\nDigivice to Myotismon...",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 9709,
+      "_bytes": 56,
+      "translation": "No puedo darle este Digivice\na Myotismon..."
     },
     {
       "index": 13,
-      "english": "Tailmon!",
-      "_offset": 550,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Gatomon!"
+      "english": "But the Digivice is here. So then\nwhere is the eighth child...?",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 9766,
+      "_bytes": 63,
+      "translation": "Pero el Digivice está aquí.\nEntonces, ¿dónde está el\noctavo niño...?"
     },
     {
       "index": 14,
-      "english": "I'm fine, Kari. That's not\nenough to hurt me.",
-      "_offset": 559,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Estoy bien, Kari. Eso no\nme hace daño."
+      "english": "Hello! This is the Yagami\nresidence! Ah, Joe. How'd it go?\nDid you find the eighth child?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9830,
+      "_bytes": 89,
+      "translation": "¿Sí? ¡Casa de los Yagami! Ah,\nJoe. ¿Qué tal? ¿Encontraste al\noctavo niño?"
     },
     {
       "index": 15,
-      "english": "Tailmon just threw herself in\nfront of Kari...",
-      "_offset": 607,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Gatomon se interpuso entre\nKari y el ataque..."
+      "english": "I couldn't find anyone at all.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 9920,
+      "_bytes": 30,
+      "translation": "No he encontrado a nadie."
     },
     {
       "index": 16,
-      "english": "Have you recovered the memories\nyou locked away?",
-      "_offset": 656,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Recuperaste los recuerdos\nque tenías bloqueados?"
+      "english": "We're the only ones who moved out\nof Karigaoka...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 9951,
+      "_bytes": 51,
+      "translation": "Solo nosotros nos mudamos\nde Hikarioka..."
     },
     {
       "index": 17,
-      "english": "Yes. I was waiting for the eighth\nChosen Child... I was waiting for\nKari.",
-      "_offset": 705,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "Sí. Esperaba al octavo Niño\nElegido... Esperaba a Kari."
+      "english": "That can't be right...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10003,
+      "_bytes": 22,
+      "translation": "No puede ser..."
     },
     {
       "index": 18,
-      "english": "So Tailmon is my Digimon!",
-      "_offset": 781,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Gatomon es mi Digimon!"
+      "english": "But I called everyone in the\ndirectories I have. The only one\nleft is yours, Tai...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 10026,
+      "_bytes": 86,
+      "translation": "Pero he llamado a todos los de\nmis listas. Solo queda la\ntuya, Tai..."
     },
     {
       "index": 19,
-      "english": "That's right. Kari is the eighth\nChosen Child.",
-      "_offset": 807,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Así es. Kari es el octavo\nNiño Elegido."
+      "english": "I...still haven't found that yet.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10113,
+      "_bytes": 33,
+      "translation": "Yo... todavía no la he\nencontrado."
     },
     {
       "index": 20,
-      "english": "And I'm her Digimon...",
-      "_offset": 856,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Y yo soy su Digimon..."
+      "english": "It's the only clue we have left!\nGo and look for it again! And do\nit thoroughly!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 10147,
+      "_bytes": 80,
+      "translation": "¡Es la única pista que nos\nqueda! ¡Búscala otra vez! ¡Y a\nfondo!"
     },
     {
       "index": 21,
-      "english": "Okay, Tailmon, so even if this is\ntrue, who's that guy over there?",
-      "_offset": 879,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Vale, Gatomon, aunque sea\nverdad, quién es ese tío\nde ahí?"
+      "english": "I know, I know...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10228,
+      "_bytes": 17,
+      "translation": "Que sí, que sí..."
     },
     {
       "index": 22,
-      "english": "He's my friend.",
-      "_offset": 946,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Es mi amigo."
+      "english": "I know, I know...",
+      "speaker_id": 9901,
+      "line_type": 2,
+      "_offset": 10246,
+      "_bytes": 17,
+      "translation": "Que sí, que sí..."
     },
     {
       "index": 23,
-      "english": "You can't just expect me to\nbelieve that!",
-      "_offset": 962,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "No pretendas que me crea\neso sin más!"
+      "english": "I'm done for...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10264,
+      "_bytes": 15,
+      "translation": "Estoy acabado..."
     },
     {
       "index": 24,
-      "english": "It doesn't matter if you believe\nme or not, but at least take the\nDigivice.",
-      "_offset": 1004,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "No importa si me crees o no,\npero al menos coge el\nDigivice."
+      "english": "Who is it this time? Hello, Yagami\nresidence.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10280,
+      "_bytes": 45,
+      "translation": "¿Quién será ahora? Sí, casa\nde los Yagami."
     },
     {
       "index": 25,
-      "english": "Why are you giving her Digivice to\nTai?",
-      "_offset": 1080,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Por qué le das su Digivice\na Tai?"
+      "english": "Tai, is that you?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 10326,
+      "_bytes": 20,
+      "translation": "Tai, ¿eres tú?"
     },
     {
       "index": 26,
-      "english": "It would be dangerous if Vamdemon\nfound out about Kari and\nTailmon.",
-      "_offset": 1123,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Sería peligroso que Myotismon\ndescubriera lo de Kari y\nGatomon."
+      "english": "Ah, Matt!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10347,
+      "_bytes": 11,
+      "translation": "¡Ah, Matt!"
     },
     {
       "index": 27,
-      "english": "But if you have the Digivice, both\nof them will be safe.",
-      "_offset": 1193,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Pero si tú tienes el Digivice,\nlos dos estaréis a salvo."
+      "english": "Did you hear about the incident in\nShibuya on the news?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 10359,
+      "_bytes": 55,
+      "translation": "¿Has oído en las noticias lo\nque ha pasado en Shibuya?"
     },
     {
       "index": 28,
-      "english": "Okay, I'll take care of this. What\nare you gonna do now?",
-      "_offset": 1250,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Vale, yo me encargo. Y\nvosotros qué haréis ahora?"
+      "english": "Shibuya? Something about acute\nanemia and a lot of women getting\nkidnapped?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10415,
+      "_bytes": 75,
+      "translation": "¿Shibuya? ¿Algo de anemia\naguda y de muchas mujeres\nsecuestradas?"
     },
     {
       "index": 29,
-      "english": "We need Kari's Crest. The real\none...",
-      "_offset": 1307,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Necesitamos el Emblema\nreal de Kari..."
+      "english": "We were in Shibuya just now!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 10491,
+      "_bytes": 28,
+      "translation": "¡Acabamos de estar en Shibuya!"
     },
     {
       "index": 30,
-      "english": "Real?",
-      "_offset": 1347,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Real?"
+      "english": "Huh?! So that news report...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10520,
+      "_bytes": 28,
+      "translation": "¡¿Eh?! Entonces la noticia..."
     },
     {
       "index": 31,
-      "english": "The one we have is a fake.\nVamdemon has the real one.",
-      "_offset": 1353,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "El que tenemos es falso.\nMyotismon tiene el auténtico."
+      "english": "We were attacked by Myotismon. He\nkilled two of his own minions!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 10549,
+      "_bytes": 63,
+      "translation": "Nos atacó Myotismon. ¡Mató a\ndos de sus propios esbirros!"
     },
     {
       "index": 32,
-      "english": "Wait here. We'll go and bring it\nback.",
-      "_offset": 1407,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Esperad aquí. Iremos a\nrecuperarlo."
+      "english": "What?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10613,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
     },
     {
       "index": 33,
-      "english": "Wait! Where's Vamdemon's base?\nWe'll go with you.",
-      "_offset": 1446,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Espera! Dónde está su base?\nVamos también."
+      "english": "Tai... we really don't know\nwhat he'll do next. We have to\nfind the eighth child, and soon.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 10620,
+      "_bytes": 94,
+      "translation": "Tai... no sabemos qué hará\nahora. Tenemos que encontrar\nal octavo niño, y pronto."
     },
     {
       "index": 34,
-      "english": "You can't. It's too dangerous.",
-      "_offset": 1496,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "No podéis. Es muy peligroso."
+      "english": "Yeah, you're right.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10715,
+      "_bytes": 19,
+      "translation": "Sí, tienes razón."
     },
     {
       "index": 35,
-      "english": "Tailmooooooon!",
-      "_offset": 1527,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Tailmooooooon!"
+      "english": "...",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 10735,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 36,
-      "english": "Kari's Crest should be hidden\naround here.",
-      "_offset": 1542,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "El Emblema debe estar\nescondido por aquí."
+      "english": "Are you watching that Kari girl?",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 10739,
+      "_bytes": 34,
+      "translation": "¿Estás vigilando a esa tal\nKari?"
     },
     {
       "index": 37,
-      "english": "This place is off-limits until\nLord Vamdemon returns!",
-      "_offset": 1587,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Zona prohibida hasta que\nvuelva el Amo Myotismon!"
+      "english": "Wizarmon... have you found the\neighth child yet?",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 10774,
+      "_bytes": 48,
+      "translation": "Wizardmon... ¿ya has\nencontrado al octavo niño?"
     },
     {
       "index": 38,
-      "english": "We came to switch out the guard.\nSee?",
-      "_offset": 1641,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Venimos a relevar la\nguardia. Ves?"
+      "english": "No, but I found this.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 10823,
+      "_bytes": 21,
+      "translation": "No, pero he encontrado esto."
     },
     {
       "index": 39,
-      "english": "Huh? What was I doing here?",
-      "_offset": 1679,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Eh? Qué hacía yo aquí?"
+      "english": "A Digivice! Why do you have that?",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 10845,
+      "_bytes": 33,
+      "translation": "¡Un Digivice! ¿Por qué lo\ntienes tú?"
     },
     {
       "index": 40,
-      "english": "Weren't you going to switch off\nwith us and go home?",
-      "_offset": 1707,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "No ibas a relevarnos e\nirte a casa?"
+      "english": "I found it in a crow's nest.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 10879,
+      "_bytes": 28,
+      "translation": "Lo encontré en el nido de\nun cuervo."
     },
     {
       "index": 41,
-      "english": "Ah, right...Okay, I'll be leaving.",
-      "_offset": 1760,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Ah, cierto...Vale, me marcho."
+      "english": "Where? Shouldn't the eighth child\nbe somewhere around there?",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 10908,
+      "_bytes": 60,
+      "translation": "¿Dónde? ¿El octavo niño no\ndebería estar por allí?"
     },
     {
       "index": 42,
-      "english": "Good night.",
-      "_offset": 1795,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Hasta luego"
+      "english": "No, the eighth child isn't there,\nbut...",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 10969,
+      "_bytes": 40,
+      "translation": "No, el octavo niño no está\nallí, pero..."
     },
     {
       "index": 43,
-      "english": "Where's the Crest? We have to\nhurry up and find it.",
-      "_offset": 1807,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Dónde está el Emblema? Hay\nque encontrarlo ya."
+      "english": "Isn't their location somewhere\ninside your heart?",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 11010,
+      "_bytes": 49,
+      "translation": "¿No estará en algún lugar de\ntu corazón?"
     },
     {
       "index": 44,
-      "english": "Don't rush things. Vamdemon won't\nreturn until dawn.",
-      "_offset": 1859,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "No corras. Myotismon no\nvolverá hasta el amanecer."
+      "english": "Inside my heart...",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 11060,
+      "_bytes": 18,
+      "translation": "En mi corazón..."
     },
     {
       "index": 45,
-      "english": "Here it is!",
-      "_offset": 1912,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Aquí está!"
+      "english": "Are you afraid of recovering your\nmemories? You shouldn't be afraid\nto take back your past.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 11079,
+      "_bytes": 91,
+      "translation": "¿Te da miedo recuperar tus\nrecuerdos? No deberías temer\nrecuperar tu pasado."
     },
     {
       "index": 46,
-      "english": "No doubt about it, it's the real\nCrest.",
-      "_offset": 1924,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "No hay duda, es el Emblema\nauténtico."
+      "english": "Wizarmon...",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 11171,
+      "_bytes": 11,
+      "translation": "Wizardmon..."
     },
     {
       "index": 47,
-      "english": "So what are you going to do, now\nthat you've stolen the real Crest?",
-      "_offset": 1964,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Y qué pensáis hacer, ahora\nque habéis robado el\nEmblema auténtico?"
+      "english": "Until I met you, I was always\nalone.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 11183,
+      "_bytes": 36,
+      "translation": "Hasta conocerte, siempre\nestuve solo."
     },
     {
       "index": 48,
-      "english": "What!?",
-      "_offset": 2032,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Qué?!"
+      "english": "I always traveled alone....I\ncouldn't make any friends...",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 11220,
+      "_bytes": 57,
+      "translation": "Siempre viajaba solo... No\nconseguía hacer amigos..."
     },
     {
       "index": 49,
-      "english": "Have you allied yourselves with\nthe Chosen Children?",
-      "_offset": 2039,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Os habéis aliado con los\nNiños Elegidos?"
+      "english": "...",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 11278,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 50,
-      "english": "Those eyes of yours...I always\nknew they were like a dagger\npointed my way.",
-      "_offset": 2096,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "Esos ojos tuyos...siempre\nsupe que eran como una\ndaga apuntándome."
+      "english": "Hungry, tired, lonely...even when\nI fell nobody came to help me.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 11282,
+      "_bytes": 64,
+      "translation": "Con hambre, cansado, solo...\nincluso cuando caía, nadie\nvenía a ayudarme."
     },
     {
       "index": 51,
-      "english": "I'll take you down!",
-      "_offset": 2172,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Te derrotaré!"
+      "english": "I thought my life would come to an\nunsatisfying end, but then you\nsaved me.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 11347,
+      "_bytes": 75,
+      "translation": "Pensé que mi vida acabaría\nsin pena ni gloria, pero\nentonces tú me salvaste."
     },
     {
       "index": 52,
-      "english": "I'll take care of you first,\nWizarmon.",
-      "_offset": 2192,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Primero me encargaré de\nti, Wizardmon."
+      "english": "Did something like that happen?",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 11423,
+      "_bytes": 31,
+      "translation": "¿Pasó algo así?"
     },
     {
       "index": 53,
-      "english": "Aaaaaaaaargh!",
-      "_offset": 2231,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Aaaaaaaaargh!"
+      "english": "Lonely and with a hardened heart,\nI was about to throw away my\nlife...",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 11455,
+      "_bytes": 70,
+      "translation": "Solo y con el corazón\nendurecido, estaba a punto\nde tirar mi vida..."
     },
     {
       "index": 54,
-      "english": "Vamdemon, I'm the one you should\nbe fighting!",
-      "_offset": 2245,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Myotismon, soy yo contra\nquien debes luchar!"
+      "english": "And the one who saved me from my\nloneliness was you, Tailmon...",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 11526,
+      "_bytes": 63,
+      "translation": "Y quien me salvó de mi\nsoledad fuiste tú, Gatomon..."
     },
     {
       "index": 55,
-      "english": "Those eyes! They're shining with\nthe light of hope, the light that\nbelieves in dreams...",
-      "_offset": 2291,
-      "_length": 88,
-      "speaker_id": 0,
-      "translation": "Esos ojos! Brillan con la\nluz de la esperanza, la luz\nque cree en los sueños..."
+      "english": "...",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 11590,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 56,
-      "english": "That's right! I've made it this\nlong because I believed in that!",
-      "_offset": 2380,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "Así es! He llegado hasta\naquí porque creía en eso!"
+      "english": "And I'm certain that back then,\nyou said to me, \"I've always been\nwaiting for someone...\"",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 11594,
+      "_bytes": 89,
+      "translation": "Y estoy seguro de que entonces\nme dijiste: \"Siempre he\nestado esperando a alguien...\""
     },
     {
       "index": 57,
-      "english": "If I believe in it, I can have\nhopes and dreams! And I'll defeat\nyou to make my dream come true!",
-      "_offset": 2445,
-      "_length": 96,
-      "speaker_id": 0,
-      "translation": "Si creo en ello, puedo tener\nesperanzas y sueños! Te derrotaré\ny cumpliré mi sueño!"
+      "english": "I was...waiting?",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 11684,
+      "_bytes": 16,
+      "translation": "¿Yo...esperaba?"
     },
     {
       "index": 58,
-      "english": "What?",
-      "_offset": 2542,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Qué?"
+      "english": "Yes, that's what you said.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 11701,
+      "_bytes": 26,
+      "translation": "Sí, eso es lo que dijiste."
     },
     {
       "index": 59,
-      "english": "I can't take back my true self\nunless I defeat you!",
-      "_offset": 2548,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "No recupero mi verdadero\nyo si no te derroto!"
+      "english": "Who was I waiting for?",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 11728,
+      "_bytes": 22,
+      "translation": "¿A quién esperaba?"
     },
     {
       "index": 60,
-      "english": "Take back your true self...could\nyou possibly be the eighth\nDigimon?!",
-      "_offset": 2600,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Recuperar tu verdadero\nyo...serás acaso el\noctavo Digimon?!"
+      "english": "Let's find out...",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 11751,
+      "_bytes": 17,
+      "translation": "Averigüémoslo..."
     },
     {
       "index": 61,
-      "english": "I see! Now *that's* a completely\ndifferent story! First, I'll send\nyour precious friend to hell!",
-      "_offset": 2670,
-      "_length": 96,
-      "speaker_id": 0,
-      "translation": "Vaya, otra historia distinta!\nAntes, enviaré a tu preciado\namigo al infierno!"
+      "english": "Miko! Miko, where are you?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11769,
+      "_bytes": 26,
+      "translation": "¡Miko! Miko, ¿dónde estás?"
     },
     {
       "index": 62,
-      "english": "Tailmon!",
-      "_offset": 2767,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Gatomon!"
+      "english": "Who are you?!",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11796,
+      "_bytes": 13,
+      "translation": "¡¿Quién eres?!"
     },
     {
       "index": 63,
-      "english": "Wizarmon!",
-      "_offset": 2776,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Wizardmon"
+      "english": "I'm Wizarmon.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 11810,
+      "_bytes": 13,
+      "translation": "Soy Wizardmon."
     },
     {
       "index": 64,
-      "english": "Wizarmon!",
-      "_offset": 2786,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Wizardmon"
+      "english": "Did you fly here?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11824,
+      "_bytes": 17,
+      "translation": "¿Viniste volando?"
     },
     {
       "index": 65,
-      "english": "Hahahaha!",
-      "_offset": 2796,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Jajajaja!"
+      "english": "Ah! You're the one I met earlier!\nSo you really *are* a friend of\nKoromon, right?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11842,
+      "_bytes": 81,
+      "translation": "¡Ah! ¡Tú eres el de antes!\nEntonces sí que eres amigo\nde Koromon, ¿no?"
     },
     {
       "index": 66,
-      "english": "We came to help you, Tailmon!",
-      "_offset": 2806,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Venimos a ayudarte,\nGatomon!"
+      "english": "Here, take this Digivice!",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 11924,
+      "_bytes": 25,
+      "translation": "¡Toma este Digivice!"
     },
     {
       "index": 67,
-      "english": "Tai!",
-      "_offset": 2836,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Tai!"
+      "english": "What's this?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11950,
+      "_bytes": 12,
+      "translation": "¿Qué es esto?"
     },
     {
       "index": 68,
-      "english": "What a privilege it is, to see you\ncome to me so easily.",
-      "_offset": 2844,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Qué privilegio veros venir\nhasta mí tan fácilmente."
+      "english": "What?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11963,
+      "_bytes": 5,
+      "translation": "¿Qué?"
     },
     {
       "index": 69,
-      "english": "Gaaaaaah!",
-      "_offset": 2901,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Gaaaaaah!"
+      "english": "Is this girl the eighth Chosen\nChild?",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 11969,
+      "_bytes": 37,
+      "translation": "¿Esta niña es el octavo Niño\nElegido?"
     },
     {
       "index": 70,
-      "english": "Greymon, evolve!",
-      "_offset": 2911,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Evoluciona!"
+      "english": "Yes, she is.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 12007,
+      "_bytes": 12,
+      "translation": "Sí, lo es."
     },
     {
       "index": 71,
-      "english": "You think I'll be beaten by such\nchild's play?",
-      "_offset": 2928,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Crees que un truco de\nniños me va a derrotar?"
+      "english": "So then who's her Digimon?",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 12020,
+      "_bytes": 26,
+      "translation": "¿Y quién es su Digimon?"
     },
     {
       "index": 72,
-      "english": "Gh!",
-      "_offset": 2975,
-      "_length": 3,
-      "speaker_id": 0,
-      "translation": "Gh!"
+      "english": "Please, remember...remember who\nyou were waiting for.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 12047,
+      "_bytes": 53,
+      "translation": "Por favor, recuerda...\nrecuerda a quién esperabas."
     },
     {
       "index": 73,
-      "english": "The fact that a Chosen Child came\nout here to help you means that \nyou really are the eighth Digimon.",
-      "_offset": 2979,
-      "_length": 101,
-      "speaker_id": 0,
-      "translation": "Que un Niño Elegido haya venido\na ayudarte demuestra que de\nverdad eres el octavo Digimon."
+      "english": "That's right, I was definitely\nwaiting.",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 12101,
+      "_bytes": 39,
+      "translation": "Es verdad, yo esperaba a\nalguien."
     },
     {
       "index": 74,
-      "english": "W-what are you talking about? I'm\nnot the eighth Digimon at all.",
-      "_offset": 3085,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "Q-qué dices? Yo no soy el\noctavo Digimon en absoluto."
+      "english": "Ever since I was in my Baby form,\nNyaromon, I waited and waited, but\nnobody came.",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 12141,
+      "_bytes": 81,
+      "translation": "Desde que era Nyaromon, de\nbebé, esperé y esperé, pero\nno vino nadie."
     },
     {
       "index": 75,
-      "english": "We'll see about that. I'll use you\nas bait to lure out the eighth\nchild.",
-      "_offset": 3150,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "Ya lo veremos. Te usaré de\ncebo para atraer al octavo\nniño."
+      "english": "When I evolved into Plotmon, I \nstopped waiting and went on a \njourney to find them myself...",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 12223,
+      "_bytes": 93,
+      "translation": "Cuando evolucioné a Salamon, dejé\nde esperar y salí a buscarla\npor mi cuenta..."
     },
     {
       "index": 76,
-      "english": "I may not have the Crest anymore,\nbut I'll find the eighth child\nsoon enough...",
-      "_offset": 3223,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "Puede que ya no tenga el\nEmblema, pero encontraré\nal octavo niño muy pronto..."
+      "english": "But the one who appeared before me\nwasn't the eighth Chosen Child,\nbut Myotismon...",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 12317,
+      "_bytes": 82,
+      "translation": "Pero quien apareció ante mí no\nera el octavo Niño Elegido,\nsino Myotismon..."
     },
     {
       "index": 77,
-      "english": "That's cheap, Vamdemon!",
-      "_offset": 3303,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Qué ruin, Myotismon!"
+      "english": "And then the days of despair\nbegan, and at some point I forgot\nthat I was waiting for someone...",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 12400,
+      "_bytes": 96,
+      "translation": "Así empezaron los días de\ndesesperación, hasta que\nolvidé que esperaba a alguien."
     },
     {
       "index": 78,
-      "english": "Farewell for now...",
-      "_offset": 3327,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Adiós por ahora..."
+      "english": "I-I don't understand. What's the\neighth Chosen Child?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 12497,
+      "_bytes": 53,
+      "translation": "N-no lo entiendo. ¿Qué es eso\ndel octavo Niño Elegido?"
     },
     {
       "index": 79,
-      "english": "Wait...",
-      "_offset": 3347,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Espera!"
+      "english": "Heeeeeey! Kari!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12551,
+      "_bytes": 17,
+      "translation": "¡Eeeeh! ¡Kari!"
     },
     {
       "index": 80,
-      "english": "Muahahahahaha...",
-      "_offset": 3355,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Muajajajaja..."
+      "english": "Tai!",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 12569,
+      "_bytes": 7,
+      "translation": "¡Tai!"
     },
     {
       "index": 81,
-      "english": "Tailmon... You'll come back,\nright? You'll come back...",
-      "_offset": 3372,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Gatomon...volverás,\nverdad? Volverás..."
+      "english": "You're...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 12577,
+      "_bytes": 9,
+      "translation": "Sois..."
     },
     {
       "index": 82,
+      "english": "Wait! Hear us out!",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 12587,
+      "_bytes": 18,
+      "translation": "¡Espera, óyenos!"
+    },
+    {
+      "index": 83,
+      "english": "Kari, get away from them! These\nguys are our enemies!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12606,
+      "_bytes": 55,
+      "translation": "Kari, ¡apártate de ellos!\n¡Son nuestros enemigos!"
+    },
+    {
+      "index": 84,
+      "english": "Get away from her, both of you!\nBaby Flame!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 12662,
+      "_bytes": 43,
+      "translation": "¡Apartaos de ella, los dos!\n¡Llama Bebé!"
+    },
+    {
+      "index": 85,
+      "english": "Stop it...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 12706,
+      "_bytes": 10,
+      "translation": "Parad..."
+    },
+    {
+      "index": 86,
+      "english": "Kari! Get out of the way!",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 12717,
+      "_bytes": 27,
+      "translation": "¡Kari! ¡Apártate de ahí!"
+    },
+    {
+      "index": 87,
+      "english": "Tailmon!",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 12745,
+      "_bytes": 8,
+      "translation": "¡Gatomon!"
+    },
+    {
+      "index": 88,
+      "english": "I'm fine, Kari. That's not\nenough to hurt me.",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 12754,
+      "_bytes": 47,
+      "translation": "Estoy bien, Kari. Eso no\nme hace daño."
+    },
+    {
+      "index": 89,
+      "english": "Tailmon just threw herself in\nfront of Kari...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12802,
+      "_bytes": 48,
+      "translation": "Gatomon se interpuso entre\nKari y el ataque..."
+    },
+    {
+      "index": 90,
+      "english": "Have you recovered the memories\nyou locked away?",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 12851,
+      "_bytes": 48,
+      "translation": "¿Recuperaste los recuerdos\nque tenías bloqueados?"
+    },
+    {
+      "index": 91,
+      "english": "Yes. I was waiting for the eighth\nChosen Child... I was waiting for\nKari.",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 12900,
+      "_bytes": 75,
+      "translation": "Sí. Esperaba al octavo Niño\nElegido... Esperaba a Kari."
+    },
+    {
+      "index": 92,
+      "english": "So Tailmon is my Digimon!",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 12976,
+      "_bytes": 25,
+      "translation": "¡Gatomon es mi Digimon!"
+    },
+    {
+      "index": 93,
+      "english": "That's right. Kari is the eighth\nChosen Child.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 13002,
+      "_bytes": 48,
+      "translation": "Así es. Kari es el octavo\nNiño Elegido."
+    },
+    {
+      "index": 94,
+      "english": "And I'm her Digimon...",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 13051,
+      "_bytes": 22,
+      "translation": "Y yo soy su Digimon..."
+    },
+    {
+      "index": 95,
+      "english": "Okay, Tailmon, so even if this is\ntrue, who's that guy over there?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13074,
+      "_bytes": 66,
+      "translation": "Vale, Gatomon, aunque sea\nverdad, ¿quién es ese tío\nde ahí?"
+    },
+    {
+      "index": 96,
+      "english": "He's my friend.",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 13141,
+      "_bytes": 15,
+      "translation": "Es mi amigo."
+    },
+    {
+      "index": 97,
+      "english": "You can't just expect me to\nbelieve that!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13157,
+      "_bytes": 41,
+      "translation": "¡No pretendas que me crea\neso sin más!"
+    },
+    {
+      "index": 98,
+      "english": "It doesn't matter if you believe\nme or not, but at least take the\nDigivice.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 13199,
+      "_bytes": 75,
+      "translation": "No importa si me crees o no,\npero al menos coge el\nDigivice."
+    },
+    {
+      "index": 99,
+      "english": "Why are you giving her Digivice to\nTai?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 13275,
+      "_bytes": 42,
+      "translation": "¿Por qué le das su Digivice\na Tai?"
+    },
+    {
+      "index": 100,
+      "english": "It would be dangerous if Myotismon\nfound out about Kari and\nTailmon.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 13318,
+      "_bytes": 69,
+      "translation": "Sería peligroso que Myotismon\ndescubriera lo de Kari y\nGatomon."
+    },
+    {
+      "index": 101,
+      "english": "But if you have the Digivice, both\nof them will be safe.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 13388,
+      "_bytes": 56,
+      "translation": "Pero si tú tienes el Digivice,\nlas dos estarán a salvo."
+    },
+    {
+      "index": 102,
+      "english": "Okay, I'll take care of this. What\nare you gonna do now?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13445,
+      "_bytes": 56,
+      "translation": "Vale, yo me encargo. ¿Y\nvosotros qué haréis ahora?"
+    },
+    {
+      "index": 103,
+      "english": "We need Kari's Crest. The real\none...",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 13502,
+      "_bytes": 39,
+      "translation": "Necesitamos el Emblema\nreal de Kari..."
+    },
+    {
+      "index": 104,
+      "english": "Real?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 13542,
+      "_bytes": 5,
+      "translation": "¿Real?"
+    },
+    {
+      "index": 105,
+      "english": "The one we have is a fake.\nMyotismon has the real one.",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 13548,
+      "_bytes": 53,
+      "translation": "El que tenemos es falso.\nMyotismon tiene el auténtico."
+    },
+    {
+      "index": 106,
+      "english": "Wait here. We'll go and bring it\nback.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 13602,
+      "_bytes": 38,
+      "translation": "Esperad aquí. Iremos a\nrecuperarlo."
+    },
+    {
+      "index": 107,
+      "english": "Wait! Where's Myotismon's base?\nWe'll go with you.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13641,
+      "_bytes": 49,
+      "translation": "¡Espera! ¿Dónde está su base?\nVamos con vosotros."
+    },
+    {
+      "index": 108,
+      "english": "You can't. It's too dangerous.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 13691,
+      "_bytes": 30,
+      "translation": "No podéis. Es muy peligroso."
+    },
+    {
+      "index": 109,
+      "english": "Tailmooooooon!",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 13722,
+      "_bytes": 14,
+      "translation": "¡Gatomooooooon!"
+    },
+    {
+      "index": 110,
+      "english": "Kari's Crest should be hidden\naround here.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 13737,
+      "_bytes": 44,
+      "translation": "El Emblema debe estar\nescondido por aquí."
+    },
+    {
+      "index": 111,
+      "english": "This place is off-limits until\nLord Myotismon returns!",
+      "speaker_id": 4121,
+      "line_type": 2,
+      "_offset": 13782,
+      "_bytes": 53,
+      "translation": "¡Zona prohibida hasta que\nvuelva el Amo Myotismon!"
+    },
+    {
+      "index": 112,
+      "english": "We came to switch out the guard.\nSee?",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 13836,
+      "_bytes": 37,
+      "translation": "Venimos a relevar la\nguardia. ¿Ves?"
+    },
+    {
+      "index": 113,
+      "english": "Huh? What was I doing here?",
+      "speaker_id": 4121,
+      "line_type": 2,
+      "_offset": 13874,
+      "_bytes": 27,
+      "translation": "¿Eh? ¿Qué hacía yo aquí?"
+    },
+    {
+      "index": 114,
+      "english": "Weren't you going to switch off\nwith us and go home?",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 13902,
+      "_bytes": 52,
+      "translation": "¿No ibas a relevarnos e\nirte a casa?"
+    },
+    {
+      "index": 115,
+      "english": "Ah, right...Okay, I'll be leaving.",
+      "speaker_id": 4121,
+      "line_type": 2,
+      "_offset": 13955,
+      "_bytes": 34,
+      "translation": "Ah, cierto...Vale, me marcho."
+    },
+    {
+      "index": 116,
+      "english": "Good night.",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 13990,
+      "_bytes": 11,
+      "translation": "Hasta luego."
+    },
+    {
+      "index": 117,
+      "english": "Where's the Crest? We have to\nhurry up and find it.",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 14002,
+      "_bytes": 51,
+      "translation": "¿Dónde está el Emblema? Hay\nque encontrarlo ya."
+    },
+    {
+      "index": 118,
+      "english": "Don't rush things. Myotismon won't\nreturn until dawn.",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 14054,
+      "_bytes": 52,
+      "translation": "No corras. Myotismon no\nvolverá hasta el amanecer."
+    },
+    {
+      "index": 119,
+      "english": "Here it is!",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 14107,
+      "_bytes": 11,
+      "translation": "¡Aquí está!"
+    },
+    {
+      "index": 120,
+      "english": "No doubt about it, it's the real\nCrest.",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 14119,
+      "_bytes": 39,
+      "translation": "No hay duda, es el Emblema\nauténtico."
+    },
+    {
+      "index": 121,
+      "english": "So what are you going to do, now\nthat you've stolen the real Crest?",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 14159,
+      "_bytes": 67,
+      "translation": "¿Y qué pensáis hacer, ahora\nque habéis robado el\nEmblema auténtico?"
+    },
+    {
+      "index": 122,
+      "english": "What!?",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 14227,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
+    },
+    {
+      "index": 123,
+      "english": "Have you allied yourselves with\nthe Chosen Children?",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 14234,
+      "_bytes": 52,
+      "translation": "¿Os habéis aliado con los\nNiños Elegidos?"
+    },
+    {
+      "index": 124,
+      "english": "...",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 14287,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 125,
+      "english": "Those eyes of yours...I always\nknew they were like a dagger\npointed my way.",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 14291,
+      "_bytes": 75,
+      "translation": "Esos ojos tuyos...siempre\nsupe que eran como una\ndaga apuntándome."
+    },
+    {
+      "index": 126,
+      "english": "I'll take you down!",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 14367,
+      "_bytes": 19,
+      "translation": "¡Te derrotaré!"
+    },
+    {
+      "index": 127,
+      "english": "I'll take care of you first,\nWizarmon.",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 14387,
+      "_bytes": 38,
+      "translation": "Primero me encargaré de\nti, Wizardmon."
+    },
+    {
+      "index": 128,
+      "english": "Aaaaaaaaargh!",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 14426,
+      "_bytes": 13,
+      "translation": "¡Aaaaaaaaargh!"
+    },
+    {
+      "index": 129,
+      "english": "Myotismon, I'm the one you should\nbe fighting!",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 14440,
+      "_bytes": 45,
+      "translation": "¡Myotismon, soy yo contra\nquien debes luchar!"
+    },
+    {
+      "index": 130,
+      "english": "Those eyes! They're shining with\nthe light of hope, the light that\nbelieves in dreams...",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 14486,
+      "_bytes": 88,
+      "translation": "¡Esos ojos! Brillan con la\nluz de la esperanza, la luz\nque cree en los sueños..."
+    },
+    {
+      "index": 131,
+      "english": "That's right! I've made it this\nlong because I believed in that!",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 14575,
+      "_bytes": 64,
+      "translation": "¡Así es! ¡He llegado hasta\naquí porque creía en eso!"
+    },
+    {
+      "index": 132,
+      "english": "If I believe in it, I can have\nhopes and dreams! And I'll defeat\nyou to make my dream come true!",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 14640,
+      "_bytes": 96,
+      "translation": "¡Si creo en ello, puedo tener\nesperanzas y sueños! ¡Te derrotaré\ny cumpliré mi sueño!"
+    },
+    {
+      "index": 133,
+      "english": "What?",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 14737,
+      "_bytes": 5,
+      "translation": "¿Qué?"
+    },
+    {
+      "index": 134,
+      "english": "I can't take back my true self\nunless I defeat you!",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 14743,
+      "_bytes": 51,
+      "translation": "¡No recupero mi verdadero\nyo si no te derroto!"
+    },
+    {
+      "index": 135,
+      "english": "Take back your true self...could\nyou possibly be the eighth\nDigimon?!",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 14795,
+      "_bytes": 69,
+      "translation": "¡¿Recuperar tu verdadero\nyo...serás acaso el\noctavo Digimon?!"
+    },
+    {
+      "index": 136,
+      "english": "I see! Now *that's* a completely\ndifferent story! First, I'll send\nyour precious friend to hell!",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 14865,
+      "_bytes": 96,
+      "translation": "¡Vaya, eso ya es otra historia!\n¡Antes, enviaré a tu preciado\namigo al infierno!"
+    },
+    {
+      "index": 137,
+      "english": "Tailmon!",
+      "speaker_id": 4321,
+      "line_type": 2,
+      "_offset": 14962,
+      "_bytes": 8,
+      "translation": "¡Gatomon!"
+    },
+    {
+      "index": 138,
+      "english": "Wizarmon!",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 14971,
+      "_bytes": 9,
+      "translation": "¡Wizardmon!"
+    },
+    {
+      "index": 139,
+      "english": "Wizarmon!",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 14981,
+      "_bytes": 9,
+      "translation": "¡Wizardmon!"
+    },
+    {
+      "index": 140,
+      "english": "Hahahaha!",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 14991,
+      "_bytes": 9,
+      "translation": "¡Jajajaja!"
+    },
+    {
+      "index": 141,
+      "english": "We came to help you, Tailmon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15001,
+      "_bytes": 29,
+      "translation": "¡Venimos a ayudarte, Gatomon!"
+    },
+    {
+      "index": 142,
+      "english": "Tai!",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 15031,
+      "_bytes": 7,
+      "translation": "¡Tai!"
+    },
+    {
+      "index": 143,
+      "english": "What a privilege it is, to see you\ncome to me so easily.",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 15039,
+      "_bytes": 56,
+      "translation": "Qué privilegio veros venir\nhasta mí tan fácilmente."
+    },
+    {
+      "index": 144,
+      "english": "Gaaaaaah!",
+      "speaker_id": 2131,
+      "line_type": 2,
+      "_offset": 15096,
+      "_bytes": 9,
+      "translation": "¡Gaaaaaah!"
+    },
+    {
+      "index": 145,
+      "english": "Greymon, evolve!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15106,
+      "_bytes": 16,
+      "translation": "¡Evoluciona!"
+    },
+    {
+      "index": 146,
+      "english": "You think I'll be beaten by such\nchild's play?",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 15123,
+      "_bytes": 46,
+      "translation": "¿Crees que un truco de\nniños me va a derrotar?"
+    },
+    {
+      "index": 147,
+      "english": "Gh!",
+      "speaker_id": 2141,
+      "line_type": 2,
+      "_offset": 15170,
+      "_bytes": 3,
+      "translation": "¡Gh!"
+    },
+    {
+      "index": 148,
+      "english": "The fact that a Chosen Child came\nout here to help you means that \nyou really are the eighth Digimon.",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 15174,
+      "_bytes": 101,
+      "translation": "Que un Niño Elegido haya venido\na ayudarte demuestra que de\nverdad eres el octavo Digimon."
+    },
+    {
+      "index": 149,
+      "english": "...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15276,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 150,
+      "english": "W-what are you talking about? I'm\nnot the eighth Digimon at all.",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 15280,
+      "_bytes": 64,
+      "translation": "¿Q-qué dices? Yo no soy el\noctavo Digimon en absoluto."
+    },
+    {
+      "index": 151,
+      "english": "We'll see about that. I'll use you\nas bait to lure out the eighth\nchild.",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 15345,
+      "_bytes": 72,
+      "translation": "Ya lo veremos. Te usaré de\ncebo para atraer al octavo\nniño."
+    },
+    {
+      "index": 152,
+      "english": "I may not have the Crest anymore,\nbut I'll find the eighth child\nsoon enough...",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 15418,
+      "_bytes": 79,
+      "translation": "Puede que ya no tenga el\nEmblema, pero encontraré\nal octavo niño muy pronto..."
+    },
+    {
+      "index": 153,
+      "english": "That's cheap, Myotismon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15498,
+      "_bytes": 23,
+      "translation": "¡Qué ruin, Myotismon!"
+    },
+    {
+      "index": 154,
+      "english": "Farewell for now...",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 15522,
+      "_bytes": 19,
+      "translation": "Adiós por ahora..."
+    },
+    {
+      "index": 155,
+      "english": "Wait...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15542,
+      "_bytes": 7,
+      "translation": "¡Espera!"
+    },
+    {
+      "index": 156,
+      "english": "Muahahahahaha...",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 15550,
+      "_bytes": 16,
+      "translation": "Muajajajaja..."
+    },
+    {
+      "index": 157,
+      "english": "Tailmon... You'll come back,\nright? You'll come back...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 15567,
+      "_bytes": 55,
+      "translation": "Gatomon...volverás,\n¿verdad? Volverás..."
+    },
+    {
+      "index": 158,
       "english": "Tailmoooooooooooon!",
-      "_offset": 3428,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Tailmoooooooon!"
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 15623,
+      "_bytes": 19,
+      "translation": "¡Gatomoooooooon!"
     }
   ]
 }

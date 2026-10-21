@@ -1,662 +1,764 @@
 {
   "file_id": "3581",
-  "text_count": 82,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 84,
   "dialog": [
     {
       "index": 0,
-      "english": "��������Kari... Kari...",
-      "_offset": 3675,
-      "_length": 27,
-      "speaker_id": 0,
+      "english": "Kari... Kari...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9400,
+      "_bytes": 19,
       "translation": "Kari... Kari..."
     },
     {
       "index": 1,
       "english": "*pant, pant*",
-      "_offset": 3703,
-      "_length": 12,
-      "speaker_id": 0,
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9420,
+      "_bytes": 12,
       "translation": "(jadeando)"
     },
     {
       "index": 2,
       "english": "Come on, Agumon! We're gonna leave\nyou behind if you keep this up!",
-      "_offset": 3716,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Vamos, Agumon! Como sigas así,\nte vamos a dejar atrás!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9433,
+      "_bytes": 66,
+      "translation": "¡Vamos, Agumon! ¡Como sigas así,\nte vamos a dejar atrás!"
     },
     {
       "index": 3,
       "english": "Sorry, Tai...",
-      "_offset": 3783,
-      "_length": 16,
-      "speaker_id": 0,
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9500,
+      "_bytes": 16,
       "translation": "Perdona, Tai..."
     },
     {
       "index": 4,
       "english": "I can't take it anymore...",
-      "_offset": 3800,
-      "_length": 26,
-      "speaker_id": 0,
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9517,
+      "_bytes": 26,
       "translation": "Ya no puedo más..."
     },
     {
       "index": 5,
       "english": "I can't do any more walkin'...",
-      "_offset": 3827,
-      "_length": 30,
-      "speaker_id": 0,
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 9544,
+      "_bytes": 30,
       "translation": "No puedo andar más..."
     },
     {
       "index": 6,
       "english": "Kari! Where are you...?",
-      "_offset": 3858,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Kari! Dónde estás...?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9575,
+      "_bytes": 25,
+      "translation": "¡Kari! ¿Dónde estás...?"
     },
     {
       "index": 7,
       "english": "Tai, Agumon and Tentomon are\ntired. Why don't we rest for a\nlittle while?",
-      "_offset": 3884,
-      "_length": 76,
-      "speaker_id": 0,
-      "translation": "Tai, Agumon y Tentomon están\ncansados. Por qué no descansamos\nun rato?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 9601,
+      "_bytes": 76,
+      "translation": "Tai, Agumon y Tentomon están\ncansados. ¿Por qué no descansamos\nun rato?"
     },
     {
       "index": 8,
       "english": "Kari...",
-      "_offset": 3961,
-      "_length": 9,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9678,
+      "_bytes": 9,
       "translation": "Kari..."
     },
     {
       "index": 9,
       "english": "The truth is, I'm tired, as well.",
-      "_offset": 3971,
-      "_length": 33,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 9688,
+      "_bytes": 33,
       "translation": "Yo también estoy cansado."
     },
     {
       "index": 10,
       "english": "Kari! Where are you?",
-      "_offset": 4005,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Kari! Dónde estás?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9722,
+      "_bytes": 22,
+      "translation": "¡Kari! ¿Dónde estás?"
     },
     {
       "index": 11,
       "english": "Tai! Please calm down! I'm sure\nyou're tired, too...",
-      "_offset": 4028,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Tai! Cálmate! Seguro que tú\ntambién estás cansado..."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 9745,
+      "_bytes": 55,
+      "translation": "¡Tai! ¡Cálmate! Seguro que tú\ntambién estás cansado..."
     },
     {
       "index": 12,
       "english": "K-Izzy...",
-      "_offset": 4084,
-      "_length": 14,
-      "speaker_id": 0,
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 9801,
+      "_bytes": 14,
       "translation": "I-Izzy..."
     },
     {
       "index": 13,
       "english": "Kari is sick right now!",
-      "_offset": 4099,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Kari está enferma ahora!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9816,
+      "_bytes": 25,
+      "translation": "¡Kari está enferma ahora!"
     },
     {
       "index": 14,
       "english": "How obstinate...",
-      "_offset": 4125,
-      "_length": 16,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 9842,
+      "_bytes": 16,
       "translation": "Qué terco..."
     },
     {
       "index": 15,
       "english": "How obstinate...",
-      "_offset": 4142,
-      "_length": 16,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 9859,
+      "_bytes": 16,
       "translation": "Qué terco..."
     },
     {
       "index": 16,
       "english": "What did you just say?!",
-      "_offset": 4159,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Qué acabas de decir?!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9876,
+      "_bytes": 23,
+      "translation": "¡¿Qué acabas de decir?!"
     },
     {
       "index": 17,
       "english": "Guys, this really isn't the time\nto be fighting...",
-      "_offset": 4183,
-      "_length": 50,
-      "speaker_id": 0,
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9900,
+      "_bytes": 50,
       "translation": "Chicos, no es momento de\npeleas..."
     },
     {
       "index": 18,
       "english": "Hey, you both need to calm down!",
-      "_offset": 4234,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Eh, los dos calmaos ya!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 9951,
+      "_bytes": 32,
+      "translation": "¡Eh, los dos calmaos ya!"
     },
     {
       "index": 19,
       "english": "Izzy...",
-      "_offset": 4267,
-      "_length": 12,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9984,
+      "_bytes": 12,
       "translation": "Izzy..."
     },
     {
       "index": 20,
       "english": "We're being followed.",
-      "_offset": 4280,
-      "_length": 21,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9997,
+      "_bytes": 21,
       "translation": "Nos están siguiendo."
     },
     {
       "index": 21,
       "english": "What...?",
-      "_offset": 4302,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Qué...?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 10019,
+      "_bytes": 8,
+      "translation": "¿Qué...?"
     },
     {
       "index": 22,
       "english": "Keep pretending we're fighting, \nand once we get to that corner, \nAgumon and Tentomon can attack.",
-      "_offset": 4311,
-      "_length": 97,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10028,
+      "_bytes": 97,
       "translation": "Seguid fingiendo pelea, y en\ncuanto lleguemos a la esquina,\nAgumon y Tentomon atacarán."
     },
     {
       "index": 23,
       "english": "Got a problem? Then spit it out!",
-      "_offset": 4409,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Problema? Pues suéltalo!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10126,
+      "_bytes": 32,
+      "translation": "¿Problema? ¡Pues suéltalo!"
     },
     {
       "index": 24,
       "english": "You can't keep doing things the\nway *you* want to do them!",
-      "_offset": 4442,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "No puedes hacer las cosas\nsiempre a TU manera!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 10159,
+      "_bytes": 58,
+      "translation": "¡No puedes hacer las cosas\nsiempre a TU manera!"
     },
     {
       "index": 25,
       "english": "Think it's one of Mugendramon's\nsubordinates?",
-      "_offset": 4501,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Será uno de los subordinados\nde Machinedramon?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 10218,
+      "_bytes": 45,
+      "translation": "¿Será uno de los subordinados\nde Machinedramon?"
     },
     {
       "index": 26,
       "english": "Maybe.",
-      "_offset": 4547,
-      "_length": 6,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10264,
+      "_bytes": 6,
       "translation": "Quizá."
     },
     {
       "index": 27,
       "english": "Tai!",
-      "_offset": 4554,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Tai!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 10271,
+      "_bytes": 7,
+      "translation": "¡Tai!"
     },
     {
       "index": 28,
       "english": "Here they come!",
-      "_offset": 4562,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Ya vienen!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 10279,
+      "_bytes": 15,
+      "translation": "¡Ya vienen!"
     },
     {
       "index": 29,
-      "english": "Andromon!?",
-      "_offset": 4581,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Andromon!?"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 10295,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 30,
-      "english": "I did not expect to find you here.",
-      "_offset": 4592,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "No esperaba encontraros aquí."
+      "english": "Andromon!?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10298,
+      "_bytes": 10,
+      "translation": "¿¡Andromon!?"
     },
     {
       "index": 31,
-      "english": "We could say the same for you!",
-      "_offset": 4627,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Lo mismo digo de ti!"
+      "english": "I did not expect to find you here.",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 10309,
+      "_bytes": 34,
+      "translation": "No esperaba encontraros aquí."
     },
     {
       "index": 32,
-      "english": "Indeed. What are you doing here,\nAndromon?",
-      "_offset": 4658,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Cierto. Qué haces aquí,\nAndromon?"
+      "english": "We could say the same for you!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10344,
+      "_bytes": 30,
+      "translation": "¡Lo mismo digo de ti!"
     },
     {
       "index": 33,
-      "english": "I'm here to liberate the towns\nfrom Mugendramon's tyranny.",
-      "_offset": 4701,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Vengo a liberar los pueblos\nde la tiranía de Machinedramon."
+      "english": "Indeed. What are you doing here,\nAndromon?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 10375,
+      "_bytes": 42,
+      "translation": "Cierto. ¿Qué haces aquí,\nAndromon?"
     },
     {
       "index": 34,
-      "english": "The resistance has commanded me to\ninflitrate the underground.",
-      "_offset": 4760,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "La resistencia me ha ordenado\ninfiltrarme en el subsuelo."
+      "english": "I'm here to liberate the towns\nfrom Mugendramon's tyranny.",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 10418,
+      "_bytes": 58,
+      "translation": "Vengo a liberar los pueblos\nde la tiranía de Machinedramon."
     },
     {
       "index": 35,
-      "english": "We're looking for a girl named\nKari.",
-      "_offset": 4823,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Buscamos a una chica llamada\nKari."
+      "english": "The resistance has commanded me to\ninflitrate the underground.",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 10477,
+      "_bytes": 62,
+      "translation": "La resistencia me ha ordenado\ninfiltrarme en el subsuelo."
     },
     {
       "index": 36,
-      "english": "We think she's with Sora and\nT.K, but...",
-      "_offset": 4862,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Creemos que está con Sora\ny T.K., pero..."
+      "english": "We're looking for a girl named\nKari.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10540,
+      "_bytes": 38,
+      "translation": "Buscamos a una chica llamada\nKari."
     },
     {
       "index": 37,
-      "english": "I see. We shall look for them\ntogether, then.",
-      "_offset": 4906,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Ya veo. Los buscaremos\njuntos, entonces."
+      "english": "We think she's with Sora and\nT.K, but...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 10579,
+      "_bytes": 43,
+      "translation": "Creemos que está con Sora\ny T.K., pero..."
     },
     {
       "index": 38,
-      "english": "What's wrong, Andromon?",
-      "_offset": 4955,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Qué pasa, Andromon?"
+      "english": "I see. We shall look for them\ntogether, then.",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 10623,
+      "_bytes": 45,
+      "translation": "Ya veo. Los buscaremos\njuntos, entonces."
     },
     {
       "index": 39,
-      "english": "Someone's coming!",
-      "_offset": 4979,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Viene alguien!"
+      "english": "!!",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 10669,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 40,
-      "english": "Is it Kari?!",
-      "_offset": 4997,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Es Kari?!"
+      "english": "What's wrong, Andromon?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10672,
+      "_bytes": 23,
+      "translation": "¿Qué pasa, Andromon?"
     },
     {
       "index": 41,
-      "english": "Are they really coming?",
-      "_offset": 5012,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "De verdad vienen?"
+      "english": "Someone's coming!",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 10696,
+      "_bytes": 17,
+      "translation": "¡Viene alguien!"
     },
     {
       "index": 42,
-      "english": "So you were here, Chosen Children!",
-      "_offset": 5036,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Así que estáis aquí\nNiños Elegidos!"
+      "english": "Is it Kari?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10714,
+      "_bytes": 14,
+      "translation": "¡¿Es Kari?!"
     },
     {
       "index": 43,
-      "english": "Mugendramon!",
-      "_offset": 5071,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Machinedra!"
+      "english": "Are they really coming?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 10729,
+      "_bytes": 23,
+      "translation": "¿De verdad vienen?"
     },
     {
       "index": 44,
-      "english": "And Andromon, as well... good, I\ncan kill two birds with one stone.",
-      "_offset": 5084,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Y Andromon también... bien, mato\ndos pájaros de un tiro."
+      "english": "So you were here, Chosen Children!",
+      "speaker_id": 3071,
+      "line_type": 2,
+      "_offset": 10753,
+      "_bytes": 34,
+      "translation": "¡Estáis aquí, Niños Elegidos!"
     },
     {
       "index": 45,
-      "english": "Hide yourselves!",
-      "_offset": 5152,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Escondeos!"
+      "english": "Mugendramon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10788,
+      "_bytes": 12,
+      "translation": "¡Machinedramon!"
     },
     {
       "index": 46,
-      "english": "Andromon!",
-      "_offset": 5169,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Andromon!"
+      "english": "And Andromon, as well... good, I\ncan kill two birds with one stone.",
+      "speaker_id": 3071,
+      "line_type": 2,
+      "_offset": 10801,
+      "_bytes": 67,
+      "translation": "Y Andromon también... bien, mato\ndos pájaros de un tiro."
     },
     {
       "index": 47,
-      "english": "Tai, we have to use this chance\nto look for Kari!",
-      "_offset": 5179,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Tai, hay que aprovechar\npara buscar a Kari!"
+      "english": "Hide yourselves!",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 10869,
+      "_bytes": 16,
+      "translation": "¡Escondeos!"
     },
     {
       "index": 48,
-      "english": "R-Right...",
-      "_offset": 5234,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "V-Vale..."
+      "english": "Andromon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10886,
+      "_bytes": 9,
+      "translation": "¡Andromon!"
     },
     {
       "index": 49,
-      "english": "Tai!",
-      "_offset": 5245,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Tai!"
+      "english": "Tai, we have to use this chance\nto look for Kari!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 10896,
+      "_bytes": 54,
+      "translation": "Tai, ¡hay que aprovechar\npara buscar a Kari!"
     },
     {
       "index": 50,
-      "english": "Kari!",
-      "_offset": 5253,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Kari!"
+      "english": "R-Right...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10951,
+      "_bytes": 10,
+      "translation": "V-Vale..."
     },
     {
       "index": 51,
-      "english": "Sora! T.K!",
-      "_offset": 5261,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Sora! T.K!"
+      "english": "Tai!",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10962,
+      "_bytes": 7,
+      "translation": "¡Tai!"
     },
     {
       "index": 52,
-      "english": "Glad you're doing okay, guys!\nWhat's going on?",
-      "_offset": 5275,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Me alegro de que estéis bien!\nQué ha pasado?"
+      "english": "Kari!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10970,
+      "_bytes": 7,
+      "translation": "¡Kari!"
     },
     {
       "index": 53,
-      "english": "Andromon protected us, and now\nhe's fighting Mugendramon!",
-      "_offset": 5322,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Andromon nos protegió y ahora\nlucha contra Machinedramon!"
+      "english": "Sora! T.K!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 10978,
+      "_bytes": 13,
+      "translation": "¡Sora! ¡T.K.!"
     },
     {
       "index": 54,
-      "english": "What?!",
-      "_offset": 5380,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Qué?!"
+      "english": "Glad you're doing okay, guys!\nWhat's going on?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 10992,
+      "_bytes": 46,
+      "translation": "¡Me alegro de que estéis bien!\n¿Qué ha pasado?"
     },
     {
       "index": 55,
-      "english": "Really?!",
-      "_offset": 5387,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Verdad?!"
+      "english": "Andromon protected us, and now\nhe's fighting Mugendramon!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 11039,
+      "_bytes": 57,
+      "translation": "¡Andromon nos protegió y ahora\nlucha contra Machinedramon!"
     },
     {
       "index": 56,
-      "english": "We wouldn't have been able to meet\nup like this if it weren't for\nhim! So we need to help him, now!",
-      "_offset": 5396,
-      "_length": 99,
-      "speaker_id": 0,
-      "translation": "Si no fuera por él, no nos\nhabríamos podido reunir así!\nHay que ayudarlo ya!"
+      "english": "What?!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 11097,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
     },
     {
       "index": 57,
-      "english": "Yeah!",
-      "_offset": 5496,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí!"
+      "english": "Really?!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11104,
+      "_bytes": 8,
+      "translation": "¡¿En serio?!"
     },
     {
       "index": 58,
-      "english": "Andromon!",
-      "_offset": 5502,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Andromon!"
+      "english": "We wouldn't have been able to meet\nup like this if it weren't for\nhim! So we need to help him, now!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11113,
+      "_bytes": 99,
+      "translation": "¡Si no fuera por él, no nos\nhabríamos podido reunir así!\n¡Hay que ayudarlo ya!"
     },
     {
       "index": 59,
-      "english": "You're persistent... but now, it's\nyour turn.",
-      "_offset": 5512,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Eres persistente... pero ahora\nte toca a ti."
+      "english": "Yeah!",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11213,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     },
     {
       "index": 60,
-      "english": "Kari?",
-      "_offset": 5558,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Kari?"
+      "english": "Andromon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11219,
+      "_bytes": 9,
+      "translation": "¡Andromon!"
     },
     {
       "index": 61,
-      "english": "Kari?",
-      "_offset": 5566,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Kari?"
+      "english": "You're persistent... but now, it's\nyour turn.",
+      "speaker_id": 3071,
+      "line_type": 2,
+      "_offset": 11229,
+      "_bytes": 45,
+      "translation": "Eres persistente... pero ahora\nte toca a ti."
     },
     {
       "index": 62,
-      "english": "Nuuuuu!",
-      "_offset": 5574,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Nuuuuu!"
+      "english": "Kari?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11275,
+      "_bytes": 7,
+      "translation": "¿Kari?"
     },
     {
       "index": 63,
-      "english": "It's the Numemon...",
-      "_offset": 5582,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Son los Numemon..."
+      "english": "Kari?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11283,
+      "_bytes": 7,
+      "translation": "¿Kari?"
     },
     {
       "index": 64,
-      "english": "Do you really think that's enough\nto take me down?",
-      "_offset": 5602,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "De verdad creéis que con eso\nme derrotáis?"
+      "english": "Nuuuuu!",
+      "speaker_id": 4032,
+      "line_type": 2,
+      "_offset": 11291,
+      "_bytes": 7,
+      "translation": "¡Nuuuuu!"
     },
     {
       "index": 65,
-      "english": "Nu!",
-      "_offset": 5653,
-      "_length": 3,
-      "speaker_id": 0,
-      "translation": "Nu!"
+      "english": "It's the Numemon...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11299,
+      "_bytes": 19,
+      "translation": "Son los Numemon..."
     },
     {
       "index": 66,
-      "english": "Numemon!",
-      "_offset": 5657,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Numemon!"
+      "english": "Do you really think that's enough\nto take me down?",
+      "speaker_id": 3071,
+      "line_type": 2,
+      "_offset": 11319,
+      "_bytes": 50,
+      "translation": "¿De verdad creéis que con eso\nme derrotáis?"
     },
     {
       "index": 67,
-      "english": "Kari!",
-      "_offset": 5666,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Kari!"
+      "english": "Nu!",
+      "speaker_id": 4032,
+      "line_type": 2,
+      "_offset": 11370,
+      "_bytes": 3,
+      "translation": "¡Nu!"
     },
     {
       "index": 68,
-      "english": "Huh? There's power... coming from\nmy body...",
-      "_offset": 5674,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Eh? Hay un poder... saliendo\nde mi cuerpo..."
+      "english": "Numemon!",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11374,
+      "_bytes": 8,
+      "translation": "¡Numemon!"
     },
     {
       "index": 69,
-      "english": "Gaaaaaaah!",
-      "_offset": 5719,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Gaaaaaaah!"
+      "english": "Kari!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11383,
+      "_bytes": 7,
+      "translation": "¡Kari!"
     },
     {
       "index": 70,
-      "english": "Guhhhhhh!",
-      "_offset": 5730,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Guhhhhhh!"
+      "english": "Huh? There's power... coming from\nmy body...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 11391,
+      "_bytes": 44,
+      "translation": "¿Eh? Hay un poder... saliendo\nde mi cuerpo..."
     },
     {
       "index": 71,
-      "english": "Mugendramon, the ruler of the \ncity, has been defeated. With his \ndefeat, this place will crumble.",
-      "_offset": 5740,
-      "_length": 98,
-      "speaker_id": 0,
-      "translation": "Machinedramon, el gobernante\nde la ciudad, ha sido derrotado.\nCon esto, el lugar caerá."
+      "english": "Gaaaaaaah!",
+      "speaker_id": 2151,
+      "line_type": 2,
+      "_offset": 11436,
+      "_bytes": 10,
+      "translation": "¡Gaaaaaaah!"
     },
     {
       "index": 72,
-      "english": "It's dangerous to remain here.\nLet's return to the surface!",
-      "_offset": 5839,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Es peligroso quedarse aquí.\nVolvamos a la superficie!"
+      "english": "Guhhhhhh!",
+      "speaker_id": 3071,
+      "line_type": 2,
+      "_offset": 11447,
+      "_bytes": 9,
+      "translation": "¡Guhhhhhh!"
     },
     {
       "index": 73,
-      "english": "Okay! Let's go!",
-      "_offset": 5899,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Vale! Vamos!"
+      "english": "Mugendramon, the ruler of the \ncity, has been defeated. With his \ndefeat, this place will crumble.",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 11457,
+      "_bytes": 98,
+      "translation": "Machinedramon, el gobernante\nde la ciudad, ha sido derrotado.\nCon esto, el lugar caerá."
     },
     {
       "index": 74,
-      "english": "The fight has finally ended...",
-      "_offset": 5915,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Por fin acabó la pelea..."
+      "english": "It's dangerous to remain here.\nLet's return to the surface!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 11556,
+      "_bytes": 59,
+      "translation": "Es peligroso quedarse aquí.\n¡Volvamos a la superficie!"
     },
     {
       "index": 75,
-      "english": "Tai... can I make some graves\nfor the Numemon?",
-      "_offset": 5946,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Tai... puedo hacerles tumbas\na los Numemon?"
+      "english": "Okay! Let's go!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11616,
+      "_bytes": 15,
+      "translation": "¡Vale! ¡Vamos!"
     },
     {
       "index": 76,
-      "english": "Of course.",
-      "_offset": 5996,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Claro."
+      "english": "The fight has finally ended...",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 11632,
+      "_bytes": 30,
+      "translation": "Por fin acabó la pelea..."
     },
     {
       "index": 77,
-      "english": "I'll help, too!",
-      "_offset": 6007,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "También ayudo!"
+      "english": "Tai... can I make some graves\nfor the Numemon?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11663,
+      "_bytes": 49,
+      "translation": "Tai... ¿puedo hacerles tumbas\na los Numemon?"
     },
     {
       "index": 78,
-      "english": "All right, you just wait, Piemon!",
-      "_offset": 6023,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Muy bien, espera y verás Piedmon!"
+      "english": "Of course.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11713,
+      "_bytes": 10,
+      "translation": "Claro."
     },
     {
       "index": 79,
-      "english": "We have to find Kari...",
-      "_offset": 6057,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Hay que hallar a Kari..."
+      "english": "I'll help, too!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11724,
+      "_bytes": 15,
+      "translation": "¡Yo también ayudo!"
     },
     {
       "index": 80,
-      "english": "Tai! We have to find Kari,\nwhile we still can!",
-      "_offset": 6083,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Tai! Hay que encontrar a Kari\nmientras podamos!"
+      "english": "All right, you just wait, Piemon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11740,
+      "_bytes": 33,
+      "translation": "¡Bien, espera y verás, Piedmon!"
     },
     {
       "index": 81,
+      "english": "We have to find Kari...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11774,
+      "_bytes": 25,
+      "translation": "Hay que hallar a Kari..."
+    },
+    {
+      "index": 82,
+      "english": "Tai! We have to find Kari,\nwhile we still can!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 11800,
+      "_bytes": 51,
+      "translation": "¡Tai! ¡Hay que encontrar a Kari\nmientras podamos!"
+    },
+    {
+      "index": 83,
       "english": "Let's go back and save Andromon!",
-      "_offset": 6135,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Volvamos a salvar a Andromon!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 11852,
+      "_bytes": 32,
+      "translation": "¡Volvamos a salvar a Andromon!"
     }
   ]
 }

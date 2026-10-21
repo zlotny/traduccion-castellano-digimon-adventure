@@ -176,8 +176,8 @@
 | **Susumu Yagami** | Padre de Tai y Kari |
 | **Yuuko Yagami** | Madre de Tai y Kari |
 | **Hiroaki Ishida** | Padre de Matt y T.K. (divorciado) |
-| **Nancy Takaishi** | Madre de Matt y T.K. (divorciada) |
+| **Natsuko Takaishi** | Madre de Matt y T.K. (divorciada) |
 | **Toshiko Takenouchi** | Madre de Sora |
-| **Jim Kido** | Hermano mayor de Joe |
+| **Shin Kido** | Hermano mayor de Joe |
 | **Masami Izumi** | Padre adoptivo de Izzy |
 | **Yoshie Izumi** | Madre adoptiva de Izzy |

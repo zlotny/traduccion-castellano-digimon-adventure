@@ -1,1190 +1,1403 @@
 {
   "file_id": "3527",
-  "text_count": 148,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 155,
   "dialog": [
     {
       "index": 0,
-      "english": "? You're spacing\nout.",
-      "_offset": 0,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Te estás distanciando"
+      "english": "Joe, what's wrong? You're spacing\nout.",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 12552,
+      "_bytes": 38,
+      "translation": "¿Qué te pasa, Joe? Estás en\nlas nubes."
     },
     {
       "index": 1,
       "english": "It's nothing. I was thinking about\nall the things that happened to us\nsince we came here.",
-      "_offset": 22,
-      "_length": 89,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 12591,
+      "_bytes": 89,
       "translation": "No es nada. Pensaba en todo lo\nque nos ha ocurrido desde que\nllegamos."
     },
     {
       "index": 2,
       "english": "Yeah, yeah, a lot of things\nhappened!",
-      "_offset": 112,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Si, si, pasaron un montón\nde cosas!"
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 12681,
+      "_bytes": 37,
+      "translation": "¡Sí, sí, pasaron un montón\nde cosas!"
     },
     {
       "index": 3,
       "english": "I was just supposed be at camp\nwith everyone...",
-      "_offset": 150,
-      "_length": 47,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 12719,
+      "_bytes": 47,
       "translation": "Se supone que debería estar\nen el campamento..."
     },
     {
       "index": 4,
       "english": "And then we ran into all these\nDigimon, and we're wandering\naround in this strange world...",
-      "_offset": 198,
-      "_length": 91,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 12767,
+      "_bytes": 91,
       "translation": "Y luego todos estos Digimon, y\nvagando en este mundo extraño..."
     },
     {
       "index": 5,
       "english": "Strange world... how rude, Joe!",
-      "_offset": 290,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Extraño... Menudo adjetivo Joe!"
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 12859,
+      "_bytes": 31,
+      "translation": "Extraño... ¡Menudo adjetivo Joe!"
     },
     {
       "index": 6,
       "english": "I-I'm sorry! But there's also\nthose black gears that make\npeaceful Digimon go berserk...",
-      "_offset": 322,
-      "_length": 88,
-      "speaker_id": 0,
-      "translation": "Lo siento! Pero hasta esas ruedas\nnegras que hacen a los Digimon\nvolverse locos..."
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 12891,
+      "_bytes": 88,
+      "translation": "¡Lo siento! Pero también están\nesas ruedas negras que vuelven\nlocos a los Digimon..."
     },
     {
       "index": 7,
       "english": "Yeah, those black gears are scary.",
-      "_offset": 411,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Si, esas ruedas dan mucho miedo."
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 12980,
+      "_bytes": 34,
+      "translation": "Sí, esas ruedas dan mucho miedo."
     },
     {
       "index": 8,
       "english": "But we've pulled through with the\npower of evolution!",
-      "_offset": 446,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Pero las hemos sacado gracias\na la Digievolución!"
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 13015,
+      "_bytes": 53,
+      "translation": "¡Pero hemos salido adelante\ngracias a la digievolución!"
     },
     {
       "index": 9,
       "english": "I guess all we can do is try to\nfind a way back home as soon as\npossible.",
-      "_offset": 500,
-      "_length": 73,
-      "speaker_id": 0,
-      "translation": "Supongo que todo lo que podemos\nhaces es buscar un modo de volver\na casa."
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13069,
+      "_bytes": 73,
+      "translation": "Supongo que todo lo que podemos\nhacer es buscar un modo de volver\na casa."
     },
     {
       "index": 10,
       "english": "You're worrying too much! Joe,\nI'll protect you.",
-      "_offset": 574,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Te preocupas mucho Joe! Yo\nte protegeré!"
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 13143,
+      "_bytes": 48,
+      "translation": "¡Te preocupas mucho Joe! ¡Yo\nte protegeré!"
     },
     {
       "index": 11,
       "english": "Okay...",
-      "_offset": 623,
-      "_length": 7,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13192,
+      "_bytes": 7,
       "translation": "Vale..."
     },
     {
       "index": 12,
       "english": "I-it's cold...",
-      "_offset": 631,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Qué frio..."
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 13200,
+      "_bytes": 14,
+      "translation": "Qué frío..."
     },
     {
       "index": 13,
       "english": "I'm wilting...",
-      "_offset": 646,
-      "_length": 14,
-      "speaker_id": 0,
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 13215,
+      "_bytes": 14,
       "translation": "Me marchito..."
     },
     {
       "index": 14,
       "english": "But the cold's not a bad thing.",
-      "_offset": 661,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "No es malo que haga frio."
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13230,
+      "_bytes": 31,
+      "translation": "No es malo que haga frío."
     },
     {
       "index": 15,
       "english": "Ehhh?!",
-      "_offset": 693,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Ehh?!"
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 13262,
+      "_bytes": 6,
+      "translation": "¡¿Ehh?!"
     },
     {
       "index": 16,
       "english": "Because if it snows, we can have a\nsnowball fight and make snow huts!",
-      "_offset": 700,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Si nieva, podemos hacer peleas\nde bolas de nieve y muñecos!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13269,
+      "_bytes": 69,
+      "translation": "¡Si nieva, podemos hacer peleas\nde bolas de nieve y muñecos!"
     },
     {
       "index": 17,
       "english": "I haven't been in a snowball fight\nin a long time!",
-      "_offset": 770,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "No he tirado bolas de nieve en\naños!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13339,
+      "_bytes": 50,
+      "translation": "¡No he tirado bolas de nieve en\naños!"
     },
     {
       "index": 18,
       "english": "What's that?\nWhat's a \"snowball fight\"?",
-      "_offset": 821,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Qué es eso?\nPelea de bolas de nieve?"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 13390,
+      "_bytes": 39,
+      "translation": "¿Qué es eso?\n¿Pelea de bolas de nieve?"
     },
     {
       "index": 19,
       "english": "It's a game where you fight by\nhitting each other with snowballs.",
-      "_offset": 861,
-      "_length": 65,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13430,
+      "_bytes": 65,
       "translation": "Un juego donde combates tirando a\notros pelotas hechas de nieve."
     },
     {
       "index": 20,
       "english": "Okay, and what are snow huts?",
-      "_offset": 927,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Y los muñecos?"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 13496,
+      "_bytes": 29,
+      "translation": "¿Y los muñecos?"
     },
     {
       "index": 21,
       "english": "I bet it's some kind of food!",
-      "_offset": 957,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Seguro que son para comer!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 13526,
+      "_bytes": 29,
+      "translation": "¡Seguro que son para comer!"
     },
     {
       "index": 22,
-      "english": "Everyone's taking it easy. But if\nthe temperature drops lower, it'll \nbe even harder to set up camp.",
-      "_offset": 991,
-      "_length": 100,
-      "speaker_id": 0,
-      "translation": "Todo el mundo se relaja, pero si\nla temperatura baja más va a ser\ndifícil acampar."
+      "english": "...",
+      "speaker_id": 6081,
+      "line_type": 2,
+      "_offset": 13556,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 23,
-      "english": "And it'll be hard to get food. I'm\nthe one who has to protect\neveryone.",
-      "_offset": 1092,
-      "_length": 71,
-      "speaker_id": 0,
-      "translation": "Y será difícil conseguir comida.\nTengo que protegerles a todos."
+      "english": "Everyone's taking it easy. But if\nthe temperature drops lower, it'll \nbe even harder to set up camp.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13560,
+      "_bytes": 100,
+      "translation": "Todo el mundo se relaja, pero si\nla temperatura baja más va a ser\ndifícil acampar."
     },
     {
       "index": 24,
-      "english": "Because I'm the oldest...",
-      "_offset": 1164,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Por que soy el mayor..."
+      "english": "And it'll be hard to get food. I'm\nthe one who has to protect\neveryone.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13661,
+      "_bytes": 71,
+      "translation": "Y será difícil conseguir comida.\nTengo que protegerlos a todos."
     },
     {
       "index": 25,
-      "english": "So what do we do now?",
-      "_offset": 1193,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Qué hacemos ahora?"
+      "english": "Because I'm the oldest...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13733,
+      "_bytes": 25,
+      "translation": "Porque soy el mayor..."
     },
     {
       "index": 26,
-      "english": "Let's keep going! Nothing's gonna\nhappen if we stay around here\ndoing nothing.",
-      "_offset": 1215,
-      "_length": 78,
-      "speaker_id": 0,
-      "translation": "Sigamos adelante! Parados aquí\nno pintamos nada."
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 13759,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 27,
-      "english": "What? Through these snowfields?",
-      "_offset": 1294,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Qué? Por estos parajes nevados?"
+      "english": "So what do we do now?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 13762,
+      "_bytes": 21,
+      "translation": "¿Qué hacemos ahora?"
     },
     {
       "index": 28,
-      "english": "We can't keep going like this!",
-      "_offset": 1326,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "No podemos seguir así!"
+      "english": "Let's keep going! Nothing's gonna\nhappen if we stay around here\ndoing nothing.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13784,
+      "_bytes": 78,
+      "translation": "¡Sigamos adelante! Parados aquí\nno pintamos nada."
     },
     {
       "index": 29,
-      "english": "But there's a snowfield in front\nof us and a mountain behind us. So\nwe have to keep going somehow!",
-      "_offset": 1357,
-      "_length": 98,
-      "speaker_id": 0,
-      "translation": "Hay paraje nevado delante,\nmontaña detrás. No es que\ntengamos muchas opciones!"
+      "english": "What? Through these snowfields?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13863,
+      "_bytes": 31,
+      "translation": "¿Qué? ¿Por estos parajes nevados?"
     },
     {
       "index": 30,
-      "english": "Hold on a second. I smell\nsomething strange...",
-      "_offset": 1456,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Espera un segundo... huele\nalgo rarao no?"
+      "english": "We can't keep going like this!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13895,
+      "_bytes": 30,
+      "translation": "¡No podemos seguir así!"
     },
     {
       "index": 31,
-      "english": "...Could it be...",
-      "_offset": 1503,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Podría ser..."
+      "english": "But there's a snowfield in front\nof us and a mountain behind us. So\nwe have to keep going somehow!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13926,
+      "_bytes": 98,
+      "translation": "Hay paraje nevado delante,\nmontaña detrás. ¡No es que\ntengamos muchas opciones!"
     },
     {
       "index": 32,
-      "english": "Ah! Over there!",
-      "_offset": 1521,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Ah! Por allí!"
+      "english": "Hold on a second. I smell\nsomething strange...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 14025,
+      "_bytes": 46,
+      "translation": "Espera un segundo... huele\na algo raro, ¿no?"
     },
     {
       "index": 33,
-      "english": "There's smoke that way!",
-      "_offset": 1537,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Hay humo por allí!"
+      "english": "...Could it be...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14072,
+      "_bytes": 17,
+      "translation": "Podría ser..."
     },
     {
       "index": 34,
-      "english": "That's the smell of hot springs!",
-      "_offset": 1561,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Y huele a aguas termales!"
+      "english": "Ah! Over there!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14090,
+      "_bytes": 15,
+      "translation": "¡Ah! ¡Por allí!"
     },
     {
       "index": 35,
-      "english": "It... it's boiling!",
-      "_offset": 1594,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Y... hierve!"
+      "english": "There's smoke that way!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 14106,
+      "_bytes": 23,
+      "translation": "¡Hay humo por allí!"
     },
     {
       "index": 36,
-      "english": "So that means we can't take a\nbath...",
-      "_offset": 1614,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Así no podremos bañarnos..."
+      "english": "That's the smell of hot springs!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14130,
+      "_bytes": 32,
+      "translation": "¡Y huele a aguas termales!"
     },
     {
       "index": 37,
-      "english": "But it's nice and warm here!",
-      "_offset": 1652,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Pero se está calentito aquí!"
+      "english": "It... it's boiling!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14163,
+      "_bytes": 19,
+      "translation": "Y... ¡hierve!"
     },
     {
       "index": 38,
-      "english": "At least it's not cold anymore.",
-      "_offset": 1681,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Por lo menos no hace frío."
+      "english": "So that means we can't take a\nbath...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 14183,
+      "_bytes": 37,
+      "translation": "Así no podremos bañarnos..."
     },
     {
       "index": 39,
-      "english": "How can you be so calm about this?\nWhat are we going to do about\nfood? Food and...",
-      "_offset": 1713,
-      "_length": 82,
-      "speaker_id": 0,
-      "translation": "Como podéis estar tan calmados?\nQué haremos con la comida? Comida\ny..."
+      "english": "But it's nice and warm here!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 14221,
+      "_bytes": 28,
+      "translation": "¡Pero se está calentito aquí!"
     },
     {
       "index": 40,
-      "english": "There's food, look!",
-      "_offset": 1796,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Hay comida, mira!"
+      "english": "At least it's not cold anymore.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14250,
+      "_bytes": 31,
+      "translation": "Por lo menos no hace frío."
     },
     {
       "index": 41,
-      "english": "Why is there a refrigerator in a\nplace like this?!",
-      "_offset": 1819,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Por qué hay una nevera en un\nlugar así?!"
+      "english": "How can you be so calm about this?\nWhat are we going to do about\nfood? Food and...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14282,
+      "_bytes": 82,
+      "translation": "¿Cómo podéis estar tan calmados?\n¿Qué haremos con la comida? Comida\ny..."
     },
     {
       "index": 42,
-      "english": "Ahhh! We're in luck!",
-      "_offset": 1870,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Ah! Qué suerte!"
+      "english": "There's food, look!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 14365,
+      "_bytes": 19,
+      "translation": "¡Hay comida, mira!"
     },
     {
       "index": 43,
-      "english": "This is ridiculous! It's absurd...",
-      "_offset": 1891,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Ridículo! Absurdo!"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 14385,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 44,
-      "english": "Wanna go play in the snow?",
-      "_offset": 1926,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Quieres jugar en la nieve?"
+      "english": "Why is there a refrigerator in a\nplace like this?!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14388,
+      "_bytes": 50,
+      "translation": "¡¿Por qué hay una nevera en un\nlugar así?!"
     },
     {
       "index": 45,
-      "english": "Wait! I can't leave until I find\nout what's in that fridge!",
-      "_offset": 1953,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Para! No puedo irme hasta saber\nque hay en esa nevera!"
+      "english": "Ahhh! We're in luck!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14439,
+      "_bytes": 20,
+      "translation": "¡Ah! ¡Qué suerte!"
     },
     {
       "index": 46,
-      "english": "I wonder what's in there?",
-      "_offset": 2013,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Me pregunto qué habrá?"
+      "english": "This is ridiculous! It's absurd...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14460,
+      "_bytes": 34,
+      "translation": "¡Ridículo! ¡Absurdo!"
     },
     {
       "index": 47,
-      "english": "All right! Let's open it!",
-      "_offset": 2039,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Vale! Vamos a abrirla!"
+      "english": "Wanna go play in the snow?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 14495,
+      "_bytes": 26,
+      "translation": "¿Quieres jugar en la nieve?"
     },
     {
       "index": 48,
-      "english": "Eggs!",
-      "_offset": 2068,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "??!"
+      "english": "Wait! I can't leave until I find\nout what's in that fridge!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14522,
+      "_bytes": 59,
+      "translation": "¡Para! ¡No puedo irme hasta saber\nqué hay en esa nevera!"
     },
     {
       "index": 49,
-      "english": "Looks like this'll be today's\ndinner!",
-      "_offset": 2074,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Parece que hay huevos para cenar!"
+      "english": "I wonder what's in there?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14582,
+      "_bytes": 25,
+      "translation": "Me pregunto qué habrá."
     },
     {
       "index": 50,
-      "english": "Wait a minute! We can't go around\neating other people's food.",
-      "_offset": 2112,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Espera un momento! No podemos\ncomer la comida de otros."
+      "english": "All right! Let's open it!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14608,
+      "_bytes": 25,
+      "translation": "¡Vale! ¡Vamos a abrirla!"
     },
     {
       "index": 51,
-      "english": "Wouldn't that just make us\nburglars?",
-      "_offset": 2174,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "No seríamos ladrones?"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 14634,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 52,
-      "english": "But we don't have much choice.\nWe're all starving.",
-      "_offset": 2211,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Pero no tenemos elección...\nNos morimos de hambre."
+      "english": "Eggs!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 14637,
+      "_bytes": 5,
+      "translation": "¡Huevos!"
     },
     {
       "index": 53,
-      "english": "If we told the owners about the\nsituation, they'd understand.",
-      "_offset": 2262,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Si se lo contásemos a los\npropietarios, lo entenderían."
+      "english": "Looks like this'll be today's\ndinner!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14643,
+      "_bytes": 37,
+      "translation": "¡Parece que hay huevos para cenar!"
     },
     {
       "index": 54,
-      "english": "At any rate, it's an emergency.",
-      "_offset": 2324,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Sea como sea, es una emergencia"
+      "english": "Wait a minute! We can't go around\neating other people's food.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14681,
+      "_bytes": 61,
+      "translation": "¡Espera un momento! No podemos\ncomer la comida de otros."
     },
     {
       "index": 55,
-      "english": "Let's eaaaat!",
-      "_offset": 2360,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "A comer!"
+      "english": "Wouldn't that just make us\nburglars?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14743,
+      "_bytes": 36,
+      "translation": "¿No seríamos ladrones?"
     },
     {
       "index": 56,
-      "english": "Let's eat...",
-      "_offset": 2374,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "A comer..."
+      "english": "But we don't have much choice.\nWe're all starving.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14780,
+      "_bytes": 50,
+      "translation": "Pero no tenemos elección...\nNos morimos de hambre."
     },
     {
       "index": 57,
-      "english": "What's wrong, Joe? Aren't you\ngoing to eat?",
-      "_offset": 2387,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Que pasa Joe? No vas a comer?"
+      "english": "If we told the owners about the\nsituation, they'd understand.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 14831,
+      "_bytes": 61,
+      "translation": "Si se lo contásemos a los\npropietarios, lo entenderían."
     },
     {
       "index": 58,
-      "english": "I was thinking about how we\nwouldn't have to go through all\nthis if we were home.",
-      "_offset": 2431,
-      "_length": 81,
-      "speaker_id": 0,
-      "translation": "Estaba pensando en cómo no\ntendríamos que sufrir así si\nestuviésemos en casa."
+      "english": "At any rate, it's an emergency.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14893,
+      "_bytes": 31,
+      "translation": "Sea como sea, es una emergencia."
     },
     {
       "index": 59,
-      "english": "Hey, everyone! How do you like to\neat your fried eggs?",
-      "_offset": 2517,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Eh chicos! Cómo os gusta comer\nlos huevos fritos?"
+      "english": "...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14925,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 60,
-      "english": "I eat my eggs with salt and\npepper! Is there any other way to\neat them?",
-      "_offset": 2572,
-      "_length": 71,
-      "speaker_id": 0,
-      "translation": "Yo los como con sal y pimienta!\nEs que existe otra manera?"
+      "english": "Let's eaaaat!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 14929,
+      "_bytes": 13,
+      "translation": "¡A comer!"
     },
     {
       "index": 61,
-      "english": "I put soy sauce on mine!",
-      "_offset": 2644,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Yo echo salsa de soja!"
+      "english": "Let's eat...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14943,
+      "_bytes": 12,
+      "translation": "A comer..."
     },
     {
       "index": 62,
-      "english": "Mayonnaise.",
-      "_offset": 2669,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Mayonesa."
+      "english": "What's wrong, Joe? Aren't you\ngoing to eat?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 14956,
+      "_bytes": 43,
+      "translation": "¿Qué pasa Joe? ¿No vas a comer?"
     },
     {
       "index": 63,
-      "english": "Worcestershire sauce for me!",
-      "_offset": 2681,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Yo salsa Worcestershire!"
+      "english": "I was thinking about how we\nwouldn't have to go through all\nthis if we were home.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 15000,
+      "_bytes": 81,
+      "translation": "Estaba pensando en cómo no\ntendríamos que sufrir así si\nestuviésemos en casa."
     },
     {
       "index": 64,
-      "english": "I like it with a little citrus\nsauce.",
-      "_offset": 2710,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Yo con un poco de salsa cítrica."
+      "english": "...",
+      "speaker_id": 6081,
+      "line_type": 2,
+      "_offset": 15082,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 65,
-      "english": "You're all weird! I eat my fried\neggs with sugar! I love putting\nfermented soybeans on it, too!",
-      "_offset": 2748,
-      "_length": 95,
-      "speaker_id": 0,
-      "translation": "Pero qué raros sois! Yo como los\nhuevos con azúcar! Y con \nsoja fermentada, también!"
+      "english": "Hey, everyone! How do you like to\neat your fried eggs?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 15086,
+      "_bytes": 54,
+      "translation": "¡Eh chicos! ¿Cómo os gusta comer\nlos huevos fritos?"
     },
     {
       "index": 66,
-      "english": "Fermented soybeans?!...",
-      "_offset": 2844,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Soja fermentada?!..."
+      "english": "I eat my eggs with salt and\npepper! Is there any other way to\neat them?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 15141,
+      "_bytes": 71,
+      "translation": "¡Yo los como con sal y pimienta!\n¿Es que existe otra manera?"
     },
     {
       "index": 67,
-      "english": "You all put those strange things\non your eggs...?",
-      "_offset": 2868,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Pero que clase de porquería\necháis en los huevos?"
+      "english": "I put soy sauce on mine!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15213,
+      "_bytes": 24,
+      "translation": "¡Yo echo salsa de soja!"
     },
     {
       "index": 68,
-      "english": "You should put salt and pepper on \nyour eggs! Not Worcestershire \nsauce or mayonnaise!",
-      "_offset": 2918,
-      "_length": 86,
-      "speaker_id": 0,
-      "translation": "Los huevos se comen con sal y\npimienta! No mayonesa o\nWorcester-lo-qe-sea!"
+      "english": "Mayonnaise.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15238,
+      "_bytes": 11,
+      "translation": "Mayonesa."
     },
     {
       "index": 69,
-      "english": "Joe, you're so stubborn. Always\nworrying about little things...",
-      "_offset": 3005,
-      "_length": 63,
-      "speaker_id": 0,
-      "translation": "Joe, te empeñas mucho. Siempre\ncon las nimiedades..."
+      "english": "Worcestershire sauce for me!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 15250,
+      "_bytes": 28,
+      "translation": "¡Yo salsa Worcestershire!"
     },
     {
       "index": 70,
-      "english": "What do you mean, I'm stubborn?!",
-      "_offset": 3069,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Como que me empeño?!"
+      "english": "I like it with a little citrus\nsauce.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15279,
+      "_bytes": 37,
+      "translation": "Yo con un poco de salsa cítrica."
     },
     {
       "index": 71,
-      "english": "See, look! You get angry so\nquickly!",
-      "_offset": 3102,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Ves? Si hasta te enfadas\nfácilmente!"
+      "english": "You're all weird! I eat my fried\neggs with sugar! I love putting\nfermented soybeans on it, too!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 15317,
+      "_bytes": 95,
+      "translation": "¡Pero qué raros sois! ¡Yo como los\nhuevos con azúcar! ¡Y con \nsoja fermentada, también!"
     },
     {
       "index": 72,
-      "english": "Hey, Joe! Calm down!",
-      "_offset": 3139,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Eh Joe, cálmate!"
+      "english": "Fermented soybeans?!...",
+      "speaker_id": 6081,
+      "line_type": 2,
+      "_offset": 15413,
+      "_bytes": 23,
+      "translation": "¡¿Soja fermentada?!..."
     },
     {
       "index": 73,
-      "english": "Be quiet! I am being calm! I'm\nalways...",
-      "_offset": 3160,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Calla! Estoy calmado! Estoy\nsiempre..."
+      "english": "You all put those strange things\non your eggs...?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 15437,
+      "_bytes": 49,
+      "translation": "¿Pero qué clase de porquería\necháis en los huevos?"
     },
     {
       "index": 74,
-      "english": "You're not acting normal today.\nAre you tired?",
-      "_offset": 3201,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Estás muy raro hoy... Estás\ncansado?"
+      "english": "You should put salt and pepper on \nyour eggs! Not Worcestershire \nsauce or mayonnaise!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 15487,
+      "_bytes": 86,
+      "translation": "¡Los huevos se comen con sal y\npimienta! ¡No mayonesa o\nWorcester-lo-que-sea!"
     },
     {
       "index": 75,
-      "english": "I'm not tired! All of you are the\nones who aren't normal here!",
-      "_offset": 3248,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "No estoy cansado! Sois vosotros\nlos que estáis raros!"
+      "english": "Joe, you're so stubborn. Always\nworrying about little things...",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 15574,
+      "_bytes": 63,
+      "translation": "Joe, te empeñas mucho. Siempre\ncon las nimiedades..."
     },
     {
       "index": 76,
-      "english": "I've got myself together. I...\nI've got myself together!",
-      "_offset": 3311,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Me calmo, Me calmo... Me calmo!"
+      "english": "What do you mean, I'm stubborn?!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 15638,
+      "_bytes": 32,
+      "translation": "¡¿Cómo que me empeño?!"
     },
     {
       "index": 77,
-      "english": "Honestly, I wish Joe would ease up\na bit. He's always like this...",
-      "_offset": 3368,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Francamente, ojalá Joe se \nrelajase un poco. Está siempre\nasí..."
+      "english": "See, look! You get angry so\nquickly!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 15671,
+      "_bytes": 36,
+      "translation": "¿Ves? ¡Si hasta te enfadas\nfácilmente!"
     },
     {
       "index": 78,
-      "english": "We've got no choice but to go!",
-      "_offset": 3435,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "No tenemos otra opción!"
+      "english": "Hey, Joe! Calm down!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15708,
+      "_bytes": 20,
+      "translation": "¡Eh Joe, cálmate!"
     },
     {
       "index": 79,
-      "english": "No, there's got to be a safer way!",
-      "_offset": 3466,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Tiene que haber un modo seguro!"
+      "english": "Be quiet! I am being calm! I'm\nalways...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 15729,
+      "_bytes": 40,
+      "translation": "¡Calla! ¡Estoy calmado! Estoy\nsiempre..."
     },
     {
       "index": 80,
-      "english": "What's going on? What are they\nfighting about?",
-      "_offset": 3501,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Qué ocurre, por qué se pelean?"
+      "english": "You're not acting normal today.\nAre you tired?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15770,
+      "_bytes": 46,
+      "translation": "Estás muy raro hoy... ¿Estás\ncansado?"
     },
     {
       "index": 81,
-      "english": "They're fighting over whether or\nnot we should go up that mountain \nover there, Monte Mugen.",
-      "_offset": 3548,
-      "_length": 98,
-      "speaker_id": 0,
-      "translation": "Se pelean para decidir si debemos\nir o no allí, el Monte Mugen."
+      "english": "I'm not tired! All of you are the\nones who aren't normal here!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 15817,
+      "_bytes": 62,
+      "translation": "¡No estoy cansado! ¡Sois vosotros\nlos que estáis raros!"
     },
     {
       "index": 82,
-      "english": "If we climb it, we'll get a good\nview of the area! If we chicken\nout, we'll just be stuck here!",
-      "_offset": 3647,
-      "_length": 95,
-      "speaker_id": 0,
-      "translation": "Si subimos, tendremos una buena\nvista de toda la zona! No\nhay que ser gallina!"
+      "english": "I've got myself together. I...\nI've got myself together!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 15880,
+      "_bytes": 56,
+      "translation": "Me calmo, me calmo... ¡Me calmo!"
     },
     {
       "index": 83,
-      "english": "You're just charging in blindly.\nYou're going to put everyone in\ndanger!",
-      "_offset": 3743,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "Vas como pollo sin cabeza. \nPondrás a todo el mundo en\npeligro!"
+      "english": "Honestly, I wish Joe would ease up\na bit. He's always like this...",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 15937,
+      "_bytes": 66,
+      "translation": "Francamente, ojalá Joe se \nrelajase un poco. Está siempre\nasí..."
     },
     {
       "index": 84,
-      "english": "There are a lot of ferocious\nDigimon on that mountain.",
-      "_offset": 3816,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Hay muchos Digimon feroces\nen esa montaña."
+      "english": "We've got no choice but to go!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16004,
+      "_bytes": 30,
+      "translation": "¡No tenemos otra opción!"
     },
     {
       "index": 85,
-      "english": "Joe! Stop them!",
-      "_offset": 3871,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Joe! Páralos!"
+      "english": "No, there's got to be a safer way!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16035,
+      "_bytes": 34,
+      "translation": "¡Tiene que haber un modo seguro!"
     },
     {
       "index": 86,
-      "english": "Both of you! We should calm down\nand talk this over!",
-      "_offset": 3887,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Vostros dos! A calmarse\ny hablar con calma!"
+      "english": "What's going on? What are they\nfighting about?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16070,
+      "_bytes": 46,
+      "translation": "¿Qué ocurre, por qué se pelean?"
     },
     {
       "index": 87,
-      "english": "Then what do you think, Joe?",
-      "_offset": 3940,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Ah si? Y tú que opinas Joe?"
+      "english": "They're fighting over whether or\nnot we should go up that mountain \nover there, Infinity Mountain.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16117,
+      "_bytes": 98,
+      "translation": "Se pelean para decidir si debemos\nir o no allí, el Monte Mugen."
     },
     {
       "index": 88,
-      "english": "Who do you agree with?",
-      "_offset": 3969,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Quién tiene la razón?"
+      "english": "If we climb it, we'll get a good\nview of the area! If we chicken\nout, we'll just be stuck here!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16216,
+      "_bytes": 95,
+      "translation": "¡Si subimos, tendremos una buena\nvista de toda la zona! ¡No\nhay que ser gallina!"
     },
     {
       "index": 89,
-      "english": "(We'll get a good view of the area\nif we go up that mountain, but\nthere are also ferocious Digimon.)",
-      "_offset": 3992,
-      "_length": 100,
-      "speaker_id": 0,
-      "translation": "(Tendríamos una buena vista de la\nzona si subimos, pero tambien hay\nferoces Digimon.)"
+      "english": "You're just charging in blindly.\nYou're going to put everyone in\ndanger!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16312,
+      "_bytes": 72,
+      "translation": "Vas como pollo sin cabeza. \n¡Pondrás a todo el mundo en\npeligro!"
     },
     {
       "index": 90,
-      "english": "Both of you are right",
-      "_offset": 4093,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ambos tenéis razón."
+      "english": "There are a lot of ferocious\nDigimon on that mountain.",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 16385,
+      "_bytes": 54,
+      "translation": "Hay muchos Digimon feroces\nen esa montaña."
     },
     {
       "index": 91,
-      "english": "Tai is right",
-      "_offset": 4115,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Tai tiene razón"
+      "english": "Joe! Stop them!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 16440,
+      "_bytes": 15,
+      "translation": "¡Joe! ¡Páralos!"
     },
     {
       "index": 92,
-      "english": "Matt is right",
-      "_offset": 4131,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Estoy con Matt"
+      "english": "Both of you! We should calm down\nand talk this over!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16456,
+      "_bytes": 52,
+      "translation": "¡Vosotros dos! ¡A calmarse\ny hablar con calma!"
     },
     {
       "index": 93,
-      "english": "Geez, you're unreliable! Anyway,\nwe should go as far as we can!",
-      "_offset": 4151,
-      "_length": 63,
-      "speaker_id": 0,
-      "translation": "Pues vaya ayuda! En fin,\ndeberíamos ir tan lejos como\npodamos!"
+      "english": "Then what do you think, Joe?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16509,
+      "_bytes": 28,
+      "translation": "Ah, ¿sí? ¿Y tú qué opinas?"
     },
     {
       "index": 94,
-      "english": "No we shouldn't!",
-      "_offset": 4215,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "No, no debemos!"
+      "english": "Who do you agree with?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16538,
+      "_bytes": 22,
+      "translation": "¿Quién tiene la razón?"
     },
     {
       "index": 95,
-      "english": "Both of you, listen to me!",
-      "_offset": 4232,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Ambos, escuchadme!"
+      "english": "(We'll get a good view of the area\nif we go up that mountain, but\nthere are also ferocious Digimon.)",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16561,
+      "_bytes": 100,
+      "translation": "(Tendríamos una buena vista de la\nzona si subimos, pero también hay\nferoces Digimon.)"
     },
     {
       "index": 96,
-      "english": "See, look!",
-      "_offset": 4259,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Ves? Mira!"
+      "english": "Both of you are right",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16662,
+      "_bytes": 21,
+      "translation": "Ambos tenéis razón."
     },
     {
       "index": 97,
-      "english": "I'm just trying to think about\neveryone's safety!",
-      "_offset": 4270,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Sólo intento pensar en la\nseguridad de todos!"
+      "english": "Tai is right",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16684,
+      "_bytes": 15,
+      "translation": "Tai tiene razón"
     },
     {
       "index": 98,
-      "english": "Give it up, Tai.",
-      "_offset": 4320,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Déjalo, Tai."
+      "english": "Matt is right",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16700,
+      "_bytes": 15,
+      "translation": "Estoy con Matt"
     },
     {
       "index": 99,
-      "english": "So what are we going to do now?!",
-      "_offset": 4340,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Entonces qué hacemos ahora?!"
+      "english": "...",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 16716,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 100,
-      "english": "Stop! That's enough, the three of\nyou!",
-      "_offset": 4373,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Parad! Se acabó, los tres!"
+      "english": "Geez, you're unreliable! Anyway,\nwe should go as far as we can!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16720,
+      "_bytes": 63,
+      "translation": "¡Pues vaya ayuda! ¡En fin,\ndeberíamos ir tan lejos como\npodamos!"
     },
     {
       "index": 101,
-      "english": "It's getting late, so we'll figure\nthis out tomorrow!",
-      "_offset": 4412,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Se hace tarde, lo decidiremos\nmañana!"
+      "english": "No we shouldn't!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16784,
+      "_bytes": 16,
+      "translation": "¡No, no debemos!"
     },
     {
       "index": 102,
-      "english": "All right, let's go to bed!",
-      "_offset": 4466,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Vale, vayamos a la cama!"
+      "english": "Both of you, listen to me!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16801,
+      "_bytes": 26,
+      "translation": "¡Ambos, escuchadme!"
     },
     {
       "index": 103,
-      "english": "Okay. Nobody's awake...",
-      "_offset": 4494,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Vale... duermen..."
+      "english": "See, look!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16828,
+      "_bytes": 10,
+      "translation": "¿Ves? ¡Mira!"
     },
     {
       "index": 104,
-      "english": "If I climb Monte Mugen, I\ncan figure out what we should do.",
-      "_offset": 4518,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Si subo al Monte Mugen, podré\ndecidir qué debemos hacer."
+      "english": "I'm just trying to think about\neveryone's safety!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16839,
+      "_bytes": 49,
+      "translation": "¡Sólo intento pensar en la\nseguridad de todos!"
     },
     {
       "index": 105,
-      "english": "I... I have to keep myself\ntogether!",
-      "_offset": 4584,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "N... no puedo desmoronarme!"
+      "english": "Give it up, Tai.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16889,
+      "_bytes": 19,
+      "translation": "Déjalo, Tai."
     },
     {
       "index": 106,
-      "english": "You can do anything as long as you\nhave fighting spirit, right?",
-      "_offset": 4621,
-      "_length": 63,
-      "speaker_id": 0,
-      "translation": "Haces lo que te propongas siempre\ny cuándo tengas espiritu, no?"
+      "english": "So what are we going to do now?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16909,
+      "_bytes": 32,
+      "translation": "¡¿Entonces qué hacemos ahora?!"
     },
     {
       "index": 107,
-      "english": "Tai, we're going to end up like\nboiled octopus at this rate!",
-      "_offset": 4685,
-      "_length": 63,
-      "speaker_id": 0,
-      "translation": "Tai, vamos a parecer pulpo cocido\nsi seguimos así!"
+      "english": "Stop! That's enough, the three of\nyou!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16942,
+      "_bytes": 38,
+      "translation": "¡Parad! ¡Se acabó, los tres!"
     },
     {
       "index": 108,
-      "english": "It really is boiling. I'm\ndisappointed.",
-      "_offset": 4749,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Sí que hierve... que pena."
+      "english": "It's getting late, so we'll figure\nthis out tomorrow!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 16981,
+      "_bytes": 53,
+      "translation": "¡Se hace tarde, lo decidiremos\nmañana!"
     },
     {
       "index": 109,
-      "english": "But we shouldn't be wasting time\nin hot springs now anyway.",
-      "_offset": 4789,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "No deberíamos perder el tiempo\nen aguas termales."
+      "english": "All right, let's go to bed!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17035,
+      "_bytes": 27,
+      "translation": "¡Vale, vayamos a la cama!"
     },
     {
       "index": 110,
-      "english": "You're right, but I'm still\ndisappointed.",
-      "_offset": 4849,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Cierto, pero aún así es una pena."
+      "english": "Okay. Nobody's awake...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 17063,
+      "_bytes": 23,
+      "translation": "Vale... duermen..."
     },
     {
       "index": 111,
-      "english": "Let's talk about camp.",
-      "_offset": 4891,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Hablemos de acampar."
+      "english": "If I climb Infinity Mountain, I\ncan figure out what we should do.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 17087,
+      "_bytes": 65,
+      "translation": "Si subo al Monte Mugen, podré\ndecidir qué debemos hacer."
     },
     {
       "index": 112,
-      "english": "Let's talk about camp.",
-      "_offset": 4914,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Hablemos de acampar."
+      "english": "I... I have to keep myself\ntogether!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 17153,
+      "_bytes": 36,
+      "translation": "¡N... no puedo desmoronarme!"
     },
     {
       "index": 113,
-      "english": "Let's talk about camp.",
-      "_offset": 4937,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Hablemos de acampar."
+      "english": "You can do anything as long as you\nhave fighting spirit, right?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17190,
+      "_bytes": 63,
+      "translation": "Haces lo que te propongas siempre\ny cuando tengas espíritu, ¿no?"
     },
     {
       "index": 114,
-      "english": "Let's talk about camp.",
-      "_offset": 4960,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Hablemos de acampar."
+      "english": "Tai, we're going to end up like\nboiled octopus at this rate!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 17254,
+      "_bytes": 63,
+      "translation": "Tai, ¡vamos a parecer pulpo cocido\nsi seguimos así!"
     },
     {
       "index": 115,
-      "english": "Joe, what would you associate with\nhot springs?",
-      "_offset": 4983,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Joe, qué te viene en mente con\nel agua termal?"
+      "english": "It really is boiling. I'm\ndisappointed.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 17318,
+      "_bytes": 39,
+      "translation": "Sí que hierve... qué pena."
     },
     {
       "index": 116,
-      "english": "I'd say hot spring boiled eggs!",
-      "_offset": 5031,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Diría que huevos cocidos!"
+      "english": "But we shouldn't be wasting time\nin hot springs now anyway.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 17358,
+      "_bytes": 59,
+      "translation": "No deberíamos perder el tiempo\nen aguas termales."
     },
     {
       "index": 117,
-      "english": "I'd say hot spring steamed buns!",
-      "_offset": 5063,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Diría que bollos al vapor!"
+      "english": "You're right, but I'm still\ndisappointed.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 17418,
+      "_bytes": 41,
+      "translation": "Cierto, pero aun así es una pena."
     },
     {
       "index": 118,
-      "english": "Really...? I don't really like\nsoft-boiled eggs.",
-      "_offset": 5096,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Si? No me gustan mucho los\nhuevos cocidos."
+      "english": "Let's talk about camp.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17460,
+      "_bytes": 22,
+      "translation": "Hablemos de acampar."
     },
     {
       "index": 119,
-      "english": "Ah. Really?",
-      "_offset": 5145,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Ah. No?"
+      "english": "Let's talk about camp.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17483,
+      "_bytes": 22,
+      "translation": "Hablemos de acampar."
     },
     {
       "index": 120,
-      "english": "I would as well!\nI would definitely say the hot\nspring souvenir steamed buns.",
-      "_offset": 5157,
-      "_length": 77,
-      "speaker_id": 0,
-      "translation": "Diría lo mismo!\nLos típicos bollos al vapor\nque hay de souvenir!"
+      "english": "Let's talk about camp.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 17506,
+      "_bytes": 22,
+      "translation": "Hablemos de acampar."
     },
     {
       "index": 121,
-      "english": "I wonder if Digimon also bathe in\nhot springs...",
-      "_offset": 5235,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Los Digimon también se bañarán\nen termas?"
+      "english": "Let's talk about camp.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 17529,
+      "_bytes": 22,
+      "translation": "Hablemos de acampar."
     },
     {
       "index": 122,
-      "english": "These really are what you'd call\n\"hot springs\".",
-      "_offset": 5284,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "La verdad, este agua sí está\nque arde."
+      "english": "Joe, what would you associate with\nhot springs?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17552,
+      "_bytes": 47,
+      "translation": "Joe, ¿qué te viene a la mente\ncon las termas?"
     },
     {
       "index": 123,
-      "english": "I bet we could make boiled eggs!",
-      "_offset": 5332,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Podríamos cocer huevos!"
+      "english": "I'd say hot spring boiled eggs!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 17600,
+      "_bytes": 31,
+      "translation": "¡Diría que huevos cocidos!"
     },
     {
       "index": 124,
-      "english": "Maybe a monkey will come to bathe!",
-      "_offset": 5365,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Quizás venga un mono a bañarse!"
+      "english": "I'd say hot spring steamed buns!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 17632,
+      "_bytes": 32,
+      "translation": "¡Diría que bollos al vapor!"
     },
     {
       "index": 125,
-      "english": "Yeah, yeah! I love eating hot\nspring boiled eggs with sugar and\nfermented soybeans!",
-      "_offset": 5400,
-      "_length": 83,
-      "speaker_id": 0,
-      "translation": "Si, si! Me encantan los huevos\ncocidos con azúcar y\nsoja fermentada!"
+      "english": "Really...? I don't really like\nsoft-boiled eggs.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17665,
+      "_bytes": 48,
+      "translation": "¿Sí? No me gustan mucho los\nhuevos cocidos."
     },
     {
       "index": 126,
-      "english": "Ehh? That, uh, sounds good.",
-      "_offset": 5484,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Eh? Eh... suena bien."
+      "english": "Ah. Really?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 17714,
+      "_bytes": 11,
+      "translation": "Ah. ¿No?"
     },
     {
       "index": 127,
-      "english": "Eh? I'm kind of scared of monkeys,\nI wouldn't want that to happen.",
-      "_offset": 5512,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Eh? Los monos me asustan, no me\ngustaría que ocurriese eso."
+      "english": "I would as well!\nI would definitely say the hot\nspring souvenir steamed buns.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17726,
+      "_bytes": 77,
+      "translation": "¡Diría lo mismo!\n¡Los típicos bollos al vapor\nque hay de souvenir!"
     },
     {
       "index": 128,
-      "english": "Really? But they're so cute...",
-      "_offset": 5579,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Si? Pero si son tan... monos."
+      "english": "I wonder if Digimon also bathe in\nhot springs...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17804,
+      "_bytes": 48,
+      "translation": "¿Los Digimon también se bañarán\nen termas?"
     },
     {
       "index": 129,
-      "english": "I wonder why it's boiling?",
-      "_offset": 5610,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Por qué hervirá?"
+      "english": "These really are what you'd call\n\"hot springs\".",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 17853,
+      "_bytes": 47,
+      "translation": "La verdad, esta agua sí está\nque arde."
     },
     {
       "index": 130,
-      "english": "Joe, what do you think of when you\nhear \"hot springs\"?",
-      "_offset": 5637,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Joe, qué te viene a la mente con\nlas termas?"
+      "english": "I bet we could make boiled eggs!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 17901,
+      "_bytes": 32,
+      "translation": "¡Podríamos cocer huevos!"
     },
     {
       "index": 131,
-      "english": "I'd say the bath clothes!",
-      "_offset": 5692,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "La ropa de baño!"
+      "english": "Maybe a monkey will come to bathe!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 17934,
+      "_bytes": 34,
+      "translation": "¡Quizás venga un mono a bañarse!"
     },
     {
       "index": 132,
-      "english": "I'd say the Japanese-style rooms!",
-      "_offset": 5718,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Los Onsen japoneses!"
+      "english": "Yeah, yeah! I love eating hot\nspring boiled eggs with sugar and\nfermented soybeans!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 17969,
+      "_bytes": 83,
+      "translation": "¡Sí, sí! ¡Me encantan los huevos\ncocidos con azúcar y\nsoja fermentada!"
     },
     {
       "index": 133,
-      "english": "I'm bad at wearing bath clothes.\nThe sash always comes off before I\nwake up in the morning.",
-      "_offset": 5752,
-      "_length": 91,
-      "speaker_id": 0,
-      "translation": "No soy fan de la ropa de baño.\nSiempre se me cae cuando me\ndespierto por la mañana."
+      "english": "Ehh? That, uh, sounds good.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 18053,
+      "_bytes": 27,
+      "translation": "¿Eh? Eh... suena bien."
     },
     {
       "index": 134,
-      "english": "That's because of your sleeping\nposture, not the bath clothes.",
-      "_offset": 5844,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Eso es por cómo duermes, no\nculpa de la ropa de baño."
+      "english": "Eh? I'm kind of scared of monkeys,\nI wouldn't want that to happen.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 18081,
+      "_bytes": 66,
+      "translation": "¿Eh? Los monos me asustan, no me\ngustaría que ocurriese eso."
     },
     {
       "index": 135,
-      "english": "Yeah! The rooms with floor mats\nare so nice! It really makes it\nfeel like you're at a hot spring!",
-      "_offset": 5907,
-      "_length": 97,
-      "speaker_id": 0,
-      "translation": "Si! Las salas con sus tapetes en\nel suelo están genial. Te hacen\nsentir como en las termas!"
+      "english": "Really? But they're so cute...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 18148,
+      "_bytes": 30,
+      "translation": "¿Sí? Pero si son tan... monos."
     },
     {
       "index": 136,
-      "english": "I want to be in one of those now,\ntoo...",
-      "_offset": 6005,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Me gustaría estar en una sala\nasí, ahora."
+      "english": "I wonder why it's boiling?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 18179,
+      "_bytes": 26,
+      "translation": "¿Por qué hervirá?"
     },
     {
       "index": 137,
-      "english": "I wonder what's going on at the\nbottom of those springs?",
-      "_offset": 6046,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Me pregunto que hay bajo las\naguas?"
+      "english": "Joe, what do you think of when you\nhear \"hot springs\"?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 18206,
+      "_bytes": 54,
+      "translation": "Joe, ¿qué te viene a la mente con\nlas termas?"
     },
     {
       "index": 138,
-      "english": "Speaking of hot springs, I wonder\nif there's table tennis?",
-      "_offset": 6103,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Hablando de termas, habrá\nping pong? En Japón es típico."
+      "english": "I'd say the bath clothes!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 18261,
+      "_bytes": 25,
+      "translation": "¡La ropa de baño!"
     },
     {
       "index": 139,
-      "english": "I've never played table tennis.",
-      "_offset": 6162,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Nunca jugué al ping pong."
+      "english": "I'd say the Japanese-style rooms!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 18287,
+      "_bytes": 33,
+      "translation": "¡Habitaciones japonesas!"
     },
     {
       "index": 140,
-      "english": "I played arcade games.",
-      "_offset": 6194,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Sólo juego en arcades."
+      "english": "I'm bad at wearing bath clothes.\nThe sash always comes off before I\nwake up in the morning.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 18321,
+      "_bytes": 91,
+      "translation": "No soy fan de la ropa de baño.\nSiempre se me cae cuando me\ndespierto por la mañana."
     },
     {
       "index": 141,
-      "english": "Really? It's a lot of fun.",
-      "_offset": 6217,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Si? Si es muy divertido."
+      "english": "That's because of your sleeping\nposture, not the bath clothes.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 18413,
+      "_bytes": 62,
+      "translation": "Eso es por cómo duermes, no\nculpa de la ropa de baño."
     },
     {
       "index": 142,
-      "english": "Is that so? Then next time we go\nto a hot spring, I'll challenge\nyou to table tennis!",
-      "_offset": 6244,
-      "_length": 85,
-      "speaker_id": 0,
-      "translation": "De veras? La siguiente vez que\nvayamos a unas termas, te echo\nuna al ping pong!"
+      "english": "Yeah! The rooms with floor mats\nare so nice! It really makes it\nfeel like you're at a hot spring!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 18476,
+      "_bytes": 97,
+      "translation": "¡Sí! Las salas con sus tapetes en\nel suelo están genial. ¡Te hacen\nsentir como en las termas!"
     },
     {
       "index": 143,
-      "english": "Sure, Any kind of challenge, I'll\ntake you on!",
-      "_offset": 6330,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Muy bien, te ganaré a cualquier\nreto!"
+      "english": "I want to be in one of those now,\ntoo...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 18574,
+      "_bytes": 40,
+      "translation": "Me gustaría estar en una sala\nasí, ahora."
     },
     {
       "index": 144,
-      "english": "I don't really play arcade games\nwhether or not I'm at hot springs.",
-      "_offset": 6377,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "No juego a máquians arcade, \ndentro o fuera de hoteles\ntermales."
+      "english": "I wonder what's going on at the\nbottom of those springs?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 18615,
+      "_bytes": 56,
+      "translation": "Me pregunto qué hay bajo las\naguas."
     },
     {
       "index": 145,
-      "english": "Hot spring arcade games are\ndifferent, though.",
-      "_offset": 6445,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Las arcade de las termas son\notro rollo..."
+      "english": "Speaking of hot springs, I wonder\nif there's table tennis?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18672,
+      "_bytes": 58,
+      "translation": "Hablando de termas, ¿habrá\nping-pong?"
     },
     {
       "index": 146,
-      "english": "Hm, I don't know...",
-      "_offset": 6492,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Hm... no sé yo..."
+      "english": "I've never played table tennis.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 18731,
+      "_bytes": 31,
+      "translation": "Nunca jugué al ping pong."
     },
     {
       "index": 147,
+      "english": "I played arcade games.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 18763,
+      "_bytes": 22,
+      "translation": "Sólo juego en arcades."
+    },
+    {
+      "index": 148,
+      "english": "Really? It's a lot of fun.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18786,
+      "_bytes": 26,
+      "translation": "¿Sí? Si es muy divertido."
+    },
+    {
+      "index": 149,
+      "english": "Is that so? Then next time we go\nto a hot spring, I'll challenge\nyou to table tennis!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 18813,
+      "_bytes": 85,
+      "translation": "¿De veras? ¡La siguiente vez que\nvayamos a unas termas, te echo\nuna al ping pong!"
+    },
+    {
+      "index": 150,
+      "english": "Sure, Any kind of challenge, I'll\ntake you on!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18899,
+      "_bytes": 46,
+      "translation": "¡Muy bien, te ganaré a cualquier\nreto!"
+    },
+    {
+      "index": 151,
+      "english": "I don't really play arcade games\nwhether or not I'm at hot springs.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18946,
+      "_bytes": 67,
+      "translation": "No juego a máquinas arcade, \ndentro o fuera de hoteles\ntermales."
+    },
+    {
+      "index": 152,
+      "english": "Hot spring arcade games are\ndifferent, though.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 19014,
+      "_bytes": 46,
+      "translation": "Las arcade de las termas son\notro rollo..."
+    },
+    {
+      "index": 153,
+      "english": "Hm, I don't know...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19061,
+      "_bytes": 19,
+      "translation": "Hm... no sé yo..."
+    },
+    {
+      "index": 154,
       "english": "I want to play with you guys\nsometime. With the Digimon too,\nof course!",
-      "_offset": 6512,
-      "_length": 71,
-      "speaker_id": 0,
-      "translation": "Me gustaría jugar con vosotros\nalguna vez. Y con los Digimon,\nclaro!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19081,
+      "_bytes": 71,
+      "translation": "Me gustaría jugar con vosotros\nalguna vez. ¡Y con los Digimon,\nclaro!"
     }
   ]
 }

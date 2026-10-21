@@ -1,350 +1,395 @@
 {
   "file_id": "3603",
+  "format": "etdf",
+  "kind": "ETDF",
   "text_count": 43,
   "dialog": [
     {
       "index": 0,
-      "english": "����Hm? There's a ton of Digimon here,\nfor some reason...",
-      "_offset": 909,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Mm? Hay un montón de\nDigimon aquí, no sé por\nqué..."
+      "english": "Hm? There's a ton of Digimon here,\nfor some reason...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 4536,
+      "_bytes": 53,
+      "translation": "¿Mm? Hay un montón de\nDigimon aquí, no sé por\nqué..."
     },
     {
       "index": 1,
       "english": "Is there some kind of festival\ngoing on?",
-      "_offset": 967,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Hay algún tipo de festival\nen marcha?"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4590,
+      "_bytes": 40,
+      "translation": "¿Hay algún tipo de festival\nen marcha?"
     },
     {
       "index": 2,
       "english": "Look, Tai! There's a poster up\nthere.",
-      "_offset": 1008,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Mira, Tai! Hay un cartel\nahí arriba."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 4631,
+      "_bytes": 40,
+      "translation": "¡Mira, Tai! Hay un cartel\nahí arriba."
     },
     {
       "index": 3,
       "english": "What's that? The DigiOne Grand\nPrix?",
-      "_offset": 1049,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Qué es eso? El Gran\nPremio DigiUno?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 4672,
+      "_bytes": 36,
+      "translation": "¿Qué es eso? ¿El Gran\nPremio DigiUno?"
     },
     {
       "index": 4,
       "english": "You guys should enter, too! Okay,\nentry accepted!",
-      "_offset": 1086,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Participad vosotros\ntambién! Inscripción\naceptada!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 4709,
+      "_bytes": 49,
+      "translation": "¡Participad vosotros\ntambién! ¡Inscripción\naceptada!"
     },
     {
       "index": 5,
       "english": "Wait! What's a Gazimon doing here?",
-      "_offset": 1136,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Espera! Qué hace un\nGazimon aquí?"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 4759,
+      "_bytes": 34,
+      "translation": "¡Espera! ¿Qué hace un Gazimon aquí?"
     },
     {
       "index": 6,
       "english": "And what's this about the DigiOne\nGrand Prix?",
-      "_offset": 1171,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Y qué es eso del Gran\nPremio DigiUno?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 4794,
+      "_bytes": 45,
+      "translation": "¿Y qué es eso del Gran\nPremio DigiUno?"
     },
     {
       "index": 7,
       "english": "The DigiOne Grand Prix is an\nannual competition where Digimon\ntest their skills!",
-      "_offset": 1217,
-      "_length": 80,
-      "speaker_id": 0,
-      "translation": "El Gran Premio DigiUno es\nuna competición anual para\nprobar la habilidad Digimon!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 4840,
+      "_bytes": 80,
+      "translation": "¡El Gran Premio DigiUno es\nuna competición anual para\nprobar la habilidad Digimon!"
     },
     {
       "index": 8,
       "english": "I am Gazimon, the producer of the\nDigiOne Grand Prix.",
-      "_offset": 1298,
-      "_length": 53,
-      "speaker_id": 0,
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 4921,
+      "_bytes": 53,
       "translation": "Soy Gazimon, el productor\ndel Gran Premio DigiUno."
     },
     {
       "index": 9,
       "english": "I thought all the Gazimon worked\nfor Etemon...",
-      "_offset": 1352,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Pensaba que los Gazimon\ntrabajaban para Etemon"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4975,
+      "_bytes": 46,
+      "translation": "Pensaba que los Gazimon\ntrabajaban para Etemon..."
     },
     {
       "index": 10,
       "english": "I'm just an oddball Gazimon, then.",
-      "_offset": 1399,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Pues soy un Gazimon raro,\nentonces."
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5022,
+      "_bytes": 34,
+      "translation": "Pues soy un Gazimon raro."
     },
     {
       "index": 11,
       "english": "If you guys don't join, it's your\nloss!",
-      "_offset": 1434,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Si no participáis, es\nvuestra pérdida!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5057,
+      "_bytes": 39,
+      "translation": "¡Si no participáis, es\nvuestra pérdida!"
     },
     {
       "index": 12,
       "english": "There's an amazing prize for\nwinning, you see!",
-      "_offset": 1474,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Hay un premio increíble\npara el ganador!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5097,
+      "_bytes": 46,
+      "translation": "¡Hay un premio increíble\npara el ganador!"
     },
     {
       "index": 13,
       "english": "Huh... it sounds kind of\ninteresting.",
-      "_offset": 1521,
-      "_length": 37,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 5144,
+      "_bytes": 37,
       "translation": "Eh... suena algo\ninteresante."
     },
     {
       "index": 14,
       "english": "It'd be nice to do something like\nthis for a change.",
-      "_offset": 1559,
-      "_length": 52,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 5182,
+      "_bytes": 52,
       "translation": "Estaría bien hacer algo\nasí para variar."
     },
     {
       "index": 15,
       "english": "Contestants should speak to me\nwhen they're ready. I'll explain\nthe rules before the game starts.",
-      "_offset": 1612,
-      "_length": 97,
-      "speaker_id": 0,
-      "translation": "Los participantes me hablan\ncuando estén listos. Explico\nlas reglas antes de empezar."
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5235,
+      "_bytes": 97,
+      "translation": "Avisadme cuando estéis listos.\nExplicaré las reglas antes\nde empezar."
     },
     {
       "index": 16,
       "english": "Okay, we'll come back.",
-      "_offset": 1710,
-      "_length": 22,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 5333,
+      "_bytes": 22,
       "translation": "Vale, volveremos."
     },
     {
       "index": 17,
       "english": "All right, I'll explain the rules.",
-      "_offset": 1733,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Muy bien, explico las\nreglas."
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5356,
+      "_bytes": 34,
+      "translation": "Muy bien, explico las reglas."
     },
     {
       "index": 18,
       "english": "There will be three battles, with\nno breaks in between...",
-      "_offset": 1768,
-      "_length": 57,
-      "speaker_id": 0,
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5391,
+      "_bytes": 57,
       "translation": "Habrá tres combates,\nsin descanso entre ellos..."
     },
     {
       "index": 19,
       "english": "You'll get a fabulous prize if you\nemerge victorious. Those are the\nrules. Happy fighting!",
-      "_offset": 1826,
-      "_length": 90,
-      "speaker_id": 0,
-      "translation": "Obtendréis un premio\nfabuloso si ganáis. Esas son\nlas reglas. A luchar!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5449,
+      "_bytes": 90,
+      "translation": "Obtendréis un premio\nfabuloso si ganáis. Esas son\nlas reglas. ¡A luchar!"
     },
     {
       "index": 20,
       "english": "And so ends the battle! A\nbreakthrough in the first round!\nCongratulations!",
-      "_offset": 1917,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "Y así acaba el combate!\nSuperáis la primera ronda!\nEnhorabuena!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5540,
+      "_bytes": 75,
+      "translation": "¡Y así acaba el combate!\n¡Superáis la primera ronda!\n¡Enhorabuena!"
     },
     {
       "index": 21,
       "english": "Not bad, right?",
-      "_offset": 1993,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Nada mal, eh?"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 5616,
+      "_bytes": 15,
+      "translation": "Nada mal, ¿eh?"
     },
     {
       "index": 22,
       "english": "Not bad.",
-      "_offset": 2009,
-      "_length": 8,
-      "speaker_id": 0,
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 5632,
+      "_bytes": 8,
       "translation": "Bien."
     },
     {
       "index": 23,
       "english": "Oh, don't get comfortable yet.\nYour second round opponent is...\nthis team!",
-      "_offset": 2018,
-      "_length": 74,
-      "speaker_id": 0,
-      "translation": "No os acomodéis aún. Vuestro\nrival en la segunda ronda\nes... este equipo!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5641,
+      "_bytes": 74,
+      "translation": "No os acomodéis aún. ¡Vuestro\nrival en la segunda ronda\nes... este equipo!"
     },
     {
       "index": 24,
       "english": "And so ends the battle! A\nbreakthrough in the second round,\nright on track!",
-      "_offset": 2093,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "Y así acaba el combate!\nSuperáis la segunda ronda,\ntodo según lo previsto!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5716,
+      "_bytes": 75,
+      "translation": "¡Y así acaba el combate!\n¡Superáis la segunda ronda,\ntodo según lo previsto!"
     },
     {
       "index": 25,
       "english": "We'll keep going as far as we can!",
-      "_offset": 2169,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Seguiremos hasta donde\npodamos!"
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 5792,
+      "_bytes": 34,
+      "translation": "¡Seguiremos hasta donde podamos!"
     },
     {
       "index": 26,
       "english": "That's the spirit! At last, it's\ntime for the finals!",
-      "_offset": 2204,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Ese es el espíritu! Por fin\nllega la hora de la final!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5827,
+      "_bytes": 53,
+      "translation": "¡Ese es el espíritu! ¡Por fin\nllega la hora de la final!"
     },
     {
       "index": 27,
       "english": "But the enemies you've faced up\nuntil now are nothing compared to\nthese!",
-      "_offset": 2258,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "Pero los enemigos de antes\nno son nada comparados\ncon estos!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5881,
+      "_bytes": 72,
+      "translation": "¡Pero los enemigos de antes\nno son nada comparados\ncon estos!"
     },
     {
       "index": 28,
       "english": "Think you can take 'em down?",
-      "_offset": 2331,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Creéis que podéis con\nellos?"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5954,
+      "_bytes": 28,
+      "translation": "¿Creéis que podéis con ellos?"
     },
     {
       "index": 29,
       "english": "And so ends the battle!",
-      "_offset": 2360,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Y así acaba el combate!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 5983,
+      "_bytes": 23,
+      "translation": "¡Y así acaba el combate!"
     },
     {
       "index": 30,
       "english": "This year's DigiOne Grand Prix\nwinners are...",
-      "_offset": 2384,
-      "_length": 45,
-      "speaker_id": 0,
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 6007,
+      "_bytes": 45,
       "translation": "Los ganadores del Gran\nPremio DigiUno son..."
     },
     {
       "index": 31,
       "english": "...the Agumon team!\nCongratulations, congratulations!",
-      "_offset": 2430,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "...el equipo Agumon!\nEnhorabuena, enhorabuena!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 6053,
+      "_bytes": 53,
+      "translation": "...¡el equipo Agumon!\n¡Enhorabuena, enhorabuena!"
     },
     {
       "index": 32,
       "english": "Wow! I didn't know we were *this*\nstrong.",
-      "_offset": 2484,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Vaya! No sabía que\néramos tan fuertes."
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 6107,
+      "_bytes": 41,
+      "translation": "¡Vaya! No sabía que\néramos tan fuertes."
     },
     {
       "index": 33,
       "english": "We're expert fighters!",
-      "_offset": 2526,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Luchamos genial!"
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 6149,
+      "_bytes": 22,
+      "translation": "¡Luchamos genial!"
     },
     {
       "index": 34,
       "english": "So then, here's the prize, as\npromised!",
-      "_offset": 2549,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Bueno, aquí tenéis el\npremio prometido!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 6172,
+      "_bytes": 39,
+      "translation": "¡Bueno, aquí tenéis el\npremio prometido!"
     },
     {
       "index": 35,
       "english": "Hooray!",
-      "_offset": 2589,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Bieen!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6212,
+      "_bytes": 7,
+      "translation": "¡Bieen!"
     },
     {
       "index": 36,
       "english": "We did it, Tai! We did it,\nguys!",
-      "_offset": 2597,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Lo logramos, Tai! Y\nvosotros!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6220,
+      "_bytes": 35,
+      "translation": "¡Lo logramos, Tai! ¡Lo\nlogramos, chicos!"
     },
     {
       "index": 37,
       "english": "Thanks for helping us out, Mimi!\nThanks, guys!",
-      "_offset": 2633,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Gracias por ayudarnos,\nMimi! Gracias, chicos!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6256,
+      "_bytes": 46,
+      "translation": "¡Gracias por ayudarnos,\nMimi! ¡Gracias, chicos!"
     },
     {
       "index": 38,
       "english": "Please come back as a contestant\nnext year!",
-      "_offset": 2680,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Volved como participantes\nel año que viene!"
+      "speaker_id": 4181,
+      "line_type": 2,
+      "_offset": 6303,
+      "_bytes": 43,
+      "translation": "¡Volved como participantes\nel año que viene!"
     },
     {
       "index": 39,
       "english": "Ah, that was fun. We should come\nback again sometime, Tai.",
-      "_offset": 2724,
-      "_length": 61,
-      "speaker_id": 0,
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 6347,
+      "_bytes": 61,
       "translation": "Ah, qué divertido. Deberíamos\nvolver algún día, Tai."
     },
     {
       "index": 40,
       "english": "Yeah! We'll be a lot stronger when\nwe do.",
-      "_offset": 2786,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Sí! Para entonces seremos\nmás fuertes."
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6409,
+      "_bytes": 41,
+      "translation": "¡Sí! Para entonces seremos\nmás fuertes."
     },
     {
       "index": 41,
       "english": "I've been burning up and training\nthis whole past year. I, Meramon,\nwill be the winner for sure!!",
-      "_offset": 2828,
-      "_length": 97,
-      "speaker_id": 0,
-      "translation": "Llevo todo el año ardiendo\ny entrenando. Yo, Meramon,\nseré el ganador seguro!!"
+      "speaker_id": 4011,
+      "line_type": 2,
+      "_offset": 6451,
+      "_bytes": 97,
+      "translation": "Llevo todo el año ardiendo\ny entrenando. ¡¡Yo, Meramon,\nseré el ganador seguro!!"
     },
     {
       "index": 42,
       "english": "I, Meramon, will be the winner for\nsure!!",
-      "_offset": 2926,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Yo, Meramon, seré el\nganador seguro!!"
+      "speaker_id": 4011,
+      "line_type": 2,
+      "_offset": 6549,
+      "_bytes": 41,
+      "translation": "¡¡Yo, Meramon, seré el\nganador seguro!!"
     }
   ]
 }

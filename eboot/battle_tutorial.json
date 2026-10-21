@@ -9,7 +9,7 @@
     },
     {
       "text": "Press × button while you point\nthe analog stick to run.",
-      "translation": "Pulsa × junto al stick\nanalógico para correr.",
+      "translation": "Mantén × y mueve el stick\nanalógico para correr.",
       "_offset": 1524752,
       "_length": 56
     },
@@ -27,37 +27,37 @@
     },
     {
       "text": "Normal Attack: Use the left or right arrow keys\nto select if there is more than one enemy.",
-      "translation": "Ataque Normal: usa las flechas\nizquierda o derecha para elegir\nsi hay más de un enemigo.",
+      "translation": "Ataque Normal: usa las flechas izquierda o\nderecha para elegir entre varios enemigos.",
       "_offset": 1524980,
       "_length": 90
     },
     {
       "text": "Skill: Use SP to perform a powerful skill.\nThe effects and SP cost depend on the skill.",
-      "translation": "Habilidad: usa SP para una\nhabilidad poderosa. El efecto y\ncoste dependen de ella.",
+      "translation": "Habilidad: usa SP para una habilidad poderosa.\nEl efecto y coste dependen de ella.",
       "_offset": 1525080,
       "_length": 87
     },
     {
       "text": "Guard: Weakens damage sustained from\nenemies. This will last until the next turn.",
-      "translation": "Defender: reduce el daño\nrecibido de los enemigos. Dura\nhasta el siguiente turno.",
+      "translation": "Defender: reduce el daño recibido de los\nenemigos. Dura hasta el siguiente turno.",
       "_offset": 1525168,
       "_length": 81
     },
     {
       "text": "Item: Uses an item on hand. Items have\nvarious effects such as support and healing.",
-      "translation": "Objeto: usa un objeto que\ntengas. Tienen efectos variados,\ncomo apoyo o curación.",
+      "translation": "Objeto: usa un objeto que tengas. Tienen\nefectos variados, como apoyo o curación.",
       "_offset": 1525252,
       "_length": 83
     },
     {
       "text": "Run: Allows you to run from battle.\nHowever, you may end up taking attacks.",
-      "translation": "Huir: te permite escapar de la\nbatalla. Aun así, puedes recibir\nataques.",
+      "translation": "Huir: te permite escapar de la batalla.\nAun así, puedes recibir ataques.",
       "_offset": 1525336,
       "_length": 75
     },
     {
       "text": "Strategy: Allows you to change the\nstrategy of your ally Digimon.",
-      "translation": "Estrategia: cambia la\nestrategia de tus Digimon\naliados.",
+      "translation": "Estrategia: cambia la estrategia\nde tus Digimon aliados.",
       "_offset": 1525416,
       "_length": 65
     },
@@ -69,13 +69,13 @@
     },
     {
       "text": "The Timeline indicates all of the Digimon\nwho are participating in the battle.",
-      "translation": "La Línea de Tiempo muestra a\ntodos los Digimon que participan\nen la batalla.",
+      "translation": "La Línea de Tiempo muestra a todos los\nDigimon que participan en la batalla.",
       "_offset": 1525544,
       "_length": 78
     },
     {
       "text": "The icons move to the left, and a Digimon\nwill act when their icon hits the edge.",
-      "translation": "Los iconos se mueven a la\nizquierda, y un Digimon actúa al\nllegar al borde.",
+      "translation": "Los iconos se mueven a la izquierda, y un\nDigimon actúa al llegar al borde.",
       "_offset": 1525628,
       "_length": 81
     },
@@ -87,7 +87,7 @@
     },
     {
       "text": "Powerful skills push the icon away further,\ndelaying the Digimon's next turn.",
-      "translation": "Las habilidades poderosas\nempujan más el icono, y retrasan\nsu turno.",
+      "translation": "Las habilidades poderosas empujan más el\nicono, y retrasan su turno.",
       "_offset": 1525780,
       "_length": 77
     },
@@ -99,7 +99,7 @@
     },
     {
       "text": "Shock causes the icon of the\naffected Digimon to stop moving.",
-      "translation": "Shock hace que el icono del\nDigimon afectado deje de\nmoverse.",
+      "translation": "Shock hace que el icono del Digimon afectado\ndeje de moverse.",
       "_offset": 1525936,
       "_length": 61
     },
@@ -111,27 +111,33 @@
     },
     {
       "text": "After clearing Episode, you'll return\nto the Episode Selection screen.",
-      "translation": "Al terminar un Episodio,\nvolverás a Selección de\nEpisodio.",
+      "translation": "Al terminar un Episodio, volverás a\nSelección de Episodio.",
       "_offset": 1526192,
       "_length": 70
     },
     {
       "text": "Here, you can select an Episode to play next,\nor change your party member strategy.",
-      "translation": "Aquí puedes elegir el próximo\nEpisodio, o cambiar la\nestrategia de tu equipo.",
+      "translation": "Aquí puedes elegir el próximo Episodio, o\ncambiar la estrategia de tu equipo.",
       "_offset": 1526264,
       "_length": 83
     },
     {
       "text": "However, you can't play another Episode\nuntil you finish the one in progress.",
-      "translation": "Sin embargo, no puedes jugar\notro Episodio hasta terminar el\nactual.",
+      "translation": "Sin embargo, no puedes jugar otro\nEpisodio hasta terminar el actual.",
       "_offset": 1526360,
       "_length": 77
     },
     {
       "text": "On the Episode Selection screen,\npress the SELECT button to save.",
-      "translation": "En la pantalla de Selección de\nEpisodio, pulsa SELECT para\nguardar.",
+      "translation": "En la pantalla de Selección de Episodio, pulsa\nSELECT para guardar.",
       "_offset": 1526444,
       "_length": 65
+    },
+    {
+      "text": "Press △ button to see the main menu where\nyou can use items and arrange equipment.",
+      "translation": "Pulsa △ para abrir el menú principal, donde\npuedes usar objetos y organizar tu equipo.",
+      "_offset": 1526544,
+      "_length": 83
     },
     {
       "text": "By equipping obtained DigiPieces, your\nDigimon will become stronger.",
@@ -141,49 +147,49 @@
     },
     {
       "text": "DigiPieces can raise stats, add\nnew skills, or have other effects.",
-      "translation": "Las DigiPiezas suben stats,\nañaden habilidades u otros\nefectos.",
+      "translation": "Las DigiPiezas suben estadísticas,\nañaden habilidades u otros efectos.",
       "_offset": 1526704,
       "_length": 66
     },
     {
       "text": "Choose a DigiPiece to equip and\nplace it in the central Skill Panel.",
-      "translation": "Elige una DigiPieza y colócala\nen el Panel de Habilidad\ncentral.",
+      "translation": "Elige una DigiPieza y colócala en el\nPanel de Habilidad central.",
       "_offset": 1526792,
       "_length": 68
     },
     {
       "text": "You cannot place two equipped\nDigiPieces so that they overlap.",
-      "translation": "No puedes colocar dos\nDigiPiezas equipadas si se\nsolapan.",
+      "translation": "No puedes colocar dos DigiPiezas\nequipadas si se solapan.",
       "_offset": 1526864,
       "_length": 62
     },
     {
       "text": "Press the □ button to remove a DigiPiece.",
-      "translation": "Pulsa □ para quitar una\nDigiPieza.",
+      "translation": "Pulsa □ para quitar una DigiPieza.",
       "_offset": 1526936,
       "_length": 42
     },
     {
       "text": "The Skill Panel shape varies by Digimon.\nYou have limited space to fit the pieces.",
-      "translation": "La forma del Panel de Habilidad\nvaría según el Digimon. Tienes\nespacio limitado.",
+      "translation": "La forma del Panel de Habilidad varía según el\nDigimon. Tienes espacio limitado.",
       "_offset": 1526996,
       "_length": 82
     },
     {
       "text": "When a Digimon reaches a certain\nlevel, their Skill Panel will grow.",
-      "translation": "Al llegar a cierto nivel, el\nPanel de Habilidad de un Digimon\ncrecerá.",
+      "translation": "A cierto nivel, el Panel de\nHabilidad de un Digimon crecerá.",
       "_offset": 1527080,
       "_length": 68
     },
     {
       "text": "You can synthesize a new DigiPiece\nby collecting necessary materials.",
-      "translation": "Puedes sintetizar una nueva\nDigiPieza reuniendo materiales\nnecesarios.",
+      "translation": "Puedes sintetizar una nueva DigiPieza\nreuniendo materiales necesarios.",
       "_offset": 1527152,
       "_length": 69
     },
     {
       "text": "You can also obtain materials by\nbreaking down unwanted DigiPieces.",
-      "translation": "También puedes obtener\nmateriales desmontando\nDigiPiezas no deseadas.",
+      "translation": "También obtienes materiales desmontando\nDigiPiezas no deseadas.",
       "_offset": 1527228,
       "_length": 67
     },
@@ -195,19 +201,19 @@
     },
     {
       "text": "During the game, conversations between \ncharacters may deepen their bonds.",
-      "translation": "Durante el juego, las\nconversaciones entre personajes\nestrechan sus lazos.",
+      "translation": "Durante el juego, las conversaciones\nentre personajes estrechan sus lazos.",
       "_offset": 1527456,
       "_length": 74
     },
     {
       "text": "This is the Bonding Rank, and\nhigher ranks will affect battles.",
-      "translation": "Es el Rango de Vínculo, y un\nrango más alto afecta la\nbatalla.",
+      "translation": "Es el Rango de Vínculo, y un\nrango más alto afecta la batalla.",
       "_offset": 1527532,
       "_length": 63
     },
     {
       "text": "If the Digimon of a character with a high \nBonding Rank will be acting next,",
-      "translation": "Si el Digimon de un personaje\ncon un Rango de Vínculo alto va\na actuar,",
+      "translation": "Si el Digimon de un personaje con un Rango\nde Vínculo alto va a actuar,",
       "_offset": 1527600,
       "_length": 76
     },
@@ -225,31 +231,31 @@
     },
     {
       "text": "You can check the status of your Bonding\nRank in the status menu at any time.",
-      "translation": "Puedes consultar tu Rango de\nVínculo en el menú de estado en\ncualquier momento.",
+      "translation": "Puedes ver tu Rango de Vínculo en el\nmenú de estado en cualquier momento.",
       "_offset": 1527824,
       "_length": 77
     },
     {
       "text": "As the story progresses, the Digimon\nwill become able to evolve.",
-      "translation": "A medida que avanza la\nhistoria, los Digimon podrán\nevolucionar.",
+      "translation": "A medida que avanza la historia, los\nDigimon podrán evolucionar.",
       "_offset": 1527952,
       "_length": 64
     },
     {
       "text": "Evolution costs SP but stats will rise\nand the Digimon will be stronger.",
-      "translation": "Evolucionar cuesta SP, pero\nsube estadísticas y fuerza al\nDigimon.",
+      "translation": "Evolucionar cuesta SP, pero sube\nestadísticas y fuerza al Digimon.",
       "_offset": 1528024,
       "_length": 72
     },
     {
       "text": "Status effects such as lowered stats\nor  poison will be removed.",
-      "translation": "Efectos de estado, como stats\nbajas o veneno, se eliminarán.",
+      "translation": "Efectos de estado, como estadísticas\nbajas o veneno, se eliminarán.",
       "_offset": 1528100,
       "_length": 64
     },
     {
       "text": "The skillset will also change to have\nmore powerful but SP-costly skills.",
-      "translation": "Las habilidades cambiarán a\notras más potentes, pero con más\ncoste de SP.",
+      "translation": "Las habilidades cambiarán a otras más\npotentes, pero con más coste de SP.",
       "_offset": 1528168,
       "_length": 73
     },
@@ -261,13 +267,13 @@
     },
     {
       "text": "A Sub-Episode with a yellow icon\nindicates limited time left to play it.",
-      "translation": "Un Episodio Secundario con\nicono amarillo indica poco\ntiempo para jugarlo.",
+      "translation": "Un Episodio Secundario con icono amarillo\nindica que queda poco tiempo.",
       "_offset": 1528352,
       "_length": 72
     },
     {
       "text": "Continuing with a Main Episode will\ncause the Sub-Episode to disappear.",
-      "translation": "Continuar con un Episodio\nPrincipal hará que el Secundario\ndesaparezca.",
+      "translation": "Continuar con un Episodio Principal\nhará que el Secundario desaparezca.",
       "_offset": 1528428,
       "_length": 71
     },
@@ -279,97 +285,97 @@
     },
     {
       "text": "...to switch the type displayed\nbetween All, Main, or Sub.",
-      "translation": "...para alternar entre Todos,\nPrincipal o Secundario.",
+      "translation": "...para alternar entre Todo,\nPrincipal o Secundario.",
       "_offset": 1528572,
       "_length": 58
     },
     {
       "text": "From the Episode Selection screen,\nyou can challenge the Digital Dungeon.",
-      "translation": "Desde Selección de Episodio,\npuedes retar la Mazmorra\nDigital.",
+      "translation": "Desde Selección de Episodio, puedes\nretar la Mazmorra Digital.",
       "_offset": 1528696,
       "_length": 73
     },
     {
       "text": "Press the L or R button at the Episode Selection\nscreen to switch to Dungeon Selection.",
-      "translation": "Pulsa L o R en la pantalla de\nSelección de Episodio para ir a\nSelección de Mazmorra.",
+      "translation": "Pulsa L o R en la pantalla de Selección de\nEpisodio para ir a Selección de Mazmorra.",
       "_offset": 1528780,
       "_length": 87
     },
     {
       "text": "The enemies vary by dungeon level and type.\nThis is a good place to earn EXP and items.",
-      "translation": "Los enemigos varían según nivel\ny tipo de mazmorra. Buen lugar\npara ganar EXP y objetos.",
+      "translation": "Los enemigos varían según nivel y tipo de\nmazmorra. Ideal para ganar EXP y objetos.",
       "_offset": 1528872,
       "_length": 87
     },
     {
       "text": "The goal will move you to the next level.",
-      "translation": "La meta te llevará al siguiente\nnivel.",
+      "translation": "La meta te llevará al siguiente nivel.",
       "_offset": 1528960,
       "_length": 41
     },
     {
       "text": "Press ○ at the starting point marked EXIT\nto return to the Episode Selection screen.",
-      "translation": "Pulsa ○ en el punto de inicio\nmarcado EXIT para volver a\nSelección de Episodio.",
+      "translation": "Pulsa ○ en el punto de inicio marcado EXIT\npara volver a Selección de Episodio.",
       "_offset": 1529004,
       "_length": 85
     },
     {
       "text": "New dungeons will be added during the story\nprogress with stronger enemies within.",
-      "translation": "Se añadirán mazmorras con\nenemigos más fuertes a medida\nque avanza la historia.",
+      "translation": "Se añadirán mazmorras con enemigos más\nfuertes a medida que avanza la historia.",
       "_offset": 1529096,
       "_length": 82
     },
     {
       "text": "Congratulations!\nYou have cleared all of the Main Episodes!",
-      "translation": "Enhorabuena!\nHas completado todos los\nEpisodios Principales!",
+      "translation": "¡Enhorabuena! ¡Has completado todos los\nEpisodios Principales!",
       "_offset": 1529232,
       "_length": 59
     },
     {
       "text": "If you load the save data created after clearing\nthe game, you can start a New Game+.",
-      "translation": "Si cargas los datos guardados\ntras acabar el juego, puedes\nempezar un Nuevo Juego+.",
+      "translation": "Si cargas los datos guardados tras acabar el\njuego, puedes empezar un Nuevo Juego+.",
       "_offset": 1529300,
       "_length": 85
     },
     {
       "text": "You will retain your levels from your cleared\ngame, along with your evolutions.",
-      "translation": "Conservarás tus niveles de la\npartida terminada, junto con tus\nevoluciones.",
+      "translation": "Conservarás tus niveles de la partida\nterminada, junto con tus evoluciones.",
       "_offset": 1529388,
       "_length": 79
     },
     {
       "text": "Skill Panel size, obtained DigiPieces, items,\nmaterials, and recipes will also be retained.",
-      "translation": "El tamaño del Panel de\nHabilidad, DigiPiezas, objetos,\nmateriales y recetas se\nconservan.",
+      "translation": "El tamaño del Panel de Habilidad, DigiPiezas,\nobjetos, materiales y recetas se conservan.",
       "_offset": 1529472,
       "_length": 91
     },
     {
       "text": "The last Digital Dungeon will also be\nadded to the Dungeon Selection.",
-      "translation": "La última Mazmorra Digital\ntambién se añadirá a Selección\nde Mazmorra.",
+      "translation": "La última Mazmorra Digital también se\nañadirá a Selección de Mazmorra.",
       "_offset": 1529568,
       "_length": 69
     },
     {
       "text": "There will be very strong enemies here,\nbut you can find even more valuable items.",
-      "translation": "Habrá enemigos muy fuertes\naquí, pero podrás encontrar\nobjetos aún más valiosos.",
+      "translation": "Habrá enemigos muy fuertes aquí, pero\npodrás encontrar objetos aún más valiosos.",
       "_offset": 1529640,
       "_length": 82
     },
     {
       "text": "During a New Game+, you can evolve\nto Omegamon during battle.",
-      "translation": "En Nuevo Juego+, puedes\nevolucionar a Omegamon en\nbatalla.",
+      "translation": "En Nuevo Juego+, puedes\nevolucionar a Omegamon en batalla.",
       "_offset": 1529776,
       "_length": 61
     },
     {
       "text": "When you have both WarGreymon &\nMetalGarurumon in your party during battle,",
-      "translation": "Cuando tengas a WarGreymon y\nMetalGarurumon en tu equipo\ndurante la batalla,",
+      "translation": "Cuando tengas a WarGreymon y MetalGarurumon\nen tu equipo durante la batalla,",
       "_offset": 1529844,
       "_length": 75
     },
     {
       "text": "select Omegamon from the Evolve menu\nto fuse them into ultra-powerful Omegamon.",
-      "translation": "elige Omegamon en el menú de\nEvolución para fusionarlos en el\npoderoso Omegamon.",
+      "translation": "elige Omegamon en el menú de Evolución\npara fusionarlos en el poderoso Omegamon.",
       "_offset": 1529920,
       "_length": 79
     },
@@ -381,13 +387,13 @@
     },
     {
       "text": "Battle Tutorial",
-      "translation": "Tuto. Combate",
+      "translation": "Tutorial de Combate",
       "_offset": 1530052,
       "_length": 15
     },
     {
       "text": "Episode Selection",
-      "translation": "Sel. de Episodio",
+      "translation": "Selección de Episodio",
       "_offset": 1530068,
       "_length": 17
     },
@@ -404,308 +410,350 @@
       "_length": 13
     },
     {
+      "text": "Evolution",
+      "translation": "Evolución",
+      "_offset": 1530140,
+      "_length": 9
+    },
+    {
       "text": "Digital Dungeon",
-      "translation": "Mazmorra Dig.",
+      "translation": "Mazmorra Digital",
       "_offset": 1530180,
       "_length": 15
     },
     {
       "text": "Evolving Omegamon",
-      "translation": "Evol. a Omegamon",
+      "translation": "Evolución a Omegamon",
       "_offset": 1530228,
       "_length": 17
     },
     {
+      "text": "image",
+      "translation": "",
+      "_offset": 1530384,
+      "_length": 5
+    },
+    {
+      "text": "All",
+      "translation": "Todos",
+      "_offset": 1626560,
+      "_length": 3
+    },
+    {
+      "text": "Heal",
+      "translation": "Cura",
+      "_offset": 1626568,
+      "_length": 4
+    },
+    {
+      "text": "Battle",
+      "translation": "Combate",
+      "_offset": 1626576,
+      "_length": 6
+    },
+    {
+      "text": "taichi",
+      "translation": "",
+      "_offset": 1626604,
+      "_length": 6
+    },
+    {
+      "text": "gabu",
+      "translation": "",
+      "_offset": 1626612,
+      "_length": 4
+    },
+    {
+      "text": "yamato",
+      "translation": "",
+      "_offset": 1626620,
+      "_length": 6
+    },
+    {
+      "text": "piyo",
+      "translation": "",
+      "_offset": 1626628,
+      "_length": 4
+    },
+    {
+      "text": "sora",
+      "translation": "",
+      "_offset": 1626636,
+      "_length": 4
+    },
+    {
+      "text": "tento",
+      "translation": "",
+      "_offset": 1626644,
+      "_length": 5
+    },
+    {
+      "text": "koshiro",
+      "translation": "",
+      "_offset": 1626652,
+      "_length": 7
+    },
+    {
+      "text": "paru",
+      "translation": "",
+      "_offset": 1626660,
+      "_length": 4
+    },
+    {
+      "text": "mimi",
+      "translation": "",
+      "_offset": 1626668,
+      "_length": 4
+    },
+    {
+      "text": "goma",
+      "translation": "",
+      "_offset": 1626676,
+      "_length": 4
+    },
+    {
+      "text": "joh",
+      "translation": "",
+      "_offset": 1626684,
+      "_length": 3
+    },
+    {
+      "text": "pata",
+      "translation": "",
+      "_offset": 1626688,
+      "_length": 4
+    },
+    {
+      "text": "takeru",
+      "translation": "",
+      "_offset": 1626696,
+      "_length": 6
+    },
+    {
+      "text": "tail",
+      "translation": "",
+      "_offset": 1626704,
+      "_length": 4
+    },
+    {
+      "text": "hikari",
+      "translation": "",
+      "_offset": 1626712,
+      "_length": 6
+    },
+    {
+      "text": "reo",
+      "translation": "",
+      "_offset": 1626720,
+      "_length": 3
+    },
+    {
+      "text": "sreo",
+      "translation": "",
+      "_offset": 1626724,
+      "_length": 4
+    },
+    {
+      "text": "oga",
+      "translation": "",
+      "_offset": 1626732,
+      "_length": 3
+    },
+    {
+      "text": "andro",
+      "translation": "",
+      "_offset": 1626736,
+      "_length": 5
+    },
+    {
+      "text": "magna",
+      "translation": "",
+      "_offset": 1626744,
+      "_length": 5
+    },
+    {
+      "text": "duke",
+      "translation": "",
+      "_offset": 1626752,
+      "_length": 4
+    },
+    {
+      "text": "kaizer",
+      "translation": "",
+      "_offset": 1626760,
+      "_length": 6
+    },
+    {
+      "text": "shine",
+      "translation": "",
+      "_offset": 1626768,
+      "_length": 5
+    },
+    {
+      "text": "omega",
+      "translation": "",
+      "_offset": 1626776,
+      "_length": 5
+    },
+    {
+      "text": "arestar",
+      "translation": "",
+      "_offset": 1626784,
+      "_length": 7
+    },
+    {
+      "text": "off",
+      "translation": "",
+      "_offset": 1626844,
+      "_length": 3
+    },
+    {
+      "text": "cover",
+      "translation": "",
+      "_offset": 1626908,
+      "_length": 5
+    },
+    {
+      "text": "plateoff",
+      "translation": "",
+      "_offset": 1626960,
+      "_length": 8
+    },
+    {
+      "text": "taichi",
+      "translation": "",
+      "_offset": 1627112,
+      "_length": 6
+    },
+    {
+      "text": "yamato",
+      "translation": "",
+      "_offset": 1627120,
+      "_length": 6
+    },
+    {
+      "text": "sora",
+      "translation": "",
+      "_offset": 1627128,
+      "_length": 4
+    },
+    {
+      "text": "koshiro",
+      "translation": "",
+      "_offset": 1627136,
+      "_length": 7
+    },
+    {
+      "text": "mimi",
+      "translation": "",
+      "_offset": 1627144,
+      "_length": 4
+    },
+    {
+      "text": "joh",
+      "translation": "",
+      "_offset": 1627152,
+      "_length": 3
+    },
+    {
+      "text": "takeru",
+      "translation": "",
+      "_offset": 1627156,
+      "_length": 6
+    },
+    {
+      "text": "hikari",
+      "translation": "",
+      "_offset": 1627164,
+      "_length": 6
+    },
+    {
+      "text": "Unknown",
+      "translation": "Desconocido",
+      "_offset": 1736932,
+      "_length": 7
+    },
+    {
+      "text": "Chrysalimon ",
+      "translation": "Chrysalimon ",
+      "_offset": 1736940,
+      "_length": 12
+    },
+    {
       "text": "An Adult Level Digimon that looks\nlike a chrysalis. To evolve from\nKeramon to more powerful Digimon,\nit temporarily gathers energy and\ntakes a chrysalis shape. It can't\nmove but is protected by a sturdy\nshell and attacks with the tentacles\non its back. Its Special Move, Data\nCrusher, destroys data with its\ntentacles.",
-      "translation": "Digimon de Nivel Adulto con\nforma de crisálida. Para\nevolucionar de Keramon a Digimon\nmás poderosos, reúne energía\ntemporalmente y adopta forma de\ncrisálida. No se mueve, pero lo\nprotege un caparazón resistente y\nataca con los tentáculos de su\nespalda. Su Ataque Especial,\nTriturador de Datos, destruye\ndatos con sus tentáculos.",
+      "translation": "Digimon Campeón con forma de\ncrisálida. Para evolucionar de\nKeramon a Digimon más poderosos,\nreúne energía un tiempo y adopta\nforma de crisálida. No se mueve,\npero lo protege un caparazón\nresistente y ataca con los\ntentáculos de su espalda. Su Ataque\nEspecial, Triturador de Datos,\ndestruye datos con sus tentáculos.",
       "_offset": 1736953,
       "_length": 318
     },
     {
       "text": "Dragon Man",
-      "translation": "H.Dragón",
+      "translation": "Hombre Dragón",
       "_offset": 1741650,
       "_length": 10
     },
     {
+      "text": "Arresterdramon",
+      "translation": "Arresterdramon",
+      "_offset": 1741661,
+      "_length": 14
+    },
+    {
       "text": "What Gumdramon's evolution looks\nlike when free of the Kinkoji. It\nwears a special rubber battle armor\nwhich maximizes Gumdramon's special\ntrait, elasticity. Its defense\nimproved, its wings grew, and it\nflies at high speeds. It turns its\ntail into an anchor to grab its\nenemies and cut them to pieces. Its\nSpecial Move, Prism Garrett, cuts\nwith countless revolutions of light.",
-      "translation": "Así es la evolución de Gumdramon\ncuando se libera del Kinkoji.\nLleva una armadura de combate\nespecial de goma que maximiza el\nrasgo especial de Gumdramon, la\nelasticidad. Su defensa mejoró,\nle crecieron alas, y vuela a gran\nvelocidad. Convierte su cola en\nun ancla para atrapar a sus\nenemigos y despedazarlos. Su\nAtaque Especial, Prism Garrett,\ncorta con innumerables giros de\nluz.",
+      "translation": "Así es la evolución de Gumdramon\ncuando se libera del Kinkoji. Lleva\nuna armadura de combate especial de\ngoma que maximiza el rasgo especial\nde Gumdramon, la elasticidad. Su\ndefensa mejoró, le crecieron alas, y\nvuela a gran velocidad. Convierte su\ncola en un ancla para atrapar a sus\nenemigos y despedazarlos. Su Ataque\nEspecial, Prism Garrett, corta con\ninnumerables giros de luz.",
       "_offset": 1741676,
       "_length": 376
     },
     {
       "text": "Attacks a random target 2 times.",
-      "translation": "Ataca 2 veces, objetivo azar.",
+      "translation": "Ataca 2 veces al azar.",
       "_offset": 1760761,
       "_length": 32
     },
     {
       "text": "Attacks a random target 4 times.",
-      "translation": "Ataca 4 veces, objetivo azar.",
+      "translation": "Ataca 4 veces al azar.",
       "_offset": 1760794,
       "_length": 32
     },
     {
       "text": "Restores a little HP every turn \n(enemy only).",
-      "translation": "Restaura algo de HP cada turno\n(solo enemigo).",
+      "translation": "Restaura algo de HP cada\nturno (solo enemigo).",
       "_offset": 1760827,
       "_length": 46
     },
     {
-      "text": "Claw Attack",
-      "translation": "Garrazo",
-      "_offset": 1800132,
-      "_length": 11
-    },
-    {
-      "text": "Bit Fire",
-      "translation": "BitFuego",
-      "_offset": 1800248,
-      "_length": 8
-    },
-    {
-      "text": "Over Flame",
-      "translation": "Sobrellama",
-      "_offset": 1800364,
-      "_length": 10
-    },
-    {
-      "text": "Crush Nail",
-      "translation": "Uña Feroz",
-      "_offset": 1800596,
-      "_length": 10
-    },
-    {
-      "text": "Slamming Attack",
-      "translation": "Ataque Brutal",
-      "_offset": 1800712,
-      "_length": 15
-    },
-    {
-      "text": "Garuru Kick",
-      "translation": "Pat. Garuru",
-      "_offset": 1800828,
-      "_length": 11
-    },
-    {
-      "text": "Metal Fang",
-      "translation": "DienteMet.",
-      "_offset": 1800944,
-      "_length": 10
-    },
-    {
-      "text": "Spiral Wing",
-      "translation": "Ala Espiral",
-      "_offset": 1801060,
-      "_length": 11
-    },
-    {
-      "text": "Crimson Claw",
-      "translation": "GarraCarmes.",
-      "_offset": 1801292,
-      "_length": 12
-    },
-    {
-      "text": "Wing Flutter",
-      "translation": "Aleteo Alar",
-      "_offset": 1801408,
-      "_length": 12
-    },
-    {
-      "text": "Scooping Punch",
-      "translation": "Puño Elevador",
-      "_offset": 1801524,
-      "_length": 14
-    },
-    {
-      "text": "Body Attack",
-      "translation": "Cuerpazo",
-      "_offset": 1801640,
-      "_length": 11
-    },
-    {
-      "text": "Whip Attack",
-      "translation": "Latigazo",
-      "_offset": 1801872,
-      "_length": 11
-    },
-    {
-      "text": "Rolling Attack",
-      "translation": "Ataque Rodante",
-      "_offset": 1801988,
-      "_length": 14
-    },
-    {
-      "text": "Edge Toss",
-      "translation": "LanzaFilo",
-      "_offset": 1802220,
-      "_length": 9
-    },
-    {
-      "text": "Edge Toss Revised",
-      "translation": "LanzaFilo Rev.",
-      "_offset": 1802336,
-      "_length": 17
-    },
-    {
-      "text": "Bubble Barrier",
-      "translation": "Barrera Burb.",
-      "_offset": 1802452,
-      "_length": 14
-    },
-    {
-      "text": "Northern Lights",
-      "translation": "Aurora Boreal",
-      "_offset": 1802568,
-      "_length": 15
-    },
-    {
-      "text": "Thor's Hammer",
-      "translation": "Martillo Thor",
-      "_offset": 1802684,
-      "_length": 13
-    },
-    {
-      "text": "Pretty Rush",
-      "translation": "Carga Bella",
-      "_offset": 1802916,
-      "_length": 11
-    },
-    {
-      "text": "Rod Strike",
-      "translation": "GolpeVara",
-      "_offset": 1803032,
-      "_length": 10
-    },
-    {
-      "text": "Soul Banish",
-      "translation": "Destierro",
-      "_offset": 1803148,
-      "_length": 11
-    },
-    {
-      "text": "Spiritual Energy Blast",
-      "translation": "Explosión Energ. Esp.",
-      "_offset": 1803264,
-      "_length": 22
-    },
-    {
-      "text": "Holy Slap",
-      "translation": "Palmada",
-      "_offset": 1803496,
-      "_length": 9
-    },
-    {
-      "text": "Tail Crash",
-      "translation": "Colazo",
-      "_offset": 1803612,
-      "_length": 10
-    },
-    {
-      "text": "Eden's Needle",
-      "translation": "Aguja de Edén",
-      "_offset": 1803728,
-      "_length": 13
-    },
-    {
-      "text": "Sefirot Crystal",
-      "translation": "Cristal Sefirot",
-      "_offset": 1803844,
-      "_length": 15
-    },
-    {
-      "text": "Eden's Javelin",
-      "translation": "Jabalina Edén",
-      "_offset": 1803960,
-      "_length": 14
-    },
-    {
-      "text": "Eden's Air",
-      "translation": "AireEdén",
-      "_offset": 1804076,
-      "_length": 10
-    },
-    {
-      "text": "Sword Attack",
-      "translation": "Espadazo",
-      "_offset": 1804192,
-      "_length": 12
-    },
-    {
-      "text": "Dark Nail",
-      "translation": "UñaOscura",
-      "_offset": 1804308,
-      "_length": 9
-    },
-    {
-      "text": "Energy Shot",
-      "translation": "Tiro Energ.",
-      "_offset": 1804424,
-      "_length": 11
-    },
-    {
-      "text": "Pollinosis Shower",
-      "translation": "Lluvia Alérgica",
-      "_offset": 1804540,
-      "_length": 17
-    },
-    {
-      "text": "Ivy Attack",
-      "translation": "Hiedrazo",
-      "_offset": 1804656,
-      "_length": 10
-    },
-    {
-      "text": "Cocoon Guard",
-      "translation": "Def. Capullo",
-      "_offset": 1804772,
-      "_length": 12
-    },
-    {
-      "text": "Paradise Lost",
-      "translation": "Paraíso Perd.",
-      "_offset": 1805004,
-      "_length": 13
-    },
-    {
-      "text": "Full Out",
-      "translation": "A Tope",
-      "_offset": 1805120,
-      "_length": 8
-    },
-    {
-      "text": "Dark Crusher",
-      "translation": "Trit. Oscuro",
-      "_offset": 1805236,
-      "_length": 12
+      "text": "Revive",
+      "translation": "Revivir",
+      "_offset": 1812660,
+      "_length": 6
     },
     {
       "text": "Sacrifice Attack",
-      "translation": "Ataque Sacrif.",
+      "translation": "Golpe Sacrificio",
       "_offset": 1812776,
       "_length": 16
     },
     {
       "text": "Drain Attack",
-      "translation": "Ataque Dren.",
+      "translation": "Golpe Drenaje",
       "_offset": 1812892,
       "_length": 12
     },
     {
       "text": "Shock Attack",
-      "translation": "Ataque Shock",
+      "translation": "Golpe Shock",
       "_offset": 1813008,
       "_length": 12
     },
     {
       "text": "Break Attack",
-      "translation": "AtaqueRotura",
+      "translation": "Golpe Rotura",
       "_offset": 1813240,
       "_length": 12
     },
     {
       "text": "Rage Attack",
-      "translation": "AtaqueFuria",
+      "translation": "Golpe Furia",
       "_offset": 1813472,
       "_length": 11
     },
@@ -717,13 +765,13 @@
     },
     {
       "text": "Poison Attack",
-      "translation": "Ataque Venen.",
+      "translation": "Golpe Veneno",
       "_offset": 1813820,
       "_length": 13
     },
     {
       "text": "Sticky Attack",
-      "translation": "Ataque Pegaj.",
+      "translation": "Golpe Pegajoso",
       "_offset": 1814052,
       "_length": 13
     },
@@ -735,7 +783,7 @@
     },
     {
       "text": "All Attack",
-      "translation": "AtaqueTot.",
+      "translation": "Ataque Total",
       "_offset": 1814400,
       "_length": 10
     },
@@ -753,9 +801,387 @@
     },
     {
       "text": "Status Reset",
-      "translation": "ReinicioEst.",
+      "translation": "Reinicio Estado",
       "_offset": 1814980,
       "_length": 12
+    },
+    {
+      "text": "Anger",
+      "translation": "Ira",
+      "_offset": 1815096,
+      "_length": 5
+    },
+    {
+      "text": "Counter",
+      "translation": "Contra",
+      "_offset": 1815212,
+      "_length": 7
+    },
+    {
+      "text": "Super Counter",
+      "translation": "Súper Contra",
+      "_offset": 1815328,
+      "_length": 13
+    },
+    {
+      "text": "Ultra Counter",
+      "translation": "Ultra Contra",
+      "_offset": 1815444,
+      "_length": 13
+    },
+    {
+      "text": "Auto Heal",
+      "translation": "Auto Cura",
+      "_offset": 1815560,
+      "_length": 9
+    },
+    {
+      "text": "Lifeup",
+      "translation": "Vida+",
+      "_offset": 1815676,
+      "_length": 6
+    },
+    {
+      "text": "Revenge",
+      "translation": "Venganza",
+      "_offset": 1815908,
+      "_length": 7
+    },
+    {
+      "text": "Bubbles",
+      "translation": "Burbujas",
+      "_offset": 1816024,
+      "_length": 7
+    },
+    {
+      "text": "Bubbles",
+      "translation": "Burbujas",
+      "_offset": 1816140,
+      "_length": 7
+    },
+    {
+      "text": "Bubbles",
+      "translation": "Burbujas",
+      "_offset": 1816256,
+      "_length": 7
+    },
+    {
+      "text": "Bubbles",
+      "translation": "Burbujas",
+      "_offset": 1816372,
+      "_length": 7
+    },
+    {
+      "text": "Bubbles",
+      "translation": "Burbujas",
+      "_offset": 1816488,
+      "_length": 7
+    },
+    {
+      "text": "Bubbles",
+      "translation": "Burbujas",
+      "_offset": 1816604,
+      "_length": 7
+    },
+    {
+      "text": "Bind",
+      "translation": "Atadura",
+      "_offset": 1816720,
+      "_length": 4
+    },
+    {
+      "text": "Poop Throw",
+      "translation": "Tira Caca",
+      "_offset": 1816836,
+      "_length": 10
+    },
+    {
+      "text": "Poop Throw",
+      "translation": "Tira Caca",
+      "_offset": 1816952,
+      "_length": 10
+    },
+    {
+      "text": "Poop Throw",
+      "translation": "Tira Caca",
+      "_offset": 1817068,
+      "_length": 10
+    },
+    {
+      "text": "Super Stinky Spray",
+      "translation": "Spray Oloroso +",
+      "_offset": 1817184,
+      "_length": 18
+    },
+    {
+      "text": "Scissor Arms",
+      "translation": "Brazo Tijera",
+      "_offset": 1817300,
+      "_length": 12
+    },
+    {
+      "text": "Power Guillotine",
+      "translation": "Guillotina Poderosa",
+      "_offset": 1817416,
+      "_length": 16
+    },
+    {
+      "text": "Grateful Knuckle",
+      "translation": "Puño Agradecido",
+      "_offset": 1817532,
+      "_length": 16
+    },
+    {
+      "text": "Plasma Shoot",
+      "translation": "Disparo de Plasma",
+      "_offset": 1817648,
+      "_length": 12
+    },
+    {
+      "text": "Light Aura Barrier",
+      "translation": "Barrera Aura Luz",
+      "_offset": 1817764,
+      "_length": 18
+    },
+    {
+      "text": "Extreme Jihad",
+      "translation": "Yihad Extrema",
+      "_offset": 1817880,
+      "_length": 13
+    },
+    {
+      "text": "Royal Saber",
+      "translation": "Sable Real",
+      "_offset": 1817996,
+      "_length": 11
+    },
+    {
+      "text": "Royal Slash",
+      "translation": "Tajo Real",
+      "_offset": 1818112,
+      "_length": 11
+    },
+    {
+      "text": "Final Elysion",
+      "translation": "Final Elysion",
+      "_offset": 1818228,
+      "_length": 13
+    },
+    {
+      "text": "Dragon Soul Sword ",
+      "translation": "Espada Alma Dragón",
+      "_offset": 1818344,
+      "_length": 18
+    },
+    {
+      "text": "Flame Dragon Strike",
+      "translation": "Golpe Fuego Dragón",
+      "_offset": 1818460,
+      "_length": 19
+    },
+    {
+      "text": "Nine-headed Dragon Formation",
+      "translation": "Formación Dragón 9 Cabezas",
+      "_offset": 1818576,
+      "_length": 28
+    },
+    {
+      "text": "Shining Blast",
+      "translation": "Explosión Brillante",
+      "_offset": 1818692,
+      "_length": 13
+    },
+    {
+      "text": "GeoGrey Sword",
+      "translation": "Espada GeoGrey",
+      "_offset": 1818808,
+      "_length": 13
+    },
+    {
+      "text": "Glorious Burst",
+      "translation": "Ráfaga Gloriosa",
+      "_offset": 1818924,
+      "_length": 14
+    },
+    {
+      "text": "Beat Slash",
+      "translation": "Cuchilla Rítmica",
+      "_offset": 1819040,
+      "_length": 10
+    },
+    {
+      "text": "Hard Rock Spirit",
+      "translation": "Espíritu Hard Rock",
+      "_offset": 1819156,
+      "_length": 16
+    },
+    {
+      "text": "Heavy Metal Vulcan",
+      "translation": "Volcán Heavy Metal",
+      "_offset": 1819272,
+      "_length": 18
+    },
+    {
+      "text": "Mach Flicker",
+      "translation": "Destello Mach",
+      "_offset": 1819388,
+      "_length": 12
+    },
+    {
+      "text": "Spin Caliber",
+      "translation": "Giro Calibre",
+      "_offset": 1819504,
+      "_length": 12
+    },
+    {
+      "text": "Prism Garrett",
+      "translation": "Prism Garrett",
+      "_offset": 1819620,
+      "_length": 13
+    },
+    {
+      "text": "First Strike Punishment",
+      "translation": "Castigo Primer Golpe",
+      "_offset": 1819736,
+      "_length": 23
+    },
+    {
+      "text": "Quake! Lightning! Fire! Father!",
+      "translation": "¡Seísmo, rayo, fuego, padre!",
+      "_offset": 1819852,
+      "_length": 31
+    },
+    {
+      "text": "Flipping Table In Anger",
+      "translation": "Voltear Mesa Enfadado",
+      "_offset": 1819968,
+      "_length": 23
+    },
+    {
+      "text": "Continuous Attack",
+      "translation": "Ataque Continuo",
+      "_offset": 1820084,
+      "_length": 17
+    },
+    {
+      "text": "Barrage",
+      "translation": "Ráfaga",
+      "_offset": 1820200,
+      "_length": 7
+    },
+    {
+      "text": "Bubbles",
+      "translation": "Burbujas",
+      "_offset": 1820432,
+      "_length": 7
+    },
+    {
+      "text": "Fox Tail",
+      "translation": "Cola de Zorro",
+      "_offset": 1820548,
+      "_length": 8
+    },
+    {
+      "text": "Puppy Howling",
+      "translation": "Aullido de Cachorro",
+      "_offset": 1820664,
+      "_length": 13
+    },
+    {
+      "text": "Gran Death Big Bang",
+      "translation": "Big Bang + Muerte",
+      "_offset": 1820780,
+      "_length": 19
+    },
+    {
+      "text": "Death Evolution",
+      "translation": "Muerevolución",
+      "_offset": 1820896,
+      "_length": 15
+    },
+    {
+      "text": "V-mon Head",
+      "translation": "Cabezazo V-mon",
+      "_offset": 1821012,
+      "_length": 10
+    },
+    {
+      "text": "Boom Boom Punch",
+      "translation": "Puño Boom Boom",
+      "_offset": 1821128,
+      "_length": 15
+    },
+    {
+      "text": "Fireball",
+      "translation": "Bola de Fuego",
+      "_offset": 1821244,
+      "_length": 8
+    },
+    {
+      "text": "Rock Breaker",
+      "translation": "Rompe Roca",
+      "_offset": 1821360,
+      "_length": 12
+    },
+    {
+      "text": "Burning Salamander",
+      "translation": "Salamandra Ardiente",
+      "_offset": 1821476,
+      "_length": 18
+    },
+    {
+      "text": "Salamander Break",
+      "translation": "Rotura Salamandra",
+      "_offset": 1821592,
+      "_length": 16
+    },
+    {
+      "text": "Baby Burner",
+      "translation": "Quemador Bebé",
+      "_offset": 1821708,
+      "_length": 11
+    },
+    {
+      "text": "Rock Spirit",
+      "translation": "Espíritu Roca",
+      "_offset": 1821824,
+      "_length": 11
+    },
+    {
+      "text": "Soul Crusher",
+      "translation": "Rompe Almas",
+      "_offset": 1821940,
+      "_length": 12
+    },
+    {
+      "text": "Rowdy Rocker",
+      "translation": "Rock Brutal",
+      "_offset": 1822056,
+      "_length": 12
+    },
+    {
+      "text": "Fifth Rush",
+      "translation": "Quinta Carga",
+      "_offset": 1822172,
+      "_length": 10
+    },
+    {
+      "text": "Teen Ram",
+      "translation": "Carga Joven",
+      "_offset": 1822288,
+      "_length": 8
+    },
+    {
+      "text": "Baby Flame",
+      "translation": "Llama Bebé",
+      "_offset": 1822404,
+      "_length": 10
+    },
+    {
+      "text": "     Manual",
+      "translation": "     Manual",
+      "_offset": 1869440,
+      "_length": 11
     },
     {
       "text": "Give direct orders.",
@@ -764,10 +1190,22 @@
       "_length": 19
     },
     {
+      "text": "     Attack",
+      "translation": "     Atacar",
+      "_offset": 1869472,
+      "_length": 11
+    },
+    {
       "text": "Prioritize attack over everything else.",
-      "translation": "Prioriza atacar por encima de\ntodo.",
+      "translation": "Prioriza atacar por encima de todo.",
       "_offset": 1869484,
       "_length": 39
+    },
+    {
+      "text": "     Support",
+      "translation": "     Apoyo",
+      "_offset": 1869524,
+      "_length": 12
     },
     {
       "text": "Turn the battle advantage to your favor.",
@@ -776,10 +1214,22 @@
       "_length": 40
     },
     {
+      "text": "     Health",
+      "translation": "     Salud",
+      "_offset": 1869578,
+      "_length": 11
+    },
+    {
       "text": "Fight while caring for the team's HP.",
-      "translation": "Pelea cuidando el HP del\nequipo.",
+      "translation": "Pelea cuidando el HP del equipo.",
       "_offset": 1869590,
       "_length": 37
+    },
+    {
+      "text": "     Free ",
+      "translation": "     Libre",
+      "_offset": 1869628,
+      "_length": 10
     },
     {
       "text": "Act freely.",
@@ -788,388 +1238,82 @@
       "_length": 11
     },
     {
-      "text": "To the Digimon World",
-      "translation": "Al Digimundo",
-      "_offset": 1906464,
-      "_length": 20
-    },
-    {
-      "text": "Encounter with Koromon",
-      "translation": "Encuentro con Koromon",
-      "_offset": 1906485,
-      "_length": 22
-    },
-    {
-      "text": "Kuwagamon's Counterattack",
-      "translation": "Contraataque de Kuwagamon",
-      "_offset": 1906508,
-      "_length": 25
-    },
-    {
-      "text": "Devimon's Arrival",
-      "translation": "Llega Devimon",
-      "_offset": 1906534,
-      "_length": 17
-    },
-    {
-      "text": "File Island's Collapse",
-      "translation": "Colapso de Isla File",
-      "_offset": 1906552,
-      "_length": 22
-    },
-    {
-      "text": "Giant Devimon",
-      "translation": "Devimon Gig.",
-      "_offset": 1906575,
-      "_length": 13
-    },
-    {
-      "text": "Defeating Devimon",
-      "translation": "Derrota a Devimon",
-      "_offset": 1906589,
-      "_length": 17
-    },
-    {
-      "text": "The Dark Network",
-      "translation": "La Red Oscura",
-      "_offset": 1906607,
-      "_length": 16
-    },
-    {
-      "text": "Dark Evolution to SkullGreymon",
-      "translation": "Evolución Oscura: SkullGreymon",
-      "_offset": 1906624,
-      "_length": 30
-    },
-    {
-      "text": "Taichi Drawn into the Vortex",
-      "translation": "Taichi al Vórtice",
-      "_offset": 1906655,
-      "_length": 28
-    },
-    {
-      "text": "Returning to the Digital World",
-      "translation": "Regreso al Digimundo",
-      "_offset": 1906684,
-      "_length": 30
-    },
-    {
-      "text": "Vamdemon Appears",
-      "translation": "Llega Myotismon",
-      "_offset": 1906715,
-      "_length": 16
-    },
-    {
-      "text": "Wizarmon Falls",
-      "translation": "Cae Wizardmon",
-      "_offset": 1906732,
-      "_length": 14
-    },
-    {
-      "text": "VenomVandemon's Awakening",
-      "translation": "Despierta VenomMyotismon",
-      "_offset": 1906747,
-      "_length": 25
-    },
-    {
-      "text": "Two's Courage! Ultimate-Levels!",
-      "translation": "Dos Valientes! Cuerpo Supremo!",
-      "_offset": 1906773,
-      "_length": 31
-    },
-    {
-      "text": "The Dark Masters",
-      "translation": "Los Amos Oscuros",
-      "_offset": 1906805,
-      "_length": 16
-    },
-    {
-      "text": "The Death of Whamon",
-      "translation": "La Muerte de Whamon",
-      "_offset": 1906822,
-      "_length": 19
-    },
-    {
-      "text": "The Death of Leomon",
-      "translation": "La Muerte de Leomon",
-      "_offset": 1906842,
-      "_length": 19
-    },
-    {
-      "text": "Piemon's Defeat",
-      "translation": "Derrota Piedmon",
-      "_offset": 1906862,
+      "text": "Shock Attack Ω",
+      "translation": "Golpe Shock Ω",
+      "_offset": 1813124,
       "_length": 15
     },
     {
-      "text": "A Space in Another Dimension",
-      "translation": "Un Espacio en Otra Dimensión",
-      "_offset": 1906878,
-      "_length": 28
-    },
-    {
-      "text": "Apocalymon Sealed",
-      "translation": "Apocalymon Preso",
-      "_offset": 1906907,
-      "_length": 17
-    },
-    {
-      "text": "Ignoring the Rules",
-      "translation": "Ignorar las Reglas",
-      "_offset": 1906946,
-      "_length": 18
-    },
-    {
-      "text": "We'll Fight, Too",
-      "translation": "Nosotros También",
-      "_offset": 1906965,
-      "_length": 16
-    },
-    {
-      "text": "Evolve to Omegamon",
-      "translation": "Evol. a Omegamon",
-      "_offset": 1906982,
-      "_length": 18
-    },
-    {
-      "text": "Evolve to Agumon",
-      "translation": "Evol. a Agumon",
-      "_offset": 1907001,
-      "_length": 16
-    },
-    {
-      "text": "Evolve to Greymon",
-      "translation": "Evol. a Greymon",
-      "_offset": 1907018,
-      "_length": 17
-    },
-    {
-      "text": "Evolve to MetalGreymon",
-      "translation": "Evol. a MetalGreymon",
-      "_offset": 1907036,
-      "_length": 22
-    },
-    {
-      "text": "Evolve to WarGreymon",
-      "translation": "Evol. a WarGreymon",
-      "_offset": 1907059,
-      "_length": 20
-    },
-    {
-      "text": "Evolve to Gabumon",
-      "translation": "Evol. a Gabumon",
-      "_offset": 1907080,
-      "_length": 17
-    },
-    {
-      "text": "Evolve to Garurumon",
-      "translation": "Evol. a Garurumon",
-      "_offset": 1907098,
-      "_length": 19
-    },
-    {
-      "text": "Evolve to WereGarurumon",
-      "translation": "Evol. a WereGarurumon",
-      "_offset": 1907118,
-      "_length": 23
-    },
-    {
-      "text": "Evolve to MetalGarurumon",
-      "translation": "Evol. a MetalGarurumon",
-      "_offset": 1907142,
-      "_length": 24
-    },
-    {
-      "text": "Evolve to Piyomon",
-      "translation": "Evol. a Piyomon",
-      "_offset": 1907167,
-      "_length": 17
-    },
-    {
-      "text": "Evolve to Birdramon",
-      "translation": "Evol. a Birdramon",
-      "_offset": 1907185,
-      "_length": 19
-    },
-    {
-      "text": "Evolve to Garudamon",
-      "translation": "Evol. a Garudamon",
-      "_offset": 1907205,
-      "_length": 19
-    },
-    {
-      "text": "Evolve to Hououmon",
-      "translation": "Evol. a Hououmon",
-      "_offset": 1907225,
-      "_length": 18
-    },
-    {
-      "text": "Evolve to Tentomon",
-      "translation": "Evol. a Tentomon",
-      "_offset": 1907244,
-      "_length": 18
-    },
-    {
-      "text": "Evolve to Kabuterimon",
-      "translation": "Evol. a Kabuterimon",
-      "_offset": 1907263,
-      "_length": 21
-    },
-    {
-      "text": "Evolve to AtlurKabuterimon",
-      "translation": "Evol. a MegaKabuterimon",
-      "_offset": 1907285,
-      "_length": 26
-    },
-    {
-      "text": "Evolve to HerakleKabuterimon",
-      "translation": "Evol. a HerakleKabuterimon",
-      "_offset": 1907312,
-      "_length": 28
-    },
-    {
-      "text": "Evolve to Palmon",
-      "translation": "Evol. a Palmon",
-      "_offset": 1907341,
-      "_length": 16
-    },
-    {
-      "text": "Evolve to Togemon",
-      "translation": "Evol. a Togemon",
-      "_offset": 1907358,
-      "_length": 17
-    },
-    {
-      "text": "Evolve to Lilimon",
-      "translation": "Evol. a Lilimon",
-      "_offset": 1907376,
-      "_length": 17
-    },
-    {
-      "text": "Evolve to Rosemon",
-      "translation": "Evol. a Rosemon",
-      "_offset": 1907394,
-      "_length": 17
-    },
-    {
-      "text": "Evolve to Gomamon",
-      "translation": "Evol. a Gomamon",
-      "_offset": 1907412,
-      "_length": 17
-    },
-    {
-      "text": "Evolve to Ikkakumon",
-      "translation": "Evol. a Ikkakumon",
-      "_offset": 1907430,
-      "_length": 19
-    },
-    {
-      "text": "Evolve to Zudomon",
-      "translation": "Evol. a Zudomon",
-      "_offset": 1907450,
-      "_length": 17
-    },
-    {
-      "text": "Evolve to Vikemon",
-      "translation": "Evol. a Vikemon",
-      "_offset": 1907468,
-      "_length": 17
-    },
-    {
-      "text": "Evolve to Patamon",
-      "translation": "Evol. a Patamon",
-      "_offset": 1907486,
-      "_length": 17
-    },
-    {
-      "text": "Evolve to Angemon",
-      "translation": "Evol. a Angemon",
-      "_offset": 1907504,
-      "_length": 17
-    },
-    {
-      "text": "Evolve to HolyAngemon",
-      "translation": "Evol. a MagnaAngemon",
-      "_offset": 1907522,
-      "_length": 21
-    },
-    {
-      "text": "Evolve to Seraphimon",
-      "translation": "Evol. a Seraphimon",
-      "_offset": 1907544,
-      "_length": 20
-    },
-    {
-      "text": "Evolve to Angewomon",
-      "translation": "Evol. a Angewomon",
-      "_offset": 1907565,
-      "_length": 19
-    },
-    {
-      "text": "Evolve to Ophanimon",
-      "translation": "Evol. a Ophanimon",
-      "_offset": 1907585,
-      "_length": 19
-    },
-    {
-      "text": "Baby to Child",
-      "translation": "Bebé a Princ.",
-      "_offset": 1907605,
-      "_length": 13
-    },
-    {
-      "text": "sceUtilitySavedataInitStart failed - %d\n",
-      "translation": "sceUtilitySavedataInitStart failed - %d",
-      "_offset": 1907712,
-      "_length": 40
-    },
-    {
-      "text": "Digimon Adventure",
-      "translation": "Digimon Adventure",
-      "_offset": 1907776,
-      "_length": 17
-    },
-    {
-      "text": "Episode Selection",
-      "translation": "Sel. de Episodio",
-      "_offset": 1907800,
-      "_length": 17
-    },
-    {
-      "text": "Create new data",
-      "translation": "Crear partida",
-      "_offset": 1907824,
+      "text": "Break Attack Ω",
+      "translation": "Golpe Rotura Ω",
+      "_offset": 1813356,
       "_length": 15
     },
     {
-      "text": "Do you want to begin a new game?",
-      "translation": "Quieres empezar partida\nnueva?",
-      "_offset": 1907840,
-      "_length": 32
-    },
-    {
-      "text": "Do you want to overwrite the data?",
-      "translation": "Quieres sobrescribir los\ndatos?",
-      "_offset": 1907876,
-      "_length": 34
-    },
-    {
-      "text": "No more free space. You need at least %s or more to save.",
-      "translation": "No hay espacio libre.\nNecesitas al menos %s para\nguardar.",
-      "_offset": 1907924,
-      "_length": 57
-    },
-    {
-      "text": "Save complete.",
-      "translation": "Guardado listo",
-      "_offset": 1908000,
+      "text": "Rage Attack Ω",
+      "translation": "Golpe Furia Ω",
+      "_offset": 1813588,
       "_length": 14
     },
     {
-      "text": "Process interrupted.",
-      "translation": "Proceso interrump.",
-      "_offset": 1908024,
-      "_length": 20
+      "text": "Poison Attack Ω",
+      "translation": "Golpe Veneno Ω",
+      "_offset": 1813936,
+      "_length": 16
+    },
+    {
+      "text": "Sticky Attack Ω",
+      "translation": "Golpe Pegajoso Ω",
+      "_offset": 1814168,
+      "_length": 16
+    },
+    {
+      "text": "ATK Break Ω",
+      "translation": "Baja ATK Ω",
+      "_offset": 1814632,
+      "_length": 12
+    },
+    {
+      "text": "DEF Break Ω",
+      "translation": "Baja DEF Ω",
+      "_offset": 1814864,
+      "_length": 12
+    },
+    {
+      "text": "Auto Heal Ω",
+      "translation": "Auto Cura Ω",
+      "_offset": 1820316,
+      "_length": 12
+    },
+    {
+      "text": "Lifeup Ω",
+      "translation": "Vida+ Ω",
+      "_offset": 1815792,
+      "_length": 9
+    },
+    {
+      "text": "Sub-Episodes",
+      "translation": "Episodios Secundarios",
+      "_offset": 1530156,
+      "_length": 12
+    },
+    {
+      "text": "Post-Game",
+      "translation": "Tras el final",
+      "_offset": 1530208,
+      "_length": 9
+    },
+    {
+      "text": "※Dummy",
+      "translation": "※Dummy",
+      "_offset": 1871712,
+      "_length": 7
+    },
+    {
+      "text": "※Deleted",
+      "translation": "※Deleted",
+      "_offset": 1873949,
+      "_length": 9
     }
   ]
 }

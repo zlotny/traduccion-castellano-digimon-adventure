@@ -1,621 +1,736 @@
 {
   "file_id": "3578",
-  "text_count": 77,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 81,
   "dialog": [
     {
       "index": 0,
-      "english": "Hey, guys, let's go to\nPinocchimon's mansion.",
-      "_offset": 4089,
-      "_length": 45,
-      "speaker_id": 2,
+      "english": "Hey, guys, let's go to\nPuppetmon's mansion.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 9992,
+      "_bytes": 45,
       "translation": "Vamos, chicos, a la\nmansión de Puppetmon."
     },
     {
       "index": 1,
       "english": "We'll lead the way!",
-      "_offset": 4135,
-      "_length": 19,
-      "speaker_id": 1,
-      "translation": "Iremos delante!"
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 10038,
+      "_bytes": 19,
+      "translation": "¡Iremos delante!"
     },
     {
       "index": 2,
       "english": "I doubt he'll just be waiting for\nus. He'll most likely challenge us\nto a fight.",
-      "_offset": 4155,
-      "_length": 80,
-      "speaker_id": 1,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 10058,
+      "_bytes": 80,
       "translation": "Dudo que se quede quieto.\nSeguro que nos reta a\nluchar."
     },
     {
       "index": 3,
       "english": "Wait! He's an Ultimate, you know!\nIt's not gonna be easy to defeat\nhim...",
-      "_offset": 4236,
-      "_length": 73,
-      "speaker_id": 7,
-      "translation": "Espera! Es Cuerpo Supremo!\nNo será fácil vencerlo..."
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 10139,
+      "_bytes": 73,
+      "translation": "¡Espera! ¡Es Cuerpo Supremo!\nNo será fácil vencerlo..."
     },
     {
       "index": 4,
       "english": "But we're gonna have to face him\nin the end, no matter what...",
-      "_offset": 4310,
-      "_length": 62,
-      "speaker_id": 2,
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 10213,
+      "_bytes": 62,
       "translation": "Pero al final tendremos\nque enfrentarlo, pase lo\nque pase..."
     },
     {
       "index": 5,
       "english": "Well, let's just see how it goes.",
-      "_offset": 4373,
-      "_length": 33,
-      "speaker_id": 4,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10276,
+      "_bytes": 33,
       "translation": "Bueno, veamos qué pasa."
     },
     {
       "index": 6,
       "english": "All right!",
-      "_offset": 4407,
-      "_length": 10,
-      "speaker_id": 3,
-      "translation": "Vale!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 10310,
+      "_bytes": 10,
+      "translation": "¡Vale!"
     },
     {
       "index": 7,
       "english": "This way!",
-      "_offset": 4418,
-      "_length": 9,
-      "speaker_id": 5,
-      "translation": "Por aquí!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 10321,
+      "_bytes": 9,
+      "translation": "¡Por aquí!"
     },
     {
       "index": 8,
-      "english": "Sora...",
-      "_offset": 4432,
-      "_length": 7,
-      "speaker_id": 2,
-      "translation": "Sora..."
+      "english": "...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 10331,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 9,
-      "english": "Well, if you say so... we don't\nhave any other options.",
-      "_offset": 4440,
-      "_length": 55,
-      "speaker_id": 1,
-      "translation": "Bueno, si tú lo dices...\nno hay más opciones."
+      "english": "Sora...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10335,
+      "_bytes": 7,
+      "translation": "Sora..."
     },
     {
       "index": 10,
-      "english": "Don't worry about it. If something\nbad happens, Koromon and I will\nstop them.",
-      "_offset": 4496,
-      "_length": 77,
-      "speaker_id": 1,
-      "translation": "No te preocupes. Si algo\nsale mal, Koromon y yo\nlos pararemos."
+      "english": "Well, if you say so... we don't\nhave any other options.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 10343,
+      "_bytes": 55,
+      "translation": "Bueno, si tú lo dices...\nno hay más opciones."
     },
     {
       "index": 11,
-      "english": "And when it does, you need to take\nthe others and get out of there.",
-      "_offset": 4574,
-      "_length": 67,
-      "speaker_id": 1,
-      "translation": "Y cuando pase, saca a\nlos demás de ahí."
+      "english": "Don't worry about it. If something\nbad happens, Koromon and I will\nstop them.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10399,
+      "_bytes": 77,
+      "translation": "No te preocupes. Si algo\nsale mal, Koromon y yo\nlos pararemos."
     },
     {
       "index": 12,
-      "english": "Tai...",
-      "_offset": 4642,
-      "_length": 9,
-      "speaker_id": 1,
-      "translation": "Tai..."
+      "english": "And when it does, you need to take\nthe others and get out of there.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10477,
+      "_bytes": 67,
+      "translation": "Y cuando pase, saca a\nlos demás de ahí."
     },
     {
       "index": 13,
-      "english": "I'm counting on you.",
-      "_offset": 4652,
-      "_length": 20,
-      "speaker_id": 1,
-      "translation": "Cuento contigo."
+      "english": "Tai...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 10545,
+      "_bytes": 9,
+      "translation": "Tai..."
     },
     {
       "index": 14,
-      "english": "Okay.",
-      "_offset": 4673,
-      "_length": 5,
-      "speaker_id": 1,
-      "translation": "Vale."
+      "english": "I'm counting on you.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10555,
+      "_bytes": 20,
+      "translation": "Cuento contigo."
     },
     {
       "index": 15,
-      "english": "So that's Pinocchimon's mansion,\nhuh? Looks like there's two guards\nout there.",
-      "_offset": 4679,
-      "_length": 78,
-      "speaker_id": 1,
-      "translation": "Así que esa es la mansión\nde Puppetmon? Parece\nque hay dos guardias fuera."
+      "english": "Okay.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 10576,
+      "_bytes": 5,
+      "translation": "Vale."
     },
     {
       "index": 16,
-      "english": "They ain't nothin'! We'll show 'em\nwhat we're made of!",
-      "_offset": 4758,
-      "_length": 54,
-      "speaker_id": 1,
-      "translation": "No son nada! Ya veréis\nde qué pasta estamos\nhechos!"
+      "english": "So that's Puppetmon's mansion,\nhuh? Looks like there's two guards\nout there.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10582,
+      "_bytes": 78,
+      "translation": "¿Así que esa es la mansión\nde Puppetmon? Parece\nque hay dos guardias fuera."
     },
     {
       "index": 17,
-      "english": "Hold it! We don't know what else\nmight be inside, so I'll go first.\nYou guys wait here.",
-      "_offset": 4813,
-      "_length": 87,
-      "speaker_id": 1,
-      "translation": "Alto! No sabemos qué más\nhabrá dentro, así que voy\nyo primero. Esperad aquí."
+      "english": "They ain't nothin'! We'll show 'em\nwhat we're made of!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 10661,
+      "_bytes": 54,
+      "translation": "¡No son nada! ¡Ya veréis\nde qué pasta estamos\nhechos!"
     },
     {
       "index": 18,
-      "english": "I'll go in with you! I already\nknow what's in there!",
-      "_offset": 4901,
-      "_length": 52,
-      "speaker_id": 144,
-      "translation": "Voy contigo! Ya sé lo\nque hay ahí dentro!"
+      "english": "Hold it! We don't know what else\nmight be inside, so I'll go first.\nYou guys wait here.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10716,
+      "_bytes": 87,
+      "translation": "¡Alto! No sabemos qué más\nhabrá dentro, así que voy\nyo primero. Esperad aquí."
     },
     {
       "index": 19,
-      "english": "Yeah, but...",
-      "_offset": 4954,
-      "_length": 12,
-      "speaker_id": 190,
-      "translation": "Sí, pero..."
+      "english": "I'll go in with you! I already\nknow what's in there!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 10804,
+      "_bytes": 52,
+      "translation": "¡Voy contigo! ¡Ya sé lo\nque hay ahí dentro!"
     },
     {
       "index": 20,
-      "english": "Are you still gonna treat me like\na kid?",
-      "_offset": 4967,
-      "_length": 40,
-      "speaker_id": 210,
-      "translation": "Me vais a tratar como\na un crío?"
+      "english": "Yeah, but...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10857,
+      "_bytes": 12,
+      "translation": "Sí, pero..."
     },
     {
       "index": 21,
-      "english": "Well...",
-      "_offset": 5008,
-      "_length": 7,
-      "speaker_id": 35,
-      "translation": "Pues..."
+      "english": "Are you still gonna treat me like\na kid?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 10870,
+      "_bytes": 40,
+      "translation": "¿Aún me vas a tratar como\na un crío?"
     },
     {
       "index": 22,
-      "english": "Let's go in together, Tai.",
-      "_offset": 5016,
-      "_length": 29,
-      "speaker_id": 109,
-      "translation": "Vamos a entrar juntos, Tai."
+      "english": "Well...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10911,
+      "_bytes": 7,
+      "translation": "Pues..."
     },
     {
       "index": 23,
-      "english": "I agree as well.",
-      "_offset": 5046,
-      "_length": 16,
-      "speaker_id": 172,
-      "translation": "Yo también."
+      "english": "Let's go in together, Tai.",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10919,
+      "_bytes": 29,
+      "translation": "Vamos a entrar juntos, Tai."
     },
     {
       "index": 24,
-      "english": "Okay. We'll go in together.",
-      "_offset": 5063,
-      "_length": 27,
-      "speaker_id": 206,
-      "translation": "Vale. Entramos juntos."
+      "english": "I agree as well.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 10949,
+      "_bytes": 16,
+      "translation": "Yo también."
     },
     {
       "index": 25,
-      "english": "Now!",
-      "_offset": 5091,
-      "_length": 4,
-      "speaker_id": 217,
-      "translation": "Ya!"
+      "english": "Okay. We'll go in together.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10966,
+      "_bytes": 27,
+      "translation": "Vale. Entramos juntos."
     },
     {
       "index": 26,
-      "english": "Huh? What monstrosity is this--",
-      "_offset": 5096,
-      "_length": 31,
-      "speaker_id": 227,
-      "translation": "Eh? Qué es esta\nmonstruosidad--"
+      "english": "Now!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10994,
+      "_bytes": 4,
+      "translation": "¡Ya!"
     },
     {
       "index": 27,
-      "english": "Aaaargh! What're you doing?!",
-      "_offset": 5128,
-      "_length": 28,
-      "speaker_id": 231,
-      "translation": "Aaaargh! Qué hacéis?!"
+      "english": "Huh? What monstrosity is this--",
+      "speaker_id": 4441,
+      "line_type": 2,
+      "_offset": 10999,
+      "_bytes": 31,
+      "translation": "¿Eh? ¿Qué es esta monstruosidad--?"
     },
     {
       "index": 28,
-      "english": "You're Pinocchimon's minions,\naren't you?",
-      "_offset": 5157,
-      "_length": 41,
-      "speaker_id": 239,
-      "translation": "Sois esbirros de\nPuppetmon, verdad?"
+      "english": "Aaaargh! What're you doing?!",
+      "speaker_id": 4441,
+      "line_type": 2,
+      "_offset": 11031,
+      "_bytes": 28,
+      "translation": "¡Aaaargh! ¡¿Qué hacéis?!"
     },
     {
       "index": 29,
-      "english": "Forsooth, we are not!",
-      "_offset": 5199,
-      "_length": 21,
-      "speaker_id": 39,
-      "translation": "No lo somos, cierto!"
+      "english": "You're Puppetmon's minions,\naren't you?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 11060,
+      "_bytes": 41,
+      "translation": "Sois esbirros de\nPuppetmon, ¿verdad?"
     },
     {
       "index": 30,
-      "english": "We're not his minions!",
-      "_offset": 5221,
-      "_length": 22,
-      "speaker_id": 117,
-      "translation": "No somos esbirros!"
+      "english": "Forsooth, we are not!",
+      "speaker_id": 4441,
+      "line_type": 2,
+      "_offset": 11102,
+      "_bytes": 21,
+      "translation": "¡No lo somos, cierto!"
     },
     {
       "index": 31,
-      "english": "So then what are you?",
-      "_offset": 5244,
-      "_length": 21,
-      "speaker_id": 185,
-      "translation": "Entonces qué sois?"
+      "english": "We're not his minions!",
+      "speaker_id": 4431,
+      "line_type": 2,
+      "_offset": 11124,
+      "_bytes": 22,
+      "translation": "¡No somos esbirros!"
     },
     {
       "index": 32,
-      "english": "We sought a playmate of worth on\nthe other side...",
-      "_offset": 5266,
-      "_length": 50,
-      "speaker_id": 195,
-      "translation": "Buscábamos un digno\ncompañero de juego..."
+      "english": "So then what are you?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 11147,
+      "_bytes": 21,
+      "translation": "¿Entonces qué sois?"
     },
     {
       "index": 33,
-      "english": "Ah, verily. Pinocchimon hath no\nfriends, forsooth.",
-      "_offset": 5317,
-      "_length": 50,
-      "speaker_id": 216,
-      "translation": "Cierto es. Puppetmon no\ntiene amigos."
+      "english": "We sought a playmate of worth on\nthe other side...",
+      "speaker_id": 4441,
+      "line_type": 2,
+      "_offset": 11169,
+      "_bytes": 50,
+      "translation": "Buscábamos un digno\ncompañero de juego..."
     },
     {
       "index": 34,
-      "english": "So? Is Pinocchimon there or not?",
-      "_offset": 5368,
-      "_length": 32,
-      "speaker_id": 222,
-      "translation": "Bueno? Está Puppetmon\nahí o no?"
+      "english": "Ah, verily. Puppetmon hath no\nfriends, forsooth.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 11220,
+      "_bytes": 50,
+      "translation": "Cierto es. Puppetmon no\ntiene amigos."
     },
     {
       "index": 35,
-      "english": "Hath no hair or hide of him.",
-      "_offset": 5401,
-      "_length": 28,
-      "speaker_id": 45,
-      "translation": "Ni rastro de él."
+      "english": "So? Is Puppetmon there or not?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11271,
+      "_bytes": 32,
+      "translation": "¿Bueno? ¿Está Puppetmon\nahí o no?"
     },
     {
       "index": 36,
-      "english": "Forsooth! Well, Delumon, thou\nshalt be our guide.",
-      "_offset": 5430,
-      "_length": 49,
-      "speaker_id": 100,
-      "translation": "Cierto! Pues Deramon,\ntú serás nuestra guía."
+      "english": "Hath no hair or hide of him.",
+      "speaker_id": 4441,
+      "line_type": 2,
+      "_offset": 11304,
+      "_bytes": 28,
+      "translation": "Ni rastro de él."
     },
     {
       "index": 37,
-      "english": "Verily!",
-      "_offset": 5480,
-      "_length": 7,
-      "speaker_id": 188,
-      "translation": "Cierto!"
+      "english": "Forsooth! Well, Delumon, thou\nshalt be our guide.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 11333,
+      "_bytes": 49,
+      "translation": "¡Cierto! Pues Deramon,\ntú serás nuestra guía."
     },
     {
       "index": 38,
-      "english": "Who's gonna be my next playmate?",
-      "_offset": 5488,
-      "_length": 32,
-      "speaker_id": 241,
-      "translation": "Quién será mi próximo\ncompañero?"
+      "english": "Verily!",
+      "speaker_id": 4441,
+      "line_type": 2,
+      "_offset": 11383,
+      "_bytes": 7,
+      "translation": "¡Cierto!"
     },
     {
       "index": 39,
-      "english": "We were waiting for you,\nPinocchimon!",
-      "_offset": 5521,
-      "_length": 37,
-      "speaker_id": 254,
-      "translation": "Te esperábamos,\nPuppetmon!"
+      "english": "Who's gonna be my next playmate?",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 11391,
+      "_bytes": 32,
+      "translation": "¿Quién será mi próximo compañero?"
     },
     {
       "index": 40,
-      "english": "You... What are *you* doing here?!",
-      "_offset": 5559,
-      "_length": 34,
-      "speaker_id": 39,
-      "translation": "Tú... Qué haces TÚ aquí?!"
+      "english": "We were waiting for you,\nPuppetmon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11424,
+      "_bytes": 37,
+      "translation": "¡Te esperábamos,\nPuppetmon!"
     },
     {
       "index": 41,
-      "english": "Gyaaaah!",
-      "_offset": 5594,
-      "_length": 8,
-      "speaker_id": 47,
-      "translation": "Aaaaagh!"
+      "english": "You... What are *you* doing here?!",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 11462,
+      "_bytes": 34,
+      "translation": "Tú... ¡¿Qué haces TÚ aquí?!"
     },
     {
       "index": 42,
-      "english": "Time to settle the score,\nPinocchimon!",
-      "_offset": 5603,
-      "_length": 38,
-      "speaker_id": 77,
-      "translation": "Hora de ajustar cuentas,\nPuppetmon!"
+      "english": "Gyaaaah!",
+      "speaker_id": 4441,
+      "line_type": 2,
+      "_offset": 11497,
+      "_bytes": 8,
+      "translation": "¡Aaaaagh!"
     },
     {
       "index": 43,
-      "english": "Hmph! Fine! If you wanna play with\nme that badly, then let's go!",
-      "_offset": 5642,
-      "_length": 64,
-      "speaker_id": 94,
-      "translation": "Já! Bien! Si tantas ganas\ntienes de jugar, pues vamos!"
+      "english": "Time to settle the score,\nPuppetmon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11506,
+      "_bytes": 38,
+      "translation": "¡Hora de ajustar cuentas,\nPuppetmon!"
     },
     {
       "index": 44,
-      "english": "Tai!",
-      "_offset": 5710,
-      "_length": 7,
-      "speaker_id": 127,
-      "translation": "Tai!"
+      "english": "Hmph! Fine! If you wanna play with\nme that badly, then let's go!",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 11545,
+      "_bytes": 64,
+      "translation": "¡Ja! ¡Bien! ¡Si tantas ganas\ntienes de jugar, pues vamos!"
     },
     {
       "index": 45,
-      "english": "Ack!",
-      "_offset": 5718,
-      "_length": 4,
-      "speaker_id": 159,
-      "translation": "Ack!"
+      "english": "?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11610,
+      "_bytes": 2,
+      "translation": "?!"
     },
     {
       "index": 46,
-      "english": "Hahaha! You mooooorooooooons!\nSee, T.K? I was telling the\ntruth!",
-      "_offset": 5723,
-      "_length": 67,
-      "speaker_id": 188,
-      "translation": "Jajaja! Sois unos\nboboooobos! Ves, T.K?\nTe dije la verdad!"
+      "english": "Tai!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 11613,
+      "_bytes": 7,
+      "translation": "¡Tai!"
     },
     {
       "index": 47,
-      "english": "I have friends! See? Get 'em,\nRedVeggiemon!",
-      "_offset": 5791,
-      "_length": 43,
-      "speaker_id": 230,
-      "translation": "Tengo amigos! A por\nellos, RedVeggiemon!"
+      "english": "Ack!",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 11621,
+      "_bytes": 4,
+      "translation": "¡Ack!"
     },
     {
       "index": 48,
-      "english": "Pinocchimon's gone!",
-      "_offset": 5835,
-      "_length": 19,
-      "speaker_id": 252,
-      "translation": "Puppetmon huyó!"
+      "english": "Hahaha! You mooooorooooooons!\nSee, T.K? I was telling the\ntruth!",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 11626,
+      "_bytes": 67,
+      "translation": "¡Jajaja! ¡Sois unos\nboboooobos! ¿Ves, T.K.?\n¡Te dije la verdad!"
     },
     {
       "index": 49,
-      "english": "Where'd he go?",
-      "_offset": 5855,
-      "_length": 14,
-      "speaker_id": 19,
-      "translation": "A dónde fue?"
+      "english": "I have friends! See? Get 'em,\nRedVeggiemon!",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 11694,
+      "_bytes": 43,
+      "translation": "¡Tengo amigos! ¡A por\nellos, RedVeggiemon!"
     },
     {
       "index": 50,
-      "english": "He can't have gone *that* far.\nLet's go find him!",
-      "_offset": 5870,
-      "_length": 49,
-      "speaker_id": 41,
-      "translation": "No puede haber ido muy\nlejos. Vamos a buscarlo!"
+      "english": "Puppetmon's gone!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 11738,
+      "_bytes": 19,
+      "translation": "¡Puppetmon huyó!"
     },
     {
       "index": 51,
-      "english": "We've got you now, Pinocchimon!",
-      "_offset": 5920,
-      "_length": 31,
-      "speaker_id": 92,
-      "translation": "Ya te tenemos, Puppetmon!"
+      "english": "Where'd he go?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 11758,
+      "_bytes": 14,
+      "translation": "¿A dónde fue?"
     },
     {
       "index": 52,
-      "english": "They're just running left and\nright! How useless!",
-      "_offset": 5952,
-      "_length": 49,
-      "speaker_id": 143,
-      "translation": "Solo corren de un lado a\notro! Qué inútiles!"
+      "english": "He can't have gone *that* far.\nLet's go find him!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11773,
+      "_bytes": 49,
+      "translation": "No puede haber ido muy\nlejos. ¡Vamos a buscarlo!"
     },
     {
       "index": 53,
-      "english": "Let's go, guys!",
-      "_offset": 6002,
-      "_length": 15,
-      "speaker_id": 176,
-      "translation": "Vamos, chicos!"
+      "english": "We've got you now, Puppetmon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11823,
+      "_bytes": 31,
+      "translation": "¡Ya te tenemos, Puppetmon!"
     },
     {
       "index": 54,
-      "english": "All right, Pinocchimon! Let's have\nat it!",
-      "_offset": 6018,
-      "_length": 41,
-      "speaker_id": 205,
-      "translation": "Bien, Puppetmon! A por\nello!"
+      "english": "They're just running left and\nright! How useless!",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 11855,
+      "_bytes": 49,
+      "translation": "¡Solo corren de un lado a\notro! ¡Qué inútiles!"
     },
     {
       "index": 55,
-      "english": "Gh...",
-      "_offset": 6060,
-      "_length": 5,
-      "speaker_id": 255,
-      "translation": "Gh..."
+      "english": "Let's go, guys!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11905,
+      "_bytes": 15,
+      "translation": "¡Vamos, chicos!"
     },
     {
       "index": 56,
-      "english": "Be wary of the Chosen Children!",
-      "_offset": 6066,
-      "_length": 31,
-      "speaker_id": 7,
-      "translation": "Cuidado con los Niños\nElegidos!"
+      "english": "All right, Puppetmon! Let's have\nat it!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11921,
+      "_bytes": 41,
+      "translation": "¡Bien, Puppetmon! ¡A por\nello!"
     },
     {
       "index": 57,
-      "english": "If you underestimate them, even\nyou might lose, Lord Pinocchimon.",
-      "_offset": 6098,
-      "_length": 65,
-      "speaker_id": 40,
-      "translation": "Si los subestimas, hasta tú\npodrías perder, Señor Puppetmon."
+      "english": "Gh...",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 11963,
+      "_bytes": 5,
+      "translation": "Gh..."
     },
     {
       "index": 58,
-      "english": "You're saying I might lose?",
-      "_offset": 6164,
-      "_length": 27,
-      "speaker_id": 78,
-      "translation": "Dices que podría perder?"
+      "english": "Be wary of the Chosen Children!",
+      "speaker_id": 4401,
+      "line_type": 2,
+      "_offset": 11969,
+      "_bytes": 31,
+      "translation": "¡Cuidado con los Niños Elegidos!"
     },
     {
       "index": 59,
-      "english": "Hah, there's no way I could lose!\nTake this!",
-      "_offset": 6192,
-      "_length": 44,
-      "speaker_id": 113,
-      "translation": "Já, no hay forma de que\npierda! Toma esto!"
+      "english": "If you underestimate them, even\nyou might lose, Lord Puppetmon.",
+      "speaker_id": 4401,
+      "line_type": 2,
+      "_offset": 12001,
+      "_bytes": 65,
+      "translation": "Si los subestimas, hasta tú\npodrías perder, Señor Puppetmon."
     },
     {
       "index": 60,
-      "english": "He fled again!",
-      "_offset": 6237,
-      "_length": 14,
-      "speaker_id": 122,
-      "translation": "Huyó otra vez!"
+      "english": "You're saying I might lose?",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 12067,
+      "_bytes": 27,
+      "translation": "¿Dices que podría perder?"
     },
     {
       "index": 61,
-      "english": "Ugh!",
-      "_offset": 6252,
-      "_length": 4,
-      "speaker_id": 161,
-      "translation": "Ugh!"
+      "english": "Hah, there's no way I could lose!\nTake this!",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 12095,
+      "_bytes": 44,
+      "translation": "¡Ja, no hay forma de que\npierda! ¡Toma esto!"
     },
     {
       "index": 62,
-      "english": "Hah! That caught 'em off guard.\nNow's my chance...",
-      "_offset": 6257,
-      "_length": 50,
-      "speaker_id": 226,
-      "translation": "Já! Eso los ha\npillado. Ahora es mi\noportunidad..."
+      "english": "He fled again!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12140,
+      "_bytes": 14,
+      "translation": "¡Huyó otra vez!"
     },
     {
       "index": 63,
-      "english": "Lord Pinocchimon! Take me with\nyou!",
-      "_offset": 6308,
-      "_length": 35,
-      "speaker_id": 229,
-      "translation": "Señor Puppetmon! Lléveme\nconsigo!"
+      "english": "Ugh!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12155,
+      "_bytes": 4,
+      "translation": "¡Ugh!"
     },
     {
       "index": 64,
-      "english": "Shut up! You'll only be a\nnuisance!",
-      "_offset": 6344,
-      "_length": 35,
-      "speaker_id": 237,
-      "translation": "Cállate! Solo serás un\nestorbo!"
+      "english": "Hah! That caught 'em off guard.\nNow's my chance...",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 12160,
+      "_bytes": 50,
+      "translation": "¡Ja! Eso los ha\npillado. Ahora es mi\noportunidad..."
     },
     {
       "index": 65,
-      "english": "Wasn't he supposed to be a friend\nof yours?",
-      "_offset": 6380,
-      "_length": 43,
-      "speaker_id": 242,
-      "translation": "No se suponía que era\namigo tuyo?"
+      "english": "Lord Puppetmon! Take me with\nyou!",
+      "speaker_id": 4916,
+      "line_type": 2,
+      "_offset": 12211,
+      "_bytes": 35,
+      "translation": "¡Señor Puppetmon! ¡Lléveme\nconsigo!"
     },
     {
       "index": 66,
-      "english": "W-Who's there?!",
-      "_offset": 6424,
-      "_length": 15,
-      "speaker_id": 54,
-      "translation": "Quién va?!"
+      "english": "Shut up! You'll only be a\nnuisance!",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 12247,
+      "_bytes": 35,
+      "translation": "¡Cállate! ¡Solo serás un\nestorbo!"
     },
     {
       "index": 67,
-      "english": "Oh! Nice timing! Hey, why don't\nyou go up against those guys?",
-      "_offset": 6440,
-      "_length": 61,
-      "speaker_id": 98,
-      "translation": "Vaya! Qué oportuno! Oye,\npor qué no luchas contra\nesos?"
+      "english": "Wasn't he supposed to be a friend\nof yours?",
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 12283,
+      "_bytes": 43,
+      "translation": "¿No se suponía que era\namigo tuyo?"
     },
     {
       "index": 68,
-      "english": "Hey! Aren't you listening?",
-      "_offset": 6506,
-      "_length": 26,
-      "speaker_id": 133,
-      "translation": "Oye! No estás escuchando?"
+      "english": "W-Who's there?!",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 12327,
+      "_bytes": 15,
+      "translation": "¡¿Quién va?!"
     },
     {
       "index": 69,
-      "english": "Do you *seriously* think I'd\nlisten to someone who just\nstraight-up murders his friends?",
-      "_offset": 6533,
-      "_length": 88,
-      "speaker_id": 183,
-      "translation": "En serio crees que voy\na escuchar a quien\nasesina a sus amigos?"
+      "english": "Oh! Nice timing! Hey, why don't\nyou go up against those guys?",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 12343,
+      "_bytes": 61,
+      "translation": "¡Vaya! ¡Qué oportuno! Oye,\n¿por qué no luchas contra\nesos?"
     },
     {
       "index": 70,
-      "english": "What did you just say? You're\ngetting on my nerves!",
-      "_offset": 6622,
-      "_length": 51,
-      "speaker_id": 215,
-      "translation": "Qué acabas de decir? Me\nestás sacando de quicio!"
+      "english": "...",
+      "speaker_id": 2251,
+      "line_type": 2,
+      "_offset": 12405,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 71,
-      "english": "Cocytus Breath!",
-      "_offset": 6674,
-      "_length": 15,
-      "speaker_id": 9,
-      "translation": "Soplo Cocytos!"
+      "english": "Hey! Aren't you listening?",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 12409,
+      "_bytes": 26,
+      "translation": "¡Oye! ¿No estás escuchando?"
     },
     {
       "index": 72,
-      "english": "Aaaaaaaagh!",
-      "_offset": 6690,
-      "_length": 11,
-      "speaker_id": 25,
-      "translation": "Aaaaaaargh!"
+      "english": "Do you *seriously* think I'd\nlisten to someone who just\nstraight-up murders his friends?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 12436,
+      "_bytes": 88,
+      "translation": "¿En serio crees que voy\na escuchar a quien\nasesina a sus amigos?"
     },
     {
       "index": 73,
-      "english": "J-Jureimon...",
-      "_offset": 6702,
-      "_length": 13,
-      "speaker_id": 67,
-      "translation": "J-Jureimon..."
+      "english": "What did you just say? You're\ngetting on my nerves!",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 12525,
+      "_bytes": 51,
+      "translation": "¿Qué acabas de decir? ¡Me\nestás sacando de quicio!"
     },
     {
       "index": 74,
-      "english": "What was it... that I was\nmissing...?",
-      "_offset": 6716,
-      "_length": 37,
-      "speaker_id": 73,
-      "translation": "Qué era... lo que me\nfaltaba...?"
+      "english": "Cocytus Breath!",
+      "speaker_id": 2251,
+      "line_type": 2,
+      "_offset": 12577,
+      "_bytes": 15,
+      "translation": "¡Soplo Cocytus!"
     },
     {
       "index": 75,
-      "english": "Matt!",
-      "_offset": 6754,
-      "_length": 7,
-      "speaker_id": 105,
-      "translation": "Matt!"
+      "english": "Aaaaaaaagh!",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 12593,
+      "_bytes": 11,
+      "translation": "¡Aaaaaaargh!"
     },
     {
       "index": 76,
+      "english": "J-Jureimon...",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 12605,
+      "_bytes": 13,
+      "translation": "J-Jureimon..."
+    },
+    {
+      "index": 77,
+      "english": "What was it... that I was\nmissing...?",
+      "speaker_id": 3061,
+      "line_type": 2,
+      "_offset": 12619,
+      "_bytes": 37,
+      "translation": "¿Qué era... lo que me\nfaltaba...?"
+    },
+    {
+      "index": 78,
+      "english": "Matt!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12657,
+      "_bytes": 7,
+      "translation": "¡Matt!"
+    },
+    {
+      "index": 79,
+      "english": "...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 12665,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 80,
       "english": "Matt...",
-      "_offset": 6766,
-      "_length": 9,
-      "speaker_id": 199,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12669,
+      "_bytes": 9,
       "translation": "Matt..."
     }
   ]

@@ -1,1390 +1,1601 @@
 {
   "file_id": "3541",
-  "text_count": 173,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 177,
   "dialog": [
     {
       "index": 0,
-      "english": "��������This is the base of Infinity\nMountain.",
-      "_offset": 2240,
-      "_length": 46,
-      "speaker_id": 0,
+      "english": "This is the base of Infinity\nMountain.",
+      "speaker_id": 4071,
+      "line_type": 2,
+      "_offset": 15784,
+      "_bytes": 38,
       "translation": "Esta es la base del Monte Mugen."
     },
     {
       "index": 1,
       "english": "That's where Devimon's waiting for\nus.",
-      "_offset": 2287,
-      "_length": 38,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15823,
+      "_bytes": 38,
       "translation": "Aquí es donde nos espera Devimon."
     },
     {
       "index": 2,
       "english": "Heeeeeeeey!",
-      "_offset": 2326,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Eeeeeh!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 15862,
+      "_bytes": 11,
+      "translation": "¡Eeeeeh!"
     },
     {
       "index": 3,
       "english": "Tai! Guys!",
-      "_offset": 2338,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Tai! Chicos!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 15874,
+      "_bytes": 13,
+      "translation": "¡Tai! ¡Chicos!"
     },
     {
       "index": 4,
-      "english": "Joe, Sora! You're safe!",
-      "_offset": 2355,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Joe, Sora! Estáis bien!"
-    },
-    {
-      "index": 5,
-      "english": "Glad we could catch up to you...",
-      "_offset": 2379,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Menos mal que os pillamos..."
-    },
-    {
-      "index": 6,
-      "english": "I was worried about what we'd do\nif you'd left us behind.",
-      "_offset": 2412,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Me preocupaba qué hacer si nos\ndejábais atrás."
-    },
-    {
-      "index": 7,
-      "english": "I'm really glad you two are safe!",
-      "_offset": 2470,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Me alegra que estéis bien!"
-    },
-    {
-      "index": 8,
-      "english": "I thought you two were gonna run.",
-      "_offset": 2504,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Pensaba que os largaríais."
-    },
-    {
-      "index": 9,
-      "english": "Tai...",
-      "_offset": 2538,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Tai..."
-    },
-    {
-      "index": 10,
-      "english": "What's wrong, Tai? You're not\nacting like yourself.",
-      "_offset": 2548,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Que pasa, Tai? No pareces tú\nmismo."
-    },
-    {
-      "index": 11,
-      "english": "This is a great day, because we\ngot to meet up with you guys\nagain!",
-      "_offset": 2603,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Es un dia genial, por que nos\nhemos podido reunir de nuevo!"
-    },
-    {
-      "index": 12,
-      "english": "Taiiiiii!",
-      "_offset": 2671,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Taiiiii!"
-    },
-    {
-      "index": 13,
-      "english": "How rude, Tai!",
-      "_offset": 2684,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Que borde!"
-    },
-    {
-      "index": 14,
-      "english": "Sorry, sorry!",
-      "_offset": 2702,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Perdón!"
-    },
-    {
-      "index": 15,
-      "english": "Okay, we're all here!",
-      "_offset": 2716,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Vale, estamos todos!"
-    },
-    {
-      "index": 16,
-      "english": "And we've got Leomon helping us\nout as well.",
-      "_offset": 2738,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Y tenemos a Leomon de ayuda\ntambién."
-    },
-    {
-      "index": 17,
-      "english": "Whoa! Seems like a lot's happened\nwhile we were gone.",
-      "_offset": 2783,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Uah! Ocurrieron muchas\ncosas desde la última vez."
-    },
-    {
-      "index": 18,
-      "english": "I'm surprised.",
-      "_offset": 2837,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Me sorprende."
-    },
-    {
-      "index": 19,
-      "english": "It's the least I can do to atone.\nPlease allow me to assist you.",
-      "_offset": 2852,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "Quiero redimirme. Dejad que os\nayude."
-    },
-    {
-      "index": 20,
-      "english": "It's fine, I was just surprised.",
-      "_offset": 2917,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Está bien, sólo me sorprende."
-    },
-    {
-      "index": 21,
-      "english": "Looking forward to working with\nyou!",
-      "_offset": 2950,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Encantado de trabajar contigo!"
-    },
-    {
-      "index": 22,
-      "english": "Okay, let's go find Devimon!",
-      "_offset": 2987,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Vale, encontremos a Devimon!"
-    },
-    {
-      "index": 23,
-      "english": "I think we've got a fighting\nchance against Devimon, since Sora\nand Joe arrived just in time.",
-      "_offset": 3016,
-      "_length": 93,
-      "speaker_id": 0,
-      "translation": "Creo que tenemos alguna\noportunidad contra Devimon, ya\nque Sora y Joe están aquí."
-    },
-    {
-      "index": 24,
-      "english": "But Devimon's much stronger than\nthe enemies we've fought so far.",
-      "_offset": 3110,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Pero Devimon es más fuerte\nque los enemigos que tuvimos\nhasta ahora"
-    },
-    {
-      "index": 25,
-      "english": "True, but we can use the Digivices\nnow!",
-      "_offset": 3176,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Cierto, pero tenemos los\ndispositivos!"
-    },
-    {
-      "index": 26,
-      "english": "Yeah! We'll defeat Devimon and get\nback to our world, for sure!",
-      "_offset": 3216,
-      "_length": 63,
-      "speaker_id": 0,
-      "translation": "Si! Derrotaremos a Devimon y\nvolveremos a nuestro mundo!"
-    },
-    {
-      "index": 27,
-      "english": "If we defeat Devimon, we'll\nfinally get to go home.",
-      "_offset": 3280,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Si le derrotamos, podremos\nvolver."
-    },
-    {
-      "index": 28,
-      "english": "Finally, at last. I've missed so\nmany days of cram school.",
-      "_offset": 3332,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Por fin. Perdí muchos dias de\nescuela."
-    },
-    {
-      "index": 29,
-      "english": "Is cram school the only thing you\nworry about?",
-      "_offset": 3391,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Es esa escuela lo único que te\npreocupa?"
-    },
-    {
-      "index": 30,
-      "english": "I can't help it! I'm a student,\nyou know!",
-      "_offset": 3438,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "No lo puedo evitar! Soy\nestudioso, sabes?"
-    },
-    {
-      "index": 31,
-      "english": "In that case, we'll have to do our\nbest for the sake of your grades!",
-      "_offset": 3480,
-      "_length": 68,
-      "speaker_id": 0,
-      "translation": "En ese caso, esfuérzate al máximo\npor el bien de tus notas!"
-    },
-    {
-      "index": 32,
-      "english": "You saved us when you figured out\nthe Digivice's secret, Izzy.",
-      "_offset": 3549,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Nos salvaste con el secreto de\nlos dispositivos, Izzy."
-    },
-    {
-      "index": 33,
-      "english": "It was a coincidence; we just\nhappened to be in the old ruins.",
-      "_offset": 3617,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Fué coincidencia; Resulta que\nacabamos en unas viejas ruinas."
-    },
-    {
-      "index": 34,
-      "english": "But aren't you're the one who\ninspected the ruins? Take credit \nfor your accomplishments!",
-      "_offset": 3680,
-      "_length": 89,
-      "speaker_id": 0,
-      "translation": "Pero no fuiste tú el que estudió\nesas ruinas? No te quites el\nmérito!"
-    },
-    {
-      "index": 35,
-      "english": "Tai...",
-      "_offset": 3770,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Tai..."
-    },
-    {
-      "index": 36,
-      "english": "We'll be at the top soon. Let's\ntake a short break.",
-      "_offset": 3780,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Estaremos arriba pronto.\nDescansemos un poco."
-    },
-    {
-      "index": 37,
-      "english": "Head up",
-      "_offset": 3832,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Seguir"
-    },
-    {
-      "index": 38,
-      "english": "Talk with the others a little longer",
-      "_offset": 3840,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Hablar con el resto un poco más."
-    },
-    {
-      "index": 39,
-      "english": "All right, let's head up!",
-      "_offset": 3877,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "De acuerdo, sigamos!"
-    },
-    {
-      "index": 40,
-      "english": "We weren't away that long, but it\nfeels like we haven't seen each\nother in a long time.",
-      "_offset": 3903,
-      "_length": 87,
-      "speaker_id": 0,
-      "translation": "No estuvimos separados tanto,\npero parece que nos nos hayamos\nvisto en meses."
-    },
-    {
-      "index": 41,
-      "english": "Yeah. Well, a lot happened while\nwe were separated.",
-      "_offset": 3991,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Si. Bueno, pasaron muchas cosas."
-    },
-    {
-      "index": 42,
-      "english": "Agumon and I wound up drifting to\na place with a ton of ice and\nsnow...",
-      "_offset": 4043,
-      "_length": 71,
-      "speaker_id": 0,
-      "translation": "Agumon y yo acabamos en un lugar\nlleno de hielo y nieve..."
-    },
-    {
-      "index": 43,
-      "english": "We got captured by some ghosts.",
-      "_offset": 4115,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Nos capturaron unos fantasmas."
-    },
-    {
-      "index": 44,
-      "english": "Really? Tell me all about it when\nwe get home.",
-      "_offset": 4147,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "De veras? Cuéntame todo cuando\nvolvamos a casa."
-    },
-    {
-      "index": 45,
-      "english": "Sure.",
-      "_offset": 4194,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Vale."
-    },
-    {
-      "index": 46,
-      "english": "We're going to *another* dark and\ndamp place...",
-      "_offset": 4200,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Vamos a otro lugar oscuro y\nhúmedo..."
-    },
-    {
-      "index": 47,
-      "english": "What on earth happened?",
-      "_offset": 4248,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Qué ha ocurrido?"
-    },
-    {
-      "index": 48,
-      "english": "So we're still not done climbing\nMonte Mugen...",
-      "_offset": 4272,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Así que aún no subimos el Monte\nMugen..."
-    },
-    {
-      "index": 49,
-      "english": "Mimi, are you tired?",
-      "_offset": 4326,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Mimi, estás cansada?"
-    },
-    {
-      "index": 50,
-      "english": "If you're tired, you can wait here.",
-      "_offset": 4347,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Si estás cansada, espera aquí."
-    },
-    {
-      "index": 51,
-      "english": "I'm fine. Just a bit more and I\ncan go home.",
-      "_offset": 4383,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Estoy bien. Un poco más y nos\nvamos a casa."
-    },
-    {
-      "index": 52,
-      "english": "Yeah, that's the spirit!",
-      "_offset": 4428,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Ese es el espíritu!"
-    },
-    {
-      "index": 53,
-      "english": "You've grown up a little, Mimi.",
-      "_offset": 4453,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Te has hecho mayor, Mimi."
-    },
-    {
-      "index": 54,
-      "english": "You're so mean, Palmon!",
-      "_offset": 4485,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Que mala, Palmon!"
-    },
-    {
-      "index": 55,
-      "english": "What're you saying? This mountain\nis nothing to me if it means I can\ngo home soon!",
-      "_offset": 4509,
-      "_length": 82,
-      "speaker_id": 0,
-      "translation": "Qué dices? Esta montaña no es\nnada si significa irse a casa\npronto!"
-    },
-    {
-      "index": 56,
-      "english": "Mimi, you've gotten a lot\nstronger.",
-      "_offset": 4592,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Mimi, eres mucho más fuerte\nahora."
-    },
-    {
-      "index": 57,
-      "english": "The first thing I'll do when I get\nhome is take a shower!",
-      "_offset": 4628,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Lo primero que haré al volver es\ndarme una ducha!"
-    },
-    {
-      "index": 58,
-      "english": "...Or maybe just a little\nstronger.",
-      "_offset": 4686,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "...Quizás sólo algo más\nfuerte."
-    },
-    {
-      "index": 59,
-      "english": "Okay, I'll have to work hard now,\nso I can take a nice shower, too!",
-      "_offset": 4722,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Vale, tengo que trabajar duro\npara poder darme una ducha,\ntambién!"
-    },
-    {
-      "index": 60,
-      "english": "Patamon and I were looking after a\nbunch of Digimon babies!",
-      "_offset": 4790,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Patamon y yo cuidamos de muchos\nDigimon bebés!"
-    },
-    {
-      "index": 61,
-      "english": "That's great, T.K!",
-      "_offset": 4850,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Genial, T.K!"
-    },
-    {
-      "index": 62,
-      "english": "So Digimon hatch from eggs?",
-      "_offset": 4872,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Salen de huevos?"
-    },
-    {
-      "index": 63,
-      "english": "Haha! Tai, did you know that\nDigimon hatch from eggs?",
-      "_offset": 4900,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Vaya Tai! no sabías de dónde\nnacen los Digimon?"
-    },
-    {
-      "index": 64,
-      "english": "Really?!",
-      "_offset": 4957,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Si?!"
-    },
-    {
-      "index": 65,
-      "english": "Really! I bet Agumon and the\nothers did, too!",
-      "_offset": 4966,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Seguro que Agumon y los\ndemás nacieron así!"
-    },
-    {
-      "index": 66,
-      "english": "(Now that I think about it, why\nwere Agumon and the others the \nonly ones to not be born there?)",
-      "_offset": 5012,
-      "_length": 96,
-      "speaker_id": 0,
-      "translation": "(Ahora que lo pienso, por qué\nAgumon y los otros fueron los\núnicos en no nacer allí?)"
-    },
-    {
-      "index": 67,
-      "english": "Really! I bet Agumon and the\nothers did, too!",
-      "_offset": 5109,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Seguro que Agumon y los demás\nnacieron así!"
-    },
-    {
-      "index": 68,
-      "english": "(Now that I think about it, why\nwere Agumon and the others the \nonly ones to not be born there?)",
-      "_offset": 5155,
-      "_length": 96,
-      "speaker_id": 0,
-      "translation": "(Ahora que lo pienso, por qué\nAgumon y los otros fueron los\núnicos en no nacer allí?)"
-    },
-    {
-      "index": 69,
-      "english": "Did you hatch from an egg too,\nPatamon?",
-      "_offset": 5252,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Saliste de un huevo, Patamon?"
-    },
-    {
-      "index": 70,
-      "english": "Maybe. I don't really remember it\nmuch.",
-      "_offset": 5292,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Supongo. No lo recuerdo."
-    },
-    {
-      "index": 71,
-      "english": "I've been waiting, ya brats...",
-      "_offset": 5332,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Os esperaba, idiotas..."
-    },
-    {
-      "index": 72,
-      "english": "You don't have a chance, so why\ndon't you just run for it?",
-      "_offset": 5363,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "No puedes con nosotros, por qué\nno te largas sin más?"
-    },
-    {
-      "index": 73,
-      "english": "I don't think so!",
-      "_offset": 5422,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Ni de broma!"
-    },
-    {
-      "index": 74,
-      "english": "Huh? What's with the sudden\nconfidence?",
-      "_offset": 5440,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Eh? De donde sale esa confianza?"
-    },
-    {
-      "index": 75,
-      "english": "I've become one with Devimon and\nbeen granted power!",
-      "_offset": 5480,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Ahora soy uno con el poder de\nDevimon!"
-    },
-    {
-      "index": 76,
-      "english": "What...?!",
-      "_offset": 5533,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Que...?!"
-    },
-    {
-      "index": 77,
-      "english": "I won't lose to you again! I'll\nchoke the life out of all of you!",
-      "_offset": 5543,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "No perderé otra vez. Os arrancaré\nla vida de cuajo!"
-    },
-    {
-      "index": 78,
-      "english": "Ghhhh...",
-      "_offset": 5609,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Ghh..."
-    },
-    {
-      "index": 79,
-      "english": "Did we kill Ogremon?",
-      "_offset": 5618,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Matamos a Ogremon?"
-    },
-    {
-      "index": 80,
-      "english": "No, he just said he'd become one\nwith Devimon, so he's not dead...",
-      "_offset": 5639,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "No, dijo que se hizo uno con\nDevimon, no creo que esté\nmuerto..."
-    },
-    {
-      "index": 81,
-      "english": "That's not enough to stop us from\ngetting to Devimon. Let's hurry!",
-      "_offset": 5706,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "No es suficiente para frenarnos\nhacia Devimon. Vayamos!"
-    },
-    {
-      "index": 82,
-      "english": "Chosen Children...I can't believe\nthat you've managed to meet up and\nappear in front of me once again.",
-      "_offset": 5773,
-      "_length": 102,
-      "speaker_id": 0,
-      "translation": "Niños Elegidos... No puedo creer\nque os juntáseis y apareciéseis\naquí, frente a mi."
-    },
-    {
-      "index": 83,
-      "english": "Devimon!",
-      "_offset": 5876,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Devimon!"
-    },
-    {
-      "index": 84,
-      "english": "Come to me, powers of darkness!",
-      "_offset": 5885,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Ven a mi, oscuridad!"
-    },
-    {
-      "index": 85,
-      "english": "Gyaaaaah! What's this?!",
-      "_offset": 5917,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Huaaa! Qué es esto?!"
-    },
-    {
-      "index": 86,
-      "english": "The powers of darkness made him\ninto a giant!",
-      "_offset": 5941,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "El poder de la oscuridad lo ha\nhecho gigante!"
-    },
-    {
-      "index": 87,
-      "english": "I'll make File Island into your\ngraveyard!",
-      "_offset": 5987,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "La isla File será vuestro\ncementerio!"
-    },
-    {
-      "index": 88,
-      "english": "He's coming at us!",
-      "_offset": 6030,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Ahí viene!"
-    },
-    {
-      "index": 89,
-      "english": "So the so-called \"Chosen Children\"\ncan only do this much to me?",
-      "_offset": 6049,
-      "_length": 63,
-      "speaker_id": 0,
-      "translation": "Estos tales \"Niños Elegidos\"\nno pueden hacerme nada más?"
-    },
-    {
-      "index": 90,
-      "english": "What...? He was only toying with\nus?",
-      "_offset": 6116,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Qué...? Estába jugando con\nnosotros?"
-    },
-    {
-      "index": 91,
-      "english": "It is your fate to be destroyed\nhere!",
-      "_offset": 6153,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Morir es vuestro destino!"
-    },
-    {
-      "index": 92,
-      "english": "The powers of darkness are\nexpanding...!",
-      "_offset": 6191,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "El poder de la oscuridad\nse expanden...!"
-    },
-    {
-      "index": 93,
-      "english": "Now...for a trial of strength...",
-      "_offset": 6232,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Ahora...una prueba de fuerza..."
-    },
-    {
-      "index": 94,
-      "english": "Uwaaaaaaaaah!",
-      "_offset": 6265,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Uuuaahhhh!"
-    },
-    {
-      "index": 95,
-      "english": "Guys!",
-      "_offset": 6279,
-      "_length": 5,
-      "speaker_id": 0,
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 15888,
+      "_bytes": 2,
       "translation": "!!"
     },
     {
+      "index": 5,
+      "english": "Joe, Sora! You're safe!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15891,
+      "_bytes": 23,
+      "translation": "¡Joe, Sora! ¡Estáis bien!"
+    },
+    {
+      "index": 6,
+      "english": "Glad we could catch up to you...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 15915,
+      "_bytes": 32,
+      "translation": "Menos mal que os pillamos..."
+    },
+    {
+      "index": 7,
+      "english": "I was worried about what we'd do\nif you'd left us behind.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 15948,
+      "_bytes": 57,
+      "translation": "Me preocupaba qué hacer si nos\ndejabais atrás."
+    },
+    {
+      "index": 8,
+      "english": "I'm really glad you two are safe!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16006,
+      "_bytes": 33,
+      "translation": "¡Me alegra que estéis bien!"
+    },
+    {
+      "index": 9,
+      "english": "I thought you two were gonna run.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16040,
+      "_bytes": 33,
+      "translation": "Pensaba que os largaríais."
+    },
+    {
+      "index": 10,
+      "english": "Tai...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16074,
+      "_bytes": 9,
+      "translation": "Tai..."
+    },
+    {
+      "index": 11,
+      "english": "What's wrong, Tai? You're not\nacting like yourself.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16084,
+      "_bytes": 54,
+      "translation": "¿Qué pasa, Tai? No pareces tú\nmismo."
+    },
+    {
+      "index": 12,
+      "english": "This is a great day, because we\ngot to meet up with you guys\nagain!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16139,
+      "_bytes": 67,
+      "translation": "¡Es un día genial, porque nos\nhemos podido reunir de nuevo!"
+    },
+    {
+      "index": 13,
+      "english": "Taiiiiii!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16207,
+      "_bytes": 12,
+      "translation": "¡Taiiiii!"
+    },
+    {
+      "index": 14,
+      "english": "How rude, Tai!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16220,
+      "_bytes": 17,
+      "translation": "¡Qué borde!"
+    },
+    {
+      "index": 15,
+      "english": "Sorry, sorry!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16238,
+      "_bytes": 13,
+      "translation": "¡Perdón!"
+    },
+    {
+      "index": 16,
+      "english": "Okay, we're all here!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16252,
+      "_bytes": 21,
+      "translation": "¡Vale, estamos todos!"
+    },
+    {
+      "index": 17,
+      "english": "And we've got Leomon helping us\nout as well.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16274,
+      "_bytes": 44,
+      "translation": "Y tenemos a Leomon de ayuda\ntambién."
+    },
+    {
+      "index": 18,
+      "english": "Whoa! Seems like a lot's happened\nwhile we were gone.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16319,
+      "_bytes": 53,
+      "translation": "¡Uah! Ocurrieron muchas\ncosas desde la última vez."
+    },
+    {
+      "index": 19,
+      "english": "I'm surprised.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16373,
+      "_bytes": 14,
+      "translation": "Me sorprende."
+    },
+    {
+      "index": 20,
+      "english": "It's the least I can do to atone.\nPlease allow me to assist you.",
+      "speaker_id": 4071,
+      "line_type": 2,
+      "_offset": 16388,
+      "_bytes": 64,
+      "translation": "Quiero redimirme. Dejad que os\nayude."
+    },
+    {
+      "index": 21,
+      "english": "It's fine, I was just surprised.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16453,
+      "_bytes": 32,
+      "translation": "Está bien, sólo me sorprende."
+    },
+    {
+      "index": 22,
+      "english": "Looking forward to working with\nyou!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16486,
+      "_bytes": 36,
+      "translation": "¡Encantada de trabajar contigo!"
+    },
+    {
+      "index": 23,
+      "english": "Okay, let's go find Devimon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16523,
+      "_bytes": 28,
+      "translation": "¡Vale, encontremos a Devimon!"
+    },
+    {
+      "index": 24,
+      "english": "I think we've got a fighting\nchance against Devimon, since Sora\nand Joe arrived just in time.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16552,
+      "_bytes": 93,
+      "translation": "Creo que tenemos alguna\noportunidad contra Devimon, ya\nque Sora y Joe están aquí."
+    },
+    {
+      "index": 25,
+      "english": "But Devimon's much stronger than\nthe enemies we've fought so far.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16646,
+      "_bytes": 65,
+      "translation": "Pero Devimon es más fuerte\nque los enemigos que hemos\ntenido hasta ahora."
+    },
+    {
+      "index": 26,
+      "english": "True, but we can use the Digivices\nnow!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16712,
+      "_bytes": 39,
+      "translation": "¡Cierto, pero tenemos los\ndispositivos!"
+    },
+    {
+      "index": 27,
+      "english": "Yeah! We'll defeat Devimon and get\nback to our world, for sure!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16752,
+      "_bytes": 63,
+      "translation": "¡Sí! ¡Derrotaremos a Devimon y\nvolveremos a nuestro mundo!"
+    },
+    {
+      "index": 28,
+      "english": "If we defeat Devimon, we'll\nfinally get to go home.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16816,
+      "_bytes": 51,
+      "translation": "Si le derrotamos, podremos\nvolver."
+    },
+    {
+      "index": 29,
+      "english": "Finally, at last. I've missed so\nmany days of cram school.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16868,
+      "_bytes": 58,
+      "translation": "Por fin. He perdido muchos días\nde academia."
+    },
+    {
+      "index": 30,
+      "english": "Is cram school the only thing you\nworry about?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16927,
+      "_bytes": 46,
+      "translation": "¿Es la academia lo único que te\npreocupa?"
+    },
+    {
+      "index": 31,
+      "english": "I can't help it! I'm a student,\nyou know!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16974,
+      "_bytes": 41,
+      "translation": "¡No lo puedo evitar! Soy\nestudiante, ¿sabes?"
+    },
+    {
+      "index": 32,
+      "english": "In that case, we'll have to do our\nbest for the sake of your grades!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17016,
+      "_bytes": 68,
+      "translation": "¡En ese caso, esfuérzate al máximo\npor el bien de tus notas!"
+    },
+    {
+      "index": 33,
+      "english": "You saved us when you figured out\nthe Digivice's secret, Izzy.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17085,
+      "_bytes": 67,
+      "translation": "Nos salvaste con el secreto de\nlos dispositivos, Izzy."
+    },
+    {
+      "index": 34,
+      "english": "It was a coincidence; we just\nhappened to be in the old ruins.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17153,
+      "_bytes": 62,
+      "translation": "Fue coincidencia; resulta que\nacabamos en unas viejas ruinas."
+    },
+    {
+      "index": 35,
+      "english": "But aren't you're the one who\ninspected the ruins? Take credit \nfor your accomplishments!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17216,
+      "_bytes": 89,
+      "translation": "¿Pero no fuiste tú el que estudió\nesas ruinas? ¡No te quites el\nmérito!"
+    },
+    {
+      "index": 36,
+      "english": "Tai...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17306,
+      "_bytes": 9,
+      "translation": "Tai..."
+    },
+    {
+      "index": 37,
+      "english": "We'll be at the top soon. Let's\ntake a short break.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17316,
+      "_bytes": 51,
+      "translation": "Estaremos arriba pronto.\nDescansemos un poco."
+    },
+    {
+      "index": 38,
+      "english": "Head up",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 17368,
+      "_bytes": 7,
+      "translation": "Seguir"
+    },
+    {
+      "index": 39,
+      "english": "Talk with the others a little longer",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 17376,
+      "_bytes": 36,
+      "translation": "Hablar con el resto un poco más."
+    },
+    {
+      "index": 40,
+      "english": "All right, let's head up!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17413,
+      "_bytes": 25,
+      "translation": "¡De acuerdo, sigamos!"
+    },
+    {
+      "index": 41,
+      "english": "We weren't away that long, but it\nfeels like we haven't seen each\nother in a long time.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17439,
+      "_bytes": 87,
+      "translation": "No estuvimos separados tanto,\npero parece que no nos hayamos\nvisto en meses."
+    },
+    {
+      "index": 42,
+      "english": "Yeah. Well, a lot happened while\nwe were separated.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17527,
+      "_bytes": 51,
+      "translation": "Sí. Bueno, pasaron muchas cosas."
+    },
+    {
+      "index": 43,
+      "english": "Agumon and I wound up drifting to\na place with a ton of ice and\nsnow...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17579,
+      "_bytes": 71,
+      "translation": "Agumon y yo acabamos en un lugar\nlleno de hielo y nieve..."
+    },
+    {
+      "index": 44,
+      "english": "We got captured by some ghosts.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17651,
+      "_bytes": 31,
+      "translation": "Nos capturaron unos fantasmas."
+    },
+    {
+      "index": 45,
+      "english": "Really? Tell me all about it when\nwe get home.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17683,
+      "_bytes": 46,
+      "translation": "¿De veras? Cuéntame todo cuando\nvolvamos a casa."
+    },
+    {
+      "index": 46,
+      "english": "Sure.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17730,
+      "_bytes": 5,
+      "translation": "Vale."
+    },
+    {
+      "index": 47,
+      "english": "We're going to *another* dark and\ndamp place...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17736,
+      "_bytes": 47,
+      "translation": "Vamos a otro lugar oscuro y\nhúmedo..."
+    },
+    {
+      "index": 48,
+      "english": "What on earth happened?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17784,
+      "_bytes": 23,
+      "translation": "¿Qué ha ocurrido?"
+    },
+    {
+      "index": 49,
+      "english": "So we're still not done climbing\nInfinity Mountain...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 17808,
+      "_bytes": 53,
+      "translation": "Así que aún no hemos acabado\nde subir el Monte Mugen..."
+    },
+    {
+      "index": 50,
+      "english": "Mimi, are you tired?",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 17862,
+      "_bytes": 20,
+      "translation": "Mimi, ¿estás cansada?"
+    },
+    {
+      "index": 51,
+      "english": "If you're tired, you can wait here.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 17883,
+      "_bytes": 35,
+      "translation": "Si estás cansada, espera aquí."
+    },
+    {
+      "index": 52,
+      "english": "I'm fine. Just a bit more and I\ncan go home.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 17919,
+      "_bytes": 44,
+      "translation": "Estoy bien. Un poco más y nos\nvamos a casa."
+    },
+    {
+      "index": 53,
+      "english": "Yeah, that's the spirit!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17964,
+      "_bytes": 24,
+      "translation": "¡Ese es el espíritu!"
+    },
+    {
+      "index": 54,
+      "english": "You've grown up a little, Mimi.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 17989,
+      "_bytes": 31,
+      "translation": "Te has hecho mayor, Mimi."
+    },
+    {
+      "index": 55,
+      "english": "You're so mean, Palmon!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 18021,
+      "_bytes": 23,
+      "translation": "¡Qué mala, Palmon!"
+    },
+    {
+      "index": 56,
+      "english": "What're you saying? This mountain\nis nothing to me if it means I can\ngo home soon!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 18045,
+      "_bytes": 82,
+      "translation": "¿Qué dices? ¡Esta montaña no es\nnada si significa irse a casa\npronto!"
+    },
+    {
+      "index": 57,
+      "english": "Mimi, you've gotten a lot\nstronger.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18128,
+      "_bytes": 35,
+      "translation": "Mimi, eres mucho más fuerte\nahora."
+    },
+    {
+      "index": 58,
+      "english": "The first thing I'll do when I get\nhome is take a shower!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 18164,
+      "_bytes": 57,
+      "translation": "¡Lo primero que haré al volver es\ndarme una ducha!"
+    },
+    {
+      "index": 59,
+      "english": "...Or maybe just a little\nstronger.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 18222,
+      "_bytes": 35,
+      "translation": "...Quizás sólo algo más\nfuerte."
+    },
+    {
+      "index": 60,
+      "english": "Okay, I'll have to work hard now,\nso I can take a nice shower, too!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18258,
+      "_bytes": 67,
+      "translation": "¡Vale, tengo que trabajar duro\npara poder darme una ducha,\ntambién!"
+    },
+    {
+      "index": 61,
+      "english": "Patamon and I were looking after a\nbunch of Digimon babies!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 18326,
+      "_bytes": 59,
+      "translation": "¡Patamon y yo cuidamos de muchos\nDigimon bebés!"
+    },
+    {
+      "index": 62,
+      "english": "That's great, T.K!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 18386,
+      "_bytes": 21,
+      "translation": "¡Genial, T.K.!"
+    },
+    {
+      "index": 63,
+      "english": "So Digimon hatch from eggs?",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 18408,
+      "_bytes": 27,
+      "translation": "¿Salen de huevos?"
+    },
+    {
+      "index": 64,
+      "english": "Haha! Tai, did you know that\nDigimon hatch from eggs?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 18436,
+      "_bytes": 56,
+      "translation": "¡Vaya, Tai! ¿No sabías de dónde\nnacen los Digimon?"
+    },
+    {
+      "index": 65,
+      "english": "Really?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18493,
+      "_bytes": 8,
+      "translation": "¡¿Sí?!"
+    },
+    {
+      "index": 66,
+      "english": "Really! I bet Agumon and the\nothers did, too!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 18502,
+      "_bytes": 45,
+      "translation": "¡Seguro que Agumon y los\ndemás nacieron así!"
+    },
+    {
+      "index": 67,
+      "english": "(Now that I think about it, why\nwere Agumon and the others the \nonly ones to not be born there?)",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18548,
+      "_bytes": 96,
+      "translation": "(Ahora que lo pienso, ¿por qué\nAgumon y los otros fueron los\núnicos en no nacer allí?)"
+    },
+    {
+      "index": 68,
+      "english": "Really! I bet Agumon and the\nothers did, too!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 18645,
+      "_bytes": 45,
+      "translation": "¡Seguro que Agumon y los demás\nnacieron así!"
+    },
+    {
+      "index": 69,
+      "english": "(Now that I think about it, why\nwere Agumon and the others the \nonly ones to not be born there?)",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18691,
+      "_bytes": 96,
+      "translation": "(Ahora que lo pienso, ¿por qué\nAgumon y los otros fueron los\núnicos en no nacer allí?)"
+    },
+    {
+      "index": 70,
+      "english": "Did you hatch from an egg too,\nPatamon?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18788,
+      "_bytes": 39,
+      "translation": "¿Saliste de un huevo, Patamon?"
+    },
+    {
+      "index": 71,
+      "english": "Maybe. I don't really remember it\nmuch.",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 18828,
+      "_bytes": 39,
+      "translation": "Supongo. No lo recuerdo."
+    },
+    {
+      "index": 72,
+      "english": "I've been waiting, ya brats...",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 18868,
+      "_bytes": 30,
+      "translation": "Os esperaba, idiotas..."
+    },
+    {
+      "index": 73,
+      "english": "You don't have a chance, so why\ndon't you just run for it?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18899,
+      "_bytes": 58,
+      "translation": "No puedes con nosotros, ¿por qué\nno te largas sin más?"
+    },
+    {
+      "index": 74,
+      "english": "I don't think so!",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 18958,
+      "_bytes": 17,
+      "translation": "¡Ni de broma!"
+    },
+    {
+      "index": 75,
+      "english": "Huh? What's with the sudden\nconfidence?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18976,
+      "_bytes": 39,
+      "translation": "¿Eh? ¿De dónde sale esa confianza?"
+    },
+    {
+      "index": 76,
+      "english": "I've become one with Devimon and\nbeen granted power!",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 19016,
+      "_bytes": 52,
+      "translation": "¡Ahora soy uno con el poder de\nDevimon!"
+    },
+    {
+      "index": 77,
+      "english": "What...?!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 19069,
+      "_bytes": 9,
+      "translation": "¡¿Qué...?!"
+    },
+    {
+      "index": 78,
+      "english": "I won't lose to you again! I'll\nchoke the life out of all of you!",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 19079,
+      "_bytes": 65,
+      "translation": "No perderé otra vez. ¡Os arrancaré\nla vida de cuajo!"
+    },
+    {
+      "index": 79,
+      "english": "Ghhhh...",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 19145,
+      "_bytes": 8,
+      "translation": "Ghh..."
+    },
+    {
+      "index": 80,
+      "english": "Did we kill Ogremon?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 19154,
+      "_bytes": 20,
+      "translation": "¿Matamos a Ogremon?"
+    },
+    {
+      "index": 81,
+      "english": "No, he just said he'd become one\nwith Devimon, so he's not dead...",
+      "speaker_id": 4071,
+      "line_type": 2,
+      "_offset": 19175,
+      "_bytes": 66,
+      "translation": "No, dijo que se hizo uno con\nDevimon, no creo que esté\nmuerto..."
+    },
+    {
+      "index": 82,
+      "english": "That's not enough to stop us from\ngetting to Devimon. Let's hurry!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 19242,
+      "_bytes": 66,
+      "translation": "Con eso no basta para frenarnos.\n¡Vamos a por Devimon!"
+    },
+    {
+      "index": 83,
+      "english": "Chosen Children...I can't believe\nthat you've managed to meet up and\nappear in front of me once again.",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 19309,
+      "_bytes": 102,
+      "translation": "Niños Elegidos... No puedo creer\nque os juntaseis y aparecieseis\naquí, frente a mí."
+    },
+    {
+      "index": 84,
+      "english": "Devimon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 19412,
+      "_bytes": 8,
+      "translation": "¡Devimon!"
+    },
+    {
+      "index": 85,
+      "english": "Come to me, powers of darkness!",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 19421,
+      "_bytes": 31,
+      "translation": "¡Ven a mí, oscuridad!"
+    },
+    {
+      "index": 86,
+      "english": "Gyaaaaah! What's this?!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 19453,
+      "_bytes": 23,
+      "translation": "¡Huaaa! ¡¿Qué es esto?!"
+    },
+    {
+      "index": 87,
+      "english": "The powers of darkness made him\ninto a giant!",
+      "speaker_id": 4071,
+      "line_type": 2,
+      "_offset": 19477,
+      "_bytes": 45,
+      "translation": "¡El poder de la oscuridad lo ha\nhecho gigante!"
+    },
+    {
+      "index": 88,
+      "english": "I'll make File Island into your\ngraveyard!",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 19523,
+      "_bytes": 42,
+      "translation": "¡La isla File será vuestro\ncementerio!"
+    },
+    {
+      "index": 89,
+      "english": "He's coming at us!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 19566,
+      "_bytes": 18,
+      "translation": "¡Ahí viene!"
+    },
+    {
+      "index": 90,
+      "english": "So the so-called \"Chosen Children\"\ncan only do this much to me?",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 19585,
+      "_bytes": 63,
+      "translation": "¿Estos tales \"Niños Elegidos\"\nno pueden hacerme nada más?"
+    },
+    {
+      "index": 91,
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 19649,
+      "_bytes": 2,
+      "translation": "!!"
+    },
+    {
+      "index": 92,
+      "english": "What...? He was only toying with\nus?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 19652,
+      "_bytes": 36,
+      "translation": "¿Qué...? ¿Estaba jugando con\nnosotros?"
+    },
+    {
+      "index": 93,
+      "english": "It is your fate to be destroyed\nhere!",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 19689,
+      "_bytes": 37,
+      "translation": "¡Morir es vuestro destino!"
+    },
+    {
+      "index": 94,
+      "english": "The powers of darkness are\nexpanding...!",
+      "speaker_id": 4071,
+      "line_type": 2,
+      "_offset": 19727,
+      "_bytes": 40,
+      "translation": "¡El poder de la oscuridad\nse expande...!"
+    },
+    {
+      "index": 95,
+      "english": "Now...for a trial of strength...",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 19768,
+      "_bytes": 32,
+      "translation": "Ahora...una prueba de fuerza..."
+    },
+    {
       "index": 96,
-      "english": "First, I shall start with the\nsmallest Chosen Child...",
-      "_offset": 6285,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Primero, el niño más pequeño..."
+      "english": "Uwaaaaaaaaah!",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 19801,
+      "_bytes": 13,
+      "translation": "¡Uuuaahhhh!"
     },
     {
       "index": 97,
-      "english": "Does he mean T.K?!",
-      "_offset": 6343,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ese es T.K?!"
+      "english": "Guys!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 19815,
+      "_bytes": 5,
+      "translation": "¡Chicos!"
     },
     {
       "index": 98,
-      "english": "If you disappear, I have nothing\nleft to be afraid of.",
-      "_offset": 6365,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Si desapareces, no tengo nada\nque temer."
+      "english": "First, I shall start with the\nsmallest Chosen Child...",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 19821,
+      "_bytes": 54,
+      "translation": "Primero, el niño más pequeño..."
     },
     {
       "index": 99,
-      "english": "T.Kuuuuu!",
-      "_offset": 6420,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "T.K!!!"
+      "english": "!!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 19876,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 100,
-      "english": "Gh...",
-      "_offset": 6433,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Gh..."
+      "english": "Does he mean T.K?!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 19879,
+      "_bytes": 21,
+      "translation": "¡¿Se refiere a T.K.?!"
     },
     {
       "index": 101,
-      "english": "Leomon! Are you okay?",
-      "_offset": 6439,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Leomon! Estás bien?"
+      "english": "If you disappear, I have nothing\nleft to be afraid of.",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 19901,
+      "_bytes": 54,
+      "translation": "Si desapareces, no tengo nada\nque temer."
     },
     {
       "index": 102,
-      "english": "Yes, but I don't think I have any\nmore power.",
-      "_offset": 6461,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Si, pero no tengo más energía."
+      "english": "T.Kuuuuu!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 19956,
+      "_bytes": 12,
+      "translation": "¡¡¡T.K.!!!"
     },
     {
       "index": 103,
-      "english": "Leomon...",
-      "_offset": 6507,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Leomon..."
+      "english": "Gh...",
+      "speaker_id": 4071,
+      "line_type": 2,
+      "_offset": 19969,
+      "_bytes": 5,
+      "translation": "Gh..."
     },
     {
       "index": 104,
-      "english": "(Why am I...why am I the only one\nwho can't evolve?)",
-      "_offset": 6517,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "(Por qué soy yo el único que no\ndigievoluciona?)"
+      "english": "Leomon! Are you okay?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 19975,
+      "_bytes": 21,
+      "translation": "¡Leomon! ¿Estás bien?"
     },
     {
       "index": 105,
-      "english": "All of you, watch and observe the\nsmallest Chosen Child's greatest\nand final moment!",
-      "_offset": 6570,
-      "_length": 84,
-      "speaker_id": 0,
-      "translation": "Observad todos el momento final\ndel más pequeño de los Niños\nElegidos!"
+      "english": "Yes, but I don't think I have any\nmore power.",
+      "speaker_id": 4071,
+      "line_type": 2,
+      "_offset": 19997,
+      "_bytes": 45,
+      "translation": "Sí, pero no tengo más energía."
     },
     {
       "index": 106,
-      "english": "No...I'll protect T.K!",
-      "_offset": 6655,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "No...Te protegeré, T.K!"
+      "english": "Leomon...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 20043,
+      "_bytes": 9,
+      "translation": "Leomon..."
     },
     {
       "index": 107,
-      "english": "!! Patamon...",
-      "_offset": 6681,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "!! Patamon..."
+      "english": "(Why am I...why am I the only one\nwho can't evolve?)",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 20053,
+      "_bytes": 52,
+      "translation": "(¿Por qué soy yo el único que no\ndigievoluciona?)"
     },
     {
       "index": 108,
-      "english": "I've decided, I'm going to stay\nwith T.K!",
-      "_offset": 6695,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Decidido, me quedo con T.K!"
+      "english": "All of you, watch and observe the\nsmallest Chosen Child's greatest\nand final moment!",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 20106,
+      "_bytes": 84,
+      "translation": "¡Observad todos el momento final\ndel más pequeño de los Niños\nElegidos!"
     },
     {
       "index": 109,
-      "english": "The words of a powerless Digimon\nare only in vain.",
-      "_offset": 6740,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Las palabras de un Digimon débil\nson en vano."
+      "english": "No...I'll protect T.K!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 20191,
+      "_bytes": 25,
+      "translation": "No...¡Te protegeré, T.K.!"
     },
     {
       "index": 110,
-      "english": "Patamoooooooooooon!",
-      "_offset": 6791,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Patamooooooooooon!"
+      "english": "!! Patamon...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 20217,
+      "_bytes": 13,
+      "translation": "!! Patamon..."
     },
     {
       "index": 111,
-      "english": "Patamon evolved...",
-      "_offset": 6811,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Digievolucionó..."
+      "english": "I've decided, I'm going to stay\nwith T.K!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 20231,
+      "_bytes": 44,
+      "translation": "¡Decidido, me quedo con T.K.!"
     },
     {
       "index": 112,
-      "english": "That's T.K's Digimon...?",
-      "_offset": 6830,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Ese es el Digimon de T.K?"
+      "english": "The words of a powerless Digimon\nare only in vain.",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 20276,
+      "_bytes": 50,
+      "translation": "Las palabras de un Digimon débil\nson en vano."
     },
     {
       "index": 113,
-      "english": "He's like an angel...",
-      "_offset": 6858,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Es como un ángel..."
+      "english": "Patamoooooooooooon!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 20327,
+      "_bytes": 19,
+      "translation": "¡Patamooooooooooon!"
     },
     {
       "index": 114,
-      "english": "Patamon?",
-      "_offset": 6880,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Patamon?"
+      "english": "Patamon evolved...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 20347,
+      "_bytes": 18,
+      "translation": "Digievolucionó..."
     },
     {
       "index": 115,
-      "english": "T.K, I'm Angemon...your\nfriend...",
-      "_offset": 6889,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "T.K, soy Angemon... tu\namigo..."
+      "english": "That's T.K's Digimon...?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 20366,
+      "_bytes": 27,
+      "translation": "¿Ese es el Digimon de T.K.?"
     },
     {
       "index": 116,
-      "english": "Angemon...",
-      "_offset": 6926,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Angemon..."
+      "english": "He's like an angel...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 20394,
+      "_bytes": 21,
+      "translation": "Es como un ángel..."
     },
     {
       "index": 117,
-      "english": "Why, you...and I was so close!",
-      "_offset": 6937,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Por qué...estaba tan cerca!"
+      "english": "Patamon?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 20416,
+      "_bytes": 8,
+      "translation": "¿Patamon?"
     },
     {
       "index": 118,
-      "english": "Agumon! Everyone! Lend me your\npower one more time!",
-      "_offset": 6968,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Agumon! Todos! Dadme vuestro\npoder una vez más!"
+      "english": "T.K, I'm Angemon...your\nfriend...",
+      "speaker_id": 2731,
+      "line_type": 2,
+      "_offset": 20425,
+      "_bytes": 36,
+      "translation": "T.K., soy Angemon... tu\namigo..."
     },
     {
       "index": 119,
-      "english": "We're going to defeat Devimon!\nLet's go!",
-      "_offset": 7020,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Derrotaremos a Devimon!\nVamos!"
-    },
-    {
-      "index": 120,
-      "english": "Yeah!",
-      "_offset": 7061,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Si!"
-    },
-    {
-      "index": 121,
-      "english": "I will erase your powers of\ndarkness!",
-      "_offset": 7067,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Eliminaré tus poderes oscuros!"
-    },
-    {
-      "index": 122,
-      "english": "Fool. You're going to lose all\nyour power this way, Angemon...",
-      "_offset": 7105,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Idiota. Perderás tus poderes si\nhaces eso, Angemon..."
-    },
-    {
-      "index": 123,
-      "english": "The powers of darkness exist\nacross the ocean as well, as do\nDigimon stronger than me!",
-      "_offset": 7168,
-      "_length": 86,
-      "speaker_id": 0,
-      "translation": "El poder de la oscuridad existe\nmás allá del océano, y\nDigimon más fuertes que yo!"
-    },
-    {
-      "index": 124,
-      "english": "W-what...?!",
-      "_offset": 7255,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Q-Qué...?!"
-    },
-    {
-      "index": 125,
-      "english": "You guys are doomed!\nHahahahahahaha...!",
-      "_offset": 7267,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Estáis perdidos!\nJajajajajaja...!"
-    },
-    {
-      "index": 126,
       "english": "Angemon...",
-      "_offset": 7307,
-      "_length": 10,
-      "speaker_id": 0,
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 20462,
+      "_bytes": 10,
       "translation": "Angemon..."
     },
     {
+      "index": 120,
+      "english": "Why, you...and I was so close!",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 20473,
+      "_bytes": 30,
+      "translation": "¡Maldito...! ¡Y estaba tan cerca!"
+    },
+    {
+      "index": 121,
+      "english": "Agumon! Everyone! Lend me your\npower one more time!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 20504,
+      "_bytes": 51,
+      "translation": "¡Agumon! ¡Todos! ¡Dadme vuestro\npoder una vez más!"
+    },
+    {
+      "index": 122,
+      "english": "We're going to defeat Devimon!\nLet's go!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 20556,
+      "_bytes": 40,
+      "translation": "¡Derrotaremos a Devimon!\n¡Vamos!"
+    },
+    {
+      "index": 123,
+      "english": "Yeah!",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 20597,
+      "_bytes": 5,
+      "translation": "¡Sí!"
+    },
+    {
+      "index": 124,
+      "english": "I will erase your powers of\ndarkness!",
+      "speaker_id": 2731,
+      "line_type": 2,
+      "_offset": 20603,
+      "_bytes": 37,
+      "translation": "¡Eliminaré tus poderes oscuros!"
+    },
+    {
+      "index": 125,
+      "english": "Fool. You're going to lose all\nyour power this way, Angemon...",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 20641,
+      "_bytes": 62,
+      "translation": "Idiota. Perderás tus poderes si\nhaces eso, Angemon..."
+    },
+    {
+      "index": 126,
+      "english": "The powers of darkness exist\nacross the ocean as well, as do\nDigimon stronger than me!",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 20704,
+      "_bytes": 86,
+      "translation": "¡El poder de la oscuridad existe\nmás allá del océano, y\nDigimon más fuertes que yo!"
+    },
+    {
       "index": 127,
-      "english": "T.K...I'm sure we'll meet\nagain, if you wish for it.",
-      "_offset": 7318,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "T.K...Nos volveremos a\nencontrar, así lo deseo."
+      "english": "W-what...?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 20791,
+      "_bytes": 11,
+      "translation": "¡¿Q-Qué...?!"
     },
     {
       "index": 128,
-      "english": "Angemoooooooooon!",
-      "_offset": 7374,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Angemooooooooon!"
+      "english": "You guys are doomed!\nHahahahahahaha...!",
+      "speaker_id": 3011,
+      "line_type": 2,
+      "_offset": 20803,
+      "_bytes": 39,
+      "translation": "¡Estáis perdidos!\n¡Jajajajajaja...!"
     },
     {
       "index": 129,
-      "english": "It's a DigiEgg.",
-      "_offset": 7392,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Es un DigiHuevo"
+      "english": "Angemon...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 20843,
+      "_bytes": 10,
+      "translation": "Angemon..."
     },
     {
       "index": 130,
-      "english": "It's Angemon's, right?",
-      "_offset": 7408,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Es de Angemon, verdad?"
+      "english": "T.K...I'm sure we'll meet\nagain, if you wish for it.",
+      "speaker_id": 2731,
+      "line_type": 2,
+      "_offset": 20854,
+      "_bytes": 55,
+      "translation": "T.K... Nos volveremos a\nencontrar, si así lo deseas."
     },
     {
       "index": 131,
-      "english": "Angemon turned into an egg and is\nstarting over.",
-      "_offset": 7431,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Angemon se ha convertido en huevo\nde nuevo."
+      "english": "Angemoooooooooon!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 20910,
+      "_bytes": 17,
+      "translation": "¡Angemooooooooon!"
     },
     {
       "index": 132,
-      "english": "If he evolves properly, you'll\nmeet him again.",
-      "_offset": 7480,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Si evoluciona, volveremos a\nverle."
+      "english": "It's a DigiEgg.",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 20928,
+      "_bytes": 15,
+      "translation": "Es un DigiHuevo."
     },
     {
       "index": 133,
-      "english": "Then I'll make sure to raise him\ncarefully.",
-      "_offset": 7527,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Me encargaré de cuidarle mucho."
+      "english": "It's Angemon's, right?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 20944,
+      "_bytes": 22,
+      "translation": "Es de Angemon, ¿verdad?"
     },
     {
       "index": 134,
-      "english": "Guys! The island is coming back\ntogether!",
-      "_offset": 7571,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Chicos! La isla se está juntando."
+      "english": "Angemon turned into an egg and is\nstarting over.",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 20967,
+      "_bytes": 48,
+      "translation": "Angemon se ha convertido en huevo\nde nuevo."
     },
     {
       "index": 135,
-      "english": "Devimon? Did they kill him?",
-      "_offset": 7613,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Devimon? Lo han matado?"
+      "english": "If he evolves properly, you'll\nmeet him again.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 21016,
+      "_bytes": 46,
+      "translation": "Si evoluciona, volveremos a\nverle."
     },
     {
       "index": 136,
-      "english": "Ogremon. Do you want to fight\nagain?",
-      "_offset": 7641,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Ogremon. Quieres luchar de nuevo?"
+      "english": "Then I'll make sure to raise him\ncarefully.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 21063,
+      "_bytes": 43,
+      "translation": "Me encargaré de cuidarle mucho."
     },
     {
       "index": 137,
-      "english": "H-haaah! I'm done with all of\nthis!",
-      "_offset": 7678,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Eh-eeh! Estoy harto de esto!"
+      "english": "Guys! The island is coming back\ntogether!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 21107,
+      "_bytes": 41,
+      "translation": "¡Chicos! La isla se está juntando."
     },
     {
       "index": 138,
-      "english": "But...I'm worried about what\nDevimon said about Digimon with\nstrong, dark powers...",
-      "_offset": 7714,
-      "_length": 83,
-      "speaker_id": 0,
-      "translation": "Pero...Me preocupa lo que dijo\nDevimon de Digimon más fuertes,\npoder oscuro..."
+      "english": "Devimon? Did they kill him?",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 21149,
+      "_bytes": 27,
+      "translation": "¿Devimon? ¿Lo han matado?"
     },
     {
       "index": 139,
-      "english": "Are we gonna have to fight again?",
-      "_offset": 7798,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Tendremos que luchar de nuevo?"
+      "english": "Ogremon. Do you want to fight\nagain?",
+      "speaker_id": 4071,
+      "line_type": 2,
+      "_offset": 21177,
+      "_bytes": 36,
+      "translation": "Ogremon. ¿Quieres luchar de nuevo?"
     },
     {
       "index": 140,
-      "english": "There's not much else we can do.",
-      "_offset": 7832,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "No podemos hacer mucho más."
+      "english": "H-haaah! I'm done with all of\nthis!",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 21214,
+      "_bytes": 35,
+      "translation": "¡Eh-eeh! ¡Estoy harto de esto!"
     },
     {
       "index": 141,
-      "english": "W-what's this?",
-      "_offset": 7865,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Qué es esto?"
+      "english": "But...I'm worried about what\nDevimon said about Digimon with\nstrong, dark powers...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 21250,
+      "_bytes": 83,
+      "translation": "Pero... me preocupa lo que dijo\nDevimon de Digimon con poderes\noscuros más fuertes..."
     },
     {
       "index": 142,
-      "english": "Huh...So you're the Chosen\nChildren, right?",
-      "_offset": 7883,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Eh...sois los Niños Elegidos,\nverdad?"
+      "english": "Are we gonna have to fight again?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 21334,
+      "_bytes": 33,
+      "translation": "¿Tendremos que luchar de nuevo?"
     },
     {
       "index": 143,
-      "english": "Who's there?",
-      "_offset": 7927,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Quién va?"
+      "english": "There's not much else we can do.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 21368,
+      "_bytes": 32,
+      "translation": "No podemos hacer mucho más."
     },
     {
       "index": 144,
-      "english": "I'm on your side.",
-      "_offset": 7940,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Soy aliado."
+      "english": "W-what's this?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 21401,
+      "_bytes": 14,
+      "translation": "¿Qué es esto?"
     },
     {
       "index": 145,
-      "english": "There's a human here, besides us?",
-      "_offset": 7958,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Un humano aparte de nosotros?"
+      "english": "?!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 21416,
+      "_bytes": 2,
+      "translation": "?!"
     },
     {
       "index": 146,
-      "english": "No, I'm human and yet not human.",
-      "_offset": 7992,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "No, soy humano y no lo soy."
+      "english": "Huh...So you're the Chosen\nChildren, right?",
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 21419,
+      "_bytes": 43,
+      "translation": "Eh...sois los Niños Elegidos,\n¿verdad?"
     },
     {
       "index": 147,
-      "english": "Are you a ghost?",
-      "_offset": 8025,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Un fantasma?"
+      "english": "Who's there?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 21463,
+      "_bytes": 12,
+      "translation": "¿Quién va?"
     },
     {
       "index": 148,
-      "english": "My name is Gennai. Devimon's \ninterference...",
-      "_offset": 8042,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Me llamo Gennai, la influencia\nde Devimon..."
+      "english": "I'm on your side.",
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 21476,
+      "_bytes": 17,
+      "translation": "Estoy de vuestra parte."
     },
     {
       "index": 149,
-      "english": "...kept us from getting in touch,\nbut now we finally meet.",
-      "_offset": 8088,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "...me mantuvo apartado,\npero por fin nos conocemos."
+      "english": "There's a human here, besides us?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 21494,
+      "_bytes": 33,
+      "translation": "¿Un humano aparte de nosotros?"
     },
     {
       "index": 150,
-      "english": "Hey, old man, were you the one who\nchose us?",
-      "_offset": 8147,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Eh, anciado, nos has elegido tú?"
+      "english": "No, I'm human and yet not human.",
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 21528,
+      "_bytes": 32,
+      "translation": "No, soy humano y no lo soy."
     },
     {
       "index": 151,
-      "english": "It wasn't me.",
-      "_offset": 8192,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "No fui yo."
+      "english": "Are you a ghost?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 21561,
+      "_bytes": 16,
+      "translation": "¿Un fantasma?"
     },
     {
       "index": 152,
-      "english": "Then, who?",
-      "_offset": 8206,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Y quien?"
+      "english": "My name is Gennai. Devimon's \ninterference...",
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 21578,
+      "_bytes": 45,
+      "translation": "Me llamo Gennai, la influencia\nde Devimon..."
     },
     {
       "index": 153,
-      "english": "Well...I don't know.",
-      "_offset": 8217,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Eh...No lo sé."
+      "english": "...kept us from getting in touch,\nbut now we finally meet.",
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 21624,
+      "_bytes": 58,
+      "translation": "...me mantuvo apartado,\npero por fin nos conocemos."
     },
     {
       "index": 154,
-      "english": "Whaaaaaat?!",
-      "_offset": 8238,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Quéeee?"
+      "english": "Hey, old man, were you the one who\nchose us?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 21683,
+      "_bytes": 44,
+      "translation": "Eh, anciano, ¿nos has elegido tú?"
     },
     {
       "index": 155,
-      "english": "I'm sending this from the other\nside of the ocean. You must defeat\nthe enemy on Server Continent...",
-      "_offset": 8250,
-      "_length": 99,
-      "speaker_id": 0,
-      "translation": "Os envío esto desde el otro lado\ndel océano. Debéis derrotar al\nenemigo de Continente Server..."
+      "english": "It wasn't me.",
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 21728,
+      "_bytes": 13,
+      "translation": "No fui yo."
     },
     {
       "index": 156,
-      "english": "But we don't know where that is,\nor whether we can win...",
-      "_offset": 8350,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Pero no sabemos dónde, ni si\npodemos ganar..."
+      "english": "Then, who?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 21742,
+      "_bytes": 10,
+      "translation": "¿Y quién?"
     },
     {
       "index": 157,
-      "english": "I'll send a map to your computer.\nFind the Circuitos and Emblemas.",
-      "_offset": 8408,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Os enviaré un mapa.\nEncontrad los Circuitos y\nEmblemas."
+      "english": "Well...I don't know.",
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 21753,
+      "_bytes": 20,
+      "translation": "Eh...No lo sé."
     },
     {
       "index": 158,
-      "english": "Circuitos? Emblemas?",
-      "_offset": 8468,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Eh? Emblemas?"
+      "english": "Whaaaaaat?!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 21774,
+      "_bytes": 11,
+      "translation": "¡¿Queeeé?!"
     },
     {
       "index": 159,
-      "english": "You'll need them to make your\nDigimon evolve further.",
-      "_offset": 8482,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Los necesitaréis para\ndigievolucionar más."
+      "english": "I'm sending this from the other\nside of the ocean. You must defeat\nthe enemy on Server Continent...",
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 21786,
+      "_bytes": 99,
+      "translation": "Os envío esto desde el otro lado\ndel océano. Debéis derrotar al\nenemigo del Continente Server."
     },
     {
       "index": 160,
-      "english": "There's even *further* levels of\nevolution?",
-      "_offset": 8536,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Hay más niveles de digievolución?"
+      "english": "But we don't know where that is,\nor whether we can win...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 21886,
+      "_bytes": 57,
+      "translation": "Pero no sabemos dónde, ni si\npodemos ganar..."
     },
     {
       "index": 161,
-      "english": "So where do we find the Circuitos and\nEmblemas?",
-      "_offset": 8580,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Donde encontramos Circuitos y\nEmblemas?"
+      "english": "I'll send a map to your computer.\nFind the Tags and Crests.",
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 21944,
+      "_bytes": 59,
+      "translation": "Os enviaré un mapa.\nEncontrad los Circuitos y\nEmblemas."
     },
     {
       "index": 162,
-      "english": "Well, Devimon sealed the Circuitos\nsomewhere together...",
-      "_offset": 8621,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Bueno, Devimon selló los\nCircuitos todos juntos..."
+      "english": "Tags? Crests?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 22004,
+      "_bytes": 13,
+      "translation": "¿Circuitos? ¿Emblemas?"
     },
     {
       "index": 163,
-      "english": "What's wrong? The picture's\nfuzzy?!",
-      "_offset": 8673,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Qué ocurre? Está borroso!"
+      "english": "You'll need them to make your\nDigimon evolve further.",
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 22018,
+      "_bytes": 53,
+      "translation": "Los necesitaréis para\ndigievolucionar más."
     },
     {
       "index": 164,
-      "english": "The Emblemas are...\nscattered...Server\nContinent...hurry...",
-      "_offset": 8709,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Emblemas están...\nrepartidos por...\nContinente Server..."
+      "english": "There's even *further* levels of\nevolution?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 22072,
+      "_bytes": 43,
+      "translation": "¿Hay más niveles de digievolución?"
     },
     {
       "index": 165,
-      "english": "He disappeared.",
-      "_offset": 8767,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Despareció."
+      "english": "So where do we find the Tags and\nCrests?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 22116,
+      "_bytes": 40,
+      "translation": "¿Dónde encontramos Circuitos y\nEmblemas?"
     },
     {
       "index": 166,
-      "english": "What the heck was that?",
-      "_offset": 8783,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Qué ha sido eso?"
+      "english": "Well, Devimon sealed the Tags\nsomewhere together...",
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 22157,
+      "_bytes": 51,
+      "translation": "Bueno, Devimon selló los\nCircuitos todos juntos..."
     },
     {
       "index": 167,
-      "english": "So what do we do now?",
-      "_offset": 8807,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Qué hacemos ahora?"
+      "english": "What's wrong? The picture's\nfuzzy?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 22209,
+      "_bytes": 35,
+      "translation": "¿Qué ocurre? ¡Está borroso!"
     },
     {
       "index": 168,
-      "english": "Hm...well, let's get down from\nthis mountain first, and then\nwe'll decide!",
-      "_offset": 8829,
-      "_length": 74,
-      "speaker_id": 0,
-      "translation": "Hm...bueno, bajemos esta montaña\nprimero, luego decidiremos!"
+      "english": "The Crests are...\nscattered...Server\nContinent...hurry...",
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 22245,
+      "_bytes": 57,
+      "translation": "Emblemas están...\nrepartidos por...\nContinente Server..."
     },
     {
       "index": 169,
-      "english": "Head up",
-      "_offset": 8904,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Sigue"
+      "english": "He disappeared.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 22303,
+      "_bytes": 15,
+      "translation": "Desapareció."
     },
     {
       "index": 170,
-      "english": "Talk with the others a little longer",
-      "_offset": 8912,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Hablar con los demás un rato más."
+      "english": "What the heck was that?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 22319,
+      "_bytes": 23,
+      "translation": "¿Qué ha sido eso?"
     },
     {
       "index": 171,
-      "english": "It's the final battle, guys! Are\nyou ready?",
-      "_offset": 8949,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Es la batalla final, chicos!\nEstáis listos?"
+      "english": "So what do we do now?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 22343,
+      "_bytes": 21,
+      "translation": "¿Qué hacemos ahora?"
     },
     {
       "index": 172,
+      "english": "Hm...well, let's get down from\nthis mountain first, and then\nwe'll decide!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 22365,
+      "_bytes": 74,
+      "translation": "¡Hm...bueno, bajemos esta montaña\nprimero, luego decidiremos!"
+    },
+    {
+      "index": 173,
+      "english": "Head up",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 22440,
+      "_bytes": 7,
+      "translation": "Seguir"
+    },
+    {
+      "index": 174,
+      "english": "Talk with the others a little longer",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 22448,
+      "_bytes": 36,
+      "translation": "Hablar con los demás un rato más."
+    },
+    {
+      "index": 175,
+      "english": "It's the final battle, guys! Are\nyou ready?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 22485,
+      "_bytes": 43,
+      "translation": "¡Es la batalla final, chicos!\n¿Estáis listos?"
+    },
+    {
+      "index": 176,
       "english": "Guys! We have to combine our power\nand defeat Devimon!",
-      "_offset": 8993,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Chicos! Debemos juntar nuestro\npoder contra Devimon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 22529,
+      "_bytes": 54,
+      "translation": "¡Chicos! ¡Debemos juntar nuestro\npoder contra Devimon!"
     }
   ]
 }

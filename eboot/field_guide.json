@@ -2,10 +2,28 @@
   "source": "EBOOT.BIN/field_guide",
   "strings": [
     {
+      "text": "Koromon",
+      "translation": "Koromon",
+      "_offset": 1700664,
+      "_length": 7
+    },
+    {
       "text": "A Lesser Digimon that evolved\nfrom Botamon. It shed its fur and\ngrew much larger. It's more active,\nbut not yet ready to fight. It\nthreatens its opponents by spitting\nbubbles.",
       "translation": "Digimon Menor que evolucionó\nde Botamon. Perdió su pelaje y\ncreció mucho más. Es más activo,\npero aún no está listo para\npelear. Amenaza a sus rivales\nescupiendo burbujas.",
       "_offset": 1700672,
       "_length": 175
+    },
+    {
+      "text": "Lesser",
+      "translation": "Menor",
+      "_offset": 1700848,
+      "_length": 6
+    },
+    {
+      "text": "Agumon",
+      "translation": "Agumon",
+      "_offset": 1700855,
+      "_length": 6
     },
     {
       "text": "A Reptile Digimon shaped like a\nsmall dinosaur which learned to\nwalk on two legs. It's weak and\nstill growing, but it's fearless and\nhas a ferocious personality.\nSharp claws on its hands and feet\ndemonstrate its power. With its \nSpecial Move, Baby Flame, it spits\nfire.",
@@ -14,28 +32,70 @@
       "_length": 269
     },
     {
+      "text": "Reptile",
+      "translation": "Reptil",
+      "_offset": 1701132,
+      "_length": 7
+    },
+    {
+      "text": "Greymon",
+      "translation": "Greymon",
+      "_offset": 1701140,
+      "_length": 7
+    },
+    {
       "text": "A dinosaur Digimon whose cranial\nskin is as hard as a rhinoceros\nbeetle's shell. A very aggressive\nDigimon whose whole body is a\ndeadly weapon, with huge horns and\nsharp claws. But it's very smart,\nand, if tamed, among the strongest\nmonsters. Its Special Move, Mega\nFlame, spits super hot flames that\nburn everything to ash.",
-      "translation": "Digimon dinosaurio cuya piel\ncraneal es tan dura como el\ncaparazón de un escarabajo\nrinoceronte. Muy agresivo, todo su\ncuerpo es un arma mortal, con\ngrandes cuernos y afiladas garras.\nPero es muy listo y, domesticado,\nuno de los monstruos más fuertes.\nSu Ataque Especial, Mega Llama,\nescupe llamas que reducen todo a\ncenizas.",
+      "translation": "Digimon dinosaurio cuya piel craneal\nes tan dura como el caparazón de un\nescarabajo rinoceronte. Muy\nagresivo, todo su cuerpo es un arma\nmortal, con grandes cuernos y\nafiladas garras. Pero es muy listo\ny, domesticado, uno de los monstruos\nmás fuertes. Su Ataque Especial,\nMega Llama, escupe llamas que\nreducen todo a cenizas.",
       "_offset": 1701148,
       "_length": 324
     },
     {
+      "text": "Dinosaur",
+      "translation": "Dinosaurio",
+      "_offset": 1701473,
+      "_length": 8
+    },
+    {
+      "text": "MetalGreymon",
+      "translation": "MetalGreymon",
+      "_offset": 1701482,
+      "_length": 12
+    },
+    {
       "text": "A Perfect Level Digimon whose body\nbecame an armored weapon so it\ncould win more fights. Its attack\nis comparable to a nuclear strike\nand annihilates lower level Digimon.\nIts Special Move, Giga Destroyer,\nhas unparalleled destructive power.",
-      "translation": "Digimon de Cuerpo Perfecto cuyo\ncuerpo se volvió un arma blindada\npara combatir mejor. Su fuerza\nequivale a un ataque nuclear y\naniquila Digimon de nivel inferior.\nSu Ataque Especial, Giga\nDestructor, tiene un poder\ndestructivo sin igual.",
+      "translation": "Digimon de Cuerpo Perfecto cuyo\ncuerpo se volvió un arma blindada\npara combatir mejor. Su fuerza\nequivale a un ataque nuclear y\naniquila Digimon de nivel inferior.\nSu Ataque Especial, Giga Destructor,\ntiene un poder destructivo sin\nigual.",
       "_offset": 1701495,
       "_length": 240
     },
     {
+      "text": "Cyborg",
+      "translation": "Cíborg",
+      "_offset": 1701736,
+      "_length": 6
+    },
+    {
+      "text": "WarGreymon",
+      "translation": "WarGreymon",
+      "_offset": 1701743,
+      "_length": 10
+    },
+    {
       "text": "An Ultimate Level Digimon that Warp\nEvolved from Agumon. Its whole body\nis covered with the super-metal\n\"Chrome Digizoid\". The strongest\ndragon warrior in the Greymon line.\nUnlike other giant Greymon forms, its\nshape is somewhat humanoid. Its\nSpecial Move, Gaia Force, gathers\nenergy from its surroundings and\nreleases it all at once.",
-      "translation": "Digimon de Cuerpo Supremo que\nDigievolucionó Warp desde Agumon.\nTodo su cuerpo está cubierto por el\nsupermetal \"Digizoid Cromado\". El\nguerrero dragón más fuerte de la\nlínea Greymon. A diferencia de\notras formas Greymon gigantes, su\nfigura es algo humanoide. Su Ataque\nEspecial, Fuerza Gaia, reúne energía\ndel entorno y la libera de golpe.",
+      "translation": "Digimon de Cuerpo Supremo que\ndigievolucionó Warp desde Agumon.\nTodo su cuerpo está cubierto por el\nsupermetal \"Digizoid Cromado\". El\nguerrero dragón más fuerte de la\nlínea Greymon. A diferencia de\notras formas Greymon gigantes, su\nfigura es algo humanoide. Su Ataque\nEspecial, Fuerza Gaia, reúne energía\ndel entorno y la libera de golpe.",
       "_offset": 1701754,
       "_length": 334
     },
     {
       "text": "Dragon Man",
-      "translation": "H.Dragón",
+      "translation": "Hombre Dragón",
       "_offset": 1702089,
       "_length": 10
+    },
+    {
+      "text": "Tsunomon",
+      "translation": "Tsunomon",
+      "_offset": 1702100,
+      "_length": 8
     },
     {
       "text": "A Lesser Digimon that evolved from\nPunimon into a more animalistic\nshape. It's covered with fluffy\nbody hair and one of Punimon's\nfeelers hardened into a horn on its\nhead. It still likes to play\naround and has a mischievous\npersonality, and its fighting\ninstincts are yet to awaken.",
@@ -44,100 +104,250 @@
       "_length": 282
     },
     {
+      "text": "Lesser",
+      "translation": "Menor",
+      "_offset": 1702392,
+      "_length": 6
+    },
+    {
+      "text": "Gabumon",
+      "translation": "Gabumon",
+      "_offset": 1702399,
+      "_length": 7
+    },
+    {
       "text": "Despite being covered by a fur pelt,\nit's a genuine Reptile Digimon.\nExtremely shy and timid, it gathers\nGarurumon's data and shapes it into\nits fur pelt. The fur of Garurumon,\nwho's feared by other Digimon,\nprotects Gabumon but reverses its\npersonality. Its Special Move is\nPetit Fire.",
       "translation": "A pesar de estar cubierto por una\npiel de pelaje, es un auténtico\nDigimon Reptil. Extremadamente\ntímido, recopila los datos de\nGarurumon y los moldea en su piel.\nEl pelaje de Garurumon, temido por\notros Digimon, protege a Gabumon\npero invierte su carácter. Su\nAtaque Especial es Mini Fuego.",
       "_offset": 1702407,
       "_length": 286
     },
     {
+      "text": "Reptile",
+      "translation": "Reptil",
+      "_offset": 1702694,
+      "_length": 7
+    },
+    {
+      "text": "Garurumon",
+      "translation": "Garurumon",
+      "_offset": 1702702,
+      "_length": 9
+    },
+    {
       "text": "A Beast Digimon. A wolf covered in\nsilver, white and blue fur as hard\nas the legendary metal mithril. The\nblades on its shoulders cut whatever\nthey touch. It's very smart and\nfaithfully obeys those it accepts as\nmaster. It spits a hot flame with\nits Special Move, Fox Fire.",
-      "translation": "Digimon Bestia. Un lobo cubierto\nde pelaje plateado, blanco y azul,\nduro como el legendario metal\nmithril. Las cuchillas de sus\nhombros cortan cuanto tocan. Es muy\nlisto y obedece fielmente a quien\nacepta como amo. Escupe una llama\nardiente con su Ataque Especial,\nFuego Zorro.",
+      "translation": "Digimon Bestia. Un lobo cubierto de\npelaje plateado, blanco y azul, duro\ncomo el legendario metal mithril.\nLas cuchillas de sus hombros cortan\ncuanto tocan. Es muy listo y obedece\nfielmente a quien acepta como amo.\nEscupe una llama ardiente con su\nAtaque Especial, Fuego de Zorro.",
       "_offset": 1702712,
       "_length": 273
     },
     {
+      "text": "Beast",
+      "translation": "Bestia",
+      "_offset": 1702986,
+      "_length": 5
+    },
+    {
+      "text": "WereGarurumon",
+      "translation": "WereGarurumon",
+      "_offset": 1702992,
+      "_length": 13
+    },
+    {
       "text": "A Beast Man Digimon that evolved\nfrom Garurumon and learned to\nwalk on two legs. It lost some\nspeed but became a Commando Type\nDigimon and gained in attack,\ndefense, and tactics. Its kicks use\nGarurumon's leg strength, and its\njumps are in the top 2 among\nDigimon. Its Special Move, Kaiser\nNail, cuts with sharp claws.",
-      "translation": "Digimon Hombre Bestia que\nevolucionó de Garurumon y aprendió\na caminar erguido. Perdió\nvelocidad, pero ganó ataque,\ndefensa y táctica como Digimon de\nTipo Comando. Sus patadas usan la\nfuerza de Garurumon, y sus saltos\nestán entre los mejores de todos\nlos Digimon. Su Ataque Especial,\nPunta Kaiser, corta con garras\nafiladas.",
+      "translation": "Digimon Hombre Bestia que evolucionó\nde Garurumon y aprendió a caminar\nerguido. Perdió velocidad, pero ganó\nataque, defensa y táctica como\nDigimon de Tipo Comando. Sus patadas\nusan la fuerza de Garurumon, y sus\nsaltos están entre los mejores de\ntodos los Digimon. Su Ataque\nEspecial, Garra Kaiser, corta con\ngarras afiladas.",
       "_offset": 1703006,
       "_length": 318
     },
     {
+      "text": "Cyborg",
+      "translation": "Cíborg",
+      "_offset": 1703690,
+      "_length": 6
+    },
+    {
+      "text": "Pyocomon",
+      "translation": "Yokomon",
+      "_offset": 1703697,
+      "_length": 8
+    },
+    {
       "text": "A Bulb-type Lesser Digimon with\na large flower on its head. It moves\naround on its root-like tentacles\nand is light enough to float a few\ninches off the ground. It looks very\ncute and is so curious that it\nrarely stays still. It lives in\nflocks varying from a few to\nhundreds.",
-      "translation": "Digimon Menor de tipo Bulbo con\nuna gran flor en la cabeza. Se\nmueve con sus tentáculos en forma\nde raíz y es tan ligero que flota\nunos centímetros del suelo. Tiene\nun aspecto adorable y es tan\ncuriosa que rara vez se está\nquieta. Vive en grupos que van de\nunos pocos a cientos.",
+      "translation": "Digimon Menor de tipo Bulbo con\nuna gran flor en la cabeza. Se\nmueve con sus tentáculos en forma\nde raíz y es tan ligero que flota\nunos centímetros del suelo. Tiene\nun aspecto adorable y es tan\ncurioso que rara vez se está\nquieto. Vive en grupos que van de\nunos pocos a cientos.",
       "_offset": 1703706,
       "_length": 276
     },
     {
+      "text": "Bulb",
+      "translation": "Bulbo",
+      "_offset": 1703983,
+      "_length": 4
+    },
+    {
+      "text": "Piyomon",
+      "translation": "Piyomon",
+      "_offset": 1703988,
+      "_length": 7
+    },
+    {
       "text": "A bird Digimon whose wings partly\ndeveloped as arms. It can use them\nto grab objects, but is bad at\nflying. It lives on the ground, but\nflies away when endangered. It sees\nPatamon as a rival because of its\nsimilar flying skill. It's curious\nand likes to peck Tanemon heads. Its\nSpecial Move is the ghostly flame,\nMagical Fire.",
-      "translation": "Digimon pájaro cuyas alas son\nen parte brazos. Las usa para\nagarrar objetos, pero vuela mal.\nVive en el suelo, pero sale\nvolando si hay peligro. Ve a\nPatamon como un rival por su\nhabilidad de vuelo similar. Es\ncuriosa y le gusta picotear las\ncabezas de Tanemon. Su Ataque\nEspecial es la llama fantasmal,\nFuego Mágico.",
+      "translation": "Digimon pájaro cuyas alas son en\nparte brazos. Las usa para agarrar\nobjetos, pero vuela mal. Vive en el\nsuelo, pero sale volando si hay\npeligro. Ve a Patamon como un rival\npor su habilidad de vuelo similar.\nEs curiosa y le gusta picotear las\ncabezas de Tanemon. Su Ataque\nEspecial es la llama fantasmal,\nFuego Mágico.",
       "_offset": 1703996,
       "_length": 326
     },
     {
+      "text": "Chick",
+      "translation": "Polluelo",
+      "_offset": 1704323,
+      "_length": 5
+    },
+    {
+      "text": "Birdramon",
+      "translation": "Birdramon",
+      "_offset": 1704329,
+      "_length": 9
+    },
+    {
       "text": "A Giant Bird Digimon surrounded by\nburning flames. Like Meramon, it\noriginates from the Internet\nsecurity system, \"Firewall\". It\nsoars through the sky flapping its\ngigantic wings. Although it wants to\navoid combat, it fights aggressively\nwhen attacked. Its Special Move,\nMeteor Wing, flaps its wings to\nunleash meteoric feathers.",
-      "translation": "Digimon Ave Gigante envuelta en\nllamas ardientes. Como Meramon,\nse origina en el sistema de\nseguridad de Internet, el\n\"Firewall\". Surca el cielo\nbatiendo sus alas gigantescas.\nAunque prefiere evitar el combate,\npelea con agresividad si es\natacada. Su Ataque Especial, Alas\nMeteoro, bate sus alas para\nliberar plumas meteóricas.",
+      "translation": "Digimon Ave Gigante envuelta en\nllamas ardientes. Como Meramon, se\norigina en el sistema de seguridad\nde Internet, el \"Firewall\". Surca el\ncielo batiendo sus alas gigantescas.\nAunque prefiere evitar el combate,\npelea con agresividad si es atacada.\nSu Ataque Especial, Alas Meteoro,\nbate sus alas para liberar plumas\nmeteóricas.",
       "_offset": 1704339,
       "_length": 329
     },
     {
       "text": "Giant Bird",
-      "translation": "AveGigante",
+      "translation": "Ave Gigante",
       "_offset": 1704669,
       "_length": 10
     },
     {
+      "text": "Garudamon",
+      "translation": "Garudamon",
+      "_offset": 1704680,
+      "_length": 9
+    },
+    {
       "text": "A Bird Man Digimon that evolved from\nBirdramon. A guardian deity of wind\nand water, it loves nature and\ntreasures justice and order. It's\nsmarter and stronger than other Bird\nDigimon, and is admired as only\nchosen Digimon can become it. If the\nDigital World's order is disturbed,\nit fixes it. Its Special Move,\nShadow Wing, chops up its foes\nwith a speedy vacuum blade.",
-      "translation": "Digimon Hombre Pájaro que\nevolucionó de Birdramon. Deidad\nguardiana del viento y el agua,\nama la naturaleza y valora la\njusticia y el orden. Es más lista\ny fuerte que otros Digimon Ave;\nsolo un elegido puede convertirse\nen ella. Si el orden del Mundo\nDigital se altera, lo restaura.\nSu Ataque Especial, Ala Sombra,\ncorta a sus rivales con una veloz\ncuchilla de vacío.",
+      "translation": "Digimon Hombre Pájaro que evolucionó\nde Birdramon. Deidad guardiana del\nviento y el agua, ama la naturaleza\ny valora la justicia y el orden. Es\nmás lista y fuerte que otros Digimon\nAve; solo un elegido puede\nconvertirse en ella. Si el orden del\nDigimundo se altera, lo\nrestaura. Su Ataque Especial, Ala\nSombra, corta a sus rivales con una\nveloz cuchilla de vacío.",
       "_offset": 1704690,
       "_length": 369
     },
     {
       "text": "Bird Man",
-      "translation": "H.Pájaro",
+      "translation": "Hombre Pájaro",
       "_offset": 1705060,
       "_length": 8
     },
     {
+      "text": "Hououmon",
+      "translation": "Hououmon",
+      "_offset": 1705069,
+      "_length": 8
+    },
+    {
       "text": "A Holy Beast Digimon with four\nshining golden wings. The Ultimate\nform and leader of all Bird Digimon,\nit also commands Holy Digimon. It\ndraws incalculable power from two\nHoly Rings. Its Special Move,\nStarlight Explosion, flaps four holy\nwings to rain golden particles and\npurify all evil.",
-      "translation": "Digimon Bestia Sagrada de cuatro\nalas doradas. Forma Suprema y\nlíder de los Digimon Ave y\nSagrados. Extrae un poder\nincalculable de dos Anillos\nSagrados. Su Ataque Especial,\nExplosión Estelar, bate sus alas\npara llover partículas doradas que\npurifican el mal.",
+      "translation": "Digimon Bestia Sagrada de cuatro\nalas doradas. Forma Suprema y\nlíder de los Digimon Ave y\nSagrados. Extrae un poder\nincalculable de dos Anillos\nSagrados. Su Ataque Especial,\nExplosión Estelar, bate sus alas\ny hace llover partículas que\npurifican el mal.",
       "_offset": 1705078,
       "_length": 289
     },
     {
       "text": "Holy Beast",
-      "translation": "B.Sagrada",
+      "translation": "Bestia Sagrada",
       "_offset": 1705368,
       "_length": 10
     },
     {
+      "text": "Mochimon",
+      "translation": "Motimon",
+      "_offset": 1705379,
+      "_length": 8
+    },
+    {
       "text": "A soft-bodied Digimon with elastic\nskin that scurries around with the\ntentacles on its underside. It's\ncalled Mochimon because, when worked\nup, it inflates its body and looks\nlike mochi. Despite its appearance,\nits quite smart and understands\nhuman speech. It's sometimes seen\ndeforming its body as if trying to\ntalk back.",
-      "translation": "Digimon de cuerpo blando y piel\nelástica que se mueve con los\ntentáculos de su vientre. Se llama\nMochimon porque, cuando se agita,\nhincha su cuerpo y parece un\nmochi. A pesar de su aspecto, es\nbastante listo y entiende el habla\nhumana. A veces se le ve deformar\nsu cuerpo como si intentara\nresponder.",
+      "translation": "Digimon de cuerpo blando y piel\nelástica que se mueve con los\ntentáculos de su vientre. Se llama\nMotimon porque, cuando se agita,\nhincha su cuerpo y parece un\nmochi. A pesar de su aspecto, es\nbastante listo y entiende el habla\nhumana. A veces se le ve deformar\nsu cuerpo como si intentara\nresponder.",
       "_offset": 1705388,
       "_length": 322
     },
     {
+      "text": "Insect",
+      "translation": "Insecto",
+      "_offset": 1706063,
+      "_length": 6
+    },
+    {
+      "text": "Kabuterimon",
+      "translation": "Kabuterimon",
+      "_offset": 1706070,
+      "_length": 11
+    },
+    {
       "text": "A recently discovered, unique Insect\nDigimon. It's unclear how it evolved\ninto an Insect Digimon, but it\nhas ant-like strength and rhinoceros\nbeetle-like defense. It mercilessly\nattacks hostile Virus Digimon. Its\nmetal head is as sturdy as an iron\nwall. Its Special Move is Mega\nBlaster.",
-      "translation": "Digimon Insecto descubierto\nhace poco. No está claro cómo\nllegó a ser Insecto, pero tiene\nla fuerza de una hormiga y la\ndefensa de un escarabajo\nrinoceronte. Ataca sin piedad a\nlos Digimon Virus. Su cabeza\nmetálica es tan resistente como\nun muro de hierro. Su Ataque\nEspecial es Mega Blaster.",
+      "translation": "Digimon Insecto descubierto hace\npoco. No está claro cómo llegó a ser\nInsecto, pero tiene la fuerza de una\nhormiga y la defensa de un\nescarabajo rinoceronte. Ataca sin\npiedad a los Digimon Virus. Su\ncabeza metálica es tan resistente\ncomo un muro de hierro. Su Ataque\nEspecial es Mega Blaster.",
       "_offset": 1706082,
       "_length": 287
     },
     {
+      "text": "Insect",
+      "translation": "Insecto",
+      "_offset": 1706370,
+      "_length": 6
+    },
+    {
+      "text": "AtlurKabuterimon",
+      "translation": "MegaKabuterimon",
+      "_offset": 1706377,
+      "_length": 16
+    },
+    {
       "text": "A giant Insect Digimon that evolved\nfrom Kabuterimon and grew to one and\na half times its size. Its flight\ncapability decreased slightly, but\nthe power of its main weapon, the\nhorn, massively increased, and it\ngrew muscles at the base of its\nforelimbs. It strives to protect the\nweak. Its Special Move, Horn Buster,\nsmashes with its giant horn.",
-      "translation": "Digimon Insecto gigante que\nevolucionó de Kabuterimon y creció\nuna vez y media. Vuela algo peor,\npero el poder de su cuerno aumentó\nmuchísimo, y desarrolló músculos\nen la base de sus patas\ndelanteras. Se esfuerza por\nproteger a los débiles. Su Ataque\nEspecial, Caza Cuerno, golpea con\nsu cuerno gigante.",
+      "translation": "Digimon Insecto gigante que\nevolucionó de Kabuterimon y creció\nhasta una vez y media su tamaño.\nVuela algo peor, pero el poder de su\ncuerno aumentó muchísimo, y\ndesarrolló músculos en la base de\nsus patas delanteras. Se esfuerza\npor proteger a los débiles. Su Ataque\nEspecial, Cuerno Rompedor, golpea\ncon su cuerno gigante.",
       "_offset": 1706394,
       "_length": 344
     },
     {
+      "text": "Insect",
+      "translation": "Insecto",
+      "_offset": 1707083,
+      "_length": 6
+    },
+    {
+      "text": "Tanemon",
+      "translation": "Tanemon",
+      "_offset": 1707090,
+      "_length": 7
+    },
+    {
       "text": "A Bulb Digimon with a sprout growing\nfrom its head. A Yuramon that\nfloated into the air searching for\nthe right enviroment, then landed\nand evolved. Very timid, when it\nsenses an intruder, it digs a hole\nwith its four feet to hide, leaving\nonly its sprout on the surface. This\ndisguises it as a plant to avoid\npredators, but doesn't work on\nherbivorous Digimon.",
-      "translation": "Digimon Bulbo con un brote\ncreciendo de su cabeza. Un Yuramon\nque flotó por el aire buscando el\nentorno adecuado, y luego aterrizó\ny evolucionó. Muy tímido, cuando\nsiente un intruso cava un agujero\ncon sus cuatro patas para\nesconderse, dejando solo el brote\nen la superficie. Esto lo disfraza\nde planta para evitar depredadores,\npero no funciona con Digimon\nherbívoros.",
+      "translation": "Digimon Bulbo con un brote en la\ncabeza. Un Yuramon que flotó\nbuscando el entorno adecuado,\naterrizó y evolucionó. Muy tímido:\nsi nota un intruso, cava un agujero\ncon sus cuatro patas y se esconde,\ndejando solo el brote fuera. Así\nparece una planta y evita a los\ndepredadores, pero no le sirve con\nlos Digimon herbívoros.",
       "_offset": 1707098,
       "_length": 361
     },
     {
+      "text": "Bulb",
+      "translation": "Bulbo",
+      "_offset": 1707460,
+      "_length": 4
+    },
+    {
+      "text": "Palmon",
+      "translation": "Palmon",
+      "_offset": 1707465,
+      "_length": 6
+    },
+    {
       "text": "A Plant Digimon with a tropical\nflower on its head. Although it\nevolved from Tanemon into a Reptile,\nit's still classified as a Plant.\nIt photosynthesizes in the day by\nopening its flower and spreading its\nleafy arms. It usually buries its\nroot-like feet in the ground to\nabsorb nutrients, but can also walk.\nIts Special Move, Poison Ivy,\nentangles with toxic vines.",
-      "translation": "Digimon Planta con una flor\ntropical en la cabeza. Aunque\nevolucionó de Tanemon hacia un\nReptil, se sigue clasificando como\nPlanta. Fotosintetiza de día\nabriendo su flor y extendiendo sus\nbrazos de hojas. Suele enterrar\nsus pies-raíz para absorber\nnutrientes, pero también puede\ncaminar. Su Ataque Especial,\nHiedra Venenosa, enreda con\nenredaderas tóxicas.",
+      "translation": "Digimon Planta con una flor tropical\nen la cabeza. Aunque evolucionó de\nTanemon hacia un Reptil, se sigue\nclasificando como Planta.\nFotosintetiza de día abriendo su\nflor y extendiendo sus brazos de\nhojas. Suele enterrar sus pies-raíz\npara absorber nutrientes, pero\ntambién puede caminar. Su Ataque\nEspecial, Hiedra Venenosa, enreda\ncon enredaderas tóxicas.",
       "_offset": 1707472,
       "_length": 366
+    },
+    {
+      "text": "Plant",
+      "translation": "Planta",
+      "_offset": 1707839,
+      "_length": 5
+    },
+    {
+      "text": "Togemon",
+      "translation": "Togemon",
+      "_offset": 1707845,
+      "_length": 7
     },
     {
       "text": "A Plant Digimon that looks like a\nlarge cactus. It stores nutrient\ndata to survive in empty deserts.\nNo one can determine its mood from\nits face, as it constantly stares\ninto nothingness. If angered, its\nface changes and it goes berserk.\nIts Special move, Prickly Bang Bang,\nreleases needles from all over its\nbody.",
@@ -146,26 +356,74 @@
       "_length": 315
     },
     {
+      "text": "Plant",
+      "translation": "Planta",
+      "_offset": 1708169,
+      "_length": 5
+    },
+    {
+      "text": "Lilimon",
+      "translation": "Lilimon",
+      "_offset": 1708175,
+      "_length": 7
+    },
+    {
       "text": "A Perfect Level Fairy Digimon that\nflies with its four wings. Said to\nopen its heart to a human girl with\nthe same capricious, tomboyish\npersonality. A fresh wind blows\nwherever it flies. Its special move,\nFlower Cannon, forms a gun\nmuzzle with its wrist petals and\nshoots an energy charge.",
-      "translation": "Digimon Hada de Cuerpo Perfecto que\nvuela con sus cuatro alas. Se dice\nque abrió su corazón a una niña\ncon el mismo carácter caprichoso\ny varonil. Un viento fresco sopla\nallá donde vuela. Su Ataque\nEspecial, Cañón Floral, forma un\ncañón con los pétalos de sus\nmuñecas y dispara una carga de\nenergía.",
+      "translation": "Digimon Hada de Cuerpo Perfecto que\nvuela con sus cuatro alas. Se dice\nque abrió su corazón a una niña con\nel mismo carácter caprichoso y\nvaronil. Un viento fresco sopla \ndonde vuela. Su Ataque Especial,\nCañón Floral, forma un cañón con los\npétalos de sus muñecas y dispara una\ncarga de energía.",
       "_offset": 1708183,
       "_length": 290
     },
     {
+      "text": "Fairy",
+      "translation": "Hada",
+      "_offset": 1708474,
+      "_length": 5
+    },
+    {
+      "text": "Rosemon",
+      "translation": "Rosemon",
+      "_offset": 1708480,
+      "_length": 7
+    },
+    {
       "text": "A Fairy Digimon called the Rose\nQueen that looks like a beautiful\nwoman and wants to stay that way\nforever. On its breast is the jewel\n\"Tiferet\" engraved with the symbol\nof love and beauty which promises\nthose who wear it eternal beauty and\npower. It tames even the wildest\nDigimon with its Special Move, Thorn\nWhip, by whipping them with\nelectrified thorns.",
-      "translation": "Digimon Hada llamada la Reina de\nlas Rosas, con aspecto de mujer\nhermosa que quiere seguir así para\nsiempre. En su pecho lleva la joya\n\"Tiferet\", grabada con el símbolo\ndel amor y la belleza, que\npromete a quien la lleve belleza y\npoder eternos. Doma hasta al\nDigimon más salvaje con su Ataque\nEspecial, Látigo de Espinas,\nazotándolo con espinas\nelectrificadas.",
+      "translation": "Digimon Hada llamada la Reina de las\nRosas, con aspecto de mujer hermosa\nque quiere seguir así para siempre.\nEn su pecho lleva la joya \"Tiferet\",\ngrabada con el símbolo del amor y la\nbelleza, que promete a quien la\nlleve belleza y poder eternos. Doma\nhasta al Digimon más salvaje con su\nAtaque Especial, Látigo de Espinas,\nazotándolo con espinas\nelectrificadas.",
       "_offset": 1708488,
       "_length": 358
     },
     {
+      "text": "Fairy",
+      "translation": "Hada",
+      "_offset": 1708847,
+      "_length": 5
+    },
+    {
+      "text": "Pukamon",
+      "translation": "Pukamon",
+      "_offset": 1708853,
+      "_length": 7
+    },
+    {
       "text": "Despite looking like an aquatic\nbaby dinosaur, it moves as\nintelligently as a seahorse, but\nis not as friendly as when it was\nPitchmon. When anyone approaches it,\nit runs away. It can't dive for too\nlong, as its skin can't bear the\npressure and cold of the deep ocean.",
-      "translation": "Aunque parece un bebé dinosaurio\nacuático, se mueve con la\ninteligencia de un caballito de\nmar, pero no es tan amigable como\ncuando era Pitchmon. Si alguien se\nle acerca, huye. No puede\nsumergirse mucho, ya que su piel\nno soporta la presión y el frío\ndel océano profundo.",
+      "translation": "Aunque parece un bebé dinosaurio\nacuático, se mueve con la\ninteligencia de un caballito de mar,\npero no es tan amigable como cuando\nera Pitchmon. Si alguien se le\nacerca, huye. No puede sumergirse\nmucho, ya que su piel no soporta la\npresión y el frío del océano\nprofundo.",
       "_offset": 1708861,
       "_length": 268
     },
     {
+      "text": "Lesser",
+      "translation": "Menor",
+      "_offset": 1709130,
+      "_length": 6
+    },
+    {
+      "text": "Gomamon",
+      "translation": "Gomamon",
+      "_offset": 1709137,
+      "_length": 7
+    },
+    {
       "text": "A Marine Animal Digimon that can\nmove on land and is covered with fur\nto regulate its temperature. Its\nwhite fur lengthens and turns brown\nas it grows, while the red fur on\nits back indicates its emotions and\nbristles when it's angered. Its\nclaws easily cut through ice. With\nits Special Move, Marching Fishes,\nit summons little fish minions.",
-      "translation": "Digimon Animal Marino que puede\nmoverse en tierra y está cubierto\nde pelaje para regular su\ntemperatura. Su pelaje blanco se\nalarga y se vuelve marrón al\ncrecer, mientras que el pelaje\nrojo de su lomo indica sus\nemociones y se eriza si se enfada.\nSus garras cortan el hielo\nfácilmente. Con su Ataque\nEspecial, Peces en Marcha, invoca\npeces esbirros.",
+      "translation": "Digimon Animal Marino que puede\nmoverse en tierra y está cubierto de\npelaje para regular su temperatura.\nSu pelaje blanco se alarga y se\nvuelve marrón al crecer, mientras\nque el pelaje rojo de su lomo indica\nsus emociones y se eriza si se\nenfada. Sus garras cortan el hielo\nfácilmente. Con su Ataque Especial,\nMarching Fishes, invoca peces\nesbirros.",
       "_offset": 1709145,
       "_length": 342
     },
@@ -176,8 +434,14 @@
       "_length": 13
     },
     {
+      "text": "Ikkakumon",
+      "translation": "Ikkakumon",
+      "_offset": 1709502,
+      "_length": 9
+    },
+    {
       "text": "A Marine Animal Digimon discovered\nin a computer at an Arctic research\nfacility. Its thick fur and strong\nbody withstand even the coldest\nclimates. It has a mithril horn and\nits skin is just as hard. It has\nheat tops at the base of its claws,\nso it stands firmly on ice, but\ncan't move nimbly. Its Special Move,\nHarpoon Vulcan shoots its horn, but\nit grows back.",
-      "translation": "Digimon Animal Marino\ndescubierto en un ordenador de una\nbase ártica. Su pelaje espeso\nresiste hasta el frío más\nextremo. Tiene un cuerno de\nmithril y su piel es igual de\ndura. Tiene almohadillas calientes\nen las garras, por lo que se\nsostiene firme en el hielo, aunque\nno es ágil. Su Ataque Especial,\nArpón Volcán, dispara su cuerno,\npero este vuelve a crecer.",
+      "translation": "Digimon Animal Marino descubierto en\nun ordenador de una base ártica. Su\npelaje espeso resiste hasta el frío\nmás extremo. Tiene un cuerno de\nmithril y su piel es igual de dura.\nTiene almohadillas calientes en las\ngarras, por lo que se sostiene firme\nen el hielo, aunque no es ágil. Su\nAtaque Especial, Arpón Volcán,\ndispara su cuerno, pero este vuelve\na crecer.",
       "_offset": 1709512,
       "_length": 362
     },
@@ -188,8 +452,14 @@
       "_length": 13
     },
     {
+      "text": "Zudomon",
+      "translation": "Zudomon",
+      "_offset": 1709889,
+      "_length": 7
+    },
+    {
       "text": "A Power Digimon that evolved from\nIkkakumon and walks on two legs.\nIt covers its well-developed muscles\nwith armor it builds from pelts and\nshells taken from defeated foes. Its\nhorn is saw-shaped, but its\nstrongest weapon, which it dug up\nfrom ancient ice, is Thor's Hammer,\nmade of Chrome Digizoid. Its Special\nMove, Hammer Spark, uses it to shoot\nelectricity.",
-      "translation": "Digimon Poder que evolucionó de\nIkkakumon y camina en dos patas.\nCubre sus músculos con una\narmadura hecha de pieles y conchas\nde rivales vencidos. Su cuerno\ntiene forma de sierra, pero su\narma más fuerte, desenterrada del\nhielo antiguo, es el Martillo de\nThor, hecho de Digizoid Cromado.\nSu Ataque Especial, Chispa de\nMartillo, dispara electricidad.",
+      "translation": "Poderoso Digimon que evolucionó de\nIkkakumon y camina en dos patas.\nCubre sus músculos con una\narmadura hecha de pieles y conchas\nde rivales vencidos. Su cuerno\ntiene forma de sierra, pero su\narma más fuerte, desenterrada del\nhielo antiguo, es el Martillo de\nThor, hecho de Digizoid Cromado.\nSu Ataque Especial, Chispa\nMartillo, dispara electricidad.",
       "_offset": 1709897,
       "_length": 361
     },
@@ -200,16 +470,28 @@
       "_length": 13
     },
     {
+      "text": "Vikemon",
+      "translation": "Vikemon",
+      "_offset": 1710273,
+      "_length": 7
+    },
+    {
       "text": "A Beast Man Digimon that survives in\nlands covered in permafrost. Its fur\nis like ice crystals and as hard as\nChrome Digizoid.  It carries the\nmorning star \"Mjollnir\" on its back,\nwhich destroys mountains in one\nswing and even warps space itself.\nIts Special Move, Arctic Blizzard,\nreduces the temperature to absolute\nzero, then crushes foes with\nMjollnir.",
-      "translation": "Digimon Hombre Bestia que\nsobrevive en tierras cubiertas de\npermafrost. Su pelaje es como\ncristales de hielo y tan duro como\nel Digizoid Cromado. Lleva a la\nespalda el mangual \"Mjolnir\", que\ndestruye montañas de un solo golpe\ne incluso deforma el espacio. Su\nAtaque Especial, Ventisca Ártica,\nreduce la temperatura al cero\nabsoluto y aplasta a sus rivales\ncon él.",
+      "translation": "Digimon Hombre Bestia que sobrevive\nen tierras cubiertas de permafrost.\nSu pelaje es como cristales de hielo\ny tan duro como el Digizoid Cromado.\nLleva a la espalda el mangual\n\"Mjolnir\", que destruye montañas de\nun solo golpe e incluso deforma el\nespacio. Su Ataque Especial,\nVentisca Ártica, reduce la\ntemperatura al cero absoluto y\naplasta a sus rivales con él.",
       "_offset": 1710281,
       "_length": 356
     },
     {
       "text": "Beast Man",
-      "translation": "H.Bestia",
+      "translation": "Hombre Bestia",
       "_offset": 1710638,
       "_length": 9
+    },
+    {
+      "text": "Tokomon",
+      "translation": "Tokomon",
+      "_offset": 1710648,
+      "_length": 7
     },
     {
       "text": "A Lesser Digimon with something\nlike feet and hands under its body.\nA Baby Digimon with hands and feet\nis unusual and extremely cute. But\nif you stretch out your hand, it\nwon't hesitate to bite with its\nclosely packed fangs. Then again,\nit's very innocent and means no\nharm.",
@@ -218,116 +500,320 @@
       "_length": 274
     },
     {
+      "text": "Lesser",
+      "translation": "Menor",
+      "_offset": 1710931,
+      "_length": 6
+    },
+    {
+      "text": "Patamon",
+      "translation": "Patamon",
+      "_offset": 1710938,
+      "_length": 7
+    },
+    {
       "text": "A Mammal Digimon with recognizably\nlarge ears. It can float in the air\nusing its ears as wings, but only at\n1 km/h, so walking would be much\nfaster. It's popular because it\nlooks adorable when it tries to\nfly, although it may disagree.\nIt's very obedient and easily\nperforms tricks. Its Special Move,\nAir Shot, sucks in air and spews it\nout in one burst.",
-      "translation": "Digimon Mamífero con orejas\ngrandes y reconocibles. Puede\nflotar en el aire usando sus\norejas como alas, pero solo a\n1 km/h, así que caminar sería\nmucho más rápido. Es popular\nporque se ve adorable al intentar\nvolar, aunque puede que no piense\nigual. Es obediente y hace trucos\ncon facilidad. Su Ataque Especial,\nDisparo de Aire, absorbe aire y lo\nexpulsa de golpe.",
+      "translation": "Digimon Mamífero con orejas grandes\ny reconocibles. Puede flotar en el\naire usando sus orejas como alas,\npero solo a 1 km/h, así que andar\nsería mucho más rápido. Es popular\nporque se ve adorable al intentar\nvolar, aunque puede que no piense\nigual. Es obediente y hace trucos\ncon facilidad. Su Ataque Especial,\nDisparo de Aire, absorbe aire y lo\nexpulsa de golpe.",
       "_offset": 1710946,
       "_length": 354
     },
     {
+      "text": "Angel",
+      "translation": "Ángel",
+      "_offset": 1711662,
+      "_length": 5
+    },
+    {
+      "text": "HolyAngemon",
+      "translation": "MagnaAngemon",
+      "_offset": 1711668,
+      "_length": 11
+    },
+    {
       "text": "An Archangel Digimon that holds a\nBeam Shield and the holy sword\nExcalibur, with eight shining\nsilver wings. Its mission is to\nenforce the law and lead other Angel\nDigimon. Its Special Move, Heaven's\nGate, creates an interdimensional\ndoor to seal its enemies.",
-      "translation": "Digimon Arcángel que porta un\nEscudo de Haz y la espada\nExcalibur, con ocho alas\nplateadas. Su misión es hacer\ncumplir la ley y liderar a los\ndemás Digimon Ángel. Su Ataque\nEspecial, Puerta del Cielo, crea\nuna puerta interdimensional para\nsellar a sus enemigos.",
+      "translation": "Digimon Arcángel que porta un Escudo\nde Haz y la espada Excalibur, con\nocho alas plateadas. Su misión es\nhacer cumplir la ley y liderar a los\ndemás Digimon Ángel. Su Ataque\nEspecial, Puerta del Cielo, crea una\npuerta interdimensional para sellar\na sus enemigos.",
       "_offset": 1711680,
       "_length": 259
     },
     {
+      "text": "Archangel",
+      "translation": "Arcángel",
+      "_offset": 1711940,
+      "_length": 9
+    },
+    {
+      "text": "Seraphimon",
+      "translation": "Seraphimon",
+      "_offset": 1711950,
+      "_length": 10
+    },
+    {
       "text": "A Seraph Digimon with 10 golden\nwings, clad in silver, shining holy\narmor. The highest ranked Angel\nDigimon, it rules over the others.\nIts identity is hidden behind its\nhelmet. It's the entity closest to\n\"God\". It's said it'll descend in\nthe final battle against evil beings\nand purify them all. Its Special\nMove, Seven Heavens, releases 7\nhot spheres of light.",
-      "translation": "Digimon Serafín con 10 alas\ndoradas, vestido con armadura\nplateada y sagrada. El Digimon\nÁngel de mayor rango, gobierna\nsobre los demás. Su identidad se\noculta tras el casco. Es la\nentidad más cercana a \"Dios\". Se\ndice que descenderá en la batalla\nfinal para purificar a todos los\nseres malignos. Su Ataque\nEspecial, Siete Cielos, libera 7\nesferas de luz ardiente.",
+      "translation": "Digimon Serafín con 10 alas doradas,\nvestido con armadura plateada y\nsagrada. El Digimon Ángel de mayor\nrango, gobierna sobre los demás. Su\nidentidad se oculta tras el casco.\nEs la entidad más cercana a \"Dios\".\nSe dice que descenderá en la batalla\nfinal para purificar a todos los\nseres malignos. Su Ataque Especial,\nSiete Cielos, libera 7 esferas de\nluz ardiente.",
       "_offset": 1711961,
       "_length": 361
     },
     {
+      "text": "Seraph",
+      "translation": "Serafín",
+      "_offset": 1712323,
+      "_length": 6
+    },
+    {
+      "text": "Nyaromon",
+      "translation": "Nyaromon",
+      "_offset": 1712330,
+      "_length": 8
+    },
+    {
       "text": "A small Digimon that looks like a\ncat. It got its name from its\ncapricious personality and feline\nbehavior, yet it still feels lonely.\nIts Special Move, Fox Tail, puffs\nup its tail and strikes with its\nwirey fur. No Digimon has yet been\nharmed by this attack.",
-      "translation": "Pequeño Digimon con forma de\ngato. Su nombre viene de su\ncarácter caprichoso y su\ncomportamiento felino, aunque aún\nse siente solo. Su Ataque\nEspecial, Cola de Zorro, hincha su\ncola y golpea con su pelaje\ntieso. Ningún Digimon ha sido\nherido todavía por este ataque.",
+      "translation": "Pequeño Digimon con forma de gato.\nSu nombre viene de su carácter\ncaprichoso y su comportamiento\nfelino, aunque aún se siente solo.\nSu Ataque Especial, Cola de Zorro,\nhincha su cola y golpea con su\npelaje tieso. Ningún Digimon ha sido\nherido todavía por este ataque.",
       "_offset": 1712339,
       "_length": 259
     },
     {
+      "text": "Lesser",
+      "translation": "Menor",
+      "_offset": 1712599,
+      "_length": 6
+    },
+    {
+      "text": "Plotmon",
+      "translation": "Salamon",
+      "_offset": 1712606,
+      "_length": 7
+    },
+    {
       "text": "A small Holy Digimon with\ndistinctive lop ears. It's too\nyoung to use holy power and not yet\naware of its mission. Its \npersonality is unstable and it can\nturn evil, but the day may come when\nPlotmon, born as a Holy Digimon,\nawakens to its mission as a Virus\nBuster. Its Special Move, Puppy\nHowling, paralyzes with a very\nhigh-pitched cry.",
-      "translation": "Pequeño Digimon Sagrado de\norejas caídas. Es demasiado joven\npara usar el poder sagrado y aún\nno conoce su misión. Su carácter\nes inestable y puede volverse\nmalvado, pero algún día Plotmon,\nnacido Digimon Sagrado, despertará\na su misión de Exterminador de\nVirus. Su Ataque Especial, Aullido\nde Cachorro, paraliza con un\nchillido agudo.",
+      "translation": "Pequeño Digimon Sagrado de\norejas caídas. Es demasiado joven\npara usar el poder sagrado y aún\nno conoce su misión. Su carácter\nes inestable y puede volverse\nmalvado, pero algún día Salamon,\nnacido Digimon Sagrado, despertará\na su misión de Exterminador de\nVirus. Su Ataque Especial, Aullido\nde Cachorro, paraliza con un\nchillido agudo.",
       "_offset": 1712614,
       "_length": 339
     },
     {
+      "text": "Mammal",
+      "translation": "Mamífero",
+      "_offset": 1712954,
+      "_length": 6
+    },
+    {
+      "text": "Tailmon",
+      "translation": "Gatomon",
+      "_offset": 1712961,
+      "_length": 7
+    },
+    {
       "text": "A cute kitty at first glance, but\nevery rose has its thorns. The Holy\nRing on its tail proves it's a Holy\nDigimon, but if it's lost Tailmon\nweakens dramatically. It wears claws\ncopied from Saber Leomon's data. Its\nSpecial Move, Cat Punch, which\nuses these long and sharp claws, is\nquite powerful.",
-      "translation": "Un gatito adorable a primera\nvista, pero toda rosa tiene\nespinas. El Anillo Sagrado de su\ncola prueba que es un Digimon\nSagrado, pero si lo pierde,\nGatomon se debilita mucho. Lleva\ngarras copiadas de los datos de\nSaberLeomon. Su Ataque Especial,\nZarpazo, muy potente, usa estas\nlargas y afiladas garras.",
+      "translation": "Un gatito adorable a primera vista,\npero toda rosa tiene espinas. El\nAnillo Sagrado de su cola prueba que\nes un Digimon Sagrado, pero si lo\npierde, Gatomon se debilita mucho.\nLleva garras copiadas de los datos\nde SaberLeomon. Su Ataque Especial,\nZarpazo, muy potente, usa estas\nlargas y afiladas garras.",
       "_offset": 1712969,
       "_length": 296
     },
     {
       "text": "Holy Beast",
-      "translation": "B.Sagrada",
+      "translation": "Bestia Sagrada",
       "_offset": 1713266,
       "_length": 10
     },
     {
+      "text": "Angewomon",
+      "translation": "Angewomon",
+      "_offset": 1713277,
+      "_length": 9
+    },
+    {
       "text": "An Archangel Digimon which looks\nlike a beautiful woman, known as the\nGoddess of the Digital World. Once\nclassified as an Angel, its power\nconfirmed it as an Archangel. Its\nvery calm, but does not abide anyone\ntwisted and evil and attacks until\nthey reform. Its Special Move, Holy\nArrow is a powerful lightning\nstrike also called Heaven's\nPunishment.",
-      "translation": "Digimon Arcángel con forma de\nmujer hermosa, conocida como la\nDiosa del Mundo Digital.\nClasificada antes como Ángel, su\npoder confirmó que es Arcángel. Es\nmuy serena, pero no tolera a nadie\nretorcido y malvado, y ataca hasta\nque se enmiende. Su Ataque\nEspecial, Flecha Sagrada, es un\npoderoso rayo también llamado\nCastigo Divino.",
+      "translation": "Digimon Arcángel con forma de\nmujer hermosa, conocida como la\nDiosa del Digimundo.\nClasificada antes como Ángel, su\npoder confirmó que es Arcángel. Es\nmuy serena, pero no tolera a nadie\nretorcido y malvado, y ataca hasta\nque se enmiende. Su Ataque\nEspecial, Flecha Sagrada, es un\npoderoso rayo también llamado\nCastigo Divino.",
       "_offset": 1713287,
       "_length": 350
     },
     {
+      "text": "Ophan",
+      "translation": "Ophan",
+      "_offset": 1714003,
+      "_length": 5
+    },
+    {
+      "text": "Kuwagamon",
+      "translation": "Kuwagamon",
+      "_offset": 1714009,
+      "_length": 9
+    },
+    {
       "text": "An Insect Digimon with giant\npincers on its head, well protected\nby its strength and sturdy shell.\nOnce it clenches its pincers, it\nsqueezes until it kills its prey.\nIts Special Move, Scissor Arms, cuts\nthrough any hard object.",
-      "translation": "Digimon Insecto con enormes\npinzas en la cabeza, bien\nprotegido por su fuerza y su\ncaparazón resistente. Una vez\ncierra sus pinzas, aprieta hasta\nmatar a su presa. Su Ataque\nEspecial, Brazo Tijera, corta\ncualquier objeto duro.",
+      "translation": "Digimon Insecto con enormes pinzas\nen la cabeza, bien protegido por su\nfuerza y su caparazón resistente.\nUna vez cierra sus pinzas, aprieta\nhasta matar a su presa. Su Ataque\nEspecial, Brazo Tijera, corta\ncualquier objeto duro.",
       "_offset": 1714019,
       "_length": 227
     },
     {
+      "text": "Insect",
+      "translation": "Insecto",
+      "_offset": 1714247,
+      "_length": 6
+    },
+    {
+      "text": "Shellmon",
+      "translation": "Shellmon",
+      "_offset": 1714254,
+      "_length": 8
+    },
+    {
       "text": "A fierce and aggressive Adult\nDigimon. It changes its shell as it\ngrows until it's as big as a small\nmountain. It's stupid and\naggressive. Its Special Move, Hydro\nPressure, shoots highly pressurized\nwater.",
-      "translation": "Digimon Adulto feroz y agresivo.\nCambia de caparazón al crecer\nhasta ser tan grande como una\npequeña montaña. Es torpe y\nagresivo. Su Ataque Especial,\nPresión Hídrica, dispara agua a\nalta presión.",
+      "translation": "Digimon Campeón feroz y agresivo.\nCambia de caparazón al crecer\nhasta ser tan grande como una\npequeña montaña. Es torpe y\nagresivo. Su Ataque Especial,\nPresión Hídrica, dispara agua a\nalta presión.",
       "_offset": 1714263,
       "_length": 205
     },
     {
+      "text": "Mollusk",
+      "translation": "Molusco",
+      "_offset": 1714469,
+      "_length": 7
+    },
+    {
+      "text": "Monochromon",
+      "translation": "Monochromon",
+      "_offset": 1714477,
+      "_length": 11
+    },
+    {
       "text": "An Ankylosaur Digimon with a horn\nas hard as diamond. It's herbivorous\nand usually calm, but if angered\nwill charge until it defeats its\nfoe. Its Special Move, Volcano\nStrike, is a powerful fire bomb.",
-      "translation": "Digimon Anquilosaurio con un\ncuerno duro como el diamante.\nHerbívoro y tranquilo, pero si se\nenfada carga hasta vencer a su\nrival. Su Ataque Especial, Golpe\nVolcánico, es una potente bomba de\nfuego.",
+      "translation": "Digimon Anquilosaurio con un cuerno\nduro como el diamante. Herbívoro y\ntranquilo, pero si se enfada carga\nhasta vencer a su rival. Su Ataque\nEspecial, Golpe Volcánico, es una\npotente bomba de fuego.",
       "_offset": 1714489,
       "_length": 200
     },
     {
+      "text": "Ankylosaur",
+      "translation": "Anquilosaurio",
+      "_offset": 1714690,
+      "_length": 10
+    },
+    {
+      "text": "Seadramon",
+      "translation": "Seadramon",
+      "_offset": 1714701,
+      "_length": 9
+    },
+    {
       "text": "An aggressive Adult Aquatic Digimon\nthat looks like a dragon. It\nentangles its foes with its long\nbody and squeezes until they stop\nbreathing. Its Special Move, Ice\nArrow, spits shards of ice.",
-      "translation": "Digimon Adulto Acuático agresivo\ncon forma de dragón. Enreda a sus\nrivales con su largo cuerpo y\naprieta hasta que dejan de\nrespirar. Su Ataque Especial,\nFlecha de Hielo, escupe astillas\nde hielo.",
+      "translation": "Digimon Acuático Campeón agresivo\ncon forma de dragón. Enreda a sus\nrivales con su largo cuerpo y\naprieta hasta que dejan de respirar.\nSu Ataque Especial, Flecha de Hielo,\nescupe astillas de hielo.",
       "_offset": 1714711,
       "_length": 192
     },
     {
+      "text": "Aquatic",
+      "translation": "Acuático",
+      "_offset": 1714904,
+      "_length": 7
+    },
+    {
+      "text": "Numemon",
+      "translation": "Numemon",
+      "_offset": 1714912,
+      "_length": 7
+    },
+    {
       "text": "A soft-bodied Digimon that looks\nlike a slime and loves dark, damp\nand humid places. It protects itself\nby attacking with its own poop.",
-      "translation": "Digimon de cuerpo blando parecido\na una babosa que adora los\nlugares oscuros y húmedos. Se\ndefiende atacando con su propia\ncaca.",
+      "translation": "Digimon de cuerpo blando parecido a\nuna babosa que adora los lugares\noscuros y húmedos. Se defiende\natacando con su propia caca.",
       "_offset": 1714920,
       "_length": 135
     },
     {
+      "text": "Mollusk",
+      "translation": "Molusco",
+      "_offset": 1715056,
+      "_length": 7
+    },
+    {
+      "text": "Monzaemon",
+      "translation": "Monzaemon",
+      "_offset": 1715064,
+      "_length": 9
+    },
+    {
       "text": "It looks like a plush toy, but\nis actually a Perfect Level Digimon.\nIt has a chuck on its back, and it's\nrumored someone's inside. Its\nSpecial Move, Lovely Attack, makes\neven its enemies happy!",
-      "translation": "Parece un peluche, pero es\nDigimon de Cuerpo Perfecto. Tiene\nuna cremallera en la espalda, y\ndicen que alguien vive dentro. Su\nAtaque Especial, Ataque Amoroso,\nhace feliz hasta a sus enemigos!",
+      "translation": "Parece un peluche, pero es\nDigimon de Cuerpo Perfecto. Tiene\nuna cremallera en la espalda, y\ndicen que alguien vive dentro. ¡Su\nAtaque Especial, Ataque Amoroso,\nhace feliz hasta a sus enemigos!",
       "_offset": 1715074,
       "_length": 193
     },
     {
+      "text": "Puppet",
+      "translation": "Marioneta",
+      "_offset": 1715268,
+      "_length": 6
+    },
+    {
+      "text": "Unimon",
+      "translation": "Unimon",
+      "_offset": 1715275,
+      "_length": 6
+    },
+    {
       "text": "A flying Composite Digimon that\nlooks like a combination of the\nlegendary beasts Unicorn and\nPegasus. It flies around the Net\nSpace instantaneously with its wings\nand pierces its enemies with the\nsharp horn on its head. Its Special\nMove, Holy Shot, is a Qigong shot.",
-      "translation": "Digimon Compuesto volador con\naspecto de mezcla entre las\nbestias legendarias Unicornio y\nPegaso. Vuela por el Ciberespacio\nal instante con sus alas y\natraviesa a sus rivales con el\nafilado cuerno de su cabeza. Su\nAtaque Especial, Disparo Sagrado,\nes un disparo de Qigong.",
+      "translation": "Digimon Compuesto volador con\naspecto de mezcla entre las bestias\nlegendarias Unicornio y Pegaso.\nVuela por el Ciberespacio al\ninstante con sus alas y atraviesa a\nsus rivales con el afilado cuerno de\nsu cabeza. Su Ataque Especial,\nDisparo Sagrado, es un disparo de\nQigong.",
       "_offset": 1715282,
       "_length": 266
     },
     {
+      "text": "Composite",
+      "translation": "Quimera",
+      "_offset": 1715549,
+      "_length": 9
+    },
+    {
+      "text": "Meramon",
+      "translation": "Meramon",
+      "_offset": 1715559,
+      "_length": 7
+    },
+    {
       "text": "A Flame Digimon that constantly\nburns. It originated from the\n\"Firewall\" that prevents\nunauthorized access from the\nInternet, and its personality is as\nhot as the flames that surround its\nbody. When fighting, it burns\nwhatever it touches to ashes! Its\nSpecial Move, Burning Fist, flares\nup its arms and hits its opponent.",
-      "translation": "Digimon Fuego que arde sin\ncesar. Se originó en el\n\"Firewall\" que evita accesos no\nautorizados desde Internet, y su\ncarácter es tan ardiente como las\nllamas que lo envuelven. Al\npelear, reduce a cenizas todo lo\nque toca! Su Ataque Especial,\nPuño Ardiente, enciende sus\nbrazos y golpea a su rival.",
+      "translation": "Digimon Fuego que arde sin\ncesar. Se originó en el\n\"Firewall\" que evita accesos no\nautorizados desde Internet, y su\ncarácter es tan ardiente como las\nllamas que lo envuelven. ¡Al\npelear, reduce a cenizas todo lo\nque toca! Su Ataque Especial,\nPuño Ardiente, enciende sus\nbrazos y golpea a su rival.",
       "_offset": 1715567,
       "_length": 321
     },
     {
+      "text": "Flame",
+      "translation": "Llama",
+      "_offset": 1715889,
+      "_length": 5
+    },
+    {
+      "text": "Andromon",
+      "translation": "Andromon",
+      "_offset": 1715895,
+      "_length": 8
+    },
+    {
       "text": "A Cyborg Digimon whose body's\ncompletely mechanized. It evolved\nto Perfect Level and many Digimon\nconsider it the strongest. Its\nSpecial Move, Spiral Sword, fires a\nblade of energy from its arm module.",
-      "translation": "Digimon Cíborg de cuerpo\ncompletamente mecanizado. Es de\nCuerpo Perfecto y muchos lo\nconsideran el más fuerte. Su\nAtaque Especial, Espada Espiral,\ndispara una cuchilla de energía\ndesde su módulo de brazo.",
+      "translation": "Digimon Cíborg de cuerpo\ncompletamente mecanizado. Es de\nCuerpo Perfecto y muchos lo\nconsideran el más fuerte. Su Ataque\nEspecial, Espada Espiral, dispara\nuna cuchilla de energía desde su\nmódulo de brazo.",
       "_offset": 1715904,
       "_length": 201
     },
     {
+      "text": "Cyborg",
+      "translation": "Cíborg",
+      "_offset": 1716106,
+      "_length": 6
+    },
+    {
+      "text": "Yukidarumon",
+      "translation": "Frigimon",
+      "_offset": 1716113,
+      "_length": 11
+    },
+    {
       "text": "A snow Digimon covered in ice\ncrystals. It seems cold, but has a\nvery warm personality and softens\nhearts with calm movements and sweet\ngestures. It doesn't like to fight.\nIts Special Move, Absolute Zero\nPunch, freezes anything!",
-      "translation": "Digimon de nieve cubierto de\ncristales de hielo. Parece frío,\npero tiene un carácter cálido y\nablanda corazones con gestos\ndulces. No le gusta pelear. Su\nAtaque Especial, Puñetazo Cero\nAbsoluto, congela cualquier cosa!",
+      "translation": "Digimon de nieve cubierto de\ncristales de hielo. Parece frío,\npero tiene un carácter cálido y\nablanda corazones con gestos\ndulces. No le gusta pelear. ¡Su\nAtaque Especial, Golpe\nCongelante, congela cualquier cosa!",
       "_offset": 1716125,
       "_length": 228
     },
     {
+      "text": "Mojyamon",
+      "translation": "Mojyamon",
+      "_offset": 1716363,
+      "_length": 8
+    },
+    {
       "text": "A legendary Rare Animal Digimon that\nlives in snowy mountains. It doesn't\nlike to fight and has a mild\npersonality, but thinks of its lair\nas holy ground and punishes whoever\ndamages it. Its Special Move,\nIcicle Rod, makes a giant icicle\nfrom the air's humidity.",
-      "translation": "Digimon Animal Raro legendario\nque vive en montañas nevadas. No\nle gusta pelear y tiene un\ncarácter apacible, pero considera\nsu guarida tierra sagrada y\ncastiga a quien la dañe. Su Ataque\nEspecial, Vara de Hielo, crea un\ncarámbano gigante con la humedad\ndel aire.",
+      "translation": "Digimon Animal Raro legendario que\nvive en montañas nevadas. No le\ngusta pelear y tiene un carácter\napacible, pero considera su guarida\ntierra sagrada y castiga a quien la\ndañe. Su Ataque Especial, Vara de\nHielo, crea un carámbano gigante con\nla humedad del aire.",
       "_offset": 1716372,
       "_length": 262
     },
@@ -350,82 +836,196 @@
       "_length": 215
     },
     {
+      "text": "Mutant",
+      "translation": "Mutante",
+      "_offset": 1716880,
+      "_length": 6
+    },
+    {
+      "text": "Centarumon",
+      "translation": "Centarumon",
+      "_offset": 1716887,
+      "_length": 10
+    },
+    {
       "text": "A proud Beast Man Digimon. It moves\nat near-supersonic speed by spewing\npressurized air from its back. It's\nproud and dislikes being bossed\naround or restrained. Its Special\nMove, Hunting Cannon, fires a gun\nembedded in its right arm.",
-      "translation": "Digimon Hombre Bestia orgulloso.\nSe mueve casi a velocidad\nsupersónica expulsando aire a\npresión por la espalda. Odia que\nle den órdenes o lo aten. Su\nAtaque Especial, Cañón de Caza,\ndispara un arma incrustada en su\nbrazo derecho.",
+      "translation": "Digimon Hombre Bestia orgulloso. Se\nmueve casi a velocidad supersónica\nexpulsando aire a presión por la\nespalda. Odia que le den órdenes o\nlo aten. Su Ataque Especial, Cañón\nde Caza, dispara un arma incrustada\nen su brazo derecho.",
       "_offset": 1716898,
       "_length": 234
     },
     {
       "text": "Beast Man",
-      "translation": "H.Bestia",
+      "translation": "Hombre Bestia",
       "_offset": 1717133,
       "_length": 9
     },
     {
+      "text": "Leomon",
+      "translation": "Leomon",
+      "_offset": 1717143,
+      "_length": 6
+    },
+    {
       "text": "A proud Beast Man Digimon with a\nheart of justice. While most Digimon\nare barbaric, it has a strong sense\nof justice and has defeated many\naggressive Digimon. It's Ogremon's\nrival. Its mysterious Special Move,\nJuuouken, stops the opponent's life.",
-      "translation": "Digimon Hombre Bestia orgulloso\ncon corazón justiciero. A\ndiferencia de otros, bárbaros,\ntiene fuerte sentido de la\njusticia y ha vencido a muchos\nagresivos. Es el rival de Ogremon.\nSu misterioso Ataque Especial,\nJuuouken, detiene la vida del\nrival.",
+      "translation": "Digimon Hombre Bestia orgulloso y\njusticiero. A diferencia de otros,\nbárbaros, tiene un fuerte sentido\nde la justicia y ha vencido a\nmuchos agresivos. Es rival de\nOgremon. Su Ataque Especial, Puño\nReal, detiene la vida del rival.",
       "_offset": 1717150,
       "_length": 246
     },
     {
       "text": "Beast Man",
-      "translation": "H.Bestia",
+      "translation": "Hombre Bestia",
       "_offset": 1717397,
       "_length": 9
     },
     {
+      "text": "Ogremon",
+      "translation": "Ogremon",
+      "_offset": 1717407,
+      "_length": 7
+    },
+    {
       "text": "An angry Digimon that, motivated\nby its rage, destroys everything it\ncan. It loves to fight and is\ncalled a \"Digimon Hunter\" because it\nchallenges much stronger Digimon.\nThe bone club in its right hand is a\ntrophy from when it defeated\nSkullGreymon. Its Special Move,\nHaouken!, smashes with its large\nfists.",
-      "translation": "Digimon iracundo que, movido por\nla rabia, destruye todo lo que\npuede. Adora pelear y se le llama\n\"Cazador de Digimon\" porque reta a\nDigimon mucho más fuertes. El\ngarrote de hueso en su mano\nderecha es un trofeo de cuando\nderrotó a SkullGreymon. Su Ataque\nEspecial, Haouken!, golpea con\nsus enormes puños.",
+      "translation": "Digimon iracundo que, movido por\nla rabia, destruye todo lo que\npuede. Adora pelear y se le llama\n\"Cazador de Digimon\" porque reta a\nDigimon mucho más fuertes. El\ngarrote de hueso en su mano\nderecha es un trofeo de cuando\nderrotó a SkullGreymon. Su Ataque\nEspecial, Puño Imperial, golpea\ncon sus enormes puños.",
       "_offset": 1717415,
       "_length": 307
     },
     {
       "text": "Demon Man",
-      "translation": "H.Demonio",
+      "translation": "Hombre Demonio",
       "_offset": 1717723,
       "_length": 9
     },
     {
+      "text": "Bakemon",
+      "translation": "Bakemon",
+      "_offset": 1717733,
+      "_length": 7
+    },
+    {
       "text": "A Ghost Digimon completely hidden\nby its white shroud. What's under \nit? Nobody knows! Its Special Move,\nHell's Hand, pulls whoever it\ncatches into hell.",
-      "translation": "Digimon Fantasma oculto bajo su\nsudario blanco. Qué hay debajo?\nNadie lo sabe! Su Ataque\nEspecial, Mano Infernal, arrastra\nal infierno a quien atrapa.",
+      "translation": "Digimon Fantasma oculto bajo su\nsudario blanco. ¿Qué hay debajo?\n¡Nadie lo sabe! Su Ataque\nEspecial, Mano Infernal, arrastra\nal infierno a quien atrapa.",
       "_offset": 1717741,
       "_length": 153
     },
     {
+      "text": "Ghost",
+      "translation": "Fantasma",
+      "_offset": 1717895,
+      "_length": 5
+    },
+    {
+      "text": "Botamon",
+      "translation": "Botamon",
+      "_offset": 1717901,
+      "_length": 7
+    },
+    {
       "text": "A newborn Digimon with thick black\nfuzz all over its slime-like body.\nIt's too young to fight, but it\nscares off predators by releasing\nbubbles from its mouth.",
-      "translation": "Digimon recién nacido con espeso\npelaje negro por todo su cuerpo\ngelatinoso. Muy joven para\npelear, ahuyenta a los\ndepredadores soltando burbujas\npor la boca.",
+      "translation": "Digimon recién nacido con espeso\npelaje negro por todo su cuerpo\ngelatinoso. Muy joven para pelear,\nahuyenta a los depredadores\nsoltando burbujas por la boca.",
       "_offset": 1717909,
       "_length": 159
     },
     {
+      "text": "Slime",
+      "translation": "Limo",
+      "_offset": 1718069,
+      "_length": 5
+    },
+    {
+      "text": "Punimon",
+      "translation": "Punimon",
+      "_offset": 1718075,
+      "_length": 7
+    },
+    {
       "text": "A new kind of newborn Digimon. It\nhas a squishy jelly-like red body\nand three feeler-like objects on its\nhead. It can't fight, but scares off\npredators with acid bubbles.",
-      "translation": "Un nuevo Digimon recién nacido.\nSu cuerpo rojo es gelatinoso y\nblando, con tres antenas en la\ncabeza. No puede pelear, pero\nahuyenta a los depredadores con\nburbujas ácidas.",
+      "translation": "Un nuevo Digimon recién nacido. Su\ncuerpo rojo es gelatinoso y blando,\ncon tres antenas en la cabeza. No\npuede pelear, pero ahuyenta a los\ndepredadores con burbujas ácidas.",
       "_offset": 1718083,
       "_length": 170
     },
     {
+      "text": "Slime",
+      "translation": "Limo",
+      "_offset": 1718254,
+      "_length": 5
+    },
+    {
+      "text": "Yuramon",
+      "translation": "Yuramon",
+      "_offset": 1718260,
+      "_length": 7
+    },
+    {
       "text": "A Seed Digimon covered by long, soft\nfur. When it hatches, it drifts\nthrough the air like a dandelion\nseed. Once it finds a safe location,\nit lands and prepares for evolution.\nIt can't fight, so it releases\nsticky bubbles to slow predators as\nit flees.",
-      "translation": "Digimon Semilla de pelaje largo\ny suave. Al nacer, flota por el\naire como la semilla de un diente\nde león. Al hallar un lugar\nseguro, aterriza y se prepara\npara evolucionar. No pelea, así\nque huye soltando burbujas\npegajosas para frenar a los\ndepredadores.",
+      "translation": "Digimon Semilla de pelaje largo y\nsuave. Al nacer, flota por el aire\ncomo la semilla de un diente de\nleón. Al hallar un lugar seguro,\naterriza y se prepara para\nevolucionar. No pelea, así que huye\nsoltando burbujas pegajosas para\nfrenar a los depredadores.",
       "_offset": 1718268,
       "_length": 252
     },
     {
+      "text": "Seed",
+      "translation": "Semilla",
+      "_offset": 1718521,
+      "_length": 4
+    },
+    {
+      "text": "Elecmon",
+      "translation": "Elecmon",
+      "_offset": 1718526,
+      "_length": 7
+    },
+    {
       "text": "A very curious, active and\nmischievous Mammal Digimon. It\nspreads its nine tails like a\npeacock to intimidate its foes!\nIts Special Move is Sparkling\nThunder.",
-      "translation": "Digimon Mamífero muy curioso,\nactivo y travieso. Despliega sus\nnueve colas como un pavo real\npara intimidar a sus rivales! Su\nAtaque Especial es Trueno\nChispeante.",
+      "translation": "Digimon Mamífero muy curioso,\nactivo y travieso. ¡Despliega sus\nnueve colas como un pavo real\npara intimidar a sus rivales! Su\nAtaque Especial es Trueno\nChispeante.",
       "_offset": 1718534,
       "_length": 158
     },
     {
+      "text": "Mammal",
+      "translation": "Mamífero",
+      "_offset": 1718693,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1718700,
+      "_length": 6
+    },
+    {
       "text": "An extra large Digimon that lives in\nthe Digital World's ocean depths.\nBecause of its ferocious\npersonality, it sometimes attacks,\ncreating giant tsunami waves. Its\nSpecial Move is a pressurized Jet\nArrow it shoots from its blowhole.",
-      "translation": "Digimon enorme que vive en las\nprofundidades del océano del\nMundo Digital. Por su carácter\nferoz, a veces ataca creando\nolas de tsunami gigantescas. Su\nAtaque Especial es un Chorro a\npresión que dispara por su\nespiráculo.",
+      "translation": "Digimon enorme que vive en las\nprofundidades del océano del\nDigimundo. Por su carácter feroz, a\nveces ataca creando olas de tsunami\ngigantescas. Su Ataque Especial es\nun Chorro a presión que dispara por\nsu espiráculo.",
       "_offset": 1718707,
       "_length": 233
     },
     {
+      "text": "Aquatic",
+      "translation": "Acuático",
+      "_offset": 1718941,
+      "_length": 7
+    },
+    {
+      "text": "Drimogemon",
+      "translation": "Drimogemon",
+      "_offset": 1718949,
+      "_length": 10
+    },
+    {
       "text": "Lives deep underground and uses its\nlarge drill to move at high speeds.\nDrimogemon is rarely encountered, as\nit hides deep under the surface. Its\nSpecial Move, Drill Spin, attacks\nwith its giant drill.",
-      "translation": "Vive en las profundidades y usa\nsu gran taladro para moverse\nrápido. Es raro encontrar a\nDrimogemon, ya que se esconde\nbajo la superficie. Su Ataque\nEspecial, Giro Taladro, ataca con\nsu taladro gigante.",
+      "translation": "Vive en las profundidades y usa su\ngran taladro para moverse rápido. Es\nraro encontrar a Drimogemon, ya que\nse esconde bajo la superficie. Su\nAtaque Especial, Giro Taladro, ataca\ncon su taladro gigante.",
       "_offset": 1718960,
       "_length": 201
+    },
+    {
+      "text": "Beast",
+      "translation": "Bestia",
+      "_offset": 1719162,
+      "_length": 5
+    },
+    {
+      "text": "Pagumon",
+      "translation": "Pagumon",
+      "_offset": 1719168,
+      "_length": 7
     },
     {
       "text": "A Lesser Digimon that enjoys\nbullying and laughing at its\nopponents. It skillfully uses its\nears to mock its targets by\nknocking them on their butts, while\npulling down its eyelid and sticking\nout its tongue.",
@@ -434,16 +1034,52 @@
       "_length": 208
     },
     {
+      "text": "Lesser",
+      "translation": "Menor",
+      "_offset": 1719385,
+      "_length": 6
+    },
+    {
+      "text": "Gazimon",
+      "translation": "Gazimon",
+      "_offset": 1719392,
+      "_length": 7
+    },
+    {
       "text": "A Mammal Digimon with large, sharp\nclaws. It's cruel and can seriously\nwound those who approach recklessly.\nIts foreleg claws are very good\nweapons, but, being mischievous, it\nalso uses them to dig pitfall traps\nand enjoys watching other Digimon\nfall into them. Its special move, \nParalyze Breath, is an electric,\nparalyzing cloud!",
-      "translation": "Digimon Mamífero de garras\ngrandes y afiladas. Es cruel y\npuede herir gravemente a quien se\nacerque sin cuidado. Las garras de\nsus patas delanteras son buenas\narmas, pero, travieso, también las\nusa para cavar trampas, y disfruta\nviendo caer en ellas a otros. Su\nAtaque Especial, Aliento\nParalizante, es una nube\neléctrica que paraliza!",
+      "translation": "Digimon Mamífero de garras grandes y\nafiladas. Es cruel y puede herir\ngravemente a quien se acerque sin\ncuidado. Las garras de sus patas\ndelanteras son buenas armas, pero,\ntravieso, también las usa para cavar\ntrampas, y disfruta viendo caer en\nellas a otros. ¡Su Ataque Especial,\nAliento Paralizante, es una nube\neléctrica que paraliza!",
       "_offset": 1719400,
       "_length": 331
     },
     {
+      "text": "Mammal",
+      "translation": "Mamífero",
+      "_offset": 1719732,
+      "_length": 6
+    },
+    {
+      "text": "SkullGreymon",
+      "translation": "SkullGreymon",
+      "_offset": 1719739,
+      "_length": 12
+    },
+    {
       "text": "A skeleton Digimon made of only\nbones. Its appearance makes many\nDigimon shiver in fear. It has\ndestructive power and never tires\nof battling! Its Special Move,\nGround Zero, launches an organic\nmissile from its spinal cord.",
-      "translation": "Digimon esqueleto hecho solo de\nhuesos. Su aspecto hace temblar de\nmiedo a muchos Digimon. Tiene un\npoder destructivo y nunca se\ncansa de pelear! Su Ataque\nEspecial, Punto Cero, lanza un\nmisil orgánico desde su columna\nvertebral.",
+      "translation": "Digimon esqueleto hecho solo de\nhuesos. Su aspecto hace temblar de\nmiedo a muchos Digimon. ¡Tiene un\npoder destructivo y nunca se cansa\nde pelear! Su Ataque Especial, Punto\nCero, lanza un misil orgánico desde\nsu columna vertebral.",
       "_offset": 1719752,
       "_length": 223
+    },
+    {
+      "text": "Undead",
+      "translation": "No Muerto",
+      "_offset": 1719976,
+      "_length": 6
+    },
+    {
+      "text": "Cockatrimon",
+      "translation": "Kokatorimon",
+      "_offset": 1719983,
+      "_length": 11
     },
     {
       "text": "A fierce and rude Giant Bird \nDigimon. Its wings are obsolete\nand it can't fly, and it's angry\nabout this. It needs lots of\nenergy to support its large body, so\nit's poor in battle. Its Special\nMove is Petra Fire, a scary,\npetrifying technique.",
@@ -453,37 +1089,91 @@
     },
     {
       "text": "Giant Bird",
-      "translation": "AveGigante",
+      "translation": "Ave Gigante",
       "_offset": 1720240,
       "_length": 10
     },
     {
+      "text": "Tyrannomon",
+      "translation": "Tyrannomon",
+      "_offset": 1720251,
+      "_length": 10
+    },
+    {
       "text": "A Dinosaur Digimon of wild beauty.\nIt strikes down anything with its\npowerful arms and gigantic tail.\nIt's intelligent and easy to tame\nbecause of its peaceful personality.\nIts Special Move, Fire Breath, is a\nscorching red flame.",
-      "translation": "Digimon Dinosaurio de belleza\nsalvaje. Derriba cualquier cosa\ncon sus poderosos brazos y su\ncola gigantesca. Es listo y fácil\nde domesticar por su carácter\npacífico. Su Ataque Especial,\nAliento de Fuego, es una llama\nroja abrasadora.",
+      "translation": "Digimon Dinosaurio de belleza\nsalvaje. Derriba cualquier cosa con\nsus poderosos brazos y su cola\ngigantesca. Es listo y fácil de\ndomesticar por su carácter pacífico.\nSu Ataque Especial, Aliento de\nFuego, es una llama roja abrasadora.",
       "_offset": 1720262,
       "_length": 229
     },
     {
+      "text": "Dinosaur",
+      "translation": "Dinosaurio",
+      "_offset": 1720492,
+      "_length": 8
+    },
+    {
+      "text": "Piccolomon",
+      "translation": "Piccolomon",
+      "_offset": 1720501,
+      "_length": 10
+    },
+    {
       "text": "A Fairy Digimon that performs\nmysterious magic by swinging its\ncherished spear, \"Fairy Tale\". This\nDigimon can appear anywhere in space\nand time, and although it's small,\nits special power blocks enemies'\nattacks and pulverizes them with\none blow. Its Special Move is a\npowerful bomb infused with a\ncomputer virus, Pit Bomb.",
-      "translation": "Digimon Hada que realiza magia\nmisteriosa blandiendo su preciada\nlanza, \"Fairy Tale\". Puede\naparecer en cualquier punto del\nespacio y el tiempo, y aunque es\npequeño, su poder especial bloquea\nlos ataques rivales y los\npulveriza de un solo golpe. Su\nAtaque Especial es una potente\nbomba infectada con un virus\ninformático, Bomba Fosa.",
+      "translation": "Digimon Hada que realiza magia\nmisteriosa blandiendo su preciada\nlanza, \"Fairy Tale\". Puede aparecer\nen cualquier punto del espacio y el\ntiempo, y aunque es pequeño, su\npoder especial bloquea los ataques\nrivales y los pulveriza de un solo\ngolpe. Su Ataque Especial es una\npotente bomba infectada con un virus\ninformático, Bomba Fosa.",
       "_offset": 1720512,
       "_length": 324
     },
     {
+      "text": "Fairy",
+      "translation": "Hada",
+      "_offset": 1720837,
+      "_length": 5
+    },
+    {
+      "text": "Digitamamon",
+      "translation": "Digitamamon",
+      "_offset": 1720843,
+      "_length": 11
+    },
+    {
       "text": "A Perfect Digimon shaped like a\nDigiEgg. It wears an exoskeleton\nwhich withstands any attack. Its\nSpecial Move, Nightmare Syndrome,\ncan surely defeat its enemies.",
-      "translation": "Digimon Perfecto con forma de\nDigihuevo. Lleva un exoesqueleto\nque resiste todo ataque. Su\nAtaque Especial, Síndrome de\nPesadilla, derrota a sus enemigos\nsin falta.",
+      "translation": "Digimon de Cuerpo Perfecto con\nforma de DigiHuevo. Lleva un\nexoesqueleto que resiste todo\nataque. Su Ataque Especial,\nSíndrome Pesadilla, derrota a\nsus enemigos sin falta.",
       "_offset": 1720855,
       "_length": 162
     },
     {
+      "text": "Perfect",
+      "translation": "Perfecto",
+      "_offset": 1721018,
+      "_length": 7
+    },
+    {
+      "text": "Nanomon",
+      "translation": "Nanomon",
+      "_offset": 1721026,
+      "_length": 7
+    },
+    {
       "text": "A Perfect Level Machine Digimon that\ncan rebuild any system with its\ndistortion technique. It's good\nat destroying various types of data,\nincluding (probably) the body data\nof any Digimon. Its Special Move,\nPlug Bomb, fires its fingertips as\nbombs.",
-      "translation": "Digimon Máquina de Nivel\nPerfecto que puede reconstruir\ntodo sistema con su técnica de\ndistorsión. Destruye todo tipo de\ndatos, incluidos (quizá) los\ndatos corporales de cualquier\nDigimon. Su Ataque Especial,\nBomba Clavija, dispara sus dedos\ncomo bombas.",
+      "translation": "Digimon Máquina de Cuerpo Perfecto\nque puede reconstruir todo sistema\ncon su técnica de distorsión.\nDestruye todo tipo de datos,\nincluidos (quizá) los datos\ncorporales de cualquier Digimon. Su\nAtaque Especial, Bomba Clavija,\ndispara sus dedos como bombas.",
       "_offset": 1721034,
       "_length": 248
     },
     {
+      "text": "Machine",
+      "translation": "Máquina",
+      "_offset": 1721283,
+      "_length": 7
+    },
+    {
+      "text": "PicoDevimon",
+      "translation": "DemiDevimon",
+      "_offset": 1721291,
+      "_length": 11
+    },
+    {
       "text": "A tiny Child Digimon that looks like\na bat and prefers darkness. Although\nit's weak, it uses its intelligence\nfor all sorts of mischief. It's\noften seen with higher level Digimon\nand rarely found alone. Its Special\nMove, Pico Darts, throws large,\nblood-draining syringes.",
-      "translation": "Diminuto Digimon Infantil con\nforma de murciélago que prefiere\nla oscuridad. Aunque es débil,\nusa su inteligencia para todo\ntipo de travesuras. Suele vérsele\ncon Digimon de nivel superior y\nrara vez solo. Su Ataque Especial,\nDardos Pico, lanza grandes\njeringas que drenan sangre.",
+      "translation": "Diminuto Digimon Novato con forma\nde murciélago que prefiere la\noscuridad. Aunque es débil, usa su\ninteligencia para todo tipo de\ntravesuras. Suele vérsele con\nDigimon de nivel superior y rara vez\nsolo. Su Ataque Especial, Dardos\nPico, lanza grandes jeringas que\ndrenan sangre.",
       "_offset": 1721303,
       "_length": 271
     },
@@ -494,14 +1184,32 @@
       "_length": 11
     },
     {
+      "text": "Vadermon",
+      "translation": "Vademon",
+      "_offset": 1721587,
+      "_length": 8
+    },
+    {
       "text": "An unidentifiable Digimon, strange\nin every aspect. It has a developed\nhead and its lower octopoid body has\nunbelievable strength. Its Special\nMove, Devil's Blown Kiss, humiliates\nits victim.",
-      "translation": "Digimon no identificable,\nextraño en todos los aspectos.\nTiene cabeza desarrollada y su\ncuerpo inferior, con forma de\npulpo, es muy fuerte. Su Ataque\nEspecial, Beso Diabólico, humilla\na su víctima.",
+      "translation": "Digimon no identificable, extraño en\ntodos los aspectos. Tiene cabeza\ndesarrollada y su cuerpo inferior,\ncon forma de pulpo, es fortísimo.\nSu Ataque Especial, Beso Diabólico,\nhumilla a su víctima.",
       "_offset": 1721596,
       "_length": 191
     },
     {
+      "text": "Alien",
+      "translation": "Alienígena",
+      "_offset": 1721788,
+      "_length": 5
+    },
+    {
+      "text": "Veggiemon",
+      "translation": "Veggiemon",
+      "_offset": 1721794,
+      "_length": 9
+    },
+    {
       "text": "An Insectivorous Plant Digimon that\nskillfully uses its ivy. It attracts\nsmall Digimon with the sweet scent\nof its mouth and pulls them inside\nwith a long tentacle-like ivy vine.\nIt's a poor fighter, yet is evil,\naggressive, and cowardly. Its\nSpecial Move is Poop Throw.",
-      "translation": "Digimon Planta Insectívora que\nusa su hiedra con habilidad.\nAtrae a Digimon pequeños con el\ndulce aroma de su boca y los\narrastra dentro con una larga\nenredadera tentacular. Es un mal\nluchador, pero es malvado,\nagresivo y cobarde. Su Ataque\nEspecial es Tira Caca.",
+      "translation": "Digimon Planta Insectívora que usa\nsu hiedra con habilidad. Atrae a\nDigimon pequeños con el dulce aroma\nde su boca y los arrastra dentro con\nuna larga enredadera tentacular. Es\nun mal luchador, pero es malvado,\nagresivo y cobarde. Su Ataque\nEspecial es Tira Caca.",
       "_offset": 1721804,
       "_length": 270
     },
@@ -512,22 +1220,64 @@
       "_length": 19
     },
     {
+      "text": "Nanimon",
+      "translation": "Nanimon",
+      "_offset": 1722095,
+      "_length": 7
+    },
+    {
       "text": "\"Nanimon\" is its name, not \"What's\nthis?\" (\"Koitsu wa nanimon?\") in\nJapanese. An unknown vagabond with\nthe nickname \"Old Man\". It likes to\nattack, because it's inspired by the\nDigital World's law of the jungle,\nbut its true power is unknown. Its\nSpecial Move is Poop Throw.",
-      "translation": "\"Nanimon\" es su nombre, no \"Qué\nes esto?\" (\"Koitsu wa nanimon?\")\nen japonés. Un vagabundo\ndesconocido apodado \"el Viejo\".\nLe gusta atacar, inspirado por la\nley de la selva del Mundo Digital,\npero se desconoce su verdadero\npoder. Su Ataque Especial es Tira\nCaca.",
+      "translation": "\"Nanimon\" es su nombre, no \"¿Qué es\nesto?\" (\"¿Koitsu wa nanimon?\") en\njaponés. Un vagabundo desconocido\napodado \"el Viejo\". Le gusta atacar,\ninspirado por la ley de la selva del\nDigimundo, pero se desconoce su\nverdadero poder. Su Ataque Especial\nes Tira Caca.",
       "_offset": 1722103,
       "_length": 273
     },
     {
+      "text": "Invade",
+      "translation": "Invasor",
+      "_offset": 1722377,
+      "_length": 6
+    },
+    {
+      "text": "Otamamon",
+      "translation": "Otamamon",
+      "_offset": 1722384,
+      "_length": 8
+    },
+    {
       "text": "An Amphibian Digimon. Its large tail\nlets it swim around the Net Ocean's\nstreams, swamps and rivers, and its\ndeveloped front legs let it climb\ncliffs to practice vocalization. Its\nSpecial Move is a Lullaby Bubble\nthat puts listeners to sleep.",
-      "translation": "Digimon Anfibio. Su gran cola le\npermite nadar por las corrientes,\npantanos y ríos del Océano de la\nRed, y sus patas delanteras le\npermiten trepar acantilados para\nvocalizar. Su Ataque Especial es\nuna Burbuja de Nana que adormece\na quien la escucha.",
+      "translation": "Digimon Anfibio. Su gran cola le\npermite nadar por las corrientes,\npantanos y ríos del Océano de la\nRed, y sus patas delanteras le\npermiten trepar acantilados para\nvocalizar. Su Ataque Especial es una\nBurbuja de Nana que adormece a quien\nla escucha.",
       "_offset": 1722393,
       "_length": 242
     },
     {
+      "text": "Amphibian",
+      "translation": "Anfibio",
+      "_offset": 1722636,
+      "_length": 9
+    },
+    {
+      "text": "Gekomon",
+      "translation": "Gekomon",
+      "_offset": 1722646,
+      "_length": 7
+    },
+    {
       "text": "Despite its appearance, it likes\nmusic. Born when music-making\nsoftware creates a masterpiece. Its\nSpecial Move, Crash Symphony, uses\nthe horn around its neck and the\nthree holes in its tongue.",
-      "translation": "A pesar de su aspecto, le gusta\nla música. Nace de una obra\nmaestra creada por software\nmusical. Su Ataque Especial,\nSinfonía Estruendosa, usa el\ncuerno de su cuello y los tres\nagujeros de su lengua.",
+      "translation": "A pesar de su aspecto, le gusta la\nmúsica. Nace de una obra maestra\ncreada por software musical. Su\nAtaque Especial, Sinfonía\nEstruendosa, usa el cuerno de su\ncuello y los tres agujeros de su\nlengua.",
       "_offset": 1722654,
       "_length": 193
+    },
+    {
+      "text": "Amphibian",
+      "translation": "Anfibio",
+      "_offset": 1722848,
+      "_length": 9
+    },
+    {
+      "text": "TonosamaGekomon",
+      "translation": "ShogunGekomon",
+      "_offset": 1722858,
+      "_length": 15
     },
     {
       "text": "As its name suggests, it's the \nlord of the Gekomon. It plays its\nmelody using the two horns on its\nshoulders and sings in a really low\nvoice, demonstrating its lordly\ngreatness to the Gekomon. Its\nSpecial Move, Samurai Tone, makes\nlow-frequency waves by smashing\naway with its fists.",
@@ -536,94 +1286,214 @@
       "_length": 284
     },
     {
+      "text": "Amphibian",
+      "translation": "Anfibio",
+      "_offset": 1723159,
+      "_length": 9
+    },
+    {
+      "text": "Phantomon",
+      "translation": "Phantomon",
+      "_offset": 1723169,
+      "_length": 9
+    },
+    {
       "text": "A Perfect Level Digimon holding a\ngiant sickle and chain. A higher\nlevel Ghost Digimon than Bakemon,\nPhantomon possesses individuals in\ntheir last moments. Its Special\nMove, Soul Chopper, slices souls\nwith its sickle and chain.",
-      "translation": "Digimon de Cuerpo Perfecto que\nporta una hoz y cadena gigantes.\nFantasma de nivel superior a\nBakemon, Phantomon posee a los\nseres en sus últimos momentos. Su\nAtaque Especial, Cortador de\nAlmas, corta almas con su hoz y\nsu cadena.",
+      "translation": "Digimon de Cuerpo Perfecto que porta\nuna hoz y cadena gigantes. Fantasma\nde nivel superior a Bakemon,\nPhantomon posee a los seres en sus\núltimos momentos. Su Ataque\nEspecial, Cortador de Almas, corta\nalmas con su hoz y su cadena.",
       "_offset": 1723179,
       "_length": 227
     },
     {
+      "text": "Ghost",
+      "translation": "Fantasma",
+      "_offset": 1723407,
+      "_length": 5
+    },
+    {
+      "text": "Devidramon",
+      "translation": "Devidramon",
+      "_offset": 1723413,
+      "_length": 10
+    },
+    {
       "text": "An Evil Dragon Digimon called \"The\nMany-eyed Demon\". The messenger of\ndarkness, Devimon, summoned it from\nthe Dark Area. It's the most evil of\nall Digimon. Although its a Dramon,\nit has developed limbs, and its long\ntail pierces foes. Its Special Move\nis Crimson Nail.",
-      "translation": "Digimon Dragón Maligno llamado\n\"el Demonio de Mil Ojos\". Devimon,\nmensajero de la oscuridad, lo\ninvocó desde el Área Oscura. Es el\nmás malvado de los Digimon.\nAunque es un Dramon, tiene\nextremidades y cola larga que\natraviesa rivales. Su Ataque\nEspecial es Garra Carmesí.",
+      "translation": "Digimon Dragón Maligno llamado \"el\nDemonio de Mil Ojos\". Devimon,\nmensajero de la oscuridad, lo invocó\ndesde el Área Oscura. Es el más\nmalvado de los Digimon. Aunque es un\nDramon, tiene extremidades y cola\nlarga que atraviesa rivales. Su\nAtaque Especial es Garra Carmesí.",
       "_offset": 1723424,
       "_length": 268
     },
     {
       "text": "Evil Dragon",
-      "translation": "Dragón Malo",
+      "translation": "Dragón Maligno",
       "_offset": 1723693,
       "_length": 11
     },
     {
+      "text": "Flymon",
+      "translation": "Flymon",
+      "_offset": 1723705,
+      "_length": 6
+    },
+    {
       "text": "An Adult Level Insect Digimon with\ngiant, menacing wings, with which it\nflies fast and makes a loud buzz\nthat deafens listeners. Its Special\nMove, Deadly Sting, shoots\npoisonous needles!",
-      "translation": "Digimon Insecto de Nivel Adulto\ncon alas enormes y amenazantes,\ncon las que vuela rápido y hace\nun zumbido ensordecedor. Su\nAtaque Especial, Aguijón Mortal,\ndispara agujas venenosas!",
+      "translation": "Digimon Insecto Campeón\ncon alas enormes y amenazantes,\ncon las que vuela rápido y hace\nun zumbido ensordecedor. ¡Su\nAtaque Especial, Aguijón Mortal,\ndispara agujas venenosas!",
       "_offset": 1723712,
       "_length": 186
     },
     {
+      "text": "Insect",
+      "translation": "Insecto",
+      "_offset": 1723899,
+      "_length": 6
+    },
+    {
+      "text": "DeathMeramon",
+      "translation": "SkullMeramon",
+      "_offset": 1723906,
+      "_length": 12
+    },
+    {
       "text": "A Perfect Level Digimon engulfed in\na hot flame, which burns blue\nbecause it's even hotter than\nMeramon's. It's significantly\nincreased both its offense and\ndefense, and as the Power-Type its\nflames possess special destructive\npower. Its Special Move, Heavy Metal\nFire, melts metal within its body\nand spews it out.",
-      "translation": "Digimon de Cuerpo Perfecto\nenvuelto en llamas ardientes que\narden azules por ser más\ncalientes que las de Meramon.\nAumentó mucho su ataque y defensa,\ny como Tipo Poder sus llamas\ntienen un poder destructivo\nespecial. Su Ataque Especial,\nFuego de Metal Pesado, funde\nmetal dentro de su cuerpo y lo\nescupe.",
+      "translation": "Digimon de Cuerpo Perfecto envuelto\nen llamas ardientes que arden azules\npor ser más calientes que las de\nMeramon. Aumentó mucho su ataque y\ndefensa, y como Tipo Poder sus\nllamas tienen un poder destructivo\nespecial. Su Ataque Especial, Fuego\nMetal Pesado, funde metal dentro\nde su cuerpo y lo escupe.",
       "_offset": 1723919,
       "_length": 315
     },
     {
+      "text": "Flame",
+      "translation": "Llama",
+      "_offset": 1724235,
+      "_length": 5
+    },
+    {
+      "text": "Mammon",
+      "translation": "Mammon",
+      "_offset": 1724241,
+      "_length": 6
+    },
+    {
       "text": "A Perfect Level Digimon, covered in\nthick fur, with a great and ancient\npower. However, it's weak against\nintense heat. Its Special Move, \nTusk Strikes, skewers opponents with\nits two long tusks.",
-      "translation": "Digimon de Cuerpo Perfecto, de\npelaje espeso y gran poder\nancestral. Sin embargo, es débil\nal calor intenso. Su Ataque\nEspecial, Golpe de Colmillos,\nensarta rivales con sus dos\nlargos colmillos.",
+      "translation": "Digimon de Cuerpo Perfecto, de\npelaje espeso y gran poder\nancestral. Sin embargo, es débil al\ncalor intenso. Su Ataque Especial,\nGolpe Colmillo, ensarta rivales\ncon sus dos largos colmillos.",
       "_offset": 1724248,
       "_length": 195
     },
     {
       "text": "Ancient Beast",
-      "translation": "BestiaAntigua",
+      "translation": "Bestia Antigua",
       "_offset": 1724444,
       "_length": 13
     },
     {
+      "text": "Gesomon",
+      "translation": "Gesomon",
+      "_offset": 1724458,
+      "_length": 7
+    },
+    {
       "text": "A soft-bodied squid Digimon that\nlives deep in the Net Ocean.\nIt's known and feared as \"The White\nDemon of the Depths\", but is quite\nintelligent and won't harm Digimon\noutside its territory. Its Special\nMove, Deadly Shade, paralyzes the\nvictim!",
-      "translation": "Digimon calamar blando que vive\nen las profundidades del Océano\nde la Red. Se le conoce y teme\ncomo \"el Demonio Blanco de las\nProfundidades\", pero es listo y\nno ataca fuera de su territorio.\nSu Ataque Especial, Sombra\nMortal, paraliza a la víctima!",
+      "translation": "Digimon calamar blando que vive\nen las profundidades del Océano\nde la Red. Se le conoce y teme\ncomo \"el Demonio Blanco de las\nProfundidades\", pero es listo y\nno ataca fuera de su territorio.\n¡Su Ataque Especial, Sombra\nMortal, paraliza a la víctima!",
       "_offset": 1724466,
       "_length": 244
     },
     {
+      "text": "Mollusk",
+      "translation": "Molusco",
+      "_offset": 1724711,
+      "_length": 7
+    },
+    {
+      "text": "Raremon",
+      "translation": "Raremon",
+      "_offset": 1724719,
+      "_length": 7
+    },
+    {
       "text": "An Undead Digimon that tried to\nreplace rotten parts of its body\nwith mechanical ones, but failed!\nIts body is rotting, so it has\nneither power nor brains, but moves\naround by instinct. Its Special Move\nis Sludge.",
-      "translation": "Digimon No-Muerto que intentó\nreemplazar partes podridas de su\ncuerpo con piezas mecánicas, pero\nfracasó! Su cuerpo se pudre, así\nque no tiene poder ni cerebro,\npero se mueve por instinto. Su\nAtaque Especial es Fango.",
+      "translation": "¡Digimon No Muerto que intentó\nreemplazar partes podridas de su\ncuerpo con piezas mecánicas, pero\nfracasó! Su cuerpo se pudre, así\nque no tiene poder ni cerebro,\npero se mueve por instinto. Su\nAtaque Especial es Fango.",
       "_offset": 1724727,
       "_length": 213
     },
     {
+      "text": "Undead",
+      "translation": "No Muerto",
+      "_offset": 1724941,
+      "_length": 6
+    },
+    {
+      "text": "DarkTyranomon",
+      "translation": "DarkTyrannomon",
+      "_offset": 1724948,
+      "_length": 13
+    },
+    {
       "text": "An aggressive Digimon whose soul's\ncorrupted by a virus. It turned\nblack and its arms got stronger. It\nconsiders everyone enemies, so\nattacks whatever it sees. It's\ncompletely out of its mind. Its\nSpecial Move, Fire Blast, is a jet\nof flames that turns everything into\na lake of fire.",
-      "translation": "Digimon agresivo cuya alma está\ncorrompida por un virus. Se volvió\nnegro y sus brazos se fortalecieron.\nVe enemigos en todos, así que\nataca cuanto ve. Ha perdido\ncompletamente la cordura. Su\nAtaque Especial, Explosión de\nFuego, es un chorro de llamas que\nconvierte todo en un lago de\nfuego.",
+      "translation": "Digimon agresivo cuya alma está\ncorrompida por un virus. Se volvió\nnegro y sus brazos se fortalecieron.\nVe enemigos en todos, así que ataca\ncuanto ve. Ha perdido completamente\nla cordura. Su Ataque Especial,\nExplosión de Fuego, es un chorro de\nllamas que convierte todo en un lago\nde fuego.",
       "_offset": 1724962,
       "_length": 284
     },
     {
+      "text": "Dinosaur",
+      "translation": "Dinosaurio",
+      "_offset": 1725247,
+      "_length": 8
+    },
+    {
+      "text": "Dokugumon",
+      "translation": "Dokugumon",
+      "_offset": 1725256,
+      "_length": 9
+    },
+    {
       "text": "A cursed Digimon whose body was\ncompletely infected by a computer\nvirus! It was once tame, but got\ncaught in a storm and infected, and\nnow corrodes anything it touches.\nIts Special Move, Stinger Pollation,\nis released from its sharp fangs!",
-      "translation": "Digimon maldito cuyo cuerpo está\ntotalmente infectado por un virus\ninformático! Antes era manso,\npero una tormenta lo infectó, y\nahora corroe todo lo que toca. Su\nAtaque Especial, Aguijón Tóxico,\nsale de sus colmillos afilados!",
+      "translation": "¡Digimon maldito cuyo cuerpo está\ntotalmente infectado por un virus\ninformático! Antes era manso,\npero una tormenta lo infectó, y\nahora corroe todo lo que toca. ¡Su\nAtaque Especial, Aguijón Tóxico,\nsale de sus colmillos afilados!",
       "_offset": 1725266,
       "_length": 239
     },
     {
+      "text": "Insect",
+      "translation": "Insecto",
+      "_offset": 1725506,
+      "_length": 6
+    },
+    {
+      "text": "Wizarmon",
+      "translation": "Wizardmon",
+      "_offset": 1725513,
+      "_length": 8
+    },
+    {
       "text": "An advanced Demon Man Digimon that\ncame here from another dimension's\nDigital World to master the sorcery\n(high-level programming language) of\nfire and earth and become a great\nsorcerer in its native world,\nWitchelny. It's a bit mischievous,\nbut so shy it never shows its face.\nIts Special Move, Thunder Cloud,\nsummons a cloud that shoots powerful\nlightning strikes!",
-      "translation": "Digimon Hombre Demonio avanzado\nque vino de otro Mundo Digital\ndimensional para dominar la\nhechicería (lenguaje de\nprogramación avanzado) de fuego y\ntierra y convertirse en gran\nhechicero en su mundo natal,\nWitchelny. Es algo travieso, pero\ntan tímido que nunca muestra su\ncara. Su Ataque Especial, Nube de\nTrueno, invoca una nube que\ndispara rayos poderosos!",
+      "translation": "Digimon Hombre Demonio avanzado que\nvino del Digimundo de otra\ndimensión para dominar la\nhechicería (lenguaje de programación\navanzado) de fuego y tierra y\nconvertirse en gran hechicero en su\nmundo natal, Witchelny. Es algo\ntravieso, pero tan tímido que nunca\nmuestra su cara. ¡Su Ataque Especial,\nNube de Trueno, invoca una nube que\ndispara rayos poderosos!",
       "_offset": 1725522,
       "_length": 366
     },
     {
       "text": "Demon Man",
-      "translation": "H.Demonio",
+      "translation": "Hombre Demonio",
       "_offset": 1725889,
       "_length": 9
     },
     {
+      "text": "Gizamon",
+      "translation": "Gizamon",
+      "_offset": 1725899,
+      "_length": 7
+    },
+    {
       "text": "An aggressive Child Level Digimon\nthat's cowardly and jumps around\nlike a frog on land, but prefers to\nlive underwater, where it shows its\ncruel nature. Its Special Move,\nSpiral Edge, attacks with its sharp,\nknife-like fin!",
-      "translation": "Digimon Infantil agresivo y\ncobarde que salta como una rana\nen tierra, pero prefiere vivir\nbajo el agua, donde muestra su\nlado cruel. Su Ataque Especial,\nFilo Espiral, ataca con su aleta\nafilada como un cuchillo!",
+      "translation": "Digimon Novato agresivo y\ncobarde que salta como una rana\nen tierra, pero prefiere vivir\nbajo el agua, donde muestra su\nlado cruel. ¡Su Ataque Especial,\nFilo Espiral, ataca con su aleta\nafilada como un cuchillo!",
       "_offset": 1725907,
       "_length": 223
     },
     {
       "text": "Aquatic Mammal",
-      "translation": "Mam. Acuático",
+      "translation": "Mamífero Acuático",
       "_offset": 1726131,
       "_length": 14
+    },
+    {
+      "text": "Gotsumon",
+      "translation": "Gotsumon",
+      "_offset": 1726146,
+      "_length": 8
     },
     {
       "text": "Despite its sturdy body, it's a\ncheerful and playful Digimon. It's\neasy-going and always positive,\nbut slightly selfish, and if\nangered rages like an erupting\nvolcano. Its Special Move, Angry\nRock, shoots extremely hard rocks\nfrom its head.",
@@ -632,10 +1502,34 @@
       "_length": 240
     },
     {
+      "text": "Ore",
+      "translation": "Mineral",
+      "_offset": 1726396,
+      "_length": 3
+    },
+    {
+      "text": "Pumpmon",
+      "translation": "Pumpmon",
+      "_offset": 1726400,
+      "_length": 7
+    },
+    {
       "text": "A plush toy Digimon with a pumpkin\nhead. It's very popular among girls\nbecause of its creepy-cute\nappearance! Despite this, it has\nhighly destructive power. As is\nobvious from its empty expression,\nthe inability to show emotions is\ncommon among Puppet-type Digimon.\nIts Special Move, Trick or Treat,\ncrushes enemies with a giant\npumpkin.",
-      "translation": "Digimon peluche con cabeza de\ncalabaza. Es popular entre las\nniñas por su aspecto tierno y\ntenebroso a la vez! A pesar de\nesto, tiene un poder muy\ndestructivo. Como se ve en su\nexpresión vacía, la incapacidad de\nmostrar emociones es habitual\nentre los Digimon Marioneta. Su\nAtaque Especial, Truco o Trato,\naplasta enemigos con una calabaza\ngigante.",
+      "translation": "Digimon peluche con cabeza de\ncalabaza. ¡Es popular entre las\nniñas por su aspecto tierno y\ntenebroso a la vez! Aun así, tiene\nun poder muy destructivo. Como se\nve en su expresión vacía, no mostrar\nemociones es habitual entre los\nDigimon Marioneta. Su Ataque\nEspecial, Truco o Trato, aplasta\nenemigos con una calabaza gigante.",
       "_offset": 1726408,
       "_length": 337
+    },
+    {
+      "text": "Puppet",
+      "translation": "Marioneta",
+      "_offset": 1726746,
+      "_length": 6
+    },
+    {
+      "text": "Snimon",
+      "translation": "Snimon",
+      "_offset": 1726753,
+      "_length": 6
     },
     {
       "text": "A cruel and brutal Insect Digimon\nthat looks like a mantis. It uses the\nred sensors on its head to spot its\nenemies and chases them with\nmechanical accuracy. Its Special\nMove, Shadow Sickle, uses its\nscythes to cut too quickly for the\nnaked eye.",
@@ -644,10 +1538,34 @@
       "_length": 245
     },
     {
+      "text": "Insect",
+      "translation": "Insecto",
+      "_offset": 1727006,
+      "_length": 6
+    },
+    {
+      "text": "Tuskmon",
+      "translation": "Tuskmon",
+      "_offset": 1727013,
+      "_length": 7
+    },
+    {
       "text": "A powerful Digimon whose roar blows\naway any obstacle. It has a reckless\npersonality and demolishes whatever\nstands in its way, so it's called\n\"The Panzer Digimon\". Its Special\nMove, Panzer Knuckle, is a powerful\nstrike!",
-      "translation": "Digimon poderoso cuyo rugido\nderriba cualquier obstáculo.\nTiene un carácter imprudente y\ndemuele lo que se le ponga\ndelante, por lo que se le llama\n\"el Digimon Panzer\". Su Ataque\nEspecial, Puño Panzer, es un\ngolpe muy potente!",
+      "translation": "Digimon poderoso cuyo rugido derriba\ncualquier obstáculo. Tiene un\ncarácter imprudente y demuele lo que\nse le ponga delante, por lo que se\nle llama \"el Digimon Panzer\". ¡Su\nAtaque Especial, Puño Panzer, es un\ngolpe muy potente!",
       "_offset": 1727021,
       "_length": 220
+    },
+    {
+      "text": "Dinosaur",
+      "translation": "Dinosaurio",
+      "_offset": 1727242,
+      "_length": 8
+    },
+    {
+      "text": "MegaSeadramon",
+      "translation": "MegaSeadramon",
+      "_offset": 1727251,
+      "_length": 13
     },
     {
       "text": "An Aquatic Digimon, Seadramon's\nevolution. It's smarter than\nSeadramon, so it can pursue its\nopponents with homing torpedoes\nuntil finishing them off. Its\nSpecial Move, Thunder Javelin,\nlaunches a powerful lightning\nstrike from the blade on its head.",
@@ -656,8 +1574,20 @@
       "_length": 250
     },
     {
+      "text": "Aquatic",
+      "translation": "Acuático",
+      "_offset": 1727516,
+      "_length": 7
+    },
+    {
+      "text": "Anomalocarimon",
+      "translation": "Anomalocarimon",
+      "_offset": 1727524,
+      "_length": 14
+    },
+    {
       "text": "An Ancient Crustacean Digimon. It\nskillfully uses the tentacles on its\nhead to grab prey, which it finishes\noff with its sharp tail blade. When\nstruggling in combat, it digs into\nthe sea floor with its sharp\ntentacles and hides. Its radar eye\nfollows enemies like a night vision\ndevice as it waits, before crossing\nits arms and releasing its Special\nMove, Stinger Surprise!",
-      "translation": "Digimon Crustáceo Antiguo. Usa\ncon habilidad los tentáculos de\nsu cabeza para atrapar presas, a\nlas que remata con la cuchilla de\nsu cola. Si el combate se\ncomplica, se entierra en el fondo\nmarino con sus afilados tentáculos\ny se esconde. Su ojo radar sigue a\nsus enemigos como un visor\nnocturno mientras espera, antes de\ncruzar brazos y soltar su Ataque\nEspecial, Aguijón Sorpresa!",
+      "translation": "Digimon Crustáceo Antiguo. Usa con\nhabilidad los tentáculos de su\ncabeza para atrapar presas, a las\nque remata con la cuchilla de su\ncola. Si el combate se complica, se\nentierra en el fondo marino con sus\nafilados tentáculos y se esconde. ¡Su\nojo radar sigue a sus enemigos como\nun visor nocturno mientras espera,\nantes de cruzar brazos y soltar su\nAtaque Especial, Aguijón Sorpresa!",
       "_offset": 1727539,
       "_length": 373
     },
@@ -668,22 +1598,46 @@
       "_length": 18
     },
     {
+      "text": "Hangyomon",
+      "translation": "Hangyomon",
+      "_offset": 1727932,
+      "_length": 9
+    },
+    {
       "text": "An Aquatic Beast Man Digimon in a\ndiving suit that swims in the deep\nsea, with a cheerful personality. It\nmoves around well underwater, so it\nuses a highspeed aquatic motor that\ngives it a quick fighting style.\nIts Special Move is Strike Fishing!",
-      "translation": "Digimon Hombre Bestia Acuático\ncon traje de buceo que nada en\naguas profundas, de carácter\nalegre. Se mueve bien bajo el\nagua, así que usa un motor\nacuático de alta velocidad que le\nda un estilo de pelea rápido. Su\nAtaque Especial es Pesca de\nAtaque!",
+      "translation": "Digimon Hombre Bestia Acuático con\ntraje de buceo que nada en aguas\nprofundas, de carácter alegre. Se\nmueve bien bajo el agua, así que usa\nun motor acuático de alta velocidad\nque le da un estilo de pelea rápido.\n¡Su Ataque Especial es Pesca de\nAtaque!",
       "_offset": 1727942,
       "_length": 246
     },
     {
       "text": "Aquatic Beast Man",
-      "translation": "H.Bestia Acuático",
+      "translation": "Hombre Bestia Acuático",
       "_offset": 1728189,
       "_length": 17
     },
     {
+      "text": "Mushmon",
+      "translation": "Mushmon",
+      "_offset": 1728207,
+      "_length": 7
+    },
+    {
       "text": "A small Digimon which looks like a\npoisonous mushroom. It has small\ntoxic mushroom bombs on its body\nthat inflict every affliction. It's\nvery mean and loves bullying, but\nis so shy it hides half its face.\nIts Special Move, Poison S-Mush,\nreleases all its mushroom bombs\nat once.",
-      "translation": "Pequeño Digimon con forma de\nhongo venenoso. Tiene pequeñas\nbombas fúngicas tóxicas en el\ncuerpo que causan todo tipo de\nafecciones. Es muy malo y le\nencanta acosar, pero es tan\ntímido que se oculta media cara.\nSu Ataque Especial, Hongo\nVenenoso, libera todas sus bombas\nde golpe.",
+      "translation": "Pequeño Digimon con forma de hongo\nvenenoso. Tiene pequeñas bombas\nfúngicas tóxicas en el cuerpo que\ncausan todo tipo de afecciones. Es\nmuy malo y le encanta acosar, pero\nes tan tímido que se oculta media\ncara. Su Ataque Especial, Hongo\nVenenoso, libera todas sus bombas\nde golpe.",
       "_offset": 1728215,
       "_length": 278
+    },
+    {
+      "text": "Plant",
+      "translation": "Planta",
+      "_offset": 1728494,
+      "_length": 5
+    },
+    {
+      "text": "Blossomon",
+      "translation": "Blossomon",
+      "_offset": 1728500,
+      "_length": 9
     },
     {
       "text": "A Perfect Level Plant Digimon that\nlooks like a giant flower with\ncountless tentacles. Despite its\nlooks, it's very calm and rarely\nseen in public. It dislikes dry\nplaces and lives near water. Its\nSpecial Move, Spiral Flower, throws\nflowers like shurikens from its\ntentacles.",
@@ -692,14 +1646,38 @@
       "_length": 275
     },
     {
+      "text": "Plant",
+      "translation": "Planta",
+      "_offset": 1728786,
+      "_length": 5
+    },
+    {
+      "text": "Delumon",
+      "translation": "Deramon",
+      "_offset": 1728792,
+      "_length": 7
+    },
+    {
       "text": "A strange Digimon that looks like\na bird with a plant sticking out of\nits back. It's highly proud and\nconsiders itself royalty, which\nmakes it very upset at being\nflightless. Its Special Move, Royal\nNuts, throws eggs and nuts from its\nplant.",
       "translation": "Digimon extraño con forma de ave\ny una planta que le sale de la\nespalda. Es muy orgulloso y se\nconsidera de sangre real, por lo\nque le molesta mucho no poder\nvolar. Su Ataque Especial, Nueces\nReales, lanza huevos y nueces\ndesde su planta.",
       "_offset": 1728800,
       "_length": 241
     },
     {
+      "text": "Bird",
+      "translation": "Ave",
+      "_offset": 1729042,
+      "_length": 4
+    },
+    {
+      "text": "Kiwimon",
+      "translation": "Kiwimon",
+      "_offset": 1729047,
+      "_length": 7
+    },
+    {
       "text": "An ancient Digimon, said to be\nextinct. Although a bird Digimon,\nits wings have degenerated and it\ncan't fly. It also has Plant-type\ntraits and a leaf on its head that\nlets it photosynthesize. Its special\nmove, Little Pecker, attacks with\nminiature versions of itself it\nhides on its body.",
-      "translation": "Digimon ancestral, dado por\nextinto. Aunque es ave, sus alas\nse atrofiaron y no puede volar.\nTambién tiene rasgos de tipo\nPlanta y una hoja en la cabeza\nque le permite fotosintetizar. Su\nAtaque Especial, Picotazo\nPequeño, ataca con versiones en\nminiatura de sí mismo que esconde\nen su cuerpo.",
+      "translation": "Digimon ancestral, dado por extinto.\nAunque es ave, sus alas se\natrofiaron y no puede volar. También\ntiene rasgos de tipo Planta y una\nhoja en la cabeza que le permite\nfotosintetizar. Su Ataque Especial,\nPicotazo Pequeño, ataca con\nversiones en miniatura de sí mismo\nque esconde en su cuerpo.",
       "_offset": 1729055,
       "_length": 289
     },
@@ -710,22 +1688,64 @@
       "_length": 12
     },
     {
+      "text": "Floramon",
+      "translation": "Floramon",
+      "_offset": 1729358,
+      "_length": 8
+    },
+    {
       "text": "A Plant Digimon that evolved like a\nreptile. Its face is flower-shaped,\nand its head's usually protected by\na petal-shaped shell. When no\nenemies are around, it opens the\npetals on its head and arms. Its\nSpecial Move, Allergy Shower,\nreleases allergy-inducing pollen.",
-      "translation": "Digimon Planta que evolucionó\ncomo un reptil. Su cara tiene\nforma de flor, y su cabeza suele\nestar protegida por una concha en\nforma de pétalo. Sin enemigos\ncerca, abre los pétalos de cabeza\ny brazos. Su Ataque Especial,\nLluvia de Alergias, libera polen\nque causa alergia.",
+      "translation": "Digimon Planta que evolucionó como\nun reptil. Su cara tiene forma de\nflor, y su cabeza suele estar\nprotegida por una concha en forma de\npétalo. Sin enemigos cerca, abre los\npétalos de cabeza y brazos. Su\nAtaque Especial, Lluvia Alérgica,\nlibera polen que causa alergia.",
       "_offset": 1729367,
       "_length": 267
     },
     {
+      "text": "Plant",
+      "translation": "Planta",
+      "_offset": 1729635,
+      "_length": 5
+    },
+    {
+      "text": "Jyureimon",
+      "translation": "Jureimon",
+      "_offset": 1729641,
+      "_length": 9
+    },
+    {
       "text": "A Perfect Level Digimon that lives\ndeep in the forest, called the king\nof trees. Its body produces mist\nthat causes hallucinations to lure\nits prey into the forest, which it\ngrabs with twig-like vines. Its\nSpecial Move, Cherry Bomb, is a\nforbidden fruit grown in the foliage\non its head!",
-      "translation": "Digimon de Cuerpo Perfecto que\nvive en lo profundo del bosque,\nllamado el rey de los árboles. Su\ncuerpo genera niebla alucinógena\npara atraer presas al bosque, a\nlas que atrapa con enredaderas\ncomo ramas. Su Ataque Especial,\nBomba Cereza, es fruto prohibido\nque crece en el follaje de su\ncabeza!",
+      "translation": "Digimon de Cuerpo Perfecto que vive\nen lo profundo del bosque, llamado\nel rey de los árboles. Su cuerpo\ngenera niebla alucinógena para\natraer presas al bosque, a las que\natrapa con enredaderas como ramas.\n¡Su Ataque Especial, Bomba Cereza,\nes fruto prohibido que crece en el\nfollaje de su cabeza!",
       "_offset": 1729651,
       "_length": 287
     },
     {
+      "text": "Plant",
+      "translation": "Planta",
+      "_offset": 1729939,
+      "_length": 5
+    },
+    {
+      "text": "Garbamon",
+      "translation": "Garbamon",
+      "_offset": 1729945,
+      "_length": 8
+    },
+    {
       "text": "A garbage Digimon. Garbage Digimon\nare considered the weakest type of\nDigimon, but Garbamon's arrival may\nchange this. Its Special Move is\nPoop Bazooka. Despite everything,\nit's still Perfect!",
-      "translation": "Digimon basura. Se considera a\nlos Digimon Basura el tipo más\ndébil, pero la llegada de\nGarbamon podría cambiar eso. Su\nAtaque Especial es Bazuca de\nCaca. A pesar de todo, sigue\nsiendo Perfecto!",
+      "translation": "Digimon basura. Se considera a los\nDigimon Basura el tipo más débil,\npero la llegada de Garbamon podría\ncambiar eso. Su Ataque Especial es\nBazuca de Caca. ¡A pesar de todo,\nsigue siendo de Cuerpo Perfecto!",
       "_offset": 1729954,
       "_length": 192
+    },
+    {
+      "text": "Mutant",
+      "translation": "Mutante",
+      "_offset": 1730147,
+      "_length": 6
+    },
+    {
+      "text": "Guardromon",
+      "translation": "Guardromon",
+      "_offset": 1730154,
+      "_length": 10
     },
     {
       "text": "A Machine Digimon with defense\nlike an iron wall. Originally a\nDigimon that scared off intruders\nfrom the network's barriers. Its\nSpecial Move, Destruction Grenade,\nfollows trespassers to the ends of\nthe earth.",
@@ -734,56 +1754,146 @@
       "_length": 210
     },
     {
+      "text": "Machine",
+      "translation": "Máquina",
+      "_offset": 1730376,
+      "_length": 7
+    },
+    {
+      "text": "Mechanorimon",
+      "translation": "Mechanorimon",
+      "_offset": 1730384,
+      "_length": 12
+    },
+    {
       "text": "A vehicular power suit Digimon. A\nunique Digimon that is motionless\nunless controlled by another\nDigimon. Its Special Move, Twinkle\nBeam, is beamed from the linear\nlens embedded in its body.",
-      "translation": "Digimon traje mecánico. Digimon\núnico que permanece inmóvil a\nmenos que otro Digimon lo\ncontrole. Su Ataque Especial,\nRayo Centelleante, se dispara\ndesde la lente lineal incrustada\nen su cuerpo.",
+      "translation": "Digimon traje mecánico. Digimon\núnico que permanece inmóvil a menos\nque otro Digimon lo controle. Su\nAtaque Especial, Rayo Centelleante,\nse dispara desde la lente lineal\nincrustada en su cuerpo.",
       "_offset": 1730397,
       "_length": 190
     },
     {
+      "text": "Machine",
+      "translation": "Máquina",
+      "_offset": 1730588,
+      "_length": 7
+    },
+    {
+      "text": "SaberLeomon",
+      "translation": "SaberLeomon",
+      "_offset": 1730596,
+      "_length": 11
+    },
+    {
       "text": "The Ultimate form of Leomon,\nwith Mach speed to avoid even the\nquickest attacks! Its two developed\nfangs and sharp claws give it\nunbelievable destructive power. Its\nSpecial Move, Infinity Arrow,\nhardens its mane hair as it charges.",
-      "translation": "Forma Suprema de Leomon, con\nvelocidad Mach para esquivar\nhasta los ataques más rápidos!\nSus colmillos y afiladas garras le\ndan un poder destructivo\nincreíble. Su Ataque Especial,\nFlecha Infinita, endurece el pelo\nde su melena al cargar.",
+      "translation": "¡Forma Suprema de Leomon, con\nvelocidad Mach para esquivar hasta\nlos ataques más rápidos! Sus\ncolmillos y afiladas garras le dan\nun poder destructivo increíble. Su\nAtaque Especial, Flecha Infinita,\nendurece el pelo de su melena al\ncargar.",
       "_offset": 1730608,
       "_length": 231
     },
     {
       "text": "Ancient Beast",
-      "translation": "BestiaAntigua",
+      "translation": "Bestia Antigua",
       "_offset": 1730840,
       "_length": 13
     },
     {
+      "text": "RedVeggiemon",
+      "translation": "RedVeggiemon",
+      "_offset": 1730854,
+      "_length": 12
+    },
+    {
       "text": "A powered up version of Veggiemon\nwhich turned red! Unlike unevolved\nVeggiemon, it's intelligent and\nhas high attack. Its personality is\ntreacherous and sly. Pinocchimon can\nsummon it anywhere. Its Special \nMove, Hazard Breath, is just its\ndisgusting, stinky breath!",
-      "translation": "Versión potenciada de Veggiemon\nque se volvió roja! A diferencia\nde Veggiemon sin evolucionar, es\nlisto y tiene mucho ataque. Su\ncarácter es traicionero y astuto.\nPuppetmon puede invocarlo donde\nsea. Su Ataque Especial, Aliento\nPeligroso, es su aliento\nasqueroso y apestoso!",
+      "translation": "¡Versión potenciada de Veggiemon que\nse volvió roja! A diferencia de\nVeggiemon sin evolucionar, es listo\ny posee mucho ataque. Su carácter es\ntraicionero y astuto. Puppetmon\nlo invoca donde sea. ¡Su Ataque\nEspecial, Aliento Peligroso, es su\naliento asqueroso y hediondo!",
       "_offset": 1730867,
       "_length": 266
     },
     {
+      "text": "Plant",
+      "translation": "Planta",
+      "_offset": 1731134,
+      "_length": 5
+    },
+    {
+      "text": "Megadramon",
+      "translation": "Megadramon",
+      "_offset": 1731140,
+      "_length": 10
+    },
+    {
       "text": "Has the highest power among Perfect\nLevel Dramon Digimon. This Digimon \nwas artificially remodeled and\nprogrammed to destroy everything. \nIts Special Move, Genocide Attack,\nburns everything down!",
-      "translation": "Tiene el poder más alto entre\nlos Digimon Dramon de Nivel\nPerfecto. Fue remodelado\nartificialmente y programado para\ndestruirlo todo. Su Ataque\nEspecial, Ataque Genocida, quema\ntodo a su paso!",
+      "translation": "Tiene el poder más alto entre los\nDigimon Dramon de Cuerpo Perfecto.\nFue remodelado artificialmente y\nprogramado para destruirlo todo. ¡Su\nAtaque Especial, Ataque Genocida,\nquema todo a su paso!",
       "_offset": 1731151,
       "_length": 195
     },
     {
+      "text": "Cyborg",
+      "translation": "Cíborg",
+      "_offset": 1731347,
+      "_length": 6
+    },
+    {
+      "text": "Gigadramon",
+      "translation": "Gigadramon",
+      "_offset": 1731354,
+      "_length": 10
+    },
+    {
       "text": "A dark Cyborg Digimon with even\ngreater power and flight speed\nthan Megadramon. Its Special Move\nis Genocide Gear!",
-      "translation": "Digimon Cíborg oscuro con más\npoder y velocidad de vuelo que\nMegadramon. Su Ataque Especial es\nEngranaje Genocida!",
+      "translation": "Digimon Cíborg oscuro con más\npoder y velocidad de vuelo que\nMegadramon. ¡Su Ataque Especial es\nEngranaje Genocida!",
       "_offset": 1731365,
       "_length": 114
     },
     {
+      "text": "Cyborg",
+      "translation": "Cíborg",
+      "_offset": 1731480,
+      "_length": 6
+    },
+    {
+      "text": "Tankmon",
+      "translation": "Tankmon",
+      "_offset": 1731487,
+      "_length": 7
+    },
+    {
       "text": "Heavy weapons on its body and\nheavyweight-class power lets it\nshred targets into tiny pieces.\nThis loner Digimon likes battles,\ngoes wherever they occur, and makes\nthem never end. Its Special Move,\nHyper Cannon, shoots super powerful\nmissiles from the gun barrel on its\nhead.",
-      "translation": "Sus armas pesadas y su poder de\npeso pesado le permiten destrozar\nobjetivos en pedazos diminutos.\nEste Digimon solitario adora las\nbatallas, va a donde ocurran, y\nhace que no terminen nunca. Su\nAtaque Especial, Cañón Hiper,\ndispara misiles muy potentes\ndesde el cañón de su cabeza.",
+      "translation": "Sus armas pesadas y su poder de\npeso pesado le permiten destrozar\nobjetivos en pedazos diminutos.\nEste Digimon solitario adora las\nbatallas, va a donde ocurran, y\nhace que no terminen nunca. Su\nAtaque Especial, Hipercañón,\ndispara misiles muy potentes\ndesde el cañón de su cabeza.",
       "_offset": 1731495,
       "_length": 275
     },
     {
+      "text": "Cyborg",
+      "translation": "Cíborg",
+      "_offset": 1731771,
+      "_length": 6
+    },
+    {
+      "text": "WaruMonzaemon",
+      "translation": "WaruMonzaemon",
+      "_offset": 1731778,
+      "_length": 13
+    },
+    {
       "text": "A Puppet Digimon that looks like\nMonzaemon, but completely black,\nwith an evil look on its face. It's\non good terms with MetalEtemon and\nsent it the plush toy of itself that\nMetalEtemon wears on its waist. Its\nSpecial Move, Heartbreak Attack,\nputs everyone in a dark mood.",
-      "translation": "Digimon Marioneta parecido a\nMonzaemon, pero totalmente negro,\ncon una mirada malvada. Tiene\nbuena relación con MetalEtemon y\nle envió el peluche de sí mismo\nque MetalEtemon lleva en la\ncintura. Su Ataque Especial,\nAtaque Desamor, sume a todos en\nun humor sombrío.",
+      "translation": "Digimon Marioneta parecido a\nMonzaemon, pero totalmente negro,\ncon una mirada malvada. Tiene buena\nrelación con MetalEtemon y le envió\nel peluche de sí mismo que\nMetalEtemon lleva en la cintura. Su\nAtaque Especial, Ataque Desamor,\nsume a todos en un humor sombrío.",
       "_offset": 1731792,
       "_length": 272
     },
     {
+      "text": "Puppet",
+      "translation": "Marioneta",
+      "_offset": 1732065,
+      "_length": 6
+    },
+    {
+      "text": "LadyDevimon",
+      "translation": "LadyDevimon",
+      "_offset": 1732072,
+      "_length": 11
+    },
+    {
       "text": "A Perfect Level Fallen Angel Digimon\nof noble stature.  Because of its\nincomparable power of pure darkness,\nthere's almost no limit to its\nspread through PCs. Its Special\nMove, Darkness Wave, releases\ncountless bats to burn its enemies.",
-      "translation": "Digimon Ángel Caído de Nivel\nPerfecto y porte noble. Su\nincomparable poder de oscuridad\npura casi no tiene límite para\npropagarse por ordenadores. Su\nAtaque Especial, Onda de\nOscuridad, libera incontables\nmurciélagos para quemar a sus\nenemigos.",
+      "translation": "Digimon Ángel Caído de Cuerpo\nPerfecto y porte noble. Su\nincomparable poder de oscuridad pura\ncasi no tiene límite para propagarse\npor ordenadores. Su Ataque Especial,\nOnda de Oscuridad, libera\nmiles de murciélagos para quemar\na sus enemigos.",
       "_offset": 1732084,
       "_length": 236
     },
@@ -794,8 +1904,14 @@
       "_length": 12
     },
     {
+      "text": "Evilmon",
+      "translation": "Evilmon",
+      "_offset": 1732334,
+      "_length": 7
+    },
+    {
       "text": "A dark Digimon that likes to fight.\nA coward that hates losing, it\npricks at weak Digimon and avoids\ndirect combat. Appears to be the\nsource of the Dark-species Digimon\nin the Dark Area, but this has not\nbeen confirmed. Its Special Move,\nNightmare Shock, is an ultrasonic\nwave from its mouth that gives\nlisteners nightmares.",
-      "translation": "Digimon oscuro al que le gusta\npelear. Cobarde y mal perdedor,\nmolesta a Digimon débiles y evita\nel combate directo. Parece ser el\norigen de los Digimon de especie\nOscura en el Área Oscura, aunque\nesto no está confirmado. Su\nAtaque Especial, Shock de\nPesadilla, es una onda ultrasónica\nde su boca que da pesadillas a\nquien la oye.",
+      "translation": "Digimon oscuro al que le gusta\npelear. Cobarde y mal perdedor,\nmolesta a Digimon débiles y evita\nel combate directo. Parece ser el\norigen de los Digimon de especie\nOscura en el Área Oscura, aunque\nesto no está confirmado. Su Ataque\nEspecial, Shock de Pesadilla, es\nuna onda ultrasónica de su boca que\nda pesadillas a quien la oye.",
       "_offset": 1732342,
       "_length": 324
     },
@@ -806,32 +1922,68 @@
       "_length": 11
     },
     {
+      "text": "Parrotmon",
+      "translation": "Parrotmon",
+      "_offset": 1732679,
+      "_length": 9
+    },
+    {
       "text": "A mysterious Perfect Level Digimon\nthat once appeared before Taichi and\nthe others in Hikarigaoka. A strange\nbird from another Digital World that\ngot lost in a rip in space, with\npowerful claws. Its Special Move,\nMjolnir Thunder, releases electric\ncharges from its head feathers and\nlaunches lightning bolts.",
-      "translation": "Misterioso Digimon de Nivel\nPerfecto que una vez se apareció\nante Taichi y los demás en\nHikarioka. Un ave extraña de\notro Mundo Digital que se perdió\nen una grieta espacial, con\ngarras poderosas. Su Ataque\nEspecial, Trueno de Mjolnir,\nlibera cargas eléctricas desde las\nplumas de su cabeza y lanza rayos.",
+      "translation": "Misterioso Digimon de Cuerpo Perfecto\nque una vez se apareció ante Tai\ny los demás en Hikarioka. Un ave\nextraña de otro Digimundo que se\nperdió en una grieta espacial, con\ngarras poderosas. Su Ataque\nEspecial, Trueno de Mjolnir, libera\ncargas eléctricas desde las plumas\nde su cabeza y lanza rayos.",
       "_offset": 1732689,
       "_length": 308
     },
     {
       "text": "Giant Bird",
-      "translation": "AveGigante",
+      "translation": "Ave Gigante",
       "_offset": 1732998,
       "_length": 10
     },
     {
+      "text": "Betamon",
+      "translation": "Betamon",
+      "_offset": 1733009,
+      "_length": 7
+    },
+    {
       "text": "An Amphibian Digimon that walks on\nfour legs. Betamon has a calm and\npolite personality, but if angered\nunleashes an electric charge of over\n100,000 volts. Its Special Move is\nElectric Shock.",
-      "translation": "Digimon Anfibio que camina en\ncuatro patas. Betamon tiene un\ncarácter tranquilo y educado,\npero si se enfada libera una\ndescarga de más de 100.000\nvoltios. Su Ataque Especial es\nDescarga Eléctrica.",
+      "translation": "Digimon Anfibio que anda a cuatro\npatas. Betamon tiene un carácter\ntranquilo y educado, pero si se\nenfada libera una descarga de más de\n100.000 voltios. Su Ataque Especial\nes Descarga Eléctrica.",
       "_offset": 1733017,
       "_length": 191
     },
     {
+      "text": "Amphibian",
+      "translation": "Anfibio",
+      "_offset": 1733209,
+      "_length": 9
+    },
+    {
+      "text": "Poyomon",
+      "translation": "Poyomon",
+      "_offset": 1733219,
+      "_length": 7
+    },
+    {
       "text": "A Slime Digimon that looks like a\njellyfish, it's often considered\nthe most primitive Digimon, but it\nhas a lot of vitality and\nadaptability. It spits acid bubbles\nto protect itself.",
-      "translation": "Digimon Baba con forma de\nmedusa, a menudo considerado el\nDigimon más primitivo, pero tiene\nmucha vitalidad y capacidad de\nadaptación. Escupe burbujas\nácidas para protegerse.",
+      "translation": "Digimon Limo con forma de\nmedusa, a menudo considerado el\nDigimon más primitivo, pero tiene\nmucha vitalidad y capacidad de\nadaptación. Escupe burbujas\nácidas para protegerse.",
       "_offset": 1733227,
       "_length": 182
     },
     {
+      "text": "Slime",
+      "translation": "Limo",
+      "_offset": 1733410,
+      "_length": 5
+    },
+    {
+      "text": "Devimon",
+      "translation": "Devimon",
+      "_offset": 1733416,
+      "_length": 7
+    },
+    {
       "text": "A wicked devil Digimon, a Fallen\nAngel covered in black cloth. It's\nquite intelligent and said to\ncontrol the mind of whoever looks\ninto its dark purple eyes. Its\nSpecial Move is Death Claw, which\nsqueezes its enemy's heart!",
-      "translation": "Digimon demonio malvado, un\nÁngel Caído cubierto de tela\nnegra. Es bastante listo y se\ndice que controla la mente de\nquien mire sus ojos violeta\noscuro. Su Ataque Especial es\nGarra Mortal, que aprieta el\ncorazón de su rival!",
+      "translation": "Digimon demonio malvado, un Ángel\nCaído cubierto de tela negra. Es\nbastante listo y se dice que\ncontrola la mente de quien mire\nsus ojos violeta oscuro. ¡Su Ataque\nEspecial es Garra Mortal, que\naprieta el corazón de su rival!",
       "_offset": 1733424,
       "_length": 224
     },
@@ -842,94 +1994,136 @@
       "_length": 12
     },
     {
+      "text": "Etemon",
+      "translation": "Etemon",
+      "_offset": 1733662,
+      "_length": 6
+    },
+    {
       "text": "The (self-proclaimed) strongest\nDigimon! Its fighting ability is\nunimaginable. Rumored to control\nthe mysterious Digimon, Monzaemon.\nIt wears a monkey costume which\nwithstands any type of attack, and\nrides around the world in endless\nsearch of battles. It has two\npowerful Special Moves, Love\nSerenade and Dark Spirits, suiting\nits title of \"strongest\"!",
-      "translation": "El Digimon más fuerte (según él\nmismo)! Su capacidad de combate\nes inimaginable. Se rumorea que\ncontrola al misterioso Digimon\nMonzaemon. Lleva un traje de mono\nque resiste cualquier tipo de\nataque, y recorre el mundo en\nbusca eterna de batallas. Tiene\ndos potentes Ataques Especiales,\nSerenata de Amor y Espíritus\nOscuros, dignos de su título de\n\"el más fuerte\"!",
+      "translation": "¡El Digimon más fuerte (según él\nmismo)! Su capacidad de combate es\ninimaginable. Se rumorea que\ncontrola al misterioso Monzaemon.\nLleva un traje de mono que resiste\ncualquier ataque, y recorre el mundo\nbuscando batallas sin fin. ¡Sus dos\npotentes Ataques Especiales,\nSerenata de Amor y Espíritus\nOscuros, son dignos de \"el más\nfuerte\"!",
       "_offset": 1733669,
       "_length": 353
     },
     {
+      "text": "Puppet",
+      "translation": "Marioneta",
+      "_offset": 1734023,
+      "_length": 6
+    },
+    {
+      "text": "MetalEtemon",
+      "translation": "MetalEtemon",
+      "_offset": 1734030,
+      "_length": 11
+    },
+    {
       "text": "An Ultimate Level Digimon, the\nevolution of Etemon. It fully\nmetallicized itself with Chrome\nDigizoid and was reborn as an\nabsolute fighting machine. Its\nSpecial Move, Banana Slip, trips\nits opponent!",
-      "translation": "Digimon de Cuerpo Supremo,\nevolución de Etemon. Se\nmetalizó por completo con\nDigizoid Cromado y renació como\nmáquina de combate absoluta. Su\nAtaque Especial, Resbalón de\nPlátano, hace tropezar a su\nrival!",
+      "translation": "Digimon de Cuerpo Supremo,\nevolución de Etemon. Se metalizó\npor completo con Digizoid\nCromado y renació como máquina\nde combate absoluta. ¡Su Ataque\nEspecial, Resbalón de Plátano,\nhace tropezar a su rival!",
       "_offset": 1734042,
       "_length": 200
     },
     {
+      "text": "Cyborg",
+      "translation": "Cíborg",
+      "_offset": 1734243,
+      "_length": 6
+    },
+    {
+      "text": "Vamdemon",
+      "translation": "Myotismon",
+      "_offset": 1734250,
+      "_length": 8
+    },
+    {
       "text": "A very cunning Undead Digimon.\nThe King of Undead-type Digimon,\nit was resurrected by the dark arts\nand gained unbelievable power which\nis halved during the day. Its\nSpecial Moves are Night Raid and\nBloody Stream!",
-      "translation": "Digimon No-Muerto muy astuto.\nRey de los Digimon No-Muerto,\nresucitó con artes oscuras y ganó\nun poder increíble que se reduce\na la mitad de día. Sus Ataques\nEspeciales son Asalto Nocturno y\nChorro Sangre!",
+      "translation": "Digimon No Muerto muy astuto.\nRey de los Digimon No Muertos,\nresucitó con artes oscuras y ganó\nun poder increíble que se reduce\na la mitad de día. ¡Sus Ataques\nEspeciales son Asalto Nocturno y\nChorro Sangre!",
       "_offset": 1734259,
       "_length": 213
     },
     {
+      "text": "Undead",
+      "translation": "No Muerto",
+      "_offset": 1734473,
+      "_length": 6
+    },
+    {
+      "text": "VenomVamdemon",
+      "translation": "VenomMyotismon",
+      "_offset": 1734480,
+      "_length": 13
+    },
+    {
       "text": "Vamdemon's Ultimate evolution. By\nunleashing its hidden power, Venom\nVamdemon lost its intelligence and\nretains only the instinct to\nmassacre. Its special move, Venom\nInfuse, injects a virus that\ndestroys the target's body data.",
-      "translation": "Evolución Suprema de Myotismon.\nAl liberar su poder oculto,\nVenomMyotismon perdió la\ninteligencia y solo conserva el\ninstinto de masacrar. Su Ataque\nEspecial, Infusión de Veneno,\ninyecta un virus que destruye los\ndatos del objetivo.",
+      "translation": "Evolución Suprema de Myotismon. Al\nliberar su poder oculto,\nVenomMyotismon perdió la\ninteligencia y solo conserva el\ninstinto de masacrar. Su Ataque\nEspecial, Infusión Veneno,\ninyecta un virus que destruye los\ndatos del objetivo.",
       "_offset": 1734494,
       "_length": 228
     },
     {
       "text": "Demon Beast",
-      "translation": "BestiaDemon",
+      "translation": "Bestia Demonio",
       "_offset": 1734723,
       "_length": 11
     },
     {
+      "text": "MetalSeadramon",
+      "translation": "MetalSeadramon",
+      "_offset": 1734735,
+      "_length": 14
+    },
+    {
       "text": "An Ultimate Level Digimon whose body\nis coated with Chrome Digizoid. The\nstrongest member of the Seadramon\nfamily, it boasts unbelievable power\nand unmatched speed. Its body\nreflects any attack. It's the\nquickest aquatic Digimon. Its\nSpecial Move, Ultimate Stream, is\nan energy gun fired from its snout.",
-      "translation": "Digimon de Cuerpo Supremo cuyo\ncuerpo está recubierto de\nDigizoid Cromado. El más fuerte\nde la familia Seadramon, tiene\npoder increíble y velocidad\ninigualable. Su cuerpo refleja\ncualquier ataque. Es el Digimon\nacuático más veloz. Su Ataque\nEspecial, Chorro Supremo, es un\ncañón de energía desde su hocico.",
+      "translation": "Digimon de Cuerpo Supremo cuyo\ncuerpo está recubierto de Digizoid\nCromado. El más fuerte de la familia\nSeadramon, tiene poder increíble y\nvelocidad inigualable. Su cuerpo\nrefleja cualquier ataque. Es el\nDigimon acuático más veloz. Su\nAtaque Especial, Chorro Supremo, es\nun cañón de energía desde su hocico.",
       "_offset": 1734750,
       "_length": 303
     },
     {
-      "text": "An Ultimate Level Digimon which\noverpowers others. It's constructed\nwith various Cyborg Digimon parts,\nand it's said all prior Cyborg\nDigimon were prototypes made to\nperfect Mugendramon. Its Special\nMove, Infinity Cannon, fires energy\nwaves from its two dreadnought\ncannons.",
-      "translation": "Digimon de Cuerpo Supremo que\nsupera a los demás. Está\nconstruido con piezas de varios\nDigimon Cíborg, y se dice que los\nCíborg anteriores fueron\nprototipos de Machinedramon. Su\nAtaque Especial, Cañón Infinito,\ndispara ondas de energía desde\nsus dos cañones acorazados.",
-      "_offset": 1735073,
-      "_length": 274
+      "text": "Unknown",
+      "translation": "Desconocido",
+      "_offset": 1736560,
+      "_length": 7
     },
     {
-      "text": "The nastiest Ultimate Level Digimon,\nit's made from the body of a cursed\nJyureimon. It looks like a\nmarionette, but has its own will.\nIts Special Move, Bullet Hammer,\nputs gunpowder in its revolver-style\nhammer to smash its foes.",
-      "translation": "El más ruin de los Digimon de\nCuerpo Supremo, hecho del cuerpo\nde un Jureimon maldito. Parece\nuna marioneta, pero tiene\nvoluntad propia. Su Ataque\nEspecial, Martillo Bala, pone\npólvora en su martillo tipo\nrevólver para aplastar rivales.",
-      "_offset": 1735368,
-      "_length": 229
-    },
-    {
-      "text": "An Ultimate Level Demon Man Digimon.\nIt's unclear why it exists or\nappeared, but its power's unmatched;\nif you meet Piemon, all that's left\nis to curse your fate. Its Special\nMove, Trump Sword, teleports its\nfour swords to pierce its opponents.",
-      "translation": "Digimon Hombre Demonio de Nivel\nSupremo. No está claro por qué\nexiste, pero su poder es\ninigualable; si te cruzas con\nPiedmon, solo te queda maldecir\ntu suerte. Su Ataque Especial,\nEspada Trump, teletransporta sus\ncuatro espadas para atravesar\nrivales.",
-      "_offset": 1735612,
-      "_length": 244
-    },
-    {
-      "text": "Demon Man",
-      "translation": "H.Demonio",
-      "_offset": 1735857,
-      "_length": 9
-    },
-    {
-      "text": "A Digimon whose identity's covered\nin darkness. Its Special Move,\nDarkness Zone, turns everything\ninto nothingness.",
-      "translation": "Digimon cuya identidad está\ncubierta de oscuridad. Su Ataque\nEspecial, Zona Oscura, convierte\ntodo en la nada.",
-      "_offset": 1735878,
-      "_length": 115
-    },
-    {
-      "text": "An Unknown Digimon that appeared in\na computer network, born as the\nembodiment of its bugs. A highly\ndangerous Digimon. It multiplies\nlike a virus and causes trouble. Its\nSpecial Move, Glare Eye, produces\nfoam from its large eye.",
-      "translation": "Digimon Desconocido que apareció\nen una red informática, nacido de\nsus propios errores. Un Digimon\nmuy peligroso. Se multiplica como\nun virus y causa problemas. Su\nAtaque Especial, Ojo Fulminante,\nproduce espuma desde su gran ojo.",
-      "_offset": 1736010,
-      "_length": 229
-    },
-    {
-      "text": "A Baby Digimon that evolved from\nKuramon. It became fiercer and\ngrew fangs at the tips of its\nfeelers. It corrupts data at a\nterrifying speed and makes the\nnetwork go haywire. It's harder to\ncatch in this form because it's much\nfaster. Its Special Move, Nail\nScratch, cuts its opponents with its\nfangs.",
-      "translation": "Digimon Bebé que evolucionó de\nKuramon. Se volvió más feroz y le\ncrecieron colmillos en las puntas\nde sus antenas. Corrompe datos a\nvelocidad aterradora y enloquece\nla red. Es más difícil de atrapar\nen esta forma porque es mucho más\nrápido. Su Ataque Especial,\nArañazo, corta a sus rivales con\nsus colmillos.",
-      "_offset": 1736257,
-      "_length": 302
+      "text": "Keramon",
+      "translation": "Keramon",
+      "_offset": 1736568,
+      "_length": 7
     },
     {
       "text": "A Child Level Digimon that evolved\nfrom Tsumemon. It grew larger and\nwith its bigger mouth can corrupt\nmore data than Tsumemon, over\n100 MB in 1 second, destroying files\nthe moment it gets inside. It has a\nvery cheerful personality and thinks\nof destroying data as a game. Its\nSpecial Move, Crazy Giggle, spits\nbeam bullets with unusual\ndestructive power.",
-      "translation": "Digimon Infantil que evolucionó\nde Tsumemon. Creció y con su boca\nmás grande corrompe más datos que\nTsumemon, más de 100 MB por\nsegundo, destruyendo archivos en\ncuanto entra. Tiene un carácter\nmuy alegre y ve destruir datos\ncomo un juego. Su Ataque\nEspecial, Risa Loca, escupe\nbalas de energía con un poder\ndestructivo inusual.",
+      "translation": "Digimon Novato que evolucionó\nde Tsumemon. Creció y con su boca\nmás grande corrompe más datos que\nTsumemon, más de 100 MB por\nsegundo, destruyendo archivos en\ncuanto entra. Tiene un carácter\nmuy alegre y ve destruir datos\ncomo un juego. Su Ataque\nEspecial, Risa Loca, escupe\nbalas de energía con un poder\ndestructivo inusual.",
       "_offset": 1736576,
       "_length": 355
     },
     {
+      "text": "Unknown",
+      "translation": "Desconocido",
+      "_offset": 1737272,
+      "_length": 7
+    },
+    {
+      "text": "Infermon",
+      "translation": "Infermon",
+      "_offset": 1737280,
+      "_length": 8
+    },
+    {
       "text": "A Perfect Level Digimon with\nspidery legs and hands. It usually\nhas its legs and head extended, but\ncan assume a cocoon form by\nretracting its limbs, which reflects\nall attacks but restricts movement\nto straight lines. Its Special Move,\nHell's Grenade, shoots an electric\nbullet from the gunpoint in its\nmouth.",
-      "translation": "Digimon de Cuerpo Perfecto con\npatas y manos de araña. Suele\ntener patas y cabeza extendidas,\npero puede adoptar forma de\ncapullo retrayendo sus\nextremidades, lo que refleja\nataques pero limita su movimiento\na líneas rectas. Su Ataque\nEspecial, Granada Infernal,\ndispara una bala eléctrica desde\nel cañón de su boca.",
+      "translation": "Digimon de Cuerpo Perfecto con patas\ny manos de araña. Suele tener patas\ny cabeza extendidas, pero puede\nadoptar forma de capullo retrayendo\nsus extremidades, lo que refleja\nataques pero limita su movimiento a\nlíneas rectas. Su Ataque Especial,\nGranada Infernal, dispara una bala\neléctrica desde el cañón de su boca.",
       "_offset": 1737289,
       "_length": 310
+    },
+    {
+      "text": "Unknown",
+      "translation": "Desconocido",
+      "_offset": 1737977,
+      "_length": 7
+    },
+    {
+      "text": "Omegamon",
+      "translation": "Omegamon",
+      "_offset": 1737985,
+      "_length": 8
     },
     {
       "text": "A Holy Knight Digimon, one of the\nRoyal Knights, born by fusing\nWarGreymon and MetalGarurumon. It \ncombines the traits of two Digimon,\nso it's an adaptable multitype\nwarrior. Its Special Moves are\nGaruru Cannon, which shoots\nabsolute zero bullets from its\nMetalGarurumon-shaped gun, and\nthe Grey Sword that can cut through\nanything.",
@@ -939,51 +2133,81 @@
     },
     {
       "text": "Holy Knight",
-      "translation": "Cab. Sagr.",
+      "translation": "Caballero Sagrado",
       "_offset": 1738327,
       "_length": 11
     },
     {
       "text": "A Small Dragon Digimon that's\nmischievous and naughty, but still\nhas a very strong sense of justice.\nThe survivor of a tribe that\nflourished in the early Digital\nWorld, it has a hidden power. Its\nSpecial Move, V-mon Head, hits with\na strong headbutt.",
-      "translation": "Digimon Pequeño Dragón travieso\ny pícaro, pero con un fuerte\nsentido de la justicia.\nSuperviviente de una tribu que\nflorecía en los inicios del Mundo\nDigital, esconde un poder oculto.\nSu Ataque Especial, Cabezazo\nV-mon, golpea con un fuerte\ncabezazo.",
+      "translation": "Digimon Dragón Pequeño travieso y\npícaro, pero con un fuerte sentido\nde la justicia. Superviviente de\nuna tribu que florecía en los\ninicios del Digimundo, esconde\nun poder oculto. Su Ataque\nEspecial, Cabezazo V-mon, golpea\ncon un fuerte cabezazo.",
       "_offset": 1738345,
       "_length": 250
     },
     {
       "text": "Small Dragon",
-      "translation": "Peq. Dragón",
+      "translation": "Dragón Pequeño",
       "_offset": 1738596,
       "_length": 12
     },
     {
+      "text": "Magnamon",
+      "translation": "Magnamon",
+      "_offset": 1738609,
+      "_length": 8
+    },
+    {
       "text": "A Holy Knight Digimon that evolved\nwith the Digimental of Miracles. Its\ndefense is unbelievable, and its\nfighting ability nigh-absolute. One\nof the Royal Knights. Its Special\nMoves are Plasma Shoot which fires\na spherical plasma bullet and\nExtreme Jihad which uses the\nDigimental's power to emit\nenergy waves with its whole body.",
-      "translation": "Digimon Caballero Sagrado que\nevolucionó con el Digimental de\nlos Milagros. Su defensa es\nincreíble y su combate casi\nabsoluto. Uno de los Caballeros\nReales. Sus Ataques Especiales\nson Disparo de Plasma, que lanza\nuna bala esférica de plasma, y\nYihad Extrema, que usa el poder\ndel Digimental para emitir\nenergía con todo el cuerpo.",
+      "translation": "Digimon Caballero Sagrado que\nevolucionó con el Digimental de los\nMilagros. Su defensa es increíble y\nsu capacidad de combate, casi\nabsoluta. Uno de los Caballeros\nReales. Sus Ataques Especiales son\nDisparo de Plasma, que lanza una\nbala esférica de plasma, y Yihad\nExtrema, que usa el poder del\nDigimental para emitir energía con\ntodo el cuerpo.",
       "_offset": 1738618,
       "_length": 329
     },
     {
       "text": "Holy Knight",
-      "translation": "Cab. Sagr.",
+      "translation": "Caballero Sagrado",
       "_offset": 1738948,
       "_length": 11
     },
     {
+      "text": "Guilmon",
+      "translation": "Guilmon",
+      "_offset": 1738960,
+      "_length": 7
+    },
+    {
       "text": "A dinosaur Digimon that retains its\nyouth. Although still a Child, as a\nCombat Species it has very high\npotential and hides the ferocity of\na predator. Its Special Move,\nFireball, spits a powerful fire\nprojectile.",
-      "translation": "Digimon dinosaurio que conserva\nsu juventud. Aunque es Infantil,\ncomo Especie de Combate tiene\nalto potencial y esconde\nferocidad de depredador. Su\nAtaque Especial, Bola de Fuego,\nescupe un potente proyectil\nardiente.",
+      "translation": "Digimon dinosaurio que conserva su\njuventud. Aunque es Novato, como\nEspecie de Combate tiene alto\npotencial y esconde ferocidad de\ndepredador. Su Ataque Especial,\nBola de Fuego, escupe un potente\nproyectil ardiente.",
       "_offset": 1738968,
       "_length": 213
     },
     {
+      "text": "Reptile",
+      "translation": "Reptil",
+      "_offset": 1739182,
+      "_length": 7
+    },
+    {
+      "text": "Dukemon",
+      "translation": "Dukemon",
+      "_offset": 1739190,
+      "_length": 7
+    },
+    {
       "text": "A Holy Knight Digimon and a Royal\nKnight. A loyal warrior who honors\nchivalry. Despite its Virus\nattribute, it's a guardian deity of\nthe Net. Its holy armor's made of\npure Chrome Digizoid. It carries the\nholy spear Gram and the holy shield\nAegis. Its Special Moves are a\npowerful strike with Gram, Royal\nSaber, and a purifying beam from\nAegis, Final Elysion.",
-      "translation": "Digimon Caballero Sagrado y\nCaballero Real. Guerrero leal que\nhonra la caballerosidad. A pesar\nde su atributo Virus, es una\ndeidad guardiana de la Red. Su\narmadura sagrada es de Digizoid\nCromado puro. Porta la lanza\nsagrada Gram y el escudo sagrado\nAegis. Sus Ataques Especiales son\nun potente golpe con Gram, Sable\nReal, y un rayo purificador de\nAegis, Final Elysion.",
+      "translation": "Digimon Caballero Sagrado y\nCaballero Real. Guerrero leal que\nhonra la caballerosidad. A pesar de\nsu atributo Virus, es una deidad\nguardiana de la Red. Su armadura\nsagrada es de Digizoid Cromado puro.\nPorta la lanza sagrada Gram y el\nescudo sagrado Aegis. Sus Ataques\nEspeciales son un potente golpe con\nGram, Sable Real, y un rayo\npurificador de Aegis, Final Elysion.",
       "_offset": 1739198,
       "_length": 358
     },
     {
       "text": "Holy Knight",
-      "translation": "Cab. Sagr.",
+      "translation": "Caballero Sagrado",
       "_offset": 1739557,
       "_length": 11
+    },
+    {
+      "text": "Agnimon",
+      "translation": "Agnimon",
+      "_offset": 1739569,
+      "_length": 7
     },
     {
       "text": "A Digimon with Flame powers and\nthe might of one of the Ten\nLegendary Warriors. Its Digicore is\nsurrounded by a spiritual fire known\nas the holy flame, so it controls\nfire at will. It's a guardian\ndeity that originates from the\nFirewall. Its Special Move,\nBurning Salamander, unleashes from\nits fist a blazing dragon engulfed\nin flames.",
@@ -993,39 +2217,69 @@
     },
     {
       "text": "Demon Man",
-      "translation": "H.Demonio",
+      "translation": "Hombre Demonio",
       "_offset": 1739914,
       "_length": 9
     },
     {
+      "text": "KaiserGreymon",
+      "translation": "KaiserGreymon",
+      "_offset": 1739924,
+      "_length": 13
+    },
+    {
       "text": "A Transcendent-type Digimon with\nflames that surpass the Ten\nLegendary Warriors. It bears the\npower of the nine dragons' veins\nthat flow through Gaia, and controls\nGaia by sealing their souls in its\nDragon Soul Sword. Its Special Move\nNine-Headed Dragon Formation \nunleashes eight veins, becomes the\nninth dragon, and destroys with its\ngreat blade.",
-      "translation": "Digimon de Tipo Trascendente con\nllamas que superan a los Diez\nGuerreros Legendarios. Porta el\npoder de las nueve venas de\ndragón que recorren Gaia, y\ncontrola Gaia sellando sus almas\nen su Espada del Alma del Dragón.\nSu Ataque Especial, Formación\nDragón de Nueve Cabezas, libera\nocho venas, se vuelve el noveno\ndragón, y destruye con su gran\nhoja.",
+      "translation": "Digimon de Tipo Trascendente con\nllamas que superan a los Diez\nGuerreros Legendarios. Porta el\npoder de las nueve venas de dragón\nque recorren Gaia, y controla Gaia\nsellando sus almas en su Espada del\nAlma del Dragón. Su Ataque Especial,\nFormación Dragón de Nueve Cabezas,\nlibera ocho venas, se vuelve el\nnoveno dragón, y destruye con su\ngran hoja.",
       "_offset": 1739938,
       "_length": 348
     },
     {
       "text": "Dragon Warrior",
-      "translation": "Guerr. Dragón",
+      "translation": "Guerrero Dragón",
       "_offset": 1740287,
       "_length": 14
     },
     {
+      "text": "Agumon",
+      "translation": "Agumon",
+      "_offset": 1740302,
+      "_length": 6
+    },
+    {
       "text": "A special Agumon that differs from\nregular Agumon by height and the\nred leather belts on its arms. It's\nweak and still growing, but its\nsharp, hard claws demonstrate its\nfighting skill. With its Special\nMove, Baby Flame, it spits fire.",
-      "translation": "Agumon especial que se distingue\ndel Agumon normal por su altura y\nlas correas de cuero rojo en sus\nbrazos. Es débil y aún crece,\npero sus garras afiladas\ndemuestran su habilidad de\ncombate. Con su Ataque Especial,\nLlama Bebé, escupe fuego.",
+      "translation": "Agumon especial que se distingue\ndel Agumon normal por su altura y\nlas correas de cuero rojo en sus\nbrazos. Es débil y aún crece, pero\nsus garras afiladas demuestran su\nhabilidad de combate. Con su Ataque\nEspecial, Llama Bebé, escupe fuego.",
       "_offset": 1740309,
       "_length": 235
     },
     {
+      "text": "Reptile",
+      "translation": "Reptil",
+      "_offset": 1740545,
+      "_length": 7
+    },
+    {
+      "text": "ShineGreymon",
+      "translation": "ShineGreymon",
+      "_offset": 1740553,
+      "_length": 12
+    },
+    {
       "text": "A Light Dragon Digimon that fights\nwith the stored energy of the sun's\nscorching heat. It summons Geo Grey\nSword, which contains Gaia's power.\nIts Special Moves are Glorious\nBurst, which spreads its gigantic\nwings to concentrate and unleash\nlight energy, and Shining Blast,\nwhich mows down enemies with its\nshining wings.",
-      "translation": "Digimon Dragón de Luz que pelea\ncon la energía almacenada del\nardiente calor solar. Invoca la\nEspada GeoGrey, que contiene el\npoder de Gaia. Sus Ataques\nEspeciales son Ráfaga Gloriosa,\nque despliega sus alas gigantes\npara concentrar y liberar energía\nluminosa, y Explosión Brillante,\nque arrasa enemigos con sus alas\nbrillantes.",
+      "translation": "Digimon Dragón de Luz que pelea con\nla energía almacenada del ardiente\ncalor solar. Invoca la Espada\nGeoGrey, que contiene el poder de\nGaia. Sus Ataques Especiales son\nRáfaga Gloriosa, que despliega sus\nalas gigantes para concentrar y\nliberar energía luminosa, y\nExplosión Brillante, que arrasa\nenemigos con sus alas brillantes.",
       "_offset": 1740566,
       "_length": 321
     },
     {
       "text": "Light Dragon",
-      "translation": "Dragón Luz",
+      "translation": "Dragón de Luz",
       "_offset": 1740888,
       "_length": 12
+    },
+    {
+      "text": "Shoutmon",
+      "translation": "Shoutmon",
+      "_offset": 1740901,
+      "_length": 8
     },
     {
       "text": "A ferocious Digimon with a hot-\nblooded nature that's extremely\naggressive, but friendly to its\ncomrades. It forms deep bonds with\nthose it acknowledges as worthy,\nregardless of species. Shoutmon's\nsinging transforms its enthusiasm \ninto energy. It fights by amplifying\nthe blazing feelings in its chest\nwith its microphone and attacking\nwith Soul Crusher.",
@@ -1034,20 +2288,38 @@
       "_length": 356
     },
     {
+      "text": "Dragon",
+      "translation": "Dragón",
+      "_offset": 1742053,
+      "_length": 6
+    },
+    {
+      "text": "Hackmon",
+      "translation": "Hackmon",
+      "_offset": 1742060,
+      "_length": 7
+    },
+    {
       "text": "A Small Dragon Digimon with a cold\nwhite shine. Its wild adventurous\nway of life is probably due to\nGankoomon's DNA. It calmly endures\nGankoomon's trials. It's good in\nclose combat, always using its quick\nwits. As it fights on, it dreams of\nbecoming a Royal Knight like\nGankoomon. Its Special Move, Fif\nSlash, cuts with its hard claws.",
-      "translation": "Digimon Pequeño Dragón de brillo\nblanco y frío. Su estilo salvaje\ny aventurero se debe quizá al ADN\nde Gankoomon. Soporta con calma\nlas pruebas de Gankoomon. Es\nbueno en combate cercano, siempre\ncon ingenio rápido. Mientras\npelea, sueña con ser un Caballero\nReal como Gankoomon. Su Ataque\nEspecial, Corte Fif, corta con\nsus duras garras.",
+      "translation": "Digimon Dragón Pequeño de brillo\nblanco y frío. Su estilo salvaje y\naventurero se debe quizá al ADN de\nGankoomon. Soporta con calma las\npruebas de Gankoomon. Es bueno en\ncombate cercano, siempre con ingenio\nrápido. Mientras pelea, sueña con\nser un Caballero Real como\nGankoomon. Su Ataque Especial, Corte\nFif, corta con sus duras garras.",
       "_offset": 1742068,
       "_length": 335
     },
     {
       "text": "Small Dragon",
-      "translation": "Peq. Dragón",
+      "translation": "Dragón Pequeño",
       "_offset": 1742404,
       "_length": 12
     },
     {
+      "text": "Gankuumon",
+      "translation": "Gankoomon",
+      "_offset": 1742417,
+      "_length": 9
+    },
+    {
       "text": "A Holy Knight Digimon that became a\nRoyal Knight. It claims residence in\nthe southwestern Digital World, but\nconstantly travels to destroy the\nomens of chaos and calamity. It puts\nHackmon through harsh training to\npass on its title. The \"Hinukamuy\"\nthat emerges from its body is silent\nbut helpful. Its Special Move,\nFirst Strike Punishment, strikes\nwhoever backtalks it.",
-      "translation": "Digimon Caballero Sagrado que se\nconvirtió en Caballero Real.\nReside en el suroeste del Mundo\nDigital, pero viaja sin cesar\npara destruir presagios de caos y\ndesgracia. Somete a Hackmon a un\nduro entrenamiento para\ntraspasarle su título. El\n\"Hinukamuy\" que emerge de su\ncuerpo es silencioso pero útil.\nSu Ataque Especial, Castigo\nPrimer Golpe, golpea a quien le\nreplica.",
+      "translation": "Digimon Caballero Sagrado que se\nconvirtió en Caballero Real. Reside\nen el suroeste del Digimundo,\npero viaja sin cesar para destruir\npresagios de caos y desgracia.\nSomete a Hackmon a un duro\nentrenamiento para traspasarle su\ntítulo. El \"Hinukamuy\" que emerge de\nsu cuerpo es silencioso pero útil.\nSu Ataque Especial, Castigo Primer\nGolpe, golpea a quien le replica.",
       "_offset": 1742427,
       "_length": 371
     },
@@ -1059,19 +2331,19 @@
     },
     {
       "text": "A wing from an insect Digimon. Durable and easy to process.",
-      "translation": "Ala de un Digimon insecto.\nDuradera y fácil de procesar.",
+      "translation": "Ala de un Digimon insecto. Duradera y fácil de procesar.",
       "_offset": 1750106,
       "_length": 59
     },
     {
       "text": "Shiny Antenna",
-      "translation": "Antena Brill.",
+      "translation": "Antena Brillante",
       "_offset": 1750166,
       "_length": 13
     },
     {
       "text": "An antenna from an insect Digimon. Fragile and valuable.",
-      "translation": "Antena de un Digimon insecto.\nFrágil y valiosa.",
+      "translation": "Antena de un Digimon insecto. Frágil y valiosa.",
       "_offset": 1750180,
       "_length": 56
     },
@@ -1083,7 +2355,7 @@
     },
     {
       "text": "A vine from a plant Digimon. A versatile material.",
-      "translation": "Enredadera de un Digimon\nplanta. Material versátil.",
+      "translation": "Enredadera de Digimon planta. Material versátil.",
       "_offset": 1750247,
       "_length": 50
     },
@@ -1095,19 +2367,19 @@
     },
     {
       "text": "A petal from a plant Digimon. Has a nice smell.",
-      "translation": "Pétalo de un Digimon planta.\nHuele muy bien.",
+      "translation": "Pétalo de un Digimon planta. Huele muy bien.",
       "_offset": 1750313,
       "_length": 47
     },
     {
       "text": "Sticky Sap",
-      "translation": "Savia Peg.",
+      "translation": "Savia Pegajosa",
       "_offset": 1750361,
       "_length": 10
     },
     {
       "text": "Sap from a plant Digimon. Nice and sticky.",
-      "translation": "Savia de un Digimon planta.\nPegajosa.",
+      "translation": "Savia de un Digimon planta. Pegajosa.",
       "_offset": 1750372,
       "_length": 42
     },
@@ -1119,7 +2391,7 @@
     },
     {
       "text": "Wood from a plant Digimon. Said to be material for a puppet.",
-      "translation": "Madera de un Digimon planta.\nDicen que sirve para\nmarionetas.",
+      "translation": "Madera de Digimon planta. Sirve para marionetas.",
       "_offset": 1750427,
       "_length": 60
     },
@@ -1131,19 +2403,19 @@
     },
     {
       "text": "High-quality cloth. Good as material for clothes and puppets.",
-      "translation": "Tela de alta calidad. Buena\npara ropa y marionetas.",
+      "translation": "Tela de alta calidad. Buena para ropa y marionetas.",
       "_offset": 1750501,
       "_length": 61
     },
     {
       "text": "Sharp Claws",
-      "translation": "Garra Afil.",
+      "translation": "Garra Afilada",
       "_offset": 1750563,
       "_length": 11
     },
     {
       "text": "A claw from a dinosaur or animal Digimon. Very sharp.",
-      "translation": "Garra de un Digimon dinosaurio\no animal. Muy afilada.",
+      "translation": "Garra de un Digimon dinosaurio o animal. Muy afilada.",
       "_offset": 1750575,
       "_length": 53
     },
@@ -1155,7 +2427,7 @@
     },
     {
       "text": "A fang from a dinosaur or animal Digimon. Extremely sharp.",
-      "translation": "Colmillo de un Digimon\ndinosaurio o animal. Muy\nafilado.",
+      "translation": "Colmillo de un Digimon dinosaurio o animal. Muy afilado.",
       "_offset": 1750640,
       "_length": 58
     },
@@ -1167,31 +2439,31 @@
     },
     {
       "text": "A claw from a dinosaur or animal Digimon. Can cut through anything.",
-      "translation": "Garra de un Digimon dinosaurio\no animal. Corta cualquier\ncosa.",
+      "translation": "Garra de un Digimon dinosaurio o animal. Corta cualquier cosa.",
       "_offset": 1750710,
       "_length": 67
     },
     {
       "text": "Ancient Fang",
-      "translation": "ColmilloAnt.",
+      "translation": "Colmillo Antiguo",
       "_offset": 1750778,
       "_length": 12
     },
     {
       "text": "A fang from a dinosaur or animal Digimon. Quite heavy.",
-      "translation": "Colmillo de un Digimon\ndinosaurio o animal. Muy\npesado.",
+      "translation": "Colmillo de Digimon dinosaurio o animal. Pesado.",
       "_offset": 1750791,
       "_length": 54
     },
     {
       "text": "Fine Horn",
-      "translation": "Cuerno F.",
+      "translation": "Cuerno Fino",
       "_offset": 1750846,
       "_length": 9
     },
     {
       "text": "A horn from a dinosaur or animal Digimon. Very beautiful.",
-      "translation": "Cuerno de un Digimon\ndinosaurio o animal. Muy\nhermoso.",
+      "translation": "Cuerno de un Digimon dinosaurio o animal. Muy hermoso.",
       "_offset": 1750856,
       "_length": 57
     },
@@ -1203,7 +2475,7 @@
     },
     {
       "text": "Fur from an animal Digimon. Pleasant to the touch.",
-      "translation": "Pelo de un Digimon animal.\nAgradable al tacto.",
+      "translation": "Pelo de un Digimon animal. Agradable al tacto.",
       "_offset": 1750923,
       "_length": 50
     },
@@ -1215,7 +2487,7 @@
     },
     {
       "text": "Fur from an animal Digimon. Quite stiff.",
-      "translation": "Pelo de un Digimon animal.\nBastante duro.",
+      "translation": "Pelo de un Digimon animal. Muy rígido.",
       "_offset": 1750984,
       "_length": 40
     },
@@ -1227,7 +2499,7 @@
     },
     {
       "text": "A feather from a winged Digimon. Big, but light.",
-      "translation": "Pluma de un Digimon alado.\nGrande, pero ligera.",
+      "translation": "Pluma de un Digimon alado. Grande, pero ligera.",
       "_offset": 1751039,
       "_length": 48
     },
@@ -1251,67 +2523,67 @@
     },
     {
       "text": "Came from a flying Digimon. Gently rugged, but not damaged.",
-      "translation": "Viene de un Digimon volador.\nAlgo rugosa, pero no dañada.",
+      "translation": "Viene de un Digimon volador. Algo rugosa, pero no dañada.",
       "_offset": 1751175,
       "_length": 59
     },
     {
       "text": "Thick Scales",
-      "translation": "EscamasGrue.",
+      "translation": "Escamas Gruesas",
       "_offset": 1751235,
       "_length": 12
     },
     {
       "text": "Scales from a water Digimon. Rather thick.",
-      "translation": "Escamas de Digimon acuático.\nMuy gruesas.",
+      "translation": "Escamas de Digimon acuático. Muy gruesas.",
       "_offset": 1751248,
       "_length": 42
     },
     {
       "text": "Sharp Spine",
-      "translation": "EspinaAfil.",
+      "translation": "Espina Afilada",
       "_offset": 1751291,
       "_length": 11
     },
     {
       "text": "A spine of some Digimon. A robust and light material.",
-      "translation": "Espina de algún Digimon.\nMaterial robusto y ligero.",
+      "translation": "Espina de algún Digimon. Material robusto y ligero.",
       "_offset": 1751303,
       "_length": 53
     },
     {
       "text": "Steel Shell",
-      "translation": "ConchaAcer.",
+      "translation": "Concha de Acero",
       "_offset": 1751357,
       "_length": 11
     },
     {
       "text": "A shell from a shellfish Digimon. Wholly sturdy.",
-      "translation": "Concha de un Digimon marisco.\nMuy resistente.",
+      "translation": "Concha de un Digimon marisco. Muy resistente.",
       "_offset": 1751369,
       "_length": 48
     },
     {
       "text": "Wriggling Tentacle",
-      "translation": "Tentác. Retorcido",
+      "translation": "Tentáculo Retorcido",
       "_offset": 1751418,
       "_length": 18
     },
     {
       "text": "A wriggling and squirming tentacle. Looks like it's still alive.",
-      "translation": "Tentáculo que se retuerce y\nagita. Parece que sigue vivo.",
+      "translation": "Tentáculo que se retuerce y agita. Parece que sigue vivo.",
       "_offset": 1751437,
       "_length": 64
     },
     {
       "text": "Slimy Ball",
-      "translation": "Bola Visc.",
+      "translation": "Bola Viscosa",
       "_offset": 1751502,
       "_length": 10
     },
     {
       "text": "A mysterious, slimy ball. It smells a little...",
-      "translation": "Bola viscosa y misteriosa.\nHuele un poco...",
+      "translation": "Bola viscosa y misteriosa. Huele un poco...",
       "_offset": 1751513,
       "_length": 47
     },
@@ -1323,7 +2595,7 @@
     },
     {
       "text": "A component of a mechanical Digimon. Unfortunately, it's broken.",
-      "translation": "Pieza de un Digimon mecánico.\nPor desgracia, está rota.",
+      "translation": "Pieza de un Digimon mecánico. Por desgracia, está rota.",
       "_offset": 1751576,
       "_length": 64
     },
@@ -1335,7 +2607,7 @@
     },
     {
       "text": "A component of a mechanical Digimon. An old-fashioned chip.",
-      "translation": "Pieza de un Digimon mecánico.\nUn chip anticuado.",
+      "translation": "Pieza de un Digimon mecánico. Un chip anticuado.",
       "_offset": 1751655,
       "_length": 59
     },
@@ -1347,31 +2619,31 @@
     },
     {
       "text": "A component of a mechanical Digimon. A complex-shaped tube.",
-      "translation": "Pieza de un Digimon mecánico.\nUn tubo de forma compleja.",
+      "translation": "Pieza de un Digimon mecánico. Un tubo de forma compleja.",
       "_offset": 1751729,
       "_length": 59
     },
     {
       "text": "Iron Fragment",
-      "translation": "Frag. Hierro",
+      "translation": "Trozo de Hierro",
       "_offset": 1751789,
       "_length": 13
     },
     {
       "text": "Sturdy iron used in Digimon weapons.",
-      "translation": "Hierro resistente para armas\nDigimon.",
+      "translation": "Hierro resistente para armas Digimon.",
       "_offset": 1751803,
       "_length": 36
     },
     {
       "text": "Platinum Fragment",
-      "translation": "Frag. de Platino",
+      "translation": "Trozo de Platino",
       "_offset": 1751840,
       "_length": 17
     },
     {
       "text": "Precious metal used in Digimon accessories.",
-      "translation": "Metal precioso para accesorios\nDigimon.",
+      "translation": "Metal precioso para accesorios Digimon.",
       "_offset": 1751858,
       "_length": 43
     },
@@ -1383,9 +2655,21 @@
     },
     {
       "text": "A very mysterious crystal. Feels like it's got evil energy.",
-      "translation": "Cristal muy misterioso. Parece\ntener energía maligna.",
+      "translation": "Cristal muy misterioso. Parece tener energía maligna.",
       "_offset": 1751916,
       "_length": 59
+    },
+    {
+      "text": "Ice-Snow",
+      "translation": "Hielo y Nieve",
+      "_offset": 1716354,
+      "_length": 8
+    },
+    {
+      "text": "V-mon",
+      "translation": "V-mon",
+      "_offset": 1738339,
+      "_length": 5
     }
   ]
 }

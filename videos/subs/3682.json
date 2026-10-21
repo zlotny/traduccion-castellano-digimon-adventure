@@ -1,0 +1,31 @@
+{
+  "file_id": "3682",
+  "style": {
+    "center_x": 240,
+    "baseline_y": 252,
+    "cap_height": 12,
+    "line_height": 23,
+    "fill": "#fdfbfc",
+    "outline": "#120d0f",
+    "outline_width": 2,
+    "font": "digimon_toolkit/fonts/Nunito.ttf",
+    "font_variation": "Black",
+    "font_size": 16
+  },
+  "subtitles": [
+    {
+      "index": 0,
+      "start": 0.868,
+      "end": 3.871,
+      "english": "Dark Spirits Deluxe!",
+      "translation": "¡Espíritus Oscuros Deluxe!"
+    },
+    {
+      "index": 1,
+      "start": 8.709,
+      "end": 10.31,
+      "english": "SaberLeomon!",
+      "translation": "¡SaberLeomon!"
+    }
+  ]
+}

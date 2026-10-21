@@ -1,790 +1,917 @@
 {
   "file_id": "3622",
-  "text_count": 98,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 101,
   "dialog": [
     {
       "index": 0,
-      "english": "��������We're here! The spatial control\ncore should be in the back!",
-      "_offset": 6318,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Ya llegamos! El núcleo de\ncontrol espacial debe estar\nal fondo!"
+      "english": "We're here! The spatial control\ncore should be in the back!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 13768,
+      "_bytes": 59,
+      "translation": "¡Ya llegamos! ¡El núcleo de\ncontrol espacial debe de estar\nal fondo!"
     },
     {
       "index": 1,
       "english": "Tai! Over there!",
-      "_offset": 6386,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Tai! Mira allí!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 13828,
+      "_bytes": 19,
+      "translation": "¡Tai! ¡Mira allí!"
     },
     {
       "index": 2,
       "english": "Daisuke! Takato!",
-      "_offset": 6406,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Daisuke! Takato!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13848,
+      "_bytes": 16,
+      "translation": "¡Daisuke! ¡Takato!"
     },
     {
       "index": 3,
       "english": "Takuya! And Masaru!",
-      "_offset": 6423,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Takuya! Y Masaru!"
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 13865,
+      "_bytes": 19,
+      "translation": "¡Takuya! ¡Y Masaru!"
     },
     {
       "index": 4,
       "english": "Taiki and Tagiru!",
-      "_offset": 6443,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Taiki y Tagiru!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 13885,
+      "_bytes": 17,
+      "translation": "¡Taiki y Tagiru!"
     },
     {
       "index": 5,
       "english": "Glad we're all together now!",
-      "_offset": 6461,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Qué bien, ya estamos todos!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13903,
+      "_bytes": 28,
+      "translation": "¡Qué bien, ya estamos todos!"
     },
     {
       "index": 6,
       "english": "We heard everything about you and\nGankuumon!",
-      "_offset": 6490,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Nos contaron todo sobre\nti y Gankuumon!"
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 13932,
+      "_bytes": 44,
+      "translation": "¡Nos contaron todo sobre\nti y Gankoomon!"
     },
     {
       "index": 7,
       "english": "So that's why we're all here!",
-      "_offset": 6535,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Por eso estamos todos aquí!"
+      "speaker_id": 7021,
+      "line_type": 2,
+      "_offset": 13977,
+      "_bytes": 29,
+      "translation": "¡Por eso estamos todos aquí!"
     },
     {
       "index": 8,
       "english": "Well, a lot of stuff happened, but\nnow's not the time to be talking\nabout that.",
-      "_offset": 6565,
-      "_length": 79,
-      "speaker_id": 0,
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 14007,
+      "_bytes": 79,
       "translation": "Bueno, pasaron muchas cosas,\npero no es momento de\nhablar de eso."
     },
     {
       "index": 9,
-      "english": "I'm really sorry, Takuya!",
-      "_offset": 6645,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Lo siento mucho, Takuya!"
+      "english": "I'm really sorry, Takuya!　",
+      "speaker_id": 7041,
+      "line_type": 2,
+      "_offset": 14087,
+      "_bytes": 27,
+      "translation": "¡Lo siento mucho, Takuya!"
     },
     {
       "index": 10,
       "english": "Anyway, our first priority is to\ntake care of this.",
-      "_offset": 6673,
-      "_length": 51,
-      "speaker_id": 0,
+      "speaker_id": 7051,
+      "line_type": 2,
+      "_offset": 14115,
+      "_bytes": 51,
       "translation": "Bueno, lo primero es\nocuparnos de esto."
     },
     {
       "index": 11,
       "english": "Let's do it, guys!",
-      "_offset": 6725,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Vamos, chicos!"
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 14167,
+      "_bytes": 18,
+      "translation": "¡Vamos, chicos!"
     },
     {
       "index": 12,
       "english": "I guess we're not gonna be able to\nget in that easily!",
-      "_offset": 6744,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Parece que no será fácil\nentrar ahí!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14186,
+      "_bytes": 54,
+      "translation": "¡Parece que no será fácil\nentrar ahí!"
     },
     {
       "index": 13,
       "english": "Why don't we all try to break in\nat once?",
-      "_offset": 6799,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Por qué no entramos todos\na la vez?"
+      "speaker_id": 7041,
+      "line_type": 2,
+      "_offset": 14241,
+      "_bytes": 41,
+      "translation": "¿Por qué no entramos todos\na la vez?"
     },
     {
       "index": 14,
       "english": "Well, we shouldn't all be wearing\nourselves out...",
-      "_offset": 6841,
-      "_length": 50,
-      "speaker_id": 0,
+      "speaker_id": 7051,
+      "line_type": 2,
+      "_offset": 14283,
+      "_bytes": 50,
       "translation": "Bueno, no deberíamos\nagotarnos todos..."
     },
     {
       "index": 15,
       "english": "Why don't we split up into pairs,\nthen?",
-      "_offset": 6892,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Y si nos dividimos en\nparejas?"
+      "speaker_id": 7021,
+      "line_type": 2,
+      "_offset": 14334,
+      "_bytes": 39,
+      "translation": "¿Y si nos dividimos en\nparejas?"
     },
     {
       "index": 16,
       "english": "But if we split up into teams,\nwe're not gonna make it in time.",
-      "_offset": 6932,
-      "_length": 63,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14374,
+      "_bytes": 63,
       "translation": "Pero si nos dividimos,\nno llegaremos a tiempo."
     },
     {
       "index": 17,
       "english": "Why don't you go ahead then,\nTai?",
-      "_offset": 6996,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Por qué no vas tú\nprimero, Tai?"
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 14438,
+      "_bytes": 36,
+      "translation": "¿Por qué no vas tú\nprimero, Tai?"
     },
     {
       "index": 18,
       "english": "Daisuke...",
-      "_offset": 7033,
-      "_length": 10,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14475,
+      "_bytes": 10,
       "translation": "Daisuke..."
     },
     {
       "index": 19,
       "english": "You're the leader here, Tai!",
-      "_offset": 7044,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Tú eres el líder, Tai!"
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 14486,
+      "_bytes": 31,
+      "translation": "¡Tú eres el líder, Tai!"
     },
     {
       "index": 20,
       "english": "Takuya...",
-      "_offset": 7076,
-      "_length": 9,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14518,
+      "_bytes": 9,
       "translation": "Takuya..."
     },
     {
       "index": 21,
       "english": "Tai, let's pick who we want to\ngo with us!",
-      "_offset": 7086,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Tai, elige quién quieres\nque venga contigo!"
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 14528,
+      "_bytes": 45,
+      "translation": "Tai, ¡elige quién quieres\nque venga contigo!"
     },
     {
       "index": 22,
       "english": "Hurry, Tai!",
-      "_offset": 7132,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Rápido, Tai!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 14574,
+      "_bytes": 14,
+      "translation": "¡Rápido, Tai!"
     },
     {
       "index": 23,
       "english": "Guys! We're gonna protect the\nDigital World and our own worlds,\nwith our own hands!",
-      "_offset": 7147,
-      "_length": 83,
-      "speaker_id": 0,
-      "translation": "Chicos! Vamos a proteger\nel Digimundo y nuestros\nmundos con nuestras manos!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14589,
+      "_bytes": 83,
+      "translation": "¡Chicos! ¡Vamos a proteger\nel Digimundo y nuestros\nmundos con nuestras manos!"
     },
     {
       "index": 24,
       "english": "Yeah!",
-      "_offset": 7231,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí!"
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 14673,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     },
     {
       "index": 25,
-      "english": "That's the spatial control core...",
-      "_offset": 7240,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Ese es el núcleo espacial..."
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 14679,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 26,
-      "english": "It's coming!",
-      "_offset": 7275,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Ya viene!"
+      "english": "That's the spatial control core...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14682,
+      "_bytes": 34,
+      "translation": "Ese es el núcleo espacial..."
     },
     {
       "index": 27,
-      "english": "...WarGreymon?!",
-      "_offset": 7292,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "...WarGreymon?!"
+      "english": "It's coming!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 14717,
+      "_bytes": 12,
+      "translation": "¡Ya viene!"
     },
     {
       "index": 28,
-      "english": "It's the very last one!",
-      "_offset": 7308,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Es el último de todos!"
+      "english": "...",
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 14730,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 29,
-      "english": "Guys! This is the last one! If we\ndefeat him, we can stop the\nspatial control core!",
-      "_offset": 7332,
-      "_length": 83,
-      "speaker_id": 0,
-      "translation": "Chicos! Es el último! Si lo\nvencemos, detenemos el\nnúcleo de control espacial!"
+      "english": "...WarGreymon?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14734,
+      "_bytes": 15,
+      "translation": "...¡¿WarGreymon?!"
     },
     {
       "index": 30,
-      "english": "Yeah! Let's go, guys!",
-      "_offset": 7416,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Sí! Vamos, chicos!"
+      "english": "It's the very last one!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 14750,
+      "_bytes": 23,
+      "translation": "¡Es el último de todos!"
     },
     {
       "index": 31,
-      "english": "We did it! We did it!",
-      "_offset": 7444,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ganamos! Ganamos!"
+      "english": "Guys! This is the last one! If we\ndefeat him, we can stop the\nspatial control core!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 14774,
+      "_bytes": 83,
+      "translation": "¡Chicos! ¡Es el último! ¡Si lo\nvencemos, detenemos el\nnúcleo de control espacial!"
     },
     {
       "index": 32,
-      "english": "We're out of time! We have to stop\nthe spatial control core!",
-      "_offset": 7466,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Se acaba el tiempo! Hay que\ndetener el núcleo espacial!"
+      "english": "Yeah! Let's go, guys!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14858,
+      "_bytes": 21,
+      "translation": "¡Sí! ¡Vamos, chicos!"
     },
     {
       "index": 33,
-      "english": "Hackmon!",
-      "_offset": 7527,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Hackmon!"
+      "english": "...!!",
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 14880,
+      "_bytes": 5,
+      "translation": "...!!"
     },
     {
       "index": 34,
-      "english": "N-No way! It shouldn't have this\nmuch power!",
-      "_offset": 7536,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "N-No puede ser! No debería\ntener tanto poder!"
+      "english": "We did it! We did it!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14886,
+      "_bytes": 21,
+      "translation": "¡Ganamos! ¡Ganamos!"
     },
     {
       "index": 35,
-      "english": "Hackmon!",
-      "_offset": 7581,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Hackmon!"
+      "english": "We're out of time! We have to stop\nthe spatial control core!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 14908,
+      "_bytes": 60,
+      "translation": "¡Se acaba el tiempo! ¡Hay que\ndetener el núcleo espacial!"
     },
     {
       "index": 36,
-      "english": "Tai! Guys!",
-      "_offset": 7590,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Tai! Chicos!"
+      "english": "Hackmon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14969,
+      "_bytes": 8,
+      "translation": "¡Hackmon!"
     },
     {
       "index": 37,
-      "english": "Hackmon...!",
-      "_offset": 7604,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Hackmon...!"
+      "english": "N-No way! It shouldn't have this\nmuch power!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 14978,
+      "_bytes": 44,
+      "translation": "¡N-No puede ser! ¡No debería\ntener tanto poder!"
     },
     {
       "index": 38,
-      "english": "Deliver this message to Gankuumon:\nI successfully guided the Chosen\nChildren here!",
-      "_offset": 7616,
-      "_length": 82,
-      "speaker_id": 0,
-      "translation": "Decidle a Gankuumon: logré\nguiar hasta aquí a los\nNiños Elegidos!"
+      "english": "Hackmon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15023,
+      "_bytes": 8,
+      "translation": "¡Hackmon!"
     },
     {
       "index": 39,
-      "english": "Aaaaaaagh!",
-      "_offset": 7699,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Aaaaaagh!"
+      "english": "Tai! Guys!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 15032,
+      "_bytes": 13,
+      "translation": "¡Tai! ¡Chicos!"
     },
     {
       "index": 40,
-      "english": "Are you okay, Hackmon?",
-      "_offset": 7710,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Estás bien, Hackmon?"
+      "english": "Hackmon...!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15046,
+      "_bytes": 11,
+      "translation": "¡Hackmon...!"
     },
     {
       "index": 41,
-      "english": "Tai... Guys... What happened to\nthe spatial control core?",
-      "_offset": 7733,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Tai... chicos... qué pasó\ncon el núcleo espacial?"
+      "english": "Deliver this message to Gankuumon:\nI successfully guided the Chosen\nChildren here!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 15058,
+      "_bytes": 82,
+      "translation": "Decidle a Gankoomon: ¡logré\nguiar hasta aquí a los\nNiños Elegidos!"
     },
     {
       "index": 42,
-      "english": "It's all good! The fake copies are\nall gone.",
-      "_offset": 7794,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Todo bien! Las copias\nfalsas desaparecieron."
+      "english": "Aaaaaaagh!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 15141,
+      "_bytes": 10,
+      "translation": "¡Aaaaaagh!"
     },
     {
       "index": 43,
-      "english": "Thank goodness...",
-      "_offset": 7839,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Menos mal..."
+      "english": "Are you okay, Hackmon?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15152,
+      "_bytes": 22,
+      "translation": "¿Estás bien, Hackmon?"
     },
     {
       "index": 44,
-      "english": "Splendid job, chosen ones. And\nyou, Hackmon...",
-      "_offset": 7857,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Buen trabajo, elegidos.\nY tú, Hackmon..."
+      "english": "Tai... Guys... What happened to\nthe spatial control core?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 15175,
+      "_bytes": 60,
+      "translation": "Tai... chicos... ¿qué pasó\ncon el núcleo espacial?"
     },
     {
       "index": 45,
-      "english": "Yes?",
-      "_offset": 7904,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Sí?"
+      "english": "It's all good! The fake copies are\nall gone.",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 15236,
+      "_bytes": 44,
+      "translation": "¡Todo bien! Las copias\nfalsas desaparecieron."
     },
     {
       "index": 46,
-      "english": "So the Digital World is safe now,\nright?",
-      "_offset": 7909,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Entonces el Digimundo\nestá a salvo, no?"
+      "english": "Thank goodness...",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 15281,
+      "_bytes": 17,
+      "translation": "Menos mal..."
     },
     {
       "index": 47,
-      "english": "We can go home!",
-      "_offset": 7950,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Podemos volver!"
+      "english": "Splendid job, chosen ones. And\nyou, Hackmon...",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 15299,
+      "_bytes": 46,
+      "translation": "Buen trabajo, elegidos.\nY tú, Hackmon..."
     },
     {
       "index": 48,
-      "english": "Man, this was one heck of a big\nthing!",
-      "_offset": 7966,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Vaya, esto sí que fue\nuna pasada!"
+      "english": "Yes?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 15346,
+      "_bytes": 4,
+      "translation": "¿Sí?"
     },
     {
       "index": 49,
-      "english": "I was hoping I could wreck some\nmore stuff around here...",
-      "_offset": 8005,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Y yo que quería romper\nalgo más por aquí..."
+      "english": "So the Digital World is safe now,\nright?",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 15351,
+      "_bytes": 40,
+      "translation": "Entonces el Digimundo\nestá a salvo, ¿no?"
     },
     {
       "index": 50,
-      "english": "All our friends back home must be\nworried about us.",
-      "_offset": 8063,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Nuestros amigos deben\nestar preocupados por\nnosotros."
+      "english": "We can go home!",
+      "speaker_id": 7021,
+      "line_type": 2,
+      "_offset": 15392,
+      "_bytes": 15,
+      "translation": "¡Podemos volver!"
     },
     {
       "index": 51,
-      "english": "Aww, I gotta go back to school...",
-      "_offset": 8115,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Uy, tengo que volver\nal cole..."
+      "english": "Man, this was one heck of a big\nthing!",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 15408,
+      "_bytes": 38,
+      "translation": "¡Vaya, esto sí que fue\nuna pasada!"
     },
     {
       "index": 52,
-      "english": "As thanks for your work, I will\ngrant you all a reward.",
-      "_offset": 8149,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Como agradecimiento, os\ndaré una recompensa."
+      "english": "I was hoping I could wreck some\nmore stuff around here...",
+      "speaker_id": 7041,
+      "line_type": 2,
+      "_offset": 15447,
+      "_bytes": 57,
+      "translation": "Y yo que quería romper\nalgo más por aquí..."
     },
     {
       "index": 53,
-      "english": "What? Really?!",
-      "_offset": 8205,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Qué? Serio?!"
+      "english": "All our friends back home must be\nworried about us.",
+      "speaker_id": 7051,
+      "line_type": 2,
+      "_offset": 15505,
+      "_bytes": 51,
+      "translation": "Nuestros amigos deben\nestar preocupados por\nnosotros."
     },
     {
       "index": 54,
-      "english": "I... will be your opponent, as a\nRoyal Knight!",
-      "_offset": 8220,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Yo... seré vuestro rival,\ncomo Caballero Real!"
+      "english": "Aww, I gotta go back to school...",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 15557,
+      "_bytes": 33,
+      "translation": "Uy, tengo que volver al cole..."
     },
     {
       "index": 55,
-      "english": "What?!",
-      "_offset": 8267,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Qué?!"
+      "english": "As thanks for your work, I will\ngrant you all a reward.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 15591,
+      "_bytes": 55,
+      "translation": "Como agradecimiento, os\ndaré una recompensa."
     },
     {
       "index": 56,
-      "english": "Now, come!",
-      "_offset": 8274,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Venid ya!"
+      "english": "What? Really?!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 15647,
+      "_bytes": 14,
+      "translation": "¿Qué? ¡¿En serio?!"
     },
     {
       "index": 57,
-      "english": "W-We won... We did it!",
-      "_offset": 8285,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Ganamos! Lo logramos!"
+      "english": "I... will be your opponent, as a\nRoyal Knight!",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 15662,
+      "_bytes": 46,
+      "translation": "¡Yo... seré vuestro rival,\ncomo Caballero Real!"
     },
     {
       "index": 58,
-      "english": "Splendid! Is this the true power\nof humans allied with Digimon?",
-      "_offset": 8308,
-      "_length": 63,
-      "speaker_id": 0,
-      "translation": "Espléndido! Es este el\npoder real de humanos y\nDigimon unidos?"
+      "english": "What?!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 15709,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
     },
     {
       "index": 59,
-      "english": "But it looks like we've still got\na lot of training to do.",
-      "_offset": 8372,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Pero parece que aún nos\nqueda mucho por entrenar."
+      "english": "Now, come!",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 15716,
+      "_bytes": 10,
+      "translation": "¡Venid ya!"
     },
     {
       "index": 60,
-      "english": "Indeed!",
-      "_offset": 8431,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Así es!"
+      "english": "W-We won... We did it!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15727,
+      "_bytes": 22,
+      "translation": "¡Ganamos! ¡Lo logramos!"
     },
     {
       "index": 61,
-      "english": "So, can we finally go home?",
-      "_offset": 8439,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Ya podemos irnos a casa?"
+      "english": "Splendid! Is this the true power\nof humans allied with Digimon?",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 15750,
+      "_bytes": 63,
+      "translation": "¡Espléndido! ¿Es este el\npoder real de humanos y\nDigimon unidos?"
     },
     {
       "index": 62,
-      "english": "Of course! However...",
-      "_offset": 8467,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Claro! Sin embargo..."
+      "english": "But it looks like we've still got\na lot of training to do.",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 15814,
+      "_bytes": 58,
+      "translation": "Pero parece que aún nos\nqueda mucho por entrenar."
     },
     {
       "index": 63,
-      "english": "Oh, no. What now?",
-      "_offset": 8489,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Vaya. Ahora qué?"
+      "english": "Indeed!",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 15873,
+      "_bytes": 7,
+      "translation": "¡Así es!"
     },
     {
       "index": 64,
-      "english": "The moment you leave this space,\nyou will lose all the memories you\nhave obtained here.",
-      "_offset": 8507,
-      "_length": 87,
-      "speaker_id": 0,
-      "translation": "En cuanto salgáis de aquí,\nolvidaréis todo lo que\nhabéis vivido en este lugar."
+      "english": "So, can we finally go home?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15881,
+      "_bytes": 27,
+      "translation": "¿Ya podemos irnos a casa?"
     },
     {
       "index": 65,
-      "english": "If you were to take any of your\nmemories from this place, which\nexists beyond spacetime...",
-      "_offset": 8595,
-      "_length": 90,
-      "speaker_id": 0,
-      "translation": "Si os llevarais algún\nrecuerdo de este lugar, que\nexiste más allá del tiempo..."
+      "english": "Of course! However...",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 15909,
+      "_bytes": 21,
+      "translation": "¡Claro! Sin embargo..."
     },
     {
       "index": 66,
-      "english": "...It would disturb the order of\nthe digital field.",
-      "_offset": 8686,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "...alteraría el orden del\ncampo digital."
+      "english": "Oh, no. What now?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 15931,
+      "_bytes": 17,
+      "translation": "Vaya. ¿Ahora qué?"
     },
     {
       "index": 67,
-      "english": "It's a shame... we just got to\nknow each other!",
-      "_offset": 8738,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Qué pena... si apenas nos\nconocíamos!"
+      "english": "The moment you leave this space,\nyou will lose all the memories you\nhave obtained here.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 15949,
+      "_bytes": 87,
+      "translation": "En cuanto salgáis de aquí,\nolvidaréis todo lo que\nhabéis vivido en este lugar."
     },
     {
       "index": 68,
-      "english": "Well, I guess we can't do anything\nabout that...",
-      "_offset": 8786,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Bueno, supongo que no se\npuede hacer nada..."
+      "english": "If you were to take any of your\nmemories from this place, which\nexists beyond spacetime...",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 16037,
+      "_bytes": 90,
+      "translation": "Si os llevarais algún\nrecuerdo de este lugar, que\nexiste más allá del tiempo..."
     },
     {
       "index": 69,
-      "english": "I'm just happy I got to meet\nTai!",
-      "_offset": 8835,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Solo me alegra haber\nconocido a Tai!"
+      "english": "...It would disturb the order of\nthe digital field.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 16128,
+      "_bytes": 51,
+      "translation": "...alteraría el orden del\ncampo digital."
     },
     {
       "index": 70,
-      "english": "Man, I really wanted to play\nsoccer with him...",
-      "_offset": 8872,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Vaya, quería jugar al\nfútbol con él..."
+      "english": "It's a shame... we just got to\nknow each other!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 16180,
+      "_bytes": 47,
+      "translation": "¡Qué pena... si apenas nos\nconocíamos!"
     },
     {
       "index": 71,
-      "english": "Some lost memories won't get in\nthe way of a friendship between\nmen!",
-      "_offset": 8920,
-      "_length": 68,
-      "speaker_id": 0,
-      "translation": "Unos recuerdos perdidos no\narruinan la amistad entre\nhombres!"
+      "english": "Well, I guess we can't do anything\nabout that...",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 16228,
+      "_bytes": 48,
+      "translation": "Bueno, supongo que no se\npuede hacer nada..."
     },
     {
       "index": 72,
-      "english": "I get the feeling we'll meet\nagain, anyway.",
-      "_offset": 8989,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Presiento que nos\nveremos de nuevo."
+      "english": "I'm just happy I got to meet\nTai!",
+      "speaker_id": 7021,
+      "line_type": 2,
+      "_offset": 16277,
+      "_bytes": 36,
+      "translation": "¡Solo me alegra haber\nconocido a Tai!"
     },
     {
       "index": 73,
-      "english": "I don't really get any kind of\n\"bye!\" feeling from this.",
-      "_offset": 9033,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "No siento que esto sea\nun \"adiós\" de verdad."
+      "english": "Man, I really wanted to play\nsoccer with him...",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 16314,
+      "_bytes": 47,
+      "translation": "Vaya, quería jugar al\nfútbol con él..."
     },
     {
       "index": 74,
-      "english": "Yeah, that's right! We'll meet\nagain, someday!",
-      "_offset": 9090,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Sí, eso es! Nos veremos\nde nuevo algún día!"
+      "english": "Some lost memories won't get in\nthe way of a friendship between\nmen!",
+      "speaker_id": 7041,
+      "line_type": 2,
+      "_offset": 16362,
+      "_bytes": 68,
+      "translation": "¡Unos recuerdos perdidos no\narruinan la amistad entre\nhombres!"
     },
     {
       "index": 75,
-      "english": "Let's meet again someday!",
-      "_offset": 9137,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Nos vemos algún día!"
+      "english": "I get the feeling we'll meet\nagain, anyway.",
+      "speaker_id": 7051,
+      "line_type": 2,
+      "_offset": 16431,
+      "_bytes": 43,
+      "translation": "Presiento que nos\nveremos de nuevo."
     },
     {
       "index": 76,
-      "english": "Come with me, Daisuke!",
-      "_offset": 9163,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Ven conmigo, Daisuke!"
+      "english": "I don't really get any kind of\n\"bye!\" feeling from this.",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 16475,
+      "_bytes": 56,
+      "translation": "No siento que esto sea\nun \"adiós\" de verdad."
     },
     {
       "index": 77,
-      "english": "Choose someone else",
-      "_offset": 9186,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Elegir a otro"
+      "english": "Yeah, that's right! We'll meet\nagain, someday!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16532,
+      "_bytes": 46,
+      "translation": "¡Sí, eso es! ¡Nos veremos\nde nuevo algún día!"
     },
     {
       "index": 78,
-      "english": "Come with me, Takato!",
-      "_offset": 9206,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ven conmigo, Takato!"
+      "english": "Let's meet again someday!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 16579,
+      "_bytes": 25,
+      "translation": "¡Nos vemos algún día!"
     },
     {
       "index": 79,
-      "english": "Choose someone else",
-      "_offset": 9228,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Elegir a otro"
+      "english": "Come with me, Daisuke!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16605,
+      "_bytes": 22,
+      "translation": "¡Ven conmigo, Daisuke!"
     },
     {
       "index": 80,
-      "english": "Come with me, Takuya!",
-      "_offset": 9248,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ven conmigo, Takuya!"
+      "english": "Choose someone else",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16628,
+      "_bytes": 19,
+      "translation": "Elegir a otro"
     },
     {
       "index": 81,
-      "english": "Choose someone else",
-      "_offset": 9270,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Elegir a otro"
+      "english": "Come with me, Takato!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16648,
+      "_bytes": 21,
+      "translation": "¡Ven conmigo, Takato!"
     },
     {
       "index": 82,
-      "english": "Come with me, Masaru!",
-      "_offset": 9290,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ven conmigo, Masaru!"
+      "english": "Choose someone else",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16670,
+      "_bytes": 19,
+      "translation": "Elegir a otro"
     },
     {
       "index": 83,
-      "english": "Choose someone else",
-      "_offset": 9312,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Elegir a otro"
+      "english": "Come with me, Takuya!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16690,
+      "_bytes": 21,
+      "translation": "¡Ven conmigo, Takuya!"
     },
     {
       "index": 84,
-      "english": "Come with me, Taiki!",
-      "_offset": 9332,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Ven conmigo, Taiki!"
+      "english": "Choose someone else",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16712,
+      "_bytes": 19,
+      "translation": "Elegir a otro"
     },
     {
       "index": 85,
-      "english": "Choose someone else",
-      "_offset": 9353,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Elegir a otro"
+      "english": "Come with me, Masaru!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16732,
+      "_bytes": 21,
+      "translation": "¡Ven conmigo, Masaru!"
     },
     {
       "index": 86,
-      "english": "Come with me, Tagiru!",
-      "_offset": 9373,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ven conmigo, Tagiru!"
-    },
-    {
-      "index": 87,
       "english": "Choose someone else",
-      "_offset": 9395,
-      "_length": 19,
-      "speaker_id": 0,
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16754,
+      "_bytes": 19,
       "translation": "Elegir a otro"
     },
     {
+      "index": 87,
+      "english": "Come with me, Taiki!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16774,
+      "_bytes": 20,
+      "translation": "¡Ven conmigo, Taiki!"
+    },
+    {
       "index": 88,
-      "english": "All right! Let's go to the spatial\ncontrol core!",
-      "_offset": 9415,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Bien! Vamos al núcleo de\ncontrol espacial!"
+      "english": "Choose someone else",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16795,
+      "_bytes": 19,
+      "translation": "Elegir a otro"
     },
     {
       "index": 89,
-      "english": "Ugh, I can't decide...",
-      "_offset": 9464,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "No puedo decidir..."
+      "english": "Come with me, Tagiru!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16815,
+      "_bytes": 21,
+      "translation": "¡Ven conmigo, Tagiru!"
     },
     {
       "index": 90,
-      "english": "Hey, hey! We don't have time!\nHurry up and pick someone!",
-      "_offset": 9487,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Oye, oye! No hay tiempo!\nElige a alguien ya!"
+      "english": "Choose someone else",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16837,
+      "_bytes": 19,
+      "translation": "Elegir a otro"
     },
     {
       "index": 91,
-      "english": "Come with me, Daisuke!",
-      "_offset": 9544,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Ven conmigo, Daisuke!"
+      "english": "All right! Let's go to the spatial\ncontrol core!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16857,
+      "_bytes": 48,
+      "translation": "¡Bien! ¡Vamos al núcleo de\ncontrol espacial!"
     },
     {
       "index": 92,
-      "english": "Come with me, Takato!",
-      "_offset": 9567,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ven conmigo, Takato!"
+      "english": "Ugh, I can't decide...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16906,
+      "_bytes": 22,
+      "translation": "No puedo decidir..."
     },
     {
       "index": 93,
-      "english": "Come with me, Takuya!",
-      "_offset": 9589,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ven conmigo, Takuya!"
+      "english": "Hey, hey! We don't have time!\nHurry up and pick someone!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 16929,
+      "_bytes": 56,
+      "translation": "¡Oye, oye! ¡No hay tiempo!\n¡Elige a alguien ya!"
     },
     {
       "index": 94,
-      "english": "Come with me, Masaru!",
-      "_offset": 9611,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ven conmigo, Masaru!"
+      "english": "Come with me, Daisuke!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16986,
+      "_bytes": 22,
+      "translation": "¡Ven conmigo, Daisuke!"
     },
     {
       "index": 95,
-      "english": "Come with me, Taiki!",
-      "_offset": 9633,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Ven conmigo, Taiki!"
+      "english": "Come with me, Takato!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17009,
+      "_bytes": 21,
+      "translation": "¡Ven conmigo, Takato!"
     },
     {
       "index": 96,
-      "english": "Come with me, Tagiru!",
-      "_offset": 9654,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ven conmigo, Tagiru!"
+      "english": "Come with me, Takuya!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17031,
+      "_bytes": 21,
+      "translation": "¡Ven conmigo, Takuya!"
     },
     {
       "index": 97,
+      "english": "Come with me, Masaru!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17053,
+      "_bytes": 21,
+      "translation": "¡Ven conmigo, Masaru!"
+    },
+    {
+      "index": 98,
+      "english": "Come with me, Taiki!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17075,
+      "_bytes": 20,
+      "translation": "¡Ven conmigo, Taiki!"
+    },
+    {
+      "index": 99,
+      "english": "Come with me, Tagiru!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17096,
+      "_bytes": 21,
+      "translation": "¡Ven conmigo, Tagiru!"
+    },
+    {
+      "index": 100,
       "english": "You called?",
-      "_offset": 9676,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Llamabas?"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 17118,
+      "_bytes": 11,
+      "translation": "¿Llamabas?"
     }
   ]
 }

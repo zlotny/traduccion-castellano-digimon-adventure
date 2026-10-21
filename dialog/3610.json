@@ -1,181 +1,241 @@
 {
   "file_id": "3610",
-  "text_count": 22,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 26,
   "dialog": [
     {
       "index": 0,
-      "english": "read it, Agumon? It's\ncompletely unreadable to me...",
-      "_offset": 0,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "...lo lees, Agumon? A mí\nno se me entiende nada..."
+      "english": "In the end, there's no place like\nhome...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 1688,
+      "_bytes": 41,
+      "translation": "Al final, como en casa en\nningún sitio..."
     },
     {
       "index": 1,
-      "english": "Yeah, I can!",
-      "_offset": 54,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Sí, yo sí!"
+      "english": "Tai! The computer screen's\nglowing!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 1730,
+      "_bytes": 38,
+      "translation": "¡Tai! ¡La pantalla del\nordenador brilla!"
     },
     {
       "index": 2,
-      "english": "What's up with that?",
-      "_offset": 67,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Y eso qué es?"
+      "english": "What's this email? Looks like\nthe text is all scrambled up...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 1769,
+      "_bytes": 61,
+      "translation": "¿Qué es este email? Parece\nque el texto está revuelto..."
     },
     {
       "index": 3,
-      "english": "I dunno. That's not all it says.",
-      "_offset": 88,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Ni idea. Y no es todo\nlo que pone"
+      "english": "It says \"Karigaoka\" there!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 1831,
+      "_bytes": 28,
+      "translation": "¡Ahí pone \"Hikarioka\"!"
     },
     {
       "index": 4,
-      "english": "So it really *is* about\nKarigaoka! All right, let's\ncheck it out!",
-      "_offset": 121,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Así que SÍ es sobre\nHikarioka! Vale, vamos a\nechar un vistazo!"
+      "english": "Hey! You can read it, Agumon? It's\ncompletely unreadable to me...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 1860,
+      "_bytes": 65,
+      "translation": "¡Eh! ¿Tú lo entiendes, Agumon?\nYo no entiendo nada..."
     },
     {
       "index": 5,
-      "english": "We might find a clue about the\neighth child!",
-      "_offset": 189,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Igual hay pistas del\noctavo elegido!"
+      "english": "Yeah, I can!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 1926,
+      "_bytes": 12,
+      "translation": "¡Sí, yo sí!"
     },
     {
       "index": 6,
-      "english": "Looks like all the fuss about\nMammon's subsided.",
-      "_offset": 234,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Parece que el alboroto por\nMammon se calmó."
+      "english": "What's up with that?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 1939,
+      "_bytes": 20,
+      "translation": "¿Y eso por qué?"
     },
     {
       "index": 7,
-      "english": "The police are gone, too...",
-      "_offset": 283,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "La policía también se\nfue..."
+      "english": "I dunno. That's not all it says.",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 1960,
+      "_bytes": 32,
+      "translation": "Ni idea. Y aún pone más\ncosas."
     },
     {
       "index": 8,
-      "english": "I don't see any clues we can use\nfor now...",
-      "_offset": 311,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "No veo pistas que nos\nsirvan por ahora..."
+      "english": "So it really *is* about\nKarigaoka! All right, let's\ncheck it out!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 1993,
+      "_bytes": 67,
+      "translation": "¡Así que SÍ es sobre\nHikarioka! ¡Vale, vamos a\nechar un vistazo!"
     },
     {
       "index": 9,
-      "english": "Tai, above you!",
-      "_offset": 355,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Tai, encima!"
+      "english": "We might find a clue about the\neighth child!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 2061,
+      "_bytes": 44,
+      "translation": "¡Igual hay pistas del octavo\nNiño Elegido!"
     },
     {
       "index": 10,
-      "english": "What's he doing here?!",
-      "_offset": 374,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Qué hace aquí?!"
+      "english": "Looks like all the fuss about\nMammon's subsided.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2106,
+      "_bytes": 48,
+      "translation": "Parece que el alboroto por\nMammon se calmó."
     },
     {
       "index": 11,
-      "english": "Tai, get down!",
-      "_offset": 397,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Tai, agáchate!"
+      "english": "The police are gone, too...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 2155,
+      "_bytes": 27,
+      "translation": "La policía también se fue..."
     },
     {
       "index": 12,
-      "english": "I'm counting on you, Agumon!",
-      "_offset": 415,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Cuento contigo, Agumon!"
+      "english": "I don't see any clues we can use\nfor now...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2183,
+      "_bytes": 43,
+      "translation": "No veo pistas que nos\nsirvan por ahora..."
     },
     {
       "index": 13,
-      "english": "That was a real strong enemy...",
-      "_offset": 444,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Menudo enemigo tan\nfuerte..."
+      "english": "Tai, above you!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 2227,
+      "_bytes": 18,
+      "translation": "Tai, ¡encima!"
     },
     {
       "index": 14,
-      "english": "...I've seen that Digimon before.",
-      "_offset": 476,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "...Ya había visto a ese\nDigimon."
+      "english": "What's he doing here?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2246,
+      "_bytes": 22,
+      "translation": "¡¿Qué hace aquí?!"
     },
     {
       "index": 15,
-      "english": "Really? That's the first time I've\nseen that Digimon.",
-      "_offset": 510,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "En serio? Es la primera\nvez que lo veo."
+      "english": "Tai, get down!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 2269,
+      "_bytes": 17,
+      "translation": "Tai, ¡agáchate!"
     },
     {
       "index": 16,
-      "english": "Hmmm... I know I've seen it\nsomewhere...",
-      "_offset": 564,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Mmm... sé que lo vi\nen algún sitio..."
+      "english": "I'm counting on you, Agumon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2287,
+      "_bytes": 28,
+      "translation": "¡Cuento contigo, Agumon!"
     },
     {
       "index": 17,
-      "english": "Ah! That's...",
-      "_offset": 605,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Ah! Eso es..."
+      "english": "That was a real strong enemy...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 2316,
+      "_bytes": 31,
+      "translation": "Menudo enemigo tan fuerte..."
     },
     {
       "index": 18,
-      "english": "What?",
-      "_offset": 619,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Qué?"
+      "english": "...I've seen that Digimon before.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2348,
+      "_bytes": 33,
+      "translation": "...Ya había visto a ese Digimon."
     },
     {
       "index": 19,
-      "english": "I guess that Digimon dropped it\nearlier. It might be a clue...",
-      "_offset": 625,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Se le caería a ese\nDigimon antes. Podría\nser una pista..."
+      "english": "Really? That's the first time I've\nseen that Digimon.",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 2382,
+      "_bytes": 53,
+      "translation": "¿En serio? Es la primera\nvez que lo veo."
     },
     {
       "index": 20,
-      "english": "Can't be helped. Let's go home.",
-      "_offset": 688,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "No hay más remedio.\nVamos a casa"
+      "english": "Hmmm... I know I've seen it\nsomewhere...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2436,
+      "_bytes": 40,
+      "translation": "Mmm... sé que lo vi\nen algún sitio..."
     },
     {
       "index": 21,
+      "english": "Ah! That's...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2477,
+      "_bytes": 13,
+      "translation": "¡Ah! Eso es..."
+    },
+    {
+      "index": 22,
+      "english": "What?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 2491,
+      "_bytes": 5,
+      "translation": "¿Qué?"
+    },
+    {
+      "index": 23,
+      "english": "I guess that Digimon dropped it\nearlier. It might be a clue...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2497,
+      "_bytes": 62,
+      "translation": "Se le caería a ese\nDigimon antes. Podría\nser una pista..."
+    },
+    {
+      "index": 24,
+      "english": "Can't be helped. Let's go home.",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 2560,
+      "_bytes": 31,
+      "translation": "No hay más remedio. Vamos a casa."
+    },
+    {
+      "index": 25,
       "english": "Yeah...",
-      "_offset": 720,
-      "_length": 7,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2592,
+      "_bytes": 7,
       "translation": "Sí..."
     }
   ]

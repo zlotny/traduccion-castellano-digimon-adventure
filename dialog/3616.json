@@ -1,853 +1,1006 @@
 {
   "file_id": "3616",
-  "text_count": 106,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 111,
   "dialog": [
     {
       "index": 0,
-      "english": "Hackmon! You're here, too?!",
-      "_offset": 1067,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Hackmon! Tú también?!"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 8776,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 1,
-      "english": "No way!",
-      "_offset": 1095,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Anda!"
+      "english": "Hackmon! You're here, too?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8779,
+      "_bytes": 27,
+      "translation": "¡Hackmon! ¡¿Tú también?!"
     },
     {
       "index": 2,
-      "english": "So that *wasn't* actually the\nexit?",
-      "_offset": 1103,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Entonces eso no era\nla salida?"
+      "english": "No way!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8807,
+      "_bytes": 7,
+      "translation": "¡Anda!"
     },
     {
       "index": 3,
-      "english": "That's weird... That should have\nbeen the exit...",
-      "_offset": 1139,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Qué raro... Eso debería\nhaber sido la salida..."
+      "english": "So that *wasn't* actually the\nexit?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8815,
+      "_bytes": 35,
+      "translation": "¿Entonces eso no era\nla salida?"
     },
     {
       "index": 4,
-      "english": "We're trapped in here for real...",
-      "_offset": 1189,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Estamos atrapados de verdad..."
+      "english": "That's weird... That should have\nbeen the exit...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8851,
+      "_bytes": 49,
+      "translation": "Qué raro... Eso debería\nhaber sido la salida..."
     },
     {
       "index": 5,
-      "english": "No...!",
-      "_offset": 1223,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "No...!"
+      "english": "We're trapped in here for real...",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8901,
+      "_bytes": 33,
+      "translation": "Estamos atrapados de verdad..."
     },
     {
       "index": 6,
-      "english": "It must be the guy that Hackmon\nwas talking about! The one who\nbrought us here!",
-      "_offset": 1230,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "Debe ser el tipo del que hablaba\nHackmon! El que nos trajo\naquí!"
+      "english": "No...!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8935,
+      "_bytes": 6,
+      "translation": "¡No...!"
     },
     {
       "index": 7,
-      "english": "...Ah!",
-      "_offset": 1310,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "...Ah!"
+      "english": "It must be the guy that Hackmon\nwas talking about! The one who\nbrought us here!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8942,
+      "_bytes": 79,
+      "translation": "¡Debe de ser el tipo del que\nhablaba Hackmon! ¡El que nos\ntrajo aquí!"
     },
     {
       "index": 8,
-      "english": "Someone's coming...",
-      "_offset": 1320,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Viene alguien..."
+      "english": "...Ah!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9022,
+      "_bytes": 6,
+      "translation": "...¡Ah!"
     },
     {
       "index": 9,
-      "english": "Taiiiiiii!",
-      "_offset": 1344,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Taiiiiiii!"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 9029,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 10,
-      "english": "Agumoooooooon!",
-      "_offset": 1358,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Agumoooooooon!"
+      "english": "Someone's coming...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9032,
+      "_bytes": 19,
+      "translation": "Viene alguien..."
     },
     {
       "index": 11,
-      "english": "...Who are *you*?",
-      "_offset": 1376,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "...Quién eres tú?"
+      "english": "...",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 9052,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 12,
-      "english": "It really *is* you, Tai! And\nyou're with Agumon!",
-      "_offset": 1394,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Eres tú de verdad, Tai! Y\nestás con Agumon!"
+      "english": "Taiiiiiii!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 9056,
+      "_bytes": 13,
+      "translation": "¡Taiiiiiii!"
     },
     {
       "index": 13,
-      "english": "I have no idea what you're talking\nabout!",
-      "_offset": 1446,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "No tengo ni idea de qué\nhablas!"
+      "english": "Agumoooooooon!",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 9070,
+      "_bytes": 14,
+      "translation": "¡Agumoooooooon!"
     },
     {
       "index": 14,
-      "english": "Come on, Tai, calm down! See?\nLook at my goggles!",
-      "_offset": 1488,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Vamos, Tai, tranquilo! Mira\nmis gafas!"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 9085,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 15,
-      "english": "Your goggles?",
-      "_offset": 1541,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Tus gafas?"
+      "english": "...Who are *you*?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9088,
+      "_bytes": 17,
+      "translation": "...¿Quién eres tú?"
     },
     {
       "index": 16,
-      "english": "They're the goggles you gave me!\nI'm Daisuke Motomiya, your junior!",
-      "_offset": 1555,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Son las gafas que me diste!\nSoy Daisuke Motomiya, tu junior!"
+      "english": "It really *is* you, Tai! And\nyou're with Agumon!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 9106,
+      "_bytes": 51,
+      "translation": "¡Eres tú de verdad, Tai! ¡Y\nestás con Agumon!"
     },
     {
       "index": 17,
-      "english": "...They're scratched in exactly\nthe same places as mine!",
-      "_offset": 1623,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "...Tienen los rasguños exactos\nen los mismos sitios!"
+      "english": "I have no idea what you're talking\nabout!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9158,
+      "_bytes": 41,
+      "translation": "¡No tengo ni idea de qué\nhablas!"
     },
     {
       "index": 18,
-      "english": "Don't you remember? Fifth-grader\nat Odaiba Elementary! Same class\nas Kari and T.K!",
-      "_offset": 1680,
-      "_length": 87,
-      "speaker_id": 0,
-      "translation": "No te acuerdas? Vamos juntos\na Odaiba, en quinto! En la\nmisma clase que Kari y T.K!"
+      "english": "Come on, Tai, calm down! See?\nLook at my goggles!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 9200,
+      "_bytes": 52,
+      "translation": "¡Vamos, Tai, tranquilo! ¡Mira\nmis gafas!"
     },
     {
       "index": 19,
-      "english": "Wait, but isn't T.K in second\ngrade?",
-      "_offset": 1768,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Espera, T.K no está en\nsegundo?"
+      "english": "Your goggles?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9253,
+      "_bytes": 13,
+      "translation": "¿Tus gafas?"
     },
     {
       "index": 20,
-      "english": "Wait, what? That's not... huh?\nYou're shorter than I remember you\nbeing...",
-      "_offset": 1808,
-      "_length": 74,
-      "speaker_id": 0,
-      "translation": "Espera, qué? Eso no es...\neh? Eres más bajo de lo que\nrecordaba..."
+      "english": "They're the goggles you gave me!\nI'm Daisuke Motomiya, your junior!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 9267,
+      "_bytes": 67,
+      "translation": "¡Son las gafas que me diste!\n¡Soy Daisuke Motomiya, tu sucesor!"
     },
     {
       "index": 21,
-      "english": "...Hey, V-mon, am I dreaming right\nnow?",
-      "_offset": 1883,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "...Oye, V-mon, estoy soñando\nverdad?"
+      "english": "...They're scratched in exactly\nthe same places as mine!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9335,
+      "_bytes": 56,
+      "translation": "...¡Tienen los rasguños exactos\nen los mismos sitios!"
     },
     {
       "index": 22,
-      "english": "Why don't we check? Ey!",
-      "_offset": 1923,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Vamos a ver! Ey!"
+      "english": "Don't you remember? Fifth-grader\nat Odaiba Elementary! Same class\nas Kari and T.K!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 9392,
+      "_bytes": 87,
+      "translation": "¿No te acuerdas? ¡Voy a quinto\nen Odaiba! ¡A la misma clase\nque Kari y T.K.!"
     },
     {
       "index": 23,
-      "english": "O-Ow... Okay, this isn't a\ndream...",
-      "_offset": 1947,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Au... vale, esto no es un\nsueño..."
+      "english": "Wait, but isn't T.K in second\ngrade?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9480,
+      "_bytes": 39,
+      "translation": "Espera, ¿T.K. no está en\nsegundo?"
     },
     {
       "index": 24,
-      "english": "Daisuke! Oops, I think that was a\nbit too strong...",
-      "_offset": 1983,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Daisuke! Uy, creo que ha sido\nun poco fuerte..."
+      "english": "Wait, what? That's not... huh?\nYou're shorter than I remember you\nbeing...",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 9520,
+      "_bytes": 74,
+      "translation": "Espera, ¿qué? Eso no es...\n¿eh? Eres más bajo de lo que\nrecordaba..."
     },
     {
       "index": 25,
-      "english": "U-Ugh...",
-      "_offset": 2035,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "U-Ugh..."
+      "english": "...Hey, V-mon, am I dreaming right\nnow?",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 9595,
+      "_bytes": 39,
+      "translation": "...Oye, V-mon, ¿estoy soñando?"
     },
     {
       "index": 26,
-      "english": "Daisuke! You're awake!",
-      "_offset": 2044,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Daisuke! Despertaste!"
+      "english": "Why don't we check? Ey!",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 9635,
+      "_bytes": 23,
+      "translation": "¡Vamos a ver! ¡Ey!"
     },
     {
       "index": 27,
-      "english": "Are you okay, Daisuke?",
-      "_offset": 2067,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Estás bien, Daisuke?"
+      "english": "O-Ow... Okay, this isn't a\ndream...",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 9659,
+      "_bytes": 35,
+      "translation": "Au... vale, esto no es un\nsueño..."
     },
     {
       "index": 28,
-      "english": "Tai...chi...?",
-      "_offset": 2090,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Tai...chi...?"
+      "english": "Daisuke! Oops, I think that was a\nbit too strong...",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 9695,
+      "_bytes": 51,
+      "translation": "¡Daisuke! Uy, creo que ha sido\nun poco fuerte..."
     },
     {
       "index": 29,
-      "english": "V-mon told us everything.",
-      "_offset": 2104,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "V-mon nos lo contó todo."
+      "english": "U-Ugh...",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 9747,
+      "_bytes": 8,
+      "translation": "U-Ugh..."
     },
     {
       "index": 30,
-      "english": "So you and V-mon are from three\nyears in the future, huh?",
-      "_offset": 2130,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Así que tú y V-mon venís\nde tres años en el futuro?"
+      "english": "Daisuke! You're awake!",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 9756,
+      "_bytes": 22,
+      "translation": "¡Daisuke! ¡Despertaste!"
     },
     {
       "index": 31,
-      "english": "So the Tai here is three years\nyounger than the Tai I know...",
-      "_offset": 2188,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Entonces el Tai de aquí\nes tres años más joven que\nel que conozco..."
+      "english": "Are you okay, Daisuke?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9779,
+      "_bytes": 22,
+      "translation": "¿Estás bien, Daisuke?"
     },
     {
       "index": 32,
-      "english": "What's going on...",
-      "_offset": 2256,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Qué pasa aquí..."
+      "english": "Tai...chi...?",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 9802,
+      "_bytes": 13,
+      "translation": "¿Tai...?"
     },
     {
       "index": 33,
-      "english": "I guess this dimension is\nconnected to other time periods,\ntoo...",
-      "_offset": 2275,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Supongo que esta dimensión\ntambién conecta con otras\népocas..."
+      "english": "V-mon told us everything.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9816,
+      "_bytes": 25,
+      "translation": "V-mon nos lo contó todo."
     },
     {
       "index": 34,
-      "english": "...Okay, I really don't get this.",
-      "_offset": 2341,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "...Vale, esto no lo entiendo."
+      "english": "So you and V-mon are from three\nyears in the future, huh?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9842,
+      "_bytes": 57,
+      "translation": "¿Así que tú y V-mon venís\nde tres años en el futuro?"
     },
     {
       "index": 35,
-      "english": "So what are you gonna do now,\nDaisuke?",
-      "_offset": 2375,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Y ahora qué vas a hacer,\nDaisuke?"
+      "english": "So the Tai here is three years\nyounger than the Tai I know...",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 9900,
+      "_bytes": 67,
+      "translation": "Entonces el Tai de aquí\nes tres años más joven que\nel que conozco..."
     },
     {
       "index": 36,
-      "english": "Isn't it obvious? I'm going with\nyou, Tai!",
-      "_offset": 2414,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Está claro! Voy contigo,\nTai!"
+      "english": "What's going on...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9968,
+      "_bytes": 18,
+      "translation": "¿Qué pasa aquí...?"
     },
     {
       "index": 37,
-      "english": "Yeah, yeah!",
-      "_offset": 2460,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Sí, sí!"
+      "english": "I guess this dimension is\nconnected to other time periods,\ntoo...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9987,
+      "_bytes": 65,
+      "translation": "Supongo que esta dimensión\ntambién conecta con otras\népocas..."
     },
     {
       "index": 38,
-      "english": "I've always wanted to go on an\nadventure with you, like Kari\nand T.K did!",
-      "_offset": 2472,
-      "_length": 78,
-      "speaker_id": 0,
-      "translation": "Siempre quise vivir una\naventura contigo, como\nKari y T.K!"
+      "english": "...Okay, I really don't get this.",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10053,
+      "_bytes": 33,
+      "translation": "...Vale, esto no lo entiendo."
     },
     {
       "index": 39,
-      "english": "Huh? Really?!",
-      "_offset": 2551,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Eh? En serio!"
+      "english": "So what are you gonna do now,\nDaisuke?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10087,
+      "_bytes": 38,
+      "translation": "¿Y ahora qué vas a hacer,\nDaisuke?"
     },
     {
       "index": 40,
-      "english": "So now that that's decided, it's\ntime to go! Let's go, V-mon!",
-      "_offset": 2565,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Ya que está decidido, hora\nde irnos! Vamos, V-mon!"
+      "english": "Isn't it obvious? I'm going with\nyou, Tai!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 10126,
+      "_bytes": 45,
+      "translation": "¡Está claro! ¡Voy contigo,\nTai!"
     },
     {
       "index": 41,
-      "english": "Yeah!",
-      "_offset": 2627,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí!"
+      "english": "Yeah, yeah!",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 10172,
+      "_bytes": 11,
+      "translation": "¡Sí, sí!"
     },
     {
       "index": 42,
-      "english": "...so on our way back from school,\nwe were captured by a black\nshadow...",
-      "_offset": 2633,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "...volviendo del cole, nos\natrapó una sombra negra..."
+      "english": "I've always wanted to go on an\nadventure with you, like Kari\nand T.K did!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 10184,
+      "_bytes": 78,
+      "translation": "¡Siempre quise vivir una\naventura contigo, como\nKari y T.K.!"
     },
     {
       "index": 43,
-      "english": "...and before we knew it, we were\nhere.",
-      "_offset": 2706,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "...y sin darnos cuenta,\nestábamos aquí."
+      "english": "Huh? Really?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10263,
+      "_bytes": 13,
+      "translation": "¿Eh? ¡¿En serio?!"
     },
     {
       "index": 44,
-      "english": "That's just like what Hackmon\nsaid.",
-      "_offset": 2746,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Es justo lo que decía\nHackmon."
+      "english": "So now that that's decided, it's\ntime to go! Let's go, V-mon!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 10277,
+      "_bytes": 61,
+      "translation": "¡Ya que está decidido, hora\nde irnos! ¡Vamos, V-mon!"
     },
     {
       "index": 45,
-      "english": "Hey, hey, Tai!",
-      "_offset": 2782,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Oye, oye, Tai!"
+      "english": "Yeah!",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 10339,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     },
     {
       "index": 46,
-      "english": "What is it, Hackmon?",
-      "_offset": 2800,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Qué pasa, Hackmon?"
+      "english": "...so on our way back from school,\nwe were captured by a black\nshadow...",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 10345,
+      "_bytes": 72,
+      "translation": "...volviendo del cole, nos\natrapó una sombra negra..."
     },
     {
       "index": 47,
-      "english": "Something's been bothering me for\na while.",
-      "_offset": 2821,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Hay algo que me ronda\nla cabeza."
+      "english": "...and before we knew it, we were\nhere.",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 10418,
+      "_bytes": 39,
+      "translation": "...y sin darnos cuenta,\nestábamos aquí."
     },
     {
       "index": 48,
-      "english": "Would you and Daisuke be Agumon\nand V-mon's attendants?",
-      "_offset": 2864,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Tú y Daisuke sois los sirvientes\nde Agumon y V-mon?"
+      "english": "That's just like what Hackmon\nsaid.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10458,
+      "_bytes": 35,
+      "translation": "Es justo lo que decía\nHackmon."
     },
     {
       "index": 49,
-      "english": "Me? V-mon's attendant?",
-      "_offset": 2920,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Yo sirviente de V-mon?"
+      "english": "Hey, hey, Tai!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10494,
+      "_bytes": 17,
+      "translation": "¡Oye, oye, Tai!"
     },
     {
       "index": 50,
-      "english": "No, no! Agumon's my friend... or\nmore like, my partner...",
-      "_offset": 2943,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "No, no! Agumon es mi amigo...\no más bien, mi compañero..."
+      "english": "What is it, Hackmon?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10512,
+      "_bytes": 20,
+      "translation": "¿Qué pasa, Hackmon?"
     },
     {
       "index": 51,
-      "english": "Hmmm? So then, why don't I have\none?",
-      "_offset": 3001,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Entonces, por qué yo no\ntengo uno?"
+      "english": "Something's been bothering me for\na while.",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10533,
+      "_bytes": 42,
+      "translation": "Hay algo que me ronda\nla cabeza."
     },
     {
       "index": 52,
-      "english": "Well, when you put it that way...",
-      "_offset": 3038,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Bueno, visto así..."
+      "english": "Would you and Daisuke be Agumon\nand V-mon's attendants?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10576,
+      "_bytes": 55,
+      "translation": "¿Tú y Daisuke sois los sirvientes\nde Agumon y V-mon?"
     },
     {
       "index": 53,
-      "english": "In my time, I went to the Digital\nWorld, and I lifted up a\nDigimental...",
-      "_offset": 3072,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "En mi época, fui al\nMundo Digital y alcé\nun Digimental..."
+      "english": "Me? V-mon's attendant?",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 10632,
+      "_bytes": 22,
+      "translation": "¿Yo sirviente de V-mon?"
     },
     {
       "index": 54,
-      "english": "And that awakened V-mon.",
-      "_offset": 3145,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Y eso despertó a V-mon."
+      "english": "No, no! Agumon's my friend... or\nmore like, my partner...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10655,
+      "_bytes": 57,
+      "translation": "¡No, no! Agumon es mi amigo...\no más bien, mi compañero..."
     },
     {
       "index": 55,
-      "english": "Yeah, yeah!",
-      "_offset": 3170,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Sí, sí!"
+      "english": "Hmmm? So then, why don't I have\none?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10713,
+      "_bytes": 36,
+      "translation": "Entonces, ¿por qué yo no\ntengo uno?"
     },
     {
       "index": 56,
-      "english": "Agumon and I met for the first\ntime at File Island.",
-      "_offset": 3182,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Agumon y yo nos conocimos\nen la Isla File."
+      "english": "Well, when you put it that way...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10750,
+      "_bytes": 33,
+      "translation": "Bueno, visto así..."
     },
     {
       "index": 57,
-      "english": "I was a Koromon back then, though.",
-      "_offset": 3234,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Yo era un Koromon entonces."
+      "english": "In my time, I went to the Digital\nWorld, and I lifted up a\nDigimental...",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 10784,
+      "_bytes": 72,
+      "translation": "En mi época, fui al\nDigimundo y alcé\nun Digimental..."
     },
     {
       "index": 58,
-      "english": "Okay, so why don't you become my\npartner, Tai?",
-      "_offset": 3269,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Entonces, por qué no eres tú\nmi compañero, Tai?"
+      "english": "And that awakened V-mon.",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 10857,
+      "_bytes": 24,
+      "translation": "Y eso despertó a V-mon."
     },
     {
       "index": 59,
-      "english": "What?!",
-      "_offset": 3319,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Qué?!"
+      "english": "Yeah, yeah!",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 10882,
+      "_bytes": 11,
+      "translation": "¡Sí, sí!"
     },
     {
       "index": 60,
-      "english": "No can do! Tai is *my* partner!",
-      "_offset": 3326,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Tai es mi compañero!"
+      "english": "Agumon and I met for the first\ntime at File Island.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10894,
+      "_bytes": 51,
+      "translation": "Agumon y yo nos conocimos\nen la Isla File."
     },
     {
       "index": 61,
-      "english": "Then why don't we fight? Whoever\nwins gets to be Tai's partner!",
-      "_offset": 3361,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Entonces peleemos! El que gane\nserá el compañero de Tai!"
+      "english": "I was a Koromon back then, though.",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 10946,
+      "_bytes": 34,
+      "translation": "Yo era un Koromon entonces."
     },
     {
       "index": 62,
-      "english": "I refuse!",
-      "_offset": 3428,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Me niego!"
+      "english": "Okay, so why don't you become my\npartner, Tai?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10981,
+      "_bytes": 49,
+      "translation": "Entonces, ¿por qué no eres tú\nmi compañero, Tai?"
     },
     {
       "index": 63,
-      "english": "How greedy!",
-      "_offset": 3438,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Qué avaro!"
+      "english": "What?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11031,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
     },
     {
       "index": 64,
-      "english": "Hey, hey, don't just go off on\nyour own like that!",
-      "_offset": 3450,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Oye, oye, no te vayas así\npor tu cuenta!"
+      "english": "No can do! Tai is *my* partner!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 11038,
+      "_bytes": 34,
+      "translation": "¡Tai es mi compañero!"
     },
     {
       "index": 65,
-      "english": "Hmph... so then, where's *my*\npartner?",
-      "_offset": 3501,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Y entonces, dónde está mi\ncompañero?"
+      "english": "Then why don't we fight? Whoever\nwins gets to be Tai's partner!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 11073,
+      "_bytes": 66,
+      "translation": "¡Entonces peleemos! ¡El que gane\nserá el compañero de Tai!"
     },
     {
       "index": 66,
-      "english": "Hackmon's a real character\nthere...",
-      "_offset": 3540,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Hackmon es todo un\npersonaje..."
+      "english": "I refuse!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 11140,
+      "_bytes": 9,
+      "translation": "¡Me niego!"
     },
     {
       "index": 67,
-      "english": "Ah! Over there!",
-      "_offset": 3576,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Ahí! Mirad!"
+      "english": "How greedy!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 11150,
+      "_bytes": 11,
+      "translation": "¡Qué avaro!"
     },
     {
       "index": 68,
-      "english": "We've finally found the exit...",
-      "_offset": 3592,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Por fin, la salida..."
+      "english": "Hey, hey, don't just go off on\nyour own like that!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11162,
+      "_bytes": 50,
+      "translation": "¡Oye, oye, no te vayas así\npor tu cuenta!"
     },
     {
       "index": 69,
-      "english": "What?",
-      "_offset": 3627,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Qué?"
+      "english": "Hmph... so then, where's *my*\npartner?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 11213,
+      "_bytes": 38,
+      "translation": "Y entonces, ¿dónde está mi\ncompañero?"
     },
     {
       "index": 70,
-      "english": "Tai!",
-      "_offset": 3633,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Tai!"
+      "english": "Hackmon's a real character\nthere...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11252,
+      "_bytes": 35,
+      "translation": "Hackmon es todo un\npersonaje..."
     },
     {
       "index": 71,
-      "english": "Is that... Magnamon?!",
-      "_offset": 3641,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Es eso... Magnamon?!"
+      "english": "Ah! Over there!",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 11288,
+      "_bytes": 15,
+      "translation": "¡Ahí! ¡Mirad!"
     },
     {
       "index": 72,
-      "english": "Is that a copy of me?",
-      "_offset": 3663,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Es una copia mía?"
+      "english": "We've finally found the exit...",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 11304,
+      "_bytes": 31,
+      "translation": "Por fin, la salida..."
     },
     {
       "index": 73,
-      "english": "What are we gonna do, Tai?",
-      "_offset": 3685,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Qué hacemos, Tai?"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 11336,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 74,
-      "english": "I mean, obviously we're gonna have\nto defeat him, right?",
-      "_offset": 3715,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Está claro que hay que\nderrotarlo, no?"
+      "english": "What?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11339,
+      "_bytes": 5,
+      "translation": "¿Qué?"
     },
     {
       "index": 75,
-      "english": "Okay! I'll watch you, then!",
-      "_offset": 3772,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Vale! Yo os miro, entonces!"
+      "english": "Tai!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 11345,
+      "_bytes": 7,
+      "translation": "¡Tai!"
     },
     {
       "index": 76,
-      "english": "Huh? You're not gonna fight?",
-      "_offset": 3800,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Eh? No vas a pelear?"
+      "english": "Is that... Magnamon?!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 11353,
+      "_bytes": 21,
+      "translation": "Es eso... ¡¿Magnamon?!"
     },
     {
       "index": 77,
-      "english": "I know my limits! I'm not gonna\nfight someone way above my tier!",
-      "_offset": 3829,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "Conozco mis límites! No voy a\npelear con alguien tan fuerte!"
+      "english": "Is that a copy of me?",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 11375,
+      "_bytes": 21,
+      "translation": "¿Es una copia mía?"
     },
     {
       "index": 78,
-      "english": "Fine, then... Let's go, guys!",
-      "_offset": 3894,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Vale, pues... vamos, chicos!"
+      "english": "What are we gonna do, Tai?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 11397,
+      "_bytes": 29,
+      "translation": "¿Qué hacemos, Tai?"
     },
     {
       "index": 79,
-      "english": "Take that, faker!",
-      "_offset": 3924,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Toma, farsante!"
+      "english": "I mean, obviously we're gonna have\nto defeat him, right?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11427,
+      "_bytes": 56,
+      "translation": "Está claro que hay que\nderrotarlo, ¿no?"
     },
     {
       "index": 80,
-      "english": "We did it!",
-      "_offset": 3942,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Ganamos!"
+      "english": "Okay! I'll watch you, then!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 11484,
+      "_bytes": 27,
+      "translation": "¡Vale! ¡Yo os miro, entonces!"
     },
     {
       "index": 81,
-      "english": "We did it, guys!",
-      "_offset": 3953,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Ganamos, chicos!"
+      "english": "Huh? You're not gonna fight?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 11512,
+      "_bytes": 28,
+      "translation": "¿Eh? ¿No vas a pelear?"
     },
     {
       "index": 82,
-      "english": "All right, let's go!",
-      "_offset": 3970,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Bien, vamos!"
+      "english": "I know my limits! I'm not gonna\nfight someone way above my tier!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 11541,
+      "_bytes": 64,
+      "translation": "¡Conozco mis límites! ¡No voy a\npelear con alguien tan fuerte!"
     },
     {
       "index": 83,
-      "english": "Wait, Tai!",
-      "_offset": 3991,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Espera, Tai!"
+      "english": "Fine, then... Let's go, guys!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11606,
+      "_bytes": 29,
+      "translation": "¡Vale, pues... vamos, chicos!"
     },
     {
       "index": 84,
-      "english": "Aaaaaah!",
-      "_offset": 4005,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Aaaaaah!"
+      "english": "Take that, faker!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 11636,
+      "_bytes": 17,
+      "translation": "¡Toma, farsante!"
     },
     {
       "index": 85,
-      "english": "The heck is this? Are we gonna be\ntrapped here?",
-      "_offset": 4014,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Qué es esto? Vamos a quedarnos\natrapados aquí?"
+      "english": "We did it!",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 11654,
+      "_bytes": 10,
+      "translation": "¡Ganamos!"
     },
     {
       "index": 86,
-      "english": "What happened?",
-      "_offset": 4062,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Qué ha pasado?"
+      "english": "We did it, guys!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11665,
+      "_bytes": 16,
+      "translation": "¡Ganamos, chicos!"
     },
     {
       "index": 87,
-      "english": "I can't really tell, but maybe\nthere's a door that'll only let us\nthrough.",
-      "_offset": 4077,
-      "_length": 74,
-      "speaker_id": 0,
-      "translation": "No estoy seguro, pero tal vez\nhaya una puerta que solo nos\ndeje pasar."
+      "english": "All right, let's go!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 11682,
+      "_bytes": 20,
+      "translation": "¡Bien, vamos!"
     },
     {
       "index": 88,
-      "english": "What?!",
-      "_offset": 4152,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Qué?!"
+      "english": "Wait, Tai!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 11703,
+      "_bytes": 13,
+      "translation": "¡Espera, Tai!"
     },
     {
       "index": 89,
-      "english": "So, got any ideas for these guys?\nThey're gonna be stuck here.",
-      "_offset": 4159,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Alguna idea para estos dos?\nSe quedarán atrapados aquí."
+      "english": "Aaaaaah!",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 11717,
+      "_bytes": 8,
+      "translation": "¡Aaaaaah!"
     },
     {
       "index": 90,
-      "english": "Nooooo! I thought I could finally\ngo on an adventure with Tai!",
-      "_offset": 4222,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Noooo! Pensé que por fin\npodría ir de aventuras con Tai!"
+      "english": "The heck is this? Are we gonna be\ntrapped here?",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 11726,
+      "_bytes": 47,
+      "translation": "¿Qué es esto? ¿Vamos a quedarnos\natrapados aquí?"
     },
     {
       "index": 91,
-      "english": "Listen up, Daisuke!",
-      "_offset": 4288,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Escucha, Daisuke!"
+      "english": "What happened?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11774,
+      "_bytes": 14,
+      "translation": "¿Qué ha pasado?"
     },
     {
       "index": 92,
-      "english": "There's gotta be a reason we can't\nget out of here.",
-      "_offset": 4308,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Debe haber un motivo por el\nque no podemos salir."
+      "english": "I can't really tell, but maybe\nthere's a door that'll only let us\nthrough.",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 11789,
+      "_bytes": 74,
+      "translation": "No estoy seguro, pero tal vez\nhaya una puerta que solo nos\ndeje pasar."
     },
     {
       "index": 93,
-      "english": "If we both look for it, we'll run\ninto each other again at some\npoint!",
-      "_offset": 4360,
-      "_length": 70,
-      "speaker_id": 0,
-      "translation": "Si los dos lo buscamos, nos\nvolveremos a encontrar\nen algún momento!"
+      "english": "What?!",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 11864,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
     },
     {
       "index": 94,
-      "english": "Is it gonna be that easy?",
-      "_offset": 4431,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Será tan fácil?"
+      "english": "So, got any ideas for these guys?\nThey're gonna be stuck here.",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 11871,
+      "_bytes": 62,
+      "translation": "¿Alguna idea para estos dos?\nSe quedarán atrapados aquí."
     },
     {
       "index": 95,
-      "english": "The only thing we can do is\nbelieve!",
-      "_offset": 4457,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Lo único que podemos hacer\nes creer!"
+      "english": "Nooooo! I thought I could finally\ngo on an adventure with Tai!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 11934,
+      "_bytes": 65,
+      "translation": "¡Noooo! ¡Pensé que por fin\npodría ir de aventuras con Tai!"
     },
     {
       "index": 96,
-      "english": "...Yeah, you're right! I'll\nbelieve in that!",
-      "_offset": 4494,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "...Sí, tienes razón! Voy a\ncreer en eso!"
+      "english": "Listen up, Daisuke!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12000,
+      "_bytes": 19,
+      "translation": "¡Escucha, Daisuke!"
     },
     {
       "index": 97,
-      "english": "Yeah, so let's meet up again\nlater!",
-      "_offset": 4539,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Sí, veámonos otra vez\nmás tarde!"
+      "english": "There's gotta be a reason we can't\nget out of here.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12020,
+      "_bytes": 51,
+      "translation": "Debe de haber un motivo por el\nque no podemos salir."
     },
     {
       "index": 98,
-      "english": "Taiiiiiii! Take care!",
-      "_offset": 4575,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Taiiiiiii! Cuídate!"
+      "english": "If we both look for it, we'll run\ninto each other again at some\npoint!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12072,
+      "_bytes": 70,
+      "translation": "¡Si los dos lo buscamos, nos\nvolveremos a encontrar\nen algún momento!"
     },
     {
       "index": 99,
-      "english": "You too, Daisuke!",
-      "_offset": 4600,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Tú también!"
+      "english": "Is it gonna be that easy?",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 12143,
+      "_bytes": 25,
+      "translation": "¿Será tan fácil?"
     },
     {
       "index": 100,
-      "english": "Even back in elementary school,\nTai was still the same old\nTai...",
-      "_offset": 4618,
-      "_length": 71,
-      "speaker_id": 0,
-      "translation": "Ya en primaria, Tai era\nel mismo Tai de siempre..."
+      "english": "The only thing we can do is\nbelieve!",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 12169,
+      "_bytes": 36,
+      "translation": "¡Lo único que podemos hacer\nes creer!"
     },
     {
       "index": 101,
-      "english": "Let's go, V-mon!",
-      "_offset": 4690,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Vamos, V-mon!"
+      "english": "...Yeah, you're right! I'll\nbelieve in that!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 12206,
+      "_bytes": 44,
+      "translation": "...¡Sí, tienes razón! ¡Voy a\ncreer en eso!"
     },
     {
       "index": 102,
-      "english": "Yeah, let's go!",
-      "_offset": 4707,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Sí, vamos!"
+      "english": "Yeah, so let's meet up again\nlater!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12251,
+      "_bytes": 35,
+      "translation": "¡Sí, veámonos otra vez\nmás tarde!"
     },
     {
       "index": 103,
-      "english": "【Area 1】",
-      "_offset": 4723,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Zona 1"
+      "english": "Taiiiiiii! Take care!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 12287,
+      "_bytes": 24,
+      "translation": "¡Taiiiiiii! ¡Cuídate!"
     },
     {
       "index": 104,
-      "english": "【Area 2】",
-      "_offset": 4746,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Zona 2"
+      "english": "You too, Daisuke!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12312,
+      "_bytes": 17,
+      "translation": "¡Tú también!"
     },
     {
       "index": 105,
-      "english": "【Area 3】",
-      "_offset": 4769,
-      "_length": 22,
-      "speaker_id": 0,
+      "english": "Even back in elementary school,\nTai was still the same old\nTai...",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 12330,
+      "_bytes": 71,
+      "translation": "Ya en primaria, Tai era\nel mismo Tai de siempre..."
+    },
+    {
+      "index": 106,
+      "english": "Let's go, V-mon!",
+      "speaker_id": 7011,
+      "line_type": 2,
+      "_offset": 12402,
+      "_bytes": 16,
+      "translation": "¡Vamos, V-mon!"
+    },
+    {
+      "index": 107,
+      "english": "Yeah, let's go!",
+      "speaker_id": 7071,
+      "line_type": 2,
+      "_offset": 12419,
+      "_bytes": 15,
+      "translation": "¡Sí, vamos!"
+    },
+    {
+      "index": 108,
+      "english": "　　　　　　【Area 1】",
+      "speaker_id": 9003,
+      "line_type": 4,
+      "_offset": 12435,
+      "_bytes": 22,
+      "translation": "Zona 1"
+    },
+    {
+      "index": 109,
+      "english": "　　　　　　【Area 2】",
+      "speaker_id": 9003,
+      "line_type": 4,
+      "_offset": 12458,
+      "_bytes": 22,
+      "translation": "Zona 2"
+    },
+    {
+      "index": 110,
+      "english": "　　　　　　【Area 3】",
+      "speaker_id": 9003,
+      "line_type": 4,
+      "_offset": 12481,
+      "_bytes": 22,
       "translation": "Zona 3"
     }
   ]

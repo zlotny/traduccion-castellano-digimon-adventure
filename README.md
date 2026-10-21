@@ -9,31 +9,31 @@ Traducción al español de España del juego **Digimon Adventure** para PSP (201
 ## Estado
 
 <!-- progress-start -->
-**Progreso total:** `██████████████████████████████` **100.0%** (15065/15065 líneas)
+**Progreso total:** `██████████████████████████████` **100.0%** (17031/17031 líneas)
 
 ### Resumen
 
 | Categoría | Líneas | Progreso |
 |-----------|-------:|----------|
-| Diálogos  | 12867/12867 | `███████████████` 100.0% |
-| EBOOT     | 1695/1695   | `███████████████` 100.0% |
+| Diálogos  | 14028/14028 | `███████████████` 100.0% |
+| EBOOT     | 2524/2524   | `███████████████` 100.0% |
 | Nombres   | 201/201   | `███████████████` 100.0% |
-| UI / otros | 274/274 | `███████████████` 100.0% |
-| Imágenes (texto en banners/UI) | 28/28 | `███████████████` 100.0% |
-| **Total** | **15065/15065** | `███████████████` **100.0%** |
+| UI / otros | 58/58 | `███████████████` 100.0% |
+| Imágenes (texto en banners/UI) | 220/220 | `███████████████` 100.0% |
+| **Total** | **17031/17031** | `███████████████` **100.0%** |
 
 ### Progreso por arco
 
 | Arco | Líneas | Progreso |
 |------|-------:|----------|
-| Arco Devimon (Eps 1–13) | 3007/3007 | `███████████████` 100.0% |
-| Arco Etemon (Eps 14–20) | 1589/1589 | `███████████████` 100.0% |
-| Arco Myotismon (Eps 21–39) | 3119/3119 | `███████████████` 100.0% |
-| Arco Dark Masters (Eps 40–52) | 2307/2307 | `███████████████` 100.0% |
-| Arco Apocalymon (Eps 53–54) | 726/726 | `███████████████` 100.0% |
+| Arco Devimon (Eps 1–13) | 3097/3097 | `███████████████` 100.0% |
+| Arco Etemon (Eps 14–20) | 1618/1618 | `███████████████` 100.0% |
+| Arco Myotismon (Eps 21–39) | 3373/3373 | `███████████████` 100.0% |
+| Arco Dark Masters (Eps 40–52) | 2418/2418 | `███████████████` 100.0% |
+| Arco Apocalymon (Eps 53–54) | 762/762 | `███████████████` 100.0% |
 | Película: Our War Game! | 349/349 | `███████████████` 100.0% |
-| Escenas originales / minijuegos | 1046/1046 | `███████████████` 100.0% |
-| Dungeon crossover (otras series Digimon) | 724/724 | `███████████████` 100.0% |
+| Escenas originales / minijuegos | 1647/1647 | `███████████████` 100.0% |
+| Dungeon crossover (otras series Digimon) | 764/764 | `███████████████` 100.0% |
 <!-- progress-end -->
 
 ---

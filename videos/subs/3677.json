@@ -1,0 +1,31 @@
+{
+  "file_id": "3677",
+  "style": {
+    "center_x": 240,
+    "baseline_y": 252,
+    "cap_height": 12,
+    "line_height": 23,
+    "fill": "#fdfbfc",
+    "outline": "#120d0f",
+    "outline_width": 2,
+    "font": "digimon_toolkit/fonts/Nunito.ttf",
+    "font_variation": "Black",
+    "font_size": 16
+  },
+  "subtitles": [
+    {
+      "index": 0,
+      "start": 0.2,
+      "end": 1.201,
+      "english": "Night Raid!",
+      "translation": "¡Asalto Nocturno!"
+    },
+    {
+      "index": 1,
+      "start": 2.402,
+      "end": 3.203,
+      "english": "Hikari!",
+      "translation": "¡Kari!"
+    }
+  ]
+}

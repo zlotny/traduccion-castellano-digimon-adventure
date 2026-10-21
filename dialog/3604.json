@@ -1,302 +1,494 @@
 {
   "file_id": "3604",
-  "text_count": 37,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 54,
   "dialog": [
     {
       "index": 0,
-      "english": "...All right, I'll prepare a\ndifferent training regimen. Come\nthis way, pi.",
-      "_offset": 10,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "...Bien, prepararé un\nentrenamiento distinto.\nVenid por aquí, pi."
+      "english": "Please!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 3592,
+      "_bytes": 7,
+      "translation": "¡Por favor!"
     },
     {
       "index": 1,
-      "english": "Hahaha! We did it, Gomamon! This\nis my specialty!",
-      "_offset": 86,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Jajaja! Lo logramos,\nGomamon! Esto es lo mío!"
+      "english": "That doesn't really suit your\nstyle, Joe.",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 3600,
+      "_bytes": 41,
+      "translation": "Eso no va mucho contigo,\nJoe."
     },
     {
       "index": 2,
-      "english": "Personally, I'm not that good at\nusing my head...",
-      "_offset": 136,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "La verdad es que no se me\nda bien pensar..."
+      "english": "I guess so. All right, then...\npardon us.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 3642,
+      "_bytes": 41,
+      "translation": "Supongo. Bueno, pues...\ncon permiso."
     },
     {
       "index": 3,
-      "english": "It doesn't really matter what kind\nof training it is! I'm looking\nforward to it!",
-      "_offset": 186,
-      "_length": 80,
-      "speaker_id": 0,
-      "translation": "No importa qué tipo de\nentrenamiento sea! Tengo\nmuchas ganas!"
+      "english": "What's this, pi?",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 3684,
+      "_bytes": 16,
+      "translation": "¿Qué es esto, pi?"
     },
     {
       "index": 4,
-      "english": "Piccolomon said that we just have\nto make it to the back, but...\nwhat's there?",
-      "_offset": 267,
-      "_length": 78,
-      "speaker_id": 0,
-      "translation": "Piccolomon dijo que solo\nhay que llegar al fondo,\npero... qué habrá ahí?"
-    },
-    {
-      "index": 5,
-      "english": "It's too dark, I can't see\nanything...",
-      "_offset": 346,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Está muy oscuro, no veo\nnada..."
-    },
-    {
-      "index": 6,
-      "english": "Hm? Something's coming from the\nother side.",
-      "_offset": 385,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Mm? Algo viene del otro\nlado."
-    },
-    {
-      "index": 7,
-      "english": "...A Digimon?",
-      "_offset": 429,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "...Un Digimon"
-    },
-    {
-      "index": 8,
-      "english": "W-what's that...?",
-      "_offset": 443,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Q-qué es eso...?"
-    },
-    {
-      "index": 9,
-      "english": "M-me...?",
-      "_offset": 461,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Y-yo...?"
-    },
-    {
-      "index": 10,
       "english": "You see, I have an entrance exam\nnext year, so I need to train\nmyself at competition.",
-      "_offset": 470,
-      "_length": 85,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 3701,
+      "_bytes": 85,
       "translation": "Veréis, tengo un examen\nde acceso el año que viene,\ny debo entrenar mucho."
     },
     {
+      "index": 5,
+      "english": "Joe's at his weakest at the most\nimportant times, so please.",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 3787,
+      "_bytes": 60,
+      "translation": "Joe flaquea en los momentos\nimportantes, así que por\nfavor."
+    },
+    {
+      "index": 6,
+      "english": "To know your own weakness and come\nto receive training is admirable,\npi.",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 3848,
+      "_bytes": 72,
+      "translation": "Conocer tus debilidades y\nvenir a entrenar es digno\nde admiración, pi."
+    },
+    {
+      "index": 7,
+      "english": "But my training is rather strict,\npi. Are you ready, pi?",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 3921,
+      "_bytes": 56,
+      "translation": "Pero mi entrenamiento es\nduro, pi. ¿Estás listo, pi?"
+    },
+    {
+      "index": 8,
+      "english": "Yes! I have to get into medical\nschool!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 3978,
+      "_bytes": 39,
+      "translation": "¡Sí! ¡Tengo que entrar en\nMedicina!"
+    },
+    {
+      "index": 9,
+      "english": "I don't really get it, but\nwhatever, pi. We'll start with\nphysical training, pi.",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 4018,
+      "_bytes": 80,
+      "translation": "No lo pillo, pero bueno, pi.\nEmpezaremos con\nentrenamiento físico, pi."
+    },
+    {
+      "index": 10,
+      "english": "First, you'll fight with these\nguys, pi!",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 4099,
+      "_bytes": 40,
+      "translation": "¡Primero, lucharás contra\nestos, pi!"
+    },
+    {
       "index": 11,
-      "english": "Hahaha! He acts just like you,\nJoe!",
-      "_offset": 556,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Jajaja! Actúa igual que\ntú, Joe!"
+      "english": "Giving up already, Joe?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 4140,
+      "_bytes": 23,
+      "translation": "¿Ya te rindes, Joe?"
     },
     {
       "index": 12,
-      "english": "He's saying what I said, right\ndown to the letter!",
-      "_offset": 592,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Dice lo mismo que dije,\npalabra por palabra!"
+      "english": "*pant*... *pant*... What's the\nnext training regimen, Piccolomon?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4164,
+      "_bytes": 65,
+      "translation": "(jadeo)... (jadeo)... ¿Cuál\nes el siguiente ejercicio,\nPiccolomon?"
     },
     {
       "index": 13,
-      "english": "Whaaaaat?! Well... I don't really\nhave a lot of stamina...",
-      "_offset": 643,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Quéee?! Bueno... no tengo\nmucha resistencia,\nla verdad..."
+      "english": "Too slow! You took far too long!\nDo it one more time.",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 4230,
+      "_bytes": 53,
+      "translation": "¡Muy lento! ¡Has tardado\ndemasiado! Otra vez."
     },
     {
       "index": 14,
-      "english": "Don't you have any special\ntraining to improve one's\ncompetitive focus or anything?",
-      "_offset": 702,
-      "_length": 83,
-      "speaker_id": 0,
-      "translation": "No tenéis algún\nentrenamiento especial para\nmejorar la concentración?"
+      "english": "Whaaaaat?! Well... I don't really\nhave a lot of stamina...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4284,
+      "_bytes": 58,
+      "translation": "¡¿Quéee?! Bueno... no tengo\nmucha resistencia,\nla verdad..."
     },
     {
       "index": 15,
-      "english": "...The heck? All he does is\ncomplain...",
-      "_offset": 790,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "...Qué diablos? Solo se\nqueja..."
+      "english": "Don't you have any special\ntraining to improve one's\ncompetitive focus or anything?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4343,
+      "_bytes": 83,
+      "translation": "¿No tienes algún\nentrenamiento especial para\nmejorar la concentración?"
     },
     {
       "index": 16,
-      "english": "Yup! Just like you, Joe!",
-      "_offset": 830,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Sip! Igual que tú, Joe!"
+      "english": "...All right, I'll prepare a\ndifferent training regimen. Come\nthis way, pi.",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 4427,
+      "_bytes": 75,
+      "translation": "...Bien, prepararé un\nentrenamiento distinto.\nVenid por aquí, pi."
     },
     {
       "index": 17,
-      "english": "Is that... me?",
-      "_offset": 855,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Ese soy... yo?"
+      "english": "Hahaha! We did it, Gomamon! This\nis my specialty!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4503,
+      "_bytes": 49,
+      "translation": "¡Jajaja! ¡Lo logramos,\nGomamon! ¡Esto es lo mío!"
     },
     {
       "index": 18,
-      "english": "I came here to train myself, but\nall I've done is whine...",
-      "_offset": 870,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Vine a entrenarme, pero\nsolo he hecho que\nquejarme..."
+      "english": "Personally, I'm not that good at\nusing my head...",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 4553,
+      "_bytes": 49,
+      "translation": "La verdad es que no se me\nda bien pensar..."
     },
     {
       "index": 19,
-      "english": "How embarrassing.",
-      "_offset": 929,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Qué vergüenza."
+      "english": "It doesn't really matter what kind\nof training it is! I'm looking\nforward to it!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4603,
+      "_bytes": 80,
+      "translation": "¡No importa qué tipo de\nentrenamiento sea! ¡Tengo\nmuchas ganas!"
     },
     {
       "index": 20,
-      "english": "He's gone!",
-      "_offset": 947,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Se fue!"
+      "english": "Piccolomon said that we just have\nto make it to the back, but...\nwhat's there?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4684,
+      "_bytes": 78,
+      "translation": "Piccolomon dijo que solo\nhay que llegar al fondo,\npero... ¿qué habrá ahí?"
     },
     {
       "index": 21,
-      "english": "...Hey, Gomamon. Let's go back to\nPiccolomon.",
-      "_offset": 958,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "...Oye, Gomamon. Volvamos\ncon Piccolomon."
+      "english": "It's too dark, I can't see\nanything...",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 4763,
+      "_bytes": 38,
+      "translation": "Está muy oscuro, no veo\nnada..."
     },
     {
       "index": 22,
-      "english": "But what about the training?",
-      "_offset": 1004,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Y el entrenamiento?"
+      "english": "Hm? Something's coming from the\nother side.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4802,
+      "_bytes": 43,
+      "translation": "¿Mm? Algo viene del otro\nlado."
     },
     {
       "index": 23,
-      "english": "I think that was the training.",
-      "_offset": 1033,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Creo que ese era el\nentreno"
+      "english": "...A Digimon?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 4846,
+      "_bytes": 13,
+      "translation": "...¿Un Digimon?"
     },
     {
       "index": 24,
-      "english": "Good job returning, pi!",
-      "_offset": 1064,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Bien hecho, pi!"
+      "english": "W-what's that...?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4860,
+      "_bytes": 17,
+      "translation": "¿Q-qué es eso...?"
     },
     {
       "index": 25,
-      "english": "You were the one who put that\nother me in the cave, weren't you?",
-      "_offset": 1088,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "Fuiste tú quien puso a ese\notro yo en la cueva, verdad?"
+      "english": "M-me...?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4878,
+      "_bytes": 8,
+      "translation": "¿Y-yo...?"
     },
     {
       "index": 26,
-      "english": "Indeed, pi.",
-      "_offset": 1153,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Así es, pi."
+      "english": "You see, I have an entrance exam\nnext year, so I need to train\nmyself at competition.",
+      "speaker_id": 6351,
+      "line_type": 2,
+      "_offset": 4887,
+      "_bytes": 85,
+      "translation": "Veréis, tengo un examen\nde acceso el año que viene,\ny debo entrenar mucho."
     },
     {
       "index": 27,
-      "english": "I came here to train, but I was \nalready good at what I wanted to \ndo, so I just embarrassed myself.",
-      "_offset": 1165,
-      "_length": 100,
-      "speaker_id": 0,
-      "translation": "Vine a entrenar, pero ya\nera bueno en lo que quería\nhacer, y solo hice el ridículo."
+      "english": "Hahaha! He acts just like you,\nJoe!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 4973,
+      "_bytes": 35,
+      "translation": "¡Jajaja! ¡Actúa igual que\ntú, Joe!"
     },
     {
       "index": 28,
-      "english": "The fact that you've realized this\non your own means that you've\ngrown significantly, pi.",
-      "_offset": 1266,
-      "_length": 89,
-      "speaker_id": 0,
-      "translation": "Que te hayas dado cuenta\ntú solo significa que has\nmadurado mucho, pi."
+      "english": "He's saying what I said, right\ndown to the letter!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5009,
+      "_bytes": 50,
+      "translation": "¡Dice lo mismo que dije,\npalabra por palabra!"
     },
     {
       "index": 29,
-      "english": "Hey, Piccolomon praised you!\nThat's great, Joe!",
-      "_offset": 1356,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Oye, Piccolomon te elogió!\nQué bien, Joe!"
+      "english": "Whaaaaat?! Well... I don't really\nhave a lot of stamina...",
+      "speaker_id": 6351,
+      "line_type": 2,
+      "_offset": 5060,
+      "_bytes": 58,
+      "translation": "¡¿Quéee?! Bueno... no tengo\nmucha resistencia,\nla verdad..."
     },
     {
       "index": 30,
-      "english": "Prepare yourself for more rigorous\ntraining from now on, pi. Here's\nsomething special for you, pi.",
-      "_offset": 1404,
-      "_length": 98,
-      "speaker_id": 0,
-      "translation": "Prepárate para un\nentrenamiento más duro, pi.\nToma algo especial, pi."
+      "english": "Don't you have any special\ntraining to improve one's\ncompetitive focus or anything?",
+      "speaker_id": 6351,
+      "line_type": 2,
+      "_offset": 5119,
+      "_bytes": 83,
+      "translation": "¿No tienes algún\nentrenamiento especial para\nmejorar la concentración?"
     },
     {
       "index": 31,
-      "english": "Thanks, Piccolomon!",
-      "_offset": 1503,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Gracias, Piccolomon"
+      "english": "...",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 5203,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 32,
-      "english": "If you ever want to come train\nagain, come at any time, pi!",
-      "_offset": 1523,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Si queréis volver a\nentrenar, venid cuando\nqueráis, pi!"
+      "english": "...The heck? All he does is\ncomplain...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5207,
+      "_bytes": 39,
+      "translation": "...¿Qué diablos? Solo se\nqueja..."
     },
     {
       "index": 33,
-      "english": "Okay! We'll be back for sure!",
-      "_offset": 1583,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Vale! Volveremos seguro!"
+      "english": "Yup! Just like you, Joe!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 5247,
+      "_bytes": 24,
+      "translation": "¡Sip! ¡Igual que tú, Joe!"
     },
     {
       "index": 34,
-      "english": "Bye-bye, Piccolomon!",
-      "_offset": 1613,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Adiós, Piccolomon!"
+      "english": "Is that... me?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5272,
+      "_bytes": 14,
+      "translation": "¿Ese soy... yo?"
     },
     {
       "index": 35,
-      "english": "~Test~",
-      "_offset": 1634,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "~Test~"
+      "english": "I came here to train myself, but\nall I've done is whine...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5287,
+      "_bytes": 58,
+      "translation": "Vine a entrenarme, pero\nno he hecho más\nque quejarme..."
     },
     {
       "index": 36,
+      "english": "How embarrassing.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5346,
+      "_bytes": 17,
+      "translation": "Qué vergüenza."
+    },
+    {
+      "index": 37,
+      "english": "He's gone!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 5364,
+      "_bytes": 10,
+      "translation": "¡Se fue!"
+    },
+    {
+      "index": 38,
+      "english": "...Hey, Gomamon. Let's go back to\nPiccolomon.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5375,
+      "_bytes": 45,
+      "translation": "...Oye, Gomamon. Volvamos\ncon Piccolomon."
+    },
+    {
+      "index": 39,
+      "english": "But what about the training?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 5421,
+      "_bytes": 28,
+      "translation": "¿Y el entrenamiento?"
+    },
+    {
+      "index": 40,
+      "english": "I think that was the training.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5450,
+      "_bytes": 30,
+      "translation": "Creo que ese era el entreno."
+    },
+    {
+      "index": 41,
+      "english": "Good job returning, pi!",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 5481,
+      "_bytes": 23,
+      "translation": "¡Bien hecho, pi!"
+    },
+    {
+      "index": 42,
+      "english": "You were the one who put that\nother me in the cave, weren't you?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5505,
+      "_bytes": 64,
+      "translation": "Fuiste tú quien puso a ese\notro yo en la cueva, ¿verdad?"
+    },
+    {
+      "index": 43,
+      "english": "Indeed, pi.",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 5570,
+      "_bytes": 11,
+      "translation": "Así es, pi."
+    },
+    {
+      "index": 44,
+      "english": "I came here to train, but I was \nalready good at what I wanted to \ndo, so I just embarrassed myself.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5582,
+      "_bytes": 100,
+      "translation": "Vine a entrenar, pero ya\nera bueno en lo que quería\nhacer, y solo hice el ridículo."
+    },
+    {
+      "index": 45,
+      "english": "The fact that you've realized this\non your own means that you've\ngrown significantly, pi.",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 5683,
+      "_bytes": 89,
+      "translation": "Que te hayas dado cuenta\ntú solo significa que has\nmadurado mucho, pi."
+    },
+    {
+      "index": 46,
+      "english": "Hey, Piccolomon praised you!\nThat's great, Joe!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 5773,
+      "_bytes": 47,
+      "translation": "¡Oye, Piccolomon te elogió!\n¡Qué bien, Joe!"
+    },
+    {
+      "index": 47,
+      "english": "Prepare yourself for more rigorous\ntraining from now on, pi. Here's\nsomething special for you, pi.",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 5821,
+      "_bytes": 98,
+      "translation": "Prepárate para un\nentrenamiento más duro, pi.\nToma algo especial, pi."
+    },
+    {
+      "index": 48,
+      "english": "Thanks, Piccolomon!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5920,
+      "_bytes": 19,
+      "translation": "¡Gracias, Piccolomon!"
+    },
+    {
+      "index": 49,
+      "english": "If you ever want to come train\nagain, come at any time, pi!",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 5940,
+      "_bytes": 59,
+      "translation": "¡Si queréis volver a\nentrenar, venid cuando\nqueráis, pi!"
+    },
+    {
+      "index": 50,
+      "english": "Okay! We'll be back for sure!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6000,
+      "_bytes": 29,
+      "translation": "¡Vale! ¡Volveremos seguro!"
+    },
+    {
+      "index": 51,
+      "english": "Bye-bye, Piccolomon!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 6030,
+      "_bytes": 20,
+      "translation": "¡Adiós, Piccolomon!"
+    },
+    {
+      "index": 52,
+      "english": "~Test~",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6051,
+      "_bytes": 6,
+      "translation": "~Test~"
+    },
+    {
+      "index": 53,
       "english": "Clear episode.",
-      "_offset": 1641,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Episodio hecho"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6058,
+      "_bytes": 14,
+      "translation": "Episodio superado."
     }
   ]
 }

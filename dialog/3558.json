@@ -1,446 +1,530 @@
 {
   "file_id": "3558",
-  "text_count": 55,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 58,
   "dialog": [
     {
       "index": 0,
       "english": "Why'd you do that? You used up all\nof our subway fare!",
-      "_offset": 1921,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Por qué? Os habéis gastado\ntoda la pasta del metro!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6056,
+      "_bytes": 54,
+      "translation": "¿Por qué? ¡Os habéis gastado\ntoda la pasta del metro!"
     },
     {
       "index": 1,
       "english": "We couldn't help it, we really\nwanted some hamburgers...",
-      "_offset": 1976,
-      "_length": 56,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6111,
+      "_bytes": 56,
       "translation": "No pudimos evitarlo, de verdad\nqueríamos hamburguesas..."
     },
     {
       "index": 2,
       "english": "Sorry! We couldn't resist the\ntemptation.",
-      "_offset": 2033,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Perdón! No pudimos resistir\nla tentación."
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 6168,
+      "_bytes": 41,
+      "translation": "¡Perdón! No pudimos resistir\nla tentación."
     },
     {
       "index": 3,
       "english": "It's all because we slept past our\nstop...",
-      "_offset": 2075,
-      "_length": 42,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6210,
+      "_bytes": 42,
       "translation": "Nos dormimos y nos pasamos\nde parada..."
     },
     {
       "index": 4,
       "english": "Why didn't any of you wake us up?",
-      "_offset": 2118,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Por qué no nos despertó nadie?"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6253,
+      "_bytes": 33,
+      "translation": "¿Por qué no nos despertó nadie?"
     },
     {
       "index": 5,
       "english": "Well, you know...",
-      "_offset": 2152,
-      "_length": 17,
-      "speaker_id": 0,
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 6287,
+      "_bytes": 17,
       "translation": "Pues ya sabes..."
     },
     {
       "index": 6,
       "english": "You told us not to talk in front\nof the people on the train!",
-      "_offset": 2170,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Nos dijiste que no habláramos\ndelante de la gente del tren!"
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 6305,
+      "_bytes": 60,
+      "translation": "¡Nos dijiste que no habláramos\ndelante de la gente del tren!"
     },
     {
       "index": 7,
       "english": "So what are we supposed to do now?",
-      "_offset": 2231,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Y ahora qué hacemos?"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6366,
+      "_bytes": 34,
+      "translation": "¿Y ahora qué hacemos?"
     },
     {
       "index": 8,
       "english": "Heh heh! Leave it to me! I've\nthought real hard about this!",
-      "_offset": 2266,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Jeje! Dejádmelo a mí! Lo he\npensado muy bien!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6401,
+      "_bytes": 59,
+      "translation": "¡Jeje! ¡Dejádmelo a mí! ¡Lo he\npensado muy bien!"
     },
     {
       "index": 9,
       "english": "Really?!",
-      "_offset": 2326,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Seguro?!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6461,
+      "_bytes": 8,
+      "translation": "¡¿Seguro?!"
     },
     {
       "index": 10,
       "english": "Yeah! We'll hitchhike!",
-      "_offset": 2335,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Sí! Haremos autoestop!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6470,
+      "_bytes": 22,
+      "translation": "¡Sí! ¡Haremos autoestop!"
     },
     {
       "index": 11,
       "english": "H-hitchhike?!",
-      "_offset": 2358,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "A-autoestop?!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6493,
+      "_bytes": 13,
+      "translation": "¡¿A-autoestop?!"
     },
     {
       "index": 12,
       "english": "Heeeeey! Someone give us a ride!\nHey, heeeeeeeeey!",
-      "_offset": 2372,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Eooo! Que alguien nos lleve!\nEh, eooooooo!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6507,
+      "_bytes": 50,
+      "translation": "¡Eooo! ¡Que alguien nos lleve!\n¡Eh, eooooooo!"
     },
     {
       "index": 13,
       "english": "Hey, heeeeey!",
-      "_offset": 2423,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Eh, eooooo!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6558,
+      "_bytes": 13,
+      "translation": "¡Eh, eooooo!"
     },
     {
       "index": 14,
       "english": "It'll take Tai three days to\nget picked up.",
-      "_offset": 2437,
-      "_length": 46,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6572,
+      "_bytes": 46,
       "translation": "A Tai le va a costar tres días\nque le recojan."
     },
     {
       "index": 15,
       "english": "Then why don't *you* try?",
-      "_offset": 2484,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Y por qué no pruebas tú?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6619,
+      "_bytes": 25,
+      "translation": "¿Y por qué no pruebas tú?"
     },
     {
       "index": 16,
       "english": "Huh?! Us?",
-      "_offset": 2510,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Nosotros?"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6645,
+      "_bytes": 9,
+      "translation": "¿Nosotros?"
     },
     {
       "index": 17,
-      "english": "Yaaaaaaaay...",
-      "_offset": 2525,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Bieeeen..."
+      "english": "Y...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6655,
+      "_bytes": 4,
+      "translation": "Y..."
     },
     {
       "index": 18,
-      "english": "Hahaha! At that rate it'll take\nover a week! No, more like a\nmonth!",
-      "_offset": 2539,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Jajaja! A ese paso tardaréis\nmás de una semana! No, más\nbien un mes!"
+      "english": "Yaaaaaaaay...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 6660,
+      "_bytes": 13,
+      "translation": "Bieeeen..."
     },
     {
       "index": 19,
-      "english": "All right, then, I'll try.",
-      "_offset": 2607,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Vale, pues lo intento yo."
+      "english": "Hahaha! At that rate it'll take\nover a week! No, more like a\nmonth!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6674,
+      "_bytes": 67,
+      "translation": "¡Jajaja! ¡A ese paso tardaréis\nmás de una semana! ¡No, más\nbien un mes!"
     },
     {
       "index": 20,
-      "english": "They left. Why'd you say no?",
-      "_offset": 2642,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Se fue. Por qué dijiste no?"
+      "english": "All right, then, I'll try.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6742,
+      "_bytes": 26,
+      "translation": "Vale, pues lo intento yo."
     },
     {
       "index": 21,
-      "english": "Well, because...",
-      "_offset": 2671,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Bueno, porque..."
+      "english": "...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6769,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 22,
-      "english": "It was because of the pretty lady\ndriving the car, right?",
-      "_offset": 2688,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Era por la chica guapa que\nconducía el coche, verdad?"
+      "english": "...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6773,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 23,
-      "english": "N-no! We wouldn't all fit in that\ncar...",
-      "_offset": 2746,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "N-no! No cabríamos todos en\nese coche..."
+      "english": "They left. Why'd you say no?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6777,
+      "_bytes": 28,
+      "translation": "Se fue. ¿Por qué le dijiste\nque no?"
     },
     {
       "index": 24,
-      "english": "Matt, your face is all red!",
-      "_offset": 2787,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Matt, tienes la cara roja!"
+      "english": "Well, because...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6806,
+      "_bytes": 16,
+      "translation": "Bueno, porque..."
     },
     {
       "index": 25,
-      "english": "Shut up!",
-      "_offset": 2817,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Cállate!"
+      "english": "It was because of the pretty lady\ndriving the car, right?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 6823,
+      "_bytes": 57,
+      "translation": "Era por la chica guapa que\nconducía el coche, ¿verdad?"
     },
     {
       "index": 26,
-      "english": "Mimi and I can try!",
-      "_offset": 2826,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Mimi y yo probamos!"
+      "english": "N-no! We wouldn't all fit in that\ncar...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6881,
+      "_bytes": 40,
+      "translation": "¡N-no! No cabríamos todos en\nese coche..."
     },
     {
       "index": 27,
-      "english": "All right!",
-      "_offset": 2846,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Muy bien!"
+      "english": "Matt, your face is all red!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6922,
+      "_bytes": 29,
+      "translation": "Matt, ¡tienes la cara roja!"
     },
     {
       "index": 28,
-      "english": "Take us to Odaiba!",
-      "_offset": 2857,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Llévanos a Odaiba!"
+      "english": "Shut up!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6952,
+      "_bytes": 8,
+      "translation": "¡Cállate!"
     },
     {
       "index": 29,
-      "english": "Take us to Odaiba!",
-      "_offset": 2876,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Llévanos a Odaiba!"
+      "english": "Mimi and I can try!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 6961,
+      "_bytes": 19,
+      "translation": "¡Mimi y yo probamos!"
     },
     {
       "index": 30,
-      "english": "It'll work this time.",
-      "_offset": 2895,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Esta vez funcionará."
+      "english": "All right!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6981,
+      "_bytes": 10,
+      "translation": "¡Muy bien!"
     },
     {
       "index": 31,
-      "english": "Girls really are better at this\nkind of thing...",
-      "_offset": 2917,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Las chicas se os dan mejor\nestas cosas..."
+      "english": "Take us to Odaiba!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 6992,
+      "_bytes": 18,
+      "translation": "¡Llévanos a Odaiba!"
     },
     {
       "index": 32,
-      "english": "Is that how it works, Tai?",
-      "_offset": 2966,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Así funciona esto, Tai?"
+      "english": "Take us to Odaiba!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 7011,
+      "_bytes": 18,
+      "translation": "¡Llévanos a Odaiba!"
     },
     {
       "index": 33,
-      "english": "Well, yeah.",
-      "_offset": 2996,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Pues sí."
+      "english": "It'll work this time.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 7030,
+      "_bytes": 21,
+      "translation": "Esta vez funcionará."
     },
     {
       "index": 34,
-      "english": "It stopped!",
-      "_offset": 3008,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Ha parado!"
+      "english": "Girls really are better at this\nkind of thing...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 7052,
+      "_bytes": 48,
+      "translation": "Vosotras, las chicas, sabéis\nmás de estas cosas..."
     },
     {
       "index": 35,
-      "english": "We did it! Looks like it's okay!",
-      "_offset": 3020,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Lo logramos! Parece que va bien!"
+      "english": "Is that how it works, Tai?",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 7101,
+      "_bytes": 29,
+      "translation": "¿Así funciona esto, Tai?"
     },
     {
       "index": 36,
-      "english": "So that's how it works!",
-      "_offset": 3053,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Así que es así la cosa!"
+      "english": "Well, yeah.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7131,
+      "_bytes": 11,
+      "translation": "Pues sí."
     },
     {
       "index": 37,
-      "english": "Whoa! W-wait...He left.",
-      "_offset": 3077,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Vaya! Espera... Se fue."
+      "english": "It stopped!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7143,
+      "_bytes": 11,
+      "translation": "¡Ha parado!"
     },
     {
       "index": 38,
-      "english": "But he said he'd give us a ride...\nWhy'd he leave all of a sudden?",
-      "_offset": 3101,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Pero dijo que nos llevaría...\nPor qué se ha ido de repente?"
+      "english": "We did it! Looks like it's okay!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 7155,
+      "_bytes": 32,
+      "translation": "¡Lo logramos! ¡Parece que va bien!"
     },
     {
       "index": 39,
-      "english": "Tai!",
-      "_offset": 3168,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Tai!"
+      "english": "So that's how it works!",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 7188,
+      "_bytes": 23,
+      "translation": "¡Así que es así la cosa!"
     },
     {
       "index": 40,
-      "english": "Aaaaaaaaah! It's a squid monster!",
-      "_offset": 3176,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Aaaaaaaah! Un monstruo calamar!"
+      "english": "Whoa! W-wait...He left.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7212,
+      "_bytes": 23,
+      "translation": "¡Vaya! Espera... Se fue."
     },
     {
       "index": 41,
-      "english": "That's Gesomon!",
-      "_offset": 3210,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Es Gesomon!"
+      "english": "But he said he'd give us a ride...\nWhy'd he leave all of a sudden?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 7236,
+      "_bytes": 66,
+      "translation": "Pero dijo que nos llevaría...\n¿Por qué se ha ido de repente?"
     },
     {
       "index": 42,
-      "english": "The driver was trying to get away\nfrom him!",
-      "_offset": 3226,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "El conductor intentaba escapar\nde él!"
+      "english": "Tai!",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 7303,
+      "_bytes": 7,
+      "translation": "¡Tai!"
     },
     {
       "index": 43,
-      "english": "Let's go, guys!",
-      "_offset": 3270,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Vamos, chicos!"
+      "english": "Aaaaaaaaah! It's a squid monster!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 7311,
+      "_bytes": 33,
+      "translation": "¡Aaaaaaaah! ¡Un monstruo calamar!"
     },
     {
       "index": 44,
-      "english": "Tai! Gesomon isn't that way!",
-      "_offset": 3286,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Tai! Gesomon no está por ahí!"
+      "english": "That's Gesomon!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 7345,
+      "_bytes": 15,
+      "translation": "¡Es Gesomon!"
     },
     {
       "index": 45,
-      "english": "Sorry, sorry! I'll head over right\nnow!",
-      "_offset": 3318,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Perdón! Voy para allá\nahora mismo!"
+      "english": "The driver was trying to get away\nfrom him!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 7361,
+      "_bytes": 43,
+      "translation": "¡El conductor intentaba escapar\nde él!"
     },
     {
       "index": 46,
-      "english": "GSHAAAAAAAAAAH!!",
-      "_offset": 3358,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "GSHAAAAAAAAAH!!"
+      "english": "Let's go, guys!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7405,
+      "_bytes": 15,
+      "translation": "¡Vamos, chicos!"
     },
     {
       "index": 47,
-      "english": "He's coming!",
-      "_offset": 3375,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Ya viene!"
+      "english": "Tai! Gesomon isn't that way!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 7421,
+      "_bytes": 31,
+      "translation": "¡Tai! ¡Gesomon no está por ahí!"
     },
     {
       "index": 48,
-      "english": "We somehow managed to defeat him,\nbut...",
-      "_offset": 3388,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Conseguimos derrotarlo,\npero..."
+      "english": "Sorry, sorry! I'll head over right\nnow!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7453,
+      "_bytes": 39,
+      "translation": "¡Perdón! ¡Voy para allá\nahora mismo!"
     },
     {
       "index": 49,
-      "english": "...now everyone's in a panic.",
-      "_offset": 3429,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "...ahora cunde el pánico."
+      "english": "GSHAAAAAAAAAAH!!",
+      "speaker_id": 4909,
+      "line_type": 2,
+      "_offset": 7493,
+      "_bytes": 16,
+      "translation": "¡¡GSHAAAAAAAAAH!!"
     },
     {
       "index": 50,
-      "english": "Can't blame them... well, things\nwill work out somehow!",
-      "_offset": 3459,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "No se les puede culpar...\nbueno, todo se arreglará!"
+      "english": "He's coming!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7510,
+      "_bytes": 12,
+      "translation": "¡Ya viene!"
     },
     {
       "index": 51,
-      "english": "The fact Digimon can appear from\neven a river like this means that\nwe must be careful in the future.",
-      "_offset": 3515,
-      "_length": 100,
-      "speaker_id": 0,
-      "translation": "Que un Digimon pueda aparecer\nincluso en un río así significa\nque debemos tener cuidado."
+      "english": "We somehow managed to defeat him,\nbut...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 7523,
+      "_bytes": 40,
+      "translation": "Conseguimos derrotarlo,\npero..."
     },
     {
       "index": 52,
-      "english": "The river... That's it! If we ride\non Ikkakumon, we can all get back\nto Odaiba!",
-      "_offset": 3616,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "El río... Eso es! Si montamos\nen Ikkakumon, podemos volver\ntodos a Odaiba!"
+      "english": "...now everyone's in a panic.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7564,
+      "_bytes": 29,
+      "translation": "...ahora cunde el pánico."
     },
     {
       "index": 53,
-      "english": "Everyone's making a fuss anyway,\nI guess it doesn't matter if they\nreact to Gesomon or Ikkakumon.",
-      "_offset": 3696,
-      "_length": 97,
-      "speaker_id": 0,
-      "translation": "Total, todos están alterados\nigual, no creo que importe si\nes Gesomon o Ikkakumon."
+      "english": "Can't blame them... well, things\nwill work out somehow!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7594,
+      "_bytes": 55,
+      "translation": "¡No se les puede culpar...\nbueno, todo se arreglará!"
     },
     {
       "index": 54,
+      "english": "The fact Digimon can appear from\neven a river like this means that\nwe must be careful in the future.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 7650,
+      "_bytes": 100,
+      "translation": "Que un Digimon pueda aparecer\nincluso en un río así significa\nque debemos tener cuidado."
+    },
+    {
+      "index": 55,
+      "english": "The river... That's it! If we ride\non Ikkakumon, we can all get back\nto Odaiba!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 7751,
+      "_bytes": 79,
+      "translation": "El río... ¡Eso es! ¡Si montamos\nen Ikkakumon, podemos volver\ntodos a Odaiba!"
+    },
+    {
+      "index": 56,
+      "english": "Everyone's making a fuss anyway,\nI guess it doesn't matter if they\nreact to Gesomon or Ikkakumon.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7831,
+      "_bytes": 97,
+      "translation": "Total, todos están alterados\nigual, no creo que importe si\nes Gesomon o Ikkakumon."
+    },
+    {
+      "index": 57,
       "english": "All right, let's head back to\nOdaiba!",
-      "_offset": 3794,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Muy bien, volvamos ya\na Odaiba!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 7929,
+      "_bytes": 37,
+      "translation": "¡Muy bien, volvamos ya\na Odaiba!"
     }
   ]
 }

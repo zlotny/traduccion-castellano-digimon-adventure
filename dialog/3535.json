@@ -1,70 +1,89 @@
 {
   "file_id": "3535",
-  "text_count": 8,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 9,
   "dialog": [
     {
       "index": 0,
-      "english": "����This snowstorm keeps getting\nheavier and heavier.",
-      "_offset": 739,
-      "_length": 53,
-      "speaker_id": 0,
+      "english": "This snowstorm keeps getting\nheavier and heavier.",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 1416,
+      "_bytes": 49,
       "translation": "Esta tormenta se vuelve cada vez\npeor."
     },
     {
       "index": 1,
       "english": "Heeeeeey! T.K, where are you?",
-      "_offset": 793,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Ehhh! T.K! Dónde estás!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 1466,
+      "_bytes": 32,
+      "translation": "¡Ehhh! ¡T.K.! ¿Dónde estás?"
     },
     {
       "index": 2,
       "english": "Matt...",
-      "_offset": 826,
-      "_length": 9,
-      "speaker_id": 0,
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 1499,
+      "_bytes": 9,
       "translation": "Matt..."
     },
     {
       "index": 3,
       "english": "T.K! I'm over here!",
-      "_offset": 836,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "T.K! Estoy aquí!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 1509,
+      "_bytes": 22,
+      "translation": "¡T.K.! ¡Estoy aquí!"
     },
     {
       "index": 4,
       "english": "Matt, we should rest for a bit.",
-      "_offset": 859,
-      "_length": 33,
-      "speaker_id": 0,
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 1532,
+      "_bytes": 33,
       "translation": "Matt, deberíamos descansar."
     },
     {
       "index": 5,
       "english": "*cough, cough* T.K, answer me!",
-      "_offset": 893,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "(tosiendo) T.K! Contesta!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 1566,
+      "_bytes": 33,
+      "translation": "(tosiendo) ¡T.K.! ¡Contesta!"
     },
     {
       "index": 6,
       "english": "Are you okay, Matt...?",
-      "_offset": 927,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Estás bien, Matt...?"
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 1600,
+      "_bytes": 24,
+      "translation": "¿Estás bien, Matt...?"
     },
     {
       "index": 7,
       "english": "Yeah, don't worry about me!",
-      "_offset": 952,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Si, no te preocupes por mi!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 1625,
+      "_bytes": 27,
+      "translation": "¡Sí, no te preocupes por mí!"
+    },
+    {
+      "index": 8,
+      "english": "...",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 1653,
+      "_bytes": 3,
+      "translation": "..."
     }
   ]
 }

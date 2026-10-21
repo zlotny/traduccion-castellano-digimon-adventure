@@ -1,2437 +1,2815 @@
 {
   "file_id": "3538",
-  "text_count": 304,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 312,
   "dialog": [
     {
       "index": 0,
-      "english": "��������I wonder where we are?",
-      "_offset": 11605,
-      "_length": 30,
-      "speaker_id": 255,
-      "translation": "Me pregunto donde estamos..."
+      "english": "I wonder where we are?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 33544,
+      "_bytes": 22,
+      "translation": "Me pregunto dónde estamos..."
     },
     {
       "index": 1,
       "english": "We're all separated. I bet they're\ndoin' all fine, but...",
-      "_offset": 11636,
-      "_length": 57,
-      "speaker_id": 255,
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 33567,
+      "_bytes": 57,
       "translation": "Estamos todos separados. Espero\nque todos estén bien..."
     },
     {
       "index": 2,
       "english": "They're probably okay.",
-      "_offset": 11694,
-      "_length": 22,
-      "speaker_id": 255,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 33625,
+      "_bytes": 22,
       "translation": "Están bien, seguro."
     },
     {
       "index": 3,
       "english": "Izzy!",
-      "_offset": 11717,
-      "_length": 10,
-      "speaker_id": 255,
-      "translation": "Izzy!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 33648,
+      "_bytes": 10,
+      "translation": "¡Izzy!"
     },
     {
       "index": 4,
       "english": "There are...ruins here?",
-      "_offset": 11728,
-      "_length": 23,
-      "speaker_id": 255,
-      "translation": "Hay... ruinas aquí?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 33659,
+      "_bytes": 23,
+      "translation": "¿Hay... ruinas aquí?"
     },
     {
       "index": 5,
       "english": "I hate this. Where are we? Where\ndid everyone go?",
-      "_offset": 11752,
-      "_length": 49,
-      "speaker_id": 255,
-      "translation": "Odio esto. Dónde estamos? Dónde\nestán los demás?"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 33683,
+      "_bytes": 49,
+      "translation": "Odio esto. ¿Dónde estamos? ¿Dónde\nestán los demás?"
     },
     {
       "index": 6,
       "english": "I'm sure everyone's looking for\nyou, Mimi. So push through this\nand keep going. I sure am!",
-      "_offset": 11802,
-      "_length": 90,
-      "speaker_id": 255,
-      "translation": "Estoy seguro que todos te están\nbuscando, Mimi. Sé fuerte y sigue\nadelante. Estoy seguro!"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 33733,
+      "_bytes": 90,
+      "translation": "Seguro que todos te están\nbuscando, Mimi. Sé fuerte y sigue\nadelante. ¡Yo lo hago!"
     },
     {
       "index": 7,
       "english": "Hello!",
-      "_offset": 11893,
-      "_length": 6,
-      "speaker_id": 255,
-      "translation": "Hola!"
+      "speaker_id": 4101,
+      "line_type": 2,
+      "_offset": 33824,
+      "_bytes": 6,
+      "translation": "¡Hola!"
     },
     {
       "index": 8,
       "english": "Hello!",
-      "_offset": 11900,
-      "_length": 6,
-      "speaker_id": 255,
-      "translation": "Hola!"
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 33831,
+      "_bytes": 6,
+      "translation": "¡Hola!"
     },
     {
       "index": 9,
       "english": "Gyaaaaah! W-what are you?",
-      "_offset": 11907,
-      "_length": 25,
-      "speaker_id": 255,
-      "translation": "Ahhhh! Q-Qué eres?"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 33838,
+      "_bytes": 25,
+      "translation": "¡Ahhhh! ¿Q-Qué eres?"
     },
     {
       "index": 10,
       "english": "They're Scumon and Chuumon.\nThey're always together.",
-      "_offset": 11933,
-      "_length": 52,
-      "speaker_id": 255,
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 33864,
+      "_bytes": 52,
       "translation": "Son Scumon y Chuumon. Están\nsiempre juntos."
     },
     {
       "index": 11,
       "english": "Nice to meet you! Or how about we\ngive you a proper greeting, with\npoop?",
-      "_offset": 11986,
-      "_length": 72,
-      "speaker_id": 255,
-      "translation": "Un placer! Qué tal si me presento\npropiamente... con caca?"
+      "speaker_id": 4101,
+      "line_type": 2,
+      "_offset": 33917,
+      "_bytes": 72,
+      "translation": "¡Un placer! ¿Qué tal si me presento\npropiamente... con caca?"
     },
     {
       "index": 12,
       "english": "Nooooo! W-what are you doing?!",
-      "_offset": 12059,
-      "_length": 30,
-      "speaker_id": 255,
-      "translation": "Nooo! Qué estás haciendo?!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 33990,
+      "_bytes": 30,
+      "translation": "¡Nooo! ¡¿Qué estás haciendo?!"
     },
     {
       "index": 13,
       "english": "If you don't like it, give us all\nyour stuff!",
-      "_offset": 12090,
-      "_length": 45,
-      "speaker_id": 255,
-      "translation": "Si no te gusta, dános todo lo que\ntienes!"
+      "speaker_id": 4101,
+      "line_type": 2,
+      "_offset": 34021,
+      "_bytes": 45,
+      "translation": "¡Si no te gusta, danos todo lo que\ntienes!"
     },
     {
       "index": 14,
       "english": "All of it!",
-      "_offset": 12136,
-      "_length": 10,
-      "speaker_id": 255,
-      "translation": "Todo!"
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 34067,
+      "_bytes": 10,
+      "translation": "¡Todo!"
     },
     {
       "index": 15,
       "english": "Are you trying to rob us?!",
-      "_offset": 12147,
-      "_length": 26,
-      "speaker_id": 255,
-      "translation": "Nos estás atracando?!"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 34078,
+      "_bytes": 26,
+      "translation": "¡¿Nos estás atracando?!"
     },
     {
       "index": 16,
       "english": "Yep! Give us all you've got!",
-      "_offset": 12174,
-      "_length": 28,
-      "speaker_id": 255,
-      "translation": "Si! Danos todo!"
+      "speaker_id": 4101,
+      "line_type": 2,
+      "_offset": 34105,
+      "_bytes": 28,
+      "translation": "¡Sí! ¡Danos todo!"
     },
     {
       "index": 17,
       "english": "No way! I'd rather throw all my\nstuff into a pit than give it to\nyou!",
-      "_offset": 12203,
-      "_length": 69,
-      "speaker_id": 255,
-      "translation": "Ni de broma! Antes tiro las cosas\na un foso que dártelas a ti!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 34134,
+      "_bytes": 69,
+      "translation": "¡Ni de broma! ¡Antes tiro las cosas\na un foso que dártelas a ti!"
     },
     {
       "index": 18,
       "english": "Then how about we cover you in\npoop?",
-      "_offset": 12273,
-      "_length": 36,
-      "speaker_id": 255,
-      "translation": "Y qué tal si te cubrimos de caca?"
+      "speaker_id": 4101,
+      "line_type": 2,
+      "_offset": 34204,
+      "_bytes": 36,
+      "translation": "¿Y qué tal si te cubrimos de caca?"
     },
     {
       "index": 19,
       "english": "*You'll* be the ones covered in\npoop!",
-      "_offset": 12310,
-      "_length": 37,
-      "speaker_id": 255,
-      "translation": "Eso váis a ser vosotros!"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 34241,
+      "_bytes": 37,
+      "translation": "¡Los que vais a acabar llenos\nde caca sois vosotros!"
     },
     {
       "index": 20,
       "english": "You did it, Palmon! Ah!",
-      "_offset": 12348,
-      "_length": 23,
-      "speaker_id": 255,
-      "translation": "Lo hiciste, Palmon! Ah!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 34279,
+      "_bytes": 23,
+      "translation": "¡Lo hiciste, Palmon! ¡Ah!"
     },
     {
       "index": 21,
       "english": "Aaah, for some reason I feel\nrefreshed.",
-      "_offset": 12372,
-      "_length": 39,
-      "speaker_id": 255,
+      "speaker_id": 4101,
+      "line_type": 2,
+      "_offset": 34303,
+      "_bytes": 39,
       "translation": "Ahh, de algún modo me siento\nrenovado."
     },
     {
       "index": 22,
       "english": "Very refreshed!",
-      "_offset": 12412,
-      "_length": 15,
-      "speaker_id": 255,
-      "translation": "Muy renovado!"
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 34343,
+      "_bytes": 15,
+      "translation": "¡Muy renovado!"
     },
     {
       "index": 23,
       "english": "Well, *I* don't feel refreshed!",
-      "_offset": 12428,
-      "_length": 31,
-      "speaker_id": 255,
-      "translation": "Bueno, YO no me siento así!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 34359,
+      "_bytes": 31,
+      "translation": "¡Bueno, YO no me siento así!"
     },
     {
       "index": 24,
       "english": "I feel like I've become a good\npoop.",
-      "_offset": 12460,
-      "_length": 36,
-      "speaker_id": 255,
+      "speaker_id": 4101,
+      "line_type": 2,
+      "_offset": 34391,
+      "_bytes": 36,
       "translation": "Siento que me convertí en caca\nbuena."
     },
     {
       "index": 25,
       "english": "A good poop, a good poop!",
-      "_offset": 12497,
-      "_length": 25,
-      "speaker_id": 255,
-      "translation": "Caca buena, caca buena!"
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 34428,
+      "_bytes": 25,
+      "translation": "¡Caca buena, caca buena!"
     },
     {
       "index": 26,
       "english": "Now that that's settled, I have a\nquestion for you. Have you seen\nany humans around here?",
-      "_offset": 12523,
-      "_length": 89,
-      "speaker_id": 255,
-      "translation": "Ahora que está solucionado, tengo\nuna pregunta. Habéis visto algún\nhumano por aquí?"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 34454,
+      "_bytes": 89,
+      "translation": "Ahora que está solucionado, tengo\nuna pregunta. ¿Habéis visto algún\nhumano por aquí?"
     },
     {
       "index": 27,
       "english": "Humans?",
-      "_offset": 12613,
-      "_length": 7,
-      "speaker_id": 255,
-      "translation": "Humano?"
+      "speaker_id": 4101,
+      "line_type": 2,
+      "_offset": 34544,
+      "_bytes": 7,
+      "translation": "¿Humano?"
     },
     {
       "index": 28,
       "english": "People who look like me!",
-      "_offset": 12621,
-      "_length": 24,
-      "speaker_id": 255,
-      "translation": "Gente como nosotros!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 34552,
+      "_bytes": 24,
+      "translation": "¡Gente como nosotros!"
     },
     {
       "index": 29,
-      "english": "Come to think of it... I saw a\nTentomon and a creature like you\ngo into the Antigua Región Dino.",
-      "_offset": 12646,
-      "_length": 96,
-      "speaker_id": 255,
-      "translation": "Ahora que lo dices... Vi un\nTentomon y una criatura yendo a\nla Antigua Región Dino."
+      "english": "Come to think of it... I saw a\nTentomon and a creature like you\ngo into the Ancient Dino Region.",
+      "speaker_id": 4101,
+      "line_type": 2,
+      "_offset": 34577,
+      "_bytes": 96,
+      "translation": "Ahora que lo dices... Vi a un\nTentomon y a alguien como tú ir\na la Antigua Región Dino."
     },
     {
       "index": 30,
       "english": "If he's with a Tentomon, he must\nbe Izzy!",
-      "_offset": 12743,
-      "_length": 46,
-      "speaker_id": 255,
-      "translation": "Tentomon? Debe ser Izzy!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 34674,
+      "_bytes": 46,
+      "translation": "¿Tentomon? ¡Debe de ser Izzy!"
     },
     {
       "index": 31,
-      "english": "The Antigua Región Dino's straight\nahead. Well, then, bye-bye!",
-      "_offset": 12790,
-      "_length": 62,
-      "speaker_id": 255,
-      "translation": "La Antigua Región Dino está yendo\nrecto. Bueno, hasta luego!"
+      "english": "The Ancient Dino Region's straight\nahead. Well, then, bye-bye!",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 34721,
+      "_bytes": 62,
+      "translation": "La Antigua Región Dino está todo\nrecto. ¡Bueno, hasta luego!"
     },
     {
       "index": 32,
       "english": "Ruins!",
-      "_offset": 12853,
-      "_length": 6,
-      "speaker_id": 255,
-      "translation": "Ruinas"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 34784,
+      "_bytes": 6,
+      "translation": "¡Ruinas!"
     },
     {
       "index": 33,
       "english": "This must be the Ancient Dino\nRegion!",
-      "_offset": 12860,
-      "_length": 37,
-      "speaker_id": 255,
-      "translation": "Debe ser la Antigua Región\nDino!"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 34791,
+      "_bytes": 37,
+      "translation": "¡Debe ser la Antigua Región\nDino!"
     },
     {
       "index": 34,
       "english": "Ah! Mimi!",
-      "_offset": 12898,
-      "_length": 9,
-      "speaker_id": 255,
-      "translation": "Ah! Mimi!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 34829,
+      "_bytes": 9,
+      "translation": "¡Ah! ¡Mimi!"
     },
     {
       "index": 35,
       "english": "Tentomon!",
-      "_offset": 12908,
-      "_length": 9,
-      "speaker_id": 255,
-      "translation": "Tentomon!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 34839,
+      "_bytes": 9,
+      "translation": "¡Tentomon!"
     },
     {
       "index": 36,
       "english": "You guys are safe!",
-      "_offset": 12918,
-      "_length": 18,
-      "speaker_id": 255,
-      "translation": "Estáis a salvo!"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 34849,
+      "_bytes": 18,
+      "translation": "¡Estáis a salvo!"
     },
     {
       "index": 37,
       "english": "Knew we'd join up eventually!",
-      "_offset": 12937,
-      "_length": 29,
-      "speaker_id": 255,
-      "translation": "Sabía que nos juntaríamos!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 34868,
+      "_bytes": 29,
+      "translation": "¡Sabía que nos juntaríamos!"
     },
     {
       "index": 38,
       "english": "So, what's Izzy doing?",
-      "_offset": 12967,
-      "_length": 27,
-      "speaker_id": 255,
-      "translation": "Y... qué hace Izzy?"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 34898,
+      "_bytes": 27,
+      "translation": "Y... ¿qué hace Izzy?"
     },
     {
       "index": 39,
       "english": "I dunno...",
-      "_offset": 12995,
-      "_length": 10,
-      "speaker_id": 255,
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 34926,
+      "_bytes": 10,
       "translation": "No sé..."
     },
     {
       "index": 40,
       "english": "Mimi, why don't you try talking to\nIzzy for now?",
-      "_offset": 13006,
-      "_length": 53,
-      "speaker_id": 255,
-      "translation": "Mimi, por qué no intentas hablar\ncon Izzy?"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 34937,
+      "_bytes": 53,
+      "translation": "Mimi, ¿por qué no intentas hablar\ncon Izzy?"
     },
     {
       "index": 41,
       "english": "Mimi, why don't you try talking to\nIzzy for now?",
-      "_offset": 13060,
-      "_length": 53,
-      "speaker_id": 255,
-      "translation": "Mimi, por qué no intentas hablar\ncon Izzy?"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 34991,
+      "_bytes": 53,
+      "translation": "Mimi, ¿por qué no intentas hablar\ncon Izzy?"
     },
     {
       "index": 42,
       "english": "Izzy!",
-      "_offset": 13114,
-      "_length": 10,
-      "speaker_id": 255,
-      "translation": "Izzy!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 35045,
+      "_bytes": 10,
+      "translation": "¡Izzy!"
     },
     {
       "index": 43,
       "english": "Ah, Mimi!",
-      "_offset": 13125,
-      "_length": 9,
-      "speaker_id": 255,
-      "translation": "Ah, Mimi!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 35056,
+      "_bytes": 9,
+      "translation": "¡Ah, Mimi!"
     },
     {
       "index": 44,
       "english": "I'm so glad you're here! Where's\neveryone else?",
-      "_offset": 13135,
-      "_length": 47,
-      "speaker_id": 255,
-      "translation": "Que bien que estás aquí! Donde\nestá el resto?"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 35066,
+      "_bytes": 47,
+      "translation": "¡Qué bien que estés aquí! ¿Dónde\nestá el resto?"
     },
     {
       "index": 45,
       "english": "I don't know. But more\nimportantly...",
-      "_offset": 13183,
-      "_length": 37,
-      "speaker_id": 255,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 35114,
+      "_bytes": 37,
       "translation": "No lo sé, pero antes de eso..."
     },
     {
       "index": 46,
       "english": "If I analyze these characters, I\nmay be able to figure out what's\nhappening to this island.",
-      "_offset": 13221,
-      "_length": 91,
-      "speaker_id": 255,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 35152,
+      "_bytes": 91,
       "translation": "Si analizo estos caracteres,\nquizás descubra qué le está\npasando a esta isla."
     },
     {
       "index": 47,
       "english": "Since I'm busy now, we should\nsearch for them later.",
-      "_offset": 13313,
-      "_length": 52,
-      "speaker_id": 255,
-      "translation": "Ya que estoy ocupado, deberíamos\nbuscarles luego."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 35244,
+      "_bytes": 52,
+      "translation": "Ya que estoy ocupado, deberíamos\nbuscarlos luego."
     },
     {
       "index": 48,
       "english": "First time I evolved we found\ncharacters kinda like these.",
-      "_offset": 13366,
-      "_length": 58,
-      "speaker_id": 255,
-      "translation": "En mi primera Digievolución había\ncaracteres como estos."
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 35297,
+      "_bytes": 58,
+      "translation": "En mi primera digievolución había\ncaracteres como estos."
     },
     {
       "index": 49,
       "english": "So... how long will I have to\nwait?",
-      "_offset": 13425,
-      "_length": 35,
-      "speaker_id": 255,
-      "translation": "Y... cuánto tengo que esperar?"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 35356,
+      "_bytes": 35,
+      "translation": "Y... ¿cuánto tengo que esperar?"
     },
     {
       "index": 50,
       "english": "Um...",
-      "_offset": 13461,
-      "_length": 5,
-      "speaker_id": 255,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 35392,
+      "_bytes": 5,
       "translation": "Um..."
     },
     {
       "index": 51,
       "english": "If you figure it out, will it get\nus home?",
-      "_offset": 13467,
-      "_length": 42,
-      "speaker_id": 255,
-      "translation": "Si lo descifras, nos iremos a\ncasa?"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 35398,
+      "_bytes": 42,
+      "translation": "Si lo descifras, ¿nos iremos a\ncasa?"
     },
     {
       "index": 52,
       "english": "Ummmm...oh, there! Here we are!",
-      "_offset": 13510,
-      "_length": 31,
-      "speaker_id": 255,
-      "translation": "Umm... oh, aquí! Aquí estamos!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 35441,
+      "_bytes": 31,
+      "translation": "¡Umm... oh, aquí! ¡Aquí estamos!"
     },
     {
       "index": 53,
       "english": "Ughhhhhhhhhhhhhhhh!\nIzzy, you jerk!!",
-      "_offset": 13542,
-      "_length": 41,
-      "speaker_id": 255,
-      "translation": "Ughhh! Izzy, idiota!!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 35473,
+      "_bytes": 41,
+      "translation": "¡Ughhh! ¡¡Izzy, idiota!!"
     },
     {
       "index": 54,
       "english": "Don't cry, Mimi, or I'm gonna\nstart crying too...",
-      "_offset": 13584,
-      "_length": 49,
-      "speaker_id": 255,
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 35515,
+      "_bytes": 49,
       "translation": "No llores, Mimi, o lloraré\nyo también..."
     },
     {
       "index": 55,
       "english": "Y-your crying is only going to\ninconvenience us further.",
-      "_offset": 13634,
-      "_length": 56,
-      "speaker_id": 255,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 35565,
+      "_bytes": 56,
       "translation": "Q-Que llores sólo nos retrasará\naún más."
     },
     {
       "index": 56,
       "english": "Do something, Izzy!",
-      "_offset": 13691,
-      "_length": 24,
-      "speaker_id": 255,
-      "translation": "Haz algo, Izzy!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 35622,
+      "_bytes": 24,
+      "translation": "¡Haz algo, Izzy!"
     },
     {
       "index": 57,
       "english": "S-something like...what?",
-      "_offset": 13716,
-      "_length": 24,
-      "speaker_id": 255,
-      "translation": "A-algo como... qué?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 35647,
+      "_bytes": 24,
+      "translation": "A-algo como... ¿qué?"
     },
     {
       "index": 58,
       "english": "I'm starving! I'm thirsty! I miss\neveryone! I hate being here!",
-      "_offset": 13741,
-      "_length": 62,
-      "speaker_id": 255,
-      "translation": "Tengo hambre! Y sed! Echo a todos\nde menos! Odio todo esto!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 35672,
+      "_bytes": 62,
+      "translation": "¡Tengo hambre! ¡Y sed! ¡Echo a todos\nde menos! ¡Odio todo esto!"
     },
     {
       "index": 59,
       "english": "If I analyze this data, it'll help\nyou in the end as well, Mimi.",
-      "_offset": 13804,
-      "_length": 64,
-      "speaker_id": 255,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 35735,
+      "_bytes": 64,
       "translation": "Si analizo estos datos, te\nayudará a ti también, Mimi."
     },
     {
       "index": 60,
       "english": "I'm not gonna deal with you\nanymore, Izzy!",
-      "_offset": 13869,
-      "_length": 47,
-      "speaker_id": 255,
-      "translation": "No voy a soportarte más, Izzy!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 35800,
+      "_bytes": 47,
+      "translation": "¡No voy a soportarte más, Izzy!"
     },
     {
       "index": 61,
       "english": "Ah! Mimiiiiii!",
-      "_offset": 13917,
-      "_length": 14,
-      "speaker_id": 255,
-      "translation": "Ah! Mimiiii!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 35848,
+      "_bytes": 14,
+      "translation": "¡Ah! ¡Mimiiii!"
     },
     {
       "index": 62,
       "english": "Wait, Mimi!",
-      "_offset": 13932,
-      "_length": 11,
-      "speaker_id": 255,
-      "translation": "Espera!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 35863,
+      "_bytes": 11,
+      "translation": "¡Espera!"
     },
     {
       "index": 63,
       "english": "Don't follow me!",
-      "_offset": 13944,
-      "_length": 16,
-      "speaker_id": 255,
-      "translation": "No me sigas!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 35875,
+      "_bytes": 16,
+      "translation": "¡No me sigas!"
     },
     {
       "index": 64,
-      "english": "A hole?! Mimi!",
-      "_offset": 13964,
-      "_length": 14,
-      "speaker_id": 255,
-      "translation": "Un agujero?!"
+      "english": "!!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 35892,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 65,
-      "english": "Gyaaaaaaaaaah!!",
-      "_offset": 13979,
-      "_length": 15,
-      "speaker_id": 255,
-      "translation": "Ahhhhhhh!!"
+      "english": "A hole?! Mimi!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 35895,
+      "_bytes": 14,
+      "translation": "¡¿Un agujero?!"
     },
     {
       "index": 66,
-      "english": "Mimi! Hold on!",
-      "_offset": 13995,
-      "_length": 14,
-      "speaker_id": 255,
-      "translation": "Mimi! Aguanta!"
+      "english": "Gyaaaaaaaaaah!!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 35910,
+      "_bytes": 15,
+      "translation": "¡¡Ahhhhhhh!!"
     },
     {
       "index": 67,
-      "english": "Y-you saved me...",
-      "_offset": 14010,
-      "_length": 17,
-      "speaker_id": 255,
-      "translation": "Me has salvado..."
+      "english": "Mimi! Hold on!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 35926,
+      "_bytes": 14,
+      "translation": "¡Mimi! ¡Aguanta!"
     },
     {
       "index": 68,
-      "english": "I can't keep this up! Too much\nweight!",
-      "_offset": 14028,
-      "_length": 38,
-      "speaker_id": 255,
-      "translation": "No puedo aguantar! Mucho peso!"
+      "english": "Y-you saved me...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 35941,
+      "_bytes": 17,
+      "translation": "Me has salvado..."
     },
     {
       "index": 69,
-      "english": "No way! Noooooooo!!",
-      "_offset": 14067,
-      "_length": 19,
-      "speaker_id": 255,
-      "translation": "No! Noooooo!"
+      "english": "I can't keep this up! Too much\nweight!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 35959,
+      "_bytes": 38,
+      "translation": "¡No puedo aguantar! ¡Mucho peso!"
     },
     {
       "index": 70,
-      "english": "Owwww...",
-      "_offset": 14087,
-      "_length": 8,
-      "speaker_id": 255,
-      "translation": "Auuu..."
+      "english": "No way! Noooooooo!!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 35998,
+      "_bytes": 19,
+      "translation": "¡No! ¡Noooooo!"
     },
     {
       "index": 71,
-      "english": "Ow ow ow...seems we fell p'far.",
-      "_offset": 14096,
-      "_length": 31,
-      "speaker_id": 255,
-      "translation": "Au au au... si que era hondo."
+      "english": "Owwww...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 36018,
+      "_bytes": 8,
+      "translation": "Auuu..."
     },
     {
       "index": 72,
-      "english": "I'm tired of these ruins! I wanna\ngo home!",
-      "_offset": 14128,
-      "_length": 42,
-      "speaker_id": 255,
-      "translation": "Estoy harta de estas ruinas! Me\nquiero ir!"
+      "english": "Ow ow ow...seems we fell p'far.",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 36027,
+      "_bytes": 31,
+      "translation": "Au au au... sí que era hondo."
     },
     {
       "index": 73,
-      "english": "Mimiiiiiiii! We gotta get back to\nIzzy!",
-      "_offset": 14171,
-      "_length": 44,
-      "speaker_id": 255,
-      "translation": "Mimiiii! Tenemos que volver con\nIzzy!"
+      "english": "I'm tired of these ruins! I wanna\ngo home!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 36059,
+      "_bytes": 42,
+      "translation": "¡Estoy harta de estas ruinas! ¡Me\nquiero ir!"
     },
     {
       "index": 74,
-      "english": "Noooo! I don't want to hear him\nblubbering on and on like he does!",
-      "_offset": 14216,
-      "_length": 66,
-      "speaker_id": 255,
-      "translation": "Noo! No quiero escucharle\nbalbucear constantemente como\nhace!"
+      "english": "Mimiiiiiiii! We gotta get back to\nIzzy!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 36102,
+      "_bytes": 44,
+      "translation": "¡Mimiiii! ¡Tenemos que volver con\nIzzy!"
     },
     {
       "index": 75,
-      "english": "Don't go runnin' off by yourself!",
-      "_offset": 14283,
-      "_length": 33,
-      "speaker_id": 255,
-      "translation": "No corras así tu sola!"
+      "english": "Noooo! I don't want to hear him\nblubbering on and on like he does!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 36147,
+      "_bytes": 66,
+      "translation": "¡Noo! ¡No quiero escucharle\nbalbucear constantemente como\nhace!"
     },
     {
       "index": 76,
-      "english": "What's this pattern?",
-      "_offset": 14317,
-      "_length": 20,
-      "speaker_id": 255,
-      "translation": "Qué es este patrón?"
+      "english": "Don't go runnin' off by yourself!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 36214,
+      "_bytes": 33,
+      "translation": "¡No corras así tú sola!"
     },
     {
       "index": 77,
-      "english": "Prolly be useful to remember for\nlater.",
-      "_offset": 14338,
-      "_length": 39,
-      "speaker_id": 255,
-      "translation": "Probablemente útil si lo\nrecordamos."
+      "english": "What's this pattern?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 36248,
+      "_bytes": 20,
+      "translation": "¿Qué es este patrón?"
     },
     {
       "index": 78,
-      "english": "Gyaaaaah!",
-      "_offset": 14378,
-      "_length": 9,
-      "speaker_id": 255,
-      "translation": "Ahhhhh!"
+      "english": "Prolly be useful to remember for\nlater.",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 36269,
+      "_bytes": 39,
+      "translation": "Probablemente útil si lo\nrecordamos."
     },
     {
       "index": 79,
-      "english": "A hole!",
-      "_offset": 14388,
-      "_length": 7,
-      "speaker_id": 255,
-      "translation": "Hoyo!"
+      "english": "Gyaaaaah!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 36309,
+      "_bytes": 9,
+      "translation": "¡Ahhhhh!"
     },
     {
       "index": 80,
-      "english": "Ouch ouch ouch...",
-      "_offset": 14396,
-      "_length": 17,
-      "speaker_id": 255,
-      "translation": "Au au au..."
+      "english": "A hole!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 36319,
+      "_bytes": 7,
+      "translation": "¡Hoyo!"
     },
     {
       "index": 81,
-      "english": "You 'kay?",
-      "_offset": 14414,
-      "_length": 9,
-      "speaker_id": 255,
-      "translation": "Bien?"
+      "english": "Ouch ouch ouch...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 36327,
+      "_bytes": 17,
+      "translation": "Au au au..."
     },
     {
       "index": 82,
-      "english": "Try not to fall this time.",
-      "_offset": 14424,
-      "_length": 26,
-      "speaker_id": 255,
-      "translation": "Intenta no caer otra vez."
+      "english": "You 'kay?",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 36345,
+      "_bytes": 9,
+      "translation": "¿Bien?"
     },
     {
       "index": 83,
-      "english": "Mimi! Can you hear me?",
-      "_offset": 14451,
-      "_length": 22,
-      "speaker_id": 255,
-      "translation": "Mimi! Me oyes?"
+      "english": "Try not to fall this time.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 36355,
+      "_bytes": 26,
+      "translation": "Intenta no caer otra vez."
     },
     {
       "index": 84,
-      "english": "Mimi!",
-      "_offset": 14477,
-      "_length": 5,
-      "speaker_id": 255,
-      "translation": "Mimi!"
+      "english": "Mimi! Can you hear me?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 36382,
+      "_bytes": 22,
+      "translation": "¡Mimi! ¿Me oyes?"
     },
     {
       "index": 85,
-      "english": "Izzy?",
-      "_offset": 14483,
-      "_length": 10,
-      "speaker_id": 255,
-      "translation": "Izzy?"
+      "english": "!!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 36405,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 86,
-      "english": "Good, you can hear me! I'll\nnavigate for you, so please walk\nin the direction I indicate.",
-      "_offset": 14494,
-      "_length": 89,
-      "speaker_id": 255,
-      "translation": "Bien, me oyes! Te guiaré, así que\npor favor, anda en la dirección\nque te diga."
+      "english": "Mimi!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 36408,
+      "_bytes": 5,
+      "translation": "¡Mimi!"
     },
     {
       "index": 87,
-      "english": "We're saved, Mimi! Izzy's\ngonna do what he can to help us.",
-      "_offset": 14584,
-      "_length": 63,
-      "speaker_id": 255,
-      "translation": "Estamos salvados Mimi! Izzy\nnos va a ayudar."
+      "english": "Izzy?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 36414,
+      "_bytes": 10,
+      "translation": "¿Izzy?"
     },
     {
       "index": 88,
-      "english": "Palmon...Izzy...",
-      "_offset": 14648,
-      "_length": 21,
-      "speaker_id": 255,
-      "translation": "Palmon...Izzy..."
+      "english": "Good, you can hear me! I'll\nnavigate for you, so please walk\nin the direction I indicate.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 36425,
+      "_bytes": 89,
+      "translation": "¡Bien, me oyes! Te guiaré, así que\npor favor, anda en la dirección\nque te diga."
     },
     {
       "index": 89,
-      "english": "M-Mimi!",
-      "_offset": 14670,
-      "_length": 7,
-      "speaker_id": 255,
-      "translation": "M-Mimi!"
+      "english": "We're saved, Mimi! Izzy's\ngonna do what he can to help us.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 36515,
+      "_bytes": 63,
+      "translation": "¡Estamos salvados Mimi! Izzy\nnos va a ayudar."
     },
     {
       "index": 90,
-      "english": "Izzy? Did something happen?",
-      "_offset": 14678,
-      "_length": 32,
-      "speaker_id": 255,
-      "translation": "Izzy? Ha ocurrido algo?"
+      "english": "Palmon...Izzy...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 36579,
+      "_bytes": 21,
+      "translation": "Palmon...Izzy..."
     },
     {
       "index": 91,
-      "english": "Apparently, there's a mysterious\npower in these ruins.",
-      "_offset": 14711,
-      "_length": 54,
-      "speaker_id": 255,
-      "translation": "Aparentemente las ruinas tienen\nun poder misterioso."
+      "english": "M-Mimi!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 36601,
+      "_bytes": 7,
+      "translation": "¡M-Mimi!"
     },
     {
       "index": 92,
-      "english": "The characters on the wall follow\nthe same principle as the ones in\nAndromon's factory.",
-      "_offset": 14766,
-      "_length": 87,
-      "speaker_id": 255,
-      "translation": "Los caracteres en la pared siguen\nel mismo principio que los de la\nfábrica de Andromon."
+      "english": "Izzy? Did something happen?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 36609,
+      "_bytes": 32,
+      "translation": "¿Izzy? ¿Ha ocurrido algo?"
     },
     {
       "index": 93,
-      "english": "Hmph, that's great and all, but\ndoes that mean anything?",
-      "_offset": 14854,
-      "_length": 56,
-      "speaker_id": 255,
-      "translation": "Hm, suena bien, pero significa\nalgo?"
+      "english": "Apparently, there's a mysterious\npower in these ruins.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 36642,
+      "_bytes": 54,
+      "translation": "Aparentemente las ruinas tienen\nun poder misterioso."
     },
     {
       "index": 94,
-      "english": "That's it!",
-      "_offset": 14911,
-      "_length": 10,
-      "speaker_id": 255,
-      "translation": "Eso es!"
+      "english": "The characters on the wall follow\nthe same principle as the ones in\nAndromon's factory.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 36697,
+      "_bytes": 87,
+      "translation": "Los caracteres en la pared siguen\nel mismo principio que los de la\nfábrica de Andromon."
     },
     {
       "index": 95,
-      "english": "There's probably a lot of hole\ntraps around you, Mimi, but..",
-      "_offset": 14922,
-      "_length": 60,
-      "speaker_id": 255,
-      "translation": "Seguramente haya muchos hoyos\nalrededor de ti, Mimi, pero..."
+      "english": "Hmph, that's great and all, but\ndoes that mean anything?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 36785,
+      "_bytes": 56,
+      "translation": "Hm, suena muy bien, pero\n¿significa algo?"
     },
     {
       "index": 96,
-      "english": "...according to the data, there's\na message that reads...",
-      "_offset": 14983,
-      "_length": 57,
-      "speaker_id": 255,
-      "translation": "...según los datos, un mensaje\ndice..."
+      "english": "That's it!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 36842,
+      "_bytes": 10,
+      "translation": "¡Eso es!"
     },
     {
       "index": 97,
-      "english": "\"A road with a pattern is good, a\nroad without is bad.\"",
-      "_offset": 15041,
-      "_length": 55,
-      "speaker_id": 255,
-      "translation": "\"El buen camino sigue un patrón,\nsin él, será el malo.\" "
+      "english": "There's probably a lot of hole\ntraps around you, Mimi, but..",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 36853,
+      "_bytes": 60,
+      "translation": "Seguramente haya muchos hoyos\nalrededor de ti, Mimi, pero..."
     },
     {
       "index": 98,
-      "english": "Pattern? What's that supposed to\nmean?",
-      "_offset": 15097,
-      "_length": 38,
-      "speaker_id": 255,
-      "translation": "Patrón? Que se supone que\nsignifica?"
+      "english": "...according to the data, there's\na message that reads...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 36914,
+      "_bytes": 57,
+      "translation": "...según los datos, un mensaje\ndice..."
     },
     {
       "index": 99,
-      "english": "Do you see any patterns out of the\nordinary anywhere?",
-      "_offset": 15136,
-      "_length": 53,
-      "speaker_id": 255,
-      "translation": "Ves algún patrón fuera de lo\ncomún en algún lugar?"
+      "english": "\"A road with a pattern is good, a\nroad without is bad.\"",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 36972,
+      "_bytes": 55,
+      "translation": "\"El buen camino sigue un patrón,\nsin él, será el malo.\" "
     },
     {
       "index": 100,
-      "english": "We'll keep tryin', Mimi!",
-      "_offset": 15190,
-      "_length": 24,
-      "speaker_id": 255,
-      "translation": "Probemos más, Mimi!"
+      "english": "Pattern? What's that supposed to\nmean?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 37028,
+      "_bytes": 38,
+      "translation": "¿Patrón? ¿Qué se supone que\nsignifica?"
     },
     {
       "index": 101,
-      "english": "Ow...",
-      "_offset": 15215,
-      "_length": 5,
-      "speaker_id": 255,
-      "translation": "Au..."
+      "english": "Do you see any patterns out of the\nordinary anywhere?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 37067,
+      "_bytes": 53,
+      "translation": "¿Ves algún patrón fuera de lo\ncomún en algún lugar?"
     },
     {
       "index": 102,
-      "english": "Mimi...",
-      "_offset": 15221,
-      "_length": 7,
-      "speaker_id": 255,
-      "translation": "Mimi..."
+      "english": "We'll keep tryin', Mimi!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 37121,
+      "_bytes": 24,
+      "translation": "¡Probemos más, Mimi!"
     },
     {
       "index": 103,
-      "english": "Mimi! Can you hear me?",
-      "_offset": 15229,
-      "_length": 22,
-      "speaker_id": 255,
-      "translation": "Mimi! Me escuchas?"
+      "english": "Ow...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 37146,
+      "_bytes": 5,
+      "translation": "Au..."
     },
     {
       "index": 104,
-      "english": "I don't wanna do this anymore...",
-      "_offset": 15252,
-      "_length": 32,
-      "speaker_id": 255,
-      "translation": "No quiero hacer esto más..."
+      "english": "Mimi...",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 37152,
+      "_bytes": 7,
+      "translation": "Mimi..."
     },
     {
       "index": 105,
-      "english": "I've found the locations of all\nthe hole traps!",
-      "_offset": 15285,
-      "_length": 47,
-      "speaker_id": 255,
-      "translation": "Encontré el lugar de todos los\nagujeros!"
+      "english": "Mimi! Can you hear me?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 37160,
+      "_bytes": 22,
+      "translation": "¡Mimi! ¿Me escuchas?"
     },
     {
       "index": 106,
-      "english": "You can get through if you follow\nmy instructions.",
-      "_offset": 15333,
-      "_length": 50,
-      "speaker_id": 255,
-      "translation": "Puedes pasar si sigues mis\ninstrucciones."
+      "english": "I don't wanna do this anymore...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 37183,
+      "_bytes": 32,
+      "translation": "No quiero hacer esto más..."
     },
     {
       "index": 107,
-      "english": "Really? Thank goodness.",
-      "_offset": 15384,
-      "_length": 23,
-      "speaker_id": 255,
-      "translation": "De veras? Menos mal."
+      "english": "I've found the locations of all\nthe hole traps!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 37216,
+      "_bytes": 47,
+      "translation": "¡Encontré el lugar de todos los\nagujeros!"
     },
     {
       "index": 108,
-      "english": "Yaaaaay! We did it!",
-      "_offset": 15408,
-      "_length": 19,
-      "speaker_id": 255,
-      "translation": "Si! Lo conseguimos!"
+      "english": "You can get through if you follow\nmy instructions.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 37264,
+      "_bytes": 50,
+      "translation": "Puedes pasar si sigues mis\ninstrucciones."
     },
     {
       "index": 109,
-      "english": "Did you get through?",
-      "_offset": 15428,
-      "_length": 20,
-      "speaker_id": 255,
-      "translation": "Habéis pasado?"
+      "english": "Really? Thank goodness.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 37315,
+      "_bytes": 23,
+      "translation": "¿De veras? Menos mal."
     },
     {
       "index": 110,
-      "english": "Yep! It worked!",
-      "_offset": 15449,
-      "_length": 15,
-      "speaker_id": 255,
-      "translation": "Ha funcionado!"
+      "english": "Yaaaaay! We did it!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 37339,
+      "_bytes": 19,
+      "translation": "¡Sí! ¡Lo conseguimos!"
     },
     {
       "index": 111,
-      "english": "That's good, but...",
-      "_offset": 15465,
-      "_length": 19,
-      "speaker_id": 255,
-      "translation": "Si, bien, pero..."
+      "english": "Did you get through?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 37359,
+      "_bytes": 20,
+      "translation": "¿Habéis pasado?"
     },
     {
       "index": 112,
-      "english": "What?",
-      "_offset": 15485,
-      "_length": 5,
-      "speaker_id": 255,
-      "translation": "Qué?"
+      "english": "Yep! It worked!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 37380,
+      "_bytes": 15,
+      "translation": "¡Ha funcionado!"
     },
     {
       "index": 113,
-      "english": "Studying this place is important.\nYou should proceed after you\nprepare yourself.",
-      "_offset": 15491,
-      "_length": 80,
-      "speaker_id": 255,
-      "translation": "Estudiar este lugar es\nimportante. Deberías continuar\ntras prepararte."
+      "english": "That's good, but...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 37396,
+      "_bytes": 19,
+      "translation": "Sí, bien, pero..."
     },
     {
       "index": 114,
-      "english": "I mean, that place's atmosphere\nmight have an effect on your\nbehavior, and...",
-      "_offset": 15577,
-      "_length": 77,
-      "speaker_id": 255,
-      "translation": "Quiero decir, la atmósfera del\nlugar podría afectar tus\nacciones, y..."
+      "english": "What?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 37416,
+      "_bytes": 5,
+      "translation": "¿Qué?"
     },
     {
       "index": 115,
-      "english": "Khhhh! Izzy, you jerk!",
-      "_offset": 15655,
-      "_length": 27,
-      "speaker_id": 255,
-      "translation": "Uhh! Izzy! Idiota!"
+      "english": "Studying this place is important.\nYou should proceed after you\nprepare yourself.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 37422,
+      "_bytes": 80,
+      "translation": "Estudiar este lugar es\nimportante. Deberías continuar\ntras prepararte."
     },
     {
       "index": 116,
-      "english": "M-Mimi?",
-      "_offset": 15683,
-      "_length": 7,
-      "speaker_id": 255,
-      "translation": "M-Mimi?"
+      "english": "...?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 37503,
+      "_bytes": 4,
+      "translation": "...?"
     },
     {
       "index": 117,
-      "english": "Izzy, just don't do that...",
-      "_offset": 15691,
-      "_length": 32,
-      "speaker_id": 255,
-      "translation": "Izzy, no hagas eso..."
+      "english": "I mean, that place's atmosphere\nmight have an effect on your\nbehavior, and...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 37508,
+      "_bytes": 77,
+      "translation": "Quiero decir, la atmósfera del\nlugar podría afectar tus\nacciones, y..."
     },
     {
       "index": 118,
-      "english": "Yaaaaay! We did it!",
-      "_offset": 15724,
-      "_length": 19,
-      "speaker_id": 255,
-      "translation": "Si! Lo conseguimos!"
+      "english": "Khhhh! Izzy, you jerk!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 37586,
+      "_bytes": 27,
+      "translation": "¡Uhh! ¡Izzy! ¡Idiota!"
     },
     {
       "index": 119,
-      "english": "Amazing, Mimi! You did it without\nneeding my advice.",
-      "_offset": 15744,
-      "_length": 52,
-      "speaker_id": 255,
-      "translation": "Genial, Mimi! Y lo hiciste sin mi\nayuda."
+      "english": "M-Mimi?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 37614,
+      "_bytes": 7,
+      "translation": "¿M-Mimi?"
     },
     {
       "index": 120,
-      "english": "The way you said that worries me a\nbit, but whatever! If there's a\nwill, there's always a way!",
-      "_offset": 15797,
-      "_length": 94,
-      "speaker_id": 255,
-      "translation": "Dicho así me preocupa un poco,\npero da igual! Quien quiere,\npuede!"
+      "english": "Izzy, just don't do that...",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 37622,
+      "_bytes": 32,
+      "translation": "Izzy, no hagas eso..."
     },
     {
       "index": 121,
-      "english": "Is that how it is?",
-      "_offset": 15892,
-      "_length": 18,
-      "speaker_id": 255,
-      "translation": "Es así?"
+      "english": "Yaaaaay! We did it!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 37655,
+      "_bytes": 19,
+      "translation": "¡Sí! ¡Lo conseguimos!"
     },
     {
       "index": 122,
-      "english": "It really was amazing. But the\nability to take action is what's\nmost important, right?",
-      "_offset": 15911,
-      "_length": 86,
-      "speaker_id": 255,
-      "translation": "Ha sido increíble. Pero la\nhabilidad de tomar la iniciativa\nes lo importante, verdad?"
+      "english": "Amazing, Mimi! You did it without\nneeding my advice.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 37675,
+      "_bytes": 52,
+      "translation": "¡Genial, Mimi! Y lo hiciste sin mi\nayuda."
     },
     {
       "index": 123,
-      "english": "Eheheh...",
-      "_offset": 15998,
-      "_length": 9,
-      "speaker_id": 255,
-      "translation": "Heheh..."
+      "english": "The way you said that worries me a\nbit, but whatever! If there's a\nwill, there's always a way!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 37728,
+      "_bytes": 94,
+      "translation": "¡Dicho así me preocupa un poco,\npero da igual! ¡Quien quiere,\npuede!"
     },
     {
       "index": 124,
-      "english": "Ugh, I've had enough of falling\ndown holes!",
-      "_offset": 16008,
-      "_length": 43,
-      "speaker_id": 255,
-      "translation": "Uh, ya basta de caerse por\nagujeros!"
+      "english": "Is that how it is?",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 37823,
+      "_bytes": 18,
+      "translation": "¿Es así?"
     },
     {
       "index": 125,
-      "english": "Maybe we should be stoppin' here\nfor a bit.",
-      "_offset": 16052,
-      "_length": 43,
-      "speaker_id": 255,
-      "translation": "Quizás deberíamos parar aquí un\npoco."
+      "english": "It really was amazing. But the\nability to take action is what's\nmost important, right?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 37842,
+      "_bytes": 86,
+      "translation": "Ha sido increíble. Pero la\nhabilidad de tomar la iniciativa\nes lo importante, ¿verdad?"
     },
     {
       "index": 126,
-      "english": "Uh...",
-      "_offset": 16096,
-      "_length": 5,
-      "speaker_id": 255,
-      "translation": "Uh..."
+      "english": "Eheheh...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 37929,
+      "_bytes": 9,
+      "translation": "Heheh..."
     },
     {
       "index": 127,
-      "english": "There's another one of those\nstrange patterns down here...",
-      "_offset": 16102,
-      "_length": 58,
-      "speaker_id": 255,
-      "translation": "Aquí hay otro de esos extraños\npatrones..."
+      "english": "Ugh, I've had enough of falling\ndown holes!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 37939,
+      "_bytes": 43,
+      "translation": "¡Uh, ya basta de caerse por\nagujeros!"
     },
     {
       "index": 128,
-      "english": "Hello?! Koushirooooou!",
-      "_offset": 16161,
-      "_length": 22,
-      "speaker_id": 255,
-      "translation": "Hola?! Iiiizzyyy!"
+      "english": "Maybe we should be stoppin' here\nfor a bit.",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 37983,
+      "_bytes": 43,
+      "translation": "Quizás deberíamos parar aquí un\npoco."
     },
     {
       "index": 129,
-      "english": "No response...",
-      "_offset": 16188,
-      "_length": 14,
-      "speaker_id": 255,
-      "translation": "Nada..."
+      "english": "Uh...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 38027,
+      "_bytes": 5,
+      "translation": "Uh..."
     },
     {
       "index": 130,
-      "english": "Mimi! Mimiiiiii! Can you hear me?",
-      "_offset": 16203,
-      "_length": 33,
-      "speaker_id": 255,
-      "translation": "Mimi! Mimiiii! Me escuchas?"
+      "english": "There's another one of those\nstrange patterns down here...",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 38033,
+      "_bytes": 58,
+      "translation": "Aquí hay otro de esos extraños\npatrones..."
     },
     {
       "index": 131,
-      "english": "Here, here! I hear you!",
-      "_offset": 16237,
-      "_length": 23,
-      "speaker_id": 255,
-      "translation": "Aquí, aquí! Te escucho!"
+      "english": "Hello?! Koushirooooou!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 38092,
+      "_bytes": 22,
+      "translation": "¡¿Hola?! ¡Iiiizzyyy!"
     },
     {
       "index": 132,
-      "english": "Mimi! Are you okay?! I'm worried\nabout you!",
-      "_offset": 16261,
-      "_length": 43,
-      "speaker_id": 255,
-      "translation": "Mimi! Estás bien?! Estoy\npreocupado!"
+      "english": "...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 38115,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 133,
-      "english": "We're pulling through, somehow!\nTentomon's here, too!",
-      "_offset": 16305,
-      "_length": 53,
-      "speaker_id": 255,
-      "translation": "Vamos tirando, de algún modo!\nTentomon está aquí!"
+      "english": "No response...",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 38119,
+      "_bytes": 14,
+      "translation": "Nada..."
     },
     {
       "index": 134,
-      "english": "Aha, you're embarrassing me...",
-      "_offset": 16359,
-      "_length": 30,
-      "speaker_id": 255,
-      "translation": "Ah... que vergüenza..."
+      "english": "Mimi! Mimiiiiii! Can you hear me?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 38134,
+      "_bytes": 33,
+      "translation": "¡Mimi! ¡Mimiiii! ¿Me escuchas?"
     },
     {
       "index": 135,
-      "english": "We're counting on you, Tentomon!\nAnyway, about these ruins...",
-      "_offset": 16390,
-      "_length": 61,
-      "speaker_id": 255,
-      "translation": "Contamos contigo, Tentomon!\nBueno, sobre las ruinas..."
+      "english": "Here, here! I hear you!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 38168,
+      "_bytes": 23,
+      "translation": "¡Aquí, aquí! ¡Te escucho!"
     },
     {
       "index": 136,
-      "english": "This room seems to be called the\n\"Room of the Sun and Moon\".",
-      "_offset": 16452,
-      "_length": 60,
-      "speaker_id": 255,
-      "translation": "Esta sala parece llamarse\n\"Sala del Sol y la Luna\""
+      "english": "Mimi! Are you okay?! I'm worried\nabout you!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 38192,
+      "_bytes": 43,
+      "translation": "¡Mimi! ¡¿Estás bien?! ¡Estoy\npreocupada!"
     },
     {
       "index": 137,
-      "english": "The Sun and...",
-      "_offset": 16513,
-      "_length": 14,
-      "speaker_id": 255,
-      "translation": "El Sol y..."
+      "english": "We're pulling through, somehow!\nTentomon's here, too!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 38236,
+      "_bytes": 53,
+      "translation": "¡Vamos tirando, de algún modo!\n¡Tentomon está aquí!"
     },
     {
       "index": 138,
-      "english": "...Moon?",
-      "_offset": 16528,
-      "_length": 8,
-      "speaker_id": 255,
-      "translation": "...Luna?"
+      "english": "Aha, you're embarrassing me...",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 38290,
+      "_bytes": 30,
+      "translation": "Ah... qué vergüenza..."
     },
     {
       "index": 139,
-      "english": "And there seem to be some rules\nabout this room.",
-      "_offset": 16537,
-      "_length": 48,
-      "speaker_id": 255,
-      "translation": "Y parece haber normas sobre\nesta sala."
+      "english": "We're counting on you, Tentomon!\nAnyway, about these ruins...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 38321,
+      "_bytes": 61,
+      "translation": "¡Contamos contigo, Tentomon!\nBueno, sobre las ruinas..."
     },
     {
       "index": 140,
-      "english": "\"After ○ is ×, after × is □,\nafter □ is ○ again,\"",
-      "_offset": 16586,
-      "_length": 55,
-      "speaker_id": 255,
-      "translation": "\"○ lleva a ×, × lleva a □,\n□ lleva a ○ otra vez\""
+      "english": "This room seems to be called the\n\"Room of the Sun and Moon\".",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 38383,
+      "_bytes": 60,
+      "translation": "Esta sala parece llamarse\n\"Sala del Sol y la Luna\"."
     },
     {
       "index": 141,
-      "english": "\"and time is irreversible\"...",
-      "_offset": 16642,
-      "_length": 29,
-      "speaker_id": 255,
-      "translation": "\"el tiempo es irreversible\""
+      "english": "The Sun and...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 38444,
+      "_bytes": 14,
+      "translation": "El Sol y..."
     },
     {
       "index": 142,
-      "english": "Did you get that, Mimi?",
-      "_offset": 16672,
-      "_length": 23,
-      "speaker_id": 255,
-      "translation": "Lo entiendes, Mimi?"
+      "english": "...Moon?",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 38459,
+      "_bytes": 8,
+      "translation": "...¿Luna?"
     },
     {
       "index": 143,
-      "english": "Not at all...what's\n\"irreversible\"?",
-      "_offset": 16696,
-      "_length": 35,
-      "speaker_id": 255,
-      "translation": "Para nada...\nqué es \"irreversible\"?"
+      "english": "And there seem to be some rules\nabout this room.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 38468,
+      "_bytes": 48,
+      "translation": "Y parece haber normas sobre\nesta sala."
     },
     {
       "index": 144,
-      "english": "It means \"unable to return back to\nwhere you were before\".",
-      "_offset": 16732,
-      "_length": 58,
-      "speaker_id": 255,
-      "translation": "Significa \"No poder volver a\ndonde estabas antes\"."
-    },
-    {
-      "index": 145,
-      "english": "Have you found anything else?",
-      "_offset": 16791,
-      "_length": 29,
-      "speaker_id": 255,
-      "translation": "Has encontrado algo más?"
-    },
-    {
-      "index": 146,
-      "english": "I'm sorry. I'll keep analyzing it\nsome more!",
-      "_offset": 16821,
-      "_length": 44,
-      "speaker_id": 255,
-      "translation": "Lo siento. Seguiré analizando un\npoco más!"
-    },
-    {
-      "index": 147,
-      "english": "Hm...looks like we've got no\nchoice but to try for now.",
-      "_offset": 16866,
-      "_length": 55,
-      "speaker_id": 255,
-      "translation": "Hm...parece que no tenemos\nmás opcion que probar."
-    },
-    {
-      "index": 148,
-      "english": "Gyaaaah! What's this?!",
-      "_offset": 16922,
-      "_length": 22,
-      "speaker_id": 255,
-      "translation": "Ahhh! Qué es esto?!"
-    },
-    {
-      "index": 149,
-      "english": "The floor...!",
-      "_offset": 16945,
-      "_length": 13,
-      "speaker_id": 255,
-      "translation": "El suelo...!"
-    },
-    {
-      "index": 150,
-      "english": "Mimi! What's going on?",
-      "_offset": 16959,
-      "_length": 22,
-      "speaker_id": 255,
-      "translation": "Mimi! Qué ocurre?"
-    },
-    {
-      "index": 151,
-      "english": "The floor started shining all of a\nsudden!",
-      "_offset": 16982,
-      "_length": 42,
-      "speaker_id": 255,
-      "translation": "El suelo empezó a brillar de\nrepente!"
-    },
-    {
-      "index": 152,
-      "english": "The floor? It must be some\nmechanism in the ruins.",
-      "_offset": 17025,
-      "_length": 50,
-      "speaker_id": 255,
-      "translation": "El suelo? Será algún mecanismo\nde las ruinas."
-    },
-    {
-      "index": 153,
-      "english": "Mechanism? Like a trap? Are we\ngonna be okay?",
-      "_offset": 17076,
-      "_length": 45,
-      "speaker_id": 255,
-      "translation": "Mecanismo? Como una trampa?\nEstaremos bien?"
-    },
-    {
-      "index": 154,
-      "english": "Um...It's apparently a mechanism\nto trap intruders.",
-      "_offset": 17122,
-      "_length": 51,
-      "speaker_id": 255,
-      "translation": "Uhm...Parece un mecanismo para\natrapar intrusos."
-    },
-    {
-      "index": 155,
-      "english": "It doesn't look like the kind of\ntrap that inflicts damage, but...",
-      "_offset": 17174,
-      "_length": 66,
-      "speaker_id": 255,
-      "translation": "No parece la clase de trampa que\nhaga daño, pero..."
-    },
-    {
-      "index": 156,
-      "english": "That's a relief, but I'm still\nnervous.",
-      "_offset": 17241,
-      "_length": 39,
-      "speaker_id": 255,
-      "translation": "Es un alivio, pero estoy\nnerviosa."
-    },
-    {
-      "index": 157,
-      "english": "Anyway, back to that hint from\nbefore! Uh...?",
-      "_offset": 17281,
-      "_length": 45,
-      "speaker_id": 255,
-      "translation": "Sea como sea, piensa en la pista\nde antes!"
-    },
-    {
-      "index": 158,
-      "english": "This room's called the \"Room of\nthe Sun and Moon\".",
-      "_offset": 17327,
-      "_length": 50,
-      "speaker_id": 255,
-      "translation": "Esta sala se llama \"Sala del\nSol y la Luna\"."
-    },
-    {
-      "index": 159,
-      "english": "And it's got some rules...",
-      "_offset": 17378,
-      "_length": 26,
-      "speaker_id": 255,
-      "translation": "Y tiene unas normas..."
-    },
-    {
-      "index": 160,
       "english": "\"After ○ is ×, after × is □,\nafter □ is ○ again,\"",
-      "_offset": 17405,
-      "_length": 55,
-      "speaker_id": 255,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 38517,
+      "_bytes": 55,
       "translation": "\"○ lleva a ×, × lleva a □,\n□ lleva a ○ otra vez\""
     },
     {
-      "index": 161,
+      "index": 145,
       "english": "\"and time is irreversible\"...",
-      "_offset": 17461,
-      "_length": 29,
-      "speaker_id": 255,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 38573,
+      "_bytes": 29,
       "translation": "\"el tiempo es irreversible\""
     },
     {
+      "index": 146,
+      "english": "Did you get that, Mimi?",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 38603,
+      "_bytes": 23,
+      "translation": "¿Lo entiendes, Mimi?"
+    },
+    {
+      "index": 147,
+      "english": "Not at all...what's\n\"irreversible\"?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 38627,
+      "_bytes": 35,
+      "translation": "Para nada...\n¿qué es \"irreversible\"?"
+    },
+    {
+      "index": 148,
+      "english": "It means \"unable to return back to\nwhere you were before\".",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 38663,
+      "_bytes": 58,
+      "translation": "Significa \"No poder volver a\ndonde estabas antes\"."
+    },
+    {
+      "index": 149,
+      "english": "Have you found anything else?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 38722,
+      "_bytes": 29,
+      "translation": "¿Has encontrado algo más?"
+    },
+    {
+      "index": 150,
+      "english": "I'm sorry. I'll keep analyzing it\nsome more!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 38752,
+      "_bytes": 44,
+      "translation": "Lo siento. ¡Seguiré analizando un\npoco más!"
+    },
+    {
+      "index": 151,
+      "english": "Hm...looks like we've got no\nchoice but to try for now.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 38797,
+      "_bytes": 55,
+      "translation": "Hm...parece que no tenemos\nmás opción que probar."
+    },
+    {
+      "index": 152,
+      "english": "Gyaaaah! What's this?!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 38853,
+      "_bytes": 22,
+      "translation": "¡Ahhh! ¡¿Qué es esto?!"
+    },
+    {
+      "index": 153,
+      "english": "The floor...!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 38876,
+      "_bytes": 13,
+      "translation": "¡El suelo...!"
+    },
+    {
+      "index": 154,
+      "english": "Mimi! What's going on?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 38890,
+      "_bytes": 22,
+      "translation": "¡Mimi! ¿Qué ocurre?"
+    },
+    {
+      "index": 155,
+      "english": "The floor started shining all of a\nsudden!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 38913,
+      "_bytes": 42,
+      "translation": "¡El suelo empezó a brillar de\nrepente!"
+    },
+    {
+      "index": 156,
+      "english": "The floor? It must be some\nmechanism in the ruins.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 38956,
+      "_bytes": 50,
+      "translation": "¿El suelo? Será algún mecanismo\nde las ruinas."
+    },
+    {
+      "index": 157,
+      "english": "Mechanism? Like a trap? Are we\ngonna be okay?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 39007,
+      "_bytes": 45,
+      "translation": "¿Mecanismo? ¿Como una trampa?\n¿Estaremos bien?"
+    },
+    {
+      "index": 158,
+      "english": "Um...It's apparently a mechanism\nto trap intruders.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 39053,
+      "_bytes": 51,
+      "translation": "Uhm...Parece un mecanismo para\natrapar intrusos."
+    },
+    {
+      "index": 159,
+      "english": "It doesn't look like the kind of\ntrap that inflicts damage, but...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 39105,
+      "_bytes": 66,
+      "translation": "No parece la clase de trampa que\nhaga daño, pero..."
+    },
+    {
+      "index": 160,
+      "english": "That's a relief, but I'm still\nnervous.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 39172,
+      "_bytes": 39,
+      "translation": "Es un alivio, pero estoy\nnerviosa."
+    },
+    {
+      "index": 161,
+      "english": "Anyway, back to that hint from\nbefore! Uh...?",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 39212,
+      "_bytes": 45,
+      "translation": "¡Sea como sea, piensa en la pista\nde antes!"
+    },
+    {
       "index": 162,
-      "english": "Ugh...maybe it's like this?",
-      "_offset": 17491,
-      "_length": 27,
-      "speaker_id": 255,
-      "translation": "Uh...quizás sea así?"
+      "english": "This room's called the \"Room of\nthe Sun and Moon\".",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 39258,
+      "_bytes": 50,
+      "translation": "Esta sala se llama \"Sala del\nSol y la Luna\"."
     },
     {
       "index": 163,
-      "english": "Gyaaah!",
-      "_offset": 17519,
-      "_length": 7,
-      "speaker_id": 255,
-      "translation": "Ahhh!"
+      "english": "And it's got some rules...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 39309,
+      "_bytes": 26,
+      "translation": "Y tiene unas normas..."
     },
     {
       "index": 164,
-      "english": "The floor turned red...!",
-      "_offset": 17527,
-      "_length": 24,
-      "speaker_id": 255,
-      "translation": "El suelo es rojo...!"
+      "english": "\"After ○ is ×, after × is □,\nafter □ is ○ again,\"",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 39336,
+      "_bytes": 55,
+      "translation": "\"○ lleva a ×, × lleva a □,\n□ lleva a ○ otra vez\""
     },
     {
       "index": 165,
-      "english": "What does it mean?! Did we mess\nup? Did we do something wrong?!",
-      "_offset": 17552,
-      "_length": 63,
-      "speaker_id": 255,
-      "translation": "Qué significa?! La hemos liado?\nHemos hecho algo mal?!"
+      "english": "\"and time is irreversible\"...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 39392,
+      "_bytes": 29,
+      "translation": "\"el tiempo es irreversible\""
     },
     {
       "index": 166,
-      "english": "Please calm down, Mimi!",
-      "_offset": 17616,
-      "_length": 23,
-      "speaker_id": 255,
-      "translation": "Calma, Mimi, por favor!"
+      "english": "Ugh...maybe it's like this?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 39422,
+      "_bytes": 27,
+      "translation": "Uh...¿quizás sea así?"
     },
     {
       "index": 167,
-      "english": "K-Izzy...",
-      "_offset": 17640,
-      "_length": 14,
-      "speaker_id": 255,
-      "translation": "I-Izzy..."
+      "english": "Gyaaah!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 39450,
+      "_bytes": 7,
+      "translation": "¡Ahhh!"
     },
     {
       "index": 168,
-      "english": "Mimi, it looks like we couldn't\nget past the mechanism.",
-      "_offset": 17655,
-      "_length": 55,
-      "speaker_id": 255,
-      "translation": "Mimi, parece que no hemos podido\nsalvar el mecanismo."
+      "english": "The floor turned red...!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 39458,
+      "_bytes": 24,
+      "translation": "¡El suelo es rojo...!"
     },
     {
       "index": 169,
-      "english": "So then...?",
-      "_offset": 17711,
-      "_length": 11,
-      "speaker_id": 255,
-      "translation": "Y bien...?"
+      "english": "What does it mean?! Did we mess\nup? Did we do something wrong?!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 39483,
+      "_bytes": 63,
+      "translation": "¡¿Qué significa?! ¿La hemos liado?\n¡¿Hemos hecho algo mal?!"
     },
     {
       "index": 170,
-      "english": "Like I said, it doesn't seem to\nhave inflicted any damage, but...",
-      "_offset": 17723,
-      "_length": 65,
-      "speaker_id": 255,
-      "translation": "Como dije, no parece que haya\nhecho ningún daño, pero..."
+      "english": "Please calm down, Mimi!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 39547,
+      "_bytes": 23,
+      "translation": "¡Calma, Mimi, por favor!"
     },
     {
       "index": 171,
-      "english": "It looks like there's no other\noption but to try it again.",
-      "_offset": 17789,
-      "_length": 58,
-      "speaker_id": 255,
-      "translation": "Parece que no hay otra opción\nque intentarlo de nuevo."
+      "english": "K-Izzy...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 39571,
+      "_bytes": 14,
+      "translation": "I-Izzy..."
     },
     {
       "index": 172,
-      "english": "So I have another chance. That's\ncomforting.",
-      "_offset": 17848,
-      "_length": 44,
-      "speaker_id": 255,
-      "translation": "Así que hay otra oportunidad.\nQué alivio."
+      "english": "Mimi, it looks like we couldn't\nget past the mechanism.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 39586,
+      "_bytes": 55,
+      "translation": "Mimi, parece que no hemos podido\nsalvar el mecanismo."
     },
     {
       "index": 173,
-      "english": "Mimi! Hang in there!",
-      "_offset": 17893,
-      "_length": 20,
-      "speaker_id": 255,
-      "translation": "Mimi! Aguanta ahí!"
+      "english": "So then...?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 39642,
+      "_bytes": 11,
+      "translation": "¿Y bien...?"
     },
     {
       "index": 174,
-      "english": "Kyaaah! I messed up again.",
-      "_offset": 17914,
-      "_length": 26,
-      "speaker_id": 255,
-      "translation": "Ahhh! La lié de nuevo."
+      "english": "Like I said, it doesn't seem to\nhave inflicted any damage, but...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 39654,
+      "_bytes": 65,
+      "translation": "Como dije, no parece que haya\nhecho ningún daño, pero..."
     },
     {
       "index": 175,
-      "english": "We'll keep at it, Mimi.",
-      "_offset": 17941,
-      "_length": 23,
-      "speaker_id": 255,
-      "translation": "Sigamos intentándolo."
+      "english": "It looks like there's no other\noption but to try it again.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 39720,
+      "_bytes": 58,
+      "translation": "Parece que no hay otra opción\nque intentarlo de nuevo."
     },
     {
       "index": 176,
-      "english": "Hyaaah!",
-      "_offset": 17965,
-      "_length": 7,
-      "speaker_id": 255,
-      "translation": "Ahhh!"
+      "english": "So I have another chance. That's\ncomforting.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 39779,
+      "_bytes": 44,
+      "translation": "Así que hay otra oportunidad.\nQué alivio."
     },
     {
       "index": 177,
-      "english": "Looks like we messed up again...",
-      "_offset": 17973,
-      "_length": 32,
-      "speaker_id": 255,
-      "translation": "Parece que fallamos otra vez..."
+      "english": "Mimi! Hang in there!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 39824,
+      "_bytes": 20,
+      "translation": "¡Mimi! ¡Aguanta ahí!"
     },
     {
       "index": 178,
-      "english": "Ugh, at this rate we're gonna\nspend the rest of our lives here.",
-      "_offset": 18006,
-      "_length": 63,
-      "speaker_id": 255,
-      "translation": "Uf, a este paso parece que nos\npasaremos la vida aquí."
+      "english": "Kyaaah! I messed up again.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 39845,
+      "_bytes": 26,
+      "translation": "¡Ahhh! La lié de nuevo."
     },
     {
       "index": 179,
-      "english": "Eh?! The rest of our lives?!",
-      "_offset": 18070,
-      "_length": 28,
-      "speaker_id": 255,
-      "translation": "Eh?! Toda la vida?!"
+      "english": "We'll keep at it, Mimi.",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 39872,
+      "_bytes": 23,
+      "translation": "Sigamos intentándolo."
     },
     {
       "index": 180,
-      "english": "I'm joking! But still, we've gotta\nfigure something out...",
-      "_offset": 18099,
-      "_length": 58,
-      "speaker_id": 255,
-      "translation": "Es broma! Pero aún así, hay que\nhacer algo..."
+      "english": "Hyaaah!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 39896,
+      "_bytes": 7,
+      "translation": "¡Ahhh!"
     },
     {
       "index": 181,
-      "english": "Mimi!",
-      "_offset": 18158,
-      "_length": 5,
-      "speaker_id": 255,
-      "translation": "Mimi!"
+      "english": "Looks like we messed up again...",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 39904,
+      "_bytes": 32,
+      "translation": "Parece que fallamos otra vez..."
     },
     {
       "index": 182,
-      "english": "Wha?",
-      "_offset": 18164,
-      "_length": 4,
-      "speaker_id": 255,
-      "translation": "Ah?"
+      "english": "Ugh, at this rate we're gonna\nspend the rest of our lives here.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 39937,
+      "_bytes": 63,
+      "translation": "Uf, a este paso parece que nos\npasaremos la vida aquí."
     },
     {
       "index": 183,
-      "english": "You did it, Mimi! You solved the\ntrap puzzle!",
-      "_offset": 18169,
-      "_length": 45,
-      "speaker_id": 255,
-      "translation": "Lo has hecho, Mimi! Solucionaste\nel puzzle!"
+      "english": "Eh?! The rest of our lives?!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 40001,
+      "_bytes": 28,
+      "translation": "¡¿Eh?! ¡¿Toda la vida?!"
     },
     {
       "index": 184,
-      "english": "Something's happening here...",
-      "_offset": 18215,
-      "_length": 29,
-      "speaker_id": 255,
-      "translation": "Algo ocurre aquí..."
+      "english": "I'm joking! But still, we've gotta\nfigure something out...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 40030,
+      "_bytes": 58,
+      "translation": "¡Es broma! Pero aun así, hay que\nhacer algo..."
     },
     {
       "index": 185,
-      "english": "Waaaah!",
-      "_offset": 18245,
-      "_length": 7,
-      "speaker_id": 255,
-      "translation": "Uaah!!"
+      "english": "Mimi!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 40089,
+      "_bytes": 5,
+      "translation": "¡Mimi!"
     },
     {
       "index": 186,
-      "english": "The mechanism released and the\ndoor opened!",
-      "_offset": 18253,
-      "_length": 43,
-      "speaker_id": 255,
-      "translation": "El mecanismo se soltó y abrió\nla puerta!"
+      "english": "Wha?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 40095,
+      "_bytes": 4,
+      "translation": "¿Ah?"
     },
     {
       "index": 187,
-      "english": "Now we can keep goin'!",
-      "_offset": 18297,
-      "_length": 22,
-      "speaker_id": 255,
-      "translation": "Ahora podemos seguir!"
+      "english": "You did it, Mimi! You solved the\ntrap puzzle!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 40100,
+      "_bytes": 45,
+      "translation": "¡Lo has hecho, Mimi! ¡Solucionaste\nel puzzle!"
     },
     {
       "index": 188,
-      "english": "Thank you, Izzy!",
-      "_offset": 18320,
-      "_length": 21,
-      "speaker_id": 255,
-      "translation": "Gracias, Izzy!"
+      "english": "Something's happening here...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 40146,
+      "_bytes": 29,
+      "translation": "Algo ocurre aquí..."
     },
     {
       "index": 189,
-      "english": "You should prepare yourself\nemotionally again. It's dangerous\nto act blindly.",
-      "_offset": 18342,
-      "_length": 77,
-      "speaker_id": 255,
-      "translation": "Deberías estar preparada\nemocionalmente. Es peligroso\nactuar a ciegas."
+      "english": "Waaaah!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 40176,
+      "_bytes": 7,
+      "translation": "¡¡Uaah!!"
     },
     {
       "index": 190,
-      "english": "...hm?",
-      "_offset": 18420,
-      "_length": 6,
-      "speaker_id": 255,
-      "translation": "...eh?"
+      "english": "The mechanism released and the\ndoor opened!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 40184,
+      "_bytes": 43,
+      "translation": "¡El mecanismo se soltó y abrió\nla puerta!"
     },
     {
       "index": 191,
-      "english": "You're too influenced by your\nemotions, Mimi; they might lead\nyou into a pit.",
-      "_offset": 18427,
-      "_length": 77,
-      "speaker_id": 255,
-      "translation": "Te afectan mucho tus emociones,\nMimi; Te pueden llevar a una\ndesgracia."
+      "english": "Now we can keep goin'!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 40228,
+      "_bytes": 22,
+      "translation": "¡Ahora podemos seguir!"
     },
     {
       "index": 192,
-      "english": "Ghhhh! What's with you? So rude!",
-      "_offset": 18505,
-      "_length": 32,
-      "speaker_id": 255,
-      "translation": "Eh! Qué pasa contigo! Que borde!"
+      "english": "Thank you, Izzy!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 40251,
+      "_bytes": 21,
+      "translation": "¡Gracias, Izzy!"
     },
     {
       "index": 193,
-      "english": "I-I'm only trying to view this\nobjectively...",
-      "_offset": 18538,
-      "_length": 45,
-      "speaker_id": 255,
-      "translation": "S-Sólo lo intento ver de forma\nobjetiva..."
+      "english": "You should prepare yourself\nemotionally again. It's dangerous\nto act blindly.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 40273,
+      "_bytes": 77,
+      "translation": "Deberías estar preparada\nemocionalmente. Es peligroso\nactuar a ciegas."
     },
     {
       "index": 194,
-      "english": "I don't care!",
-      "_offset": 18584,
-      "_length": 13,
-      "speaker_id": 255,
-      "translation": "Me da igual!"
+      "english": "...hm?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 40351,
+      "_bytes": 6,
+      "translation": "...¿eh?"
     },
     {
       "index": 195,
-      "english": "Izzy...you can't just say\nthat.",
-      "_offset": 18598,
-      "_length": 36,
-      "speaker_id": 255,
-      "translation": "Izzy... no puedes decir eso."
+      "english": "You're too influenced by your\nemotions, Mimi; they might lead\nyou into a pit.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 40358,
+      "_bytes": 77,
+      "translation": "Te afectan mucho tus emociones,\nMimi; te pueden llevar a una\ndesgracia."
     },
     {
       "index": 196,
-      "english": "There we go... ah!",
-      "_offset": 18635,
-      "_length": 18,
-      "speaker_id": 255,
-      "translation": "Allá vamos... ah!"
+      "english": "Ghhhh! What's with you? So rude!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 40436,
+      "_bytes": 32,
+      "translation": "¡Eh! ¡Qué pasa contigo! ¡Qué borde!"
     },
     {
       "index": 197,
-      "english": "Bam-bada-bam! We did it, Mimi!",
-      "_offset": 18654,
-      "_length": 30,
-      "speaker_id": 255,
-      "translation": "Badabam! Lo conseguimos, Mimi!"
+      "english": "I-I'm only trying to view this\nobjectively...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 40469,
+      "_bytes": 45,
+      "translation": "S-Sólo lo intento ver de forma\nobjetiva..."
     },
     {
       "index": 198,
-      "english": "Amazing, Mimi! You did it on your\nown!",
-      "_offset": 18685,
-      "_length": 38,
-      "speaker_id": 255,
-      "translation": "Increíble, Mimi! Todo por\ntu cuenta!"
+      "english": "I don't care!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 40515,
+      "_bytes": 13,
+      "translation": "¡Me da igual!"
     },
     {
       "index": 199,
-      "english": "Haha, look, I'm the best, aren't\nI?",
-      "_offset": 18724,
-      "_length": 35,
-      "speaker_id": 255,
-      "translation": "Jaja, sí, soy la mejor, verdad?"
+      "english": "Izzy...you can't just say\nthat.",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 40529,
+      "_bytes": 36,
+      "translation": "Izzy... no puedes decir eso."
     },
     {
       "index": 200,
-      "english": "Mimi...",
-      "_offset": 18760,
-      "_length": 7,
-      "speaker_id": 255,
-      "translation": "Mimi..."
+      "english": "There we go... ah!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 40566,
+      "_bytes": 18,
+      "translation": "¡Allá vamos... ah!"
     },
     {
       "index": 201,
-      "english": "Just kidding! I did it with\nIzzy's help, after all!",
-      "_offset": 18768,
-      "_length": 56,
-      "speaker_id": 255,
-      "translation": "Es broma! Lo hicimos con la ayuda\nde Izzy, claro!"
+      "english": "Bam-bada-bam! We did it, Mimi!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 40585,
+      "_bytes": 30,
+      "translation": "¡Badabam! ¡Lo conseguimos, Mimi!"
     },
     {
       "index": 202,
-      "english": "Mimi...",
-      "_offset": 18825,
-      "_length": 7,
-      "speaker_id": 255,
-      "translation": "Mimi..."
+      "english": "Amazing, Mimi! You did it on your\nown!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 40616,
+      "_bytes": 38,
+      "translation": "¡Increíble, Mimi! ¡Todo por\ntu cuenta!"
     },
     {
       "index": 203,
-      "english": "Well then, let's keep at it!",
-      "_offset": 18833,
-      "_length": 28,
-      "speaker_id": 255,
-      "translation": "Bueno, sigamos!"
+      "english": "Haha, look, I'm the best, aren't\nI?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 40655,
+      "_bytes": 35,
+      "translation": "Jaja, sí, soy la mejor, ¿verdad?"
     },
     {
       "index": 204,
-      "english": "Heeeeeeey!",
-      "_offset": 18862,
-      "_length": 10,
-      "speaker_id": 255,
-      "translation": "Heeeey!"
+      "english": "Mimi...",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 40691,
+      "_bytes": 7,
+      "translation": "Mimi..."
     },
     {
       "index": 205,
-      "english": "Mimi! We're gon' end up in that\ntrap again if we keep goin' that\nway!",
-      "_offset": 18873,
-      "_length": 69,
-      "speaker_id": 255,
-      "translation": "Mimi! Vamos a caer de nuevo en la\ntrampa si vamos por ahí!"
+      "english": "Just kidding! I did it with\nIzzy's help, after all!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 40699,
+      "_bytes": 56,
+      "translation": "¡Es broma! ¡Lo hicimos con la ayuda\nde Izzy, claro!"
     },
     {
       "index": 206,
-      "english": "Oh yeah, you're right.",
-      "_offset": 18943,
-      "_length": 22,
-      "speaker_id": 255,
-      "translation": "Ah, tienes razón."
+      "english": "Mimi...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 40756,
+      "_bytes": 7,
+      "translation": "Mimi..."
     },
     {
       "index": 207,
-      "english": "Mimi! We're gon' fall into a pit\nif we keep goin' that way!",
-      "_offset": 18966,
-      "_length": 59,
-      "speaker_id": 255,
-      "translation": "Mimi! Vamos a caer de nuevo en la\ntrampa si vamos por ahí!"
+      "english": "Well then, let's keep at it!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 40764,
+      "_bytes": 28,
+      "translation": "¡Bueno, sigamos!"
     },
     {
       "index": 208,
-      "english": "Oh yeah, you're right.",
-      "_offset": 19026,
-      "_length": 22,
-      "speaker_id": 255,
-      "translation": "Ah, tienes razón."
+      "english": "Heeeeeeey!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 40793,
+      "_bytes": 10,
+      "translation": "¡Heeeey!"
     },
     {
       "index": 209,
-      "english": "Intruders are invading the ruins!",
-      "_offset": 19049,
-      "_length": 33,
-      "speaker_id": 255,
-      "translation": "Intrusos invaden las ruinas!"
+      "english": "Mimi! We're gon' end up in that\ntrap again if we keep goin' that\nway!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 40804,
+      "_bytes": 69,
+      "translation": "¡Mimi! ¡Vamos a caer de nuevo en la\ntrampa si vamos por ahí!"
     },
     {
       "index": 210,
-      "english": "Mimi! Tentomon!",
-      "_offset": 19083,
-      "_length": 15,
-      "speaker_id": 255,
-      "translation": "Mimi! Tentomon!"
+      "english": "Oh yeah, you're right.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 40874,
+      "_bytes": 22,
+      "translation": "Ah, tienes razón."
     },
     {
       "index": 211,
-      "english": "What's wrong? Izzy!",
-      "_offset": 19099,
-      "_length": 24,
-      "speaker_id": 255,
-      "translation": "Qué pasa? Izzy!"
+      "english": "Mimi! We're gon' fall into a pit\nif we keep goin' that way!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 40897,
+      "_bytes": 59,
+      "translation": "¡Mimi! ¡Vamos a caer de nuevo en la\ntrampa si vamos por ahí!"
     },
     {
       "index": 212,
-      "english": "Watch out! There's a signal\nshowing a Digimon approaching from\nbehind!",
-      "_offset": 19124,
-      "_length": 70,
-      "speaker_id": 255,
-      "translation": "Cuidado! Hay una señal que\nmuestra un digimon acercándose\npor detrás!"
+      "english": "Oh yeah, you're right.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 40957,
+      "_bytes": 22,
+      "translation": "Ah, tienes razón."
     },
     {
       "index": 213,
-      "english": "No waaaaaay! Kyaaaaaah!!",
-      "_offset": 19195,
-      "_length": 24,
-      "speaker_id": 255,
-      "translation": "Oh no! Aaaaahhhhhh!"
+      "english": "Intruders are invading the ruins!",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 40980,
+      "_bytes": 33,
+      "translation": "¡Intrusos invaden las ruinas!"
     },
     {
       "index": 214,
-      "english": "Run for it!",
-      "_offset": 19220,
-      "_length": 11,
-      "speaker_id": 255,
-      "translation": "Corre!"
+      "english": "Mimi! Tentomon!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 41014,
+      "_bytes": 15,
+      "translation": "¡Mimi! ¡Tentomon!"
     },
     {
       "index": 215,
-      "english": "Heeeeeeeeelp!",
-      "_offset": 19232,
-      "_length": 13,
-      "speaker_id": 255,
-      "translation": "Ayudaaaaa!"
+      "english": "What's wrong? Izzy!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41030,
+      "_bytes": 24,
+      "translation": "¿Qué pasa? ¡Izzy!"
     },
     {
       "index": 216,
-      "english": "Kyaaaaaaaaaaaaaaah!!",
-      "_offset": 19246,
-      "_length": 20,
-      "speaker_id": 255,
-      "translation": "Aaaaaaaahhhh!"
+      "english": "Watch out! There's a signal\nshowing a Digimon approaching from\nbehind!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 41055,
+      "_bytes": 70,
+      "translation": "¡Cuidado! ¡Hay una señal que\nmuestra un Digimon acercándose\npor detrás!"
     },
     {
       "index": 217,
-      "english": "Mimi! Mimi!!",
-      "_offset": 19267,
-      "_length": 12,
-      "speaker_id": 255,
-      "translation": "Mimi! Mimi!!"
+      "english": "No waaaaaay! Kyaaaaaah!!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41126,
+      "_bytes": 24,
+      "translation": "¡Oh no! ¡Aaaaahhhhhh!"
     },
     {
       "index": 218,
-      "english": "Mimi!...Mimi!",
-      "_offset": 19280,
-      "_length": 13,
-      "speaker_id": 255,
-      "translation": "Mimi!...Mimi!"
+      "english": "Run for it!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 41151,
+      "_bytes": 11,
+      "translation": "¡Corre!"
     },
     {
       "index": 219,
-      "english": "Huh? Where's Centarumon?",
-      "_offset": 19294,
-      "_length": 24,
-      "speaker_id": 255,
-      "translation": "Eh? Y Centarumon?"
+      "english": "Heeeeeeeeelp!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41163,
+      "_bytes": 13,
+      "translation": "¡Ayudaaaaa!"
     },
     {
       "index": 220,
-      "english": "What're you saying? Come on, we\ngotta get back to Izzy and\nPalmon!",
-      "_offset": 19319,
-      "_length": 71,
-      "speaker_id": 255,
-      "translation": "Qué estás diciendo? Vamos,\ndebemos volver con Izzy y\nPalmon!"
+      "english": "Kyaaaaaaaaaaaaaaah!!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41177,
+      "_bytes": 20,
+      "translation": "¡Aaaaaaaahhhh!"
     },
     {
       "index": 221,
-      "english": "Did I just have a weird dream?",
-      "_offset": 19391,
-      "_length": 30,
-      "speaker_id": 255,
-      "translation": "He tenido sólo un sueño raro?"
+      "english": "Mimi! Mimi!!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 41198,
+      "_bytes": 12,
+      "translation": "¡Mimi! ¡¡Mimi!!"
     },
     {
       "index": 222,
-      "english": "This is bad! We're at a dead end!",
-      "_offset": 19422,
-      "_length": 33,
-      "speaker_id": 255,
-      "translation": "Oh no! No hay salida!"
+      "english": "Mimi!...Mimi!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 41211,
+      "_bytes": 13,
+      "translation": "¡Mimi!...¡Mimi!"
     },
     {
       "index": 223,
-      "english": "N-no way...",
-      "_offset": 19456,
-      "_length": 11,
-      "speaker_id": 255,
-      "translation": "N-no..."
+      "english": "Huh? Where's Centarumon?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41225,
+      "_bytes": 24,
+      "translation": "¿Eh? ¿Y Centarumon?"
     },
     {
       "index": 224,
-      "english": "Eliminate the intruders!",
-      "_offset": 19468,
-      "_length": 24,
-      "speaker_id": 255,
-      "translation": "Eliminar los intrusos!"
+      "english": "What're you saying? Come on, we\ngotta get back to Izzy and\nPalmon!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 41250,
+      "_bytes": 71,
+      "translation": "¿Qué estás diciendo? ¡Vamos,\ndebemos volver con Izzy y\nPalmon!"
     },
     {
       "index": 225,
-      "english": "A dead end?!",
-      "_offset": 19496,
-      "_length": 12,
-      "speaker_id": 255,
-      "translation": "Sin salida?!"
+      "english": "Did I just have a weird dream?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41322,
+      "_bytes": 30,
+      "translation": "¿He tenido sólo un sueño raro?"
     },
     {
       "index": 226,
-      "english": "My life's flashin' before my eyes!",
-      "_offset": 19509,
-      "_length": 34,
-      "speaker_id": 255,
-      "translation": "Ya veo la luz al final del túnel!"
+      "english": "This is bad! We're at a dead end!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 41353,
+      "_bytes": 33,
+      "translation": "¡Oh no! ¡No hay salida!"
     },
     {
       "index": 227,
-      "english": "No way! We're giving up now?",
-      "_offset": 19544,
-      "_length": 28,
-      "speaker_id": 255,
-      "translation": "Jamás! Rendirse, ahora?"
+      "english": "N-no way...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41387,
+      "_bytes": 11,
+      "translation": "N-no..."
     },
     {
       "index": 228,
-      "english": "There's no way out, and I can't\nevolve...",
-      "_offset": 19573,
-      "_length": 41,
-      "speaker_id": 255,
-      "translation": "No hay salida, no puedo\ndigievolucionar..."
+      "english": "Eliminate the intruders!",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 41399,
+      "_bytes": 24,
+      "translation": "¡Eliminar a los intrusos!"
     },
     {
       "index": 229,
-      "english": "Don't be so stingy!",
-      "_offset": 19615,
-      "_length": 19,
-      "speaker_id": 255,
-      "translation": "No seas así!"
+      "english": "!!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 41424,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 230,
-      "english": "It's not my fault! I can't evolve\nif Izzy ain't here!",
-      "_offset": 19635,
-      "_length": 58,
-      "speaker_id": 255,
-      "translation": "No es mi culpa! No puedo si no\nestá Izzy!"
+      "english": "A dead end?!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41427,
+      "_bytes": 12,
+      "translation": "¡¿Sin salida?!"
     },
     {
       "index": 231,
-      "english": "Huh? An earthquake?",
-      "_offset": 19694,
-      "_length": 19,
-      "speaker_id": 255,
-      "translation": "Eh? Un terremoto?"
+      "english": "My life's flashin' before my eyes!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 41440,
+      "_bytes": 34,
+      "translation": "¡Veo pasar mi vida ante mis ojos!"
     },
     {
       "index": 232,
-      "english": "Mimi!",
-      "_offset": 19714,
-      "_length": 5,
-      "speaker_id": 255,
-      "translation": "Mimi!"
+      "english": "No way! We're giving up now?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41475,
+      "_bytes": 28,
+      "translation": "¡Jamás! ¿Rendirse, ahora?"
     },
     {
       "index": 233,
-      "english": "Mimi! Over here!",
-      "_offset": 19720,
-      "_length": 16,
-      "speaker_id": 255,
-      "translation": "Mimi! Por aquí!"
+      "english": "There's no way out, and I can't\nevolve...",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 41504,
+      "_bytes": 41,
+      "translation": "No hay salida, no puedo\ndigievolucionar..."
     },
     {
       "index": 234,
-      "english": "Izzy! Palmon!",
-      "_offset": 19737,
-      "_length": 18,
-      "speaker_id": 255,
-      "translation": "Izzy! Palmon!"
+      "english": "Don't be so stingy!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41546,
+      "_bytes": 19,
+      "translation": "¡No seas así!"
     },
     {
       "index": 235,
-      "english": "Both of you, hurry!",
-      "_offset": 19756,
-      "_length": 19,
-      "speaker_id": 255,
-      "translation": "Ambos, corred!"
+      "english": "It's not my fault! I can't evolve\nif Izzy ain't here!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 41566,
+      "_bytes": 58,
+      "translation": "¡No es mi culpa! ¡No puedo si no\nestá Izzy!"
     },
     {
       "index": 236,
-      "english": "Okay!",
-      "_offset": 19776,
-      "_length": 5,
-      "speaker_id": 255,
-      "translation": "Vale!"
+      "english": "Huh? An earthquake?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41625,
+      "_bytes": 19,
+      "translation": "¿Eh? ¿Un terremoto?"
     },
     {
       "index": 237,
-      "english": "It's dangerous in there! We have\nto escape from Centarumon!",
-      "_offset": 19782,
-      "_length": 59,
-      "speaker_id": 255,
-      "translation": "Es peligroso estar ahí! Hay que\nescapar de Centarumon!"
+      "english": "Mimi!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 41645,
+      "_bytes": 5,
+      "translation": "¡Mimi!"
     },
     {
       "index": 238,
-      "english": "Eliminate...intruders!",
-      "_offset": 19845,
-      "_length": 22,
-      "speaker_id": 255,
-      "translation": "Eliminar...intrusos!"
+      "english": "Mimi! Over here!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 41651,
+      "_bytes": 16,
+      "translation": "¡Mimi! ¡Por aquí!"
     },
     {
       "index": 239,
-      "english": "Leave this to us, Mimi!",
-      "_offset": 19868,
-      "_length": 23,
-      "speaker_id": 255,
-      "translation": "Déjanoslo, Mimi!"
+      "english": "Izzy! Palmon!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41668,
+      "_bytes": 18,
+      "translation": "¡Izzy! ¡Palmon!"
     },
     {
       "index": 240,
-      "english": "And I can evolve, too!",
-      "_offset": 19892,
-      "_length": 22,
-      "speaker_id": 255,
-      "translation": "Puedo digievolucionar!"
+      "english": "Both of you, hurry!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 41687,
+      "_bytes": 19,
+      "translation": "¡Ambos, corred!"
     },
     {
       "index": 241,
-      "english": "Centarumon's black gear is gone!",
-      "_offset": 19915,
-      "_length": 32,
-      "speaker_id": 255,
-      "translation": "La rueda negra se ha ido!"
+      "english": "Okay!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41707,
+      "_bytes": 5,
+      "translation": "¡Vale!"
     },
     {
       "index": 242,
-      "english": "Why am I doing this...?",
-      "_offset": 19948,
-      "_length": 23,
-      "speaker_id": 255,
-      "translation": "Por qué hago esto...?"
+      "english": "It's dangerous in there! We have\nto escape from Centarumon!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 41713,
+      "_bytes": 59,
+      "translation": "¡Es peligroso estar ahí! ¡Hay que\nescapar de Centarumon!"
     },
     {
       "index": 243,
-      "english": "Looks like he's back to normal.",
-      "_offset": 19972,
-      "_length": 31,
-      "speaker_id": 255,
-      "translation": "Parece volver a la normalidad."
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 41773,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 244,
-      "english": "Looks like he's back to normal.",
-      "_offset": 20004,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Parece volver a la normalidad."
+      "english": "Eliminate...intruders!",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 41776,
+      "_bytes": 22,
+      "translation": "¡Eliminar...intrusos!"
     },
     {
       "index": 245,
-      "english": "Those things! Those things you're\nholding!",
-      "_offset": 20036,
-      "_length": 42,
-      "speaker_id": 255,
-      "translation": "Esas cosas! Esas cosas que\nsujetáis!"
+      "english": "Leave this to us, Mimi!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 41799,
+      "_bytes": 23,
+      "translation": "¡Déjanoslo, Mimi!"
     },
     {
       "index": 246,
-      "english": "There's something I want to show\nyou. Come this way.",
-      "_offset": 20082,
-      "_length": 52,
-      "speaker_id": 255,
-      "translation": "Quiero enseñaros algo.\nVenid."
+      "english": "And I can evolve, too!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 41823,
+      "_bytes": 22,
+      "translation": "¡Puedo digievolucionar!"
     },
     {
       "index": 247,
-      "english": "This is the holy device, the\n\"Digivice\". I have long protected\nits ruins.",
-      "_offset": 20140,
-      "_length": 73,
-      "speaker_id": 255,
-      "translation": "Es el dispositivo sagrado, el\n\"Digivice\". He protegido sus\nruinas."
+      "english": "Centarumon's black gear is gone!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 41846,
+      "_bytes": 32,
+      "translation": "¡La rueda negra se ha ido!"
     },
     {
       "index": 248,
-      "english": "The holy device...",
-      "_offset": 20214,
-      "_length": 18,
-      "speaker_id": 255,
-      "translation": "Sagrado..."
+      "english": "Why am I doing this...?",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 41879,
+      "_bytes": 23,
+      "translation": "¿Por qué hago esto...?"
     },
     {
       "index": 249,
-      "english": "...the Digivice?",
-      "_offset": 20233,
-      "_length": 16,
-      "speaker_id": 255,
-      "translation": "...el Digivice?"
+      "english": "Looks like he's back to normal.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 41903,
+      "_bytes": 31,
+      "translation": "Parece volver a la normalidad."
     },
     {
       "index": 250,
-      "english": "That is the holy Digivice of\nlegend. It brings light to this\nworld and drives out the darkness.",
-      "_offset": 20250,
-      "_length": 95,
-      "speaker_id": 255,
-      "translation": "Es el Digivice de la leyenda.\nTrae luz a este mundo y elimina\nla oscuridad."
+      "english": "Looks like he's back to normal.",
+      "speaker_id": 8011,
+      "line_type": 2,
+      "_offset": 41935,
+      "_bytes": 31,
+      "translation": "Parece volver a la normalidad."
     },
     {
       "index": 251,
-      "english": "I don't really understand, but\nyou're saying it's good to have\nthese, right?",
-      "_offset": 20346,
-      "_length": 76,
-      "speaker_id": 255,
-      "translation": "No entiendo, pero entiendo que\nes algo bueno que los tengamos,\nverdad?"
+      "english": "Those things! Those things you're\nholding!",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 41967,
+      "_bytes": 42,
+      "translation": "¡Esas cosas! ¡Esas cosas que\nsujetáis!"
     },
     {
       "index": 252,
-      "english": "Kill...the children!",
-      "_offset": 20423,
-      "_length": 20,
-      "speaker_id": 255,
-      "translation": "Matar...a los niños!"
+      "english": "??",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 42010,
+      "_bytes": 2,
+      "translation": "??"
     },
     {
       "index": 253,
-      "english": "...Leomon?!",
-      "_offset": 20444,
-      "_length": 11,
-      "speaker_id": 255,
-      "translation": "...Leomon?!"
+      "english": "There's something I want to show\nyou. Come this way.",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 42013,
+      "_bytes": 52,
+      "translation": "Quiero enseñaros algo.\nVenid."
     },
     {
       "index": 254,
-      "english": "Aaaah!",
-      "_offset": 20456,
-      "_length": 6,
-      "speaker_id": 255,
-      "translation": "Ahhh!"
+      "english": "...?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 42066,
+      "_bytes": 4,
+      "translation": "...?"
     },
     {
       "index": 255,
-      "english": "Those who interfere with our\nobjective...",
-      "_offset": 20463,
-      "_length": 41,
-      "speaker_id": 255,
-      "translation": "Los que interfieren con el\nobjetivo..."
+      "english": "This is the holy device, the\n\"Digivice\". I have long protected\nits ruins.",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 42071,
+      "_bytes": 73,
+      "translation": "Es el dispositivo sagrado, el\n\"Digivice\". He protegido sus\nruinas."
     },
     {
       "index": 256,
-      "english": "Leomon! It's happened to you, too!",
-      "_offset": 20505,
-      "_length": 34,
-      "speaker_id": 255,
-      "translation": "Leomon! Te ha pasado también!"
+      "english": "The holy device...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 42145,
+      "_bytes": 18,
+      "translation": "El dispositivo sagrado..."
     },
     {
       "index": 257,
-      "english": "Kill...the children!",
-      "_offset": 20540,
-      "_length": 20,
-      "speaker_id": 255,
-      "translation": "Matar...los niños!"
+      "english": "...the Digivice?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 42164,
+      "_bytes": 16,
+      "translation": "...¿el Digivice?"
     },
     {
       "index": 258,
-      "english": "It \"brings light and drives out\nthe darkness\"...The Digivice.\nThat's it! Mimi!",
-      "_offset": 20561,
-      "_length": 78,
-      "speaker_id": 255,
-      "translation": "\"Trae luz y elimina la\noscuridad\"... El Digivice.\nEso es! Mimi!"
+      "english": "That is the holy Digivice of\nlegend. It brings light to this\nworld and drives out the darkness.",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 42181,
+      "_bytes": 95,
+      "translation": "Es el Digivice de la leyenda.\nTrae luz a este mundo y elimina\nla oscuridad."
     },
     {
       "index": 259,
-      "english": "Huh? Me?",
-      "_offset": 20640,
-      "_length": 8,
-      "speaker_id": 255,
-      "translation": "Eh? Yo?"
+      "english": "I don't really understand, but\nyou're saying it's good to have\nthese, right?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 42277,
+      "_bytes": 76,
+      "translation": "No entiendo, pero entiendo que\nes algo bueno que los tengamos,\n¿verdad?"
     },
     {
       "index": 260,
-      "english": "Ughhhhh!!",
-      "_offset": 20649,
-      "_length": 9,
-      "speaker_id": 255,
-      "translation": "Uhhhh!"
+      "english": "Kill...the children!",
+      "speaker_id": 4071,
+      "line_type": 2,
+      "_offset": 42354,
+      "_bytes": 20,
+      "translation": "¡Matar...a los niños!"
     },
     {
       "index": 261,
-      "english": "He's gone...did he run away?",
-      "_offset": 20659,
-      "_length": 28,
-      "speaker_id": 255,
-      "translation": "Se fue... ha escapado?"
+      "english": "...Leomon?!",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 42375,
+      "_bytes": 11,
+      "translation": "...¡¿Leomon?!"
     },
     {
       "index": 262,
-      "english": "Is this the power of the holy\ndevice?",
-      "_offset": 20688,
-      "_length": 37,
-      "speaker_id": 255,
-      "translation": "Este es el poder del\nDigivice?"
+      "english": "Aaaah!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 42387,
+      "_bytes": 6,
+      "translation": "¡Ahhh!"
     },
     {
       "index": 263,
-      "english": "We survived, but I'm still pretty\nhungry.",
-      "_offset": 20726,
-      "_length": 41,
-      "speaker_id": 255,
-      "translation": "Sobrevivimos, pero sigo teniendo\nhambre."
+      "english": "Those who interfere with our\nobjective...",
+      "speaker_id": 4071,
+      "line_type": 2,
+      "_offset": 42394,
+      "_bytes": 41,
+      "translation": "Los que interfieren con el\nobjetivo..."
     },
     {
       "index": 264,
-      "english": "Centarumon, do you know how to\nstop the gears in these ruins?",
-      "_offset": 20768,
-      "_length": 61,
-      "speaker_id": 255,
-      "translation": "Centarumon, sabes como parar las\nruedas de estas ruinas?"
+      "english": "Leomon! It's happened to you, too!",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 42436,
+      "_bytes": 34,
+      "translation": "¡Leomon! ¡Te ha pasado también!"
     },
     {
       "index": 265,
-      "english": "No, there is nothing I can do\nagainst this dark power.",
-      "_offset": 20830,
-      "_length": 54,
-      "speaker_id": 255,
-      "translation": "No, no puedo hacer nada contra\neste poder oscuro."
+      "english": "Kill...the children!",
+      "speaker_id": 4071,
+      "line_type": 2,
+      "_offset": 42471,
+      "_bytes": 20,
+      "translation": "¡Matar...a los niños!"
     },
     {
       "index": 266,
-      "english": "Looks like I really do have no\nchoice but to analyze this data.",
-      "_offset": 20885,
-      "_length": 63,
-      "speaker_id": 255,
-      "translation": "Parece que no hay más opción que\nanalizar los datos."
+      "english": "It \"brings light and drives out\nthe darkness\"...The Digivice.\nThat's it! Mimi!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 42492,
+      "_bytes": 78,
+      "translation": "\"Trae luz y elimina la\noscuridad\"... El Digivice.\n¡Eso es! ¡Mimi!"
     },
     {
       "index": 267,
-      "english": "Ugh, we're gonna end up waiting a\nmillion years! Hyah!",
-      "_offset": 20949,
-      "_length": 54,
-      "speaker_id": 255,
-      "translation": "Uf, vamos a tardar un millón de\naños! Ah!"
+      "english": "Huh? Me?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 42571,
+      "_bytes": 8,
+      "translation": "¿Eh? ¿Yo?"
     },
     {
       "index": 268,
-      "english": "Ah!!",
-      "_offset": 21004,
-      "_length": 4,
-      "speaker_id": 255,
-      "translation": "Ah!!"
+      "english": "Ughhhhh!!",
+      "speaker_id": 4071,
+      "line_type": 2,
+      "_offset": 42580,
+      "_bytes": 9,
+      "translation": "¡Uhhhh!"
     },
     {
       "index": 269,
-      "english": "The island is moving! It's going\nback!",
-      "_offset": 21009,
-      "_length": 38,
-      "speaker_id": 255,
-      "translation": "La isla se mueve! Va hacia atrás!"
+      "english": "He's gone...did he run away?",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 42590,
+      "_bytes": 28,
+      "translation": "¿Se fue... ha escapado?"
     },
     {
       "index": 270,
-      "english": "See?",
-      "_offset": 21048,
-      "_length": 4,
-      "speaker_id": 255,
-      "translation": "Ves?"
+      "english": "Is this the power of the holy\ndevice?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 42619,
+      "_bytes": 37,
+      "translation": "¿Este es el poder del\nDigivice?"
     },
     {
       "index": 271,
-      "english": "I guess sometimes you won't know\nif you don't try.",
-      "_offset": 21053,
-      "_length": 50,
-      "speaker_id": 255,
-      "translation": "Supongo que a veces no sabes\nhasta que no pruebas."
+      "english": "We survived, but I'm still pretty\nhungry.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 42657,
+      "_bytes": 41,
+      "translation": "Sobrevivimos, pero sigo teniendo\nhambre."
     },
     {
       "index": 272,
-      "english": "But more importantly, I'm\nstarving!",
-      "_offset": 21104,
-      "_length": 35,
-      "speaker_id": 255,
-      "translation": "Lo importante, me muero de\nhambre!"
+      "english": "Centarumon, do you know how to\nstop the gears in these ruins?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 42699,
+      "_bytes": 61,
+      "translation": "Centarumon, ¿sabes cómo parar las\nruedas de estas ruinas?"
     },
     {
       "index": 273,
-      "english": "First failure",
-      "_offset": 21140,
-      "_length": 13,
-      "speaker_id": 255,
-      "translation": "Primer fallo"
+      "english": "No, there is nothing I can do\nagainst this dark power.",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 42761,
+      "_bytes": 54,
+      "translation": "No, no puedo hacer nada contra\neste poder oscuro."
     },
     {
       "index": 274,
-      "english": "Second failure",
-      "_offset": 21154,
-      "_length": 14,
-      "speaker_id": 255,
-      "translation": "Segundo fallo"
+      "english": "Looks like I really do have no\nchoice but to analyze this data.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 42816,
+      "_bytes": 63,
+      "translation": "Parece que no hay más opción que\nanalizar los datos."
     },
     {
       "index": 275,
-      "english": "Third failure",
-      "_offset": 21169,
-      "_length": 13,
-      "speaker_id": 255,
-      "translation": "Tercer fallo"
+      "english": "Ugh, we're gonna end up waiting a\nmillion years! Hyah!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 42880,
+      "_bytes": 54,
+      "translation": "¡Uf, vamos a tardar un millón de\naños! ¡Ah!"
     },
     {
       "index": 276,
-      "english": "Won't work anymore, clear\nobligation",
-      "_offset": 21183,
-      "_length": 36,
-      "speaker_id": 255,
-      "translation": "No funcionará más"
+      "english": "Ah!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 42935,
+      "_bytes": 4,
+      "translation": "¡¡Ah!!"
     },
     {
       "index": 277,
-      "english": "Cleared on the first time",
-      "_offset": 21220,
-      "_length": 25,
-      "speaker_id": 255,
-      "translation": "Conseguido a la primera"
+      "english": "The island is moving! It's going\nback!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 42940,
+      "_bytes": 38,
+      "translation": "¡La isla se mueve! ¡Va hacia atrás!"
     },
     {
       "index": 278,
-      "english": "Did we stop falling?",
-      "_offset": 21246,
-      "_length": 20,
-      "speaker_id": 255,
-      "translation": "Paramos de caer?"
+      "english": "See?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 42979,
+      "_bytes": 4,
+      "translation": "¿Ves?"
     },
     {
       "index": 279,
-      "english": "My heart was in a rush...",
-      "_offset": 21267,
-      "_length": 25,
-      "speaker_id": 255,
-      "translation": "Mi corazón iba a mil..."
+      "english": "I guess sometimes you won't know\nif you don't try.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 42984,
+      "_bytes": 50,
+      "translation": "Supongo que a veces no sabes\nhasta que no pruebas."
     },
     {
       "index": 280,
-      "english": "Mi...m...a...yo...kay...",
-      "_offset": 21293,
-      "_length": 24,
-      "speaker_id": 255,
-      "translation": "Mi...m...a...yo...kay..."
+      "english": "But more importantly, I'm\nstarving!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 43035,
+      "_bytes": 35,
+      "translation": "Y lo más importante: ¡me muero\nde hambre!"
     },
     {
       "index": 281,
-      "english": "Kyaaaaah! What's that voice?!",
-      "_offset": 21318,
-      "_length": 29,
-      "speaker_id": 255,
-      "translation": "Ahhh! qué es esa voz?!"
+      "english": "First failure",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 43071,
+      "_bytes": 13,
+      "translation": "Primer fallo"
     },
     {
       "index": 282,
-      "english": "I can't see nothin', but I hear\nsomethin'. Could it be a ghost?",
-      "_offset": 21348,
-      "_length": 63,
-      "speaker_id": 255,
-      "translation": "No veo nada, pero escucho algo.\nSerá un fantasma?"
+      "english": "Second failure",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 43085,
+      "_bytes": 14,
+      "translation": "Segundo fallo"
     },
     {
       "index": 283,
-      "english": "No, no, no, stop that! Who are\nyou? Say something!",
-      "_offset": 21412,
-      "_length": 50,
-      "speaker_id": 255,
-      "translation": "No, no, no, para! Quién eres!\nDi algo!"
+      "english": "Third failure",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 43100,
+      "_bytes": 13,
+      "translation": "Tercer fallo"
     },
     {
       "index": 284,
-      "english": "...Mi...! Mimi! It's me,\nIzzy!",
-      "_offset": 21463,
-      "_length": 35,
-      "speaker_id": 255,
-      "translation": "...Mi...! Mimi! Soy yo,\nIzzy!"
+      "english": "Won't work anymore, clear\nobligation",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 43114,
+      "_bytes": 36,
+      "translation": "No funcionará más"
     },
     {
       "index": 285,
-      "english": "Izzy?!",
-      "_offset": 21499,
-      "_length": 11,
-      "speaker_id": 255,
-      "translation": "Izzy?!"
+      "english": "Cleared on the first time",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 43151,
+      "_bytes": 25,
+      "translation": "Conseguido a la primera"
     },
     {
       "index": 286,
-      "english": "Thank goodness, are you safe?\nTentomon too, are you okay?",
-      "_offset": 21511,
-      "_length": 57,
-      "speaker_id": 255,
-      "translation": "Menos mal, estás bien?\nTentomon también, estás bien?"
+      "english": "Did we stop falling?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 43177,
+      "_bytes": 20,
+      "translation": "¿Paramos de caer?"
     },
     {
       "index": 287,
-      "english": "We're fine!",
-      "_offset": 21569,
-      "_length": 11,
-      "speaker_id": 255,
-      "translation": "Ambos bien!"
+      "english": "My heart was in a rush...",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 43198,
+      "_bytes": 25,
+      "translation": "Mi corazón iba a mil..."
     },
     {
       "index": 288,
-      "english": "What are you talking about? The\nproblem is this pile!",
-      "_offset": 21581,
-      "_length": 53,
-      "speaker_id": 255,
-      "translation": "De qué hablas? El problema\nes este montón?"
+      "english": "Mi...m...a...yo...kay...",
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 43224,
+      "_bytes": 24,
+      "translation": "Mi...m...a...yo...kay..."
     },
     {
       "index": 289,
-      "english": "I've decrypted the equipment\nin these ruins. You can think\nof them like speakers.",
-      "_offset": 21635,
-      "_length": 81,
-      "speaker_id": 255,
-      "translation": "He descifrado el equipamiento\nde estas ruinas. Son algo como\naltavoces."
+      "english": "Kyaaaaah! What's that voice?!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 43249,
+      "_bytes": 29,
+      "translation": "¡Ahhh! ¡¿Qué es esa voz?!"
     },
     {
       "index": 290,
-      "english": "Hm?",
-      "_offset": 21717,
-      "_length": 3,
-      "speaker_id": 255,
-      "translation": "Eh?"
+      "english": "I can't see nothin', but I hear\nsomethin'. Could it be a ghost?",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 43279,
+      "_bytes": 63,
+      "translation": "No veo nada, pero escucho algo.\n¿Será un fantasma?"
     },
     {
       "index": 291,
-      "english": "Mimi, I'm here too! Are you okay?",
-      "_offset": 21721,
-      "_length": 33,
-      "speaker_id": 255,
-      "translation": "Mimi, estoy aquí!\nEstás bien?"
+      "english": "No, no, no, stop that! Who are\nyou? Say something!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 43343,
+      "_bytes": 50,
+      "translation": "¡No, no, no, para! ¿Quién eres?\n¡Di algo!"
     },
     {
       "index": 292,
-      "english": "You too, Palmon! We're fine! Rest\neasy!",
-      "_offset": 21755,
-      "_length": 39,
-      "speaker_id": 255,
-      "translation": "Palmon! Estamos bien! No te\npreocupes!"
+      "english": "...Mi...! Mimi! It's me,\nIzzy!",
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 43394,
+      "_bytes": 35,
+      "translation": "...¡Mi...! ¡Mimi! ¡Soy yo,\nIzzy!"
     },
     {
       "index": 293,
-      "english": "By the way...",
-      "_offset": 21795,
-      "_length": 13,
-      "speaker_id": 255,
-      "translation": "Por cierto..."
+      "english": "Izzy?!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 43430,
+      "_bytes": 11,
+      "translation": "¡¿Izzy?!"
     },
     {
       "index": 294,
-      "english": "It seems like you two\nhave fallen into a pit.",
-      "_offset": 21809,
-      "_length": 45,
-      "speaker_id": 255,
-      "translation": "Parece que habéis caído\nen un foso."
+      "english": "Thank goodness, are you safe?\nTentomon too, are you okay?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 43442,
+      "_bytes": 57,
+      "translation": "Menos mal. ¿Estás bien?\nY tú, Tentomon, ¿estás bien?"
     },
     {
       "index": 295,
-      "english": "If you want to find the right way,\nyou need the crest of another\nroom.",
-      "_offset": 21855,
-      "_length": 70,
-      "speaker_id": 255,
-      "translation": "Si queréis encontrar la salida,\nnecesitáis el simbolo de otra\nsala."
+      "english": "We're fine!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 43500,
+      "_bytes": 11,
+      "translation": "¡Ambos bien!"
     },
     {
       "index": 296,
-      "english": "Ah, we're finally safe. We cleared\nthat pit area.",
-      "_offset": 21926,
-      "_length": 49,
-      "speaker_id": 255,
-      "translation": "Ah, por fin seguros. Salvamos el \nfoso."
+      "english": "What are you talking about? The\nproblem is this pile!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 43512,
+      "_bytes": 53,
+      "translation": "¿De qué hablas? ¡El problema\nes este montón!"
     },
     {
       "index": 297,
-      "english": "Ehhh?!",
-      "_offset": 21976,
-      "_length": 6,
-      "speaker_id": 255,
-      "translation": "Ehh?!"
+      "english": "I've decrypted the equipment\nin these ruins. You can think\nof them like speakers.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 43566,
+      "_bytes": 81,
+      "translation": "He descifrado el equipamiento\nde estas ruinas. Son algo como\naltavoces."
     },
     {
       "index": 298,
-      "english": "Y-you cleared that on your own?",
-      "_offset": 21983,
-      "_length": 31,
-      "speaker_id": 255,
-      "translation": "Has hecho eso tú sola?"
+      "english": "Hm?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 43648,
+      "_bytes": 3,
+      "translation": "¿Eh?"
     },
     {
       "index": 299,
-      "english": "Something like that. No problem!",
-      "_offset": 22015,
-      "_length": 32,
-      "speaker_id": 255,
-      "translation": "Algo así. Sin problema!"
+      "english": "Mimi, I'm here too! Are you okay?",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 43652,
+      "_bytes": 33,
+      "translation": "Mimi, ¡estoy aquí! ¿Estás bien?"
     },
     {
       "index": 300,
-      "english": "Mimi! That was amazing!",
-      "_offset": 22048,
-      "_length": 23,
-      "speaker_id": 255,
-      "translation": "Mimi! Genial!"
+      "english": "You too, Palmon! We're fine! Rest\neasy!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 43686,
+      "_bytes": 39,
+      "translation": "¡Palmon! ¡Estamos bien! ¡No te\npreocupes!"
     },
     {
       "index": 301,
-      "english": "That really was amazing.",
-      "_offset": 22072,
-      "_length": 24,
-      "speaker_id": 255,
-      "translation": "Ha sido increíble."
+      "english": "By the way...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 43726,
+      "_bytes": 13,
+      "translation": "Por cierto..."
     },
     {
       "index": 302,
-      "english": "Still, be careful as you keep\ngoing.",
-      "_offset": 22097,
-      "_length": 36,
-      "speaker_id": 255,
-      "translation": "Aún así, ten cuidado."
+      "english": "It seems like you two\nhave fallen into a pit.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 43740,
+      "_bytes": 45,
+      "translation": "Parece que habéis caído\nen un foso."
     },
     {
       "index": 303,
+      "english": "If you want to find the right way,\nyou need the crest of another\nroom.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 43786,
+      "_bytes": 70,
+      "translation": "Si queréis encontrar la salida,\nnecesitáis el símbolo de otra\nsala."
+    },
+    {
+      "index": 304,
+      "english": "Ah, we're finally safe. We cleared\nthat pit area.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 43857,
+      "_bytes": 49,
+      "translation": "Ah, por fin seguros. Salvamos el \nfoso."
+    },
+    {
+      "index": 305,
+      "english": "Ehhh?!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 43907,
+      "_bytes": 6,
+      "translation": "¡¿Ehh?!"
+    },
+    {
+      "index": 306,
+      "english": "Y-you cleared that on your own?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 43914,
+      "_bytes": 31,
+      "translation": "¿Has hecho eso tú sola?"
+    },
+    {
+      "index": 307,
+      "english": "Something like that. No problem!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 43946,
+      "_bytes": 32,
+      "translation": "Algo así. ¡Sin problema!"
+    },
+    {
+      "index": 308,
+      "english": "Mimi! That was amazing!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 43979,
+      "_bytes": 23,
+      "translation": "¡Mimi! ¡Genial!"
+    },
+    {
+      "index": 309,
+      "english": "That really was amazing.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 44003,
+      "_bytes": 24,
+      "translation": "Ha sido increíble."
+    },
+    {
+      "index": 310,
+      "english": "Still, be careful as you keep\ngoing.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 44028,
+      "_bytes": 36,
+      "translation": "Aun así, ten cuidado."
+    },
+    {
+      "index": 311,
       "english": "I'll continue investigating, I\nwant to help you as much as I can.",
-      "_offset": 22134,
-      "_length": 65,
-      "speaker_id": 255,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 44065,
+      "_bytes": 65,
       "translation": "Continúo investigando, te quiero\nayudar todo lo que pueda."
     }
   ]

@@ -1,181 +1,214 @@
 {
   "file_id": "3525",
-  "text_count": 22,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 23,
   "dialog": [
     {
       "index": 0,
-      "english": "��������This place is all damp and\ndisgusting.",
-      "_offset": 843,
-      "_length": 46,
-      "speaker_id": 0,
+      "english": "This place is all damp and\ndisgusting.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 2520,
+      "_bytes": 38,
       "translation": "Este lugar está húmedo y\nasqueroso."
     },
     {
       "index": 1,
       "english": "Yeah.",
-      "_offset": 890,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Si."
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2559,
+      "_bytes": 5,
+      "translation": "Sí."
     },
     {
       "index": 2,
       "english": "Kyaah!",
-      "_offset": 896,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Ahh!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 2565,
+      "_bytes": 6,
+      "translation": "¡Ahh!"
     },
     {
       "index": 3,
-      "english": "What's wrong, Mimi?",
-      "_offset": 906,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Qué pasa, Mimi?"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 2572,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 4,
-      "english": "Look, this place is full of those\nNumemon!",
-      "_offset": 926,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Mira, está hasta arriba de\nNumemon!"
+      "english": "What's wrong, Mimi?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2575,
+      "_bytes": 19,
+      "translation": "¿Qué pasa, Mimi?"
     },
     {
       "index": 5,
-      "english": "You're right. Should we try to go\nthrough them?",
-      "_offset": 969,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Es verdad. Deberíamos ir a través\nde ellos?"
+      "english": "Look, this place is full of those\nNumemon!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 2595,
+      "_bytes": 42,
+      "translation": "¡Mira, está hasta arriba de\nNumemon!"
     },
     {
       "index": 6,
-      "english": "All we can do is try to avoid\nthem. Let's hurry up and get\nthrough here.",
-      "_offset": 1017,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "Todo lo que podemos hacer es\ntratar de esquivarlos. Démonos\nprisa."
+      "english": "You're right. Should we try to go\nthrough them?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 2638,
+      "_bytes": 47,
+      "translation": "Es verdad. ¿Deberíamos ir a través\nde ellos?"
     },
     {
       "index": 7,
-      "english": "Hey, I can see light!",
-      "_offset": 1090,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Eh, veo luz!"
+      "english": "All we can do is try to avoid\nthem. Let's hurry up and get\nthrough here.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2686,
+      "_bytes": 72,
+      "translation": "Todo lo que podemos hacer es\ntratar de esquivarlos. Démonos\nprisa."
     },
     {
       "index": 8,
-      "english": "All right! We found the exit!",
-      "_offset": 1112,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Si! Encontramos la salida!"
+      "english": "Hey, I can see light!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 2759,
+      "_bytes": 21,
+      "translation": "¡Eh, veo luz!"
     },
     {
       "index": 9,
-      "english": "Ugh, we're finally free of those\nslimy Numemon.",
-      "_offset": 1142,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Ugh, por fin los libramos de los\nNumemon."
+      "english": "All right! We found the exit!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2781,
+      "_bytes": 29,
+      "translation": "¡Sí! ¡Encontramos la salida!"
     },
     {
       "index": 10,
-      "english": "Nunu! Looks like I've caught a\nsuspicious bunch sneaking around!",
-      "_offset": 1190,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "Nunu! Parece que encontramos\ngente sospechosa merodeando!"
+      "english": "Ugh, we're finally free of those\nslimy Numemon.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 2811,
+      "_bytes": 47,
+      "translation": "Ugh, por fin nos libramos de\nlos Numemon."
     },
     {
       "index": 11,
-      "english": "Aaaah!",
-      "_offset": 1255,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Ahh!"
+      "english": "Nunu! Looks like I've caught a\nsuspicious bunch sneaking around!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 2859,
+      "_bytes": 64,
+      "translation": "¡Nunu! ¡Parece que encontramos\ngente sospechosa merodeando!"
     },
     {
       "index": 12,
-      "english": "Are you okay, T.K?!",
-      "_offset": 1262,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Estás bien, T.K?!"
+      "english": "Aaaah!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 2924,
+      "_bytes": 6,
+      "translation": "¡Ahh!"
     },
     {
       "index": 13,
-      "english": "Yeah...but my face feels all\nyucky.",
-      "_offset": 1285,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Si, pero tengo la cara sucia."
+      "english": "Are you okay, T.K?!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 2931,
+      "_bytes": 22,
+      "translation": "¡¿Estás bien, T.K.?!"
     },
     {
       "index": 14,
-      "english": "You can use my handkerchief.",
-      "_offset": 1321,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Puedes usar mi pañuelo."
+      "english": "Yeah...but my face feels all\nyucky.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 2954,
+      "_bytes": 35,
+      "translation": "Sí, pero tengo la cara sucia."
     },
     {
       "index": 15,
-      "english": "Let's look for some water later.",
-      "_offset": 1350,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Busquemos agua más tarde."
+      "english": "You can use my handkerchief.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 2990,
+      "_bytes": 28,
+      "translation": "Puedes usar mi pañuelo."
     },
     {
       "index": 16,
-      "english": "What? But I'll get your\nhandkerchief all dirty!",
-      "_offset": 1383,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Que? Pero te ensuciaré todo el\npañuelo!"
+      "english": "Let's look for some water later.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 3019,
+      "_bytes": 32,
+      "translation": "Busquemos agua más tarde."
     },
     {
       "index": 17,
-      "english": "The point of a handkerchief is for\nit to get dirty, right?",
-      "_offset": 1431,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Para eso sirve un pañuelo, no es\ncierto?"
+      "english": "What? But I'll get your\nhandkerchief all dirty!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3052,
+      "_bytes": 47,
+      "translation": "¿Qué? ¡Pero te ensuciaré todo el\npañuelo!"
     },
     {
       "index": 18,
-      "english": "Thank you, Mimi!",
-      "_offset": 1490,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Gracias, Mimi!"
+      "english": "The point of a handkerchief is for\nit to get dirty, right?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 3100,
+      "_bytes": 58,
+      "translation": "Para eso sirve un pañuelo, ¿no es\ncierto?"
     },
     {
       "index": 19,
-      "english": "Okay. But it feels really bad.",
-      "_offset": 1507,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Vale. Pero es desagradable."
+      "english": "Thank you, Mimi!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3159,
+      "_bytes": 16,
+      "translation": "¡Gracias, Mimi!"
     },
     {
       "index": 20,
-      "english": "Here, use my towel to wipe your\nface.",
-      "_offset": 1538,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Toma, usa mi toalla para\nlimpiarte."
+      "english": "Okay. But it feels really bad.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3176,
+      "_bytes": 30,
+      "translation": "Vale. Pero es desagradable."
     },
     {
       "index": 21,
+      "english": "Here, use my towel to wipe your\nface.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 3207,
+      "_bytes": 37,
+      "translation": "Toma, usa mi toalla para\nlimpiarte."
+    },
+    {
+      "index": 22,
       "english": "Thanks, Matt.",
-      "_offset": 1576,
-      "_length": 15,
-      "speaker_id": 0,
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3245,
+      "_bytes": 15,
       "translation": "Gracias, Matt."
     }
   ]

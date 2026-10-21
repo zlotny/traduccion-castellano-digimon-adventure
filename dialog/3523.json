@@ -1,1270 +1,1439 @@
 {
   "file_id": "3523",
-  "text_count": 158,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 159,
   "dialog": [
     {
       "index": 0,
-      "english": "��������What's that sound?!",
-      "_offset": 3812,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Qué es ese sonido?!"
+      "english": "What's that sound?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15992,
+      "_bytes": 19,
+      "translation": "¡¿Qué es ese sonido?!"
     },
     {
       "index": 1,
       "english": "It sounded like a gear.",
-      "_offset": 3840,
-      "_length": 23,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16012,
+      "_bytes": 23,
       "translation": "Parece un engranaje."
     },
     {
       "index": 2,
       "english": "It wasn't a flying saucer, was it?",
-      "_offset": 3864,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "No será un platillo volador, no?"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16036,
+      "_bytes": 34,
+      "translation": "No será un platillo volante, ¿no?"
     },
     {
       "index": 3,
       "english": "Whatever it is, it doesn't give me\na good feeling.",
-      "_offset": 3899,
-      "_length": 50,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16071,
+      "_bytes": 50,
       "translation": "Sea lo que sea... no me gusta."
     },
     {
       "index": 4,
       "english": "Yeah. Well, standing here talking \nabout it won't get us anywhere. \nShould we try following it?",
-      "_offset": 3950,
-      "_length": 95,
-      "speaker_id": 0,
-      "translation": "Ya... Bueno, quedarnos aquí\ncharlando no nos lleva a ningún\nlado. Lo seguimos?"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16122,
+      "_bytes": 95,
+      "translation": "Ya... Bueno, quedarnos aquí\ncharlando no nos lleva a ningún\nlado. ¿Lo seguimos?"
     },
     {
       "index": 5,
       "english": "Instead of worrying about that, we\nshould look for clues to see if\nthere are any other humans here.",
-      "_offset": 4046,
-      "_length": 99,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16218,
+      "_bytes": 99,
       "translation": "En vez de preocuparnos por eso,\ndeberíamos buscar pistas de si\nhay otros seres humanos aquí."
     },
     {
       "index": 6,
       "english": "Hey, Sora!",
-      "_offset": 4146,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Eh, Sora!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 16318,
+      "_bytes": 10,
+      "translation": "¡Eh, Sora!"
     },
     {
       "index": 7,
       "english": "What is it, Piyomon?",
-      "_offset": 4157,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Que pasa, Piyomon?"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16329,
+      "_bytes": 20,
+      "translation": "¿Qué pasa, Piyomon?"
     },
     {
       "index": 8,
       "english": "I feel better since we're \ntraveling together, Sora! I want\nto learn all I can about you!",
-      "_offset": 4178,
-      "_length": 89,
-      "speaker_id": 0,
-      "translation": "Me siento mejor desde que\nviajamos juntas, Sora! Quiero\naprender todo sobre ti!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 16350,
+      "_bytes": 89,
+      "translation": "¡Me siento mejor desde que\nviajamos juntas, Sora! ¡Quiero\naprender todo sobre ti!"
     },
     {
       "index": 9,
       "english": "You're just going out and saying\nthat outright...",
-      "_offset": 4268,
-      "_length": 49,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16440,
+      "_bytes": 49,
       "translation": "Y simplemente lo piensas y lo\ndices, así sin más."
     },
     {
       "index": 10,
       "english": "Piyomon's a real friendly Digimon.",
-      "_offset": 4318,
-      "_length": 34,
-      "speaker_id": 0,
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 16490,
+      "_bytes": 34,
       "translation": "Piyomon es un Digimon amigable."
     },
     {
       "index": 11,
       "english": "Hey, Sora! Let's hold hands!",
-      "_offset": 4353,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Eh Sora! Vayamos de la mano!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 16525,
+      "_bytes": 28,
+      "translation": "¡Eh Sora! ¡Vayamos de la mano!"
     },
     {
       "index": 12,
       "english": "(Can I really get along with a\nclingy Digimon like her?)",
-      "_offset": 4382,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "(Podré llevarme bien con un\nDigimon tan pegajoso?)"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16554,
+      "_bytes": 56,
+      "translation": "(¿Podré llevarme bien con un\nDigimon tan pegajoso?)"
     },
     {
       "index": 13,
       "english": "The road!",
-      "_offset": 4439,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Camino!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16611,
+      "_bytes": 9,
+      "translation": "¡Camino!"
     },
     {
       "index": 14,
       "english": "Sora! I don't care how much sand\nthere is, I'll follow you wherever\nyou go!",
-      "_offset": 4449,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "Sora! No me importa cuánta arena\nhaya. Te seguiré vayas a dónde\nvayas!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 16621,
+      "_bytes": 75,
+      "translation": "¡Sora! No me importa cuánta arena\nhaya. ¡Te seguiré vayas adonde\nvayas!"
     },
     {
       "index": 15,
       "english": "Wait! Piyomon!",
-      "_offset": 4525,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Para! Piyomon!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16697,
+      "_bytes": 14,
+      "translation": "¡Para! ¡Piyomon!"
     },
     {
       "index": 16,
       "english": "We keep walking and walking, but I\ncan't see anything.",
-      "_offset": 4540,
-      "_length": 54,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16712,
+      "_bytes": 54,
       "translation": "Seguimos andando y andando, pero\nno consigo ver nada."
     },
     {
       "index": 17,
       "english": "Considering all the telephone\npoles we're seeing, surely there \nmust be humans around somewhere.",
-      "_offset": 4595,
-      "_length": 96,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16767,
+      "_bytes": 96,
       "translation": "Viendo la cantidad de postes de\nteléfono que hay, seguro que\nhabrá algún humano por aquí."
     },
     {
       "index": 18,
       "english": "Wait a second! I'll try using my\npocket telescope.",
-      "_offset": 4692,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Para un segundo!\nUsaré mi catalejo de bolsillo."
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16864,
+      "_bytes": 50,
+      "translation": "¡Para un segundo!\nUsaré mi catalejo de bolsillo."
     },
     {
       "index": 19,
       "english": "Aaaaargh! Where in the world are\nwe?!",
-      "_offset": 4743,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Ahhhrgh! Dónde diablos estamos?!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 16915,
+      "_bytes": 37,
+      "translation": "¡Ahhhrgh! ¡¿Dónde diablos estamos?!"
     },
     {
       "index": 20,
       "english": "Huh...? Ah? Ah! There's a village!",
-      "_offset": 4781,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Eh...? Ah? Ah! Hay un pueblo ahí!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16953,
+      "_bytes": 34,
+      "translation": "¿Eh...? ¿Ah? ¡Ah! ¡Hay un pueblo ahí!"
     },
     {
       "index": 21,
       "english": "And if there's a village, that\nmeans there have to be humans!",
-      "_offset": 4816,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Y si hay un pueblo, eso significa\nque habrá personas!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16988,
+      "_bytes": 61,
+      "translation": "¡Y si hay un pueblo, eso significa\nque habrá personas!"
     },
     {
       "index": 22,
       "english": "All right! Let's head for that\nvillage!",
-      "_offset": 4878,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Vale! Vayamos a ese pueblo!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17050,
+      "_bytes": 39,
+      "translation": "¡Vale! ¡Vayamos a ese pueblo!"
     },
     {
       "index": 23,
       "english": "Okay!",
-      "_offset": 4918,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Vale!"
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 17090,
+      "_bytes": 5,
+      "translation": "¡Vale!"
     },
     {
       "index": 24,
       "english": "...And it was a Yokomon village.",
-      "_offset": 4924,
-      "_length": 33,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17096,
+      "_bytes": 33,
       "translation": "...Y era un pueblo Yokomon."
     },
     {
       "index": 25,
       "english": "Yokomon! Yokomon are my friends!",
-      "_offset": 4958,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Yokomon! Yokomon son mis amigos!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 17130,
+      "_bytes": 34,
+      "translation": "¡Yokomon! ¡Yokomon son mis amigos!"
     },
     {
       "index": 26,
       "english": "Let's ask them if they've seen any\nother humans around here.",
-      "_offset": 4993,
-      "_length": 60,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17165,
+      "_bytes": 60,
       "translation": "Preguntémosles si han visto otros\nhumanos por aquí."
     },
     {
       "index": 27,
       "english": "What kind of Digimon are you?",
-      "_offset": 5054,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Qué tipo de Digimon eres?"
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 17226,
+      "_bytes": 29,
+      "translation": "¿Qué tipo de Digimon eres?"
     },
     {
       "index": 28,
       "english": "Huh? Me?!",
-      "_offset": 5084,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Eh? Yo?!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17256,
+      "_bytes": 9,
+      "translation": "¿Eh? ¡¿Yo?!"
     },
     {
       "index": 29,
       "english": "This is a creature called a\n\"human\".",
-      "_offset": 5094,
-      "_length": 36,
-      "speaker_id": 0,
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 17266,
+      "_bytes": 36,
       "translation": "Esta criatura se llama \"humano\"."
     },
     {
       "index": 30,
       "english": "A \"human\"? Not a Digimon?",
-      "_offset": 5131,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "\"Humano\"? No es Digimon?"
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 17303,
+      "_bytes": 25,
+      "translation": "¿\"Humano\"? ¿No es Digimon?"
     },
     {
       "index": 31,
       "english": "Seems like they haven't seen other\nhumans before.",
-      "_offset": 5157,
-      "_length": 49,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17329,
+      "_bytes": 49,
       "translation": "Parece que no habían visto\nhumanos antes..."
     },
     {
       "index": 32,
       "english": "How did you evolve, Piyomon?",
-      "_offset": 5207,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Cómo evolucionaste, Piyomon?"
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 17379,
+      "_bytes": 28,
+      "translation": "¿Cómo evolucionaste, Piyomon?"
     },
     {
       "index": 33,
       "english": "After I met Sora, I was suddenly\nable to evolve.",
-      "_offset": 5236,
-      "_length": 48,
-      "speaker_id": 0,
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 17408,
+      "_bytes": 48,
       "translation": "Al conocer a Sora, de repente\npude evolucionar."
     },
     {
       "index": 34,
       "english": "So you can only evolve when a\nhuman's around?",
-      "_offset": 5285,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Así que sólo puedes si hay\nun humano cerca?"
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 17457,
+      "_bytes": 45,
+      "translation": "¿Así que sólo puedes si hay\nun humano cerca?"
     },
     {
       "index": 35,
       "english": "It must be because I want to\nprotect Sora!",
-      "_offset": 5331,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Debe ser por que deseo\nproteger a Sora!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 17503,
+      "_bytes": 42,
+      "translation": "¡Debe de ser porque deseo\nproteger a Sora!"
     },
     {
       "index": 36,
       "english": "Protect me? But she's so clingy!\nDoes she *really* think she can do\nthat?",
-      "_offset": 5374,
-      "_length": 73,
-      "speaker_id": 0,
-      "translation": "Protegerme? Pero si eres muy\ndependiente!\n(De verdad que piensa eso?)"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17546,
+      "_bytes": 73,
+      "translation": "¿Protegerme? ¡Pero si eres muy\ndependiente!\n(¿De verdad que piensa eso?)"
     },
     {
       "index": 37,
       "english": "We'll treat you to a feast later,\nso please look forward to it!",
-      "_offset": 5448,
-      "_length": 63,
-      "speaker_id": 0,
-      "translation": "Habrá un festín luego, así que\nno os lo perdáis!"
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 17620,
+      "_bytes": 63,
+      "translation": "¡Habrá un festín luego, así que\nno os lo perdáis!"
     },
     {
       "index": 38,
       "english": "Humans are really big. I'd like to\nlet you rest in my house, but you\nwon't fit.",
-      "_offset": 5512,
-      "_length": 79,
-      "speaker_id": 0,
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 17684,
+      "_bytes": 79,
       "translation": "Los humanos son enormes. Os\nofrecería mi hogar, pero no\ncabríais dentro."
     },
     {
       "index": 39,
       "english": "You sound different now, Piyomon.\nAre you talking like a human?",
-      "_offset": 5592,
-      "_length": 63,
-      "speaker_id": 0,
-      "translation": "Suenas diferente, Piyomon.\nHablas ahora como los humanos?"
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 17764,
+      "_bytes": 63,
+      "translation": "Suenas diferente, Piyomon.\n¿Hablas ahora como los humanos?"
     },
     {
       "index": 40,
       "english": "Are you the only ones in this\nvillage?",
-      "_offset": 5656,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Estáis sólos vosotros en este\npueblo?"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17828,
+      "_bytes": 38,
+      "translation": "¿Estáis solos vosotros en este\npueblo?"
     },
     {
       "index": 41,
-      "english": "It's just us. But there's a\nDigimon called Meramon who lives\non Montaña Panorámica.",
-      "_offset": 5695,
-      "_length": 81,
-      "speaker_id": 0,
+      "english": "It's just us. But there's a\nDigimon called Meramon who lives\non Outlook Mountain.",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 17867,
+      "_bytes": 81,
       "translation": "Sólo nosotros. Pero un Digimon\nllamado Meramon vive en la\nMontaña Panorámica."
     },
     {
       "index": 42,
-      "english": "Meramon... Montaña Panorámica...",
-      "_offset": 5777,
-      "_length": 30,
-      "speaker_id": 0,
+      "english": "Meramon... Outlook Mountain...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17949,
+      "_bytes": 30,
       "translation": "Meramon... Montaña Panorámica."
     },
     {
       "index": 43,
       "english": "Come to think of it, I saw\nsomething falling towards Outlook\nMountain earlier.",
-      "_offset": 5808,
-      "_length": 78,
-      "speaker_id": 0,
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 17980,
+      "_bytes": 78,
       "translation": "Ahora que lo pienso, antes vi\nalgo caer hacia la\nMontaña Panorámica."
     },
     {
       "index": 44,
       "english": "We saw a black gear a while ago!",
-      "_offset": 5887,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Vimos una rueda negra hace poco!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 18059,
+      "_bytes": 32,
+      "translation": "¡Vimos una rueda negra hace poco!"
     },
     {
       "index": 45,
       "english": "Maybe that black gear's around\nhere.",
-      "_offset": 5920,
-      "_length": 36,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18092,
+      "_bytes": 36,
       "translation": "Quizás la rueda negra esté por\naquí."
     },
     {
       "index": 46,
       "english": "Did it fly in this direction?",
-      "_offset": 5957,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Voló en esta dirección?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18129,
+      "_bytes": 29,
+      "translation": "¿Voló en esta dirección?"
     },
     {
       "index": 47,
       "english": "Yeah.",
-      "_offset": 5987,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Si."
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18159,
+      "_bytes": 5,
+      "translation": "Sí."
     },
     {
       "index": 48,
       "english": "Either way, my throat is really,\nreally dry.",
-      "_offset": 5993,
-      "_length": 44,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 18165,
+      "_bytes": 44,
       "translation": "Sea como sea, tengo la garganta\nmuy seca."
     },
     {
       "index": 49,
-      "english": "There's a well here! The water\ncomes from Montaña Panorámica, so\nit's delicious!",
-      "_offset": 6038,
-      "_length": 78,
-      "speaker_id": 0,
-      "translation": "Hay un pozo aquí! El agua viene\nde la Montaña Panorámica y es\ndeliciosa!"
+      "english": "There's a well here! The water\ncomes from Outlook Mountain, so\nit's delicious!",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 18210,
+      "_bytes": 78,
+      "translation": "¡Hay un pozo aquí! ¡El agua viene\nde la Montaña Panorámica y es\ndeliciosa!"
     },
     {
       "index": 50,
       "english": "W-we're saved!",
-      "_offset": 6117,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Salvados!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 18289,
+      "_bytes": 14,
+      "translation": "¡Salvados!"
     },
     {
       "index": 51,
       "english": "But the well's dried up.",
-      "_offset": 6132,
-      "_length": 24,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 18304,
+      "_bytes": 24,
       "translation": "Pero el pozo está seco."
     },
     {
       "index": 52,
       "english": "It's empty now, but it had water\nup until yesterday...",
-      "_offset": 6157,
-      "_length": 54,
-      "speaker_id": 0,
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 18329,
+      "_bytes": 54,
       "translation": "Está vacío ahora, pero tenía\nagua hasta ayer..."
     },
     {
       "index": 53,
       "english": "I'm buuuuuurniiiiiiiiing!",
-      "_offset": 6212,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Estoy arrrdieeendoooo!"
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 18384,
+      "_bytes": 25,
+      "translation": "¡Estoy arrrdieeendoooo!"
     },
     {
       "index": 54,
       "english": "What was that?!",
-      "_offset": 6238,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Que fue eso?!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18410,
+      "_bytes": 15,
+      "translation": "¡¿Qué fue eso?!"
     },
     {
       "index": 55,
-      "english": "It's coming from Montaña Panorámica!\nLemme use my telescope.",
-      "_offset": 6254,
-      "_length": 58,
-      "speaker_id": 0,
+      "english": "It's coming from Outlook Mountain!\nLemme use my telescope.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18426,
+      "_bytes": 58,
       "translation": "Viene de la Montaña Panorámica.\nUsaré el catalejo."
     },
     {
       "index": 56,
       "english": "I'm burning...I'm...",
-      "_offset": 6313,
-      "_length": 20,
-      "speaker_id": 0,
+      "speaker_id": 4011,
+      "line_type": 2,
+      "_offset": 18485,
+      "_bytes": 20,
       "translation": "Me quemo... Me..."
     },
     {
       "index": 57,
       "english": "I'm burning up right nooooow!",
-      "_offset": 6334,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Quemo ahora mismo! Ardo!"
+      "speaker_id": 4011,
+      "line_type": 2,
+      "_offset": 18506,
+      "_bytes": 29,
+      "translation": "¡Me quemo ahora mismo! ¡Ardo!"
     },
     {
       "index": 58,
       "english": "It's Meramon! He's screaming and\nrunning this way!",
-      "_offset": 6364,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Es Meramon! Viene gritando y\ncorriendo hacia aquí!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18536,
+      "_bytes": 50,
+      "translation": "¡Es Meramon! ¡Viene gritando y\ncorriendo hacia aquí!"
     },
     {
       "index": 59,
       "english": "This isn't how Meramon usually is!",
-      "_offset": 6415,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Meramon no suele ser así!"
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 18587,
+      "_bytes": 34,
+      "translation": "¡Meramon no suele ser así!"
     },
     {
       "index": 60,
       "english": "If he gets here, he'll burn down\nthe village!",
-      "_offset": 6450,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Si viene, quemará toda la aldea!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 18622,
+      "_bytes": 45,
+      "translation": "¡Si viene, quemará toda la aldea!"
     },
     {
       "index": 61,
       "english": "Everyone, let's get out of here\nnow!",
-      "_offset": 6496,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Todos, larguémonos de aquí!\nAhora!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18668,
+      "_bytes": 36,
+      "translation": "Todos, ¡larguémonos de aquí!\n¡Ahora!"
     },
     {
       "index": 62,
       "english": "But where do we run?!",
-      "_offset": 6533,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Pero a donde iremos?!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 18705,
+      "_bytes": 21,
+      "translation": "¡¿Pero adónde iremos?!"
     },
     {
       "index": 63,
       "english": "There's a boat in the lake! We\ncould do some hidin' in there.",
-      "_offset": 6555,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Hay un bote en el lago. Podríamos\nescondernos allí!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 18727,
+      "_bytes": 61,
+      "translation": "Hay un bote en el lago. ¡Podríamos\nescondernos allí!"
     },
     {
       "index": 64,
       "english": "All right, everyone, let's go!",
-      "_offset": 6617,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Vale, vayámonos todos!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 18789,
+      "_bytes": 30,
+      "translation": "¡Vale, vayámonos todos!"
     },
     {
       "index": 65,
       "english": "Wait! It looks like some of the\nYokomon are missing!",
-      "_offset": 6648,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Espera! Faltan algunos Yokomon!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 18820,
+      "_bytes": 53,
+      "translation": "¡Espera! ¡Faltan algunos Yokomon!"
     },
     {
       "index": 66,
       "english": "We have to help them escape!",
-      "_offset": 6702,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Tenemos que ayudarles!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18874,
+      "_bytes": 28,
+      "translation": "¡Tenemos que ayudarles!"
     },
     {
       "index": 67,
       "english": "Thanks, Sora! I'll help you!",
-      "_offset": 6731,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Gracias Sora! Te ayudaré!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 18903,
+      "_bytes": 28,
+      "translation": "¡Gracias Sora! ¡Te ayudaré!"
     },
     {
       "index": 68,
       "english": "There's still Yokomon in the\nvillage! Sora, we have to hurry up\nand help them!",
-      "_offset": 6760,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "Aún quedan Yokomon en el pueblo!\nSora, tenemos que ayudarles,\nrápido!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 18932,
+      "_bytes": 79,
+      "translation": "¡Aún quedan Yokomon en el pueblo!\nSora, ¡tenemos que ayudarles,\nrápido!"
     },
     {
       "index": 69,
       "english": "Right! I'm coming!",
-      "_offset": 6840,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Vale! Ya voy!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19012,
+      "_bytes": 18,
+      "translation": "¡Vale! ¡Ya voy!"
     },
     {
       "index": 70,
       "english": "We've evacuated the Yokomon\nvillage. Piyomon?",
-      "_offset": 6859,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Hemos evacuado el pueblo Yokomon.\nPiyomon?"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19031,
+      "_bytes": 46,
+      "translation": "Hemos evacuado el pueblo Yokomon.\n¿Piyomon?"
     },
     {
       "index": 71,
       "english": "Come this way!",
-      "_offset": 6906,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Por aquí!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 19078,
+      "_bytes": 14,
+      "translation": "¡Por aquí!"
     },
     {
       "index": 72,
       "english": "Piyomon! You came to save me!",
-      "_offset": 6921,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Piyomon! Viniste a salvarme!"
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 19093,
+      "_bytes": 29,
+      "translation": "¡Piyomon! ¡Viniste a salvarme!"
     },
     {
       "index": 73,
       "english": "We're friends, aren't we?",
-      "_offset": 6951,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Somos amigas, no?"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 19123,
+      "_bytes": 25,
+      "translation": "Somos amigas, ¿no?"
     },
     {
       "index": 74,
       "english": "You idiot...\ntrying to help others at the last\nminute...",
-      "_offset": 6977,
-      "_length": 56,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19149,
+      "_bytes": 56,
       "translation": "Idiota...\nIntentar ayudar a otros en el\núltimo minuto..."
     },
     {
       "index": 75,
       "english": "Sora! What's wrong? Come back!",
-      "_offset": 7034,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Sora! Qué ocurre? Vuelve!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 19206,
+      "_bytes": 30,
+      "translation": "¡Sora! ¿Qué ocurre? ¡Vuelve!"
     },
     {
       "index": 76,
-      "english": "Piyomoooooon!",
-      "_offset": 7069,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Piyomooooon!"
+      "english": "...",
+      "speaker_id": 4011,
+      "line_type": 2,
+      "_offset": 19237,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 77,
-      "english": "Sora? Did you come here to save\nme?",
-      "_offset": 7083,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Sora? Has venido a salvarme?"
+      "english": "Piyomoooooon!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19241,
+      "_bytes": 13,
+      "translation": "¡Piyomooooon!"
     },
     {
       "index": 78,
-      "english": "Of course I did! You're my friend\nand you're important to me!",
-      "_offset": 7119,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Claro que sí! Eres mi amiga y\neres importante para mí!"
+      "english": "Sora? Did you come here to save\nme?",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 19255,
+      "_bytes": 35,
+      "translation": "¿Sora? ¿Has venido a salvarme?"
     },
     {
       "index": 79,
-      "english": "Thank you, Sora!",
-      "_offset": 7181,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Gracias, Sora!"
+      "english": "Of course I did! You're my friend\nand you're important to me!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19291,
+      "_bytes": 61,
+      "translation": "¡Claro que sí! ¡Eres mi amiga y\neres importante para mí!"
     },
     {
       "index": 80,
-      "english": "This time, I'll protect you!",
-      "_offset": 7198,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Esta vez... Te protegeré!"
+      "english": "Thank you, Sora!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 19353,
+      "_bytes": 16,
+      "translation": "¡Gracias, Sora!"
     },
     {
       "index": 81,
-      "english": "We have to help Piyomon too!",
-      "_offset": 7227,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Hay que ayudar a Piyomon!"
+      "english": "This time, I'll protect you!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 19370,
+      "_bytes": 28,
+      "translation": "Esta vez... ¡Te protegeré!"
     },
     {
       "index": 82,
-      "english": "Fuego Mágico!",
-      "_offset": 7256,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Fuego Mágico!"
+      "english": "We have to help Piyomon too!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 19399,
+      "_bytes": 28,
+      "translation": "¡Hay que ayudar a Piyomon!"
     },
     {
       "index": 83,
-      "english": "Llama Bebé!",
-      "_offset": 7270,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Llama Bebé!"
+      "english": "Magical Fire!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 19428,
+      "_bytes": 13,
+      "translation": "¡Fuego Mágico!"
     },
     {
       "index": 84,
-      "english": "MiniFuego!",
-      "_offset": 7282,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "MiniFuego!"
+      "english": "Baby Flame!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 19442,
+      "_bytes": 11,
+      "translation": "¡Llama Bebé!"
     },
     {
       "index": 85,
-      "english": "Keheheheheheh...",
-      "_offset": 7294,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Keheheheh..."
+      "english": "Petit Fire!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 19454,
+      "_bytes": 11,
+      "translation": "¡Mini Fuego!"
     },
     {
       "index": 86,
-      "english": "Meramon is absorbing all of the\nattacks! They won't work on him!",
-      "_offset": 7311,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "Meramon absorbe todos sus\nataques! No funcionan contra él!"
+      "english": "Keheheheheheh...",
+      "speaker_id": 4011,
+      "line_type": 2,
+      "_offset": 19466,
+      "_bytes": 16,
+      "translation": "Keheheheh..."
     },
     {
       "index": 87,
-      "english": "I'm burning up!",
-      "_offset": 7376,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Estoy ardiendo!"
+      "english": "Meramon is absorbing all of the\nattacks! They won't work on him!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 19483,
+      "_bytes": 64,
+      "translation": "¡Meramon absorbe todos sus\nataques! ¡No funcionan contra él!"
     },
     {
       "index": 88,
-      "english": "Piyomon!",
-      "_offset": 7392,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Piyomon!"
+      "english": "I'm burning up!",
+      "speaker_id": 4011,
+      "line_type": 2,
+      "_offset": 19548,
+      "_bytes": 15,
+      "translation": "¡Estoy ardiendo!"
     },
     {
       "index": 89,
-      "english": "Sora... Sora's in danger...\nI can't just give up!",
-      "_offset": 7401,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Sora... está en peligro.\nNo puedo rendirme!"
+      "english": "Piyomon!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19564,
+      "_bytes": 8,
+      "translation": "¡Piyomon!"
     },
     {
       "index": 90,
-      "english": "Piyomon evolved!",
-      "_offset": 7451,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Digievolucionó!"
+      "english": "Sora... Sora's in danger...\nI can't just give up!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 19573,
+      "_bytes": 49,
+      "translation": "Sora... está en peligro.\n¡No puedo rendirme!"
     },
     {
       "index": 91,
-      "english": "It's because I promised to protect\nyou, Sora.",
-      "_offset": 7468,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Por que prometí protegerte, Sora."
+      "english": "Piyomon evolved!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19623,
+      "_bytes": 16,
+      "translation": "¡Digievolucionó!"
     },
     {
       "index": 92,
-      "english": "Thank you!",
-      "_offset": 7514,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Gracias!"
+      "english": "It's because I promised to protect\nyou, Sora.",
+      "speaker_id": 2331,
+      "line_type": 2,
+      "_offset": 19640,
+      "_bytes": 45,
+      "translation": "Porque prometí protegerte, Sora."
     },
     {
       "index": 93,
-      "english": "Uuuughhhhhh!",
-      "_offset": 7525,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Uuuugghh!"
+      "english": "Thank you!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19686,
+      "_bytes": 10,
+      "translation": "¡Gracias!"
     },
     {
       "index": 94,
-      "english": "We won with the power of\nBirdramon's fire!",
-      "_offset": 7538,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Ganamos gracias al fuego\nde Birdramon!"
+      "english": "Uuuughhhhhh!",
+      "speaker_id": 4011,
+      "line_type": 2,
+      "_offset": 19697,
+      "_bytes": 12,
+      "translation": "¡Uuuugghh!"
     },
     {
       "index": 95,
-      "english": "That's...the black gear!",
-      "_offset": 7581,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Es... la rueda negra!"
+      "english": "We won with the power of\nBirdramon's fire!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 19710,
+      "_bytes": 42,
+      "translation": "¡Ganamos gracias al fuego\nde Birdramon!"
     },
     {
       "index": 96,
-      "english": "That black gear was in Meramon's\nbody! That's why...",
-      "_offset": 7606,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "La rueda negra estaba en Meramon!\nEsa es la razón..."
+      "english": "That's...the black gear!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 19753,
+      "_bytes": 24,
+      "translation": "¡Es... la rueda negra!"
     },
     {
       "index": 97,
-      "english": "Sora! Sora!",
-      "_offset": 7659,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Sora! Sora!"
+      "english": "That black gear was in Meramon's\nbody! That's why...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 19778,
+      "_bytes": 52,
+      "translation": "¡La rueda negra estaba en Meramon!\nEsa es la razón..."
     },
     {
       "index": 98,
-      "english": "Piyomon! Thank you so much!",
-      "_offset": 7671,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Piyomon! Muchas gracias!"
+      "english": "Sora! Sora!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 19831,
+      "_bytes": 11,
+      "translation": "¡Sora! ¡Sora!"
     },
     {
       "index": 99,
-      "english": "It was only natural! It's because\nI love you, Sora!",
-      "_offset": 7699,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Era lo natural, por que te\nquiero, Sora!"
+      "english": "Piyomon! Thank you so much!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19843,
+      "_bytes": 27,
+      "translation": "¡Piyomon! ¡Muchas gracias!"
     },
     {
       "index": 100,
-      "english": "Why was I...?",
-      "_offset": 7751,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Por qué...?"
+      "english": "It was only natural! It's because\nI love you, Sora!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 19871,
+      "_bytes": 51,
+      "translation": "¡Era lo natural, porque te\nquiero, Sora!"
     },
     {
       "index": 101,
-      "english": "Meramon! You're back to normal!",
-      "_offset": 7765,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Meramon! Has vuelto!"
+      "english": "Why was I...?",
+      "speaker_id": 4011,
+      "line_type": 2,
+      "_offset": 19923,
+      "_bytes": 13,
+      "translation": "¿Por qué...?"
     },
     {
       "index": 102,
-      "english": "A black gear fell from the sky...\nafter that...I don't know...",
-      "_offset": 7797,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Una rueda negra cayó del cielo.\nNo recuerdo nada más..."
+      "english": "Meramon! You're back to normal!",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 19937,
+      "_bytes": 31,
+      "translation": "¡Meramon! ¡Has vuelto!"
     },
     {
       "index": 103,
-      "english": "You don't remember, Meramon?",
-      "_offset": 7860,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "No lo recuerdas, Meramon?"
+      "english": "A black gear fell from the sky...\nafter that...I don't know...",
+      "speaker_id": 4011,
+      "line_type": 2,
+      "_offset": 19969,
+      "_bytes": 62,
+      "translation": "Una rueda negra cayó del cielo.\nNo recuerdo nada más..."
     },
     {
       "index": 104,
-      "english": "Meramon! Please keep protecting\nMontaña Panorámica like you did\nbefore!",
-      "_offset": 7889,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Meramon! Sigue protegiendo la\nMontaña Panorámica como antes!"
+      "english": "You don't remember, Meramon?",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 20032,
+      "_bytes": 28,
+      "translation": "¿No lo recuerdas, Meramon?"
     },
     {
       "index": 105,
-      "english": "Like I did before...?",
-      "_offset": 7959,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Como antes...?"
+      "english": "Meramon! Please keep protecting\nOutlook Mountain like you did\nbefore!",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 20061,
+      "_bytes": 69,
+      "translation": "¡Meramon! ¡Sigue protegiendo la\nMontaña Panorámica como antes!"
     },
     {
       "index": 106,
-      "english": "Looks like the Yokomon really\nlike you, since you've stopped\nbeing a bad Digimon.",
-      "_offset": 7981,
-      "_length": 82,
-      "speaker_id": 0,
-      "translation": "Parece que los Yokomon te\naprecian mucho, especialmente\ncon buena actitud."
+      "english": "Like I did before...?",
+      "speaker_id": 4011,
+      "line_type": 2,
+      "_offset": 20131,
+      "_bytes": 21,
+      "translation": "¿Como antes...?"
     },
     {
       "index": 107,
-      "english": "Is that so? Then I'll return to\nMontaña Panorámica.",
-      "_offset": 8064,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Ah si? Volveré a la Montaña\nPanorámica."
+      "english": "Looks like the Yokomon really\nlike you, since you've stopped\nbeing a bad Digimon.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 20153,
+      "_bytes": 82,
+      "translation": "Parece que los Yokomon te\naprecian mucho, ahora que ya\nno eres malo."
     },
     {
       "index": 108,
-      "english": "Everyone! The Yokomon said\nthey'll give us food as thanks!",
-      "_offset": 8114,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Chicos! Los Yokomon dicen que nos\ndarán comida!"
+      "english": "Is that so? Then I'll return to\nOutlook Mountain.",
+      "speaker_id": 4011,
+      "line_type": 2,
+      "_offset": 20236,
+      "_bytes": 49,
+      "translation": "Ah, ¿sí? Volveré a la Montaña\nPanorámica."
     },
     {
       "index": 109,
-      "english": "Yay!",
-      "_offset": 8174,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Si!"
+      "english": "Everyone! The Yokomon said\nthey'll give us food as thanks!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 20286,
+      "_bytes": 59,
+      "translation": "¡Chicos! ¡Los Yokomon dicen que nos\ndarán comida!"
     },
     {
       "index": 110,
-      "english": "Piyomon saved me...",
-      "_offset": 8179,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Piyomon me salvó..."
+      "english": "Yay!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 20346,
+      "_bytes": 4,
+      "translation": "¡Sí!"
     },
     {
       "index": 111,
-      "english": "She actually evolved because I was\nin danger.",
-      "_offset": 8199,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Digievolucionó por que estaba en\npeligro."
+      "english": "Piyomon saved me...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 20351,
+      "_bytes": 19,
+      "translation": "Piyomon me salvó..."
     },
     {
       "index": 112,
-      "english": "All right! Please hurry and escape\nthat way!",
-      "_offset": 8245,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Vale! Daos prisa y escapaz por\nahí!"
+      "english": "She actually evolved because I was\nin danger.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 20371,
+      "_bytes": 45,
+      "translation": "Digievolucionó porque estaba en\npeligro."
     },
     {
       "index": 113,
-      "english": "You saved me!",
-      "_offset": 8290,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Me salvaste!"
+      "english": "All right! Please hurry and escape\nthat way!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 20417,
+      "_bytes": 44,
+      "translation": "¡Vale! ¡Daos prisa y escapad por\nahí!"
     },
     {
       "index": 114,
-      "english": "You're scared, aren't you? Come\non, and get out of here as soon as\nyou can!",
-      "_offset": 8304,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "Tienes miedo, no? Vamos, salgamos\nde aquí rápidamente!"
+      "english": "You saved me!",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 20462,
+      "_bytes": 13,
+      "translation": "¡Me salvaste!"
     },
     {
       "index": 115,
-      "english": "Okay! Thank you!",
-      "_offset": 8380,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Vale! Gracias!"
+      "english": "You're scared, aren't you? Come\non, and get out of here as soon as\nyou can!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 20476,
+      "_bytes": 75,
+      "translation": "Tienes miedo, ¿no? ¡Venga, sal\nde aquí cuanto antes!"
     },
     {
       "index": 116,
-      "english": "Sora! We found one!",
-      "_offset": 8397,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Sora! Encontré uno!"
+      "english": "Okay! Thank you!",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 20552,
+      "_bytes": 16,
+      "translation": "¡Vale! ¡Gracias!"
     },
     {
       "index": 117,
-      "english": "Hurry up and get out of here!",
-      "_offset": 8417,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Daos prisa e idos de aquí!"
+      "english": "Sora! We found one!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 20569,
+      "_bytes": 19,
+      "translation": "¡Sora! ¡Encontré uno!"
     },
     {
       "index": 118,
-      "english": "Got it! I'll hurry!",
-      "_offset": 8447,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Vale! Voy!"
+      "english": "Hurry up and get out of here!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 20589,
+      "_bytes": 29,
+      "translation": "¡Daos prisa e idos de aquí!"
     },
     {
       "index": 119,
-      "english": "Sora! This little one's injured!",
-      "_offset": 8467,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Sora! Está herido!"
+      "english": "Got it! I'll hurry!",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 20619,
+      "_bytes": 19,
+      "translation": "¡Vale! ¡Voy!"
     },
     {
       "index": 120,
-      "english": "I'm okay! I can still move! Go and\nhelp my friends!",
-      "_offset": 8500,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Estoy bien! Me puedo mover!\nAyudad a mis amigos!"
+      "english": "Sora! This little one's injured!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 20639,
+      "_bytes": 32,
+      "translation": "¡Sora! ¡Está herido!"
     },
     {
       "index": 121,
-      "english": "Got it!",
-      "_offset": 8552,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Vale!"
+      "english": "I'm okay! I can still move! Go and\nhelp my friends!",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 20672,
+      "_bytes": 51,
+      "translation": "¡Estoy bien! ¡Me puedo mover!\n¡Ayudad a mis amigos!"
     },
     {
       "index": 122,
-      "english": "Get away before Meramon comes!",
-      "_offset": 8560,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Huye! Viene Meramon!"
+      "english": "Got it!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 20724,
+      "_bytes": 7,
+      "translation": "¡Vale!"
     },
     {
       "index": 123,
-      "english": "I, I'm scared...",
-      "_offset": 8591,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Tengo miedo..."
+      "english": "Get away before Meramon comes!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 20732,
+      "_bytes": 30,
+      "translation": "¡Huye! ¡Viene Meramon!"
     },
     {
       "index": 124,
-      "english": "It'll be all right! Sora and I\nwill pull through somehow!",
-      "_offset": 8608,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Todo irá bien! Sora y yo lo\nconseguiremos como sea!"
+      "english": "I, I'm scared...",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 20763,
+      "_bytes": 16,
+      "translation": "Tengo miedo..."
     },
     {
       "index": 125,
-      "english": "Really?",
-      "_offset": 8666,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Si?"
+      "english": "It'll be all right! Sora and I\nwill pull through somehow!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 20780,
+      "_bytes": 57,
+      "translation": "¡Todo irá bien! ¡Sora y yo lo\nconseguiremos como sea!"
     },
     {
       "index": 126,
-      "english": "Yeah, so you have to escape as\nsoon as you can!",
-      "_offset": 8674,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Si, escapa lo más pronto que\npuedas!"
+      "english": "Really?",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 20838,
+      "_bytes": 7,
+      "translation": "¿Sí?"
     },
     {
       "index": 127,
-      "english": "T-thank you...",
-      "_offset": 8722,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "G-Gracias..."
+      "english": "Yeah, so you have to escape as\nsoon as you can!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 20846,
+      "_bytes": 47,
+      "translation": "¡Sí, escapa lo más pronto que\npuedas!"
     },
     {
       "index": 128,
-      "english": "Why are you hiding over here?",
-      "_offset": 8737,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Por qué te ocultas aquí?"
+      "english": "T-thank you...",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 20894,
+      "_bytes": 14,
+      "translation": "G-Gracias..."
     },
     {
       "index": 129,
-      "english": "I thought it'd be safe if I hid\nhere.",
-      "_offset": 8767,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Pensé que estaría seguro aquí."
+      "english": "Why are you hiding over here?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 20909,
+      "_bytes": 29,
+      "translation": "¿Por qué te ocultas aquí?"
     },
     {
       "index": 130,
-      "english": "But *we* found you here...",
-      "_offset": 8805,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Pero te encontramos..."
+      "english": "I thought it'd be safe if I hid\nhere.",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 20939,
+      "_bytes": 37,
+      "translation": "Pensé que estaría seguro aquí."
     },
     {
       "index": 131,
-      "english": "Y-yeah, you did! I guess this\nplace isn't safe after all.",
-      "_offset": 8832,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Hm.. si! No parece ser tan seguro\ndespués de todo."
+      "english": "But *we* found you here...",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 20977,
+      "_bytes": 26,
+      "translation": "Pero te encontramos..."
     },
     {
       "index": 132,
-      "english": "All right, go find the others now!",
-      "_offset": 8890,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Vale, busca a los demás ahora!"
+      "english": "Y-yeah, you did! I guess this\nplace isn't safe after all.",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 21004,
+      "_bytes": 57,
+      "translation": "Hm... ¡sí! No parece tan seguro\ndespués de todo."
     },
     {
       "index": 133,
-      "english": "This little one's sleeping.",
-      "_offset": 8925,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Este peque está durmiendo."
+      "english": "All right, go find the others now!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 21062,
+      "_bytes": 34,
+      "translation": "¡Vale, busca a los demás ahora!"
     },
     {
       "index": 134,
-      "english": "Fwaaah! H-huh? Where's everyone?",
-      "_offset": 8953,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Fwaa! Eh? Dónde están todos?"
+      "english": "This little one's sleeping.",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 21097,
+      "_bytes": 27,
+      "translation": "Este peque está durmiendo."
     },
     {
       "index": 135,
-      "english": "Why is it in a place like this?",
-      "_offset": 8986,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Por qué esta aquí?"
+      "english": "Fwaaah! H-huh? Where's everyone?",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 21125,
+      "_bytes": 32,
+      "translation": "¡Fwaa! ¿Eh? ¿Dónde están todos?"
     },
     {
       "index": 136,
-      "english": "We were playing hide-and-seek...",
-      "_offset": 9018,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Jugaba al escondite..."
+      "english": "Why is it in a place like this?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 21158,
+      "_bytes": 31,
+      "translation": "¿Por qué está aquí?"
     },
     {
       "index": 137,
-      "english": "Meramon's gone wild and he's\ncoming this way! Hurry and go join\nthe others!",
-      "_offset": 9051,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "Meramon se ha vuelto loco y viene\nhacia aquí. Apura y ve con\nlos demás."
+      "english": "We were playing hide-and-seek...",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 21190,
+      "_bytes": 32,
+      "translation": "Jugaba al escondite..."
     },
     {
       "index": 138,
-      "english": "O-okay!",
-      "_offset": 9127,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Vale!"
+      "english": "Meramon's gone wild and he's\ncoming this way! Hurry and go join\nthe others!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 21223,
+      "_bytes": 75,
+      "translation": "Meramon se ha vuelto loco y viene\nhacia aquí. Date prisa, ve con\nlos demás."
     },
     {
       "index": 139,
-      "english": "Sora! We have to get out of here,\nnow!",
-      "_offset": 9135,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Sora! Tenemos que irnos, ya!"
+      "english": "O-okay!",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 21299,
+      "_bytes": 7,
+      "translation": "¡Vale!"
     },
     {
       "index": 140,
-      "english": "Mimi! Calm down!",
-      "_offset": 9174,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Mimi! Cálmate!"
+      "english": "Sora! We have to get out of here,\nnow!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 21307,
+      "_bytes": 38,
+      "translation": "¡Sora! ¡Tenemos que irnos, ya!"
     },
     {
       "index": 141,
-      "english": "Scold her harshly",
-      "_offset": 9191,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Échale la bronca"
+      "english": "Mimi! Calm down!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 21346,
+      "_bytes": 16,
+      "translation": "¡Mimi! ¡Cálmate!"
     },
     {
       "index": 142,
-      "english": "Speak to her calmly",
-      "_offset": 9209,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Habla calmadamente"
+      "english": "Scold her harshly",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 21363,
+      "_bytes": 17,
+      "translation": "Échale la bronca"
     },
     {
       "index": 143,
-      "english": "If you don't pull yourself\ntogether, you're going to make\nthings worse for the rest of us!",
-      "_offset": 9229,
-      "_length": 90,
-      "speaker_id": 0,
-      "translation": "Si no te comportas, lo harás todo\nmucho más difícil para todos!"
-    },
-    {
-      "index": 144,
-      "english": "That's easy for you to say, but\nI'm scared! I can't help it!",
-      "_offset": 9320,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Muy fácil para ti decirlo, pero\nno puedo evitar tener miedo!"
-    },
-    {
-      "index": 145,
-      "english": "Mimi...",
-      "_offset": 9381,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Mimi..."
-    },
-    {
-      "index": 146,
-      "english": "We still have some time before the\nfire gets here, so just stay calm.\nEverything's gonna be okay.",
-      "_offset": 9389,
-      "_length": 97,
-      "speaker_id": 0,
-      "translation": "Aún tenemos algo de tiempo hasta\nque llegue el fuego, ten calma.\nTodo saldrá bien."
-    },
-    {
-      "index": 147,
-      "english": "Y-yeah...Yeah, it'll be all right.\nThank you, Sora.",
-      "_offset": 9487,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "S..Sí, todo saldrá bien.\nGracias, Sora"
-    },
-    {
-      "index": 148,
-      "english": "T.K! Hurry up and get out of\nthe village!",
-      "_offset": 9539,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "T.K! Apura y sal ya del poblado!"
-    },
-    {
-      "index": 149,
-      "english": "I wanna help everyone, too!",
-      "_offset": 9584,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Quiero ayudarles también!"
-    },
-    {
-      "index": 150,
-      "english": "Scold him harshly",
-      "_offset": 9612,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Echa la bronca"
-    },
-    {
-      "index": 151,
-      "english": "Speak to him calmly",
-      "_offset": 9630,
-      "_length": 19,
-      "speaker_id": 0,
+      "english": "Speak to her calmly",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 21381,
+      "_bytes": 19,
       "translation": "Háblale con calma"
     },
     {
+      "index": 144,
+      "english": "If you don't pull yourself\ntogether, you're going to make\nthings worse for the rest of us!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 21401,
+      "_bytes": 90,
+      "translation": "¡Si no te comportas, lo harás todo\nmucho más difícil para todos!"
+    },
+    {
+      "index": 145,
+      "english": "That's easy for you to say, but\nI'm scared! I can't help it!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 21492,
+      "_bytes": 60,
+      "translation": "¡Muy fácil para ti decirlo, pero\nno puedo evitar tener miedo!"
+    },
+    {
+      "index": 146,
+      "english": "Mimi...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 21553,
+      "_bytes": 7,
+      "translation": "Mimi..."
+    },
+    {
+      "index": 147,
+      "english": "We still have some time before the\nfire gets here, so just stay calm.\nEverything's gonna be okay.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 21561,
+      "_bytes": 97,
+      "translation": "Aún tenemos algo de tiempo hasta\nque llegue el fuego, ten calma.\nTodo saldrá bien."
+    },
+    {
+      "index": 148,
+      "english": "Y-yeah...Yeah, it'll be all right.\nThank you, Sora.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 21659,
+      "_bytes": 51,
+      "translation": "S-sí, todo saldrá bien.\nGracias, Sora."
+    },
+    {
+      "index": 149,
+      "english": "T.K! Hurry up and get out of\nthe village!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 21711,
+      "_bytes": 44,
+      "translation": "¡T.K.! ¡Date prisa y sal del pueblo!"
+    },
+    {
+      "index": 150,
+      "english": "I wanna help everyone, too!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 21756,
+      "_bytes": 27,
+      "translation": "¡Quiero ayudarles también!"
+    },
+    {
+      "index": 151,
+      "english": "Scold him harshly",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 21784,
+      "_bytes": 17,
+      "translation": "Échale la bronca"
+    },
+    {
       "index": 152,
-      "english": "T.K, you're the youngest, so\nyou should go on ahead!",
-      "_offset": 9650,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "T.K, eres el más joven, deberías\nir delante!"
+      "english": "Speak to him calmly",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 21802,
+      "_bytes": 19,
+      "translation": "Háblale con calma"
     },
     {
       "index": 153,
-      "english": "So I'm in the way because I'm a\nkid.",
-      "_offset": 9706,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Así que estorbo por que soy un\nniño."
+      "english": "T.K, you're the youngest, so\nyou should go on ahead!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 21822,
+      "_bytes": 55,
+      "translation": "T.K., ¡eres el más joven, deberías\nir delante!"
     },
     {
       "index": 154,
-      "english": "That's not what I meant...",
-      "_offset": 9743,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "No quería decir eso..."
+      "english": "So I'm in the way because I'm a\nkid.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 21878,
+      "_bytes": 36,
+      "translation": "Así que estorbo porque soy un\nniño."
     },
     {
       "index": 155,
-      "english": "T.K, you need to escape the\nvillage. I'm counting on you to \nlead the Yokomon out of here.",
-      "_offset": 9770,
-      "_length": 94,
-      "speaker_id": 0,
-      "translation": "T.K, debes escapar del pueblo.\nCuento contigo para evacuar a los\nYokomon."
+      "english": "That's not what I meant...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 21915,
+      "_bytes": 26,
+      "translation": "No quería decir eso..."
     },
     {
       "index": 156,
-      "english": "Got it! I'll be waiting outside\nthe village!",
-      "_offset": 9865,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Vale! Esperaré fuera del pueblo!"
+      "english": "T.K, you need to escape the\nvillage. I'm counting on you to \nlead the Yokomon out of here.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 21942,
+      "_bytes": 94,
+      "translation": "T.K., debes escapar del pueblo.\nCuento contigo para evacuar a los\nYokomon."
     },
     {
       "index": 157,
+      "english": "Got it! I'll be waiting outside\nthe village!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 22037,
+      "_bytes": 44,
+      "translation": "¡Vale! ¡Esperaré fuera del pueblo!"
+    },
+    {
+      "index": 158,
       "english": "Is that all of them? There might\nbe some who haven't escaped yet!",
-      "_offset": 9910,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Estos eran todos? Quizás aún\nquede alguien rezagado!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 22082,
+      "_bytes": 65,
+      "translation": "¿Estos eran todos? ¡Quizás aún\nquede alguien rezagado!"
     }
   ]
 }

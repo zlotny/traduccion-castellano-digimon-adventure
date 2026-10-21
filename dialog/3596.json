@@ -1,37 +1,331 @@
 {
   "file_id": "3596",
-  "text_count": 4,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 36,
   "dialog": [
     {
       "index": 0,
-      "english": "ora! Thanks, Piyomon!",
-      "_offset": 0,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Gracias, Piyomon!"
+      "english": "Guys!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 1384,
+      "_bytes": 5,
+      "translation": "¡Chicos!"
     },
     {
       "index": 1,
-      "english": "And besides, just because you\ncan't evolve now doesn't mean you\nhave to do it right away!",
-      "_offset": 22,
-      "_length": 89,
-      "speaker_id": 0,
-      "translation": "Además, que no puedas\nevolucionar ahora no\nsignifica que sea ya!"
+      "english": "Huh?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 1390,
+      "_bytes": 4,
+      "translation": "¿Eh?"
     },
     {
       "index": 2,
-      "english": "What's wrong, Patamon?",
-      "_offset": 112,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Qué pasa, Patamon?"
+      "english": "I'll be the one to do it!",
+      "speaker_id": 2312,
+      "line_type": 2,
+      "_offset": 1395,
+      "_bytes": 25,
+      "translation": "¡Seré yo quien lo haga!"
     },
     {
       "index": 3,
+      "english": "No, I will!",
+      "speaker_id": 2313,
+      "line_type": 2,
+      "_offset": 1421,
+      "_bytes": 11,
+      "translation": "¡No, yo!"
+    },
+    {
+      "index": 4,
+      "english": "What do you mean? It'll be me!",
+      "speaker_id": 2314,
+      "line_type": 2,
+      "_offset": 1433,
+      "_bytes": 30,
+      "translation": "¿Qué dices? ¡Seré yo!"
+    },
+    {
+      "index": 5,
+      "english": "Wait! What's wrong, guys?",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 1464,
+      "_bytes": 25,
+      "translation": "¡Quietos! ¿Qué os pasa?"
+    },
+    {
+      "index": 6,
+      "english": "We wanna evolve like Piyomon did!",
+      "speaker_id": 2312,
+      "line_type": 2,
+      "_offset": 1490,
+      "_bytes": 33,
+      "translation": "¡Queremos evolucionar como\nPiyomon!"
+    },
+    {
+      "index": 7,
+      "english": "So we're talking about who's gonna\nbe the first to evolve!",
+      "speaker_id": 2313,
+      "line_type": 2,
+      "_offset": 1524,
+      "_bytes": 58,
+      "translation": "¡Y discutimos quién va a\nevolucionar primero!"
+    },
+    {
+      "index": 8,
+      "english": "I said I'd be the first one...",
+      "speaker_id": 2314,
+      "line_type": 2,
+      "_offset": 1583,
+      "_bytes": 30,
+      "translation": "He dicho que seré yo..."
+    },
+    {
+      "index": 9,
+      "english": "No, me!",
+      "speaker_id": 2312,
+      "line_type": 2,
+      "_offset": 1614,
+      "_bytes": 7,
+      "translation": "¡No, yo!"
+    },
+    {
+      "index": 10,
+      "english": "No, me!",
+      "speaker_id": 2313,
+      "line_type": 2,
+      "_offset": 1622,
+      "_bytes": 7,
+      "translation": "¡No, yo!"
+    },
+    {
+      "index": 11,
+      "english": "Stop! So that's why, huh?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 1630,
+      "_bytes": 25,
+      "translation": "¡Basta! Así que es eso..."
+    },
+    {
+      "index": 12,
+      "english": "Sora! Piyomon! Tell us, which one\nof us will evolve first?",
+      "speaker_id": 2312,
+      "line_type": 2,
+      "_offset": 1656,
+      "_bytes": 58,
+      "translation": "¡Sora! ¡Piyomon! Decidnos,\n¿quién evolucionará antes?"
+    },
+    {
+      "index": 13,
+      "english": "Tell us! Tell us!",
+      "speaker_id": 2315,
+      "line_type": 2,
+      "_offset": 1715,
+      "_bytes": 17,
+      "translation": "¡Decidlo! ¡Decidlo!"
+    },
+    {
+      "index": 14,
+      "english": "This is bad.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 1733,
+      "_bytes": 12,
+      "translation": "Qué lío."
+    },
+    {
+      "index": 15,
+      "english": "It doesn't matter which one we\npick... they're just gonna start \nfighting again.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 1746,
+      "_bytes": 80,
+      "translation": "Elijamos a quien elijamos...\nvolverán a pelearse."
+    },
+    {
+      "index": 16,
+      "english": "Yeah...",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 1827,
+      "_bytes": 7,
+      "translation": "Ya..."
+    },
+    {
+      "index": 17,
+      "english": "At a time like this, you've gotta\njust take the blunt approach!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 1835,
+      "_bytes": 63,
+      "translation": "¡En estos casos, hay que ir\na lo bruto!"
+    },
+    {
+      "index": 18,
+      "english": "What do you mean?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 1899,
+      "_bytes": 17,
+      "translation": "¿Cómo que...?"
+    },
+    {
+      "index": 19,
+      "english": "Tell them they've all got a long\nway to go, and then fight 'em!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 1917,
+      "_bytes": 63,
+      "translation": "¡Diles que les queda mucho\npor aprender, y luchad!"
+    },
+    {
+      "index": 20,
+      "english": "That's...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 1981,
+      "_bytes": 9,
+      "translation": "Eso es..."
+    },
+    {
+      "index": 21,
+      "english": "That's a good idea!",
+      "speaker_id": 2315,
+      "line_type": 2,
+      "_offset": 1991,
+      "_bytes": 19,
+      "translation": "¡Es una gran idea!"
+    },
+    {
+      "index": 22,
+      "english": "Hey! Listen up...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 2011,
+      "_bytes": 17,
+      "translation": "¡Eh! Escuchad..."
+    },
+    {
+      "index": 23,
+      "english": "All of you need to get along, and\nby that I mean you need to beat\nus!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 2029,
+      "_bytes": 69,
+      "translation": "¡Tenéis que llevaros bien, y\npara eso tenéis que\nvencernos!"
+    },
+    {
+      "index": 24,
+      "english": "I can't lose to a single one of\nthese kids, so I'll do my best!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 2099,
+      "_bytes": 63,
+      "translation": "¡No puedo perder contra\nninguno, así que a tope!"
+    },
+    {
+      "index": 25,
+      "english": "We did it, Sora!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 2163,
+      "_bytes": 16,
+      "translation": "¡Lo logramos, Sora!"
+    },
+    {
+      "index": 26,
+      "english": "Great job, Piyomon!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 2180,
+      "_bytes": 19,
+      "translation": "¡Bien hecho, Piyomon!"
+    },
+    {
+      "index": 27,
+      "english": "Looks like we've got a long way to\ngo...",
+      "speaker_id": 2312,
+      "line_type": 2,
+      "_offset": 2200,
+      "_bytes": 40,
+      "translation": "Parece que nos queda mucho\npor aprender..."
+    },
+    {
+      "index": 28,
+      "english": "Piyomon really is amazing.",
+      "speaker_id": 2313,
+      "line_type": 2,
+      "_offset": 2241,
+      "_bytes": 26,
+      "translation": "Piyomon es increíble."
+    },
+    {
+      "index": 29,
+      "english": "I'll work hard!",
+      "speaker_id": 2314,
+      "line_type": 2,
+      "_offset": 2268,
+      "_bytes": 15,
+      "translation": "¡Me esforzaré!"
+    },
+    {
+      "index": 30,
+      "english": "That's right! There's no point in\narguing who's gonna evolve first!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 2284,
+      "_bytes": 67,
+      "translation": "¡Eso es! ¡No tiene sentido\ndiscutir quién evoluciona\nantes!"
+    },
+    {
+      "index": 31,
+      "english": "All of you will be able to evolve\neventually!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 2352,
+      "_bytes": 45,
+      "translation": "¡Todos podréis evolucionar\ntarde o temprano!"
+    },
+    {
+      "index": 32,
+      "english": "Thanks, Sora! Thanks, Piyomon!",
+      "speaker_id": 2315,
+      "line_type": 2,
+      "_offset": 2398,
+      "_bytes": 30,
+      "translation": "¡Gracias, Sora! ¡Y Piyomon!"
+    },
+    {
+      "index": 33,
+      "english": "And besides, just because you\ncan't evolve now doesn't mean you\nhave to do it right away!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 2429,
+      "_bytes": 89,
+      "translation": "Y si ahora no podéis\nevolucionar, no pasa nada.\n¡No hay ninguna prisa!"
+    },
+    {
+      "index": 34,
+      "english": "What's wrong, Patamon?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 2519,
+      "_bytes": 22,
+      "translation": "¿Qué pasa, Patamon?"
+    },
+    {
+      "index": 35,
       "english": "...It's nothing.",
-      "_offset": 135,
-      "_length": 16,
-      "speaker_id": 0,
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 2542,
+      "_bytes": 16,
       "translation": "...No es nada."
     }
   ]

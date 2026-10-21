@@ -1,1549 +1,1816 @@
 {
   "file_id": "3522",
-  "text_count": 193,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 201,
   "dialog": [
     {
       "index": 0,
-      "english": "��������I'm so tired. If I walk any more,\nmy legs will get thick.",
-      "_offset": 2859,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Estoy muy cansado. Si sigo\ncaminando, me explotarán\nlas piernas!"
+      "english": "I'm so tired. If I walk any more,\nmy legs will get thick.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 17688,
+      "_bytes": 57,
+      "translation": "¡Qué cansada! ¡Si ando más,\nse me hinchan las piernas!"
     },
     {
       "index": 1,
       "english": "Mimi! This is why you should have\nroots for legs!",
-      "_offset": 2925,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Mimi! Por eso es mejor tener\nraíces!"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 17746,
+      "_bytes": 49,
+      "translation": "¡Mimi! ¡Por eso es mejor tener\nraíces!"
     },
     {
       "index": 2,
       "english": "I don't want roots...",
-      "_offset": 2975,
-      "_length": 21,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 17796,
+      "_bytes": 21,
       "translation": "No me gustan..."
     },
     {
       "index": 3,
       "english": "Looks like it's getting dark.",
-      "_offset": 2997,
-      "_length": 29,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17818,
+      "_bytes": 29,
       "translation": "Está oscureciendo, parece."
     },
     {
       "index": 4,
       "english": "What should we do? It'll be\ndangerous if we keep going after\ndark.",
-      "_offset": 3027,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Que deberíamos hacer? Sería\npeligroso si nos quedamos aquí."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17848,
+      "_bytes": 66,
+      "translation": "¿Qué deberíamos hacer? Sería\npeligroso seguir de noche."
     },
     {
       "index": 5,
       "english": "I smell...I smell it! Fresh water!\nThere's a lake around here!",
-      "_offset": 3094,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Huelo... Huelo agua fresca!\nHay un lago por aquí!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 17915,
+      "_bytes": 62,
+      "translation": "¡Huelo... Huelo agua fresca!\n¡Hay un lago por aquí!"
     },
     {
       "index": 6,
       "english": "We're all tired and hungry...",
-      "_offset": 3157,
-      "_length": 29,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17978,
+      "_bytes": 29,
       "translation": "Estamos todos hambrientos..."
     },
     {
       "index": 7,
       "english": "Should we make camp at the lake\nfor the night?",
-      "_offset": 3187,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Acampamos en el lago para pasar\nla noche?"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 18008,
+      "_bytes": 46,
+      "translation": "¿Acampamos en el lago para pasar\nla noche?"
     },
     {
       "index": 8,
       "english": "Whoa! It's a big lake!",
-      "_offset": 3234,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Guau! Menudo lago!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 18055,
+      "_bytes": 22,
+      "translation": "¡Guau! ¡Menudo lago!"
     },
     {
       "index": 9,
       "english": "It's the perfect place to camp!",
-      "_offset": 3257,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Es un lugar ideal para acampar!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18078,
+      "_bytes": 31,
+      "translation": "¡Es un lugar ideal para acampar!"
     },
     {
       "index": 10,
       "english": "Hey, if we camp out here, does\nthat mean we'll have to sleep\noutdoors?",
-      "_offset": 3289,
-      "_length": 70,
-      "speaker_id": 0,
-      "translation": "Eh, si acampamos aquí... tenemos\nque dormir a la intemperie?"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 18110,
+      "_bytes": 70,
+      "translation": "Eh, ¿si acampamos aquí... tenemos\nque dormir a la intemperie?"
     },
     {
       "index": 11,
       "english": "Yeah, looks like it.",
-      "_offset": 3360,
-      "_length": 20,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18181,
+      "_bytes": 20,
       "translation": "Eso parece."
     },
     {
       "index": 12,
       "english": "No way...",
-      "_offset": 3381,
-      "_length": 9,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 18202,
+      "_bytes": 9,
       "translation": "Oh no..."
     },
     {
       "index": 13,
       "english": "Hey! There's a trolley over there!",
-      "_offset": 3391,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Eh! Aquí hay un tranvía!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 18212,
+      "_bytes": 34,
+      "translation": "¡Eh! ¡Aquí hay un tranvía!"
     },
     {
       "index": 14,
       "english": "T-there is!",
-      "_offset": 3426,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Pues... si."
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18247,
+      "_bytes": 11,
+      "translation": "Pues... sí."
     },
     {
       "index": 15,
       "english": "Why would there be a trolley car\nin a place like this?",
-      "_offset": 3438,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Por qué pondrían un tranvía\nen un lugar así?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 18259,
+      "_bytes": 54,
+      "translation": "¿Por qué pondrían un tranvía\nen un lugar así?"
     },
     {
       "index": 16,
       "english": "Huh? The lights went on!",
-      "_offset": 3493,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Eh? Encendió las luces!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 18314,
+      "_bytes": 24,
+      "translation": "¿Eh? ¡Se han encendido las luces!"
     },
     {
       "index": 17,
       "english": "Someone must be in this car! There\nare people besides us here!",
-      "_offset": 3518,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Alguien debe estar dentro! Hay\nmás personas que nosotros!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 18339,
+      "_bytes": 62,
+      "translation": "¡Alguien debe estar dentro! ¡Hay\nmás personas que nosotros!"
     },
     {
       "index": 18,
       "english": "Let's check it out!",
-      "_offset": 3581,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Echemos un ojo!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18402,
+      "_bytes": 19,
+      "translation": "¡Echemos un ojo!"
     },
     {
       "index": 19,
       "english": "There's no one here.",
-      "_offset": 3601,
-      "_length": 20,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18422,
+      "_bytes": 20,
       "translation": "No hay nadie aquí."
     },
     {
       "index": 20,
       "english": "Seems like it.",
-      "_offset": 3622,
-      "_length": 14,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18443,
+      "_bytes": 14,
       "translation": "Eso parece."
     },
     {
       "index": 21,
       "english": "And after all those phones...\nWhat's going on?",
-      "_offset": 3637,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Primero los teléfonos...\nAhora esto?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18458,
+      "_bytes": 46,
+      "translation": "Primero los teléfonos...\n¿Ahora esto?"
     },
     {
       "index": 22,
       "english": "We should sleep here. Let's figure\nthis out tomorrow.",
-      "_offset": 3684,
-      "_length": 53,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18505,
+      "_bytes": 53,
       "translation": "Deberíamos dormir aquí. Ya\npensaremos mañana."
     },
     {
       "index": 23,
       "english": "Tai! We still don't have enough\nfood!",
-      "_offset": 3738,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Tai! Aún no tenemos suficiente\ncomida!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 18559,
+      "_bytes": 40,
+      "translation": "¡Tai! ¡Aún no tenemos suficiente\ncomida!"
     },
     {
       "index": 24,
       "english": "Yeah... Let's search a bit more!",
-      "_offset": 3779,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Si... busquemos más!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18600,
+      "_bytes": 32,
+      "translation": "Sí... ¡busquemos más!"
     },
     {
       "index": 25,
       "english": "We gathered a lot!",
-      "_offset": 3812,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Tenemos un montón!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 18633,
+      "_bytes": 18,
+      "translation": "¡Tenemos un montón!"
     },
     {
       "index": 26,
       "english": "We all worked together and got all\nthis food!",
-      "_offset": 3831,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Conseguimos toda esta comida\ngracias a todos!"
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 18652,
+      "_bytes": 45,
+      "translation": "¡Conseguimos toda esta comida\ngracias a todos!"
     },
     {
       "index": 27,
       "english": "I'm really, really hungry.",
-      "_offset": 3877,
-      "_length": 26,
-      "speaker_id": 0,
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 18698,
+      "_bytes": 26,
       "translation": "Me muero de hambre."
     },
     {
       "index": 28,
       "english": "All right! Time to head back for\ndinner!",
-      "_offset": 3904,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Muy bien, hora de volver\npara la cena!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18725,
+      "_bytes": 40,
+      "translation": "¡Muy bien, hora de volver\npara la cena!"
     },
     {
       "index": 29,
       "english": "Palmon says she can tell the\ndifference between edible and\npoisonous mushrooms!",
-      "_offset": 3945,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "Palmon dice que sabe distinguir\nlas setas venenosas y\nlas comestibles!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 18766,
+      "_bytes": 79,
+      "translation": "¡Palmon dice que sabe distinguir\nlas setas venenosas y\nlas comestibles!"
     },
     {
       "index": 30,
       "english": "Yep!",
-      "_offset": 4025,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Si!"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 18846,
+      "_bytes": 4,
+      "translation": "¡Sí!"
     },
     {
       "index": 31,
       "english": "Digimon really are amazing!",
-      "_offset": 4030,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Los Digimon son increíbles!"
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 18851,
+      "_bytes": 27,
+      "translation": "¡Los Digimon son increíbles!"
     },
     {
       "index": 32,
       "english": "Can you teach me how?",
-      "_offset": 4058,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Me enseñarías?"
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 18879,
+      "_bytes": 21,
+      "translation": "¿Me enseñarías?"
     },
     {
       "index": 33,
       "english": "It's not just any Digimon who can\ndo this, it's Palmon!",
-      "_offset": 4080,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "No lo hace cualquier Digimon. \nSólo Palmon!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 18901,
+      "_bytes": 55,
+      "translation": "No lo hace cualquier Digimon. \n¡Sólo Palmon!"
     },
     {
       "index": 34,
       "english": "Oh, sorry.",
-      "_offset": 4136,
-      "_length": 10,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 18957,
+      "_bytes": 10,
       "translation": "Lo siento."
     },
     {
       "index": 35,
       "english": "Of course! It'll be fun!",
-      "_offset": 4147,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Claro! Será divertido!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 18968,
+      "_bytes": 24,
+      "translation": "¡Claro! ¡Será divertido!"
     },
     {
       "index": 36,
       "english": "Let's go mushroom hunting!",
-      "_offset": 4172,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Vayamos a por setas!"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 18993,
+      "_bytes": 26,
+      "translation": "¡Vayamos a por setas!"
     },
     {
       "index": 37,
       "english": "Gabumon, do you have any special\ntalents, too?",
-      "_offset": 4199,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Gabumon, también tienes\ntalentos especiales?"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 19020,
+      "_bytes": 46,
+      "translation": "Gabumon, ¿también tienes\ntalentos especiales?"
     },
     {
       "index": 38,
       "english": "I'll bet he doesn't.",
-      "_offset": 4246,
-      "_length": 20,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 19067,
+      "_bytes": 20,
       "translation": "Seguro que no."
     },
     {
       "index": 39,
       "english": "Hmmmmm.",
-      "_offset": 4267,
-      "_length": 7,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 19088,
+      "_bytes": 7,
       "translation": "Hmmm."
     },
     {
       "index": 40,
       "english": "What's wrong? Does your stomach\nhurt?",
-      "_offset": 4275,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Qué pasa? Te duele el estómago?"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 19096,
+      "_bytes": 37,
+      "translation": "¿Qué pasa? ¿Te duele el estómago?"
     },
     {
       "index": 41,
       "english": "No! I'm trying to stargaze to find\nour location, but I can't find the\nNorth Star.",
-      "_offset": 4313,
-      "_length": 81,
-      "speaker_id": 0,
-      "translation": "No! Intento ubicarnos con las\nestrellas, pero no encuentro la\nEstrella Polar!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 19134,
+      "_bytes": 81,
+      "translation": "¡No! ¡Intento ubicarnos con las\nestrellas, pero no encuentro la\nEstrella Polar!"
     },
     {
       "index": 42,
       "english": "I can't see the Southern Cross\neither. Weird.",
-      "_offset": 4395,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Tampoco la Cruz del Sur...\nQue raro."
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 19216,
+      "_bytes": 45,
+      "translation": "Tampoco la Cruz del Sur...\nQué raro."
     },
     {
       "index": 43,
       "english": "So we're not in the Northern or\nSouthern Hemisphere. Hmm.",
-      "_offset": 4441,
-      "_length": 57,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 19262,
+      "_bytes": 57,
       "translation": "No estamos ni en el hemisferio\nnorte, ni sur. Hmm."
     },
     {
       "index": 44,
       "english": "Try not to think about it too\nmuch.",
-      "_offset": 4499,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "No le dés tantas vueltas."
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 19320,
+      "_bytes": 35,
+      "translation": "No le des tantas vueltas."
     },
     {
       "index": 45,
       "english": "You seem to know a lot about\ncooking fish, Matt.",
-      "_offset": 4535,
-      "_length": 50,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19356,
+      "_bytes": 50,
       "translation": "Parece que sabes mucho de cocina,\nMatt."
     },
     {
       "index": 46,
       "english": "Did you learn how at home?",
-      "_offset": 4586,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Aprendiste en casa?"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19407,
+      "_bytes": 26,
+      "translation": "¿Aprendiste en casa?"
     },
     {
       "index": 47,
       "english": "Ah, well...",
-      "_offset": 4613,
-      "_length": 11,
-      "speaker_id": 0,
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 19434,
+      "_bytes": 11,
       "translation": "Bueno..."
     },
     {
       "index": 48,
       "english": "I cook in place of my mom.",
-      "_offset": 4625,
-      "_length": 26,
-      "speaker_id": 0,
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 19446,
+      "_bytes": 26,
       "translation": "Sustituyo a mi madre."
     },
     {
       "index": 49,
-      "english": "Is that so...",
-      "_offset": 4657,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Entiendo..."
+      "english": "...?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19473,
+      "_bytes": 4,
+      "translation": "...?"
     },
     {
       "index": 50,
-      "english": "I wonder if I should try cooking,\ntoo.",
-      "_offset": 4671,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Me pregunto si debería probar\ntambién."
+      "english": "Is that so...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19478,
+      "_bytes": 13,
+      "translation": "Entiendo..."
     },
     {
       "index": 51,
-      "english": "Was it hard, fishing with T.K?",
-      "_offset": 4710,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Fué difícil pescar con T.K?"
+      "english": "I wonder if I should try cooking,\ntoo.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 19492,
+      "_bytes": 38,
+      "translation": "Me pregunto si debería probar\ntambién."
     },
     {
       "index": 52,
-      "english": "Not at all! He's very skillful! It\nwas enjoyable for me as well.",
-      "_offset": 4744,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "Para nada! Es muy habilidoso!\nMe lo pasé bien yo también."
+      "english": "Was it hard, fishing with T.K?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 19531,
+      "_bytes": 33,
+      "translation": "¿Fue difícil pescar con T.K.?"
     },
     {
       "index": 53,
-      "english": "Invite me next time.",
-      "_offset": 4809,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Invítame entonces!"
+      "english": "Not at all! He's very skillful! It\nwas enjoyable for me as well.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 19565,
+      "_bytes": 64,
+      "translation": "¡Para nada! ¡Es muy habilidoso!\nMe lo pasé bien yo también."
     },
     {
       "index": 54,
-      "english": "He wasn't too much trouble?",
-      "_offset": 4830,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "No te dió muchos problemas?"
+      "english": "Invite me next time.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 19630,
+      "_bytes": 20,
+      "translation": "¡Invítame otro día!"
     },
     {
       "index": 55,
-      "english": "All right, next time the three of\nus will go fishing together!",
-      "_offset": 4858,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Vale, la siguiente vez iremos los\ntres a pescar juntos!"
+      "english": "He wasn't too much trouble?",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 19651,
+      "_bytes": 27,
+      "translation": "¿No te dio muchos problemas?"
     },
     {
       "index": 56,
-      "english": "I never thought of him as being a\nburden to me...",
-      "_offset": 4921,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Nunca le he visto\ncomo una carga..."
+      "english": "All right, next time the three of\nus will go fishing together!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 19679,
+      "_bytes": 62,
+      "translation": "¡Vale, la siguiente vez iremos los\ntres a pescar juntos!"
     },
     {
       "index": 57,
-      "english": "There seem to be normal fish here\nand not just Digimon.",
-      "_offset": 4971,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Parece haber pescado normal aquí.\nNo sólo Digimon."
+      "english": "I never thought of him as being a\nburden to me...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 19742,
+      "_bytes": 49,
+      "translation": "Nunca le he visto\ncomo una carga..."
     },
     {
       "index": 58,
-      "english": "Catching fish was fun, but I don't\nlike fish bones.",
-      "_offset": 5027,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Pescar es divertido, pero odio\nlas espinas."
+      "english": "There seem to be normal fish here\nand not just Digimon.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 19792,
+      "_bytes": 55,
+      "translation": "Parece haber pescado normal aquí.\nNo sólo Digimon."
     },
     {
       "index": 59,
-      "english": "I would've taken them out if you'd\nasked.",
-      "_offset": 5079,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Te las hubiese quitado si\npreguntases."
+      "english": "Catching fish was fun, but I don't\nlike fish bones.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 19848,
+      "_bytes": 51,
+      "translation": "Pescar es divertido, pero odio\nlas espinas."
     },
     {
       "index": 60,
-      "english": "But Tai said it's tastier if\nyou eat the head whole.",
-      "_offset": 5121,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Pero Tai dijo que sabe mejor\nsi te lo comes entero."
+      "english": "I would've taken them out if you'd\nasked.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 19900,
+      "_bytes": 41,
+      "translation": "Te las quitaba si me lo\nhubieras pedido."
     },
     {
       "index": 61,
-      "english": "Is it really?",
-      "_offset": 5177,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "De veras?"
+      "english": "But Tai said it's tastier if\nyou eat the head whole.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 19942,
+      "_bytes": 55,
+      "translation": "Pero Tai dijo que sabe mejor\nsi te lo comes entero."
     },
     {
       "index": 62,
-      "english": "Looks like we're safe for tonight,\nbut... What'll we do tomorrow?",
-      "_offset": 5191,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Parece que estamos seguros para\nesta noche... Pero y mañana?"
+      "english": "Is it really?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 19998,
+      "_bytes": 13,
+      "translation": "¿De veras?"
     },
     {
       "index": 63,
-      "english": "We should rest for now and think\nabout it tomorrow.",
-      "_offset": 5257,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Descansemos por ahora,\npensemos en eso mañana."
+      "english": "Looks like we're safe for tonight,\nbut... What'll we do tomorrow?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 20012,
+      "_bytes": 65,
+      "translation": "Parece que estamos seguros para\nesta noche... ¿Pero y mañana?"
     },
     {
       "index": 64,
-      "english": "I'm tired, too.",
-      "_offset": 5309,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Estoy cansado."
+      "english": "We should rest for now and think\nabout it tomorrow.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 20078,
+      "_bytes": 51,
+      "translation": "Descansemos por ahora,\npensemos en eso mañana."
     },
     {
       "index": 65,
-      "english": "*yawn*",
-      "_offset": 5325,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Uuahh!"
+      "english": "I'm tired, too.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 20130,
+      "_bytes": 15,
+      "translation": "Estoy cansado."
     },
     {
       "index": 66,
-      "english": "Are you tired, Patamon?",
-      "_offset": 5332,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Bostezas, Patamon!"
+      "english": "*yawn*",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 20146,
+      "_bytes": 6,
+      "translation": "¡Uuahh!"
     },
     {
       "index": 67,
-      "english": "Yeah.",
-      "_offset": 5356,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Si."
+      "english": "Are you tired, Patamon?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 20153,
+      "_bytes": 23,
+      "translation": "¿Tienes sueño, Patamon?"
     },
     {
       "index": 68,
-      "english": "*yawn* I'm full. I should sleep\nsoon.",
-      "_offset": 5362,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "(bosteza)\nEstoy lleno. Toca dormir."
+      "english": "Yeah.",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 20177,
+      "_bytes": 5,
+      "translation": "Sí."
     },
     {
       "index": 69,
-      "english": "Should we keep watch in shifts?",
-      "_offset": 5400,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Deberíamos hacer guardias?"
+      "english": "*yawn* I'm full. I should sleep\nsoon.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 20183,
+      "_bytes": 37,
+      "translation": "(bosteza)\nEstoy lleno. Toca dormir."
     },
     {
       "index": 70,
-      "english": "Okay. Let's pick an order.",
-      "_offset": 5432,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Vale, elijamos un orden."
+      "english": "Should we keep watch in shifts?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 20221,
+      "_bytes": 31,
+      "translation": "¿Deberíamos hacer guardias?"
     },
     {
       "index": 71,
-      "english": "I don't think the girls should\nhave to do it. Or T.K.",
-      "_offset": 5459,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "No creo que sea cosa de chicas,\nni para T.K."
+      "english": "Okay. Let's pick an order.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 20253,
+      "_bytes": 26,
+      "translation": "Vale, elijamos un orden."
     },
     {
       "index": 72,
-      "english": "I'll be fine!",
-      "_offset": 5516,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Está bien!"
+      "english": "I don't think the girls should\nhave to do it. Or T.K.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 20280,
+      "_bytes": 56,
+      "translation": "Las chicas no deberían hacer\nguardia. Ni T.K."
     },
     {
       "index": 73,
-      "english": "Don't worry about it. Get some\nrest.",
-      "_offset": 5530,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "No te precupes, tú descansa."
+      "english": "I'll be fine!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 20337,
+      "_bytes": 13,
+      "translation": "¡Yo puedo hacerlo!"
     },
     {
       "index": 74,
-      "english": "Hey, Gabumon. Let me use your pelt\nas a blanket!",
-      "_offset": 5567,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Ey Gabumon. Déjame usar tu capa\nde sábana!"
+      "english": "Don't worry about it. Get some\nrest.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 20351,
+      "_bytes": 36,
+      "translation": "No te preocupes, tú descansa."
     },
     {
       "index": 75,
-      "english": "I've always wondered what's under\nyour fur, Gabumon!",
-      "_offset": 5622,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Siempre me pregunto que hay bajo\nesa piel, Gabumon!"
+      "english": "Hey, Gabumon. Let me use your pelt\nas a blanket!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 20388,
+      "_bytes": 48,
+      "translation": "Eh, Gabumon. ¡Déjame usar tu piel\nde manta!"
     },
     {
       "index": 76,
-      "english": "A-a-about that...",
-      "_offset": 5675,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Eh... es..."
+      "english": "...!?",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 20437,
+      "_bytes": 5,
+      "translation": "...!?"
     },
     {
       "index": 77,
-      "english": "Stop it! Can't you see he doesn't\nlike it?",
-      "_offset": 5693,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Para! No ves que no le está\ngustando?"
+      "english": "I've always wondered what's under\nyour fur, Gabumon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 20443,
+      "_bytes": 52,
+      "translation": "¡Siempre me pregunto qué hay bajo\nesa piel, Gabumon!"
     },
     {
       "index": 78,
-      "english": "It was just a joke, don't get mad!",
-      "_offset": 5736,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Era sólo una broma, tranquilo!"
+      "english": "A-a-about that...",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 20496,
+      "_bytes": 17,
+      "translation": "Eh... es..."
     },
     {
       "index": 79,
-      "english": "S-stop it! Both of you!",
-      "_offset": 5771,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Parad! Ambos!"
+      "english": "Stop it! Can't you see he doesn't\nlike it?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 20514,
+      "_bytes": 42,
+      "translation": "¡Para! ¿No ves que no le está\ngustando?"
     },
     {
       "index": 80,
-      "english": "So, who'll take the first shift on\nguard duty?",
-      "_offset": 5795,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Pues... quien hace la primera\nguardia?"
+      "english": "It was just a joke, don't get mad!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 20557,
+      "_bytes": 34,
+      "translation": "¡Era sólo una broma, tranquilo!"
     },
     {
       "index": 81,
-      "english": "I'll go first.",
-      "_offset": 5842,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Iré primero."
+      "english": "S-stop it! Both of you!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 20592,
+      "_bytes": 23,
+      "translation": "¡Parad! ¡Ambos!"
     },
     {
       "index": 82,
-      "english": "I'll go next.",
-      "_offset": 5857,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Luego yo."
+      "english": "So, who'll take the first shift on\nguard duty?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 20616,
+      "_bytes": 46,
+      "translation": "Pues... ¿quién hace la primera\nguardia?"
     },
     {
       "index": 83,
-      "english": "Matt...",
-      "_offset": 5879,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Matt..."
+      "english": "I'll go first.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 20663,
+      "_bytes": 14,
+      "translation": "Iré primero."
     },
     {
       "index": 84,
-      "english": "Matt's harmonica has such a nice\ntone.",
-      "_offset": 5889,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Su harmónica tiene un\nsonido muy bonito."
+      "english": "I'll go next.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 20678,
+      "_bytes": 13,
+      "translation": "Luego yo."
     },
     {
       "index": 85,
-      "english": "(Why did I have to get so angry\nover such a little thing?)",
-      "_offset": 5930,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "(Por qué me he enfadado por\nuna cosa así?)"
+      "english": "...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 20692,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 86,
-      "english": "(I should go check on Tai...)",
-      "_offset": 5989,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "(Debería ver cómo está Tai...)"
+      "english": "...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 20696,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 87,
-      "english": "Apologize to Tai",
-      "_offset": 6022,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Disculparse a Tai"
+      "english": "Matt...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 20700,
+      "_bytes": 9,
+      "translation": "Matt..."
     },
     {
       "index": 88,
-      "english": "Don't apologize to Tai",
-      "_offset": 6042,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "No disculparse con Tai"
+      "english": "Matt's harmonica has such a nice\ntone.",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 20710,
+      "_bytes": 40,
+      "translation": "Su armónica tiene un\nsonido muy bonito."
     },
     {
       "index": 89,
-      "english": "I couldn't sleep. Sorry about\nearlier.",
-      "_offset": 6068,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "No podía dormir. Lamento lo\nde antes."
+      "english": "(Why did I have to get so angry\nover such a little thing?)",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 20751,
+      "_bytes": 58,
+      "translation": "(¿Por qué me he enfadado por\nuna cosa así?)"
     },
     {
       "index": 90,
-      "english": "It was my fault too. I keep\ngetting irritated over stupid\nthings.",
-      "_offset": 6107,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Fue mi culpa también. Me irrito\npor estupideces."
+      "english": "(I should go check on Tai...)",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 20810,
+      "_bytes": 32,
+      "translation": "(Debería ver cómo está Tai...)"
     },
     {
       "index": 91,
-      "english": "I know the feeling. When we can't\nhold ourselves together, we just\nend up fighting.",
-      "_offset": 6173,
-      "_length": 83,
-      "speaker_id": 0,
-      "translation": "Lo comprendo. Cuando no nos\ncontrolamos,\nacabamos discutiendo."
+      "english": "Apologize to Tai",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 20843,
+      "_bytes": 19,
+      "translation": "Disculparse con Tai"
     },
     {
       "index": 92,
-      "english": "I just came here to make sure that\nyou're not falling asleep.",
-      "_offset": 6257,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "He venido para asegurarme de que\nno te quedases dormido."
+      "english": "Don't apologize to Tai",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 20863,
+      "_bytes": 25,
+      "translation": "No disculparse con Tai"
     },
     {
       "index": 93,
-      "english": "Right. I'm awake and watching,\ndon't worry.",
-      "_offset": 6319,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Ya. Estoy despierto y vigilando.\nDescuida."
+      "english": "I couldn't sleep. Sorry about\nearlier.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 20889,
+      "_bytes": 38,
+      "translation": "No podía dormir. Lamento lo\nde antes."
     },
     {
       "index": 94,
-      "english": "By the way, I've been wondering.\nWhat's your relationship to\nT.K?",
-      "_offset": 6367,
-      "_length": 68,
-      "speaker_id": 0,
-      "translation": "Por cierto, me preguntaba...\nQué relación tienes con T.K?"
+      "english": "It was my fault too. I keep\ngetting irritated over stupid\nthings.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 20928,
+      "_bytes": 65,
+      "translation": "Fue mi culpa también. Me irrito\npor estupideces."
     },
     {
       "index": 95,
-      "english": "We're brothers. We've been living\nseparately ever since our parents\ndivorced.",
-      "_offset": 6436,
-      "_length": 77,
-      "speaker_id": 0,
-      "translation": "Somos hermanos. Vivimos separados\ndesde el divorcio de nuestros\npadres."
+      "english": "I know the feeling. When we can't\nhold ourselves together, we just\nend up fighting.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 20994,
+      "_bytes": 83,
+      "translation": "Lo comprendo. Cuando no nos\ncontrolamos,\nacabamos discutiendo."
     },
     {
       "index": 96,
-      "english": "I live with our father, and T.K\nlives with our mother.",
-      "_offset": 6517,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Vivo con nuestro padre.\nT.K vive con nuestra madre."
+      "english": "I just came here to make sure that\nyou're not falling asleep.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 21078,
+      "_bytes": 61,
+      "translation": "He venido para asegurarme de que\nno te quedes dormido."
     },
     {
       "index": 97,
-      "english": "So that's why you have different\nsurnames.",
-      "_offset": 6575,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Por eso los diferentes\napellidos..."
+      "english": "Right. I'm awake and watching,\ndon't worry.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 21140,
+      "_bytes": 43,
+      "translation": "Ya. Estoy despierto y vigilando.\nDescuida."
     },
     {
       "index": 98,
-      "english": "Yeah.",
-      "_offset": 6618,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Si."
+      "english": "...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 21184,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 99,
-      "english": "I've been waiting to use the\nbathroom... I wonder where Matt\nwent.",
-      "_offset": 6624,
-      "_length": 68,
-      "speaker_id": 0,
-      "translation": "Estaba esperando para ir al baño.\nMe pregunto donde está Matt."
+      "english": "By the way, I've been wondering.\nWhat's your relationship to\nT.K?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 21188,
+      "_bytes": 68,
+      "translation": "Por cierto, me preguntaba...\n¿Qué relación tienes con T.K.?"
     },
     {
       "index": 100,
-      "english": "Hm? What's this?",
-      "_offset": 6693,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "? Qué es esto?"
+      "english": "We're brothers. We've been living\nseparately ever since our parents\ndivorced.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 21257,
+      "_bytes": 77,
+      "translation": "Somos hermanos. Vivimos separados\ndesde el divorcio de nuestros\npadres."
     },
     {
       "index": 101,
-      "english": "An earthquake?",
-      "_offset": 6710,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Un terremoto?"
+      "english": "!!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 21335,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 102,
-      "english": "Look over there, it's a monster!",
-      "_offset": 6725,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Mira esto, es un monstruo!"
+      "english": "I live with our father, and T.K\nlives with our mother.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 21338,
+      "_bytes": 57,
+      "translation": "Vivo con nuestro padre.\nT.K. vive con nuestra madre."
     },
     {
       "index": 103,
-      "english": "What is that thing?!",
-      "_offset": 6758,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Qué es esa cosa?!"
+      "english": "So that's why you have different\nsurnames.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 21396,
+      "_bytes": 42,
+      "translation": "Por eso los diferentes\napellidos..."
     },
     {
       "index": 104,
-      "english": "That's Seadramon!",
-      "_offset": 6779,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Es Seadramon!"
+      "english": "Yeah.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 21439,
+      "_bytes": 5,
+      "translation": "Sí."
     },
     {
       "index": 105,
-      "english": "T.K!",
-      "_offset": 6797,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "T.K!"
+      "english": "I've been waiting to use the\nbathroom... I wonder where Matt\nwent.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 21445,
+      "_bytes": 68,
+      "translation": "Estaba esperando para ir al baño.\nMe pregunto dónde está Matt."
     },
     {
       "index": 106,
-      "english": "Uwaaah!",
-      "_offset": 6805,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Uaaah!"
+      "english": "Hm? What's this?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 21514,
+      "_bytes": 16,
+      "translation": "¿Eh? ¿Qué es esto?"
     },
     {
       "index": 107,
-      "english": "Uwaaaaah!",
-      "_offset": 6813,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Uaaaaah!"
+      "english": "An earthquake?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 21531,
+      "_bytes": 14,
+      "translation": "¿Un terremoto?"
     },
     {
       "index": 108,
-      "english": "Matt! Gabumon, do something to\nhelp my brother!",
-      "_offset": 6823,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Matt! Gabumon, haz algo para\nayudar a mi hermano!"
+      "english": "Look over there, it's a monster!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 21546,
+      "_bytes": 32,
+      "translation": "¡Mira esto, es un monstruo!"
     },
     {
       "index": 109,
-      "english": "B-but I can't. I'm not strong\nenough.",
-      "_offset": 6873,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "P-pero.. no puedo. No soy tan\nfuerte."
+      "english": "What is that thing?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 21579,
+      "_bytes": 20,
+      "translation": "¡¿Qué es esa cosa?!"
     },
     {
       "index": 110,
-      "english": "This way! Come get me!",
-      "_offset": 6911,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Por aquí! Mirame!"
+      "english": "That's Seadramon!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 21600,
+      "_bytes": 17,
+      "translation": "¡Es Seadramon!"
     },
     {
       "index": 111,
-      "english": "Y-Matt! I can't do it. I'm too\nscared...",
-      "_offset": 6934,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Matt! No puedo. Estoy asustado..."
+      "english": "T.K!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 21618,
+      "_bytes": 7,
+      "translation": "¡T.K.!"
     },
     {
       "index": 112,
-      "english": "Gabumon...",
-      "_offset": 6977,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Gabumon..."
+      "english": "Uwaaah!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 21626,
+      "_bytes": 7,
+      "translation": "¡Uaaah!"
     },
     {
       "index": 113,
-      "english": "I'm scared, but!",
-      "_offset": 6988,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Asustado... pero"
+      "english": "Uwaaaaah!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 21634,
+      "_bytes": 9,
+      "translation": "¡Uaaaaah!"
     },
     {
       "index": 114,
-      "english": "If I don't do something, I won't\nbe able to listen to the gentle\ntone of Matt's harmonica again.",
-      "_offset": 7005,
-      "_length": 98,
-      "speaker_id": 0,
-      "translation": "Si no hago nada, no podré volver\na escuchar el dulce sonido de su\nharmónica nunca jamás..."
+      "english": "Matt! Gabumon, do something to\nhelp my brother!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 21644,
+      "_bytes": 49,
+      "translation": "¡Matt! Gabumon, ¡haz algo para\nayudar a mi hermano!"
     },
     {
       "index": 115,
-      "english": "Garurumon? Gabumon evolved!",
-      "_offset": 7104,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Garurumon? Ha evolucionado!"
+      "english": "B-but I can't. I'm not strong\nenough.",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 21694,
+      "_bytes": 37,
+      "translation": "P-pero... no puedo. No soy tan\nfuerte."
     },
     {
       "index": 116,
-      "english": "Amazing, Gabumon! You can do it!",
-      "_offset": 7132,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Increíble Gabumon! Tú puedes!"
+      "english": "This way! Come get me!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 21732,
+      "_bytes": 22,
+      "translation": "¡Aquí! ¡Ven a por mí!"
     },
     {
       "index": 117,
-      "english": "A second evolution! Agumon's not\nthe only Digimon who can evolve!",
-      "_offset": 7165,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Otra digievolución! Agumón no es\nel único que puede hacerlo!"
+      "english": "Y-Matt! I can't do it. I'm too\nscared...",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 21755,
+      "_bytes": 42,
+      "translation": "¡Matt! No puedo. Estoy asustado..."
     },
     {
       "index": 118,
-      "english": "It looks like we made it. Somehow.",
-      "_offset": 7231,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Parece que lo conseguimos..."
+      "english": "Gabumon...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 21798,
+      "_bytes": 10,
+      "translation": "Gabumon..."
     },
     {
       "index": 119,
-      "english": "Why didn't you tell me from the\nstart that you could evolve,\nGabumon?",
-      "_offset": 7266,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Por que no me dijiste que podías\ndigievolucionar, Gabumon?"
+      "english": "I'm scared, but!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 21809,
+      "_bytes": 16,
+      "translation": "Tengo miedo... ¡pero!"
     },
     {
       "index": 120,
-      "english": "I couldn't tell you! It was the\nfirst time!",
-      "_offset": 7336,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "No lo sabía! Es la primera vez!"
+      "english": "If I don't do something, I won't\nbe able to listen to the gentle\ntone of Matt's harmonica again.",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 21826,
+      "_bytes": 98,
+      "translation": "Si no hago nada, no podré volver\na escuchar el dulce sonido de su\narmónica nunca jamás..."
     },
     {
       "index": 121,
-      "english": "Gabumon! Thanks for saving us! And\nthank you too, Matt!",
-      "_offset": 7380,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Gabumon! Gracias por salvarnos!\nY gracias también, Matt!"
+      "english": "Garurumon? Gabumon evolved!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 21925,
+      "_bytes": 27,
+      "translation": "¿Garurumon? ¡Ha evolucionado!"
     },
     {
       "index": 122,
-      "english": "I-it wasn't...",
-      "_offset": 7438,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "N-no fué..."
+      "english": "Amazing, Gabumon! You can do it!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 21953,
+      "_bytes": 32,
+      "translation": "¡Increíble Gabumon! ¡Tú puedes!"
     },
     {
       "index": 123,
-      "english": "You're so shy.",
-      "_offset": 7453,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Qué timido."
+      "english": "A second evolution! Agumon's not\nthe only Digimon who can evolve!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 21986,
+      "_bytes": 65,
+      "translation": "¡Otra digievolución! ¡Agumon no es\nel único que puede hacerlo!"
     },
     {
       "index": 124,
-      "english": "Look who's talking!",
-      "_offset": 7468,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Mira quien habla!"
+      "english": "It looks like we made it. Somehow.",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 22052,
+      "_bytes": 34,
+      "translation": "Parece que lo conseguimos..."
     },
     {
       "index": 125,
-      "english": "Hahaha!",
-      "_offset": 7488,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Jajaja!"
+      "english": "Why didn't you tell me from the\nstart that you could evolve,\nGabumon?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 22087,
+      "_bytes": 69,
+      "translation": "¿Por qué no me dijiste que podías\ndigievolucionar, Gabumon?"
     },
     {
       "index": 126,
-      "english": "Hey, shouldn't we go back and\ncheck the trolley?",
-      "_offset": 7496,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Eh, no deberíamos echar un ojo\nal tranvía?"
+      "english": "I couldn't tell you! It was the\nfirst time!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 22157,
+      "_bytes": 43,
+      "translation": "¡No lo sabía! ¡Es la primera vez!"
     },
     {
       "index": 127,
-      "english": "I was already planning on it.",
-      "_offset": 7545,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "En eso estaba pensando."
+      "english": "Gabumon! Thanks for saving us! And\nthank you too, Matt!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 22201,
+      "_bytes": 57,
+      "translation": "¡Gabumon! ¡Gracias por salvarnos!\n¡Y gracias también, Matt!"
     },
     {
       "index": 128,
-      "english": "(sniff) This is...",
-      "_offset": 7575,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "(sniff) Esto..."
+      "english": "I-it wasn't...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 22259,
+      "_bytes": 14,
+      "translation": "N-no fue..."
     },
     {
       "index": 129,
-      "english": "What's the matter, Gabumon?",
-      "_offset": 7594,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Qué ocurre, Gabumon?"
+      "english": "You're so shy.",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 22274,
+      "_bytes": 14,
+      "translation": "Qué tímido."
     },
     {
       "index": 130,
-      "english": "Something smells delicious! Here\nin the forest!",
-      "_offset": 7622,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Algo huele genial! Aquí, en el\nbosque!"
+      "english": "Look who's talking!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 22289,
+      "_bytes": 19,
+      "translation": "¡Mira quién habla!"
     },
     {
       "index": 131,
-      "english": "You're right! Is it fruit?",
-      "_offset": 7670,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Es verdad! Es fruta?"
+      "english": "Hahaha!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 22309,
+      "_bytes": 7,
+      "translation": "¡Jajaja!"
     },
     {
       "index": 132,
-      "english": "Fruit? Now that you mention it,\nI'm hungry...",
-      "_offset": 7697,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Fruta? ahora que lo dices,\ntengo hambre..."
+      "english": "Hey, shouldn't we go back and\ncheck the trolley?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 22317,
+      "_bytes": 48,
+      "translation": "Eh, ¿no deberíamos echar un ojo\nal tranvía?"
     },
     {
       "index": 133,
-      "english": "It could get cold tonight, and we\ndon't have any way to keep\nourselves warm...",
-      "_offset": 7743,
-      "_length": 78,
-      "speaker_id": 0,
-      "translation": "Podría refrescar esta noche, y no\ntenemos cómo estar al caliente..."
+      "english": "I was already planning on it.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 22366,
+      "_bytes": 29,
+      "translation": "En eso estaba pensando."
     },
     {
       "index": 134,
-      "english": "Why don't we set up camp?\nLet's go look for food and\nmaterials!",
-      "_offset": 7822,
-      "_length": 63,
-      "speaker_id": 0,
-      "translation": "Por qué no acampamos?\nVayamos a buscar comida y\nmateriales."
+      "english": "(sniff) This is...",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 22396,
+      "_bytes": 18,
+      "translation": "(snif) Esto..."
     },
     {
       "index": 135,
-      "english": "Ah, these are...!",
-      "_offset": 7886,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Ah, esas son...!"
+      "english": "What's the matter, Gabumon?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 22415,
+      "_bytes": 27,
+      "translation": "¿Qué ocurre, Gabumon?"
     },
     {
       "index": 136,
-      "english": "They look like apples.",
-      "_offset": 7904,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Parecen manzanas."
+      "english": "Something smells delicious! Here\nin the forest!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 22443,
+      "_bytes": 47,
+      "translation": "¡Algo huele genial! ¡Aquí, en el\nbosque!"
     },
     {
       "index": 137,
-      "english": "They're DigiApples! They're really\nsour and tasty!",
-      "_offset": 7927,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Son DigiManzanas! Ácidas y\ndeliciosas."
+      "english": "You're right! Is it fruit?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 22491,
+      "_bytes": 26,
+      "translation": "¡Es verdad! ¿Es fruta?"
     },
     {
       "index": 138,
-      "english": "That doesn't sound very tasty.",
-      "_offset": 7978,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "No suena... delicioso."
+      "english": "Fruit? Now that you mention it,\nI'm hungry...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 22518,
+      "_bytes": 45,
+      "translation": "¿Fruta? Ahora que lo dices,\ntengo hambre..."
     },
     {
       "index": 139,
-      "english": "Obtained DigiApples!",
-      "_offset": 8009,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Coges DigiManzanas!"
+      "english": "It could get cold tonight, and we\ndon't have any way to keep\nourselves warm...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 22564,
+      "_bytes": 78,
+      "translation": "Podría refrescar esta noche, y no\ntenemos cómo estar al caliente..."
     },
     {
       "index": 140,
-      "english": "What's this?",
-      "_offset": 8030,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Qué es esto?"
+      "english": "Why don't we set up camp?\nLet's go look for food and\nmaterials!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 22643,
+      "_bytes": 63,
+      "translation": "¿Por qué no acampamos?\nVayamos a buscar comida y\nmateriales."
     },
     {
       "index": 141,
-      "english": "That's firewood! We can cook food\nwith it.",
-      "_offset": 8043,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Es leña! Podemos cocinar\ncon ella."
+      "english": "Ah, these are...!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 22707,
+      "_bytes": 17,
+      "translation": "¡Ah, esas son...!"
     },
     {
       "index": 142,
-      "english": "Can I light it with my Llama Bebé?",
-      "_offset": 8086,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "La enciendo con mi Llama Bebé?"
+      "english": "They look like apples.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 22725,
+      "_bytes": 22,
+      "translation": "Parecen manzanas."
     },
     {
       "index": 143,
-      "english": "I can use my MiniFuego, too.",
-      "_offset": 8121,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "O usar Minifuego, también."
+      "english": "They're DigiApples! They're really\nsour and tasty!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 22748,
+      "_bytes": 50,
+      "translation": "¡Son DigiManzanas! Ácidas y\ndeliciosas."
     },
     {
       "index": 144,
-      "english": "If I used Disparo de Aire...",
-      "_offset": 8151,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Si disparo aire..."
+      "english": "That doesn't sound very tasty.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 22799,
+      "_bytes": 30,
+      "translation": "No suena... delicioso."
     },
     {
       "index": 145,
-      "english": "You'd blow away the firewood.",
-      "_offset": 8173,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Lanzarías la leña fuera."
+      "english": "Obtained DigiApples!",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 22830,
+      "_bytes": 20,
+      "translation": "¡Obtienes DigiManzanas!"
     },
     {
       "index": 146,
-      "english": "Obtained firewood!",
-      "_offset": 8203,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Obtienes leña!"
+      "english": "What's this?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 22851,
+      "_bytes": 12,
+      "translation": "¿Qué es esto?"
     },
     {
       "index": 147,
-      "english": "These seem to be...",
-      "_offset": 8222,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Esto parece..."
+      "english": "That's firewood! We can cook food\nwith it.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 22864,
+      "_bytes": 42,
+      "translation": "¡Es leña! Podemos cocinar\ncon ella."
     },
     {
       "index": 148,
-      "english": "Those are DigiBananas! They're\nreally juicy!",
-      "_offset": 8242,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Son DigiBananas! Son\nmuy jugosas!"
+      "english": "Can I light it with my Baby Flame?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 22907,
+      "_bytes": 34,
+      "translation": "¿La enciendo con mi Llama Bebé?"
     },
     {
       "index": 149,
-      "english": "That's not like the bananas in our\nworld at all.",
-      "_offset": 8287,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "No se parecen en nada a las de\nnuestro mundo."
+      "english": "I can use my Petit Fire, too.",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 22942,
+      "_bytes": 29,
+      "translation": "O usar Mini Fuego, también."
     },
     {
       "index": 150,
-      "english": "It's possible that they're\npoisonous to humans.",
-      "_offset": 8336,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Quizás sean tóxicas para\nlos humanos."
+      "english": "If I used Air Shot...",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 22972,
+      "_bytes": 21,
+      "translation": "Si disparo aire..."
     },
     {
       "index": 151,
-      "english": "It'll be fiiiiiine! Bananas are\nbananas!",
-      "_offset": 8384,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Estará bieeeen! Bananas son\nbananas!"
+      "english": "You'd blow away the firewood.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 22994,
+      "_bytes": 29,
+      "translation": "Lanzarías la leña fuera."
     },
     {
       "index": 152,
-      "english": "Ok then. Tai will be the poison\ntester.",
-      "_offset": 8425,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Muy bien. Tai las probará\nprimero."
+      "english": "Obtained firewood!",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 23024,
+      "_bytes": 18,
+      "translation": "¡Obtienes leña!"
     },
     {
       "index": 153,
-      "english": "Obtained DigiBananas!",
-      "_offset": 8472,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Coges DigiBananas!"
-    },
-    {
-      "index": 154,
-      "english": "These look like...",
-      "_offset": 8494,
-      "_length": 18,
-      "speaker_id": 0,
+      "english": "These seem to be...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 23043,
+      "_bytes": 19,
       "translation": "Esto parece..."
     },
     {
+      "index": 154,
+      "english": "Those are DigiBananas! They're\nreally juicy!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 23063,
+      "_bytes": 44,
+      "translation": "¡Son DigiBananas! ¡Son\nmuy jugosas!"
+    },
+    {
       "index": 155,
-      "english": "They're DigiMushrooms! They're\ndelicious when you bake them!",
-      "_offset": 8513,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Son DigiSetas! Son deliciosas\nsi se cocinan bien!"
+      "english": "That's not like the bananas in our\nworld at all.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 23108,
+      "_bytes": 48,
+      "translation": "No se parecen en nada a las de\nnuestro mundo."
     },
     {
       "index": 156,
-      "english": "But you need to be careful.\nThere's also DigiMushams, and\nthose are poisonous.",
-      "_offset": 8574,
-      "_length": 78,
-      "speaker_id": 0,
-      "translation": "Pero ten cuidado. También hay\nDigiHongos, que son venenosos."
+      "english": "It's possible that they're\npoisonous to humans.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 23157,
+      "_bytes": 47,
+      "translation": "Quizás sean tóxicas para\nlos humanos."
     },
     {
       "index": 157,
-      "english": "So there are poisonous mushrooms\nhere too.",
-      "_offset": 8653,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Así que aquí también hay\nvenenosas."
+      "english": "It'll be fiiiiiine! Bananas are\nbananas!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 23205,
+      "_bytes": 40,
+      "translation": "¡Estará bieeeen! ¡Bananas son\nbananas!"
     },
     {
       "index": 158,
-      "english": "Poisonous mushrooms? I'm sure I'll\nknow one when I see it.",
-      "_offset": 8696,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Setas venenosas? Seguro que\nlas reconozco al verlas."
+      "english": "Ok then. Tai will be the poison\ntester.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 23246,
+      "_bytes": 42,
+      "translation": "Muy bien. Tai las probará\nprimero."
     },
     {
       "index": 159,
-      "english": "Really? Then if we need advice,\nwe'll ask...",
-      "_offset": 8755,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "De veras? Si necesito consejo,\nte aviso..."
+      "english": "...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 23289,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 160,
-      "english": "I won't eat any poisonous ones,\nI'm positive! Hahaha!",
-      "_offset": 8800,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "No comeré las venenosas,\nseguro! Jajaja!"
+      "english": "Obtained DigiBananas!",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 23293,
+      "_bytes": 21,
+      "translation": "¡Obtienes DigiBananas!"
     },
     {
       "index": 161,
-      "english": "Why do I have a bad feeling about\nthis?",
-      "_offset": 8854,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Por qué tengo un mal \npresentimiento?"
+      "english": "These look like...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 23315,
+      "_bytes": 18,
+      "translation": "Esto parece..."
     },
     {
       "index": 162,
-      "english": "Obtained DigiMushrooms!",
-      "_offset": 8894,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Obtienes Digisetas!"
+      "english": "They're DigiMushrooms! They're\ndelicious when you bake them!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 23334,
+      "_bytes": 60,
+      "translation": "¡Son DigiSetas! ¡Son deliciosas\nsi se cocinan bien!"
     },
     {
       "index": 163,
-      "english": "So this is...",
-      "_offset": 8918,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Esto es..."
+      "english": "But you need to be careful.\nThere's also DigiMushams, and\nthose are poisonous.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 23395,
+      "_bytes": 78,
+      "translation": "Pero ten cuidado. También hay\nDigiHongos, que son venenosos."
     },
     {
       "index": 164,
-      "english": "Seems like it's dry grass. It\nburns easily.",
-      "_offset": 8932,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Parece hierba seca. Arde fácil."
+      "english": "So there are poisonous mushrooms\nhere too.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 23474,
+      "_bytes": 42,
+      "translation": "Así que aquí también hay\nvenenosas."
     },
     {
       "index": 165,
-      "english": "But how would you start a fire\nwith it?",
-      "_offset": 8976,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Como prendes fuego con eso?"
+      "english": "Poisonous mushrooms? I'm sure I'll\nknow one when I see it.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 23517,
+      "_bytes": 58,
+      "translation": "¿Setas venenosas? Seguro que\nlas reconozco al verlas."
     },
     {
       "index": 166,
-      "english": "We'll help! Right, Sora?",
-      "_offset": 9016,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Ayudamos! Verdad, Sora?"
+      "english": "Really? Then if we need advice,\nwe'll ask...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 23576,
+      "_bytes": 44,
+      "translation": "¿De veras? Si necesito consejo,\nte aviso..."
     },
     {
       "index": 167,
-      "english": "Thank you, but don't push yourself\ntoo hard.",
-      "_offset": 9041,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Gracias, pero no te fuerces\ndemasiado."
+      "english": "I won't eat any poisonous ones,\nI'm positive! Hahaha!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 23621,
+      "_bytes": 53,
+      "translation": "¡No comeré las venenosas,\nseguro! ¡Jajaja!"
     },
     {
       "index": 168,
-      "english": "(I should check on everyone.)",
-      "_offset": 9086,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "(Debería ver que tal están.)"
+      "english": "Why do I have a bad feeling about\nthis?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 23675,
+      "_bytes": 39,
+      "translation": "¿Por qué tengo un mal \npresentimiento?"
     },
     {
       "index": 169,
-      "english": "(I should check on Tai.)",
-      "_offset": 9116,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "(Debería ver a Tai.)"
+      "english": "Obtained DigiMushrooms!",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 23715,
+      "_bytes": 23,
+      "translation": "¡Obtienes DigiSetas!"
     },
     {
       "index": 170,
-      "english": "We've got food now, so let's hurry\nup and eat!",
-      "_offset": 9144,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Tenemos comida, démonos prisa y\na comer!"
+      "english": "So this is...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 23739,
+      "_bytes": 13,
+      "translation": "Esto es..."
     },
     {
       "index": 171,
-      "english": "Yeah...we walked all that way for\nit...",
-      "_offset": 9191,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Si... andamos todo ese rato\npara esto."
+      "english": "Seems like it's dry grass. It\nburns easily.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 23753,
+      "_bytes": 43,
+      "translation": "Parece hierba seca. Arde fácil."
     },
     {
       "index": 172,
-      "english": "What do you think, Matt?",
-      "_offset": 9231,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Que piensas, Matt?"
+      "english": "But how would you start a fire\nwith it?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 23797,
+      "_bytes": 39,
+      "translation": "¿Cómo prendes fuego con eso?"
     },
     {
       "index": 173,
-      "english": "Well...",
-      "_offset": 9258,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Bueno.."
+      "english": "We'll help! Right, Sora?",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 23837,
+      "_bytes": 24,
+      "translation": "¡Ayudamos! ¿Verdad, Sora?"
     },
     {
       "index": 174,
-      "english": "We should make sure it's safe.",
-      "_offset": 9266,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Deberíamos ver que es seguro."
+      "english": "Thank you, but don't push yourself\ntoo hard.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 23862,
+      "_bytes": 44,
+      "translation": "Gracias, pero no te fuerces\ndemasiado."
     },
     {
       "index": 175,
-      "english": "Okay, let's eat.",
-      "_offset": 9297,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Vale, a comer."
+      "english": "(I should check on everyone.)",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 23907,
+      "_bytes": 29,
+      "translation": "(Debería ver qué tal están.)"
     },
     {
       "index": 176,
-      "english": "Food! Food!",
-      "_offset": 9314,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Comida!"
+      "english": "(I should check on Tai.)",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 23937,
+      "_bytes": 27,
+      "translation": "(Debería ver a Tai.)"
     },
     {
       "index": 177,
-      "english": "Oh, Mimi.",
-      "_offset": 9326,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Oh, Mimi."
+      "english": "We've got food now, so let's hurry\nup and eat!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 23965,
+      "_bytes": 46,
+      "translation": "¡Tenemos comida, démonos prisa y\na comer!"
     },
     {
       "index": 178,
-      "english": "There are still things we're not\nsure about here.",
-      "_offset": 9336,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Aún hay cosas de las que no\nestamos seguros aquí."
+      "english": "Yeah...we walked all that way for\nit...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 24012,
+      "_bytes": 39,
+      "translation": "Sí... hemos andado mucho\npara esto."
     },
     {
       "index": 179,
-      "english": "Yeah! I agree with Matt!",
-      "_offset": 9386,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Si! De acuerdo con Matt!"
+      "english": "What do you think, Matt?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 24052,
+      "_bytes": 26,
+      "translation": "¿Qué piensas, Matt?"
     },
     {
       "index": 180,
-      "english": "Tai, hurry up and cook the\nfish!",
-      "_offset": 9413,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Tai, date prisa y haz\nel pescado!"
+      "english": "Well...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 24079,
+      "_bytes": 7,
+      "translation": "Bueno..."
     },
     {
       "index": 181,
-      "english": "Don't be in a rush, now, or you'll\nburn it. Put the fish near the\nfire and...",
-      "_offset": 9449,
-      "_length": 77,
-      "speaker_id": 0,
-      "translation": "No te apresures, o lo quemarás.\nPon el pescado junto\nal fuego y..."
+      "english": "We should make sure it's safe.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 24087,
+      "_bytes": 30,
+      "translation": "Deberíamos ver que es seguro."
     },
     {
       "index": 182,
-      "english": "H-hey, Matt! Why are you pulling\nthe fish away?",
-      "_offset": 9530,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Eh, Matt! Por qué apartas el\npescado?"
+      "english": "Okay, let's eat.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 24118,
+      "_bytes": 16,
+      "translation": "Vale, a comer."
     },
     {
       "index": 183,
-      "english": "You have to cook fish at a\ndistance.",
-      "_offset": 9580,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Tiene que cocinarlo algo más\nlejos."
+      "english": "Food! Food!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 24135,
+      "_bytes": 11,
+      "translation": "¡Comida!"
     },
     {
       "index": 184,
-      "english": "Really?",
-      "_offset": 9617,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Si?"
+      "english": "Oh, Mimi.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 24147,
+      "_bytes": 9,
+      "translation": "Oh, Mimi."
     },
     {
       "index": 185,
-      "english": "Ah...",
-      "_offset": 9625,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Ah..."
+      "english": "There are still things we're not\nsure about here.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 24157,
+      "_bytes": 49,
+      "translation": "Aún hay cosas de las que no\nestamos seguros aquí."
     },
     {
       "index": 186,
-      "english": "What's up, Matt? It's not time\nto switch yet.",
-      "_offset": 9631,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Que pasa, Matt? No toca cambiar\naún."
+      "english": "Yeah! I agree with Matt!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 24207,
+      "_bytes": 26,
+      "translation": "¡Sí! ¡De acuerdo con Matt!"
     },
     {
       "index": 187,
-      "english": "Tai...",
-      "_offset": 9679,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Tai..."
+      "english": "Tai, hurry up and cook the\nfish!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 24234,
+      "_bytes": 35,
+      "translation": "Tai, ¡date prisa y haz\nel pescado!"
     },
     {
       "index": 188,
-      "english": "GSHAAAAAAAAAAH!",
-      "_offset": 9689,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "GSHAAAAH!"
+      "english": "Don't be in a rush, now, or you'll\nburn it. Put the fish near the\nfire and...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 24270,
+      "_bytes": 77,
+      "translation": "No te apresures, o lo quemarás.\nPon el pescado junto\nal fuego y..."
     },
     {
       "index": 189,
-      "english": "Aaaaaahh!",
-      "_offset": 9705,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Aaaahh!"
+      "english": "!!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 24348,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 190,
-      "english": "I'm worried about everyone else.",
-      "_offset": 9715,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Me preocupan los demás."
+      "english": "H-hey, Matt! Why are you pulling\nthe fish away?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 24351,
+      "_bytes": 49,
+      "translation": "¡Eh, Matt! ¿Por qué apartas el\npescado?"
     },
     {
       "index": 191,
-      "english": "It's time to turn in for the night.",
-      "_offset": 9748,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Toca irse a dormir."
+      "english": "You have to cook fish at a\ndistance.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 24401,
+      "_bytes": 36,
+      "translation": "Hay que cocinarlo algo más\nlejos."
     },
     {
       "index": 192,
+      "english": "Really?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 24438,
+      "_bytes": 7,
+      "translation": "¿Sí?"
+    },
+    {
+      "index": 193,
+      "english": "Ah...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 24446,
+      "_bytes": 5,
+      "translation": "Ah..."
+    },
+    {
+      "index": 194,
+      "english": "What's up, Matt? It's not time\nto switch yet.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 24452,
+      "_bytes": 47,
+      "translation": "¿Qué pasa, Matt? No toca cambiar\naún."
+    },
+    {
+      "index": 195,
+      "english": "Tai...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 24500,
+      "_bytes": 9,
+      "translation": "Tai..."
+    },
+    {
+      "index": 196,
+      "english": "GSHAAAAAAAAAAH!",
+      "speaker_id": 4904,
+      "line_type": 2,
+      "_offset": 24510,
+      "_bytes": 15,
+      "translation": "¡GSHAAAAH!"
+    },
+    {
+      "index": 197,
+      "english": "Aaaaaahh!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 24526,
+      "_bytes": 9,
+      "translation": "¡Aaaahh!"
+    },
+    {
+      "index": 198,
+      "english": "I'm worried about everyone else.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 24536,
+      "_bytes": 32,
+      "translation": "Me preocupan los demás."
+    },
+    {
+      "index": 199,
+      "english": "It's time to turn in for the night.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 24569,
+      "_bytes": 35,
+      "translation": "Toca irse a dormir."
+    },
+    {
+      "index": 200,
       "english": "This won't be enough for camp.\nLet's keep exploring the forest.",
-      "_offset": 9784,
-      "_length": 63,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 24605,
+      "_bytes": 63,
       "translation": "No será suficiente para acampar.\nSigamos explorando el bosque."
     }
   ]

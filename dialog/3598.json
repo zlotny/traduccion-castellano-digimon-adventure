@@ -1,30 +1,422 @@
 {
   "file_id": "3598",
-  "text_count": 3,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 46,
   "dialog": [
     {
       "index": 0,
-      "english": "ore about Digimon...\nso it was an interesting journey.",
-      "_offset": 0,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "...sobre Digimon... fue un\nviaje interesante."
+      "english": "Chosen Children... thank you for\ncoming.",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 1704,
+      "_bytes": 40,
+      "translation": "Niños Elegidos... gracias\npor venir."
     },
     {
       "index": 1,
-      "english": "You're so interested in such\ncomplicated things.",
-      "_offset": 55,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Te interesan las cosas\nmuy complicadas."
+      "english": "What's wrong, Centarumon?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 1745,
+      "_bytes": 25,
+      "translation": "¿Qué te pasa, Centarumon?"
     },
     {
       "index": 2,
+      "english": "There's something I've been\nworried about.",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 1771,
+      "_bytes": 42,
+      "translation": "Hay algo que me preocupa."
+    },
+    {
+      "index": 3,
+      "english": "What's happenin'?",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 1814,
+      "_bytes": 17,
+      "translation": "¿Qué ocurre?"
+    },
+    {
+      "index": 4,
+      "english": "Every night, at the ruins, I hear\na suspicious voice.",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 1832,
+      "_bytes": 53,
+      "translation": "Cada noche, en las ruinas, oigo\nuna voz sospechosa."
+    },
+    {
+      "index": 5,
+      "english": "There's no evidence the ruins have\nbeen vandalized, but as its\nguardian, I can't overlook this.",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 1886,
+      "_bytes": 95,
+      "translation": "No hay rastro de destrozos,\npero como su guardián, no\npuedo pasarlo por alto."
+    },
+    {
+      "index": 6,
+      "english": "Could it be... a ghost...?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 1982,
+      "_bytes": 26,
+      "translation": "¿Será... un fantasma...?"
+    },
+    {
+      "index": 7,
+      "english": "It can't be. Ghosts don't exist.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2009,
+      "_bytes": 32,
+      "translation": "Imposible. Los fantasmas no\nexisten."
+    },
+    {
+      "index": 8,
+      "english": "So then what about the Digimon? Or\nthis world?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 2042,
+      "_bytes": 46,
+      "translation": "¿Y entonces los Digimon? ¿O\neste mundo?"
+    },
+    {
+      "index": 9,
+      "english": "I'm sure there must be a\nscientific explanation for\nthose...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2089,
+      "_bytes": 60,
+      "translation": "Seguro que todo eso tiene\nuna explicación científica..."
+    },
+    {
+      "index": 10,
+      "english": "But ghosts aren't very scientific.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2150,
+      "_bytes": 34,
+      "translation": "Pero los fantasmas no son muy\ncientíficos."
+    },
+    {
+      "index": 11,
+      "english": "You're surprisingly stubborn,\nIzzy...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 2185,
+      "_bytes": 42,
+      "translation": "Qué cabezota eres, Izzy..."
+    },
+    {
+      "index": 12,
+      "english": "So, why don't we look into it?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2228,
+      "_bytes": 30,
+      "translation": "¿Y si lo investigamos?"
+    },
+    {
+      "index": 13,
+      "english": "It sounds interesting. We'll prove\nthat ghosts don't exist!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2259,
+      "_bytes": 59,
+      "translation": "Suena interesante. ¡Vamos a\ndemostrar que no existen!"
+    },
+    {
+      "index": 14,
+      "english": "Please, and thank you very much.",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 2319,
+      "_bytes": 32,
+      "translation": "Por favor. Muchas gracias."
+    },
+    {
+      "index": 15,
+      "english": "If I weren't wounded when I was\nbeing controlled by the black\ngear, I would help, but...",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 2352,
+      "_bytes": 88,
+      "translation": "Si no me hubieran herido\ncuando me controlaba la\nrueda negra, os ayudaría."
+    },
+    {
+      "index": 16,
+      "english": "We'll be fine by ourselves. Let's\ngo, everyone!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2441,
+      "_bytes": 47,
+      "translation": "Nos apañamos solos. ¡Vamos,\nchicos!"
+    },
+    {
+      "index": 17,
+      "english": "Sleeeeeeep... sleeeeeeeep... in\nthe darkness...",
+      "speaker_id": 4126,
+      "line_type": 2,
+      "_offset": 2489,
+      "_bytes": 47,
+      "translation": "Duerrrrrrme... duerrrrrme...\nen la oscuridad..."
+    },
+    {
+      "index": 18,
+      "english": "Noooooooo! It really *is* a ghost!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 2537,
+      "_bytes": 34,
+      "translation": "¡Noooooooo! ¡Es un fantasma\nde verdad!"
+    },
+    {
+      "index": 19,
+      "english": "Stop, Mimi! Don't push me!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 2572,
+      "_bytes": 26,
+      "translation": "¡Para, Mimi! ¡No empujes!"
+    },
+    {
+      "index": 20,
+      "english": "Who's there? Come out!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2599,
+      "_bytes": 22,
+      "translation": "¿Quién anda ahí? ¡Sal!"
+    },
+    {
+      "index": 21,
+      "english": "The voice is gone!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 2622,
+      "_bytes": 18,
+      "translation": "¡La voz ha parado!"
+    },
+    {
+      "index": 22,
+      "english": "There's nobody here.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 2641,
+      "_bytes": 20,
+      "translation": "Aquí no hay nadie."
+    },
+    {
+      "index": 23,
+      "english": "Perhaps it's just natural wind\npassing through a hole, making a\ndisturbing sound.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2662,
+      "_bytes": 81,
+      "translation": "Será el viento al pasar por\nun agujero, que hace un\nruido inquietante."
+    },
+    {
+      "index": 24,
+      "english": "Good eeeeeeeeeveniiiiiiiiing!",
+      "speaker_id": 4126,
+      "line_type": 2,
+      "_offset": 2744,
+      "_bytes": 29,
+      "translation": "¡Bueeeeeeenaaaaas noooches!"
+    },
+    {
+      "index": 25,
+      "english": "Aaaack!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2774,
+      "_bytes": 7,
+      "translation": "¡Aaaah!"
+    },
+    {
+      "index": 26,
+      "english": "I'm sorry! Did my sutra disturb\nyou?",
+      "speaker_id": 4126,
+      "line_type": 2,
+      "_offset": 2782,
+      "_bytes": 36,
+      "translation": "¡Perdón! ¿Os molestó mi\nsutra?"
+    },
+    {
+      "index": 27,
+      "english": "Sutra?! You mean that \"sleeeeeeep\"\nthing?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 2819,
+      "_bytes": 41,
+      "translation": "¡¿Sutra?! ¿Eso de\n\"duerrrrrme\"?"
+    },
+    {
+      "index": 28,
+      "english": "Yeah! I used to live with another\nBakemon in a church...",
+      "speaker_id": 4126,
+      "line_type": 2,
+      "_offset": 2861,
+      "_bytes": 56,
+      "translation": "¡Sí! Vivía con otro Bakemon\nen una iglesia..."
+    },
+    {
+      "index": 29,
+      "english": "But he ascended recently, so I'm\nusing my own original sutra.",
+      "speaker_id": 4126,
+      "line_type": 2,
+      "_offset": 2918,
+      "_bytes": 61,
+      "translation": "Pero hace poco ascendió, así\nque recito mi propio sutra."
+    },
+    {
+      "index": 30,
+      "english": "Joe... could this be...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 2980,
+      "_bytes": 23,
+      "translation": "Joe... ¿no será...?"
+    },
+    {
+      "index": 31,
+      "english": "...a friend of the Bakemon we\ndefeated?!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 3004,
+      "_bytes": 40,
+      "translation": "...¡¿amigo del Bakemon que\nvencimos?!"
+    },
+    {
+      "index": 32,
+      "english": "So it was a Digimon after all...\nI'm disappointed, it wasn't a\nghost...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 3045,
+      "_bytes": 71,
+      "translation": "Al final era un Digimon...\nQué chasco, no era un\nfantasma..."
+    },
+    {
+      "index": 33,
+      "english": "We should go back soon, or else\nCentarumon will be worried.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3117,
+      "_bytes": 59,
+      "translation": "Deberíamos volver, o\nCentarumon se preocupará."
+    },
+    {
+      "index": 34,
+      "english": "...so in any case, it was a\nBakemon who was loitering there.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3177,
+      "_bytes": 60,
+      "translation": "...total, que era un Bakemon\nque rondaba por allí."
+    },
+    {
+      "index": 35,
+      "english": "Pretty harmless guy, just had a\nreal loud voice.",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 3238,
+      "_bytes": 48,
+      "translation": "Un tipo inofensivo, solo\nque con un vozarrón."
+    },
+    {
+      "index": 36,
+      "english": "It wasn't a looter? I'm relieved.\nThank you, everyone.",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 3287,
+      "_bytes": 54,
+      "translation": "¿No era un saqueador? Qué\nalivio. Gracias, chicos."
+    },
+    {
+      "index": 37,
+      "english": "As thanks for your help, I'll give\nyou this.",
+      "speaker_id": 4111,
+      "line_type": 2,
+      "_offset": 3342,
+      "_bytes": 44,
+      "translation": "Por vuestra ayuda, os doy\nesto."
+    },
+    {
+      "index": 38,
+      "english": "Thank you!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3387,
+      "_bytes": 10,
+      "translation": "¡Gracias!"
+    },
+    {
+      "index": 39,
+      "english": "But I wanted to see a *real*\nghost... This is so\ndisappointing...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 3398,
+      "_bytes": 65,
+      "translation": "Pero yo quería ver un\nfantasma DE VERDAD...\nQué decepción..."
+    },
+    {
+      "index": 40,
+      "english": "Really? For me, the result was\nrather fascinating.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3464,
+      "_bytes": 50,
+      "translation": "¿Sí? A mí el resultado me\npareció fascinante."
+    },
+    {
+      "index": 41,
+      "english": "Why? You weren't expecting ghosts\nanyway.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 3515,
+      "_bytes": 41,
+      "translation": "¿Por qué? Si tú no esperabas\nfantasmas."
+    },
+    {
+      "index": 42,
+      "english": "It's just that... we saw a Digimon\nusing a sutra for his friend, so\nthat he'd ascend.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3557,
+      "_bytes": 85,
+      "translation": "Es que... vimos a un Digimon\nrecitar un sutra para que su\namigo ascendiera."
+    },
+    {
+      "index": 43,
+      "english": "We learned more about Digimon...\nso it was an interesting journey.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3643,
+      "_bytes": 66,
+      "translation": "Aprendimos más sobre los\nDigimon... fue un viaje\ninteresante."
+    },
+    {
+      "index": 44,
+      "english": "You're so interested in such\ncomplicated things.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 3710,
+      "_bytes": 48,
+      "translation": "Te interesan las cosas\nmuy complicadas."
+    },
+    {
+      "index": 45,
       "english": "But that's what I like 'bout\nIzzy, y'know.",
-      "_offset": 104,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Pero eso es lo que me\ngusta de Izzy, sabes."
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 3759,
+      "_bytes": 47,
+      "translation": "Pero eso es lo que me\ngusta de Izzy, ¿sabes?"
     }
   ]
 }

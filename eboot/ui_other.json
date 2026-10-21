@@ -2,34 +2,712 @@
   "source": "EBOOT.BIN/ui_other",
   "strings": [
     {
+      "text": "FFc",
+      "translation": "",
+      "_offset": 250055,
+      "_length": 3
+    },
+    {
+      "text": "FBk",
+      "translation": "",
+      "_offset": 369167,
+      "_length": 3
+    },
+    {
+      "text": "FMk",
+      "translation": "",
+      "_offset": 386599,
+      "_length": 3
+    },
+    {
+      "text": "FFs",
+      "translation": "",
+      "_offset": 650687,
+      "_length": 3
+    },
+    {
+      "text": "FFs",
+      "translation": "",
+      "_offset": 651127,
+      "_length": 3
+    },
+    {
+      "text": "FMk",
+      "translation": "",
+      "_offset": 685955,
+      "_length": 3
+    },
+    {
+      "text": "FMk",
+      "translation": "",
+      "_offset": 686063,
+      "_length": 3
+    },
+    {
+      "text": "bRt",
+      "translation": "",
+      "_offset": 714682,
+      "_length": 3
+    },
+    {
+      "text": "FMc",
+      "translation": "",
+      "_offset": 717383,
+      "_length": 3
+    },
+    {
+      "text": "FMc",
+      "translation": "",
+      "_offset": 717607,
+      "_length": 3
+    },
+    {
+      "text": "FMk",
+      "translation": "",
+      "_offset": 718227,
+      "_length": 3
+    },
+    {
+      "text": "bPl",
+      "translation": "",
+      "_offset": 787874,
+      "_length": 3
+    },
+    {
+      "text": "bPT",
+      "translation": "",
+      "_offset": 869778,
+      "_length": 3
+    },
+    {
+      "text": "qPT",
+      "translation": "",
+      "_offset": 869830,
+      "_length": 3
+    },
+    {
+      "text": "uPT",
+      "translation": "",
+      "_offset": 869850,
+      "_length": 3
+    },
+    {
+      "text": "rPt",
+      "translation": "",
+      "_offset": 870126,
+      "_length": 3
+    },
+    {
+      "text": "tPt",
+      "translation": "",
+      "_offset": 870146,
+      "_length": 3
+    },
+    {
+      "text": "ePv",
+      "translation": "",
+      "_offset": 925694,
+      "_length": 3
+    },
+    {
+      "text": "DPp",
+      "translation": "",
+      "_offset": 1018130,
+      "_length": 3
+    },
+    {
+      "text": "FPd",
+      "translation": "",
+      "_offset": 1224390,
+      "_length": 3
+    },
+    {
+      "text": "ePl",
+      "translation": "",
+      "_offset": 1235430,
+      "_length": 3
+    },
+    {
+      "text": "bPH",
+      "translation": "",
+      "_offset": 1240686,
+      "_length": 3
+    },
+    {
+      "text": "VGc",
+      "translation": "",
+      "_offset": 1280115,
+      "_length": 3
+    },
+    {
+      "text": "VGc",
+      "translation": "",
+      "_offset": 1280175,
+      "_length": 3
+    },
+    {
+      "text": "FFc",
+      "translation": "",
+      "_offset": 1320407,
+      "_length": 3
+    },
+    {
+      "text": "FFc",
+      "translation": "",
+      "_offset": 1320431,
+      "_length": 3
+    },
+    {
+      "text": "FFc",
+      "translation": "",
+      "_offset": 1320667,
+      "_length": 3
+    },
+    {
+      "text": "FFc",
+      "translation": "",
+      "_offset": 1320711,
+      "_length": 3
+    },
+    {
+      "text": "FFc",
+      "translation": "",
+      "_offset": 1394547,
+      "_length": 3
+    },
+    {
+      "text": "sceUmdUser",
+      "translation": "",
+      "_offset": 1522072,
+      "_length": 10
+    },
+    {
+      "text": "sceUtility",
+      "translation": "",
+      "_offset": 1522088,
+      "_length": 10
+    },
+    {
+      "text": "sceAudio",
+      "translation": "",
+      "_offset": 1522104,
+      "_length": 8
+    },
+    {
+      "text": "scePower",
+      "translation": "",
+      "_offset": 1522120,
+      "_length": 8
+    },
+    {
+      "text": "sceMpeg",
+      "translation": "",
+      "_offset": 1522156,
+      "_length": 7
+    },
+    {
+      "text": "sceImpose",
+      "translation": "",
+      "_offset": 1522168,
+      "_length": 9
+    },
+    {
+      "text": "sceRtc",
+      "translation": "",
+      "_offset": 1522184,
+      "_length": 6
+    },
+    {
+      "text": "IoFileMgrForUser",
+      "translation": "",
+      "_offset": 1522196,
+      "_length": 16
+    },
+    {
+      "text": "LoadExecForUser",
+      "translation": "",
+      "_offset": 1522240,
+      "_length": 15
+    },
+    {
+      "text": "ModuleMgrForUser",
+      "translation": "",
+      "_offset": 1522260,
+      "_length": 16
+    },
+    {
+      "text": "StdioForUser",
+      "translation": "",
+      "_offset": 1522284,
+      "_length": 12
+    },
+    {
+      "text": "SysMemUserForUser",
+      "translation": "",
+      "_offset": 1522304,
+      "_length": 17
+    },
+    {
+      "text": "ThreadManForUser",
+      "translation": "",
+      "_offset": 1522328,
+      "_length": 16
+    },
+    {
+      "text": "UtilsForUser",
+      "translation": "",
+      "_offset": 1522352,
+      "_length": 12
+    },
+    {
+      "text": "sceSuspendForUser",
+      "translation": "",
+      "_offset": 1522372,
+      "_length": 17
+    },
+    {
+      "text": "sceCtrl",
+      "translation": "",
+      "_offset": 1522396,
+      "_length": 7
+    },
+    {
+      "text": "sceDisplay",
+      "translation": "",
+      "_offset": 1522408,
+      "_length": 10
+    },
+    {
+      "text": "sceSasCore",
+      "translation": "",
+      "_offset": 1522440,
+      "_length": 10
+    },
+    {
+      "text": "LoaderMutex",
+      "translation": "",
+      "_offset": 1523416,
+      "_length": 11
+    },
+    {
+      "text": "LoaderEvFlag",
+      "translation": "",
+      "_offset": 1523428,
+      "_length": 12
+    },
+    {
+      "text": "LoaderThread",
+      "translation": "",
+      "_offset": 1523444,
+      "_length": 12
+    },
+    {
       "text": "Start \"%s\"?",
-      "translation": "Iniciar %s?",
+      "translation": "¿Iniciar \"%s\"?",
       "_offset": 1523516,
       "_length": 11
     },
     {
+      "text": "main",
+      "translation": "",
+      "_offset": 1523640,
+      "_length": 4
+    },
+    {
+      "text": "sub",
+      "translation": "",
+      "_offset": 1523648,
+      "_length": 3
+    },
+    {
+      "text": "free",
+      "translation": "",
+      "_offset": 1523652,
+      "_length": 4
+    },
+    {
+      "text": "lock",
+      "translation": "",
+      "_offset": 1523660,
+      "_length": 4
+    },
+    {
+      "text": "scroll",
+      "translation": "",
+      "_offset": 1523680,
+      "_length": 6
+    },
+    {
+      "text": "icon",
+      "translation": "",
+      "_offset": 1523700,
+      "_length": 4
+    },
+    {
+      "text": "sel",
+      "translation": "",
+      "_offset": 1524044,
+      "_length": 3
+    },
+    {
+      "text": "batsu",
+      "translation": "",
+      "_offset": 1524080,
+      "_length": 5
+    },
+    {
+      "text": "maru",
+      "translation": "",
+      "_offset": 1524104,
+      "_length": 4
+    },
+    {
+      "text": "sikaku",
+      "translation": "",
+      "_offset": 1524128,
+      "_length": 6
+    },
+    {
+      "text": "sankaku",
+      "translation": "",
+      "_offset": 1524152,
+      "_length": 7
+    },
+    {
+      "text": "juji",
+      "translation": "",
+      "_offset": 1524180,
+      "_length": 4
+    },
+    {
+      "text": "joge",
+      "translation": "",
+      "_offset": 1524204,
+      "_length": 4
+    },
+    {
+      "text": "sayu",
+      "translation": "",
+      "_offset": 1524228,
+      "_length": 4
+    },
+    {
+      "text": "ttll",
+      "translation": "",
+      "_offset": 1524380,
+      "_length": 4
+    },
+    {
+      "text": "scroll",
+      "translation": "",
+      "_offset": 1531264,
+      "_length": 6
+    },
+    {
       "text": "Stat Boost",
-      "translation": "MejoraEst.",
+      "translation": "Mejoras",
       "_offset": 1531376,
       "_length": 10
     },
     {
+      "text": "Manual",
+      "translation": "Manual",
+      "_offset": 1531396,
+      "_length": 6
+    },
+    {
+      "text": "Auto",
+      "translation": "Auto",
+      "_offset": 1531408,
+      "_length": 4
+    },
+    {
+      "text": "Special",
+      "translation": "Especial",
+      "_offset": 1531416,
+      "_length": 7
+    },
+    {
+      "text": "all",
+      "translation": "",
+      "_offset": 1531772,
+      "_length": 3
+    },
+    {
+      "text": "agu",
+      "translation": "",
+      "_offset": 1531776,
+      "_length": 3
+    },
+    {
+      "text": "gabu",
+      "translation": "",
+      "_offset": 1531780,
+      "_length": 4
+    },
+    {
+      "text": "goma",
+      "translation": "",
+      "_offset": 1531788,
+      "_length": 4
+    },
+    {
+      "text": "piyo",
+      "translation": "",
+      "_offset": 1531796,
+      "_length": 4
+    },
+    {
+      "text": "pata",
+      "translation": "",
+      "_offset": 1531804,
+      "_length": 4
+    },
+    {
+      "text": "paru",
+      "translation": "",
+      "_offset": 1531812,
+      "_length": 4
+    },
+    {
+      "text": "ten",
+      "translation": "",
+      "_offset": 1531820,
+      "_length": 3
+    },
+    {
+      "text": "tei",
+      "translation": "",
+      "_offset": 1531824,
+      "_length": 3
+    },
+    {
+      "text": "scroll",
+      "translation": "",
+      "_offset": 1531828,
+      "_length": 6
+    },
+    {
       "text": "Stat Boost",
-      "translation": "MejoraEst.",
+      "translation": "Mejoras",
       "_offset": 1531912,
       "_length": 10
     },
     {
+      "text": "Manual",
+      "translation": "Manual",
+      "_offset": 1531932,
+      "_length": 6
+    },
+    {
+      "text": "Auto",
+      "translation": "Auto",
+      "_offset": 1531944,
+      "_length": 4
+    },
+    {
+      "text": "Special",
+      "translation": "Especial",
+      "_offset": 1531952,
+      "_length": 7
+    },
+    {
+      "text": "scroll",
+      "translation": "",
+      "_offset": 1532132,
+      "_length": 6
+    },
+    {
       "text": "     Change Members",
-      "translation": "     Cambiar Miemb.",
+      "translation": "   Cambiar Miembros",
       "_offset": 1532292,
       "_length": 19
     },
     {
       "text": "    Change Strategy",
-      "translation": "    Cambiar Estrat.",
+      "translation": "  Cambiar Estrategia",
       "_offset": 1532312,
       "_length": 19
+    },
+    {
+      "text": "ttll",
+      "translation": "",
+      "_offset": 1532608,
+      "_length": 4
+    },
+    {
+      "text": "triHP",
+      "translation": "",
+      "_offset": 1532824,
+      "_length": 5
+    },
+    {
+      "text": "triSP",
+      "translation": "",
+      "_offset": 1532832,
+      "_length": 5
+    },
+    {
+      "text": "triATK",
+      "translation": "",
+      "_offset": 1532840,
+      "_length": 6
+    },
+    {
+      "text": "triDEF",
+      "translation": "",
+      "_offset": 1532848,
+      "_length": 6
+    },
+    {
+      "text": "triSPD",
+      "translation": "",
+      "_offset": 1532856,
+      "_length": 6
+    },
+    {
+      "text": "scroll",
+      "translation": "",
+      "_offset": 1533396,
+      "_length": 6
+    },
+    {
+      "text": "Item",
+      "translation": "Objeto",
+      "_offset": 1533468,
+      "_length": 4
+    },
+    {
+      "text": "scroll",
+      "translation": "",
+      "_offset": 1533552,
+      "_length": 6
+    },
+    {
+      "text": "scroll",
+      "translation": "",
+      "_offset": 1533880,
+      "_length": 6
+    },
+    {
+      "text": "Select",
+      "translation": "Elegir",
+      "_offset": 1533888,
+      "_length": 6
+    },
+    {
+      "text": "Type",
+      "translation": "Tipo",
+      "_offset": 1533896,
+      "_length": 4
+    },
+    {
+      "text": "Return",
+      "translation": "Volver",
+      "_offset": 1533908,
+      "_length": 6
+    },
+    {
+      "text": "Unknown",
+      "translation": "Desconocido",
+      "_offset": 1534012,
+      "_length": 7
+    },
+    {
+      "text": "Movie",
+      "translation": "Vídeo",
+      "_offset": 1534128,
+      "_length": 5
+    },
+    {
+      "text": "taichi",
+      "translation": "",
+      "_offset": 1534292,
+      "_length": 6
+    },
+    {
+      "text": "yamato",
+      "translation": "",
+      "_offset": 1534300,
+      "_length": 6
+    },
+    {
+      "text": "sora",
+      "translation": "",
+      "_offset": 1534308,
+      "_length": 4
+    },
+    {
+      "text": "koshiro",
+      "translation": "",
+      "_offset": 1534316,
+      "_length": 7
+    },
+    {
+      "text": "mimi",
+      "translation": "",
+      "_offset": 1534324,
+      "_length": 4
+    },
+    {
+      "text": "joh",
+      "translation": "",
+      "_offset": 1534332,
+      "_length": 3
+    },
+    {
+      "text": "takeru",
+      "translation": "",
+      "_offset": 1534336,
+      "_length": 6
+    },
+    {
+      "text": "hikari",
+      "translation": "",
+      "_offset": 1534344,
+      "_length": 6
+    },
+    {
+      "text": "next",
+      "translation": "",
+      "_offset": 1534620,
+      "_length": 4
+    },
+    {
+      "text": "triHP",
+      "translation": "",
+      "_offset": 1534680,
+      "_length": 5
+    },
+    {
+      "text": "triSP",
+      "translation": "",
+      "_offset": 1534736,
+      "_length": 5
+    },
+    {
+      "text": "triATK",
+      "translation": "",
+      "_offset": 1534792,
+      "_length": 6
+    },
+    {
+      "text": "triDEF",
+      "translation": "",
+      "_offset": 1534848,
+      "_length": 6
+    },
+    {
+      "text": "triSPD",
+      "translation": "",
+      "_offset": 1534904,
+      "_length": 6
+    },
+    {
+      "text": "image",
+      "translation": "",
+      "_offset": 1535280,
+      "_length": 5
     },
     {
       "text": "*Episode Mode Lv[%d]",
@@ -38,10 +716,28 @@
       "_length": 20
     },
     {
+      "text": " Area",
+      "translation": "",
+      "_offset": 1535368,
+      "_length": 5
+    },
+    {
       "text": " Episode Mode Lv[%d]",
       "translation": " Ep. Modo Lv[%d]",
       "_offset": 1535376,
       "_length": 20
+    },
+    {
+      "text": "Advertise",
+      "translation": "",
+      "_offset": 1535432,
+      "_length": 9
+    },
+    {
+      "text": "Game",
+      "translation": "",
+      "_offset": 1535444,
+      "_length": 4
     },
     {
       "text": "radius %.4f",
@@ -92,6 +788,12 @@
       "_length": 17
     },
     {
+      "text": "Lake  ",
+      "translation": "Lago  ",
+      "_offset": 1627594,
+      "_length": 6
+    },
+    {
       "text": "Gear Savannah  ",
       "translation": "Sabana Gear  ",
       "_offset": 1627601,
@@ -104,32 +806,50 @@
       "_length": 16
     },
     {
+      "text": "Sewers  ",
+      "translation": "Cloacas  ",
+      "_offset": 1627634,
+      "_length": 8
+    },
+    {
       "text": "Toy Town  ",
-      "translation": "Juguetes  ",
+      "translation": "País de los Juguetes  ",
       "_offset": 1627643,
       "_length": 10
     },
     {
       "text": "Hot Springs  ",
-      "translation": "Aguas Term.  ",
+      "translation": "Aguas Termales  ",
       "_offset": 1627654,
       "_length": 13
     },
     {
-      "text": "Monte Mugen  ",
+      "text": "Infinity Mountain  ",
       "translation": "Monte Mugen  ",
       "_offset": 1627674,
       "_length": 19
     },
     {
+      "text": "Cottage  ",
+      "translation": "Cabaña  ",
+      "_offset": 1627694,
+      "_length": 9
+    },
+    {
+      "text": "Freezeland   ",
+      "translation": "Tierra Helada   ",
+      "_offset": 1627710,
+      "_length": 13
+    },
+    {
       "text": "Ancient Dino Region  ",
-      "translation": "Región Dino Antigua  ",
+      "translation": "Antigua Región Dino  ",
       "_offset": 1627736,
       "_length": 21
     },
     {
       "text": "Overdell Cemetery  ",
-      "translation": "Cement. Overdel  ",
+      "translation": "Cementerio Overdel  ",
       "_offset": 1627758,
       "_length": 19
     },
@@ -140,10 +860,34 @@
       "_length": 23
     },
     {
+      "text": "del",
+      "translation": "del",
+      "_offset": 1627802,
+      "_length": 3
+    },
+    {
+      "text": "Ocean  ",
+      "translation": "Océano  ",
+      "_offset": 1627806,
+      "_length": 7
+    },
+    {
       "text": "Koromon Village  ",
       "translation": "Aldea Koromon  ",
       "_offset": 1627814,
       "_length": 17
+    },
+    {
+      "text": "Colosseum  ",
+      "translation": "Coliseo  ",
+      "_offset": 1627832,
+      "_length": 11
+    },
+    {
+      "text": "Desert  ",
+      "translation": "Desierto  ",
+      "_offset": 1627844,
+      "_length": 8
     },
     {
       "text": "Piccolomon's Forest  ",
@@ -153,13 +897,19 @@
     },
     {
       "text": "Inverted Pyramid  ",
-      "translation": "Pirám. Invertida  ",
+      "translation": "Pirámide Invertida  ",
       "_offset": 1627875,
       "_length": 18
     },
     {
+      "text": "Odaiba  ",
+      "translation": "Odaiba  ",
+      "_offset": 1627894,
+      "_length": 8
+    },
+    {
       "text": "Amusement Park  ",
-      "translation": "Parque Atrac.  ",
+      "translation": "Parque de Atracciones  ",
       "_offset": 1627903,
       "_length": 16
     },
@@ -171,7 +921,7 @@
     },
     {
       "text": "Vadermon's Den  ",
-      "translation": "Guar. Vademon  ",
+      "translation": "Guarida de Vademon  ",
       "_offset": 1627945,
       "_length": 16
     },
@@ -189,7 +939,7 @@
     },
     {
       "text": "Vamdemon's Castle  ",
-      "translation": "Cast. Myotismon  ",
+      "translation": "Castillo de Myotismon  ",
       "_offset": 1628003,
       "_length": 19
     },
@@ -201,15 +951,33 @@
     },
     {
       "text": "Hikarigaoka Apartments  ",
-      "translation": "Aptos. Hikarioka  ",
+      "translation": "Apartamentos Hikarioka  ",
       "_offset": 1628044,
       "_length": 24
+    },
+    {
+      "text": "Harumi  ",
+      "translation": "Harumi  ",
+      "_offset": 1628069,
+      "_length": 8
+    },
+    {
+      "text": "Pier  ",
+      "translation": "Muelle  ",
+      "_offset": 1628078,
+      "_length": 6
     },
     {
       "text": "Main Street  ",
       "translation": "Calle Mayor  ",
       "_offset": 1628098,
       "_length": 13
+    },
+    {
+      "text": "Tower  ",
+      "translation": "Torre  ",
+      "_offset": 1628112,
+      "_length": 7
     },
     {
       "text": "Tokyo Big Sight  ",
@@ -249,9 +1017,15 @@
     },
     {
       "text": "Piemon's Castle  ",
-      "translation": "Cast. Piedmon  ",
+      "translation": "Castillo de Piedmon  ",
       "_offset": 1628218,
       "_length": 17
+    },
+    {
+      "text": "Subspace  ",
+      "translation": "Subespacio  ",
+      "_offset": 1628236,
+      "_length": 10
     },
     {
       "text": "Network World  ",
@@ -261,207 +1035,261 @@
     },
     {
       "text": "Digital Dungeon  ",
-      "translation": "Mazmorra Dig.  ",
+      "translation": "Mazmorra Digital  ",
       "_offset": 1628263,
       "_length": 17
     },
     {
-      "text": "Susumu Yagami",
-      "translation": "Susumu Yagami",
-      "_offset": 1678884,
-      "_length": 13
+      "text": "face",
+      "translation": "",
+      "_offset": 1632928,
+      "_length": 4
     },
     {
-      "text": "Yuuko Yagami",
-      "translation": "Yuuko Yagami",
-      "_offset": 1678898,
-      "_length": 12
+      "text": "  Drops",
+      "translation": "  Botín",
+      "_offset": 1633488,
+      "_length": 7
     },
     {
-      "text": "Toshiko Takenouchi",
-      "translation": "Toshiko Takenouchi",
-      "_offset": 1678911,
-      "_length": 18
+      "text": "gabu",
+      "translation": "",
+      "_offset": 1633512,
+      "_length": 4
     },
     {
-      "text": "Shin Kido",
-      "translation": "Jim Kido",
-      "_offset": 1678930,
-      "_length": 9
+      "text": "piyo",
+      "translation": "",
+      "_offset": 1633520,
+      "_length": 4
     },
     {
-      "text": "Masami Izumi",
-      "translation": "Masami Izumi",
-      "_offset": 1678940,
-      "_length": 12
+      "text": "tento",
+      "translation": "",
+      "_offset": 1633528,
+      "_length": 5
     },
     {
-      "text": "Kae Izumi",
-      "translation": "Kae Izumi",
-      "_offset": 1678953,
-      "_length": 9
+      "text": "paru",
+      "translation": "",
+      "_offset": 1633536,
+      "_length": 4
     },
     {
-      "text": "Yuusuke Tachikawa",
-      "translation": "Yuusuke Tachikawa",
-      "_offset": 1678963,
-      "_length": 17
+      "text": "goma",
+      "translation": "",
+      "_offset": 1633544,
+      "_length": 4
     },
     {
-      "text": "Satoe Tachikawa",
-      "translation": "Satoe Tachikawa",
-      "_offset": 1678981,
-      "_length": 15
+      "text": "pata",
+      "translation": "",
+      "_offset": 1633552,
+      "_length": 4
     },
     {
-      "text": "Hiroaki Ishida",
-      "translation": "Hiroaki Ishida",
-      "_offset": 1678997,
-      "_length": 14
+      "text": "tail",
+      "translation": "",
+      "_offset": 1633560,
+      "_length": 4
     },
     {
-      "text": "Natsuko Takaishi",
-      "translation": "Nancy Takaishi",
-      "_offset": 1679012,
-      "_length": 16
+      "text": "face",
+      "translation": "",
+      "_offset": 1633596,
+      "_length": 4
     },
     {
-      "text": "Vamdemon's Army",
-      "translation": "Ejercito Myot.",
-      "_offset": 1679053,
-      "_length": 15
+      "text": "gauge",
+      "translation": "",
+      "_offset": 1633972,
+      "_length": 5
     },
     {
-      "text": "Taichi's Father",
-      "translation": "Padre de Tai",
-      "_offset": 1679086,
-      "_length": 15
+      "text": "face",
+      "translation": "",
+      "_offset": 1634036,
+      "_length": 4
     },
     {
-      "text": "Taichi's Mother",
-      "translation": "Madre de Tai",
-      "_offset": 1679102,
-      "_length": 15
+      "text": "life",
+      "translation": "",
+      "_offset": 1634248,
+      "_length": 4
     },
     {
-      "text": "Yamato's Father",
-      "translation": "Padre de Matt",
-      "_offset": 1679118,
-      "_length": 15
+      "text": "life",
+      "translation": "",
+      "_offset": 1634320,
+      "_length": 4
     },
     {
-      "text": "Yamato's Mother",
-      "translation": "Madre de Matt",
-      "_offset": 1679134,
-      "_length": 15
+      "text": "off",
+      "translation": "",
+      "_offset": 1634388,
+      "_length": 3
     },
     {
-      "text": "Sora's Father",
-      "translation": "Padre de Sora",
-      "_offset": 1679150,
-      "_length": 13
+      "text": "cover",
+      "translation": "",
+      "_offset": 1634404,
+      "_length": 5
     },
     {
-      "text": "Sora's Mother",
-      "translation": "Madre de Sora",
-      "_offset": 1679164,
-      "_length": 13
+      "text": "face",
+      "translation": "",
+      "_offset": 1634432,
+      "_length": 4
     },
     {
-      "text": "Koushirou's Father",
-      "translation": "Padre de Izzy",
-      "_offset": 1679178,
-      "_length": 18
+      "text": "poison",
+      "translation": "",
+      "_offset": 1634440,
+      "_length": 6
     },
     {
-      "text": "Koushirou's Mother",
-      "translation": "Madre de Izzy",
-      "_offset": 1679197,
-      "_length": 18
+      "text": "curse",
+      "translation": "",
+      "_offset": 1634456,
+      "_length": 5
     },
     {
-      "text": "Jou's Father",
-      "translation": "Padre de Joe",
-      "_offset": 1679216,
-      "_length": 12
+      "text": "Idle",
+      "translation": "",
+      "_offset": 1634624,
+      "_length": 4
     },
     {
-      "text": "Jou's Mother",
-      "translation": "Madre de Joe",
-      "_offset": 1679229,
-      "_length": 12
-    },
-    {
-      "text": "Mimi's Father",
-      "translation": "Padre de Mimi",
-      "_offset": 1679242,
-      "_length": 13
-    },
-    {
-      "text": "Mimi's Mother",
-      "translation": "Madre de Mimi",
-      "_offset": 1679256,
-      "_length": 13
-    },
-    {
-      "text": "Takeru's Father",
-      "translation": "Padre de T.K.",
-      "_offset": 1679270,
-      "_length": 15
-    },
-    {
-      "text": "Takeru's Mother",
-      "translation": "Madre de T.K.",
-      "_offset": 1679286,
-      "_length": 15
-    },
-    {
-      "text": "Hikari's Father",
-      "translation": "Padre de Kari",
-      "_offset": 1679302,
-      "_length": 15
-    },
-    {
-      "text": "Hikari's Mother",
-      "translation": "Madre de Kari",
-      "_offset": 1679318,
-      "_length": 15
-    },
-    {
-      "text": "Jou's Brother",
-      "translation": "Hno. de Joe",
-      "_offset": 1679334,
-      "_length": 13
-    },
-    {
-      "text": "Sora's Copy",
-      "translation": "Sora/Copia",
-      "_offset": 1679379,
-      "_length": 11
-    },
-    {
-      "text": "Jou's Shadow",
-      "translation": "Sombra (Joe)",
-      "_offset": 1679391,
-      "_length": 12
-    },
-    {
-      "text": "Old Woman",
-      "translation": "Anciana",
-      "_offset": 1679421,
-      "_length": 9
-    },
-    {
-      "text": "Young Lady",
-      "translation": "Joven",
-      "_offset": 1679431,
+      "text": "BattleIdle",
+      "translation": "",
+      "_offset": 1634632,
       "_length": 10
     },
     {
-      "text": "Satellite Phone",
-      "translation": "Tel. Satélite",
-      "_offset": 1679646,
-      "_length": 15
+      "text": "Happy",
+      "translation": "",
+      "_offset": 1634644,
+      "_length": 5
+    },
+    {
+      "text": "Monotony",
+      "translation": "",
+      "_offset": 1634652,
+      "_length": 8
+    },
+    {
+      "text": "Walk",
+      "translation": "",
+      "_offset": 1634664,
+      "_length": 4
+    },
+    {
+      "text": "Run",
+      "translation": "",
+      "_offset": 1634672,
+      "_length": 3
+    },
+    {
+      "text": "Brace",
+      "translation": "",
+      "_offset": 1634676,
+      "_length": 5
+    },
+    {
+      "text": "Amazement",
+      "translation": "",
+      "_offset": 1634684,
+      "_length": 9
+    },
+    {
+      "text": "fatigue",
+      "translation": "",
+      "_offset": 1634696,
+      "_length": 7
+    },
+    {
+      "text": "Pinch",
+      "translation": "",
+      "_offset": 1634704,
+      "_length": 5
+    },
+    {
+      "text": "GuardLoop",
+      "translation": "",
+      "_offset": 1634712,
+      "_length": 9
+    },
+    {
+      "text": "Guard",
+      "translation": "",
+      "_offset": 1634724,
+      "_length": 5
+    },
+    {
+      "text": "Damage",
+      "translation": "",
+      "_offset": 1634732,
+      "_length": 6
+    },
+    {
+      "text": "Down",
+      "translation": "",
+      "_offset": 1634740,
+      "_length": 4
+    },
+    {
+      "text": "RiseUp",
+      "translation": "",
+      "_offset": 1634748,
+      "_length": 6
+    },
+    {
+      "text": "Suffer",
+      "translation": "",
+      "_offset": 1634780,
+      "_length": 6
+    },
+    {
+      "text": "Sleep",
+      "translation": "",
+      "_offset": 1634788,
+      "_length": 5
+    },
+    {
+      "text": "Awake",
+      "translation": "",
+      "_offset": 1634796,
+      "_length": 5
+    },
+    {
+      "text": "Talk",
+      "translation": "",
+      "_offset": 1634804,
+      "_length": 4
+    },
+    {
+      "text": "Degeneracy",
+      "translation": "",
+      "_offset": 1634812,
+      "_length": 10
+    },
+    {
+      "text": "None",
+      "translation": "",
+      "_offset": 1634856,
+      "_length": 4
+    },
+    {
+      "text": "LoaderEvFlag",
+      "translation": "",
+      "_offset": 1700180,
+      "_length": 12
+    },
+    {
+      "text": "LoaderThread",
+      "translation": "",
+      "_offset": 1700196,
+      "_length": 12
     },
     {
       "text": " Voice :%2d",
@@ -489,21 +1317,51 @@
     },
     {
       "text": "Beast Man",
-      "translation": "H.Bestia",
+      "translation": "Hombre Bestia",
       "_offset": 1703325,
       "_length": 9
     },
     {
+      "text": "MetalGarurumon",
+      "translation": "MetalGarurumon",
+      "_offset": 1703335,
+      "_length": 14
+    },
+    {
       "text": "An Ultimate Level Digimon that Warp\nEvolved from Gabumon. Garurumon's\nfinal form, it retains its agility\ndespite being covered in metal. It\ncrushes foes with countless hidden\nweapons. It extends its beam-shaped\nwings to fly through Net Space at\nhigh speeds. Its Special Move,\nCocytus Breath, freezes its\nenemies, then blows them to pieces.",
-      "translation": "Digimon de Cuerpo Supremo que\nDigievolucionó Warp desde Gabumon.\nForma final de Garurumon, conserva\nsu agilidad pese al metal que lo\ncubre. Aplasta rivales con\nincontables armas ocultas.\nExtiende sus alas en forma de haz\npara volar rápido por el\nCiberespacio. Su Ataque Especial,\nSoplo Cocytus, congela a sus\nenemigos y luego los hace\npedazos.",
+      "translation": "Digimon de Cuerpo Supremo que\ndigievolucionó Warp desde Gabumon.\nForma final de Garurumon, conserva\nsu agilidad pese al metal que lo\ncubre. Aplasta rivales con\nincontables armas ocultas. Extiende\nsus alas en forma de haz para volar\nrápido por el Ciberespacio. Su\nAtaque Especial, Soplo Cocytus,\ncongela a sus enemigos y luego los\nhace pedazos.",
       "_offset": 1703350,
       "_length": 339
     },
     {
+      "text": "Lesser",
+      "translation": "Menor",
+      "_offset": 1705711,
+      "_length": 6
+    },
+    {
+      "text": "Tentomon",
+      "translation": "Tentomon",
+      "_offset": 1705718,
+      "_length": 8
+    },
+    {
       "text": "The original hard-shelled Insect\nDigimon, it's not very aggressive.\nEach foreleg has one claw, and each\nmiddle and hind leg has four. It\ngrabs objects with its middle legs.\nTentomon leads a carefree life\nsniffing flowers and napping under\ntrees. Its Special Move, Petit\nThunder, releases static electricity\nit amplifies with its wings.",
-      "translation": "El Digimon Insecto de caparazón\nduro original, no muy agresivo.\nCada pata delantera tiene una\ngarra, y las medias y traseras\ncuatro. Agarra objetos con sus\npatas medias. Tentomon lleva una\nvida despreocupada oliendo flores\ny durmiendo bajo los árboles. Su\nAtaque Especial, Mini Trueno,\nlibera electricidad estática que\namplifica con sus alas.",
+      "translation": "El Digimon Insecto de caparazón duro\noriginal, no muy agresivo. Cada pata\ndelantera tiene una garra, y las\nmedias y traseras cuatro. Agarra\nobjetos con sus patas medias.\nTentomon lleva una vida\ndespreocupada oliendo flores y\ndurmiendo bajo los árboles. Su\nAtaque Especial, Mini Trueno, libera\nelectricidad estática que amplifica\ncon sus alas.",
       "_offset": 1705727,
       "_length": 335
+    },
+    {
+      "text": "Insect",
+      "translation": "Insecto",
+      "_offset": 1706739,
+      "_length": 6
+    },
+    {
+      "text": "HerakleKabuterimon",
+      "translation": "HerakleKabuterimon",
+      "_offset": 1706746,
+      "_length": 18
     },
     {
       "text": "An Ultimate Level Insect Digimon\nwith a giant horn and scissors,\nthat evolves with a combination of\nKabuterimon and Kuwagamon's data.\nIts body shines with gold and it\nflies around the Digital World at\nsupersonic speed. Its Special Move\nis the improved version of Mega\nBlaster, Giga Blaster, which\nannihilates any foe.",
@@ -512,74 +1370,224 @@
       "_length": 317
     },
     {
+      "text": "Mammal",
+      "translation": "Mamífero",
+      "_offset": 1711301,
+      "_length": 6
+    },
+    {
+      "text": "Angemon",
+      "translation": "Angemon",
+      "_offset": 1711308,
+      "_length": 7
+    },
+    {
       "text": "An Angel Digimon with six shining\nwings, clad in pure white holy\nclothes. A being of virtue which\nbrings happiness but ruthlessly\nfights evil until it's vanquished.\nLegends say that, when the Digital\nWorld's in danger, it descends to\nlead Digimon of the same genus. Its\nSpecial Move, Heaven's Knuckle,\nsmashes enemies with a shining\ngolden fist.",
-      "translation": "Digimon Ángel con seis alas\nresplandecientes, vestido con\nropas sagradas blancas puras. Ser\nde virtud que trae felicidad y\ncombate al mal sin piedad. Dicen\nque desciende a liderar Digimon\nde su especie cuando el Digimundo\npeligra. Su Ataque Especial,\nPuño del cielo, aplasta enemigos\ncon un puño dorado\nresplandeciente.",
+      "translation": "Digimon Ángel con seis alas\nresplandecientes, vestido con\nropas sagradas blancas puras. Ser\nde virtud que trae felicidad y\ncombate al mal sin piedad. Dicen\nque desciende a liderar Digimon\nde su especie cuando el Digimundo\npeligra. Su Ataque Especial,\nPuño del Cielo, aplasta enemigos\ncon un puño dorado\nresplandeciente.",
       "_offset": 1711316,
       "_length": 345
     },
     {
+      "text": "Archangel",
+      "translation": "Arcángel",
+      "_offset": 1713638,
+      "_length": 9
+    },
+    {
+      "text": "Ophanimon",
+      "translation": "Ophanimon",
+      "_offset": 1713648,
+      "_length": 9
+    },
+    {
       "text": "An Ophan Digimon, the final form of\nthe female Angel Digimon. One of the\nThree Archangel Digimon that protect\nthe Digital World's core \"Kernel\"\n(God's domain). The Digital World's\nHoly Mother that brings God's\ncompassion and love, while\nSeraphimon executes God's will\nand Cherubimon guards the divine\nwisdom. Its Special Move is Eden's\nJavelin.",
-      "translation": "Digimon Ophan, forma final de los\nDigimon Ángel femeninos. Uno de\nlos Tres Digimon Arcángel que\nprotegen el \"Núcleo\" del Digimundo\n(dominio de Dios). La Santa Madre\ndel Digimundo que trae la\ncompasión y el amor de Dios,\nmientras Seraphimon ejecuta la\nvoluntad divina y Cherubimon\nguarda la sabiduría divina. Su\nAtaque Especial es Jabalina de\nEdén.",
+      "translation": "Digimon Ophan, forma final de los\nDigimon Ángel femeninos. Uno de los\nTres Digimon Arcángel que protegen\nel \"Núcleo\" del Digimundo (dominio\nde Dios). La Santa Madre del\nDigimundo que trae la compasión y el\namor de Dios, mientras Seraphimon\nejecuta la voluntad divina y\nCherubimon guarda la sabiduría\ndivina. Su Ataque Especial es\nJabalina del Edén.",
       "_offset": 1713658,
       "_length": 344
     },
     {
+      "text": "Cyborg",
+      "translation": "Cíborg",
+      "_offset": 1735054,
+      "_length": 6
+    },
+    {
+      "text": "Mugendramon",
+      "translation": "Machinedramon",
+      "_offset": 1735061,
+      "_length": 11
+    },
+    {
+      "text": "An Ultimate Level Digimon which\noverpowers others. It's constructed\nwith various Cyborg Digimon parts,\nand it's said all prior Cyborg\nDigimon were prototypes made to\nperfect Mugendramon. Its Special\nMove, Infinity Cannon, fires energy\nwaves from its two dreadnought\ncannons.",
+      "translation": "Digimon de Cuerpo Supremo que\nsupera a los demás. Está\nconstruido con piezas de varios\nDigimon Cíborg, y se dice que los\nCíborg anteriores fueron\nprototipos de Machinedramon. Su\nAtaque Especial, Cañón Infinito,\ndispara ondas de energía desde\nsus dos cañones acorazados.",
+      "_offset": 1735073,
+      "_length": 274
+    },
+    {
+      "text": "Machine",
+      "translation": "Máquina",
+      "_offset": 1735348,
+      "_length": 7
+    },
+    {
+      "text": "Pinocchimon",
+      "translation": "Puppetmon",
+      "_offset": 1735356,
+      "_length": 11
+    },
+    {
+      "text": "The nastiest Ultimate Level Digimon,\nit's made from the body of a cursed\nJyureimon. It looks like a\nmarionette, but has its own will.\nIts Special Move, Bullet Hammer,\nputs gunpowder in its revolver-style\nhammer to smash its foes.",
+      "translation": "El más ruin de los Digimon de Cuerpo\nSupremo, hecho del cuerpo de un\nJureimon maldito. Parece una\nmarioneta, pero tiene voluntad\npropia. Su Ataque Especial, Martillo\nBala, pone pólvora en su martillo\nrevólver y aplasta a rivales.",
+      "_offset": 1735368,
+      "_length": 229
+    },
+    {
+      "text": "Puppet",
+      "translation": "Marioneta",
+      "_offset": 1735598,
+      "_length": 6
+    },
+    {
+      "text": "Piemon",
+      "translation": "Piedmon",
+      "_offset": 1735605,
+      "_length": 6
+    },
+    {
+      "text": "An Ultimate Level Demon Man Digimon.\nIt's unclear why it exists or\nappeared, but its power's unmatched;\nif you meet Piemon, all that's left\nis to curse your fate. Its Special\nMove, Trump Sword, teleports its\nfour swords to pierce its opponents.",
+      "translation": "Digimon Hombre Demonio de Cuerpo\nSupremo. No se sabe por qué\nexiste, pero su poder es\ninigualable; si te cruzas con\nPiedmon, solo te queda maldecir tu\nsuerte. Su Ataque Especial, Espada\nTrump, teletransporta sus cuatro\nespadas para atravesar rivales.",
+      "_offset": 1735612,
+      "_length": 244
+    },
+    {
+      "text": "Demon Man",
+      "translation": "Hombre Demonio",
+      "_offset": 1735857,
+      "_length": 9
+    },
+    {
+      "text": "Apocalymon",
+      "translation": "Apocalymon",
+      "_offset": 1735867,
+      "_length": 10
+    },
+    {
+      "text": "A Digimon whose identity's covered\nin darkness. Its Special Move,\nDarkness Zone, turns everything\ninto nothingness.",
+      "translation": "Digimon cuya identidad está\ncubierta de oscuridad. Su Ataque\nEspecial, Zona Oscura, convierte\ntodo en la nada.",
+      "_offset": 1735878,
+      "_length": 115
+    },
+    {
+      "text": "Unknown",
+      "translation": "Desconocido",
+      "_offset": 1735994,
+      "_length": 7
+    },
+    {
+      "text": "Kuramon",
+      "translation": "Kuramon",
+      "_offset": 1736002,
+      "_length": 7
+    },
+    {
+      "text": "An Unknown Digimon that appeared in\na computer network, born as the\nembodiment of its bugs. A highly\ndangerous Digimon. It multiplies\nlike a virus and causes trouble. Its\nSpecial Move, Glare Eye, produces\nfoam from its large eye.",
+      "translation": "Digimon Desconocido que apareció\nen una red informática, nacido de\nsus propios errores. Un Digimon\nmuy peligroso. Se multiplica como\nun virus y causa problemas. Su\nAtaque Especial, Ojo Fulminante,\nproduce espuma desde su gran ojo.",
+      "_offset": 1736010,
+      "_length": 229
+    },
+    {
+      "text": "Unknown",
+      "translation": "Desconocido",
+      "_offset": 1736240,
+      "_length": 7
+    },
+    {
+      "text": "Tsumemon",
+      "translation": "Tsumemon",
+      "_offset": 1736248,
+      "_length": 8
+    },
+    {
+      "text": "A Baby Digimon that evolved from\nKuramon. It became fiercer and\ngrew fangs at the tips of its\nfeelers. It corrupts data at a\nterrifying speed and makes the\nnetwork go haywire. It's harder to\ncatch in this form because it's much\nfaster. Its Special Move, Nail\nScratch, cuts its opponents with its\nfangs.",
+      "translation": "Digimon Bebé que evolucionó de\nKuramon. Se volvió más feroz y le\ncrecieron colmillos en las puntas\nde sus antenas. Corrompe datos a\nvelocidad aterradora y enloquece\nla red. Es más difícil de atrapar\nen esta forma porque es mucho más\nrápido. Su Ataque Especial,\nArañazo, corta a sus rivales con\nsus colmillos.",
+      "_offset": 1736257,
+      "_length": 302
+    },
+    {
+      "text": "Unknown",
+      "translation": "Desconocido",
+      "_offset": 1737600,
+      "_length": 7
+    },
+    {
+      "text": "Diablomon",
+      "translation": "Diaboromon",
+      "_offset": 1737608,
+      "_length": 9
+    },
+    {
       "text": "It grows by absorbing more and more\ndata in the internet, almost\ndestroying the electronic world.\nConvinced of its own omniscience and\nomnipotence, it began to enjoy\nrampaging. Its goal is to use\nmilitary computers to destroy the\nReal World with nuclear weapons. Its\nSpecial Move, Catastrophe Cannon,\nshoots powerful destructive energy\nfrom its chest-cannon.",
-      "translation": "Crece absorbiendo cada vez más\ndatos de internet, casi\ndestruyendo el mundo electrónico.\nConvencido de su propia\nomnisciencia y omnipotencia,\nempezó a disfrutar arrasando. Su\nobjetivo es usar ordenadores\nmilitares para destruir el Mundo\nReal con armas nucleares. Su\nAtaque Especial, Cañón Catástrofe,\ndispara una poderosa energía\ndestructiva desde el cañón de su\npecho.",
+      "translation": "Crece absorbiendo cada vez más datos\nde Internet, casi destruyendo el\nmundo electrónico. Convencido de su\npropia omnisciencia y omnipotencia,\nempezó a disfrutar arrasando. Su\nobjetivo es usar ordenadores\nmilitares para destruir el Mundo\nReal con armas nucleares. Su Ataque\nEspecial, Cañón Catástrofe, dispara\nuna energía muy destructiva\ndesde el cañón de su pecho.",
       "_offset": 1737618,
       "_length": 358
     },
     {
       "text": "Small Dragon",
-      "translation": "Peq. Dragón",
+      "translation": "Dragón Pequeño",
       "_offset": 1741267,
       "_length": 12
     },
     {
+      "text": "OmegaShoutmon",
+      "translation": "OmegaShoutmon",
+      "_offset": 1741280,
+      "_length": 13
+    },
+    {
       "text": "OmegaShoutmon was the form achieved\nwhen Omegamon bestowed the Legendary\nEvolution upon Shoutmon, unleashing\nits burning spirit. Its body's\nenveloped in this newfound power,\nthe Omega inForce, which gave it a\ngolden shine and a sharp, crisp \nbuild. Its Special Move, Heavy\nMetal Vulcan, fires shots\ntransformed into heat by its chest's\nblazing friendship.",
-      "translation": "OmegaShoutmon es la forma que\nalcanzó Shoutmon cuando Omegamon\nle concedió la Evolución\nLegendaria, liberando su espíritu\nardiente. Su cuerpo queda\nenvuelto en este nuevo poder, la\nOmega inForce, que le dio un\nbrillo dorado y una forma\nafilada. Su Ataque Especial,\nVolcan Heavy Metal, dispara\ndisparos convertidos en calor por\nla amistad ardiente de su pecho.",
+      "translation": "OmegaShoutmon es la forma que\nalcanzó Shoutmon cuando Omegamon le\nconcedió la Evolución Legendaria,\nliberando su espíritu ardiente. Su\ncuerpo queda envuelto en este nuevo\npoder, la Omega inForce, que le dio\nun brillo dorado y una forma\nafilada. Su Ataque Especial, Volcán\nHeavy Metal, lanza disparos\nconvertidos en calor por la amistad\nardiente de su pecho.",
       "_offset": 1741294,
       "_length": 355
     },
     {
       "text": "Holy Knight",
-      "translation": "Cab. Sagr.",
+      "translation": "Caballero Sagrado",
       "_offset": 1742799,
       "_length": 11
     },
     {
       "text": "Shock Guard",
-      "translation": "Def. Shock",
+      "translation": "Antishock",
       "_offset": 1744858,
       "_length": 11
     },
     {
       "text": "Lowers chance of Shock.",
-      "translation": "Reduce el Shock.",
+      "translation": "Reduce el riesgo de Shock.",
       "_offset": 1744870,
       "_length": 23
     },
     {
       "text": "Break Guard",
-      "translation": "Def. Break",
+      "translation": "Antirrotura",
       "_offset": 1744894,
       "_length": 11
     },
     {
       "text": "Lowers chance of Break.",
-      "translation": "Reduce el Break.",
+      "translation": "Reduce el riesgo de Rotura.",
       "_offset": 1744906,
       "_length": 23
     },
     {
       "text": "Poison Guard",
-      "translation": "Def. Veneno",
+      "translation": "Antiveneno",
       "_offset": 1744930,
       "_length": 12
     },
     {
       "text": "Lowers chance of Poison.",
-      "translation": "Reduce el Veneno.",
+      "translation": "Reduce el riesgo de Veneno.",
       "_offset": 1744943,
       "_length": 24
     },
@@ -591,13 +1599,13 @@
     },
     {
       "text": "Sticky Guard",
-      "translation": "Def. Pegaj.",
+      "translation": "Antipegajoso",
       "_offset": 1745002,
       "_length": 12
     },
     {
       "text": "Lowers chance of Sticky.",
-      "translation": "Reduce lo Pegajoso.",
+      "translation": "Reduce el riesgo de Pegajoso.",
       "_offset": 1745015,
       "_length": 24
     },
@@ -609,19 +1617,19 @@
     },
     {
       "text": "Skill Guard",
-      "translation": "Def. Sello",
+      "translation": "Antisello",
       "_offset": 1745074,
       "_length": 11
     },
     {
       "text": "Lowers chance of Skill Seal.",
-      "translation": "Reduce el Sello de Hab.",
+      "translation": "Reduce el riesgo de Sello.",
       "_offset": 1745086,
       "_length": 28
     },
     {
       "text": "Nullifies Skill Seal.",
-      "translation": "Anula el Sello Hab.",
+      "translation": "Anula el Sello de Habilidad.",
       "_offset": 1745130,
       "_length": 21
     },
@@ -633,7 +1641,7 @@
     },
     {
       "text": "Lowers chance of Poison, \nSticky, and Skill Seal.",
-      "translation": "Reduce Veneno, Pegajoso y\nSello de Hab.",
+      "translation": "Reduce Veneno, Pegajoso y\nSello de Habilidad.",
       "_offset": 1745166,
       "_length": 49
     },
@@ -645,9 +1653,15 @@
     },
     {
       "text": "Nullifies Poison, Sticky, \nand Skill Seal.",
-      "translation": "Anula Veneno, Pegajoso y\nSello de Hab.",
+      "translation": "Anula Veneno, Pegajoso y\nSello de Habilidad.",
       "_offset": 1745232,
       "_length": 42
+    },
+    {
+      "text": "Amulet",
+      "translation": "Amuleto",
+      "_offset": 1745275,
+      "_length": 6
     },
     {
       "text": "Raises evasion rate.",
@@ -666,6 +1680,12 @@
       "translation": "Sube ATK y DEF propios 1\nnivel.",
       "_offset": 1745319,
       "_length": 44
+    },
+    {
+      "text": "Focus",
+      "translation": "Concentrar",
+      "_offset": 1745364,
+      "_length": 5
     },
     {
       "text": "Raises the user's ATK and DEF \nby two stages.",
@@ -746,20 +1766,38 @@
       "_length": 41
     },
     {
+      "text": "Again",
+      "translation": "Repetir",
+      "_offset": 1745846,
+      "_length": 5
+    },
+    {
       "text": "Allows one ally to attack \nimmediately.",
       "translation": "Permite a un aliado atacar\nde inmediato.",
       "_offset": 1745852,
       "_length": 39
     },
     {
+      "text": "Regain",
+      "translation": "Recuperar",
+      "_offset": 1745892,
+      "_length": 6
+    },
+    {
       "text": "Allows one ally to attack twice \nfor three turns.",
-      "translation": "Permite a un aliado atacar 2\nveces 3 turnos.",
+      "translation": "Permite a un aliado atacar 2\nveces durante 3 turnos.",
       "_offset": 1745899,
       "_length": 49
     },
     {
+      "text": "Protect",
+      "translation": "Proteger",
+      "_offset": 1745949,
+      "_length": 7
+    },
+    {
       "text": "Shields one ally from attacks.",
-      "translation": "Protege a un aliado de\nataques.",
+      "translation": "Protege a 1 aliado de ataques.",
       "_offset": 1745957,
       "_length": 30
     },
@@ -776,10 +1814,22 @@
       "_length": 26
     },
     {
+      "text": "Taunt",
+      "translation": "Provocar",
+      "_offset": 1746029,
+      "_length": 5
+    },
+    {
       "text": "Makes enemies target you \nuntil the next round.",
       "translation": "Hace que te ataquen hasta el\npróximo turno.",
       "_offset": 1746035,
       "_length": 47
+    },
+    {
+      "text": "Heal",
+      "translation": "Cura",
+      "_offset": 1746083,
+      "_length": 4
     },
     {
       "text": "Heal 400 HP for one ally.",
@@ -819,7 +1869,7 @@
     },
     {
       "text": "Heal Full HP for one ally.",
-      "translation": "Cura HP completo a\naliado.",
+      "translation": "Cura HP completo a aliado.",
       "_offset": 1746197,
       "_length": 26
     },
@@ -867,55 +1917,67 @@
     },
     {
       "text": "Poison Cure",
-      "translation": "Antidoto",
+      "translation": "Antídoto",
       "_offset": 1746381,
       "_length": 11
     },
     {
       "text": "Cures Poison for one ally.",
-      "translation": "Cura Veneno a un aliado.",
+      "translation": "Cura Veneno a 1 aliado.",
       "_offset": 1746393,
       "_length": 26
     },
     {
+      "text": "Smooth",
+      "translation": "Suave",
+      "_offset": 1746420,
+      "_length": 6
+    },
+    {
       "text": "Cures Sticky for one ally.",
-      "translation": "Cura Pegajoso a un aliado.",
+      "translation": "Cura Pegajoso a 1 aliado.",
       "_offset": 1746427,
       "_length": 26
     },
     {
       "text": "Skill Release",
-      "translation": "Soltar Skill",
+      "translation": "Desbloqueo",
       "_offset": 1746454,
       "_length": 13
     },
     {
       "text": "Unseals Skills for one ally.",
-      "translation": "Desbloquea Hab. de un\naliado.",
+      "translation": "Desbloquea habilidades de 1 aliado.",
       "_offset": 1746468,
       "_length": 28
     },
     {
       "text": "Cures Poison, Sticky, \nand Skill Seal for one ally.",
-      "translation": "Cura Veneno, Pegajoso y Sello\nde Hab. a un aliado.",
+      "translation": "Cura Veneno, Pegajoso y Sello\nde Habilidad a 1 aliado.",
       "_offset": 1746506,
       "_length": 51
     },
     {
       "text": "Cures Poison, Sticky, \nand Skill Seal for all allies.",
-      "translation": "Cura Veneno, Pegajoso y Sello\nde Hab. a todos.",
+      "translation": "Cura Veneno, Pegajoso y Sello\nde Habilidad a todos.",
       "_offset": 1746569,
       "_length": 53
     },
     {
+      "text": "Revive",
+      "translation": "Revivir",
+      "_offset": 1746623,
+      "_length": 6
+    },
+    {
       "text": "Revives one KO'd ally \nwith full HP.",
-      "translation": "Revive a un aliado KO con HP\nlleno.",
+      "translation": "Revive a 1 aliado KO con\ntodo el HP.",
       "_offset": 1746630,
       "_length": 36
     },
     {
       "text": "Sacrifice Attack",
-      "translation": "Ataque Sacrif.",
+      "translation": "Golpe Sacrificio",
       "_offset": 1746667,
       "_length": 16
     },
@@ -927,7 +1989,7 @@
     },
     {
       "text": "Drain Attack",
-      "translation": "Ataque Dren.",
+      "translation": "Golpe Drenaje",
       "_offset": 1746738,
       "_length": 12
     },
@@ -939,7 +2001,7 @@
     },
     {
       "text": "Shock Attack",
-      "translation": "Ataque Shock",
+      "translation": "Golpe Shock",
       "_offset": 1746798,
       "_length": 12
     },
@@ -957,37 +2019,37 @@
     },
     {
       "text": "Break Attack",
-      "translation": "AtaqueRotura",
+      "translation": "Golpe Rotura",
       "_offset": 1746907,
       "_length": 12
     },
     {
       "text": "Attacks one enemy with a chance \nof Break.",
-      "translation": "Ataca con posible Break a\nun enemigo.",
+      "translation": "Ataca con posible Rotura a\nun enemigo.",
       "_offset": 1746920,
       "_length": 42
     },
     {
       "text": "Attacks one enemy and causes \nBreak.",
-      "translation": "Ataca y causa Break a un\nenemigo.",
+      "translation": "Ataca y causa Rotura a un\nenemigo.",
       "_offset": 1746979,
       "_length": 36
     },
     {
       "text": "Rage Attack",
-      "translation": "AtaqueFuria",
+      "translation": "Golpe Furia",
       "_offset": 1747016,
       "_length": 11
     },
     {
       "text": "Attacks one enemy with a \nchance of Shock and Break.",
-      "translation": "Ataca con posible Shock y\nBreak a un enemigo.",
+      "translation": "Ataca con posible Shock y\nRotura a un enemigo.",
       "_offset": 1747028,
       "_length": 52
     },
     {
       "text": "Attacks one enemy and causes \nShock and Break.",
-      "translation": "Ataca y causa Shock y Break\na un enemigo.",
+      "translation": "Ataca y causa Shock y Rotura\na un enemigo.",
       "_offset": 1747096,
       "_length": 46
     },
@@ -1005,7 +2067,7 @@
     },
     {
       "text": "Poison Attack",
-      "translation": "Ataque Venen.",
+      "translation": "Golpe Veneno",
       "_offset": 1747193,
       "_length": 13
     },
@@ -1023,7 +2085,7 @@
     },
     {
       "text": "Sticky Attack",
-      "translation": "Ataque Pegaj.",
+      "translation": "Golpe Pegajoso",
       "_offset": 1747306,
       "_length": 13
     },
@@ -1053,7 +2115,7 @@
     },
     {
       "text": "All Attack",
-      "translation": "AtaqueTot.",
+      "translation": "Ataque Total",
       "_offset": 1747493,
       "_length": 10
     },
@@ -1101,7 +2163,7 @@
     },
     {
       "text": "Status Reset",
-      "translation": "ReinicioEst.",
+      "translation": "Reinicio Estado",
       "_offset": 1747793,
       "_length": 12
     },
@@ -1112,10 +2174,22 @@
       "_length": 36
     },
     {
+      "text": "Anger",
+      "translation": "Ira",
+      "_offset": 1747843,
+      "_length": 5
+    },
+    {
       "text": "Raises ATK by one stage when \nyou receive damage.",
       "translation": "Sube ATK 1 nivel al recibir\ndaño.",
       "_offset": 1747849,
       "_length": 49
+    },
+    {
+      "text": "Pray",
+      "translation": "Rezar",
+      "_offset": 1747899,
+      "_length": 4
     },
     {
       "text": "Raises evasion rate when your \nHP becomes low.",
@@ -1130,6 +2204,12 @@
       "_length": 24
     },
     {
+      "text": "Counter",
+      "translation": "Contra",
+      "_offset": 1747984,
+      "_length": 7
+    },
+    {
       "text": "A chance of a counterattack \nwhen you receive damage.",
       "translation": "Posible contraataque al\nrecibir daño.",
       "_offset": 1747992,
@@ -1137,7 +2217,7 @@
     },
     {
       "text": "Super Counter",
-      "translation": "Super Contra",
+      "translation": "Súper Contra",
       "_offset": 1748046,
       "_length": 13
     },
@@ -1160,6 +2240,12 @@
       "_length": 60
     },
     {
+      "text": "Defend",
+      "translation": "Defender",
+      "_offset": 1748176,
+      "_length": 6
+    },
+    {
       "text": "Automatically takes an attack \nfor an ally with low HP.",
       "translation": "Recibe ataques por un aliado\ncon poco HP.",
       "_offset": 1748183,
@@ -1176,6 +2262,12 @@
       "translation": "Recupera algo de HP cada\nturno.",
       "_offset": 1748249,
       "_length": 45
+    },
+    {
+      "text": "Lifeup",
+      "translation": "Vida+",
+      "_offset": 1748295,
+      "_length": 6
     },
     {
       "text": "Revives the user upon fainting \nonce and restores 1000 HP.",
@@ -1202,6 +2294,12 @@
       "_length": 39
     },
     {
+      "text": "Revenge",
+      "translation": "Venganza",
+      "_offset": 1748524,
+      "_length": 7
+    },
+    {
       "text": "Allows one enemy to \ncounterattack (enemy only).",
       "translation": "Permite contraatacar a un\nenemigo (solo enemigo).",
       "_offset": 1748532,
@@ -1209,21 +2307,33 @@
     },
     {
       "text": "Continuous Attack",
-      "translation": "Ataque continuo",
+      "translation": "Ataque Continuo",
       "_offset": 1748581,
       "_length": 17
     },
     {
       "text": "Attacks a random target 2 times.",
-      "translation": "Ataca 2 veces, objetivo azar.",
+      "translation": "Ataca 2 veces al azar.",
       "_offset": 1748599,
       "_length": 32
     },
     {
+      "text": "Barrage",
+      "translation": "Ráfaga",
+      "_offset": 1748632,
+      "_length": 7
+    },
+    {
       "text": "Attacks a random target 4 times.",
-      "translation": "Ataca 4 veces, objetivo azar.",
+      "translation": "Ataca 4 veces al azar.",
       "_offset": 1748640,
       "_length": 32
+    },
+    {
+      "text": "Ambush",
+      "translation": "Emboscada",
+      "_offset": 1748673,
+      "_length": 6
     },
     {
       "text": "Increases the chance of making \nthe first strike.",
@@ -1233,7 +2343,7 @@
     },
     {
       "text": "Danger Alert",
-      "translation": "Alerta Pelig",
+      "translation": "Alerta Peligro",
       "_offset": 1748730,
       "_length": 12
     },
@@ -1244,8 +2354,14 @@
       "_length": 34
     },
     {
+      "text": "Luck",
+      "translation": "Suerte",
+      "_offset": 1748778,
+      "_length": 4
+    },
+    {
       "text": "Increases the item drop rate.",
-      "translation": "Sube el drop de objetos.",
+      "translation": "Sube la probabilidad de botín.",
       "_offset": 1748783,
       "_length": 29
     },
@@ -1257,13 +2373,13 @@
     },
     {
       "text": "Significantly increases the \nitem drop rate.",
-      "translation": "Sube mucho el drop de\nobjetos.",
+      "translation": "Sube mucho la probabilidad\nde botín.",
       "_offset": 1748824,
       "_length": 44
     },
     {
       "text": "Fast Growth",
-      "translation": "Crec Rápido",
+      "translation": "Crece Rápido",
       "_offset": 1748869,
       "_length": 11
     },
@@ -1287,19 +2403,19 @@
     },
     {
       "text": "Starts battle having evolved \none level (if possible).",
-      "translation": "Empieza la batalla\nevolucionado 1 nivel (si\nposible).",
+      "translation": "Empieza la batalla evolucionado 1\nnivel (si se puede).",
       "_offset": 1749008,
       "_length": 54
     },
     {
       "text": "Starts battle having evolved \ntwo levels (if possible).",
-      "translation": "Empieza la batalla\nevolucionado 2 niveles (si\nposible).",
+      "translation": "Empieza la batalla evolucionado 2\nniveles (si se puede).",
       "_offset": 1749076,
       "_length": 55
     },
     {
       "text": "Starts battle having evolved \nthree levels (if possible).",
-      "translation": "Empieza la batalla\nevolucionado 3 niveles (si\nposible).",
+      "translation": "Empieza la batalla evolucionado 3\nniveles (si se puede).",
       "_offset": 1749145,
       "_length": 57
     },
@@ -1322,1352 +2438,14 @@
       "_length": 46
     },
     {
-      "text": "Seven Heavens",
-      "translation": "Siete Cielos",
-      "_offset": 1772060,
-      "_length": 13
-    },
-    {
-      "text": "Divine Breaker",
-      "translation": "Rompe Divino",
-      "_offset": 1772292,
-      "_length": 14
-    },
-    {
-      "text": "Cat Punch",
-      "translation": "Zarpazo",
-      "_offset": 1772408,
-      "_length": 9
-    },
-    {
-      "text": "Cat Kick ",
-      "translation": "Patada! ",
-      "_offset": 1772524,
-      "_length": 9
-    },
-    {
-      "text": "Cat's Eye",
-      "translation": "OjoGato",
-      "_offset": 1772640,
-      "_length": 9
-    },
-    {
-      "text": "Holy Arrow",
-      "translation": "FlechaSda.",
-      "_offset": 1772756,
-      "_length": 10
-    },
-    {
-      "text": "Heaven's Charm",
-      "translation": "Amuleto Cielo",
-      "_offset": 1772872,
-      "_length": 14
-    },
-    {
-      "text": "Saint Air",
-      "translation": "AireSanto",
-      "_offset": 1772988,
-      "_length": 9
-    },
-    {
-      "text": "Holy Flame",
-      "translation": "LlamaSagr.",
-      "_offset": 1773104,
-      "_length": 10
-    },
-    {
-      "text": "Hermit Fog",
-      "translation": "NieblaErm.",
-      "_offset": 1773220,
-      "_length": 10
-    },
-    {
-      "text": "Grey Sword",
-      "translation": "Esp. Grey",
-      "_offset": 1773452,
-      "_length": 10
-    },
-    {
-      "text": "Garuru Cannon",
-      "translation": "Cañón Garuru",
-      "_offset": 1773568,
-      "_length": 13
-    },
-    {
-      "text": "Omega Blast",
-      "translation": "Bomba Omega",
-      "_offset": 1773684,
-      "_length": 11
-    },
-    {
-      "text": "Scissor Arms",
-      "translation": "Brazo Tijera",
-      "_offset": 1773800,
-      "_length": 12
-    },
-    {
-      "text": "Power Guillotine",
-      "translation": "Guillotina Pot.",
-      "_offset": 1773916,
-      "_length": 16
-    },
-    {
-      "text": "Hydro Pressure",
-      "translation": "PresiónHídrica",
-      "_offset": 1774032,
-      "_length": 14
-    },
-    {
-      "text": "Shell Guard",
-      "translation": "Def. Concha",
-      "_offset": 1774148,
-      "_length": 11
-    },
-    {
-      "text": "Volcano Strike",
-      "translation": "GolpeVolcánico",
-      "_offset": 1774264,
-      "_length": 14
-    },
-    {
-      "text": "Grand Fire",
-      "translation": "GranFuego",
-      "_offset": 1774380,
-      "_length": 10
-    },
-    {
-      "text": "Guardy Tusk",
-      "translation": "ColmilloG.",
-      "_offset": 1774496,
-      "_length": 11
-    },
-    {
-      "text": "Ice Arrow",
-      "translation": "FlechaHi.",
-      "_offset": 1774612,
-      "_length": 9
-    },
-    {
-      "text": "Tail Attack",
-      "translation": "Colazo",
-      "_offset": 1774728,
-      "_length": 11
-    },
-    {
-      "text": "Burning Fist",
-      "translation": "PuñoArdiente",
-      "_offset": 1774960,
-      "_length": 12
-    },
-    {
-      "text": "Heat Wave",
-      "translation": "Ola Calor",
-      "_offset": 1775076,
-      "_length": 9
-    },
-    {
-      "text": "Gatling Missile",
-      "translation": "Misil Gatling",
-      "_offset": 1775192,
-      "_length": 15
-    },
-    {
-      "text": "Spiral Sword",
-      "translation": "Esp. Espiral",
-      "_offset": 1775308,
-      "_length": 12
-    },
-    {
-      "text": "Weak Slap",
-      "translation": "Bofetada",
-      "_offset": 1775424,
-      "_length": 9
-    },
-    {
-      "text": "Poop Throw",
-      "translation": "Tira Caca",
-      "_offset": 1775540,
-      "_length": 10
-    },
-    {
-      "text": "Poop Throw Barrage",
-      "translation": "Lluvia de Caca",
-      "_offset": 1775656,
-      "_length": 18
-    },
-    {
-      "text": "Super Stinky Spray",
-      "translation": "Spray Oloroso +",
-      "_offset": 1775772,
-      "_length": 18
-    },
-    {
-      "text": "Lovely Attack",
-      "translation": "AtaqueAmoroso",
-      "_offset": 1775888,
-      "_length": 13
-    },
-    {
-      "text": "Bun Bun Punch",
-      "translation": "Puño Bun Bun",
-      "_offset": 1776004,
-      "_length": 13
-    },
-    {
-      "text": "Eye Beam",
-      "translation": "RayoOjo",
-      "_offset": 1776120,
-      "_length": 8
-    },
-    {
-      "text": "Holy Shot",
-      "translation": "TiroSagr.",
-      "_offset": 1776236,
-      "_length": 9
-    },
-    {
-      "text": "Uni Gallop",
-      "translation": "GalopeUni",
-      "_offset": 1776352,
-      "_length": 10
-    },
-    {
-      "text": "Fist of the Tyrant",
-      "translation": "Puño del Tirano",
-      "_offset": 1776468,
-      "_length": 18
-    },
-    {
-      "text": "Bone Club",
-      "translation": "Garrote",
-      "_offset": 1776584,
-      "_length": 9
-    },
-    {
-      "text": "Fist of the Beast King",
-      "translation": "Puño del Rey Bestia",
-      "_offset": 1776700,
-      "_length": 22
-    },
-    {
-      "text": "Lion King",
-      "translation": "Rey León",
-      "_offset": 1776816,
-      "_length": 9
-    },
-    {
-      "text": "Death Claw",
-      "translation": "GarraMort.",
-      "_offset": 1776932,
-      "_length": 10
-    },
-    {
-      "text": "Razor Wing",
-      "translation": "AlaNavaja",
-      "_offset": 1777048,
-      "_length": 10
-    },
-    {
-      "text": "Demon's Ray",
-      "translation": "Rayo Demon.",
-      "_offset": 1777164,
-      "_length": 11
-    },
-    {
-      "text": "Absolute Zero Punch",
-      "translation": "Puño Cero Absoluto",
-      "_offset": 1777280,
-      "_length": 19
-    },
-    {
-      "text": "Ice Breath",
-      "translation": "SoploHielo",
-      "_offset": 1777396,
-      "_length": 10
-    },
-    {
-      "text": "Snowball Fight",
-      "translation": "Guerra Nieve",
-      "_offset": 1777512,
-      "_length": 14
-    },
-    {
-      "text": "Icicle Rod",
-      "translation": "VaraHielo",
-      "_offset": 1777628,
-      "_length": 10
-    },
-    {
-      "text": "Bone Bone Boomerang",
-      "translation": "Bumerán Hueso Hueso",
-      "_offset": 1777744,
-      "_length": 19
-    },
-    {
-      "text": "Cheese Bomb",
-      "translation": "BombaQueso",
-      "_offset": 1777860,
-      "_length": 11
-    },
-    {
-      "text": "Double Attack",
-      "translation": "Ataque Doble",
-      "_offset": 1777976,
-      "_length": 13
-    },
-    {
-      "text": "Hunting Cannon",
-      "translation": "Cañón de Caza",
-      "_offset": 1778092,
-      "_length": 14
-    },
-    {
-      "text": "Jet Gallop",
-      "translation": "GalopeJet",
-      "_offset": 1778208,
-      "_length": 10
-    },
-    {
-      "text": "Heat Upper",
-      "translation": "GanchoCal.",
-      "_offset": 1778324,
-      "_length": 10
-    },
-    {
-      "text": "Death Charm",
-      "translation": "Enc. Muerte",
-      "_offset": 1778440,
-      "_length": 11
-    },
-    {
-      "text": "Hell's Hand",
-      "translation": "Mano Infer.",
-      "_offset": 1778556,
-      "_length": 11
-    },
-    {
-      "text": "Ghost Chop",
-      "translation": "GolpeFant.",
-      "_offset": 1778672,
-      "_length": 10
-    },
-    {
-      "text": "Sparkling Thunder",
-      "translation": "Trueno Chispeante",
-      "_offset": 1778788,
-      "_length": 17
-    },
-    {
-      "text": "Thunder Knife",
-      "translation": "Cuch. Trueno",
-      "_offset": 1778904,
-      "_length": 13
-    },
-    {
-      "text": "Jet Arrow",
-      "translation": "FlechaJet",
-      "_offset": 1779020,
-      "_length": 9
-    },
-    {
-      "text": "Tidal Wave",
-      "translation": "OlaMarea",
-      "_offset": 1779136,
-      "_length": 10
-    },
-    {
-      "text": "Body Blow",
-      "translation": "Cuerpazo",
-      "_offset": 1779252,
-      "_length": 9
-    },
-    {
-      "text": "Drill Spin",
-      "translation": "Giro Tal.",
-      "_offset": 1779368,
-      "_length": 10
-    },
-    {
-      "text": "Crusher Bone",
-      "translation": "Hueso Trit.",
-      "_offset": 1779484,
-      "_length": 12
-    },
-    {
-      "text": "Poison Bubbles",
-      "translation": "BurbujasVeneno",
-      "_offset": 1779600,
-      "_length": 14
-    },
-    {
-      "text": "Paralyze Breath",
-      "translation": "AlientoParaliz.",
-      "_offset": 1779716,
-      "_length": 15
-    },
-    {
-      "text": "Hidden Blow",
-      "translation": "GolpeOculto",
-      "_offset": 1779832,
-      "_length": 11
-    },
-    {
-      "text": "Love Serenade",
-      "translation": "SerenataAmor",
-      "_offset": 1779948,
-      "_length": 13
-    },
-    {
-      "text": "Dark Spirits",
-      "translation": "Esp. Oscuros",
-      "_offset": 1780064,
-      "_length": 12
-    },
-    {
-      "text": "Grateful Knuckle",
-      "translation": "Nudillo Agradec.",
-      "_offset": 1780180,
-      "_length": 16
-    },
-    {
-      "text": "Ground Zero Revised",
-      "translation": "Punto Cero Rev.",
-      "_offset": 1780296,
-      "_length": 19
-    },
-    {
-      "text": "Ground Zero",
-      "translation": "Punto Cero",
-      "_offset": 1780412,
-      "_length": 11
-    },
-    {
-      "text": "Death Nail ",
-      "translation": "UñaMuerte ",
-      "_offset": 1780528,
-      "_length": 11
-    },
-    {
-      "text": "Petra Fire",
-      "translation": "FuegoPetr.",
-      "_offset": 1780644,
-      "_length": 10
-    },
-    {
-      "text": "Feather Cutter",
-      "translation": "CortaPlumas",
-      "_offset": 1780760,
-      "_length": 14
-    },
-    {
-      "text": "Again Star",
-      "translation": "Otra Estr.",
-      "_offset": 1780876,
-      "_length": 10
-    },
-    {
-      "text": "Pit Bomb",
-      "translation": "BombaFos",
-      "_offset": 1780992,
-      "_length": 8
-    },
-    {
-      "text": "Fire Breath",
-      "translation": "AlienFuego",
-      "_offset": 1781108,
-      "_length": 11
-    },
-    {
-      "text": "Slash Nail",
-      "translation": "UñaCorte",
-      "_offset": 1781224,
-      "_length": 10
-    },
-    {
-      "text": "Dino Kick",
-      "translation": "Patada D.",
-      "_offset": 1781340,
-      "_length": 9
-    },
-    {
-      "text": "Plug Bomb",
-      "translation": "BombaClv.",
-      "_offset": 1781456,
-      "_length": 9
-    },
-    {
-      "text": "Nano Crash",
-      "translation": "ChoqueNano",
-      "_offset": 1781572,
-      "_length": 10
-    },
-    {
-      "text": "Counter Trap",
-      "translation": "TrampaContra",
-      "_offset": 1781688,
-      "_length": 12
-    },
-    {
-      "text": "Love Serenade Chaos",
-      "translation": "SerenataAmor Caos",
-      "_offset": 1781804,
-      "_length": 19
-    },
-    {
-      "text": "Dark Spirits Chaos",
-      "translation": "Esp. Oscuros Caos",
-      "_offset": 1781920,
-      "_length": 18
-    },
-    {
-      "text": "Pico Darts",
-      "translation": "DardosPico",
-      "_offset": 1782036,
-      "_length": 10
-    },
-    {
-      "text": "Bat Flutter",
-      "translation": "Aleteo Bat.",
-      "_offset": 1782152,
-      "_length": 11
-    },
-    {
-      "text": "Devil's Whisper",
-      "translation": "SusurroDiablo",
-      "_offset": 1782268,
-      "_length": 15
-    },
-    {
-      "text": "Sharp Leaf",
-      "translation": "Hoja Afil.",
-      "_offset": 1782384,
-      "_length": 10
-    },
-    {
-      "text": "Delicious Breath",
-      "translation": "AlientoDelicia",
-      "_offset": 1782500,
-      "_length": 16
-    },
-    {
-      "text": "Nightmare Syndrome",
-      "translation": "SíndromePesad.",
-      "_offset": 1782616,
-      "_length": 18
-    },
-    {
-      "text": "Swing Egg",
-      "translation": "HuevoGiro",
-      "_offset": 1782848,
-      "_length": 9
-    },
-    {
-      "text": "Electric Shock",
-      "translation": "DescargaElec.",
-      "_offset": 1782964,
-      "_length": 14
-    },
-    {
-      "text": "Beta Slugger",
-      "translation": "Golpe Beta",
-      "_offset": 1783080,
-      "_length": 12
-    },
-    {
-      "text": "Devil's Blown Kiss",
-      "translation": "Beso Diabólico",
-      "_offset": 1783196,
-      "_length": 18
-    },
-    {
-      "text": "Abduction Ray",
-      "translation": "RayoSecuestro",
-      "_offset": 1783312,
-      "_length": 13
-    },
-    {
-      "text": "Mute Ray",
-      "translation": "RayoMudo",
-      "_offset": 1783428,
-      "_length": 8
-    },
-    {
-      "text": "Lullaby Bubble",
-      "translation": "BurbujaNana",
-      "_offset": 1783544,
-      "_length": 14
-    },
-    {
-      "text": "Child Claw",
-      "translation": "GarraNiño",
-      "_offset": 1783660,
-      "_length": 10
-    },
-    {
-      "text": "Crash Symphony",
-      "translation": "SinfoníaCrash",
-      "_offset": 1783776,
-      "_length": 14
-    },
-    {
-      "text": "Noisy Echo",
-      "translation": "EcoRuidoso",
-      "_offset": 1783892,
-      "_length": 10
-    },
-    {
-      "text": "Samurai Tone",
-      "translation": "Tono Samurái",
-      "_offset": 1784008,
-      "_length": 12
-    },
-    {
-      "text": "Tonosama Jump",
-      "translation": "SaltoTonosama",
-      "_offset": 1784124,
-      "_length": 13
-    },
-    {
-      "text": "Night Raid",
-      "translation": "AsaltoNoc",
-      "_offset": 1784356,
-      "_length": 10
-    },
-    {
-      "text": "Bloody Stream",
-      "translation": "Chorro Sangre",
-      "_offset": 1784472,
-      "_length": 13
-    },
-    {
-      "text": "Dead Scream",
-      "translation": "GritoMuerte",
-      "_offset": 1784588,
-      "_length": 11
-    },
-    {
-      "text": "Deadly Sting",
-      "translation": "AguijonMort.",
-      "_offset": 1784704,
-      "_length": 12
-    },
-    {
-      "text": "Poison Powder",
-      "translation": "PolvoVeneno",
-      "_offset": 1784820,
-      "_length": 13
-    },
-    {
-      "text": "Howling Noise",
-      "translation": "RuidoAullido",
-      "_offset": 1784936,
-      "_length": 13
-    },
-    {
-      "text": "Poop Dunk",
-      "translation": "Caca Dunk",
-      "_offset": 1785052,
-      "_length": 9
-    },
-    {
-      "text": "BOSS Punch",
-      "translation": "PuñoJefe",
-      "_offset": 1785168,
-      "_length": 10
-    },
-    {
-      "text": "Crimson Nail",
-      "translation": "UñaCarmesí",
-      "_offset": 1785284,
-      "_length": 12
-    },
-    {
-      "text": "Demonic Gale",
-      "translation": "VendavalDem.",
-      "_offset": 1785516,
-      "_length": 12
-    },
-    {
-      "text": "Stinger Pollation",
-      "translation": "Aguijón Tóxico",
-      "_offset": 1785632,
-      "_length": 17
-    },
-    {
-      "text": "Arachno Batoto",
-      "translation": "ArachnoBatoto",
-      "_offset": 1785748,
-      "_length": 14
-    },
-    {
-      "text": "Spider Machine Gun",
-      "translation": "Ametralla Araña",
-      "_offset": 1785864,
-      "_length": 18
-    },
-    {
-      "text": "Tusk Strikes",
-      "translation": "GolpeColmil.",
-      "_offset": 1785980,
-      "_length": 12
-    },
-    {
-      "text": "Tundra Breath",
-      "translation": "AlientoTundra",
-      "_offset": 1786096,
-      "_length": 13
-    },
-    {
-      "text": "Nose Stamp",
-      "translation": "GolpeNariz",
-      "_offset": 1786212,
-      "_length": 10
-    },
-    {
-      "text": "Deadly Shade",
-      "translation": "SombraMortal",
-      "_offset": 1786328,
-      "_length": 12
-    },
-    {
-      "text": "Devil Bashing",
-      "translation": "GolpeDiablo",
-      "_offset": 1786444,
-      "_length": 13
-    },
-    {
-      "text": "Squire Dome",
-      "translation": "DomoEscud.",
-      "_offset": 1786560,
-      "_length": 11
-    },
-    {
-      "text": "Stinky Gas",
-      "translation": "GasFetido",
-      "_offset": 1786792,
-      "_length": 10
-    },
-    {
-      "text": "Rotun Tackle",
-      "translation": "PlacajeRotun",
-      "_offset": 1786908,
-      "_length": 12
-    },
-    {
-      "text": "Heavy Metal Fire",
-      "translation": "FuegoMetalPes.",
-      "_offset": 1787024,
-      "_length": 16
-    },
-    {
-      "text": "Heat Chain",
-      "translation": "CadenaCal.",
-      "_offset": 1787140,
-      "_length": 10
-    },
-    {
-      "text": "Trick or Treat",
-      "translation": "Truco o Trato",
-      "_offset": 1787256,
-      "_length": 14
-    },
-    {
-      "text": "Angry Rock",
-      "translation": "RocaFuria",
-      "_offset": 1787488,
-      "_length": 10
-    },
-    {
-      "text": "Hardest Punch",
-      "translation": "PuñoMásDuro",
-      "_offset": 1787604,
-      "_length": 13
-    },
-    {
-      "text": "Thunder Cloud",
-      "translation": "NubeTrueno",
-      "_offset": 1787720,
-      "_length": 13
-    },
-    {
-      "text": "Magic Game",
-      "translation": "Juego Mag.",
-      "_offset": 1787836,
-      "_length": 10
-    },
-    {
-      "text": "Magic Heal",
-      "translation": "CuraMagia",
-      "_offset": 1787952,
-      "_length": 10
-    },
-    {
-      "text": "Spiral Edge",
-      "translation": "FiloEspiral",
-      "_offset": 1788068,
-      "_length": 11
-    },
-    {
-      "text": "Frog Kick",
-      "translation": "Patada R.",
-      "_offset": 1788184,
-      "_length": 9
-    },
-    {
-      "text": "Water Cure",
-      "translation": "CuraAgua",
-      "_offset": 1788300,
-      "_length": 10
-    },
-    {
-      "text": "Soul Chopper",
-      "translation": "CortaAlmas",
-      "_offset": 1788416,
-      "_length": 12
-    },
-    {
-      "text": "Diabolic Star",
-      "translation": "EstrellaDiab.",
-      "_offset": 1788532,
-      "_length": 13
-    },
-    {
-      "text": "Death Sentence",
-      "translation": "Sent. Muerte",
-      "_offset": 1788648,
-      "_length": 14
-    },
-    {
-      "text": "Fire Blast",
-      "translation": "ExploFuego",
-      "_offset": 1788764,
-      "_length": 10
-    },
-    {
-      "text": "Iron Tail",
-      "translation": "ColaHier.",
-      "_offset": 1788880,
-      "_length": 9
-    },
-    {
-      "text": "Thunder Javelin",
-      "translation": "JabalinaTrueno",
-      "_offset": 1788996,
-      "_length": 15
-    },
-    {
-      "text": "Panzer Knuckle",
-      "translation": "Puño Panzer",
-      "_offset": 1789228,
-      "_length": 14
-    },
-    {
-      "text": "Horn Driver",
-      "translation": "CuernoDriv.",
-      "_offset": 1789344,
-      "_length": 11
-    },
-    {
-      "text": "Shadow Sickle",
-      "translation": "Hoz Sombría",
-      "_offset": 1789460,
-      "_length": 13
-    },
-    {
-      "text": "Sharp Edge",
-      "translation": "Filo Afil.",
-      "_offset": 1789576,
-      "_length": 10
-    },
-    {
-      "text": "Venom Infuse",
-      "translation": "InfusVeneno",
-      "_offset": 1789692,
-      "_length": 12
-    },
-    {
-      "text": "Tyrant Savage",
-      "translation": "TiranoSalvaje",
-      "_offset": 1789808,
-      "_length": 13
-    },
-    {
-      "text": "Chaos Flame",
-      "translation": "LlamaCaos",
-      "_offset": 1790040,
-      "_length": 11
-    },
-    {
-      "text": "Ultimate Stream",
-      "translation": "Chorro Supremo",
-      "_offset": 1790156,
-      "_length": 15
-    },
-    {
-      "text": "Hell Squeeze",
-      "translation": "ApretonInf.",
-      "_offset": 1790272,
-      "_length": 12
-    },
-    {
-      "text": "Bullet Hammer",
-      "translation": "Martillo Bala",
-      "_offset": 1790504,
-      "_length": 13
-    },
-    {
-      "text": "Bullet Machine Gun",
-      "translation": "Ametr. Balas",
-      "_offset": 1790620,
-      "_length": 18
-    },
-    {
-      "text": "Infinity Cannon",
-      "translation": "Cañón Infinito",
-      "_offset": 1790852,
-      "_length": 15
-    },
-    {
-      "text": "Booster Claw",
-      "translation": "GarraImpulso",
-      "_offset": 1790968,
-      "_length": 12
-    },
-    {
-      "text": "Trump Sword",
-      "translation": "Esp. Trump",
-      "_offset": 1791200,
-      "_length": 11
-    },
-    {
-      "text": "Ending Spell",
-      "translation": "HechizoFinal",
-      "_offset": 1791316,
-      "_length": 12
-    },
-    {
-      "text": "Toy Wonderness",
-      "translation": "MundoJuguetes",
-      "_offset": 1791432,
-      "_length": 14
-    },
-    {
-      "text": "Stinger Surprise",
-      "translation": "Aguijón Sorpresa",
-      "_offset": 1791548,
-      "_length": 16
-    },
-    {
-      "text": "Tail Blade",
-      "translation": "Cola Cuch.",
-      "_offset": 1791664,
-      "_length": 10
-    },
-    {
-      "text": "Sand Shower",
-      "translation": "LluviaArena",
-      "_offset": 1791780,
-      "_length": 11
-    },
-    {
-      "text": "Strike Fishing",
-      "translation": "PescaAtaque",
-      "_offset": 1791896,
-      "_length": 14
-    },
-    {
-      "text": "Hell Dive",
-      "translation": "BuceoInf.",
-      "_offset": 1792012,
-      "_length": 9
-    },
-    {
-      "text": "Little Pecker",
-      "translation": "PicotazoPeq.",
-      "_offset": 1792128,
-      "_length": 13
-    },
-    {
-      "text": "Nose Mattock",
-      "translation": "AzadaNariz",
-      "_offset": 1792244,
-      "_length": 12
-    },
-    {
-      "text": "Poison Smush",
-      "translation": "HongoVenen.",
-      "_offset": 1792360,
-      "_length": 12
-    },
-    {
-      "text": "Rough Smush",
-      "translation": "HongoBrusco",
-      "_offset": 1792476,
-      "_length": 11
-    },
-    {
-      "text": "Spiral Flower",
-      "translation": "Flor Espiral",
-      "_offset": 1792592,
-      "_length": 13
-    },
-    {
-      "text": "Thorn Whip",
-      "translation": "Latigo Pua",
-      "_offset": 1792708,
-      "_length": 10
-    },
-    {
-      "text": "Cherry Bomb",
-      "translation": "BombaCereza",
-      "_offset": 1792824,
-      "_length": 11
-    },
-    {
-      "text": "Illusion Mist",
-      "translation": "NieblaIlusion",
-      "_offset": 1792940,
-      "_length": 13
-    },
-    {
-      "text": "Poop Bazooka",
-      "translation": "BazucaCaca",
-      "_offset": 1793056,
-      "_length": 12
-    },
-    {
-      "text": "Dirty Saucer",
-      "translation": "PlatoSucio",
-      "_offset": 1793172,
-      "_length": 12
-    },
-    {
-      "text": "Black Hole",
-      "translation": "Agujero N.",
-      "_offset": 1793288,
-      "_length": 10
-    },
-    {
-      "text": "Mjolnir Thunder",
-      "translation": "TruenoMjolnir",
-      "_offset": 1793404,
-      "_length": 15
-    },
-    {
-      "text": "Sonic Destroyer",
-      "translation": "Destr. Sónico",
-      "_offset": 1793520,
-      "_length": 15
-    },
-    {
-      "text": "Destruction Grenade",
-      "translation": "Granada Destructora",
-      "_offset": 1793636,
-      "_length": 19
-    },
-    {
-      "text": "Homing Laser",
-      "translation": "Láser Guiado",
-      "_offset": 1793752,
-      "_length": 12
-    },
-    {
-      "text": "Warning Laser",
-      "translation": "LáserAviso",
-      "_offset": 1793868,
-      "_length": 13
-    },
-    {
-      "text": "Twinkle Beam",
-      "translation": "RayoCentell.",
-      "_offset": 1793984,
-      "_length": 12
-    },
-    {
-      "text": "Gyro Break",
-      "translation": "GiroBreak",
-      "_offset": 1794100,
-      "_length": 10
-    },
-    {
-      "text": "Branch Drain",
-      "translation": "DrenaRamas",
-      "_offset": 1794216,
-      "_length": 12
-    },
-    {
-      "text": "Woody Smash",
-      "translation": "GolpeMadera",
-      "_offset": 1794332,
-      "_length": 11
-    },
-    {
-      "text": "Banana Slip",
-      "translation": "ResbalPlat.",
-      "_offset": 1794448,
-      "_length": 11
-    },
-    {
-      "text": "Dark Spirits Deluxe",
-      "translation": "Esp. Oscuros Deluxe",
-      "_offset": 1794564,
-      "_length": 19
-    },
-    {
-      "text": "No. 1 Punch",
-      "translation": "PuñoNo.1",
-      "_offset": 1794680,
-      "_length": 11
-    },
-    {
-      "text": "Allergy Shower",
-      "translation": "LluviaAlerg.",
-      "_offset": 1794796,
-      "_length": 14
-    },
-    {
-      "text": "Sweet Scent",
-      "translation": "AromaDulce",
-      "_offset": 1794912,
-      "_length": 11
-    },
-    {
-      "text": "Royal Nuts",
-      "translation": "NuecesReal",
-      "_offset": 1795028,
-      "_length": 10
-    },
-    {
-      "text": "Gorgeous Beak",
-      "translation": "PicoHermoso",
-      "_offset": 1795144,
-      "_length": 13
-    },
-    {
-      "text": "Nail Crusher",
-      "translation": "TrituraUñas",
-      "_offset": 1795260,
-      "_length": 12
-    },
-    {
-      "text": "Infinity Arrow",
-      "translation": "FlechaInfin.",
-      "_offset": 1795376,
-      "_length": 14
-    },
-    {
-      "text": "Hazard Breath",
-      "translation": "AlientoPelig.",
-      "_offset": 1795492,
-      "_length": 13
-    },
-    {
-      "text": "Red Thorn",
-      "translation": "Espina R.",
-      "_offset": 1795608,
-      "_length": 9
-    },
-    {
-      "text": "Red Hot Machine Gun",
-      "translation": "Ametr. al Rojo Vivo",
-      "_offset": 1795724,
-      "_length": 19
-    },
-    {
-      "text": "Darkness Gear",
-      "translation": "EngranajeOsc.",
-      "_offset": 1795840,
-      "_length": 13
-    },
-    {
-      "text": "Haguru Attack",
-      "translation": "AtaqueHaguru",
-      "_offset": 1795956,
-      "_length": 13
-    },
-    {
-      "text": "Crash Device",
-      "translation": "Disp. Choque",
-      "_offset": 1796072,
-      "_length": 12
-    },
-    {
-      "text": "Hyper Cannon",
-      "translation": "Cañón Hiper",
-      "_offset": 1796188,
-      "_length": 12
-    },
-    {
-      "text": "Machine Gun Arm",
-      "translation": "BrazoAmetrall.",
-      "_offset": 1796304,
-      "_length": 15
-    },
-    {
-      "text": "Hell Drive",
-      "translation": "MarchaInf.",
-      "_offset": 1796420,
-      "_length": 10
-    },
-    {
-      "text": "Genocide Attack",
-      "translation": "Ataque Genocida",
-      "_offset": 1796536,
-      "_length": 15
-    },
-    {
-      "text": "Ultimate Slicer",
-      "translation": "CortadorSupremo",
-      "_offset": 1796652,
-      "_length": 15
-    },
-    {
-      "text": "Metal Arm",
-      "translation": "BrazoMet.",
-      "_offset": 1796768,
-      "_length": 9
-    },
-    {
-      "text": "Genocide Gear",
-      "translation": "EngranajeGen.",
-      "_offset": 1796884,
-      "_length": 13
-    },
-    {
-      "text": "Guilty Claw",
-      "translation": "GarraCulpa",
-      "_offset": 1797000,
-      "_length": 11
-    },
-    {
-      "text": "Heartbreak Attack",
-      "translation": "Ataque Desamor",
-      "_offset": 1797116,
-      "_length": 17
-    },
-    {
-      "text": "Bear Claw",
-      "translation": "GarraOso",
-      "_offset": 1797232,
-      "_length": 9
-    },
-    {
-      "text": "Megalo Spark",
-      "translation": "ChispaMegalo",
-      "_offset": 1797348,
-      "_length": 12
-    },
-    {
-      "text": "Darkness Wave",
-      "translation": "OndaOscuridad",
-      "_offset": 1797464,
-      "_length": 13
-    },
-    {
-      "text": "Darkness Spear",
-      "translation": "LanzaOscuridad",
-      "_offset": 1797696,
-      "_length": 14
-    },
-    {
-      "text": "Nightmare Shock",
-      "translation": "ShockPesadilla",
-      "_offset": 1797812,
-      "_length": 15
-    },
-    {
-      "text": "Scratch Beat",
-      "translation": "GolpeArañazo",
-      "_offset": 1797928,
-      "_length": 12
-    },
-    {
-      "text": "Darkness Zone",
-      "translation": "Zona Oscura",
-      "_offset": 1798044,
-      "_length": 13
-    },
-    {
-      "text": "Ultimate Stream",
-      "translation": "Chorro Supremo",
-      "_offset": 1798160,
-      "_length": 15
-    },
-    {
-      "text": "Plug Bomb",
-      "translation": "BombaClv.",
-      "_offset": 1798276,
-      "_length": 9
-    },
-    {
-      "text": "Bloody Stream",
-      "translation": "Chorro Sangre",
-      "_offset": 1798392,
-      "_length": 13
-    },
-    {
-      "text": "Infinity Cannon",
-      "translation": "Cañón Infinito",
-      "_offset": 1798508,
-      "_length": 15
-    },
-    {
-      "text": "Death Claw",
-      "translation": "GarraMort.",
-      "_offset": 1798624,
-      "_length": 10
-    },
-    {
-      "text": "Glare Eye",
-      "translation": "OjoFulm.",
-      "_offset": 1798740,
-      "_length": 9
-    },
-    {
-      "text": "Nail Scratch",
-      "translation": "Arañazo",
-      "_offset": 1798856,
-      "_length": 12
-    },
-    {
-      "text": "Crazy Giggle",
-      "translation": "Risa Loca",
-      "_offset": 1798972,
-      "_length": 12
-    },
-    {
-      "text": "Data Crusher",
-      "translation": "TriturDatos",
-      "_offset": 1799088,
-      "_length": 12
-    },
-    {
-      "text": "Hell's Grenade",
-      "translation": "GranadaInfer.",
-      "_offset": 1799320,
-      "_length": 14
-    },
-    {
-      "text": "Cocoon Attack",
-      "translation": "AtaqueCapullo",
-      "_offset": 1799436,
-      "_length": 13
-    },
-    {
-      "text": "Catastrophe Cannon",
-      "translation": "Cañón Catástrofe",
-      "_offset": 1799552,
-      "_length": 18
-    },
-    {
-      "text": "Tentacle Bug",
-      "translation": "TentaculoBug",
-      "_offset": 1799668,
-      "_length": 12
+      "text": "Meat",
+      "translation": "Carne",
+      "_offset": 1806744,
+      "_length": 4
     },
     {
       "text": "Special Meat",
-      "translation": "Carne Esp.",
+      "translation": "Carne Especial",
       "_offset": 1806860,
       "_length": 12
     },
@@ -2678,8 +2456,14 @@
       "_length": 14
     },
     {
+      "text": "Antidote",
+      "translation": "Antídoto",
+      "_offset": 1808948,
+      "_length": 8
+    },
+    {
       "text": "Skill Release",
-      "translation": "Soltar Skill",
+      "translation": "Desbloqueo",
       "_offset": 1809064,
       "_length": 13
     },
@@ -2690,10 +2474,22 @@
       "_length": 13
     },
     {
+      "text": "Remedy",
+      "translation": "Remedio",
+      "_offset": 1809296,
+      "_length": 6
+    },
+    {
       "text": "Fighting Spirit",
       "translation": "Espíritu Lucha",
       "_offset": 1809412,
       "_length": 15
+    },
+    {
+      "text": "Focus",
+      "translation": "Concentrar",
+      "_offset": 1809528,
+      "_length": 5
     },
     {
       "text": "ATK Charge",
@@ -2720,10 +2516,412 @@
       "_length": 12
     },
     {
+      "text": "Again",
+      "translation": "Repetir",
+      "_offset": 1810572,
+      "_length": 5
+    },
+    {
+      "text": "Regain",
+      "translation": "Recuperar",
+      "_offset": 1810688,
+      "_length": 6
+    },
+    {
+      "text": "Protect",
+      "translation": "Proteger",
+      "_offset": 1810804,
+      "_length": 7
+    },
+    {
       "text": "All-Out Evade",
       "translation": "Esquiva Total",
       "_offset": 1810920,
       "_length": 13
+    },
+    {
+      "text": "Taunt",
+      "translation": "Provocar",
+      "_offset": 1811036,
+      "_length": 5
+    },
+    {
+      "text": "Heal",
+      "translation": "Cura",
+      "_offset": 1811152,
+      "_length": 4
+    },
+    {
+      "text": "Mega Heal",
+      "translation": "Mega Cura",
+      "_offset": 1811268,
+      "_length": 9
+    },
+    {
+      "text": "Giga Heal",
+      "translation": "Giga Cura",
+      "_offset": 1811384,
+      "_length": 9
+    },
+    {
+      "text": "Tera Heal",
+      "translation": "Tera Cura",
+      "_offset": 1811500,
+      "_length": 9
+    },
+    {
+      "text": "Mega Heal +",
+      "translation": "Mega Cura +",
+      "_offset": 1811732,
+      "_length": 11
+    },
+    {
+      "text": "Giga Heal +",
+      "translation": "Giga Cura +",
+      "_offset": 1811848,
+      "_length": 11
+    },
+    {
+      "text": "Tera Heal +",
+      "translation": "Tera Cura +",
+      "_offset": 1811964,
+      "_length": 11
+    },
+    {
+      "text": "Poison Cure",
+      "translation": "Antídoto",
+      "_offset": 1812080,
+      "_length": 11
+    },
+    {
+      "text": "Smooth",
+      "translation": "Suave",
+      "_offset": 1812196,
+      "_length": 6
+    },
+    {
+      "text": "Skill Release",
+      "translation": "Desbloqueo",
+      "_offset": 1812312,
+      "_length": 13
+    },
+    {
+      "text": "Koromon",
+      "translation": "Koromon",
+      "_offset": 1822984,
+      "_length": 7
+    },
+    {
+      "text": "Agumon",
+      "translation": "Agumon",
+      "_offset": 1823080,
+      "_length": 6
+    },
+    {
+      "text": "Greymon",
+      "translation": "Greymon",
+      "_offset": 1823176,
+      "_length": 7
+    },
+    {
+      "text": "MetalGreymon",
+      "translation": "MetalGreymon",
+      "_offset": 1823272,
+      "_length": 12
+    },
+    {
+      "text": "WarGreymon",
+      "translation": "WarGreymon",
+      "_offset": 1823368,
+      "_length": 10
+    },
+    {
+      "text": "Tsunomon",
+      "translation": "Tsunomon",
+      "_offset": 1823464,
+      "_length": 8
+    },
+    {
+      "text": "Gabumon",
+      "translation": "Gabumon",
+      "_offset": 1823560,
+      "_length": 7
+    },
+    {
+      "text": "Garurumon",
+      "translation": "Garurumon",
+      "_offset": 1823656,
+      "_length": 9
+    },
+    {
+      "text": "WereGarurumon",
+      "translation": "WereGarurumon",
+      "_offset": 1823752,
+      "_length": 13
+    },
+    {
+      "text": "MetalGarurumon",
+      "translation": "MetalGarurumon",
+      "_offset": 1823848,
+      "_length": 14
+    },
+    {
+      "text": "Pyocomon",
+      "translation": "Yokomon",
+      "_offset": 1823944,
+      "_length": 8
+    },
+    {
+      "text": "Piyomon",
+      "translation": "Piyomon",
+      "_offset": 1824040,
+      "_length": 7
+    },
+    {
+      "text": "Birdramon",
+      "translation": "Birdramon",
+      "_offset": 1824136,
+      "_length": 9
+    },
+    {
+      "text": "Garudamon",
+      "translation": "Garudamon",
+      "_offset": 1824232,
+      "_length": 9
+    },
+    {
+      "text": "Hououmon",
+      "translation": "Hououmon",
+      "_offset": 1824328,
+      "_length": 8
+    },
+    {
+      "text": "Tanemon",
+      "translation": "Tanemon",
+      "_offset": 1824424,
+      "_length": 7
+    },
+    {
+      "text": "Palmon",
+      "translation": "Palmon",
+      "_offset": 1824520,
+      "_length": 6
+    },
+    {
+      "text": "Togemon",
+      "translation": "Togemon",
+      "_offset": 1824616,
+      "_length": 7
+    },
+    {
+      "text": "Lilimon",
+      "translation": "Lilimon",
+      "_offset": 1824712,
+      "_length": 7
+    },
+    {
+      "text": "Rosemon",
+      "translation": "Rosemon",
+      "_offset": 1824808,
+      "_length": 7
+    },
+    {
+      "text": "Mochimon",
+      "translation": "Motimon",
+      "_offset": 1824904,
+      "_length": 8
+    },
+    {
+      "text": "Tentomon",
+      "translation": "Tentomon",
+      "_offset": 1825000,
+      "_length": 8
+    },
+    {
+      "text": "Kabuterimon",
+      "translation": "Kabuterimon",
+      "_offset": 1825096,
+      "_length": 11
+    },
+    {
+      "text": "AtlurKabuterimon",
+      "translation": "MegaKabuterimon",
+      "_offset": 1825192,
+      "_length": 16
+    },
+    {
+      "text": "HerakleKabuterimon",
+      "translation": "HerakleKabuterimon",
+      "_offset": 1825288,
+      "_length": 18
+    },
+    {
+      "text": "Pukamon",
+      "translation": "Pukamon",
+      "_offset": 1825384,
+      "_length": 7
+    },
+    {
+      "text": "Gomamon",
+      "translation": "Gomamon",
+      "_offset": 1825480,
+      "_length": 7
+    },
+    {
+      "text": "Ikkakumon",
+      "translation": "Ikkakumon",
+      "_offset": 1825576,
+      "_length": 9
+    },
+    {
+      "text": "Zudomon",
+      "translation": "Zudomon",
+      "_offset": 1825672,
+      "_length": 7
+    },
+    {
+      "text": "Vikemon",
+      "translation": "Vikemon",
+      "_offset": 1825768,
+      "_length": 7
+    },
+    {
+      "text": "Tokomon",
+      "translation": "Tokomon",
+      "_offset": 1825864,
+      "_length": 7
+    },
+    {
+      "text": "Patamon",
+      "translation": "Patamon",
+      "_offset": 1825960,
+      "_length": 7
+    },
+    {
+      "text": "Angemon",
+      "translation": "Angemon",
+      "_offset": 1826056,
+      "_length": 7
+    },
+    {
+      "text": "HolyAngemon",
+      "translation": "MagnaAngemon",
+      "_offset": 1826152,
+      "_length": 11
+    },
+    {
+      "text": "Seraphimon",
+      "translation": "Seraphimon",
+      "_offset": 1826248,
+      "_length": 10
+    },
+    {
+      "text": "Tailmon",
+      "translation": "Gatomon",
+      "_offset": 1826344,
+      "_length": 7
+    },
+    {
+      "text": "Angewomon",
+      "translation": "Angewomon",
+      "_offset": 1826440,
+      "_length": 9
+    },
+    {
+      "text": "Ophanimon",
+      "translation": "Ophanimon",
+      "_offset": 1826536,
+      "_length": 9
+    },
+    {
+      "text": "Omegamon",
+      "translation": "Omegamon",
+      "_offset": 1826632,
+      "_length": 8
+    },
+    {
+      "text": "Kuwagamon",
+      "translation": "Kuwagamon",
+      "_offset": 1826728,
+      "_length": 9
+    },
+    {
+      "text": "Shellmon",
+      "translation": "Shellmon",
+      "_offset": 1826824,
+      "_length": 8
+    },
+    {
+      "text": "Monochromon",
+      "translation": "Monochromon",
+      "_offset": 1826920,
+      "_length": 11
+    },
+    {
+      "text": "Seadramon",
+      "translation": "Seadramon",
+      "_offset": 1827016,
+      "_length": 9
+    },
+    {
+      "text": "Meramon",
+      "translation": "Meramon",
+      "_offset": 1827112,
+      "_length": 7
+    },
+    {
+      "text": "Andromon",
+      "translation": "Andromon",
+      "_offset": 1827208,
+      "_length": 8
+    },
+    {
+      "text": "Numemon",
+      "translation": "Numemon",
+      "_offset": 1827304,
+      "_length": 7
+    },
+    {
+      "text": "Monzaemon",
+      "translation": "Monzaemon",
+      "_offset": 1827400,
+      "_length": 9
+    },
+    {
+      "text": "Unimon",
+      "translation": "Unimon",
+      "_offset": 1827496,
+      "_length": 6
+    },
+    {
+      "text": "Ogremon",
+      "translation": "Ogremon",
+      "_offset": 1827592,
+      "_length": 7
+    },
+    {
+      "text": "Leomon",
+      "translation": "Leomon",
+      "_offset": 1827688,
+      "_length": 6
+    },
+    {
+      "text": "Devimon",
+      "translation": "Devimon",
+      "_offset": 1827784,
+      "_length": 7
+    },
+    {
+      "text": "Yukidarumon",
+      "translation": "Frigimon",
+      "_offset": 1827880,
+      "_length": 11
+    },
+    {
+      "text": "Mojyamon",
+      "translation": "Mojyamon",
+      "_offset": 1827976,
+      "_length": 8
     },
     {
       "text": "Scumon & Chuumon",
@@ -2732,28 +2930,2020 @@
       "_length": 16
     },
     {
+      "text": "Centarumon",
+      "translation": "Centarumon",
+      "_offset": 1828168,
+      "_length": 10
+    },
+    {
+      "text": "Bakemon",
+      "translation": "Bakemon",
+      "_offset": 1828264,
+      "_length": 7
+    },
+    {
+      "text": "Elecmon",
+      "translation": "Elecmon",
+      "_offset": 1828360,
+      "_length": 7
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1828456,
+      "_length": 6
+    },
+    {
+      "text": "Drimogemon",
+      "translation": "Drimogemon",
+      "_offset": 1828552,
+      "_length": 10
+    },
+    {
+      "text": "Pagumon",
+      "translation": "Pagumon",
+      "_offset": 1828648,
+      "_length": 7
+    },
+    {
+      "text": "Gazimon",
+      "translation": "Gazimon",
+      "_offset": 1828744,
+      "_length": 7
+    },
+    {
+      "text": "Etemon",
+      "translation": "Etemon",
+      "_offset": 1828840,
+      "_length": 6
+    },
+    {
+      "text": "Greymon",
+      "translation": "Greymon",
+      "_offset": 1828936,
+      "_length": 7
+    },
+    {
+      "text": "SkullGreymon",
+      "translation": "SkullGreymon",
+      "_offset": 1829032,
+      "_length": 12
+    },
+    {
+      "text": "Cockatrimon",
+      "translation": "Kokatorimon",
+      "_offset": 1829128,
+      "_length": 11
+    },
+    {
+      "text": "Piccolomon",
+      "translation": "Piccolomon",
+      "_offset": 1829320,
+      "_length": 10
+    },
+    {
+      "text": "Tyrannomon",
+      "translation": "Tyrannomon",
+      "_offset": 1829416,
+      "_length": 10
+    },
+    {
+      "text": "Nanomon",
+      "translation": "Nanomon",
+      "_offset": 1829512,
+      "_length": 7
+    },
+    {
       "text": "Etemon Chaos",
       "translation": "Etemon Caos",
       "_offset": 1829608,
       "_length": 12
     },
     {
+      "text": "PicoDevimon",
+      "translation": "DemiDevimon",
+      "_offset": 1829704,
+      "_length": 11
+    },
+    {
+      "text": "Veggiemon",
+      "translation": "Veggiemon",
+      "_offset": 1829800,
+      "_length": 9
+    },
+    {
+      "text": "Digitamamon",
+      "translation": "Digitamamon",
+      "_offset": 1829896,
+      "_length": 11
+    },
+    {
+      "text": "Betamon",
+      "translation": "Betamon",
+      "_offset": 1829992,
+      "_length": 7
+    },
+    {
+      "text": "Vadermon",
+      "translation": "Vademon",
+      "_offset": 1830088,
+      "_length": 8
+    },
+    {
+      "text": "Otamamon",
+      "translation": "Otamamon",
+      "_offset": 1830184,
+      "_length": 8
+    },
+    {
+      "text": "Gekomon",
+      "translation": "Gekomon",
+      "_offset": 1830280,
+      "_length": 7
+    },
+    {
+      "text": "TonosamaGekomon",
+      "translation": "ShogunGekomon",
+      "_offset": 1830376,
+      "_length": 15
+    },
+    {
+      "text": "Vamdemon",
+      "translation": "Myotismon",
+      "_offset": 1830472,
+      "_length": 8
+    },
+    {
+      "text": "Flymon",
+      "translation": "Flymon",
+      "_offset": 1830568,
+      "_length": 6
+    },
+    {
+      "text": "Nanimon",
+      "translation": "Nanimon",
+      "_offset": 1830664,
+      "_length": 7
+    },
+    {
+      "text": "Devidramon",
+      "translation": "Devidramon",
+      "_offset": 1830760,
+      "_length": 10
+    },
+    {
+      "text": "Dokugumon",
+      "translation": "Dokugumon",
+      "_offset": 1830856,
+      "_length": 9
+    },
+    {
+      "text": "Mammon",
+      "translation": "Mammon",
+      "_offset": 1830952,
+      "_length": 6
+    },
+    {
+      "text": "Gesomon",
+      "translation": "Gesomon",
+      "_offset": 1831048,
+      "_length": 7
+    },
+    {
+      "text": "Raremon",
+      "translation": "Raremon",
+      "_offset": 1831144,
+      "_length": 7
+    },
+    {
+      "text": "DeathMeramon",
+      "translation": "SkullMeramon",
+      "_offset": 1831240,
+      "_length": 12
+    },
+    {
+      "text": "Pumpmon",
+      "translation": "Pumpmon",
+      "_offset": 1831336,
+      "_length": 7
+    },
+    {
+      "text": "Gotsumon",
+      "translation": "Gotsumon",
+      "_offset": 1831432,
+      "_length": 8
+    },
+    {
+      "text": "Wizarmon",
+      "translation": "Wizardmon",
+      "_offset": 1831528,
+      "_length": 8
+    },
+    {
+      "text": "Gizamon",
+      "translation": "Gizamon",
+      "_offset": 1831624,
+      "_length": 7
+    },
+    {
+      "text": "Phantomon",
+      "translation": "Phantomon",
+      "_offset": 1831720,
+      "_length": 9
+    },
+    {
+      "text": "DarkTyrannomon",
+      "translation": "DarkTyrannomon",
+      "_offset": 1831816,
+      "_length": 14
+    },
+    {
+      "text": "MegaSeadramon",
+      "translation": "MegaSeadramon",
+      "_offset": 1831912,
+      "_length": 13
+    },
+    {
+      "text": "Tuskmon",
+      "translation": "Tuskmon",
+      "_offset": 1832008,
+      "_length": 7
+    },
+    {
+      "text": "Snimon",
+      "translation": "Snimon",
+      "_offset": 1832104,
+      "_length": 6
+    },
+    {
+      "text": "VenomVamdemon",
+      "translation": "VenomMyotismon",
+      "_offset": 1832200,
+      "_length": 13
+    },
+    {
+      "text": "VenomVamdemon",
+      "translation": "VenomMyotismon",
+      "_offset": 1832296,
+      "_length": 13
+    },
+    {
+      "text": "MetalSeadramon",
+      "translation": "MetalSeadramon",
+      "_offset": 1832392,
+      "_length": 14
+    },
+    {
+      "text": "Pinocchimon",
+      "translation": "Puppetmon",
+      "_offset": 1832488,
+      "_length": 11
+    },
+    {
+      "text": "Mugendramon",
+      "translation": "Machinedramon",
+      "_offset": 1832584,
+      "_length": 11
+    },
+    {
+      "text": "Piemon",
+      "translation": "Piedmon",
+      "_offset": 1832680,
+      "_length": 6
+    },
+    {
+      "text": "Anomalocarimon",
+      "translation": "Anomalocarimon",
+      "_offset": 1832776,
+      "_length": 14
+    },
+    {
+      "text": "Hangyomon",
+      "translation": "Hangyomon",
+      "_offset": 1832872,
+      "_length": 9
+    },
+    {
+      "text": "Kiwimon",
+      "translation": "Kiwimon",
+      "_offset": 1832968,
+      "_length": 7
+    },
+    {
+      "text": "Mushmon",
+      "translation": "Mushmon",
+      "_offset": 1833064,
+      "_length": 7
+    },
+    {
+      "text": "Blossomon",
+      "translation": "Blossomon",
+      "_offset": 1833160,
+      "_length": 9
+    },
+    {
+      "text": "Jureimon",
+      "translation": "Jureimon",
+      "_offset": 1833256,
+      "_length": 8
+    },
+    {
+      "text": "Garbamon",
+      "translation": "Garbamon",
+      "_offset": 1833352,
+      "_length": 8
+    },
+    {
+      "text": "Parrotmon",
+      "translation": "Parrotmon",
+      "_offset": 1833448,
+      "_length": 9
+    },
+    {
+      "text": "Guardromon",
+      "translation": "Guardromon",
+      "_offset": 1833544,
+      "_length": 10
+    },
+    {
+      "text": "Mechanorimon",
+      "translation": "Mechanorimon",
+      "_offset": 1833640,
+      "_length": 12
+    },
+    {
+      "text": "Woodmon",
+      "translation": "Woodmon",
+      "_offset": 1833736,
+      "_length": 7
+    },
+    {
+      "text": "MetalEtemon",
+      "translation": "MetalEtemon",
+      "_offset": 1833832,
+      "_length": 11
+    },
+    {
+      "text": "Floramon",
+      "translation": "Floramon",
+      "_offset": 1833928,
+      "_length": 8
+    },
+    {
+      "text": "Delumon",
+      "translation": "Deramon",
+      "_offset": 1834024,
+      "_length": 7
+    },
+    {
+      "text": "SaberLeomon",
+      "translation": "SaberLeomon",
+      "_offset": 1834120,
+      "_length": 11
+    },
+    {
+      "text": "RedVeggiemon",
+      "translation": "RedVeggiemon",
+      "_offset": 1834216,
+      "_length": 12
+    },
+    {
+      "text": "Hagurumon",
+      "translation": "Hagurumon",
+      "_offset": 1834312,
+      "_length": 9
+    },
+    {
+      "text": "Tankmon",
+      "translation": "Tankmon",
+      "_offset": 1834408,
+      "_length": 7
+    },
+    {
+      "text": "Megadramon",
+      "translation": "Megadramon",
+      "_offset": 1834504,
+      "_length": 10
+    },
+    {
+      "text": "Gigadramon",
+      "translation": "Gigadramon",
+      "_offset": 1834600,
+      "_length": 10
+    },
+    {
+      "text": "WaruMonzaemon",
+      "translation": "WaruMonzaemon",
+      "_offset": 1834696,
+      "_length": 13
+    },
+    {
+      "text": "LadyDevimon",
+      "translation": "LadyDevimon",
+      "_offset": 1834792,
+      "_length": 11
+    },
+    {
+      "text": "Evilmon",
+      "translation": "Evilmon",
+      "_offset": 1834888,
+      "_length": 7
+    },
+    {
+      "text": "Apocalymon",
+      "translation": "Apocalymon",
+      "_offset": 1834984,
+      "_length": 10
+    },
+    {
+      "text": "Apocalymon",
+      "translation": "Apocalymon",
+      "_offset": 1835080,
+      "_length": 10
+    },
+    {
+      "text": "Kuramon",
+      "translation": "Kuramon",
+      "_offset": 1835176,
+      "_length": 7
+    },
+    {
+      "text": "Tsumemon",
+      "translation": "Tsumemon",
+      "_offset": 1835272,
+      "_length": 8
+    },
+    {
+      "text": "Keramon",
+      "translation": "Keramon",
+      "_offset": 1835368,
+      "_length": 7
+    },
+    {
+      "text": "Chrysalimon",
+      "translation": "Chrysalimon",
+      "_offset": 1835464,
+      "_length": 11
+    },
+    {
+      "text": "Infermon",
+      "translation": "Infermon",
+      "_offset": 1835560,
+      "_length": 8
+    },
+    {
+      "text": "Diablomon",
+      "translation": "Diaboromon",
+      "_offset": 1835656,
+      "_length": 9
+    },
+    {
+      "text": "Kuwagamon",
+      "translation": "Kuwagamon",
+      "_offset": 1835752,
+      "_length": 9
+    },
+    {
+      "text": "Monochromon",
+      "translation": "Monochromon",
+      "_offset": 1835848,
+      "_length": 11
+    },
+    {
+      "text": "Unimon",
+      "translation": "Unimon",
+      "_offset": 1835944,
+      "_length": 6
+    },
+    {
+      "text": "Great Bakemon",
+      "translation": "Gran Bakemon",
+      "_offset": 1836040,
+      "_length": 13
+    },
+    {
+      "text": "Tailmon",
+      "translation": "Gatomon",
+      "_offset": 1836136,
+      "_length": 7
+    },
+    {
+      "text": "Leomon",
+      "translation": "Leomon",
+      "_offset": 1836232,
+      "_length": 6
+    },
+    {
+      "text": "Ogremon",
+      "translation": "Ogremon",
+      "_offset": 1836328,
+      "_length": 7
+    },
+    {
+      "text": "Andromon",
+      "translation": "Andromon",
+      "_offset": 1836424,
+      "_length": 8
+    },
+    {
+      "text": "Guardromon",
+      "translation": "Guardromon",
+      "_offset": 1837384,
+      "_length": 10
+    },
+    {
+      "text": "Leomon",
+      "translation": "Leomon",
+      "_offset": 1837576,
+      "_length": 6
+    },
+    {
+      "text": "Kuwagamon",
+      "translation": "Kuwagamon",
+      "_offset": 1837672,
+      "_length": 9
+    },
+    {
+      "text": "Piyomon",
+      "translation": "Piyomon",
+      "_offset": 1837768,
+      "_length": 7
+    },
+    {
       "text": "Numemon Boss",
-      "translation": "Numemon Jefe",
+      "translation": "Jefe Numemon",
       "_offset": 1837864,
       "_length": 12
     },
     {
+      "text": "Devimon",
+      "translation": "Devimon",
+      "_offset": 1837960,
+      "_length": 7
+    },
+    {
+      "text": "Ogremon",
+      "translation": "Ogremon",
+      "_offset": 1838056,
+      "_length": 7
+    },
+    {
       "text": "Bakemon Boss",
-      "translation": "Bakemon Jefe",
+      "translation": "Jefe Bakemon",
       "_offset": 1838152,
       "_length": 12
+    },
+    {
+      "text": "Drimogemon",
+      "translation": "Drimogemon",
+      "_offset": 1838248,
+      "_length": 10
+    },
+    {
+      "text": "Guardromon",
+      "translation": "Guardromon",
+      "_offset": 1838344,
+      "_length": 10
+    },
+    {
+      "text": "Mechanorimon",
+      "translation": "Mechanorimon",
+      "_offset": 1838440,
+      "_length": 12
+    },
+    {
+      "text": "Meramon",
+      "translation": "Meramon",
+      "_offset": 1838536,
+      "_length": 7
+    },
+    {
+      "text": "Yukidarumon",
+      "translation": "Frigimon",
+      "_offset": 1838632,
+      "_length": 11
+    },
+    {
+      "text": "Elecmon",
+      "translation": "Elecmon",
+      "_offset": 1838728,
+      "_length": 7
+    },
+    {
+      "text": "Nanomon",
+      "translation": "Nanomon",
+      "_offset": 1838824,
+      "_length": 7
+    },
+    {
+      "text": "Ogremon",
+      "translation": "Ogremon",
+      "_offset": 1838920,
+      "_length": 7
+    },
+    {
+      "text": "Vamdemon",
+      "translation": "Myotismon",
+      "_offset": 1839016,
+      "_length": 8
+    },
+    {
+      "text": "Ogremon",
+      "translation": "Ogremon",
+      "_offset": 1839112,
+      "_length": 7
+    },
+    {
+      "text": "SkullGreymon",
+      "translation": "SkullGreymon",
+      "_offset": 1839208,
+      "_length": 12
+    },
+    {
+      "text": "Ogremon",
+      "translation": "Ogremon",
+      "_offset": 1839304,
+      "_length": 7
+    },
+    {
+      "text": "Vadermon",
+      "translation": "Vademon",
+      "_offset": 1839400,
+      "_length": 8
+    },
+    {
+      "text": "Gesomon",
+      "translation": "Gesomon",
+      "_offset": 1839496,
+      "_length": 7
+    },
+    {
+      "text": "Meramon",
+      "translation": "Meramon",
+      "_offset": 1839592,
+      "_length": 7
+    },
+    {
+      "text": "Piemon",
+      "translation": "Piedmon",
+      "_offset": 1839688,
+      "_length": 6
+    },
+    {
+      "text": "Digitamamon",
+      "translation": "Digitamamon",
+      "_offset": 1839784,
+      "_length": 11
+    },
+    {
+      "text": "VenomVamdemon",
+      "translation": "VenomMyotismon",
+      "_offset": 1839880,
+      "_length": 13
+    },
+    {
+      "text": "MetalEtemon",
+      "translation": "MetalEtemon",
+      "_offset": 1839976,
+      "_length": 11
+    },
+    {
+      "text": "MetalSeadramon",
+      "translation": "MetalSeadramon",
+      "_offset": 1840072,
+      "_length": 14
+    },
+    {
+      "text": "Pinocchimon",
+      "translation": "Puppetmon",
+      "_offset": 1840168,
+      "_length": 11
+    },
+    {
+      "text": "Mugendramon",
+      "translation": "Machinedramon",
+      "_offset": 1840264,
+      "_length": 11
+    },
+    {
+      "text": "Piemon",
+      "translation": "Piedmon",
+      "_offset": 1840360,
+      "_length": 6
+    },
+    {
+      "text": "Magnamon",
+      "translation": "Magnamon",
+      "_offset": 1840456,
+      "_length": 8
+    },
+    {
+      "text": "Dukemon",
+      "translation": "Dukemon",
+      "_offset": 1840552,
+      "_length": 7
+    },
+    {
+      "text": "KaiserGreymon",
+      "translation": "KaiserGreymon",
+      "_offset": 1840648,
+      "_length": 13
+    },
+    {
+      "text": "ShineGreymon",
+      "translation": "ShineGreymon",
+      "_offset": 1840744,
+      "_length": 12
+    },
+    {
+      "text": "OmegaShoutmon",
+      "translation": "OmegaShoutmon",
+      "_offset": 1840840,
+      "_length": 13
+    },
+    {
+      "text": "Arresterdramon",
+      "translation": "Arresterdramon",
+      "_offset": 1840936,
+      "_length": 14
+    },
+    {
+      "text": "Gankuumon",
+      "translation": "Gankoomon",
+      "_offset": 1841032,
+      "_length": 9
+    },
+    {
+      "text": "MetalGarurumon",
+      "translation": "MetalGarurumon",
+      "_offset": 1841128,
+      "_length": 14
+    },
+    {
+      "text": "WarGreymon",
+      "translation": "WarGreymon",
+      "_offset": 1841224,
+      "_length": 10
+    },
+    {
+      "text": "Magnamon",
+      "translation": "Magnamon",
+      "_offset": 1841320,
+      "_length": 8
+    },
+    {
+      "text": "Dukemon",
+      "translation": "Dukemon",
+      "_offset": 1841416,
+      "_length": 7
+    },
+    {
+      "text": "KaiserGreymon",
+      "translation": "KaiserGreymon",
+      "_offset": 1841512,
+      "_length": 13
+    },
+    {
+      "text": "ShineGreymon",
+      "translation": "ShineGreymon",
+      "_offset": 1841608,
+      "_length": 12
+    },
+    {
+      "text": "OmegaShoutmon",
+      "translation": "OmegaShoutmon",
+      "_offset": 1841704,
+      "_length": 13
+    },
+    {
+      "text": "Arresterdramon",
+      "translation": "Arresterdramon",
+      "_offset": 1841800,
+      "_length": 14
+    },
+    {
+      "text": "Shellmon",
+      "translation": "Shellmon",
+      "_offset": 1842280,
+      "_length": 8
+    },
+    {
+      "text": "Seadramon",
+      "translation": "Seadramon",
+      "_offset": 1842376,
+      "_length": 9
+    },
+    {
+      "text": "Drimogemon",
+      "translation": "Drimogemon",
+      "_offset": 1842472,
+      "_length": 10
+    },
+    {
+      "text": "Tyrannomon",
+      "translation": "Tyrannomon",
+      "_offset": 1842568,
+      "_length": 10
+    },
+    {
+      "text": "Dokugumon",
+      "translation": "Dokugumon",
+      "_offset": 1842664,
+      "_length": 9
+    },
+    {
+      "text": "Mammon",
+      "translation": "Mammon",
+      "_offset": 1842760,
+      "_length": 6
+    },
+    {
+      "text": "Gesomon",
+      "translation": "Gesomon",
+      "_offset": 1842856,
+      "_length": 7
+    },
+    {
+      "text": "Raremon",
+      "translation": "Raremon",
+      "_offset": 1842952,
+      "_length": 7
+    },
+    {
+      "text": "DeathMeramon",
+      "translation": "SkullMeramon",
+      "_offset": 1843048,
+      "_length": 12
+    },
+    {
+      "text": "DarkTyrannomon",
+      "translation": "DarkTyrannomon",
+      "_offset": 1843144,
+      "_length": 14
+    },
+    {
+      "text": "MegaSeadramon",
+      "translation": "MegaSeadramon",
+      "_offset": 1843240,
+      "_length": 13
+    },
+    {
+      "text": "Anomalocarimon",
+      "translation": "Anomalocarimon",
+      "_offset": 1843336,
+      "_length": 14
+    },
+    {
+      "text": "Keramon",
+      "translation": "Keramon",
+      "_offset": 1843432,
+      "_length": 7
+    },
+    {
+      "text": "Shellmon",
+      "translation": "Shellmon",
+      "_offset": 1843528,
+      "_length": 8
+    },
+    {
+      "text": "Seadramon",
+      "translation": "Seadramon",
+      "_offset": 1843624,
+      "_length": 9
+    },
+    {
+      "text": "Leomon",
+      "translation": "Leomon",
+      "_offset": 1843720,
+      "_length": 6
+    },
+    {
+      "text": "Ogremon",
+      "translation": "Ogremon",
+      "_offset": 1843816,
+      "_length": 7
+    },
+    {
+      "text": "SkullGreymon",
+      "translation": "SkullGreymon",
+      "_offset": 1843912,
+      "_length": 12
+    },
+    {
+      "text": "Dokugumon",
+      "translation": "Dokugumon",
+      "_offset": 1844008,
+      "_length": 9
+    },
+    {
+      "text": "TonosamaGekomon",
+      "translation": "ShogunGekomon",
+      "_offset": 1844104,
+      "_length": 15
+    },
+    {
+      "text": "Mammon",
+      "translation": "Mammon",
+      "_offset": 1844200,
+      "_length": 6
+    },
+    {
+      "text": "Gesomon",
+      "translation": "Gesomon",
+      "_offset": 1844296,
+      "_length": 7
+    },
+    {
+      "text": "PicoDevimon",
+      "translation": "DemiDevimon",
+      "_offset": 1844392,
+      "_length": 11
+    },
+    {
+      "text": "Vamdemon",
+      "translation": "Myotismon",
+      "_offset": 1844488,
+      "_length": 8
+    },
+    {
+      "text": "Jureimon",
+      "translation": "Jureimon",
+      "_offset": 1844584,
+      "_length": 8
+    },
+    {
+      "text": "Pinocchimon",
+      "translation": "Puppetmon",
+      "_offset": 1844680,
+      "_length": 11
+    },
+    {
+      "text": "LadyDevimon",
+      "translation": "LadyDevimon",
+      "_offset": 1844776,
+      "_length": 11
+    },
+    {
+      "text": "MetalEtemon",
+      "translation": "MetalEtemon",
+      "_offset": 1844872,
+      "_length": 11
+    },
+    {
+      "text": "Pinocchimon",
+      "translation": "Puppetmon",
+      "_offset": 1844968,
+      "_length": 11
+    },
+    {
+      "text": "Mugendramon",
+      "translation": "Machinedramon",
+      "_offset": 1845064,
+      "_length": 11
+    },
+    {
+      "text": "Piemon",
+      "translation": "Piedmon",
+      "_offset": 1845160,
+      "_length": 6
+    },
+    {
+      "text": "Infermon",
+      "translation": "Infermon",
+      "_offset": 1845256,
+      "_length": 8
+    },
+    {
+      "text": "Diablomon",
+      "translation": "Diaboromon",
+      "_offset": 1845352,
+      "_length": 9
+    },
+    {
+      "text": "Keramon",
+      "translation": "Keramon",
+      "_offset": 1845448,
+      "_length": 7
+    },
+    {
+      "text": "Diablomon",
+      "translation": "Diaboromon",
+      "_offset": 1845544,
+      "_length": 9
+    },
+    {
+      "text": "Infermon",
+      "translation": "Infermon",
+      "_offset": 1845640,
+      "_length": 8
     },
     {
       "text": "Scumon & Chuumon",
       "translation": "Scumon y Chuumon",
       "_offset": 1845736,
       "_length": 16
+    },
+    {
+      "text": "TonosamaGekomon",
+      "translation": "ShogunGekomon",
+      "_offset": 1845832,
+      "_length": 15
+    },
+    {
+      "text": "Piemon",
+      "translation": "Piedmon",
+      "_offset": 1845928,
+      "_length": 6
+    },
+    {
+      "text": "ShineGreymon",
+      "translation": "ShineGreymon",
+      "_offset": 1846024,
+      "_length": 12
+    },
+    {
+      "text": "Dokugumon",
+      "translation": "Dokugumon",
+      "_offset": 1846120,
+      "_length": 9
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1846216,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1846312,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1846408,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1846504,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1846600,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1846696,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1846792,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1846888,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1846984,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1847080,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1847176,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1847272,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1847368,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1847464,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1847560,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1847656,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1847752,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1847848,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1847944,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1848040,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1848136,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1848232,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1848328,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1848424,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1848520,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1848616,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1848712,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1848808,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1848904,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1849000,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1849096,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1849192,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1849288,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1849384,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1849480,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1849576,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1849672,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1849768,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1849864,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1849960,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1850056,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1850152,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1850248,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1850344,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1850440,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1850536,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1850632,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1850728,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1850824,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1850920,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1851016,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1851112,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1851208,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1851304,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1851400,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1851496,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1851592,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1851688,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1851784,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1851880,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1851976,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1852072,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1852168,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1852264,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1852360,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1852456,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1852552,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1852648,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1852744,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1852840,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1852936,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1853032,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1853128,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1853224,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1853320,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1853416,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1853512,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1853608,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1853704,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1853800,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1853896,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1853992,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1854088,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1854184,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1854280,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1854376,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1854472,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1854568,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1854664,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1854760,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1854856,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1854952,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1855048,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1855144,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1855240,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1855336,
+      "_length": 6
+    },
+    {
+      "text": "Whamon",
+      "translation": "Whamon",
+      "_offset": 1855432,
+      "_length": 6
+    },
+    {
+      "text": "Opening",
+      "translation": "Opening",
+      "_offset": 1906456,
+      "_length": 7
+    },
+    {
+      "text": "To the Digimon World",
+      "translation": "Al Digimundo",
+      "_offset": 1906464,
+      "_length": 20
+    },
+    {
+      "text": "Encounter with Koromon",
+      "translation": "Encuentro con Koromon",
+      "_offset": 1906485,
+      "_length": 22
+    },
+    {
+      "text": "Kuwagamon's Counterattack",
+      "translation": "Kuwagamon contraataca",
+      "_offset": 1906508,
+      "_length": 25
+    },
+    {
+      "text": "Devimon's Arrival",
+      "translation": "Llega Devimon",
+      "_offset": 1906534,
+      "_length": 17
+    },
+    {
+      "text": "File Island's Collapse",
+      "translation": "Colapso de la Isla File",
+      "_offset": 1906552,
+      "_length": 22
+    },
+    {
+      "text": "Giant Devimon",
+      "translation": "Devimon Gigante",
+      "_offset": 1906575,
+      "_length": 13
+    },
+    {
+      "text": "Defeating Devimon",
+      "translation": "Victoria sobre Devimon",
+      "_offset": 1906589,
+      "_length": 17
+    },
+    {
+      "text": "The Dark Network",
+      "translation": "La Red Oscura",
+      "_offset": 1906607,
+      "_length": 16
+    },
+    {
+      "text": "Dark Evolution to SkullGreymon",
+      "translation": "Evolución Oscura: SkullGreymon",
+      "_offset": 1906624,
+      "_length": 30
+    },
+    {
+      "text": "Taichi Drawn into the Vortex",
+      "translation": "Tai al Vórtice",
+      "_offset": 1906655,
+      "_length": 28
+    },
+    {
+      "text": "Returning to the Digital World",
+      "translation": "Regreso al Digimundo",
+      "_offset": 1906684,
+      "_length": 30
+    },
+    {
+      "text": "Vamdemon Appears",
+      "translation": "Llega Myotismon",
+      "_offset": 1906715,
+      "_length": 16
+    },
+    {
+      "text": "Wizarmon Falls",
+      "translation": "Cae Wizardmon",
+      "_offset": 1906732,
+      "_length": 14
+    },
+    {
+      "text": "VenomVandemon's Awakening",
+      "translation": "Despierta VenomMyotismon",
+      "_offset": 1906747,
+      "_length": 25
+    },
+    {
+      "text": "Two's Courage! Ultimate-Levels!",
+      "translation": "¡Dos Valientes! ¡Supremos!",
+      "_offset": 1906773,
+      "_length": 31
+    },
+    {
+      "text": "The Dark Masters",
+      "translation": "Los Amos Oscuros",
+      "_offset": 1906805,
+      "_length": 16
+    },
+    {
+      "text": "The Death of Whamon",
+      "translation": "La Muerte de Whamon",
+      "_offset": 1906822,
+      "_length": 19
+    },
+    {
+      "text": "The Death of Leomon",
+      "translation": "La Muerte de Leomon",
+      "_offset": 1906842,
+      "_length": 19
+    },
+    {
+      "text": "Piemon's Defeat",
+      "translation": "Derrota de Piedmon",
+      "_offset": 1906862,
+      "_length": 15
+    },
+    {
+      "text": "A Space in Another Dimension",
+      "translation": "Espacio de Otra Dimensión",
+      "_offset": 1906878,
+      "_length": 28
+    },
+    {
+      "text": "Apocalymon Sealed",
+      "translation": "Apocalymon Sellado",
+      "_offset": 1906907,
+      "_length": 17
+    },
+    {
+      "text": "Ending",
+      "translation": "Ending",
+      "_offset": 1906925,
+      "_length": 6
+    },
+    {
+      "text": "Ignoring the Rules",
+      "translation": "Ignorar las Reglas",
+      "_offset": 1906946,
+      "_length": 18
+    },
+    {
+      "text": "We'll Fight, Too",
+      "translation": "Nosotros También",
+      "_offset": 1906965,
+      "_length": 16
+    },
+    {
+      "text": "Evolve to Omegamon",
+      "translation": "Evolución: Omegamon",
+      "_offset": 1906982,
+      "_length": 18
+    },
+    {
+      "text": "Evolve to Agumon",
+      "translation": "Evolución: Agumon",
+      "_offset": 1907001,
+      "_length": 16
+    },
+    {
+      "text": "Evolve to Greymon",
+      "translation": "Evolución: Greymon",
+      "_offset": 1907018,
+      "_length": 17
+    },
+    {
+      "text": "Evolve to MetalGreymon",
+      "translation": "Evolución: MetalGreymon",
+      "_offset": 1907036,
+      "_length": 22
+    },
+    {
+      "text": "Evolve to WarGreymon",
+      "translation": "Evolución: WarGreymon",
+      "_offset": 1907059,
+      "_length": 20
+    },
+    {
+      "text": "Evolve to Gabumon",
+      "translation": "Evolución: Gabumon",
+      "_offset": 1907080,
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Garurumon",
+      "translation": "Evolución: Garurumon",
+      "_offset": 1907098,
+      "_length": 19
+    },
+    {
+      "text": "Evolve to WereGarurumon",
+      "translation": "Evolución: WereGarurumon",
+      "_offset": 1907118,
+      "_length": 23
+    },
+    {
+      "text": "Evolve to MetalGarurumon",
+      "translation": "Evolución: MetalGarurumon",
+      "_offset": 1907142,
+      "_length": 24
+    },
+    {
+      "text": "Evolve to Piyomon",
+      "translation": "Evolución: Piyomon",
+      "_offset": 1907167,
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Birdramon",
+      "translation": "Evolución: Birdramon",
+      "_offset": 1907185,
+      "_length": 19
+    },
+    {
+      "text": "Evolve to Garudamon",
+      "translation": "Evolución: Garudamon",
+      "_offset": 1907205,
+      "_length": 19
+    },
+    {
+      "text": "Evolve to Hououmon",
+      "translation": "Evolución: Hououmon",
+      "_offset": 1907225,
+      "_length": 18
+    },
+    {
+      "text": "Evolve to Tentomon",
+      "translation": "Evolución: Tentomon",
+      "_offset": 1907244,
+      "_length": 18
+    },
+    {
+      "text": "Evolve to Kabuterimon",
+      "translation": "Evolución: Kabuterimon",
+      "_offset": 1907263,
+      "_length": 21
+    },
+    {
+      "text": "Evolve to AtlurKabuterimon",
+      "translation": "Evolución: MegaKabuterimon",
+      "_offset": 1907285,
+      "_length": 26
+    },
+    {
+      "text": "Evolve to HerakleKabuterimon",
+      "translation": "Evolución: HerakleKabuterimon",
+      "_offset": 1907312,
+      "_length": 28
+    },
+    {
+      "text": "Evolve to Palmon",
+      "translation": "Evolución: Palmon",
+      "_offset": 1907341,
+      "_length": 16
+    },
+    {
+      "text": "Evolve to Togemon",
+      "translation": "Evolución: Togemon",
+      "_offset": 1907358,
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Lilimon",
+      "translation": "Evolución: Lilimon",
+      "_offset": 1907376,
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Rosemon",
+      "translation": "Evolución: Rosemon",
+      "_offset": 1907394,
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Gomamon",
+      "translation": "Evolución: Gomamon",
+      "_offset": 1907412,
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Ikkakumon",
+      "translation": "Evolución: Ikkakumon",
+      "_offset": 1907430,
+      "_length": 19
+    },
+    {
+      "text": "Evolve to Zudomon",
+      "translation": "Evolución: Zudomon",
+      "_offset": 1907450,
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Vikemon",
+      "translation": "Evolución: Vikemon",
+      "_offset": 1907468,
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Patamon",
+      "translation": "Evolución: Patamon",
+      "_offset": 1907486,
+      "_length": 17
+    },
+    {
+      "text": "Evolve to Angemon",
+      "translation": "Evolución: Angemon",
+      "_offset": 1907504,
+      "_length": 17
+    },
+    {
+      "text": "Evolve to HolyAngemon",
+      "translation": "Evolución: MagnaAngemon",
+      "_offset": 1907522,
+      "_length": 21
+    },
+    {
+      "text": "Evolve to Seraphimon",
+      "translation": "Evolución: Seraphimon",
+      "_offset": 1907544,
+      "_length": 20
+    },
+    {
+      "text": "Evolve to Angewomon",
+      "translation": "Evolución: Angewomon",
+      "_offset": 1907565,
+      "_length": 19
+    },
+    {
+      "text": "Evolve to Ophanimon",
+      "translation": "Evolución: Ophanimon",
+      "_offset": 1907585,
+      "_length": 19
+    },
+    {
+      "text": "Baby to Child",
+      "translation": "Bebé a Novato",
+      "_offset": 1907605,
+      "_length": 13
+    },
+    {
+      "text": "sceUtilitySavedataInitStart failed - %d\n",
+      "translation": "sceUtilitySavedataInitStart failed - %d",
+      "_offset": 1907712,
+      "_length": 40
+    },
+    {
+      "text": "Digimon Adventure",
+      "translation": "Digimon Adventure",
+      "_offset": 1907776,
+      "_length": 17
+    },
+    {
+      "text": "Episode Selection",
+      "translation": "Selección de Episodio",
+      "_offset": 1907800,
+      "_length": 17
+    },
+    {
+      "text": "Create new data",
+      "translation": "Crear partida",
+      "_offset": 1907824,
+      "_length": 15
+    },
+    {
+      "text": "Do you want to begin a new game?",
+      "translation": "¿Quieres empezar partida nueva?",
+      "_offset": 1907840,
+      "_length": 32
+    },
+    {
+      "text": "Do you want to overwrite the data?",
+      "translation": "¿Quieres sobrescribir los datos?",
+      "_offset": 1907876,
+      "_length": 34
+    },
+    {
+      "text": "No more free space. You need at least %s or more to save.",
+      "translation": "No hay espacio libre. Necesitas al menos %s para guardar.",
+      "_offset": 1907924,
+      "_length": 57
+    },
+    {
+      "text": "Save complete.",
+      "translation": "Guardado completado.",
+      "_offset": 1908000,
+      "_length": 14
+    },
+    {
+      "text": "Process interrupted.",
+      "translation": "Proceso interrumpido.",
+      "_offset": 1908024,
+      "_length": 20
     },
     {
       "text": "Digimon Adventure",
@@ -2763,13 +4953,13 @@
     },
     {
       "text": "Install Data",
-      "translation": "Inst. Datos",
+      "translation": "Instalar Datos",
       "_offset": 1914288,
       "_length": 12
     },
     {
       "text": "Install data for Digimon Adventure.",
-      "translation": "Instala datos de Digimon\nAdventure.",
+      "translation": "Instala datos de Digimon Adventure.",
       "_offset": 1914316,
       "_length": 35
     },
@@ -2798,10 +4988,40 @@
       "_length": 11
     },
     {
+      "text": " trg ",
+      "translation": "",
+      "_offset": 1914552,
+      "_length": 5
+    },
+    {
+      "text": "  push ",
+      "translation": "",
+      "_offset": 1914592,
+      "_length": 7
+    },
+    {
+      "text": " Analog ",
+      "translation": "",
+      "_offset": 1914640,
+      "_length": 8
+    },
+    {
       "text": "pad %0.3f/%4d",
       "translation": "pad %0.3f/%4d",
       "_offset": 1914652,
       "_length": 13
+    },
+    {
+      "text": "  repeat ",
+      "translation": "",
+      "_offset": 1914668,
+      "_length": 9
+    },
+    {
+      "text": "draw",
+      "translation": "",
+      "_offset": 1915572,
+      "_length": 4
     },
     {
       "text": "Error: can not alloc memory\n",
@@ -2846,6 +5066,36 @@
       "_length": 8
     },
     {
+      "text": "heap",
+      "translation": "",
+      "_offset": 1916016,
+      "_length": 4
+    },
+    {
+      "text": "LoaderMutex",
+      "translation": "",
+      "_offset": 1916024,
+      "_length": 11
+    },
+    {
+      "text": "billy",
+      "translation": "",
+      "_offset": 1916088,
+      "_length": 5
+    },
+    {
+      "text": "zsort",
+      "translation": "",
+      "_offset": 1916096,
+      "_length": 5
+    },
+    {
+      "text": "MaxRootBone",
+      "translation": "",
+      "_offset": 1916152,
+      "_length": 11
+    },
+    {
       "text": "libc:%s: should be called from main thread\n",
       "translation": "libc:%s: should be called from main thread\n",
       "_offset": 1916720,
@@ -2858,6 +5108,24 @@
       "_length": 32
     },
     {
+      "text": "UserSbrk",
+      "translation": "",
+      "_offset": 1916804,
+      "_length": 8
+    },
+    {
+      "text": "Inf",
+      "translation": "",
+      "_offset": 1916832,
+      "_length": 3
+    },
+    {
+      "text": "NaN",
+      "translation": "",
+      "_offset": 1916836,
+      "_length": 3
+    },
+    {
       "text": "bug in vfprintf: bad base",
       "translation": "bug in vfprintf: bad base",
       "_offset": 1916960,
@@ -2868,6 +5136,12 @@
       "translation": "bug in vfprintf: bad base",
       "_offset": 1917624,
       "_length": 25
+    },
+    {
+      "text": "SceWaveMain",
+      "translation": "",
+      "_offset": 1918480,
+      "_length": 11
     },
     {
       "text": "2011121201:Num contents is over specified.(%d in)",
@@ -3038,6 +5312,30 @@
       "_length": 28
     },
     {
+      "text": "String",
+      "translation": "",
+      "_offset": 1948504,
+      "_length": 6
+    },
+    {
+      "text": "VLData",
+      "translation": "",
+      "_offset": 1948512,
+      "_length": 6
+    },
+    {
+      "text": "CBNData",
+      "translation": "",
+      "_offset": 1948520,
+      "_length": 7
+    },
+    {
+      "text": "CriCond",
+      "translation": "",
+      "_offset": 1948556,
+      "_length": 7
+    },
+    {
       "text": "\nCRI C Runtime Wrapper/PSP Ver.1.03.00 Build:Apr 27 2012 22:50:32\n",
       "translation": "\nCRI C Runtime Wrapper/PSP Ver.1.03.00 Build:Apr 27 2012 22:50:32\n",
       "_offset": 1948632,
@@ -3048,6 +5346,12 @@
       "translation": "Append: GCC3003 SCE06060010\n",
       "_offset": 1948699,
       "_length": 28
+    },
+    {
+      "text": "CriCsPsp",
+      "translation": "",
+      "_offset": 1948728,
+      "_length": 8
     },
     {
       "text": "This is a error message.\nThe detail of error messge should be witten heare.\nError Parameter 0 is ...\nTrouble shooting must be here\n",
@@ -3123,7 +5427,7 @@
     },
     {
       "text": "Unknown Error.",
-      "translation": "Unknown Error.",
+      "translation": "Error extraño.",
       "_offset": 1949996,
       "_length": 14
     },
@@ -3135,13 +5439,13 @@
     },
     {
       "text": "Some kind of error.",
-      "translation": "Some kind of error.",
+      "translation": "Se ha producido un error.",
       "_offset": 1950028,
       "_length": 19
     },
     {
       "text": "Invalid parameter. ",
-      "translation": "Invalid parameter. ",
+      "translation": "Parámetro no válido. ",
       "_offset": 1950048,
       "_length": 19
     },
@@ -3198,6 +5502,12 @@
       "translation": "CRI Server Manager",
       "_offset": 1951260,
       "_length": 18
+    },
+    {
+      "text": "CriThread",
+      "translation": "",
+      "_offset": 1951608,
+      "_length": 9
     },
     {
       "text": "dst != NULL",
@@ -3264,6 +5574,234 @@
       "translation": "Append: GCC3003 SCE06060010\n",
       "_offset": 1955806,
       "_length": 28
+    },
+    {
+      "text": "DirName",
+      "translation": "",
+      "_offset": 1955908,
+      "_length": 7
+    },
+    {
+      "text": "FileName",
+      "translation": "",
+      "_offset": 1955992,
+      "_length": 8
+    },
+    {
+      "text": "FileSize",
+      "translation": "",
+      "_offset": 1956004,
+      "_length": 8
+    },
+    {
+      "text": "ExtractSize",
+      "translation": "",
+      "_offset": 1956016,
+      "_length": 11
+    },
+    {
+      "text": "FileOffset",
+      "translation": "",
+      "_offset": 1956028,
+      "_length": 10
+    },
+    {
+      "text": "UserString",
+      "translation": "",
+      "_offset": 1956044,
+      "_length": 10
+    },
+    {
+      "text": "DataL",
+      "translation": "",
+      "_offset": 1956060,
+      "_length": 5
+    },
+    {
+      "text": "DataH",
+      "translation": "",
+      "_offset": 1956068,
+      "_length": 5
+    },
+    {
+      "text": "Gdata",
+      "translation": "",
+      "_offset": 1956076,
+      "_length": 5
+    },
+    {
+      "text": "Fdata",
+      "translation": "",
+      "_offset": 1956084,
+      "_length": 5
+    },
+    {
+      "text": "AttrData",
+      "translation": "",
+      "_offset": 1956092,
+      "_length": 8
+    },
+    {
+      "text": "Gname",
+      "translation": "",
+      "_offset": 1956104,
+      "_length": 5
+    },
+    {
+      "text": "Aname",
+      "translation": "",
+      "_offset": 1956112,
+      "_length": 5
+    },
+    {
+      "text": "Align",
+      "translation": "",
+      "_offset": 1956120,
+      "_length": 5
+    },
+    {
+      "text": "UpdateDateTime",
+      "translation": "",
+      "_offset": 1956128,
+      "_length": 14
+    },
+    {
+      "text": "ContentOffset",
+      "translation": "",
+      "_offset": 1956144,
+      "_length": 13
+    },
+    {
+      "text": "ContentSize",
+      "translation": "",
+      "_offset": 1956160,
+      "_length": 11
+    },
+    {
+      "text": "TocOffset",
+      "translation": "",
+      "_offset": 1956172,
+      "_length": 9
+    },
+    {
+      "text": "TocSize",
+      "translation": "",
+      "_offset": 1956184,
+      "_length": 7
+    },
+    {
+      "text": "EtocOffset",
+      "translation": "",
+      "_offset": 1956192,
+      "_length": 10
+    },
+    {
+      "text": "EtocSize",
+      "translation": "",
+      "_offset": 1956204,
+      "_length": 8
+    },
+    {
+      "text": "ItocOffset",
+      "translation": "",
+      "_offset": 1956216,
+      "_length": 10
+    },
+    {
+      "text": "ItocSize",
+      "translation": "",
+      "_offset": 1956228,
+      "_length": 8
+    },
+    {
+      "text": "GtocOffset",
+      "translation": "",
+      "_offset": 1956240,
+      "_length": 10
+    },
+    {
+      "text": "GtocSize",
+      "translation": "",
+      "_offset": 1956252,
+      "_length": 8
+    },
+    {
+      "text": "Updates",
+      "translation": "",
+      "_offset": 1956264,
+      "_length": 7
+    },
+    {
+      "text": "Version",
+      "translation": "",
+      "_offset": 1956272,
+      "_length": 7
+    },
+    {
+      "text": "Revision",
+      "translation": "",
+      "_offset": 1956280,
+      "_length": 8
+    },
+    {
+      "text": "Sorted",
+      "translation": "",
+      "_offset": 1956292,
+      "_length": 6
+    },
+    {
+      "text": "CpkMode",
+      "translation": "",
+      "_offset": 1956304,
+      "_length": 7
+    },
+    {
+      "text": "Comment",
+      "translation": "",
+      "_offset": 1956312,
+      "_length": 7
+    },
+    {
+      "text": "Tvers",
+      "translation": "",
+      "_offset": 1956320,
+      "_length": 5
+    },
+    {
+      "text": "TocCrc",
+      "translation": "",
+      "_offset": 1956328,
+      "_length": 6
+    },
+    {
+      "text": "ItocCrc",
+      "translation": "",
+      "_offset": 1956336,
+      "_length": 7
+    },
+    {
+      "text": "GtocCrc",
+      "translation": "",
+      "_offset": 1956344,
+      "_length": 7
+    },
+    {
+      "text": "Codec",
+      "translation": "",
+      "_offset": 1956352,
+      "_length": 5
+    },
+    {
+      "text": "DpkItoc",
+      "translation": "",
+      "_offset": 1956360,
+      "_length": 7
+    },
+    {
+      "text": "Files",
+      "translation": "",
+      "_offset": 1956368,
+      "_length": 5
     },
     {
       "text": "\nCRI File System/PSP Ver.2.53.00 Build:Apr 27 2012 22:50:56\n",
@@ -3566,6 +6104,60 @@
       "_length": 41
     },
     {
+      "text": "sceMpegRb",
+      "translation": "",
+      "_offset": 1969416,
+      "_length": 9
+    },
+    {
+      "text": "sceMpegWork",
+      "translation": "",
+      "_offset": 1969428,
+      "_length": 11
+    },
+    {
+      "text": "FramePoolInfoArray",
+      "translation": "",
+      "_offset": 1969440,
+      "_length": 18
+    },
+    {
+      "text": "FramePoolBuffer",
+      "translation": "",
+      "_offset": 1969460,
+      "_length": 15
+    },
+    {
+      "text": "ReadBuffer",
+      "translation": "",
+      "_offset": 1969492,
+      "_length": 10
+    },
+    {
+      "text": "MwsfdSoundBuf",
+      "translation": "",
+      "_offset": 1969504,
+      "_length": 13
+    },
+    {
+      "text": "SoundBufArray",
+      "translation": "",
+      "_offset": 1969520,
+      "_length": 13
+    },
+    {
+      "text": "SoundOut",
+      "translation": "",
+      "_offset": 1969536,
+      "_length": 8
+    },
+    {
+      "text": "SoundPts",
+      "translation": "",
+      "_offset": 1969560,
+      "_length": 8
+    },
+    {
       "text": "E05072706M: failed sceMpegRegistStream(AVC).\n",
       "translation": "E05072706M: failed sceMpegRegistStream(AVC).\n",
       "_offset": 1969584,
@@ -3576,6 +6168,12 @@
       "translation": "E05072707M: failed sceMpegMallocAvcEsBuf().\n",
       "_offset": 1969632,
       "_length": 44
+    },
+    {
+      "text": "SofdecThread",
+      "translation": "",
+      "_offset": 1969700,
+      "_length": 12
     },
     {
       "text": "E05072715M: failed MWSTM_Create().\n",
@@ -3776,6 +6374,18 @@
       "_length": 49
     },
     {
+      "text": "WaveOutInput",
+      "translation": "",
+      "_offset": 1971764,
+      "_length": 12
+    },
+    {
+      "text": "soundThread",
+      "translation": "",
+      "_offset": 1971780,
+      "_length": 11
+    },
+    {
       "text": "E05072713M: failed soundbuf_create().\n",
       "translation": "E05072713M: failed soundbuf_create().\n",
       "_offset": 1971792,
@@ -3830,10 +6440,22 @@
       "_length": 28
     },
     {
+      "text": "CriSjRbf",
+      "translation": "",
+      "_offset": 1972640,
+      "_length": 8
+    },
+    {
       "text": "E09021620B:Failed in criCs_Create().",
       "translation": "E09021620B:Failed in criCs_Create().",
       "_offset": 1972652,
       "_length": 36
+    },
+    {
+      "text": "CriSjUni",
+      "translation": "",
+      "_offset": 1972692,
+      "_length": 8
     },
     {
       "text": "E09021213:Failed in criCs_Create().",
@@ -3854,6 +6476,24 @@
       "_length": 28
     },
     {
+      "text": "String",
+      "translation": "",
+      "_offset": 1973220,
+      "_length": 6
+    },
+    {
+      "text": "VLData",
+      "translation": "",
+      "_offset": 1973228,
+      "_length": 6
+    },
+    {
+      "text": "Guid",
+      "translation": "",
+      "_offset": 1973236,
+      "_length": 4
+    },
+    {
       "text": "E08012802:Not Empty Index Table",
       "translation": "E08012802:Not Empty Index Table",
       "_offset": 1973476,
@@ -3864,6 +6504,12 @@
       "translation": "E08012803:Internal Error",
       "_offset": 1973508,
       "_length": 24
+    },
+    {
+      "text": "UtfRtvIdxTbl",
+      "translation": "",
+      "_offset": 1973536,
+      "_length": 12
     },
     {
       "text": "E08012801:Invalid table no",
@@ -3909,7 +6555,7 @@
     },
     {
       "text": "E06100311:Size error.",
-      "translation": "E06100311:Size error.",
+      "translation": "E06100311:Error de tamaño.",
       "_offset": 1973824,
       "_length": 21
     },
@@ -3968,6 +6614,18 @@
       "_length": 53
     },
     {
+      "text": "acosf",
+      "translation": "",
+      "_offset": 1974392,
+      "_length": 5
+    },
+    {
+      "text": "logf",
+      "translation": "",
+      "_offset": 1974456,
+      "_length": 4
+    },
+    {
       "text": "assertion \"%s\" failed: file \"%s\", line %d\n",
       "translation": "assertion \"%s\" failed: file \"%s\", line %d\n",
       "_offset": 1977304,
@@ -3978,6 +6636,30 @@
       "translation": "\nungetc error: *static buffer overflow* - char not added to buffer\n",
       "_offset": 1977600,
       "_length": 67
+    },
+    {
+      "text": "DlTTDDD",
+      "translation": "",
+      "_offset": 1982848,
+      "_length": 7
+    },
+    {
+      "text": "DLLTddD",
+      "translation": "",
+      "_offset": 1982856,
+      "_length": 7
+    },
+    {
+      "text": "DDDTTlD",
+      "translation": "",
+      "_offset": 1982928,
+      "_length": 7
+    },
+    {
+      "text": "wcJ",
+      "translation": "",
+      "_offset": 2101328,
+      "_length": 3
     },
     {
       "text": "\nHCA Decoder (Float) Ver.2.00.02 Build:Apr 27 2012 22:50:38\n",
@@ -3996,6 +6678,246 @@
       "translation": "\n\n\n\nSFDRT Ver.6.3.5 Build:May 13 2011 12:35:52\n",
       "_offset": 2222156,
       "_length": 47
+    },
+    {
+      "text": "ATK↑ Chip",
+      "translation": "Chip ATK↑",
+      "_offset": 1806976,
+      "_length": 10
+    },
+    {
+      "text": "ATK↑ Chip Ω",
+      "translation": "Chip ATK↑ Ω",
+      "_offset": 1807092,
+      "_length": 13
+    },
+    {
+      "text": "ATK↑↑ Chip",
+      "translation": "Chip ATK↑↑",
+      "_offset": 1807208,
+      "_length": 12
+    },
+    {
+      "text": "ATK↑↑ Chip Ω",
+      "translation": "Chip ATK↑↑ Ω",
+      "_offset": 1807324,
+      "_length": 15
+    },
+    {
+      "text": "DEF↑ Chip",
+      "translation": "Chip DEF↑",
+      "_offset": 1807440,
+      "_length": 10
+    },
+    {
+      "text": "DEF↑ Chip Ω",
+      "translation": "Chip DEF↑ Ω",
+      "_offset": 1807556,
+      "_length": 13
+    },
+    {
+      "text": "DEF↑↑ Chip",
+      "translation": "Chip DEF↑↑",
+      "_offset": 1807672,
+      "_length": 12
+    },
+    {
+      "text": "DEF↑↑ Chip Ω",
+      "translation": "Chip DEF↑↑ Ω",
+      "_offset": 1807788,
+      "_length": 15
+    },
+    {
+      "text": "ATK↓ Chip",
+      "translation": "Chip ATK↓",
+      "_offset": 1807904,
+      "_length": 10
+    },
+    {
+      "text": "ATK↓ Chip Ω",
+      "translation": "Chip ATK↓ Ω",
+      "_offset": 1808020,
+      "_length": 13
+    },
+    {
+      "text": "ATK↓↓ Chip",
+      "translation": "Chip ATK↓↓",
+      "_offset": 1808136,
+      "_length": 12
+    },
+    {
+      "text": "ATK↓↓ Chip Ω",
+      "translation": "Chip ATK↓↓ Ω",
+      "_offset": 1808252,
+      "_length": 15
+    },
+    {
+      "text": "DEF↓ Chip",
+      "translation": "Chip DEF↓",
+      "_offset": 1808368,
+      "_length": 10
+    },
+    {
+      "text": "DEF↓ Chip Ω",
+      "translation": "Chip DEF↓ Ω",
+      "_offset": 1808484,
+      "_length": 13
+    },
+    {
+      "text": "DEF↓↓ Chip",
+      "translation": "Chip DEF↓↓",
+      "_offset": 1808600,
+      "_length": 12
+    },
+    {
+      "text": "DEF↓↓ Chip Ω",
+      "translation": "Chip DEF↓↓ Ω",
+      "_offset": 1808716,
+      "_length": 15
+    },
+    {
+      "text": "ATK Charge Ω",
+      "translation": "Carga ATK Ω",
+      "_offset": 1809760,
+      "_length": 13
+    },
+    {
+      "text": "ATK Charge Ω+",
+      "translation": "Carga ATK Ω+",
+      "_offset": 1809992,
+      "_length": 14
+    },
+    {
+      "text": "DEF Charge Ω",
+      "translation": "Carga DEF Ω",
+      "_offset": 1810224,
+      "_length": 13
+    },
+    {
+      "text": "DEF Charge Ω+",
+      "translation": "Carga DEF Ω+",
+      "_offset": 1810456,
+      "_length": 14
+    },
+    {
+      "text": "TV Station  ",
+      "translation": "Cadena de TV  ",
+      "_offset": 1628085,
+      "_length": 12
+    },
+    {
+      "text": "%s  %d SP",
+      "translation": "%s  %d SP",
+      "_offset": 1632496,
+      "_length": 9
+    },
+    {
+      "text": " SP",
+      "translation": " SP",
+      "_offset": 1633308,
+      "_length": 3
+    },
+    {
+      "text": "Level Up",
+      "translation": "Nivel +1",
+      "_offset": 1633580,
+      "_length": 8
+    },
+    {
+      "text": "Kuwagamon ★★",
+      "translation": "Kuwagamon ★★",
+      "_offset": 1829224,
+      "_length": 14
+    },
+    {
+      "text": "Shellmon ★",
+      "translation": "Shellmon ★",
+      "_offset": 1836520,
+      "_length": 11
+    },
+    {
+      "text": "Monochromon ★",
+      "translation": "Monochromon ★",
+      "_offset": 1836616,
+      "_length": 14
+    },
+    {
+      "text": "Seadramon ★",
+      "translation": "Seadramon ★",
+      "_offset": 1836712,
+      "_length": 12
+    },
+    {
+      "text": "Numemon ★★",
+      "translation": "Numemon ★★",
+      "_offset": 1836808,
+      "_length": 12
+    },
+    {
+      "text": "Bakemon ★",
+      "translation": "Bakemon ★",
+      "_offset": 1836904,
+      "_length": 10
+    },
+    {
+      "text": "Betamon ★★",
+      "translation": "Betamon ★★",
+      "_offset": 1837000,
+      "_length": 12
+    },
+    {
+      "text": "Flymon ★",
+      "translation": "Flymon ★",
+      "_offset": 1837096,
+      "_length": 9
+    },
+    {
+      "text": "Gizamon ★",
+      "translation": "Gizamon ★",
+      "_offset": 1837192,
+      "_length": 10
+    },
+    {
+      "text": "Mushmon ★★",
+      "translation": "Mushmon ★★",
+      "_offset": 1837288,
+      "_length": 12
+    },
+    {
+      "text": "Mechanorimon ★",
+      "translation": "Mechanorimon ★",
+      "_offset": 1837480,
+      "_length": 15
+    },
+    {
+      "text": "Kuwagamon ★",
+      "translation": "Kuwagamon ★",
+      "_offset": 1841896,
+      "_length": 12
+    },
+    {
+      "text": "Numemon ★",
+      "translation": "Numemon ★",
+      "_offset": 1841992,
+      "_length": 10
+    },
+    {
+      "text": "Betamon ★",
+      "translation": "Betamon ★",
+      "_offset": 1842088,
+      "_length": 10
+    },
+    {
+      "text": "Mushmon ★",
+      "translation": "Mushmon ★",
+      "_offset": 1842184,
+      "_length": 10
+    },
+    {
+      "text": "To Cyberspace",
+      "translation": "Al Ciberespacio",
+      "_offset": 1906932,
+      "_length": 13
     }
   ]
 }

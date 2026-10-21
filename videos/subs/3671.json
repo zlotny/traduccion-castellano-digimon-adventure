@@ -1,0 +1,31 @@
+{
+  "file_id": "3671",
+  "style": {
+    "center_x": 240,
+    "baseline_y": 252,
+    "cap_height": 12,
+    "line_height": 23,
+    "fill": "#fdfbfc",
+    "outline": "#120d0f",
+    "outline_width": 2,
+    "font": "digimon_toolkit/fonts/Nunito.ttf",
+    "font_variation": "Black",
+    "font_size": 16
+  },
+  "subtitles": [
+    {
+      "index": 0,
+      "start": 2.769,
+      "end": 5.672,
+      "english": "Come to me, o holy forces!",
+      "translation": "¡Venid a mí, fuerzas sagradas!"
+    },
+    {
+      "index": 1,
+      "start": 19.653,
+      "end": 21.688,
+      "english": "Heaven's Knuckle!",
+      "translation": "¡Puño del Cielo!"
+    }
+  ]
+}

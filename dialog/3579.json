@@ -1,982 +1,1160 @@
 {
   "file_id": "3579",
-  "text_count": 122,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 128,
   "dialog": [
     {
       "index": 0,
-      "english": "��������*cough, cough*",
-      "_offset": 1800,
-      "_length": 22,
-      "speaker_id": 0,
+      "english": "*cough, cough*",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11560,
+      "_bytes": 14,
       "translation": "Cof, cof..."
     },
     {
       "index": 1,
       "english": "Kari!",
-      "_offset": 1823,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Kari!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11575,
+      "_bytes": 7,
+      "translation": "¡Kari!"
     },
     {
       "index": 2,
       "english": "Looks like her cold's returned...",
-      "_offset": 1831,
-      "_length": 33,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11583,
+      "_bytes": 33,
       "translation": "Vuelve a tener el resfriado..."
     },
     {
       "index": 3,
       "english": "Kari... Are you okay?",
-      "_offset": 1865,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Kari... Estás bien?"
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 11617,
+      "_bytes": 23,
+      "translation": "Kari... ¿Estás bien?"
     },
     {
       "index": 4,
-      "english": "Why didn't you tell us? You've\nbeen sick for a while, haven't\nyou?",
-      "_offset": 1893,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Por qué no dijiste nada?\nLlevas tiempo enferma, no?"
+      "english": "...",
+      "speaker_id": 1081,
+      "line_type": 4,
+      "_offset": 11641,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 5,
-      "english": "I know, but... if we don't\nhurry... the Earth will...",
-      "_offset": 1960,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Ya lo sé, pero si no nos\ndamos prisa... la Tierra..."
+      "english": "Why didn't you tell us? You've\nbeen sick for a while, haven't\nyou?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11645,
+      "_bytes": 66,
+      "translation": "¿Por qué no dijiste nada?\nLlevas tiempo enferma, ¿no?"
     },
     {
       "index": 6,
-      "english": "Kari...",
-      "_offset": 2014,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Kari..."
+      "english": "I know, but... if we don't\nhurry... the Earth will...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11712,
+      "_bytes": 53,
+      "translation": "Ya lo sé, pero si no nos\ndamos prisa... la Tierra..."
     },
     {
       "index": 7,
-      "english": "I *knew* we shouldn't have brought\nher with us!",
-      "_offset": 2024,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Lo sabía! No deberíamos\nhaberla traído!"
+      "english": "Kari...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11766,
+      "_bytes": 9,
+      "translation": "Kari..."
     },
     {
       "index": 8,
-      "english": "Huh? But unless Kari is here, we\nwon't be able to save the Digimon\nworld, or the Earth!",
-      "_offset": 2072,
-      "_length": 89,
-      "speaker_id": 0,
-      "translation": "Eh? Pero si Kari no está aquí,\nno podremos salvar ni el\nDigimundo ni la Tierra!"
+      "english": "I *knew* we shouldn't have brought\nher with us!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11776,
+      "_bytes": 47,
+      "translation": "¡Lo sabía! ¡No deberíamos\nhaberla traído!"
     },
     {
       "index": 9,
-      "english": "But she's the kind of person who\nnever says anything and keeps it\nto herself...",
-      "_offset": 2162,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "Pero ella es de las que nunca\ndice nada y se lo guarda\ntodo..."
+      "english": "Huh? But unless Kari is here, we\nwon't be able to save the Digimon\nworld, or the Earth!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 11824,
+      "_bytes": 89,
+      "translation": "¿Eh? ¡Pero si Kari no está aquí,\nno podremos salvar ni el\nDigimundo ni la Tierra!"
     },
     {
       "index": 10,
-      "english": "Tai...",
-      "_offset": 2242,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Tai..."
+      "english": "But she's the kind of person who\nnever says anything and keeps it\nto herself...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11914,
+      "_bytes": 79,
+      "translation": "Pero ella es de las que nunca\ndice nada y se lo guarda\ntodo..."
     },
     {
       "index": 11,
-      "english": "There's a town here!",
-      "_offset": 2252,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Hay un pueblo aquí!"
-    },
-    {
-      "index": 12,
-      "english": "Thank goodness there happened to\nbe a town nearby.",
-      "_offset": 2273,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Menos mal que había un\npueblo cerca."
-    },
-    {
-      "index": 13,
-      "english": "Isn't it weird, though? There\naren't any Digimon in this town at\nall.",
-      "_offset": 2324,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "No os parece raro? No hay\nni un solo Digimon en este\npueblo."
-    },
-    {
-      "index": 14,
-      "english": "We're just lucky to be able to\nfind a bed for Kari.",
-      "_offset": 2394,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Menos mal que hemos\nencontrado una cama para Kari."
-    },
-    {
-      "index": 15,
-      "english": "Kari... are you okay?",
-      "_offset": 2448,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Kari... estás bien?"
-    },
-    {
-      "index": 16,
-      "english": "I'll go out and find some medicine\nfor Kari. Sorry, but... can you\ntake care of her?",
-      "_offset": 2472,
-      "_length": 86,
-      "speaker_id": 0,
-      "translation": "Voy a buscar medicinas para\nKari. Lo siento, pero...\npuedes cuidarla?"
-    },
-    {
-      "index": 17,
-      "english": "Of course. Be careful, Tai.",
-      "_offset": 2559,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Claro. Ten cuidado, Tai."
-    },
-    {
-      "index": 18,
-      "english": "I'll go with you!",
-      "_offset": 2590,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Voy contigo!"
-    },
-    {
-      "index": 19,
-      "english": "No, I need you to stay here.",
-      "_offset": 2608,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "No, quédate aquí."
-    },
-    {
-      "index": 20,
-      "english": "We don't know when the Dark\nMasters might attack us again.",
-      "_offset": 2637,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "No sabemos cuándo volverán a\natacar los Amos Oscuros."
-    },
-    {
-      "index": 21,
-      "english": "Okay! I'll protect everyone here,\nthen!",
-      "_offset": 2696,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Vale! Entonces protegeré a\ntodos aquí!"
-    },
-    {
-      "index": 22,
-      "english": "Just leave it to us!",
-      "_offset": 2736,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Cuenta con nosotros!"
-    },
-    {
-      "index": 23,
-      "english": "Good man!",
-      "_offset": 2757,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Muy bien!"
-    },
-    {
-      "index": 24,
-      "english": "Tai, there's a hospital! I'm\nsure we'll be able to find some\nmedicine there!",
-      "_offset": 2767,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "Tai, hay un hospital! Seguro\nque allí encontramos\nmedicinas!"
-    },
-    {
-      "index": 25,
-      "english": "Okay, let's hurry!",
-      "_offset": 2847,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Vale, deprisa!"
-    },
-    {
-      "index": 26,
-      "english": "Agumon! Did you find anything...",
-      "_offset": 2866,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Agumon! Has encontrado\nalgo..."
-    },
-    {
-      "index": 27,
-      "english": "Bandages... adhesive plaster...\nnope, I can't find anything...",
-      "_offset": 2899,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Vendas... tiritas...\nnada, no encuentro nada..."
-    },
-    {
-      "index": 28,
-      "english": "Tai, I've found medicine!",
-      "_offset": 2962,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Tai, he encontrado\nmedicina!"
-    },
-    {
-      "index": 29,
-      "english": "Really?",
-      "_offset": 2991,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Seguro?"
-    },
-    {
-      "index": 30,
-      "english": "Ugh, there's way too many\ndifferent kinds. Which one's cold\nmedicine?",
-      "_offset": 2999,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Uf, hay demasiados tipos\ndistintos. Cuál es la del\nresfriado?"
-    },
-    {
-      "index": 31,
-      "english": "If only Joe were here... His\nfather is a doctor, isn't he?",
-      "_offset": 3069,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Ojalá estuviera Joe aquí...\nSu padre es médico, no?"
-    },
-    {
-      "index": 32,
-      "english": "It wouldn't be Joe if he were\naround whenever you needed him...",
-      "_offset": 3128,
-      "_length": 63,
-      "speaker_id": 0,
-      "translation": "No sería Joe si apareciera\njusto cuando se le\nnecesita..."
-    },
-    {
-      "index": 33,
-      "english": "I know! We can use the Internet to\nlook up which one is cold\nmedicine!",
-      "_offset": 3192,
-      "_length": 70,
-      "speaker_id": 0,
-      "translation": "Ya sé! Podemos buscar en\nInternet cuál es la del\nresfriado!"
-    },
-    {
-      "index": 34,
-      "english": "That's it! Go for it!",
-      "_offset": 3263,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Eso es! Adelante!"
-    },
-    {
-      "index": 35,
-      "english": "All right!",
-      "_offset": 3285,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Vale!"
-    },
-    {
-      "index": 36,
-      "english": "Lord Mugendramon, our connection\nhas been accessed from within the\nhospital.",
-      "_offset": 3296,
-      "_length": 76,
-      "speaker_id": 0,
-      "translation": "Señor Machinedramon, han\naccedido a nuestra red desde\ndentro del hospital."
-    },
-    {
-      "index": 37,
-      "english": "Hmph... set the hospital as the\ntarget, and prepare to attack!",
-      "_offset": 3373,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Hmph... marcad el hospital\ncomo objetivo, atacad!"
-    },
-    {
-      "index": 38,
-      "english": "Roger! Metal Empire forces! March!",
-      "_offset": 3436,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Recibido! Tropas, en\nmarcha!"
-    },
-    {
-      "index": 39,
-      "english": "Metal Empire forces! March!",
-      "_offset": 3471,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Tropas, en marcha!"
-    },
-    {
-      "index": 40,
-      "english": "Here it is!",
-      "_offset": 3499,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Aquí está!"
-    },
-    {
-      "index": 41,
-      "english": "No doubt about it!",
-      "_offset": 3511,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Sin duda alguna!"
-    },
-    {
-      "index": 42,
-      "english": "Great. Let's go back.",
-      "_offset": 3530,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Genial. Volvamos."
-    },
-    {
-      "index": 43,
-      "english": "Aaaaaah!",
-      "_offset": 3552,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Aaaaah!"
-    },
-    {
-      "index": 44,
-      "english": "What?!",
-      "_offset": 3561,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Qué?!"
-    },
-    {
-      "index": 45,
-      "english": "At this rate, the building will\ncollapse! Tai, we need to get\nout!",
-      "_offset": 3568,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Como sigamos así, el edificio\nse derrumbará! Tai, tenemos\nque salir!"
-    },
-    {
-      "index": 46,
-      "english": "Right!",
-      "_offset": 3638,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Vale!"
-    },
-    {
-      "index": 47,
-      "english": "Aaaaagh! The heck are those?",
-      "_offset": 3645,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Aaaagh! Qué diablos es\neso?"
-    },
-    {
-      "index": 48,
-      "english": "Ugh, now isn't the time for this!",
-      "_offset": 3674,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Uf, no es momento para\nesto!"
-    },
-    {
-      "index": 49,
-      "english": "Get out of the way!",
-      "_offset": 3708,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Fuera de en medio!"
-    },
-    {
-      "index": 50,
-      "english": "Now the town's full of Digimon!",
-      "_offset": 3728,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Hay Digimon por todo el\npueblo!"
-    },
-    {
-      "index": 51,
-      "english": "You think they know we're here?",
-      "_offset": 3760,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Crees que nos han visto?"
-    },
-    {
-      "index": 52,
-      "english": "It's possible that they saw us\nwhile we were entering the\nhospital.",
-      "_offset": 3792,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Es posible que nos vieran\nmientras entrábamos en el\nhospital."
-    },
-    {
-      "index": 53,
-      "english": "Gh! Right when we'd found the\nmedicine...",
-      "_offset": 3860,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Justo cuando encontramos\nla medicina..."
-    },
-    {
-      "index": 54,
-      "english": "Why don't we hide for a bit and\nwait it out?",
-      "_offset": 3902,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Por qué no esperamos\nescondidos un rato?"
-    },
-    {
-      "index": 55,
-      "english": "Okay. Let's find a place to hide,\nthen.",
-      "_offset": 3947,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Vale, busquemos dónde\nescondernos."
-    },
-    {
-      "index": 56,
-      "english": "Tai, let's rest here for a\nbit...",
-      "_offset": 3987,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Tai, descansemos aquí un\npoco..."
-    },
-    {
-      "index": 57,
-      "english": "This a good place?",
-      "_offset": 4024,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Este sitio vale?"
-    },
-    {
-      "index": 58,
-      "english": "A church? Well... it'll have to do\nfor now.",
-      "_offset": 4043,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Una iglesia? Bueno, tendrá\nque valer."
-    },
-    {
-      "index": 59,
-      "english": "That's it!",
-      "_offset": 4087,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Eso es!"
-    },
-    {
-      "index": 60,
-      "english": "What's up, Izzy?",
-      "_offset": 4098,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Qué pasa, Izzy?"
-    },
-    {
-      "index": 61,
-      "english": "I was careless...",
-      "_offset": 4120,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Fui descuidado..."
-    },
-    {
-      "index": 62,
-      "english": "Our enemies located our position \nfrom the signal I transmitted when \nI accessed their network...",
-      "_offset": 4138,
-      "_length": 97,
-      "speaker_id": 0,
-      "translation": "Nuestros enemigos localizaron\nnuestra posición por la señal\nque emití al acceder a su red.."
-    },
-    {
-      "index": 63,
-      "english": "What a great time to be careless!\nNow we're here, while Kari is...",
-      "_offset": 4236,
-      "_length": 68,
-      "speaker_id": 0,
-      "translation": "Vaya momento para\ndescuidarse! Ahora estamos\naquí, mientras Kari..."
-    },
-    {
-      "index": 64,
-      "english": "Hey there, Tai...",
-      "_offset": 4305,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Oye, Tai..."
-    },
-    {
-      "index": 65,
-      "english": "What's wrong, Tai? You're not\nacting like yourself. Is it\nbecause of Kari?",
-      "_offset": 4326,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "Qué te pasa, Tai? No pareces\ntú mismo. Es por Kari?"
-    },
-    {
-      "index": 66,
-      "english": "Ah... I... I'm sorry...",
-      "_offset": 4406,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Ah... lo siento..."
-    },
-    {
-      "index": 67,
-      "english": "Did something in particular\nhappen, Tai?",
-      "_offset": 4430,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Ha pasado algo en especial,\nTai?"
-    },
-    {
-      "index": 68,
-      "english": "Kari... almost died, once,\nbecause of me.",
-      "_offset": 4474,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Kari... casi murió una vez\npor mi culpa."
-    },
-    {
-      "index": 69,
-      "english": "I was in second grade, and she was\nin kindergarten. She had a cold,\nso she couldn't go to school.",
-      "_offset": 4521,
-      "_length": 97,
-      "speaker_id": 0,
-      "translation": "Yo estaba en segundo curso y\nella en preescolar. Tenía un\nresfriado y no podía ir al cole"
-    },
-    {
-      "index": 70,
-      "english": "She looked like she was doing\nbetter, so I took her outside to\nplay.",
-      "_offset": 4619,
-      "_length": 68,
-      "speaker_id": 0,
-      "translation": "Parecía que estaba mejor, así\nque la saqué a jugar fuera."
-    },
-    {
-      "index": 71,
-      "english": "But instead, she was on the verge\nof death for 3 days 'til she was\ndischarged from the hospital.",
-      "_offset": 4692,
-      "_length": 96,
-      "speaker_id": 0,
-      "translation": "Pero en vez de eso, estuvo al\nborde de la muerte 3 días\nhasta que le dieron el alta."
-    },
-    {
-      "index": 72,
-      "english": "And on that day, she said...",
-      "_offset": 4789,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Y ese día, ella dijo..."
-    },
-    {
-      "index": 73,
-      "english": "\"Tai... I'm sorry I couldn't\nkick the ball very well.\"",
-      "_offset": 4818,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "\"Tai... siento no haber sabido\nchutar bien el balón.\""
-    },
-    {
-      "index": 74,
       "english": "Tai...",
-      "_offset": 4876,
-      "_length": 9,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 11994,
+      "_bytes": 9,
       "translation": "Tai..."
     },
     {
+      "index": 12,
+      "english": "There's a town here!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 12004,
+      "_bytes": 20,
+      "translation": "¡Hay un pueblo aquí!"
+    },
+    {
+      "index": 13,
+      "english": "Thank goodness there happened to\nbe a town nearby.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12025,
+      "_bytes": 50,
+      "translation": "Menos mal que había un\npueblo cerca."
+    },
+    {
+      "index": 14,
+      "english": "Isn't it weird, though? There\naren't any Digimon in this town at\nall.",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 12076,
+      "_bytes": 69,
+      "translation": "¿No os parece raro? No hay\nni un solo Digimon en este\npueblo."
+    },
+    {
+      "index": 15,
+      "english": "We're just lucky to be able to\nfind a bed for Kari.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12146,
+      "_bytes": 53,
+      "translation": "Menos mal que hemos\nencontrado una cama para Kari."
+    },
+    {
+      "index": 16,
+      "english": "Kari... are you okay?",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 12200,
+      "_bytes": 23,
+      "translation": "Kari... ¿estás bien?"
+    },
+    {
+      "index": 17,
+      "english": "I'll go out and find some medicine\nfor Kari. Sorry, but... can you\ntake care of her?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12224,
+      "_bytes": 86,
+      "translation": "Voy a buscar medicinas para\nKari. Lo siento, pero...\n¿puedes cuidarla?"
+    },
+    {
+      "index": 18,
+      "english": "Of course. Be careful, Tai.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12311,
+      "_bytes": 30,
+      "translation": "Claro. Ten cuidado, Tai."
+    },
+    {
+      "index": 19,
+      "english": "I'll go with you!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12342,
+      "_bytes": 17,
+      "translation": "¡Voy contigo!"
+    },
+    {
+      "index": 20,
+      "english": "No, I need you to stay here.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12360,
+      "_bytes": 28,
+      "translation": "No, quédate aquí."
+    },
+    {
+      "index": 21,
+      "english": "We don't know when the Dark\nMasters might attack us again.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12389,
+      "_bytes": 58,
+      "translation": "No sabemos cuándo volverán a\natacar los Amos Oscuros."
+    },
+    {
+      "index": 22,
+      "english": "Okay! I'll protect everyone here,\nthen!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12448,
+      "_bytes": 39,
+      "translation": "¡Vale! ¡Entonces protegeré a\ntodos aquí!"
+    },
+    {
+      "index": 23,
+      "english": "Just leave it to us!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 12488,
+      "_bytes": 20,
+      "translation": "¡Cuenta con nosotros!"
+    },
+    {
+      "index": 24,
+      "english": "Good man!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12509,
+      "_bytes": 9,
+      "translation": "¡Muy bien!"
+    },
+    {
+      "index": 25,
+      "english": "Tai, there's a hospital! I'm\nsure we'll be able to find some\nmedicine there!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 12519,
+      "_bytes": 79,
+      "translation": "Tai, ¡hay un hospital! ¡Seguro\nque allí encontramos\nmedicinas!"
+    },
+    {
+      "index": 26,
+      "english": "Okay, let's hurry!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12599,
+      "_bytes": 18,
+      "translation": "¡Vale, deprisa!"
+    },
+    {
+      "index": 27,
+      "english": "Agumon! Did you find anything...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12618,
+      "_bytes": 32,
+      "translation": "¡Agumon! ¿Has encontrado algo...?"
+    },
+    {
+      "index": 28,
+      "english": "Bandages... adhesive plaster...\nnope, I can't find anything...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 12651,
+      "_bytes": 62,
+      "translation": "Vendas... tiritas...\nnada, no encuentro nada..."
+    },
+    {
+      "index": 29,
+      "english": "Tai, I've found medicine!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 12714,
+      "_bytes": 28,
+      "translation": "Tai, ¡he encontrado medicina!"
+    },
+    {
+      "index": 30,
+      "english": "Really?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12743,
+      "_bytes": 7,
+      "translation": "¿Seguro?"
+    },
+    {
+      "index": 31,
+      "english": "Ugh, there's way too many\ndifferent kinds. Which one's cold\nmedicine?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12751,
+      "_bytes": 69,
+      "translation": "Uf, hay demasiados tipos\ndistintos. ¿Cuál es la del\nresfriado?"
+    },
+    {
+      "index": 32,
+      "english": "If only Joe were here... His\nfather is a doctor, isn't he?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 12821,
+      "_bytes": 58,
+      "translation": "Ojalá estuviera Joe aquí...\nSu padre es médico, ¿no?"
+    },
+    {
+      "index": 33,
+      "english": "It wouldn't be Joe if he were\naround whenever you needed him...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12880,
+      "_bytes": 63,
+      "translation": "No sería Joe si apareciera\njusto cuando se le\nnecesita..."
+    },
+    {
+      "index": 34,
+      "english": "I know! We can use the Internet to\nlook up which one is cold\nmedicine!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 12944,
+      "_bytes": 70,
+      "translation": "¡Ya sé! ¡Podemos buscar en\nInternet cuál es la del\nresfriado!"
+    },
+    {
+      "index": 35,
+      "english": "That's it! Go for it!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13015,
+      "_bytes": 21,
+      "translation": "¡Eso es! ¡Adelante!"
+    },
+    {
+      "index": 36,
+      "english": "All right!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13037,
+      "_bytes": 10,
+      "translation": "¡Vale!"
+    },
+    {
+      "index": 37,
+      "english": "Lord Mugendramon, our connection\nhas been accessed from within the\nhospital.",
+      "speaker_id": 4492,
+      "line_type": 2,
+      "_offset": 13048,
+      "_bytes": 76,
+      "translation": "Señor Machinedramon, han\naccedido a nuestra red desde\ndentro del hospital."
+    },
+    {
+      "index": 38,
+      "english": "Hmph... set the hospital as the\ntarget, and prepare to attack!",
+      "speaker_id": 3071,
+      "line_type": 2,
+      "_offset": 13125,
+      "_bytes": 62,
+      "translation": "¡Hmph... marcad el hospital\ncomo objetivo, atacad!"
+    },
+    {
+      "index": 39,
+      "english": "Roger! Metal Empire forces! March!",
+      "speaker_id": 4492,
+      "line_type": 2,
+      "_offset": 13188,
+      "_bytes": 34,
+      "translation": "¡Recibido! ¡Tropas, en marcha!"
+    },
+    {
+      "index": 40,
+      "english": "Metal Empire forces! March!",
+      "speaker_id": 4493,
+      "line_type": 2,
+      "_offset": 13223,
+      "_bytes": 27,
+      "translation": "¡Tropas, en marcha!"
+    },
+    {
+      "index": 41,
+      "english": "Here it is!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13251,
+      "_bytes": 11,
+      "translation": "¡Aquí está!"
+    },
+    {
+      "index": 42,
+      "english": "No doubt about it!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13263,
+      "_bytes": 18,
+      "translation": "¡Sin duda alguna!"
+    },
+    {
+      "index": 43,
+      "english": "Great. Let's go back.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13282,
+      "_bytes": 21,
+      "translation": "Genial. Volvamos."
+    },
+    {
+      "index": 44,
+      "english": "Aaaaaah!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13304,
+      "_bytes": 8,
+      "translation": "¡Aaaaah!"
+    },
+    {
+      "index": 45,
+      "english": "What?!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 13313,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
+    },
+    {
+      "index": 46,
+      "english": "At this rate, the building will\ncollapse! Tai, we need to get\nout!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13320,
+      "_bytes": 69,
+      "translation": "¡Como sigamos así, el edificio\nse derrumbará! Tai, ¡tenemos\nque salir!"
+    },
+    {
+      "index": 47,
+      "english": "Right!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13390,
+      "_bytes": 6,
+      "translation": "¡Vale!"
+    },
+    {
+      "index": 48,
+      "english": "Aaaaagh! The heck are those?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13397,
+      "_bytes": 28,
+      "translation": "¡Aaaagh! ¿Qué diablos es eso?"
+    },
+    {
+      "index": 49,
+      "english": "Ugh, now isn't the time for this!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13426,
+      "_bytes": 33,
+      "translation": "¡Uf, no es momento para esto!"
+    },
+    {
+      "index": 50,
+      "english": "Get out of the way!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 13460,
+      "_bytes": 19,
+      "translation": "¡Fuera de en medio!"
+    },
+    {
+      "index": 51,
+      "english": "Now the town's full of Digimon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13480,
+      "_bytes": 31,
+      "translation": "¡Hay Digimon por todo el pueblo!"
+    },
+    {
+      "index": 52,
+      "english": "You think they know we're here?",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 13512,
+      "_bytes": 31,
+      "translation": "¿Crees que nos han visto?"
+    },
+    {
+      "index": 53,
+      "english": "It's possible that they saw us\nwhile we were entering the\nhospital.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13544,
+      "_bytes": 67,
+      "translation": "Es posible que nos vieran\nmientras entrábamos en el\nhospital."
+    },
+    {
+      "index": 54,
+      "english": "Gh! Right when we'd found the\nmedicine...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13612,
+      "_bytes": 41,
+      "translation": "Justo cuando encontramos\nla medicina..."
+    },
+    {
+      "index": 55,
+      "english": "Why don't we hide for a bit and\nwait it out?",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 13654,
+      "_bytes": 44,
+      "translation": "¿Por qué no esperamos\nescondidos un rato?"
+    },
+    {
+      "index": 56,
+      "english": "Okay. Let's find a place to hide,\nthen.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13699,
+      "_bytes": 39,
+      "translation": "Vale, busquemos dónde\nescondernos."
+    },
+    {
+      "index": 57,
+      "english": "Tai, let's rest here for a\nbit...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 13739,
+      "_bytes": 36,
+      "translation": "Tai, descansemos aquí un\npoco..."
+    },
+    {
+      "index": 58,
+      "english": "This a good place?",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 13776,
+      "_bytes": 18,
+      "translation": "¿Este sitio vale?"
+    },
+    {
+      "index": 59,
+      "english": "A church? Well... it'll have to do\nfor now.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13795,
+      "_bytes": 43,
+      "translation": "¿Una iglesia? Bueno, tendrá\nque valer."
+    },
+    {
+      "index": 60,
+      "english": "That's it!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13839,
+      "_bytes": 10,
+      "translation": "¡Eso es!"
+    },
+    {
+      "index": 61,
+      "english": "What's up, Izzy?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13850,
+      "_bytes": 21,
+      "translation": "¿Qué pasa, Izzy?"
+    },
+    {
+      "index": 62,
+      "english": "I was careless...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13872,
+      "_bytes": 17,
+      "translation": "Fui descuidado..."
+    },
+    {
+      "index": 63,
+      "english": "Our enemies located our position \nfrom the signal I transmitted when \nI accessed their network...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13890,
+      "_bytes": 97,
+      "translation": "Nuestros enemigos localizaron\nnuestra posición por la señal\nque emití al acceder a su red..."
+    },
+    {
+      "index": 64,
+      "english": "What a great time to be careless!\nNow we're here, while Kari is...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13988,
+      "_bytes": 68,
+      "translation": "¡Vaya momento para\ndescuidarse! Ahora estamos\naquí, mientras Kari..."
+    },
+    {
+      "index": 65,
+      "english": "Hey there, Tai...",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 14057,
+      "_bytes": 20,
+      "translation": "Oye, Tai..."
+    },
+    {
+      "index": 66,
+      "english": "What's wrong, Tai? You're not\nacting like yourself. Is it\nbecause of Kari?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 14078,
+      "_bytes": 79,
+      "translation": "¿Qué te pasa, Tai? No pareces\ntú mismo. ¿Es por Kari?"
+    },
+    {
+      "index": 67,
+      "english": "Ah... I... I'm sorry...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14158,
+      "_bytes": 23,
+      "translation": "Ah... lo siento..."
+    },
+    {
+      "index": 68,
+      "english": "Did something in particular\nhappen, Tai?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14182,
+      "_bytes": 43,
+      "translation": "¿Ha pasado algo en especial,\nTai?"
+    },
+    {
+      "index": 69,
+      "english": "Kari... almost died, once,\nbecause of me.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14226,
+      "_bytes": 43,
+      "translation": "Kari... casi murió una vez\npor mi culpa."
+    },
+    {
+      "index": 70,
+      "english": "?!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 14270,
+      "_bytes": 2,
+      "translation": "?!"
+    },
+    {
+      "index": 71,
+      "english": "I was in second grade, and she was\nin kindergarten. She had a cold,\nso she couldn't go to school.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14273,
+      "_bytes": 97,
+      "translation": "Yo estaba en segundo curso y\nella en preescolar. Tenía un\nresfriado y no podía ir al cole."
+    },
+    {
+      "index": 72,
+      "english": "She looked like she was doing\nbetter, so I took her outside to\nplay.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14371,
+      "_bytes": 68,
+      "translation": "Parecía que estaba mejor, así\nque la saqué a jugar fuera."
+    },
+    {
+      "index": 73,
+      "english": "...",
+      "speaker_id": 1041,
+      "line_type": 4,
+      "_offset": 14440,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 74,
+      "english": "But instead, she was on the verge\nof death for 3 days 'til she was\ndischarged from the hospital.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14444,
+      "_bytes": 96,
+      "translation": "Pero en vez de eso, estuvo al\nborde de la muerte 3 días\nhasta que le dieron el alta."
+    },
+    {
       "index": 75,
-      "english": "That's the kind of person she is!\nShe always puts others before\nherself!",
-      "_offset": 4886,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "Así es ella! Siempre antepone\na los demás antes que a ella\nmisma!"
+      "english": "And on that day, she said...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14541,
+      "_bytes": 28,
+      "translation": "Y ese día, ella dijo..."
     },
     {
       "index": 76,
-      "english": "And if something's bothering her,\nshe won't say a thing until the \nend, no matter how much it hurts!",
-      "_offset": 4959,
-      "_length": 100,
-      "speaker_id": 0,
-      "translation": "Y si algo le preocupa, no dice\nni una palabra hasta el final,\npor mucho que le duela!"
+      "english": "\"Tai... I'm sorry I couldn't\nkick the ball very well.\"",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14570,
+      "_bytes": 57,
+      "translation": "\"Tai... siento no haber sabido\nchutar bien el balón.\""
     },
     {
       "index": 77,
-      "english": "And that's why she didn't tell us\nabout her illness until it was too\nlate...",
-      "_offset": 5060,
-      "_length": 76,
-      "speaker_id": 0,
-      "translation": "Por eso no nos contó lo de su\nenfermedad hasta que fue\ndemasiado tarde..."
+      "english": "Tai...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 14628,
+      "_bytes": 9,
+      "translation": "Tai..."
     },
     {
       "index": 78,
-      "english": "Yeah... and I'm supposed to be\nkeeping a close eye on her, and\nyet...",
-      "_offset": 5137,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Sí... y se supone que debo\ncuidar de ella de cerca, y\naun así..."
+      "english": "That's the kind of person she is!\nShe always puts others before\nherself!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14638,
+      "_bytes": 72,
+      "translation": "¡Así es ella! ¡Siempre antepone\na los demás a sí\nmisma!"
     },
     {
       "index": 79,
-      "english": "Tai, you shouldn't blame\nyourself.",
-      "_offset": 5207,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Tai, no deberías culparte."
+      "english": "And if something's bothering her,\nshe won't say a thing until the \nend, no matter how much it hurts!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14711,
+      "_bytes": 100,
+      "translation": "¡Y si algo le preocupa, no dice\nni una palabra hasta el final,\npor mucho que le duela!"
     },
     {
       "index": 80,
-      "english": "That's right! So let's get the\nmedicine to her, as quickly as we\ncan!",
-      "_offset": 5245,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Eso es! Así que llevémosle\nla medicina cuanto antes!"
+      "english": "And that's why she didn't tell us\nabout her illness until it was too\nlate...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14812,
+      "_bytes": 76,
+      "translation": "Por eso no nos contó lo de su\nenfermedad hasta que fue\ndemasiado tarde..."
     },
     {
       "index": 81,
-      "english": "Yeah... but how? We're completely\nsurrounded.",
-      "_offset": 5315,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Sí... pero cómo? Estamos\ntotalmente rodeados."
+      "english": "Yeah... and I'm supposed to be\nkeeping a close eye on her, and\nyet...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14889,
+      "_bytes": 69,
+      "translation": "Sí... y se supone que debo\ncuidar de ella de cerca, y\naun así..."
     },
     {
       "index": 82,
-      "english": "We won't be able to attack them\nhead-on, but we can use their own\ntactics against them.",
-      "_offset": 5361,
-      "_length": 87,
-      "speaker_id": 0,
-      "translation": "No podremos atacarlos de\nfrente, pero podemos usar sus\npropias tácticas contra ellos."
+      "english": "Tai, you shouldn't blame\nyourself.",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 14959,
+      "_bytes": 37,
+      "translation": "Tai, no deberías culparte."
     },
     {
       "index": 83,
-      "english": "Whaddya mean by that, Izzy?",
-      "_offset": 5449,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Qué quieres decir, Izzy?"
+      "english": "That's right! So let's get the\nmedicine to her, as quickly as we\ncan!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14997,
+      "_bytes": 69,
+      "translation": "¡Eso es! ¡Así que llevémosle\nla medicina cuanto antes!"
     },
     {
       "index": 84,
-      "english": "We'll use a program that masks our\naccess point.",
-      "_offset": 5482,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Un programa ocultará\nnuestro punto de acceso."
+      "english": "Yeah... but how? We're completely\nsurrounded.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15067,
+      "_bytes": 45,
+      "translation": "Sí... ¿pero cómo? Estamos\ntotalmente rodeados."
     },
     {
       "index": 85,
-      "english": "With this, we will be able to pull\nthe wool over their eyes.",
-      "_offset": 5531,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Así podremos engañarlos y\ntomarles el pelo."
+      "english": "We won't be able to attack them\nhead-on, but we can use their own\ntactics against them.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15113,
+      "_bytes": 87,
+      "translation": "No podremos atacarlos de\nfrente, pero podemos usar sus\npropias tácticas contra ellos."
     },
     {
       "index": 86,
-      "english": "We've caught their point of\naddress! They're...",
-      "_offset": 5592,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Hemos localizado su punto\nde acceso! Están..."
+      "english": "Whaddya mean by that, Izzy?",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 15201,
+      "_bytes": 32,
+      "translation": "¿Qué quieres decir, Izzy?"
     },
     {
       "index": 87,
-      "english": "Get to it! Tell me where they are,\nnow!",
-      "_offset": 5640,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Vamos! Dime dónde están,\nahora!"
+      "english": "We'll use a program that masks our\naccess point.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15234,
+      "_bytes": 48,
+      "translation": "Un programa ocultará\nnuestro punto de acceso."
     },
     {
       "index": 88,
-      "english": "...I can't read this! The\nreactions are coming from all over\nthe map!",
-      "_offset": 5680,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "No puedo leer esto! Las\nreacciones vienen de todo\nel mapa!"
+      "english": "With this, we will be able to pull\nthe wool over their eyes.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15283,
+      "_bytes": 60,
+      "translation": "Así podremos engañarlos y\ntomarles el pelo."
     },
     {
       "index": 89,
-      "english": "There's the house! We're here,\nKari!",
-      "_offset": 5754,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Ahí está la casa! Ya\nllegamos, Kari!"
+      "english": "We've caught their point of\naddress! They're...",
+      "speaker_id": 4492,
+      "line_type": 2,
+      "_offset": 15344,
+      "_bytes": 47,
+      "translation": "¡Hemos localizado su punto\nde acceso! Están..."
     },
     {
       "index": 90,
-      "english": "Kari!",
-      "_offset": 5793,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Kari!"
+      "english": "Get to it! Tell me where they are,\nnow!",
+      "speaker_id": 3071,
+      "line_type": 2,
+      "_offset": 15392,
+      "_bytes": 39,
+      "translation": "¡Vamos! ¡Dime dónde están,\nahora!"
     },
     {
       "index": 91,
-      "english": "Aaaaaaaah!",
-      "_offset": 5801,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Aaaaaah!"
+      "english": "...I can't read this! The\nreactions are coming from all over\nthe map!",
+      "speaker_id": 4492,
+      "line_type": 2,
+      "_offset": 15432,
+      "_bytes": 69,
+      "translation": "¡No puedo leer esto! ¡Las\nreacciones vienen de todo\nel mapa!"
     },
     {
       "index": 92,
-      "english": "No...",
-      "_offset": 5812,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "No..."
+      "english": "...",
+      "speaker_id": 3071,
+      "line_type": 2,
+      "_offset": 15502,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 93,
-      "english": "N-No way... Kari...",
-      "_offset": 5818,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Imposible... Kari..."
+      "english": "There's the house! We're here,\nKari!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 15506,
+      "_bytes": 38,
+      "translation": "¡Ahí está la casa! ¡Ya\nllegamos, Kari!"
     },
     {
       "index": 94,
-      "english": "Was that a missile?!",
-      "_offset": 5840,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Ha sido un misil?!"
+      "english": "Kari!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15545,
+      "_bytes": 7,
+      "translation": "¡Kari!"
     },
     {
       "index": 95,
-      "english": "Huh?!",
-      "_offset": 5861,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Eh?!"
+      "english": "Aaaaaaaah!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15553,
+      "_bytes": 10,
+      "translation": "¡Aaaaaah!"
     },
     {
       "index": 96,
-      "english": "Angemon!",
-      "_offset": 5870,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Angemon!"
+      "english": "No...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15564,
+      "_bytes": 5,
+      "translation": "No..."
     },
     {
       "index": 97,
-      "english": "Angemon!",
-      "_offset": 5879,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Angemon!"
+      "english": "N-No way... Kari...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15570,
+      "_bytes": 21,
+      "translation": "Imposible... Kari..."
     },
     {
       "index": 98,
-      "english": "Tai! Are you okay?",
-      "_offset": 5888,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Tai! Estás bien?"
+      "english": "Was that a missile?!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15592,
+      "_bytes": 20,
+      "translation": "¡¿Ha sido un misil?!"
     },
     {
       "index": 99,
-      "english": "T.K!",
-      "_offset": 5910,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "T.K!"
+      "english": "Huh?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15613,
+      "_bytes": 5,
+      "translation": "¡¿Eh?!"
     },
     {
       "index": 100,
-      "english": "Kari!",
-      "_offset": 5918,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Kari!"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 15619,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 101,
-      "english": "So you were safe after all!",
-      "_offset": 5926,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Así que estabas a salvo!"
+      "english": "Angemon!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 15622,
+      "_bytes": 8,
+      "translation": "¡Angemon!"
     },
     {
       "index": 102,
-      "english": "See? I protected everyone like I\nsaid I would, Tai!",
-      "_offset": 5954,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Ves? Protegí a todos como\ndije que haría, Tai!"
+      "english": "Angemon!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 15631,
+      "_bytes": 8,
+      "translation": "¡Angemon!"
     },
     {
       "index": 103,
-      "english": "Great job, T.K!",
-      "_offset": 6009,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Bien hecho, T.K!"
+      "english": "Tai! Are you okay?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 15640,
+      "_bytes": 21,
+      "translation": "¡Tai! ¿Estás bien?"
     },
     {
       "index": 104,
-      "english": "It's Mugendramon!",
-      "_offset": 6031,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Es Machinedramon!"
+      "english": "T.K!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15662,
+      "_bytes": 7,
+      "translation": "¡T.K.!"
     },
     {
       "index": 105,
-      "english": "Guys, run for it!",
-      "_offset": 6049,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Corred, chicos!"
+      "english": "Kari!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15670,
+      "_bytes": 7,
+      "translation": "¡Kari!"
     },
     {
       "index": 106,
-      "english": "This is where you will meet your\nend, Chosen Children! Infinity\nCannon!",
-      "_offset": 6067,
-      "_length": 71,
-      "speaker_id": 0,
-      "translation": "Aquí es donde encontraréis\nvuestro fin, Niños Elegidos!\nDisparo Infinito!"
+      "english": "So you were safe after all!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15678,
+      "_bytes": 27,
+      "translation": "¡Así que estabas a salvo!"
     },
     {
       "index": 107,
-      "english": "Gyaaaaah!",
-      "_offset": 6139,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Gyaaaah!"
+      "english": "See? I protected everyone like I\nsaid I would, Tai!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 15706,
+      "_bytes": 54,
+      "translation": "¿Ves? ¡Protegí a todos como\ndije que haría, Tai!"
     },
     {
       "index": 108,
-      "english": "Aaaaaaaah!",
-      "_offset": 6149,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Aaaaaaah!"
+      "english": "Great job, T.K!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15761,
+      "_bytes": 18,
+      "translation": "¡Bien hecho, T.K.!"
     },
     {
       "index": 109,
-      "english": "Tai!",
-      "_offset": 6160,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Tai!"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 15780,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 110,
-      "english": "Kariiiiiiii!",
-      "_offset": 6168,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Kariiiiiiii!"
+      "english": "It's Mugendramon!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15783,
+      "_bytes": 17,
+      "translation": "¡Es Machinedramon!"
     },
     {
       "index": 111,
-      "english": "Tai, let's look for somewhere\nwe can find medicine.",
-      "_offset": 6183,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Tai, busquemos algún sitio\ndonde encontrar medicinas."
+      "english": "Guys, run for it!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15801,
+      "_bytes": 17,
+      "translation": "¡Corred, chicos!"
     },
     {
       "index": 112,
-      "english": "Okay!",
-      "_offset": 6238,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Vale!"
+      "english": "This is where you will meet your\nend, Chosen Children! Infinity\nCannon!",
+      "speaker_id": 3071,
+      "line_type": 2,
+      "_offset": 15819,
+      "_bytes": 71,
+      "translation": "¡Aquí es donde encontraréis\nvuestro fin, Niños Elegidos!\n¡Cañón Infinito!"
     },
     {
       "index": 113,
-      "english": "It's a church... I don't think\nwe'll find any medicine here.",
-      "_offset": 6244,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Es una iglesia... no creo que\nencontremos medicinas aquí."
+      "english": "Gyaaaaah!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 15891,
+      "_bytes": 9,
+      "translation": "¡Gyaaaah!"
     },
     {
       "index": 114,
-      "english": "Let's look elsewhere!",
-      "_offset": 6305,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Vayamos a otro sitio!"
+      "english": "Aaaaaaaah!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15901,
+      "_bytes": 10,
+      "translation": "¡Aaaaaaah!"
     },
     {
       "index": 115,
-      "english": "It's dangerous to go back to the\nhospital! We need to find a place\nto hide!",
-      "_offset": 6327,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "Es peligroso volver al\nhospital! Necesitamos un\nsitio donde escondernos!"
+      "english": "Tai!",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 15912,
+      "_bytes": 7,
+      "translation": "¡Tai!"
     },
     {
       "index": 116,
-      "english": "Ugh! Right when we'd gotten the\nmedicine...",
-      "_offset": 6403,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Justo cuando conseguimos\nla medicina..."
+      "english": "Kariiiiiiii!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15920,
+      "_bytes": 14,
+      "translation": "¡Kariiiiiiii!"
     },
     {
       "index": 117,
-      "english": "The enemy is confused! Now's our\nchance!",
-      "_offset": 6447,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Están confusos! Es\nnuestra oportunidad!"
+      "english": "Tai, let's look for somewhere\nwe can find medicine.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15935,
+      "_bytes": 54,
+      "translation": "Tai, busquemos algún sitio\ndonde encontrar medicinas."
     },
     {
       "index": 118,
-      "english": "We need to hurry over to the\nhouse!",
-      "_offset": 6488,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Hay que llegar rápido a\nla casa!"
+      "english": "Okay!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15990,
+      "_bytes": 5,
+      "translation": "¡Vale!"
     },
     {
       "index": 119,
-      "english": "An ambush... they're trying to\nblock our escape routes!",
-      "_offset": 6524,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Una emboscada... intentan\nbloquear nuestra huida!"
+      "english": "It's a church... I don't think\nwe'll find any medicine here.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15996,
+      "_bytes": 60,
+      "translation": "Es una iglesia... no creo que\nencontremos medicinas aquí."
     },
     {
       "index": 120,
-      "english": "We won't be able to get to the\nhouse at this rate.",
-      "_offset": 6580,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Así no llegaremos nunca a\nla casa."
+      "english": "Let's look elsewhere!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16057,
+      "_bytes": 21,
+      "translation": "¡Vayamos a otro sitio!"
     },
     {
       "index": 121,
+      "english": "It's dangerous to go back to the\nhospital! We need to find a place\nto hide!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16079,
+      "_bytes": 75,
+      "translation": "¡Es peligroso volver al\nhospital! ¡Necesitamos un\nsitio donde escondernos!"
+    },
+    {
+      "index": 122,
+      "english": "Ugh! Right when we'd gotten the\nmedicine...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16155,
+      "_bytes": 43,
+      "translation": "Justo cuando conseguimos\nla medicina..."
+    },
+    {
+      "index": 123,
+      "english": "The enemy is confused! Now's our\nchance!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16199,
+      "_bytes": 40,
+      "translation": "¡Están confusos! ¡Es\nnuestra oportunidad!"
+    },
+    {
+      "index": 124,
+      "english": "We need to hurry over to the\nhouse!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16240,
+      "_bytes": 35,
+      "translation": "¡Hay que llegar rápido a\nla casa!"
+    },
+    {
+      "index": 125,
+      "english": "An ambush... they're trying to\nblock our escape routes!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16276,
+      "_bytes": 55,
+      "translation": "¡Una emboscada... intentan\nbloquear nuestra huida!"
+    },
+    {
+      "index": 126,
+      "english": "We won't be able to get to the\nhouse at this rate.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16332,
+      "_bytes": 50,
+      "translation": "Así no llegaremos nunca a\nla casa."
+    },
+    {
+      "index": 127,
       "english": "Tai, we need to find a place to\nhide for now!",
-      "_offset": 6631,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Tai, busquemos un sitio\ndonde escondernos!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16383,
+      "_bytes": 48,
+      "translation": "Tai, ¡busquemos un sitio\ndonde escondernos!"
     }
   ]
 }

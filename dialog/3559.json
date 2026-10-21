@@ -1,814 +1,971 @@
 {
   "file_id": "3559",
-  "text_count": 101,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 107,
   "dialog": [
     {
       "index": 0,
-      "english": "Kari couldn't possibly be the\neighth child, could she?",
-      "_offset": 4,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "No puede ser que Kari sea el\noctavo Niño Elegido, no?"
+      "english": "I wonder if Kari's recovered\nfrom her cold.",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 7384,
+      "_bytes": 45,
+      "translation": "¿Se habrá curado Kari del\nresfriado?"
     },
     {
       "index": 1,
-      "english": "Let's hurry up and go see Kari.",
-      "_offset": 61,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Venga, vamos a ver a Kari."
+      "english": "On top of that, Kari remembers\nwhat happened four years ago...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7430,
+      "_bytes": 64,
+      "translation": "Y encima, Kari recuerda lo\nque pasó hace cuatro años..."
     },
     {
       "index": 2,
-      "english": "...Yeah.",
-      "_offset": 95,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "...Sí."
+      "english": "Kari couldn't possibly be the\neighth child, could she?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7495,
+      "_bytes": 56,
+      "translation": "No puede ser que Kari sea el\noctavo Niño Elegido, ¿no?"
     },
     {
       "index": 3,
-      "english": "By the way, Koromon, there's\nsomething I need to tell you.",
-      "_offset": 104,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Por cierto, Koromon, tengo que\ndecirte una cosa."
+      "english": "Let's hurry up and go see Kari.",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 7552,
+      "_bytes": 33,
+      "translation": "Venga, vamos a ver a Kari."
     },
     {
       "index": 4,
-      "english": "What is it, Tai?",
-      "_offset": 163,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Qué pasa, Tai?"
+      "english": "...Yeah.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7586,
+      "_bytes": 8,
+      "translation": "...Sí."
     },
     {
       "index": 5,
-      "english": "From now on, you're a doll. I\nmean, you have to pretend to be a\ndoll!",
-      "_offset": 183,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Desde ahora eres un muñeco.\nBueno, finge ser un muñeco!"
+      "english": "By the way, Koromon, there's\nsomething I need to tell you.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7595,
+      "_bytes": 58,
+      "translation": "Por cierto, Koromon, tengo que\ndecirte una cosa."
     },
     {
       "index": 6,
-      "english": "A doll...?",
-      "_offset": 253,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Muñeco...?"
+      "english": "What is it, Tai?",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 7654,
+      "_bytes": 19,
+      "translation": "¿Qué pasa, Tai?"
     },
     {
       "index": 7,
-      "english": "Uh, I mean... you can't talk, and\nyou can't move around in front of\npeople!",
-      "_offset": 264,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "Bueno, digo... no puedes hablar,\nni moverte delante de la gente!"
+      "english": "From now on, you're a doll. I\nmean, you have to pretend to be a\ndoll!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7674,
+      "_bytes": 69,
+      "translation": "Desde ahora eres un muñeco.\n¡Bueno, finge ser un muñeco!"
     },
     {
       "index": 8,
-      "english": "Got it! I'm a doll, I'm a doll!",
-      "_offset": 340,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Vale! Soy un muñeco, un muñeco!"
+      "english": "A doll...?",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 7744,
+      "_bytes": 10,
+      "translation": "¿Muñeco...?"
     },
     {
       "index": 9,
-      "english": "I'm worried...",
-      "_offset": 372,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Me preocupa..."
+      "english": "Uh, I mean... you can't talk, and\nyou can't move around in front of\npeople!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7755,
+      "_bytes": 75,
+      "translation": "¡Bueno, digo... no puedes hablar,\nni moverte delante de la gente!"
     },
     {
       "index": 10,
-      "english": "Hm? Is that your house, Tai?",
-      "_offset": 387,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Eh? Es esa tu casa, Tai?"
+      "english": "Got it! I'm a doll, I'm a doll!",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 7831,
+      "_bytes": 31,
+      "translation": "¡Vale! ¡Soy un muñeco, un muñeco!"
     },
     {
       "index": 11,
-      "english": "No, mine's on the other side... I\ngot a little too nervous.",
-      "_offset": 419,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "No, la mía está al otro lado...\nMe puse un poco nervioso."
+      "english": "I'm worried...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7863,
+      "_bytes": 14,
+      "translation": "Me preocupa..."
     },
     {
       "index": 12,
-      "english": "I mean, it's *my* house, but...\nwell, let's go!",
-      "_offset": 481,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Bueno, sí que es mi casa,\npero... vamos!"
+      "english": "Hm? Is that your house, Tai?",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 7878,
+      "_bytes": 31,
+      "translation": "¿Eh? ¿Es esa tu casa, Tai?"
     },
     {
       "index": 13,
-      "english": "Wow, Tai, your house is big!",
-      "_offset": 529,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Vaya, Tai, tu casa es enorme!"
+      "english": "No, mine's on the other side... I\ngot a little too nervous.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7910,
+      "_bytes": 59,
+      "translation": "No, la mía está al otro lado...\nMe puse un poco nervioso."
     },
     {
       "index": 14,
-      "english": "No, no, my house isn't the\nwhole... well, whatever.",
-      "_offset": 561,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "No, no, mi casa no es todo\neso... bueno, da igual."
+      "english": "?",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 7970,
+      "_bytes": 1,
+      "translation": "?"
     },
     {
       "index": 15,
-      "english": "(This is the second time we're\ncome back here, but...)",
-      "_offset": 613,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "(Es la segunda vez que\nvolvemos aquí, pero...)"
+      "english": "I mean, it's *my* house, but...\nwell, let's go!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7972,
+      "_bytes": 47,
+      "translation": "¡Bueno, sí que es mi casa,\npero... vamos!"
     },
     {
       "index": 16,
-      "english": "(I wonder if Kari and Mom and\nDad are here, like they should\nbe...)",
-      "_offset": 668,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "(Me pregunto si Kari, mamá y\npapá estarán aquí, como\ndeberían...)"
+      "english": "Wow, Tai, your house is big!",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 8020,
+      "_bytes": 31,
+      "translation": "¡Vaya, Tai, tu casa es enorme!"
     },
     {
       "index": 17,
-      "english": "(Why am I so worried about this?)",
-      "_offset": 738,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "(Por qué me preocupa tanto?)"
+      "english": "No, no, my house isn't the\nwhole... well, whatever.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8052,
+      "_bytes": 51,
+      "translation": "No, no, mi casa no es todo\neso... bueno, da igual."
     },
     {
       "index": 18,
-      "english": "Ah, Tai, are you back from\nsummer camp?",
-      "_offset": 772,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Ah, Tai, ya has vuelto del\ncampamento?"
+      "english": "(This is the second time we're\ncome back here, but...)",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8104,
+      "_bytes": 54,
+      "translation": "(Es la segunda vez que\nvolvemos aquí, pero...)"
     },
     {
       "index": 19,
-      "english": "Y-yeah! They sent us home early\nbecause of abnormal weather, you\nknow.",
-      "_offset": 815,
-      "_length": 70,
-      "speaker_id": 0,
-      "translation": "S-sí! Nos mandaron a casa antes\npor culpa del tiempo tan raro."
+      "english": "(I wonder if Kari and Mom and\nDad are here, like they should\nbe...)",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8159,
+      "_bytes": 69,
+      "translation": "(Me pregunto si Kari, mamá y\npapá estarán aquí, como\ndeberían...)"
     },
     {
       "index": 20,
-      "english": "Speaking of which, the news said\nthat there was a sudden snowstorm.",
-      "_offset": 886,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Por cierto, las noticias\ndijeron que hubo una ventisca\nde repente."
+      "english": "(Why am I so worried about this?)",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8229,
+      "_bytes": 33,
+      "translation": "(¿Por qué me preocupa tanto?)"
     },
     {
       "index": 21,
-      "english": "A snowstorm!? Was it Frigimon!?",
-      "_offset": 954,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Una ventisca!? Sería Frigimon!?"
+      "english": "Ah, Tai, are you back from\nsummer camp?",
+      "speaker_id": 6391,
+      "line_type": 2,
+      "_offset": 8263,
+      "_bytes": 42,
+      "translation": "Ah, Tai, ¿ya has vuelto del\ncampamento?"
     },
     {
       "index": 22,
-      "english": "Aaaack! Y-you idiot!",
-      "_offset": 989,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Aaay! I-idiota!"
+      "english": "Y-yeah! They sent us home early\nbecause of abnormal weather, you\nknow.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8306,
+      "_bytes": 70,
+      "translation": "¡S-sí! Nos mandaron a casa antes\npor culpa del tiempo tan raro."
     },
     {
       "index": 23,
-      "english": "Hey, Tai! Ah! What are you\ndoing!? *mfffghghhhgg*",
-      "_offset": 1010,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Oye, Tai! Ah! Qué haces!?\nMfffghghhhgg"
+      "english": "Speaking of which, the news said\nthat there was a sudden snowstorm.",
+      "speaker_id": 6391,
+      "line_type": 2,
+      "_offset": 8377,
+      "_bytes": 67,
+      "translation": "Por cierto, las noticias\ndijeron que hubo una ventisca\nde repente."
     },
     {
       "index": 24,
-      "english": "I keep telling you not to move!",
-      "_offset": 1063,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Que no te muevas, te digo!"
+      "english": "A snowstorm!? Was it Frigimon!?",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 8445,
+      "_bytes": 34,
+      "translation": "¿¡Una ventisca!? ¿¡Sería Frigimon!?"
     },
     {
       "index": 25,
-      "english": "Was that... a doll, just now?",
-      "_offset": 1100,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Eso ha sido... un muñeco?"
+      "english": "Aaaack! Y-you idiot!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8480,
+      "_bytes": 20,
+      "translation": "¡Aaay! ¡I-idiota!"
     },
     {
       "index": 26,
-      "english": "Isn't it amazing? It records stuff\nand plays it back.",
-      "_offset": 1130,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Increíble, no? Graba cosas\ny las reproduce."
+      "english": "Hey, Tai! Ah! What are you\ndoing!? *mfffghghhhgg*",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 8501,
+      "_bytes": 52,
+      "translation": "¡Oye, Tai! ¡Ah! ¿¡Qué haces!?\nMfffghghhhgg"
     },
     {
       "index": 27,
-      "english": "It's a souvenir for Kari.",
-      "_offset": 1184,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Es un recuerdo para Kari."
+      "english": "I keep telling you not to move!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8554,
+      "_bytes": 31,
+      "translation": "¡Que no te muevas, te digo!"
     },
     {
       "index": 28,
-      "english": "Ah, for Kari.",
-      "_offset": 1212,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Ah, para Kari."
+      "english": "...?",
+      "speaker_id": 6391,
+      "line_type": 2,
+      "_offset": 8586,
+      "_bytes": 4,
+      "translation": "...?"
     },
     {
       "index": 29,
-      "english": "Yeah, it's impossible for a doll\nto talk...",
-      "_offset": 1228,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Ya, es imposible que un\nmuñeco hable..."
+      "english": "Was that... a doll, just now?",
+      "speaker_id": 6391,
+      "line_type": 2,
+      "_offset": 8591,
+      "_bytes": 29,
+      "translation": "¿Eso ha sido... un muñeco?"
     },
     {
       "index": 30,
-      "english": "Yeah, yeah! Ahahaha...",
-      "_offset": 1272,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Ya, ya! Jajaja..."
+      "english": "Isn't it amazing? It records stuff\nand plays it back.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8621,
+      "_bytes": 53,
+      "translation": "Increíble, ¿no? Graba cosas\ny las reproduce."
     },
     {
       "index": 31,
-      "english": "It's hoooooot. It's been so hot\nlately...",
-      "_offset": 1295,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Qué calooor. Hace tanto\ncalor últimamente"
+      "english": "It's a souvenir for Kari.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8675,
+      "_bytes": 27,
+      "translation": "Es un recuerdo para Kari."
     },
     {
       "index": 32,
-      "english": "I mean, it's summer, isn't it?",
-      "_offset": 1337,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Bueno, es verano, no?"
+      "english": "Ah, for Kari.",
+      "speaker_id": 6391,
+      "line_type": 2,
+      "_offset": 8703,
+      "_bytes": 15,
+      "translation": "Ah, para Kari."
     },
     {
       "index": 33,
-      "english": "Yeah, but it's way too hot, more\nso than usual.",
-      "_offset": 1368,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Ya, pero hace muchísimo más\ncalor de lo normal."
+      "english": "Yeah, it's impossible for a doll\nto talk...",
+      "speaker_id": 6391,
+      "line_type": 2,
+      "_offset": 8719,
+      "_bytes": 43,
+      "translation": "Ya, es imposible que un\nmuñeco hable..."
     },
     {
       "index": 34,
-      "english": "Hot!? Is it because of Meramon?",
-      "_offset": 1416,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Calor!? Será por Meramon?"
+      "english": "Yeah, yeah! Ahahaha...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8763,
+      "_bytes": 22,
+      "translation": "¡Ya, ya! Jajaja..."
     },
     {
       "index": 35,
-      "english": "Agh, you idiot! Be quiet!",
-      "_offset": 1448,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Ay, idiota! Cállate!"
+      "english": "It's hoooooot. It's been so hot\nlately...",
+      "speaker_id": 6381,
+      "line_type": 2,
+      "_offset": 8786,
+      "_bytes": 41,
+      "translation": "Qué calooor. Hace tanto\ncalor últimamente..."
     },
     {
       "index": 36,
-      "english": "*mffffghghf*",
-      "_offset": 1474,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Mffffghghf"
+      "english": "I mean, it's summer, isn't it?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8828,
+      "_bytes": 30,
+      "translation": "Bueno, es verano, ¿no?"
     },
     {
       "index": 37,
-      "english": "Hm?",
-      "_offset": 1487,
-      "_length": 3,
-      "speaker_id": 0,
-      "translation": "Eh?"
+      "english": "Yeah, but it's way too hot, more\nso than usual.",
+      "speaker_id": 6381,
+      "line_type": 2,
+      "_offset": 8859,
+      "_bytes": 47,
+      "translation": "Ya, pero hace muchísimo más\ncalor de lo normal."
     },
     {
       "index": 38,
-      "english": "Did that doll just... move?",
-      "_offset": 1491,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Se ha movido... el muñeco?"
+      "english": "Hot!? Is it because of Meramon?",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 8907,
+      "_bytes": 31,
+      "translation": "¿¡Calor!? ¿Será por Meramon?"
     },
     {
       "index": 39,
-      "english": "It couldn't have. Of course not...",
-      "_offset": 1527,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "No puede ser. Claro que no..."
+      "english": "Agh, you idiot! Be quiet!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8939,
+      "_bytes": 25,
+      "translation": "¡Ay, idiota! ¡Cállate!"
     },
     {
       "index": 40,
-      "english": "Hahaha...",
-      "_offset": 1562,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Jajaja..."
+      "english": "*mffffghghf*",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 8965,
+      "_bytes": 12,
+      "translation": "Mffffghghf"
     },
     {
       "index": 41,
-      "english": "Seriously, though, it's getting\nway too hot. I could have sworn\nI'd just seen a doll moving...",
-      "_offset": 1572,
-      "_length": 94,
-      "speaker_id": 0,
-      "translation": "En serio, hace demasiado\ncalor. Juraría que acabo de\nver moverse a un muñeco..."
+      "english": "Hm?",
+      "speaker_id": 6381,
+      "line_type": 2,
+      "_offset": 8978,
+      "_bytes": 3,
+      "translation": "¿Eh?"
     },
     {
       "index": 42,
-      "english": "*whew*",
-      "_offset": 1667,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Uf..."
+      "english": "Did that doll just... move?",
+      "speaker_id": 6381,
+      "line_type": 2,
+      "_offset": 8982,
+      "_bytes": 27,
+      "translation": "¿Se ha movido... el muñeco?"
     },
     {
       "index": 43,
-      "english": "Ah, Tai!",
-      "_offset": 1674,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Ah, Tai!"
+      "english": "...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9010,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 44,
-      "english": "Hey, what's going on?",
-      "_offset": 1686,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Oye, qué pasa aquí?"
+      "english": "...",
+      "speaker_id": 6381,
+      "line_type": 2,
+      "_offset": 9014,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 45,
-      "english": "The weather's been kind of\nstrange, hasn't it? It gets hot,\nand then suddenly it gets cold...",
-      "_offset": 1708,
-      "_length": 93,
-      "speaker_id": 0,
-      "translation": "El tiempo está muy raro,\nno? Hace calor y de repente\nse pone frío..."
+      "english": "It couldn't have. Of course not...",
+      "speaker_id": 6381,
+      "line_type": 2,
+      "_offset": 9018,
+      "_bytes": 34,
+      "translation": "No puede ser. Claro que no..."
     },
     {
       "index": 46,
-      "english": "I know, right? I just got back\nfrom summer camp... because there\nwas a snowstorm.",
-      "_offset": 1802,
-      "_length": 81,
-      "speaker_id": 0,
-      "translation": "Ya ves. Acabo de volver del\ncampamento... por una\nventisca."
+      "english": "Hahaha...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9053,
+      "_bytes": 9,
+      "translation": "Jajaja..."
     },
     {
       "index": 47,
-      "english": "That's really bad!",
-      "_offset": 1884,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Eso es muy grave!"
+      "english": "Seriously, though, it's getting\nway too hot. I could have sworn\nI'd just seen a doll moving...",
+      "speaker_id": 6381,
+      "line_type": 2,
+      "_offset": 9063,
+      "_bytes": 94,
+      "translation": "En serio, hace demasiado\ncalor. Juraría que acabo de\nver moverse a un muñeco..."
     },
     {
       "index": 48,
-      "english": "Why?",
-      "_offset": 1903,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Por?"
+      "english": "*whew*",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9158,
+      "_bytes": 6,
+      "translation": "Uf..."
     },
     {
       "index": 49,
-      "english": "I have to observe morning glories\nfor school! They're going to wilt!",
-      "_offset": 1908,
-      "_length": 68,
-      "speaker_id": 0,
-      "translation": "Tengo que vigilar las\ncampanillas del cole! Se van\na marchitar!"
+      "english": "Ah, Tai!",
+      "speaker_id": 6371,
+      "line_type": 2,
+      "_offset": 9165,
+      "_bytes": 11,
+      "translation": "¡Ah, Tai!"
     },
     {
       "index": 50,
-      "english": "This is a real problem!",
-      "_offset": 1977,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Esto sí que es un lío!"
+      "english": "Hey, what's going on?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9177,
+      "_bytes": 21,
+      "translation": "Oye, ¿qué pasa aquí?"
     },
     {
       "index": 51,
-      "english": "A problem!? Like a Digimon?",
-      "_offset": 2001,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Un lío!? Como un Digimon?"
+      "english": "The weather's been kind of\nstrange, hasn't it? It gets hot,\nand then suddenly it gets cold...",
+      "speaker_id": 6371,
+      "line_type": 2,
+      "_offset": 9199,
+      "_bytes": 93,
+      "translation": "El tiempo está muy raro,\n¿no? Hace calor y de repente\nse pone frío..."
     },
     {
       "index": 52,
-      "english": "Aaaaargh! I told you not to talk!",
-      "_offset": 2029,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Aaaargh! Que no hables, te dije!"
+      "english": "I know, right? I just got back\nfrom summer camp... because there\nwas a snowstorm.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9293,
+      "_bytes": 81,
+      "translation": "Ya ves. Acabo de volver del\ncampamento... por una\nventisca."
     },
     {
       "index": 53,
-      "english": "The doll! It talked!",
-      "_offset": 2063,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "El muñeco habló!"
+      "english": "That's really bad!",
+      "speaker_id": 6371,
+      "line_type": 2,
+      "_offset": 9375,
+      "_bytes": 18,
+      "translation": "¡Eso es muy grave!"
     },
     {
       "index": 54,
-      "english": "No, you're wrong.",
-      "_offset": 2084,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "No, te equivocas."
+      "english": "Why?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9394,
+      "_bytes": 4,
+      "translation": "¿Por?"
     },
     {
       "index": 55,
-      "english": "What am I wrong about?",
-      "_offset": 2102,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "En qué me equivoco?"
+      "english": "I have to observe morning glories\nfor school! They're going to wilt!",
+      "speaker_id": 6371,
+      "line_type": 2,
+      "_offset": 9399,
+      "_bytes": 68,
+      "translation": "¡Tengo que vigilar las\ncampanillas del cole! ¡Se van\na marchitar!"
     },
     {
       "index": 56,
-      "english": "WE ARE EARTHLINGS... see, *I've*\nbeen talking.",
-      "_offset": 2125,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "SOMOS TERRÍCOLAS... mira,\nhablaba yo."
+      "english": "This is a real problem!",
+      "speaker_id": 6371,
+      "line_type": 2,
+      "_offset": 9468,
+      "_bytes": 23,
+      "translation": "¡Esto sí que es un lío!"
     },
     {
       "index": 57,
-      "english": "Hmm, are you sure about that?\nWell, whatever!",
-      "_offset": 2172,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Mmm, seguro que es así?\nBueno, da igual!"
+      "english": "A problem!? Like a Digimon?",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 9492,
+      "_bytes": 27,
+      "translation": "¿¡Un lío!? ¿Como un Digimon?"
     },
     {
       "index": 58,
-      "english": "I haven't been able to catch any\nbugs lately.",
-      "_offset": 2218,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "No he podido cazar ningún\nbicho últimamente."
+      "english": "Aaaaargh! I told you not to talk!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9520,
+      "_bytes": 33,
+      "translation": "¡Aaaargh! ¡Que no hables, te dije!"
     },
     {
       "index": 59,
-      "english": "No dragonflies or grasshoppers or\nstag beetles...",
-      "_offset": 2264,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Ni libélulas, saltamontes,\nni ciervos volantes..."
+      "english": "The doll! It talked!",
+      "speaker_id": 6371,
+      "line_type": 2,
+      "_offset": 9554,
+      "_bytes": 20,
+      "translation": "¡El muñeco habló!"
     },
     {
       "index": 60,
-      "english": "Stag beetles!? Like Kuwagamon?",
-      "_offset": 2314,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Ciervos volantes!?\nKuwagamon?"
+      "english": "No, you're wrong.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9575,
+      "_bytes": 17,
+      "translation": "No, te equivocas."
     },
     {
       "index": 61,
-      "english": "Agh, I told you not to talk!",
-      "_offset": 2345,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Ay, que no hables, te dije!"
+      "english": "What am I wrong about?",
+      "speaker_id": 6371,
+      "line_type": 2,
+      "_offset": 9593,
+      "_bytes": 22,
+      "translation": "¿En qué me equivoco?"
     },
     {
       "index": 62,
-      "english": "...or rhinoceros beetles or\nwalking sticks or drone beetles...",
-      "_offset": 2374,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "...ni escarabajos rinoceronte,\ninsectos palo, ni abejorros..."
+      "english": "WE ARE EARTHLINGS... see, *I've*\nbeen talking.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9616,
+      "_bytes": 46,
+      "translation": "SOMOS TERRÍCOLAS... mira,\nhablaba yo."
     },
     {
       "index": 63,
-      "english": "(Thank goodness. Seems like he\ndidn't hear.)",
-      "_offset": 2437,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "(Menos mal. Parece que no\nlo ha oído.)"
+      "english": "Hmm, are you sure about that?\nWell, whatever!",
+      "speaker_id": 6371,
+      "line_type": 2,
+      "_offset": 9663,
+      "_bytes": 45,
+      "translation": "Mmm, ¿seguro que es así?\n¡Bueno, da igual!"
     },
     {
       "index": 64,
-      "english": "I'm home!",
-      "_offset": 2482,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Ya estoy!"
+      "english": "I haven't been able to catch any\nbugs lately.",
+      "speaker_id": 6361,
+      "line_type": 2,
+      "_offset": 9709,
+      "_bytes": 45,
+      "translation": "No he podido cazar ningún\nbicho últimamente."
     },
     {
       "index": 65,
-      "english": "Tai? What happened? Weren't you\nat camp?",
-      "_offset": 2492,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Tai? Qué pasó? No estabas\nde campamento?"
+      "english": "No dragonflies or grasshoppers or\nstag beetles...",
+      "speaker_id": 6361,
+      "line_type": 2,
+      "_offset": 9755,
+      "_bytes": 49,
+      "translation": "Ni libélulas, saltamontes,\nni ciervos volantes..."
     },
     {
       "index": 66,
-      "english": "Y-yeah! They cancelled it because\nof the snow.",
-      "_offset": 2536,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "S-sí! Lo cancelaron por\nla nieve."
+      "english": "Stag beetles!? Like Kuwagamon?",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 9805,
+      "_bytes": 30,
+      "translation": "¿¡Ciervos volantes!? ¿Kuwagamon?"
     },
     {
       "index": 67,
-      "english": "Snow? What's been going on with\nall this weird weather lately...\nand what's that?",
-      "_offset": 2583,
-      "_length": 81,
-      "speaker_id": 0,
-      "translation": "Nieve? Qué está pasando con\neste tiempo tan raro...\ny eso qué es?"
+      "english": "Agh, I told you not to talk!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9836,
+      "_bytes": 28,
+      "translation": "¡Ay, que no hables, te dije!"
     },
     {
       "index": 68,
-      "english": "Oh, this? It's a souvenir for\nKari.",
-      "_offset": 2665,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Ah, esto? Es un recuerdo\npara Kari."
+      "english": "...or rhinoceros beetles or\nwalking sticks or drone beetles...",
+      "speaker_id": 6361,
+      "line_type": 2,
+      "_offset": 9865,
+      "_bytes": 62,
+      "translation": "...ni escarabajos rinoceronte,\ninsectos palo, ni abejorros..."
     },
     {
       "index": 69,
-      "english": "Oh? You really do care about your\nsister.",
-      "_offset": 2703,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Ah, sí? Sí que quieres a tu\nhermana."
+      "english": "(Thank goodness. Seems like he\ndidn't hear.)",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9928,
+      "_bytes": 44,
+      "translation": "(Menos mal. Parece que no\nlo ha oído.)"
     },
     {
       "index": 70,
-      "english": "T-Tai?",
-      "_offset": 2745,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "T-Tai?"
+      "english": "I'm home!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9973,
+      "_bytes": 9,
+      "translation": "¡Ya estoy!"
     },
     {
       "index": 71,
-      "english": "Moooooooooooom!",
-      "_offset": 2755,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Mamáaaaaaaaaa!"
+      "english": "Tai? What happened? Weren't you\nat camp?",
+      "speaker_id": 6101,
+      "line_type": 2,
+      "_offset": 9983,
+      "_bytes": 43,
+      "translation": "¿Tai? ¿Qué pasó? ¿No estabas\nde campamento?"
     },
     {
       "index": 72,
-      "english": "W-what's this all of a sudden?",
-      "_offset": 2771,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Q-qué pasa tan de repente?"
+      "english": "Y-yeah! They cancelled it because\nof the snow.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10027,
+      "_bytes": 46,
+      "translation": "¡S-sí! Lo cancelaron por\nla nieve."
     },
     {
       "index": 73,
-      "english": "What's wrong?",
-      "_offset": 2802,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Qué pasa?"
+      "english": "Snow? What's been going on with\nall this weird weather lately...\nand what's that?",
+      "speaker_id": 6101,
+      "line_type": 2,
+      "_offset": 10074,
+      "_bytes": 81,
+      "translation": "¿Nieve? ¿Qué está pasando con\neste tiempo tan raro...\ny eso qué es?"
     },
     {
       "index": 74,
-      "english": "Daaaaaaaaaaaaaad!",
-      "_offset": 2816,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Papáaaaaaaaaaa!"
+      "english": "Oh, this? It's a souvenir for\nKari.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10156,
+      "_bytes": 37,
+      "translation": "Ah, ¿esto? Es un recuerdo\npara Kari."
     },
     {
       "index": 75,
-      "english": "Why were you crying just now?",
-      "_offset": 2834,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Por qué llorabas ahora?"
+      "english": "Oh? You really do care about your\nsister.",
+      "speaker_id": 6101,
+      "line_type": 2,
+      "_offset": 10194,
+      "_bytes": 41,
+      "translation": "Ah, ¿sí? Sí que quieres a tu\nhermana."
     },
     {
       "index": 76,
-      "english": "Don't ask me that!",
-      "_offset": 2864,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "No preguntes eso!"
+      "english": "T-Tai?",
+      "speaker_id": 6101,
+      "line_type": 2,
+      "_offset": 10236,
+      "_bytes": 9,
+      "translation": "¿T-Tai?"
     },
     {
       "index": 77,
-      "english": "Tai!",
-      "_offset": 2883,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Tai!"
+      "english": "Moooooooooooom!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10246,
+      "_bytes": 15,
+      "translation": "¡Mamáaaaaaaaaa!"
     },
     {
       "index": 78,
-      "english": "Kari...!",
-      "_offset": 2891,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Kari...!"
+      "english": "W-what's this all of a sudden?",
+      "speaker_id": 6101,
+      "line_type": 2,
+      "_offset": 10262,
+      "_bytes": 30,
+      "translation": "¿Q-qué pasa tan de repente?"
     },
     {
       "index": 79,
-      "english": "Tai... did you finish what you\nhad to do?",
-      "_offset": 2902,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Tai... terminaste lo que\ntenías que hacer?"
+      "english": "What's wrong?",
+      "speaker_id": 6091,
+      "line_type": 2,
+      "_offset": 10293,
+      "_bytes": 13,
+      "translation": "¿Qué pasa?"
     },
     {
       "index": 80,
-      "english": "No, there's still more to be done.\nAnyway, Kari, about the incident \nat Karigaoka four years ago...",
-      "_offset": 2947,
-      "_length": 103,
-      "speaker_id": 0,
-      "translation": "No, todavía queda trabajo.\nOye, Kari, sobre lo que pasó\nen Hikarioka hace cuatro años"
+      "english": "Daaaaaaaaaaaaaad!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10307,
+      "_bytes": 17,
+      "translation": "¡Papáaaaaaaaaaa!"
     },
     {
       "index": 81,
-      "english": "Do you still remember it?",
-      "_offset": 3051,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Todavía te acuerdas?"
+      "english": "Why were you crying just now?",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 10325,
+      "_bytes": 29,
+      "translation": "¿Por qué llorabas ahora?"
     },
     {
       "index": 82,
-      "english": "Koromon got big and fought with a\nhuge bird, right?",
-      "_offset": 3077,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Koromon creció y luchó contra\nun pájaro enorme, no?"
+      "english": "Don't ask me that!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10355,
+      "_bytes": 18,
+      "translation": "¡No preguntes eso!"
     },
     {
       "index": 83,
-      "english": "Yeah.",
-      "_offset": 3129,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí."
+      "english": "Tai!",
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 10374,
+      "_bytes": 7,
+      "translation": "¡Tai!"
     },
     {
       "index": 84,
-      "english": "Did you forget, Tai?",
-      "_offset": 3135,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Lo olvidaste, Tai?"
+      "english": "Kari...!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10382,
+      "_bytes": 10,
+      "translation": "¡Kari...!"
     },
     {
       "index": 85,
-      "english": "Y-yeah...",
-      "_offset": 3159,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "S-sí..."
+      "english": "Tai... did you finish what you\nhad to do?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10393,
+      "_bytes": 44,
+      "translation": "Tai... ¿terminaste lo que\ntenías que hacer?"
     },
     {
       "index": 86,
-      "english": "Hey, Kari. Do you have a\nDigivice, by any chance?",
-      "_offset": 3169,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Oye, Kari. No tendrás un\nDigivice, por casualidad?"
+      "english": "No, there's still more to be done.\nAnyway, Kari, about the incident \nat Karigaoka four years ago...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10438,
+      "_bytes": 103,
+      "translation": "No, todavía queda trabajo.\nOye, Kari, sobre lo que pasó\nen Hikarioka hace cuatro años..."
     },
     {
       "index": 87,
-      "english": "A Digivice?",
-      "_offset": 3221,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Digivice?"
+      "english": "Do you still remember it?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10542,
+      "_bytes": 25,
+      "translation": "¿Todavía te acuerdas?"
     },
     {
       "index": 88,
-      "english": "A Digivice?",
-      "_offset": 3233,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Digivice?"
+      "english": "Koromon got big and fought with a\nhuge bird, right?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10568,
+      "_bytes": 51,
+      "translation": "Koromon creció y luchó contra\nun pájaro enorme, ¿no?"
     },
     {
       "index": 89,
-      "english": "Like this.",
-      "_offset": 3245,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Como esto."
+      "english": "Yeah.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10620,
+      "_bytes": 5,
+      "translation": "Sí."
     },
     {
       "index": 90,
-      "english": "I don't have one.",
-      "_offset": 3256,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "No tengo ninguno."
+      "english": "Did you forget, Tai?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10626,
+      "_bytes": 23,
+      "translation": "¿Lo olvidaste, Tai?"
     },
     {
       "index": 91,
-      "english": "You don't... yeah, of course you\ndon't.",
-      "_offset": 3274,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "No tienes... ya, claro que\nno tienes."
+      "english": "Y-yeah...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10650,
+      "_bytes": 9,
+      "translation": "S-sí..."
     },
     {
       "index": 92,
-      "english": "Tai, I'm sleepy...",
-      "_offset": 3314,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Tai, tengo sueño..."
+      "english": "Hey, Kari. Do you have a\nDigivice, by any chance?",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 10660,
+      "_bytes": 51,
+      "translation": "Oye, Kari. ¿No tendrás un\nDigivice, por casualidad?"
     },
     {
       "index": 93,
-      "english": "Yeah, why don't we get some sleep?",
-      "_offset": 3336,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Ya, por qué no dormimos ya?"
+      "english": "A Digivice?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10712,
+      "_bytes": 11,
+      "translation": "¿Un Digivice?"
     },
     {
       "index": 94,
-      "english": "By the way, Tai, have you seen\nMiko?",
-      "_offset": 3371,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Por cierto, Tai, has visto\na Miko?"
+      "english": "A Digivice?",
+      "speaker_id": 8011,
+      "line_type": 4,
+      "_offset": 10724,
+      "_bytes": 11,
+      "translation": "¿Digivice?"
     },
     {
       "index": 95,
-      "english": "I haven't. Wasn't Miko playing\noutside?",
-      "_offset": 3411,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "No. No estaba Miko jugando\nfuera?"
+      "english": "Like this.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10736,
+      "_bytes": 10,
+      "translation": "Como esto."
     },
     {
       "index": 96,
-      "english": "Miko? What's Miko?",
-      "_offset": 3451,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Miko? Qué es Miko?"
+      "english": "I don't have one.",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10747,
+      "_bytes": 17,
+      "translation": "No tengo ninguno."
     },
     {
       "index": 97,
-      "english": "Our cat.",
-      "_offset": 3470,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "La gata."
+      "english": "You don't... yeah, of course you\ndon't.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10765,
+      "_bytes": 39,
+      "translation": "No tienes... ya, claro que\nno tienes."
     },
     {
       "index": 98,
-      "english": "Cat? What's a cat?",
-      "_offset": 3479,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Gata? Qué es eso?"
+      "english": "Tai, I'm sleepy...",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 10805,
+      "_bytes": 21,
+      "translation": "Tai, tengo sueño..."
     },
     {
       "index": 99,
-      "english": "I'll show you sometime. Come on,\nlet's go to bed.",
-      "_offset": 3498,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Ya te la enseñaré. Venga,\na dormir."
+      "english": "Yeah, why don't we get some sleep?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10827,
+      "_bytes": 34,
+      "translation": "Ya, ¿por qué no dormimos ya?"
     },
     {
       "index": 100,
+      "english": "By the way, Tai, have you seen\nMiko?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10862,
+      "_bytes": 39,
+      "translation": "Por cierto, Tai, ¿has visto\na Miko?"
+    },
+    {
+      "index": 101,
+      "english": "I haven't. Wasn't Miko playing\noutside?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10902,
+      "_bytes": 39,
+      "translation": "No. ¿No estaba Miko jugando\nfuera?"
+    },
+    {
+      "index": 102,
+      "english": "Miko? What's Miko?",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 10942,
+      "_bytes": 18,
+      "translation": "¿Miko? ¿Qué es Miko?"
+    },
+    {
+      "index": 103,
+      "english": "Our cat.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10961,
+      "_bytes": 8,
+      "translation": "La gata."
+    },
+    {
+      "index": 104,
+      "english": "Cat? What's a cat?",
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 10970,
+      "_bytes": 18,
+      "translation": "¿Gata? ¿Qué es eso?"
+    },
+    {
+      "index": 105,
+      "english": "I'll show you sometime. Come on,\nlet's go to bed.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10989,
+      "_bytes": 49,
+      "translation": "Ya te la enseñaré. Venga,\na dormir."
+    },
+    {
+      "index": 106,
       "english": "I wonder where Miko went...",
-      "_offset": 3548,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Dónde estará Miko..."
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11039,
+      "_bytes": 27,
+      "translation": "¿Dónde estará Miko...?"
     }
   ]
 }

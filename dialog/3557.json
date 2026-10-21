@@ -1,942 +1,1061 @@
 {
   "file_id": "3557",
+  "format": "etdf",
+  "kind": "ETDF",
   "text_count": 117,
   "dialog": [
     {
       "index": 0,
-      "english": "��������We made it to Karigaoka in one\npiece.",
-      "_offset": 2167,
-      "_length": 47,
-      "speaker_id": 0,
+      "english": "We made it to Karigaoka in one\npiece.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11064,
+      "_bytes": 39,
       "translation": "Hemos llegado a Hikarioka de\nuna pieza."
     },
     {
       "index": 1,
       "english": "Good thing the bus dropped us off\nhere.",
-      "_offset": 2215,
-      "_length": 39,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 11104,
+      "_bytes": 39,
       "translation": "Menos mal que el bus nos ha\ndejado aquí."
     },
     {
       "index": 2,
       "english": "Matt, T.K, that was an\namazing performance!",
-      "_offset": 2255,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Matt, T.K., vaya actuación\nmás convincente!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11144,
+      "_bytes": 48,
+      "translation": "Matt, T.K., ¡vaya actuación\nmás convincente!"
     },
     {
       "index": 3,
       "english": "\"It was the last place we could be\nhappy together before our parents\ndivorced...\"",
-      "_offset": 2304,
-      "_length": 81,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 11193,
+      "_bytes": 81,
       "translation": "\"Fue el último sitio donde fuimos\nfelices juntos antes de que\nse divorciaran...\""
     },
     {
       "index": 4,
       "english": "Even I totally believed it!",
-      "_offset": 2386,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Hasta yo me lo he creído!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 11275,
+      "_bytes": 27,
+      "translation": "¡Hasta yo me lo he creído!"
     },
     {
       "index": 5,
       "english": "But the camp bus wouldn't drop us\noff here unless we said that.",
-      "_offset": 2414,
-      "_length": 63,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 11303,
+      "_bytes": 63,
       "translation": "Pero el bus no nos dejaba\naquí sin decir eso."
     },
     {
       "index": 6,
       "english": "The Karigaoka apartment complex\nis huge! It's like a castle!",
-      "_offset": 2478,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "El bloque de Hikarioka es\nenorme! Parece un castillo!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 11367,
+      "_bytes": 62,
+      "translation": "¡El bloque de Hikarioka es\nenorme! ¡Parece un castillo!"
     },
     {
       "index": 7,
       "english": "It's not a castle. All kinds of\ndifferent people live separately\nin those apartments.",
-      "_offset": 2541,
-      "_length": 85,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11430,
+      "_bytes": 85,
       "translation": "No es un castillo. Viven\npersonas distintas por separado\nen esos apartamentos."
     },
     {
       "index": 8,
       "english": "Huuuuuuh?!",
-      "_offset": 2627,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Ehhhhhh?!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 11516,
+      "_bytes": 10,
+      "translation": "¡¿Ehhhhhh?!"
     },
     {
       "index": 9,
       "english": "Humans are so interesting!",
-      "_offset": 2638,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Sois muy interesantes!"
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 11527,
+      "_bytes": 26,
+      "translation": "¡Sois muy interesantes!"
     },
     {
       "index": 10,
       "english": "Did you live in Karigaoka too,\nSora?",
-      "_offset": 2665,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Tú también vivías en\nHikarioka, Sora?"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 11554,
+      "_bytes": 38,
+      "translation": "¿Tú también vivías en\nHikarioka, Sora?"
     },
     {
       "index": 11,
       "english": "Yeah.",
-      "_offset": 2704,
-      "_length": 5,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11593,
+      "_bytes": 5,
       "translation": "Sí."
     },
     {
       "index": 12,
       "english": "Sora and I were in the same class.\nThird Elementary School, class\n1-2!",
-      "_offset": 2710,
-      "_length": 70,
-      "speaker_id": 0,
-      "translation": "Sora y yo íbamos a la misma\nclase. Colegio Tercero, clase\n1-2!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11599,
+      "_bytes": 70,
+      "translation": "Sora y yo íbamos a la misma\nclase. ¡Colegio Tercero, clase\n1-2!"
     },
     {
       "index": 13,
       "english": "I went to Fourth Elementary.",
-      "_offset": 2781,
-      "_length": 28,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 11670,
+      "_bytes": 28,
       "translation": "Yo iba al Colegio Cuarto."
     },
     {
       "index": 14,
       "english": "I went to Fifth...",
-      "_offset": 2810,
-      "_length": 18,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 11699,
+      "_bytes": 18,
       "translation": "Iba al Quinto..."
     },
     {
       "index": 15,
       "english": "Me too! I was in kindergarten...",
-      "_offset": 2829,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "También! Iba a la guardería..."
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11718,
+      "_bytes": 32,
+      "translation": "¡Yo también! Iba a la guardería..."
     },
     {
       "index": 16,
       "english": "So was I! It was only for a short\ntime, though...",
-      "_offset": 2862,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Yo igual! Aunque fue solo\npor poco tiempo..."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 11751,
+      "_bytes": 49,
+      "translation": "¡Yo igual! Aunque fue solo\npor poco tiempo..."
     },
     {
       "index": 17,
       "english": "Whaaaaaat?",
-      "_offset": 2912,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Quéeeeeé?"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11801,
+      "_bytes": 10,
+      "translation": "¡¿Queeeeeé?!"
     },
     {
       "index": 18,
       "english": "*All* of us lived in Karigaoka?",
-      "_offset": 2923,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "TODOS vivíamos en Hikarioka?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11812,
+      "_bytes": 33,
+      "translation": "¿TODOS vivíamos en Hikarioka?"
     },
     {
       "index": 19,
       "english": "I don't think this is just a\ncoincidence.",
-      "_offset": 2957,
-      "_length": 41,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 11846,
+      "_bytes": 41,
       "translation": "No creo que esto sea\nuna coincidencia."
     },
     {
       "index": 20,
-      "english": "Anyway, back to Vamdemon. He's\nalready made the first move.",
-      "_offset": 2999,
-      "_length": 59,
-      "speaker_id": 0,
+      "english": "Anyway, back to Myotismon. He's\nalready made the first move.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11888,
+      "_bytes": 59,
       "translation": "Bueno, volviendo a Myotismon.\nYa ha dado el primer paso."
     },
     {
       "index": 21,
       "english": "Maybe not...",
-      "_offset": 3059,
-      "_length": 12,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 11948,
+      "_bytes": 12,
       "translation": "Quizá no..."
     },
     {
       "index": 22,
       "english": "What makes you think that,\nIzzy?",
-      "_offset": 3072,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Por qué piensas eso,\nIzzy?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11961,
+      "_bytes": 37,
+      "translation": "¿Por qué piensas eso,\nIzzy?"
     },
     {
       "index": 23,
-      "english": "The flow of time is different\nbetween the two worlds. If\nVamdemon came here...",
-      "_offset": 3110,
-      "_length": 78,
-      "speaker_id": 0,
+      "english": "The flow of time is different\nbetween the two worlds. If\nMyotismon came here...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 11999,
+      "_bytes": 78,
       "translation": "El tiempo pasa distinto entre\nlos dos mundos. Si Myotismon\nvino aquí..."
     },
     {
       "index": 24,
       "english": "...only a minute or so should have\npassed between his arrival and\nours.",
-      "_offset": 3189,
-      "_length": 71,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 12078,
+      "_bytes": 71,
       "translation": "...solo habrá pasado un minuto\nentre su llegada y la\nnuestra."
     },
     {
       "index": 25,
       "english": "Oh!",
-      "_offset": 3261,
-      "_length": 3,
-      "speaker_id": 0,
-      "translation": "Oh!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12150,
+      "_bytes": 3,
+      "translation": "¡Oh!"
     },
     {
       "index": 26,
-      "english": "So if we hurry, we might beat\nVamdemon's army to the eighth\nchild?",
-      "_offset": 3265,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Si nos damos prisa, quizá\nganemos a su ejército por\nel octavo niño?"
+      "english": "So if we hurry, we might beat\nMyotismon's army to the eighth\nchild?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12154,
+      "_bytes": 66,
+      "translation": "Si nos damos prisa, ¿quizá\nlleguemos al octavo niño\nantes que su ejército?"
     },
     {
       "index": 27,
       "english": "Okay, let's look for them!",
-      "_offset": 3332,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Vale, vamos a buscarlo!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12221,
+      "_bytes": 26,
+      "translation": "¡Vale, vamos a buscarlo!"
     },
     {
       "index": 28,
       "english": "PicoDevimon, Tailmon, take this.",
-      "_offset": 3359,
-      "_length": 32,
-      "speaker_id": 0,
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 12248,
+      "_bytes": 32,
       "translation": "DemiDevimon, Gatomon, tomadlo."
     },
     {
       "index": 29,
       "english": "Ah!",
-      "_offset": 3392,
-      "_length": 3,
-      "speaker_id": 0,
-      "translation": "Ah!"
+      "speaker_id": 4221,
+      "line_type": 2,
+      "_offset": 12281,
+      "_bytes": 3,
+      "translation": "¡Ah!"
     },
     {
       "index": 30,
       "english": "Go on! Take it!",
-      "_offset": 3396,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Vamos! Cogedlo!"
+      "speaker_id": 4221,
+      "line_type": 2,
+      "_offset": 12285,
+      "_bytes": 15,
+      "translation": "¡Vamos! ¡Cogedlo!"
     },
     {
       "index": 31,
       "english": "Hmph! So patronizing. What's this?",
-      "_offset": 3412,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Ja! Vaya prepotencia.\nQué es esto?"
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 12301,
+      "_bytes": 34,
+      "translation": "¡Ja! Vaya prepotencia. ¿Qué es esto?"
     },
     {
       "index": 32,
       "english": "It's a copy of the eighth child's\nCrest.",
-      "_offset": 3447,
-      "_length": 40,
-      "speaker_id": 0,
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 12336,
+      "_bytes": 40,
       "translation": "Es una copia del Emblema del\noctavo niño."
     },
     {
       "index": 33,
       "english": "What about the real one?",
-      "_offset": 3488,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Y el auténtico?"
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 12377,
+      "_bytes": 24,
+      "translation": "¿Y el auténtico?"
     },
     {
       "index": 34,
       "english": "It's in my possession. But the\ncopy will still react if the\neighth child is near.",
-      "_offset": 3513,
-      "_length": 81,
-      "speaker_id": 0,
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 12402,
+      "_bytes": 81,
       "translation": "Lo tengo yo. Pero la copia\nreaccionará igual si el octavo\nniño está cerca."
     },
     {
       "index": 35,
       "english": "You must find the eighth child at\nany cost.",
-      "_offset": 3595,
-      "_length": 43,
-      "speaker_id": 0,
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 12484,
+      "_bytes": 43,
       "translation": "Debéis encontrar al octavo niño\ncomo sea."
     },
     {
       "index": 36,
       "english": "Yes, sir!",
-      "_offset": 3639,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Sí señor!"
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 12528,
+      "_bytes": 9,
+      "translation": "¡Sí, señor!"
     },
     {
       "index": 37,
       "english": "Yes, sir!",
-      "_offset": 3649,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Sí señor!"
+      "speaker_id": 4221,
+      "line_type": 2,
+      "_offset": 12538,
+      "_bytes": 9,
+      "translation": "¡Sí, señor!"
     },
     {
       "index": 38,
       "english": "You might not remember it well,\nT.K, but we used to play a lot\naround here.",
-      "_offset": 3659,
-      "_length": 78,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 12548,
+      "_bytes": 78,
       "translation": "Puede que no lo recuerdes bien,\nT.K., pero jugábamos mucho\npor aquí."
     },
     {
       "index": 39,
       "english": "But it still feels pretty\nnostalgic.",
-      "_offset": 3738,
-      "_length": 36,
-      "speaker_id": 0,
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12627,
+      "_bytes": 36,
       "translation": "Pero aun así da bastante\nnostalgia."
     },
     {
       "index": 40,
       "english": "How long did you live here,\nIzzy?",
-      "_offset": 3775,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Cuánto tiempo viviste aquí,\nIzzy?"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12664,
+      "_bytes": 38,
+      "translation": "¿Cuánto tiempo viviste aquí,\nIzzy?"
     },
     {
       "index": 41,
       "english": "I believe it wasn't even a year.",
-      "_offset": 3814,
-      "_length": 32,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 12703,
+      "_bytes": 32,
       "translation": "Creo que no llegó ni a un año."
     },
     {
       "index": 42,
       "english": "Must have been because of that\nterrorist bombing.",
-      "_offset": 3847,
-      "_length": 49,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 12736,
+      "_bytes": 49,
       "translation": "Debió de ser por aquel\natentado terrorista."
     },
     {
       "index": 43,
       "english": "Bombing?",
-      "_offset": 3897,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Bomba?"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12786,
+      "_bytes": 8,
+      "translation": "¿Bomba?"
     },
     {
       "index": 44,
       "english": "Terrorists?",
-      "_offset": 3906,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Terrorista?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 12795,
+      "_bytes": 11,
+      "translation": "¿Terrorista?"
     },
     {
       "index": 45,
       "english": "You guys might not remember this,\nbut there was a terrorist attack\nhere four years ago.",
-      "_offset": 3918,
-      "_length": 87,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 12807,
+      "_bytes": 87,
       "translation": "Puede que no os acordéis, pero\naquí hubo un atentado\nterrorista hace cuatro años."
     },
     {
       "index": 46,
       "english": "They never caught the culprit, so\nmy parents moved away. They\nthought it was too dangerous here.",
-      "_offset": 4006,
-      "_length": 96,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 12895,
+      "_bytes": 96,
       "translation": "Nunca cogieron al culpable, y\nmis padres se mudaron. Creían\nque esto era peligroso."
     },
     {
       "index": 47,
       "english": "Right, it was the same for my\nfamily. They said something about\na bombing.",
-      "_offset": 4103,
-      "_length": 74,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12992,
+      "_bytes": 74,
       "translation": "Es verdad, a mi familia le pasó\nigual. Dijeron algo de un\natentado."
     },
     {
       "index": 48,
       "english": "Come to think of it, I feel like\nsomething similar happened with my\nfolks.",
-      "_offset": 4178,
-      "_length": 74,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13067,
+      "_bytes": 74,
       "translation": "Ahora que lo pienso, creo que a\nmis padres les pasó algo\nparecido."
     },
     {
       "index": 49,
       "english": "Huh?",
-      "_offset": 4253,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Eh?"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 13142,
+      "_bytes": 4,
+      "translation": "¿Eh?"
     },
     {
       "index": 50,
-      "english": "Ah! Is that one of Vamdemon's\nDigimon?",
-      "_offset": 4258,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Ah! Es ese un Digimon de\nMyotismon?"
+      "english": "Ah! Is that one of Myotismon's\nDigimon?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13147,
+      "_bytes": 38,
+      "translation": "¡Ah! ¿Es ese un Digimon de\nMyotismon?"
     },
     {
       "index": 51,
       "english": "That's Mammon!",
-      "_offset": 4297,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Es Mammon!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13186,
+      "_bytes": 14,
+      "translation": "¡Es Mammon!"
     },
     {
       "index": 52,
       "english": "This is bad! We have to stop him!",
-      "_offset": 4312,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Esto es malo! Hay que pararlo!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13201,
+      "_bytes": 33,
+      "translation": "¡Esto es malo! ¡Hay que pararlo!"
     },
     {
       "index": 53,
       "english": "Ahahaha! We did it!",
-      "_offset": 4346,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Jaja! Lo logramos!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13235,
+      "_bytes": 19,
+      "translation": "¡Jaja! ¡Lo logramos!"
     },
     {
       "index": 54,
-      "english": "People can actually see Vamdemon's\nDigimon...",
-      "_offset": 4366,
-      "_length": 45,
-      "speaker_id": 0,
+      "english": "People can actually see Myotismon's\nDigimon...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13255,
+      "_bytes": 45,
       "translation": "La gente ve los Digimon\nde Myotismon..."
     },
     {
       "index": 55,
       "english": "Giant monsters...",
-      "_offset": 4412,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Monstruos enormes"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 13301,
+      "_bytes": 17,
+      "translation": "Monstruos enormes..."
     },
     {
       "index": 56,
       "english": "What'd you say, T.K?",
-      "_offset": 4430,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Qué has dicho, T.K.?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13319,
+      "_bytes": 23,
+      "translation": "¿Qué has dicho, T.K.?"
     },
     {
       "index": 57,
       "english": "I remember! Back when we lived \nhere, T.K got scolded for \nsaying he saw giant monsters!",
-      "_offset": 4454,
-      "_length": 91,
-      "speaker_id": 0,
-      "translation": "Ya me acuerdo! Cuando vivíamos\naquí, regañaron a T.K. por\ndecir que vio monstruos!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13343,
+      "_bytes": 91,
+      "translation": "¡Ya me acuerdo! ¡Cuando vivíamos\naquí, regañaron a T.K. por\ndecir que vio monstruos!"
     },
     {
       "index": 58,
       "english": "Could that have been...",
-      "_offset": 4546,
-      "_length": 23,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13435,
+      "_bytes": 23,
       "translation": "Podría haber sido..."
     },
     {
       "index": 59,
       "english": "...the so-called bombings!",
-      "_offset": 4570,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "...los supuestos atentados"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13459,
+      "_bytes": 26,
+      "translation": "...¡los supuestos atentados!"
     },
     {
       "index": 60,
       "english": "This is definitely where the\nterrorist bombings took place!",
-      "_offset": 4597,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Aquí es donde pasaron los\natentados terroristas seguro!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13486,
+      "_bytes": 59,
+      "translation": "¡Aquí es donde pasaron los\natentados terroristas seguro!"
     },
     {
       "index": 61,
       "english": "It felt exactly like this!",
-      "_offset": 4657,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Se sintió exactamente así!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 13546,
+      "_bytes": 26,
+      "translation": "¡Fue exactamente así!"
     },
     {
       "index": 62,
       "english": "Yeah. They were fighting, then\nthis and that happened...",
-      "_offset": 4684,
-      "_length": 56,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13573,
+      "_bytes": 56,
       "translation": "Sí. Estaban luchando, y pasó\nesto y aquello..."
     },
     {
       "index": 63,
       "english": "(What I saw that day...wasn't a\ngiant monster.)",
-      "_offset": 4741,
-      "_length": 47,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13630,
+      "_bytes": 47,
       "translation": "(Lo que vi ese día no era\nun monstruo gigante.)"
     },
     {
       "index": 64,
       "english": "Koromon... Koromon, what happened?",
-      "_offset": 4789,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Koromon... Koromon,\nqué ha pasado?"
+      "speaker_id": 5141,
+      "line_type": 2,
+      "_offset": 13678,
+      "_bytes": 34,
+      "translation": "Koromon... Koromon, ¿qué ha pasado?"
     },
     {
       "index": 65,
       "english": "W-whoa...",
-      "_offset": 4824,
-      "_length": 9,
-      "speaker_id": 0,
+      "speaker_id": 5121,
+      "line_type": 2,
+      "_offset": 13713,
+      "_bytes": 9,
       "translation": "V-vaya..."
     },
     {
       "index": 66,
       "english": "*sob* Koromon... Koromoooooooon!",
-      "_offset": 4834,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "(solloza) Koromon... Koromoooon!"
+      "speaker_id": 5141,
+      "line_type": 2,
+      "_offset": 13723,
+      "_bytes": 32,
+      "translation": "(solloza) Koromon... ¡Koromoooon!"
     },
     {
       "index": 67,
       "english": "Koromon...",
-      "_offset": 4867,
-      "_length": 10,
-      "speaker_id": 0,
+      "speaker_id": 5121,
+      "line_type": 2,
+      "_offset": 13756,
+      "_bytes": 10,
       "translation": "Koromon..."
     },
     {
       "index": 68,
       "english": "Kari, gimme your whistle!",
-      "_offset": 4878,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Kari, dame tu silbato!"
+      "speaker_id": 5121,
+      "line_type": 2,
+      "_offset": 13767,
+      "_bytes": 27,
+      "translation": "Kari, ¡dame tu silbato!"
     },
     {
       "index": 69,
       "english": "Tai?",
-      "_offset": 4906,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Tai?"
+      "speaker_id": 5141,
+      "line_type": 2,
+      "_offset": 13795,
+      "_bytes": 7,
+      "translation": "¿Tai?"
     },
     {
       "index": 70,
       "english": "Get him!",
-      "_offset": 4914,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Cógelo!"
+      "speaker_id": 5121,
+      "line_type": 2,
+      "_offset": 13803,
+      "_bytes": 8,
+      "translation": "¡Cógelo!"
     },
     {
       "index": 71,
       "english": "Greymon! That's right, it was\nGreymon!",
-      "_offset": 4923,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Greymon! Es verdad, era\nGreymon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13812,
+      "_bytes": 38,
+      "translation": "¡Greymon! ¡Es verdad, era\nGreymon!"
     },
     {
       "index": 72,
       "english": "You're right...",
-      "_offset": 4962,
-      "_length": 15,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13851,
+      "_bytes": 15,
       "translation": "Tienes razón..."
     },
     {
       "index": 73,
       "english": "That day, a Koromon came to our\nhome, and that Koromon became an\nAgumon.",
-      "_offset": 4978,
-      "_length": 72,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13867,
+      "_bytes": 72,
       "translation": "Ese día, un Koromon vino a\nnuestra casa, y se convirtió\nen Agumon."
     },
     {
       "index": 74,
       "english": "And then it became a Greymon, and\nfought with another Digimon.",
-      "_offset": 5051,
-      "_length": 62,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13940,
+      "_bytes": 62,
       "translation": "Y luego se convirtió en Greymon,\ny luchó contra otro Digimon."
     },
     {
       "index": 75,
       "english": "After the fight, they both\ndisappeared...",
-      "_offset": 5114,
-      "_length": 41,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14003,
+      "_bytes": 41,
       "translation": "Tras la pelea, los dos\ndesaparecieron..."
     },
     {
       "index": 76,
       "english": "So it wasn't a terrorist attack!",
-      "_offset": 5156,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Así que no fue un atentado!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14045,
+      "_bytes": 32,
+      "translation": "¡Así que no fue un atentado!"
     },
     {
       "index": 77,
       "english": "So you met Tai back then,\nKoromon?",
-      "_offset": 5189,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Así que conociste a Tai,\nKoromon?"
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 14078,
+      "_bytes": 37,
+      "translation": "¿Así que conociste a Tai,\nKoromon?"
     },
     {
       "index": 78,
       "english": "It must have been a different\nKoromon!",
-      "_offset": 5227,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Debió de ser otro Koromon\ndistinto!"
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 14116,
+      "_bytes": 38,
+      "translation": "¡Debió de ser otro Koromon\ndistinto!"
     },
     {
       "index": 79,
       "english": "But when I first met Tai, I had\nthis really nostalgic feeling...",
-      "_offset": 5266,
-      "_length": 67,
-      "speaker_id": 0,
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 14155,
+      "_bytes": 67,
       "translation": "Pero cuando conocí a Tai, sentí\nalgo muy nostálgico..."
     },
     {
       "index": 80,
       "english": "This is bad! We're gonna get\ncaught, and they're gonna ask a\nlot of questions!",
-      "_offset": 5334,
-      "_length": 78,
-      "speaker_id": 0,
-      "translation": "Esto es malo! Nos van a pillar\ny nos harán un montón de\npreguntas!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14223,
+      "_bytes": 78,
+      "translation": "¡Esto es malo! ¡Nos van a pillar\ny nos harán un montón de\npreguntas!"
     },
     {
       "index": 81,
       "english": "R-ruuuuuun!",
-      "_offset": 5413,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "C-corred!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14302,
+      "_bytes": 11,
+      "translation": "¡C-corred!"
     },
     {
       "index": 82,
       "english": "*pant* *pant* I think we're far\nenough.",
-      "_offset": 5425,
-      "_length": 39,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14314,
+      "_bytes": 39,
       "translation": "(jadeos) Ya estamos\nbastante lejos."
     },
     {
       "index": 83,
       "english": "Yeah.",
-      "_offset": 5465,
-      "_length": 5,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 14354,
+      "_bytes": 5,
       "translation": "Sí."
     },
     {
       "index": 84,
       "english": "I always thought it was strange.",
-      "_offset": 5471,
-      "_length": 32,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14360,
+      "_bytes": 32,
       "translation": "Siempre pensé que era raro."
     },
     {
       "index": 85,
       "english": "Out of all the children who went\nto camp, why were we the only ones\nchosen?",
-      "_offset": 5504,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "De todos los niños del\ncampamento, por qué fuimos los\núnicos elegidos?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14393,
+      "_bytes": 75,
+      "translation": "De todos los niños del\ncampamento, ¿por qué fuimos los\núnicos elegidos?"
     },
     {
       "index": 86,
       "english": "But today, we've found the key to\nthis mystery.",
-      "_offset": 5580,
-      "_length": 47,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14469,
+      "_bytes": 47,
       "translation": "Pero hoy hallamos la clave\nde este misterio."
     },
     {
       "index": 87,
       "english": "The incident from four years\nago...",
-      "_offset": 5628,
-      "_length": 35,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 14517,
+      "_bytes": 35,
       "translation": "El incidente de hace\ncuatro años..."
     },
     {
       "index": 88,
       "english": "Yes. What we have in common is\nthat we all met the Digimon four\nyears ago.",
-      "_offset": 5664,
-      "_length": 74,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14553,
+      "_bytes": 74,
       "translation": "Sí. Tenemos en común que todos\nconocimos a los Digimon hace\ncuatro años."
     },
     {
       "index": 89,
       "english": "So the eighth child did, too?",
-      "_offset": 5739,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "El octavo niño también?"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14628,
+      "_bytes": 29,
+      "translation": "¿El octavo niño también?"
     },
     {
       "index": 90,
       "english": "I'm sure they must have seen the\nincident.",
-      "_offset": 5769,
-      "_length": 42,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14658,
+      "_bytes": 42,
       "translation": "Seguro que también vio\nel incidente."
     },
     {
       "index": 91,
-      "english": "So does that mean Vamdemon's\nalready found them? They're in\nKarigaoka, right?",
-      "_offset": 5812,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "Entonces significa que\nMyotismon ya lo ha encontrado?\nEstá en Hikarioka, no?"
+      "english": "So does that mean Myotismon's\nalready found them? They're in\nKarigaoka, right?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14701,
+      "_bytes": 79,
+      "translation": "¿Entonces significa que\nMyotismon ya lo ha encontrado?\nEstá en Hikarioka, ¿no?"
     },
     {
       "index": 92,
       "english": "Since Mammon was wandering around\nhere all alone...",
-      "_offset": 5892,
-      "_length": 51,
-      "speaker_id": 0,
+      "speaker_id": 2411,
+      "line_type": 2,
+      "_offset": 14781,
+      "_bytes": 51,
       "translation": "Si Mammon andaba dando vueltas\npor aquí solo..."
     },
     {
       "index": 93,
       "english": "...the others are all prolly\nwand'rin' around lookin' for the\neighth child!",
-      "_offset": 5944,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "...los demás deben de andar\npor ahí buscando al\noctavo niño!"
+      "speaker_id": 2411,
+      "line_type": 2,
+      "_offset": 14833,
+      "_bytes": 75,
+      "translation": "...¡los demás deben de andar\npor ahí buscando al\noctavo niño!"
     },
     {
       "index": 94,
       "english": "We'll find them! We'll find the\neighth child before they do!",
-      "_offset": 6020,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Encontraremos al octavo niño\nantes que ellos!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14909,
+      "_bytes": 60,
+      "translation": "¡Encontraremos al octavo niño\nantes que ellos!"
     },
     {
       "index": 95,
       "english": "But where do we look?",
-      "_offset": 6081,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Pero dónde buscamos?"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 14970,
+      "_bytes": 21,
+      "translation": "¿Pero dónde buscamos?"
     },
     {
       "index": 96,
       "english": "There's one other thing we have in\ncommon...",
-      "_offset": 6103,
-      "_length": 44,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14992,
+      "_bytes": 44,
       "translation": "Hay otra cosa que tenemos\nen común..."
     },
     {
       "index": 97,
       "english": "We all moved from Karigaoka...",
-      "_offset": 6148,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Todos nos mudamos de\nHikarioka."
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 15037,
+      "_bytes": 32,
+      "translation": "Todos nos mudamos de Hikarioka."
     },
     {
       "index": 98,
       "english": "Yes. It can't be a coincidence, so\nwe should assume that the eighth \nchild has also moved.",
-      "_offset": 6181,
-      "_length": 90,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15070,
+      "_bytes": 90,
       "translation": "Sí. No puede ser casualidad, así\nque el octavo niño también\ndebió de mudarse."
     },
     {
       "index": 99,
       "english": "So the eighth child is in Odaiba?",
-      "_offset": 6272,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "El octavo niño está en\nOdaiba?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15161,
+      "_bytes": 33,
+      "translation": "¿El octavo niño está en Odaiba?"
     },
     {
       "index": 100,
       "english": "I wanna go hooooooome!",
-      "_offset": 6306,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Quiero irme a casaaa!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 15195,
+      "_bytes": 22,
+      "translation": "¡Quiero irme a casaaa!"
     },
     {
       "index": 101,
       "english": "All right! In that case, let's\nhead back to Odaiba!",
-      "_offset": 6329,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Vale! En ese caso, volvamos\na Odaiba!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15218,
+      "_bytes": 51,
+      "translation": "¡Vale! ¡En ese caso, volvamos\na Odaiba!"
     },
     {
       "index": 102,
       "english": "Why is there an elephant in\nKarigaoka?",
-      "_offset": 6381,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Por qué hay un elefante en\nHikarioka?"
+      "speaker_id": 6411,
+      "line_type": 2,
+      "_offset": 15270,
+      "_bytes": 40,
+      "translation": "¿Por qué hay un elefante en\nHikarioka?"
     },
     {
       "index": 103,
       "english": "They must be making a movie, or\nsomething!",
-      "_offset": 6422,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Deben de estar rodando\nuna película!"
+      "speaker_id": 6411,
+      "line_type": 2,
+      "_offset": 15311,
+      "_bytes": 42,
+      "translation": "¡Deben de estar rodando\nuna película!"
     },
     {
       "index": 104,
       "english": "Aaaaaaaaaaah!",
-      "_offset": 6465,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Aaaaaaaaaaah!"
+      "speaker_id": 6411,
+      "line_type": 2,
+      "_offset": 15354,
+      "_bytes": 13,
+      "translation": "¡Aaaaaaaaaaah!"
     },
     {
       "index": 105,
       "english": "Gyaaaaaaah!",
-      "_offset": 6479,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Gyaaaaaaah!"
+      "speaker_id": 6411,
+      "line_type": 2,
+      "_offset": 15368,
+      "_bytes": 11,
+      "translation": "¡Gyaaaaaaah!"
     },
     {
       "index": 106,
       "english": "Tai! We have to do something\nabout Mammon, right now!",
-      "_offset": 6491,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Tai! Hay que hacer algo con\nMammon, ahora mismo!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15380,
+      "_bytes": 56,
+      "translation": "¡Tai! ¡Hay que hacer algo con\nMammon, ahora mismo!"
     },
     {
       "index": 107,
       "english": "You're right, let's go!",
-      "_offset": 6548,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Tienes razón, vamos!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15437,
+      "_bytes": 23,
+      "translation": "¡Tienes razón, vamos!"
     },
     {
       "index": 108,
       "english": "Let's go!",
-      "_offset": 6572,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Vamos!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15461,
+      "_bytes": 9,
+      "translation": "¡Vamos!"
     },
     {
       "index": 109,
       "english": "Yeah!",
-      "_offset": 6582,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 15471,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     },
     {
       "index": 110,
       "english": "Roooooooooar!",
-      "_offset": 6588,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Rooooooooar!"
+      "speaker_id": 4907,
+      "line_type": 2,
+      "_offset": 15477,
+      "_bytes": 13,
+      "translation": "¡Rooooooooar!"
     },
     {
       "index": 111,
       "english": "All right, Koromon! Evolve!",
-      "_offset": 6602,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Vale, Koromon! Evoluciona!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15491,
+      "_bytes": 27,
+      "translation": "¡Vale, Koromon! ¡Evoluciona!"
     },
     {
       "index": 112,
       "english": "Got it!",
-      "_offset": 6630,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Vale!"
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 15519,
+      "_bytes": 7,
+      "translation": "¡Vale!"
     },
     {
       "index": 113,
       "english": "Koromon, evolve!",
-      "_offset": 6638,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Ya, evoluciona!"
+      "speaker_id": 2111,
+      "line_type": 2,
+      "_offset": 15527,
+      "_bytes": 16,
+      "translation": "¡Ya, evoluciona!"
     },
     {
       "index": 114,
       "english": "Agumon!",
-      "_offset": 6655,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Agumon!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 15544,
+      "_bytes": 7,
+      "translation": "¡Agumon!"
     },
     {
       "index": 115,
       "english": "Over here!",
-      "_offset": 6663,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Por aquí!"
+      "speaker_id": 6411,
+      "line_type": 2,
+      "_offset": 15552,
+      "_bytes": 10,
+      "translation": "¡Por aquí!"
     },
     {
       "index": 116,
       "english": "I'm pretty sure I just saw a\nmonster!",
-      "_offset": 6674,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Seguro que he visto un\nmonstruo!"
+      "speaker_id": 6411,
+      "line_type": 2,
+      "_offset": 15563,
+      "_bytes": 37,
+      "translation": "¡Seguro que he visto un\nmonstruo!"
     }
   ]
 }

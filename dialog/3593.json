@@ -1,405 +1,1420 @@
 {
   "file_id": "3593",
-  "text_count": 50,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 157,
   "dialog": [
     {
       "index": 0,
-      "english": "B-but... okay, then, it's time for\nthe last Love Question!",
-      "_offset": 3,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "B-bueno... vale, es hora de\nla última Pregunta de Amor!"
+      "english": "We're here again?!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 7672,
+      "_bytes": 18,
+      "translation": "¡¿Otra vez aquí?!"
     },
     {
       "index": 1,
-      "english": "What's our favorite food?",
-      "_offset": 62,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Nuestra comida\nfavorita?"
+      "english": "Yup! We might find cola this time,\nyou know?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 7691,
+      "_bytes": 44,
+      "translation": "¡Sip! A lo mejor esta vez\nencontramos cola, ¿sabes?"
     },
     {
       "index": 2,
-      "english": "Ummmm...",
-      "_offset": 88,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Ummmm..."
+      "english": "There won't be any Numemon this\ntime around, right?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7736,
+      "_bytes": 51,
+      "translation": "Esta vez no habrá Numemon,\n¿verdad?"
     },
     {
       "index": 3,
-      "english": "Tree leaves",
-      "_offset": 97,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Hojas"
+      "english": "This probably won't end well.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 7788,
+      "_bytes": 29,
+      "translation": "Esto no va a acabar bien."
     },
     {
       "index": 4,
-      "english": "Salt",
-      "_offset": 109,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Sal"
+      "english": "*grumble* Oh, be quiet! Ugh, as\nsoon as I get my cola, we're out\nof here.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 7818,
+      "_bytes": 73,
+      "translation": "(gruñido) ¡Callaos ya! Uf, en\ncuanto tenga mi cola, nos\nlargamos."
     },
     {
       "index": 5,
-      "english": "Poop",
-      "_offset": 114,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Caca"
+      "english": "Mimi, my sweetheart! Go on a date\nwith me!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 7892,
+      "_bytes": 42,
+      "translation": "Mimi, ¡cariño mío! ¡Sal\nconmigo!"
     },
     {
       "index": 6,
-      "english": "A-amazing! Correct! Absolutely\ncorrect!",
-      "_offset": 141,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "I-increíble! Correcto\ndel todo!"
+      "english": "A Numemon *did* show up!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 7935,
+      "_bytes": 24,
+      "translation": "¡Sí que ha salido un Numemon!"
     },
     {
       "index": 7,
-      "english": "Where on earth did you learn\nthat!? That's top-secret\ninformation!",
-      "_offset": 181,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Dónde diablos aprendiste\neso?! Es información\nalto secreto!"
+      "english": "What?! Why are these Numemon\nalways asking me out on dates?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 7960,
+      "_bytes": 59,
+      "translation": "¡¿Qué?! ¿Por qué estos Numemon\nsiempre me piden salir?"
     },
     {
       "index": 8,
-      "english": "Ahaha...",
-      "_offset": 248,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Ajaja..."
+      "english": "I thought you'd say something like\nthat, so I prepared this.\nTa-daaaaa! Chilled cola!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8020,
+      "_bytes": 85,
+      "translation": "Sabía que dirías algo así,\nasí que he preparado esto.\n¡Tachááán! ¡Cola fresquita!"
     },
     {
       "index": 9,
-      "english": "(I actually just picked an answer\nI thought made sense, but I can't\nsay that out loud...)",
-      "_offset": 257,
-      "_length": 89,
-      "speaker_id": 0,
-      "translation": "(La verdad es que elegí una\nrespuesta que sonaba lógica,\npero no puedo decir eso...)"
+      "english": "As if Mimi would be swayed that\neasily!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 8106,
+      "_bytes": 39,
+      "translation": "¡Como si Mimi fuera a ceder\ntan fácilmente!"
     },
     {
       "index": 10,
-      "english": "All right! That's all the\nquestions I'll ask you on this\ndate!",
-      "_offset": 347,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Muy bien! Esas son todas\nlas preguntas de esta cita!"
+      "english": "Hmm... fine, I can put up with one\ndate if you give me cola.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8146,
+      "_bytes": 60,
+      "translation": "Mmm... vale, aguanto una cita\nsi me das la cola."
     },
     {
       "index": 11,
-      "english": "Please look forward to the\nresults!",
-      "_offset": 410,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Esperad con ganas los\nresultados!"
+      "english": "Yaaaaaay! We'll have a fun date!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8207,
+      "_bytes": 32,
+      "translation": "¡Bieeeen! ¡Vamos a tener una\ncita genial!"
     },
     {
       "index": 12,
-      "english": "Horrible! Do you really think we\nlike that stuff? I thought that\nwas obvious!",
-      "_offset": 468,
-      "_length": 77,
-      "speaker_id": 0,
-      "translation": "Horrible! De verdad crees que\nnos gusta eso? Pensaba que\nera obvio!"
+      "english": "Mimi...",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 8240,
+      "_bytes": 7,
+      "translation": "Mimi..."
     },
     {
       "index": 13,
-      "english": "Well, I thought since you Digimon\nalways hang out in unusual\nplaces...",
-      "_offset": 546,
-      "_length": 70,
-      "speaker_id": 0,
-      "translation": "Bueno, pensé que ya que los\nDigimon siempre están en\nsitios raros..."
+      "english": "Heehee! Are you having fun, Mimi?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8248,
+      "_bytes": 33,
+      "translation": "¡Jiji! ¿Te lo pasas bien, Mimi?"
     },
     {
       "index": 14,
-      "english": "Yeah, maybe! But we hate salt!",
-      "_offset": 617,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Sí, puede! Pero odiamos\nla sal!"
+      "english": "Huh? Not really...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8282,
+      "_bytes": 18,
+      "translation": "¿Eh? No mucho..."
     },
     {
       "index": 15,
-      "english": "Aaah, so I was wrong...",
-      "_offset": 648,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Aaah, me\nequivoqué..."
+      "english": "How rude! This is a date, isn't\nit?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8301,
+      "_bytes": 35,
+      "translation": "¡Qué grosera! Esto es una\ncita, ¿no?"
     },
     {
       "index": 16,
-      "english": "All right! That's all the\nquestions I'll ask you on this\ndate!",
-      "_offset": 672,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Muy bien! Esas son todas\nlas preguntas de esta cita!"
+      "english": "Be grateful I'm even walking with\nyou!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8337,
+      "_bytes": 38,
+      "translation": "¡Da gracias de que pasee\ncontigo!"
     },
     {
       "index": 17,
-      "english": "Please look forward to the\nresults!",
-      "_offset": 735,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Esperad con ganas los\nresultados!"
+      "english": "Such cocky manners! I, I...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8376,
+      "_bytes": 27,
+      "translation": "¡Qué modales tan chulos! Yo,\nyo..."
     },
     {
       "index": 18,
-      "english": "Mimi, did you *seriously* just say\nthat?",
-      "_offset": 793,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Mimi, en serio has dicho\neso?"
+      "english": "(This is bad. I wonder if I\noffended him...)",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8404,
+      "_bytes": 44,
+      "translation": "(Uy, qué mal. Le habré\nofendido...)"
     },
     {
       "index": 19,
-      "english": "I thought it made sense?",
-      "_offset": 834,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Pensé que tenía sentido?"
+      "english": "I like it!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8449,
+      "_bytes": 10,
+      "translation": "¡Me encanta!"
     },
     {
       "index": 20,
-      "english": "Rude! Really rude! How could you\nthink that?!",
-      "_offset": 859,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Qué grosería! Cómo puedes\npensar eso?!"
+      "english": "...Okay.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8460,
+      "_bytes": 8,
+      "translation": "...Vale."
     },
     {
       "index": 21,
-      "english": "We like poop, but we don't eat it!\nWe like it, but we don't eat it!",
-      "_offset": 905,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Nos gusta la caca, pero no\nla comemos! Nos gusta, pero\nno la comemos!"
+      "english": "By the way, Mimi...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8469,
+      "_bytes": 19,
+      "translation": "Por cierto, Mimi..."
     },
     {
       "index": 22,
-      "english": "Stop! Is this how you act in front\nof a lady?",
-      "_offset": 973,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Parad! Así os comportáis\nante una dama?"
+      "english": "What?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8489,
+      "_bytes": 5,
+      "translation": "¿Qué?"
     },
     {
       "index": 23,
-      "english": "...Ahem.",
-      "_offset": 1023,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "...Ejem."
+      "english": "It's Love Question tiiiiiime!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8495,
+      "_bytes": 29,
+      "translation": "¡Es la hora de las Preguntas\nde Amooooor!"
     },
     {
       "index": 24,
-      "english": "Anyway!\nThat's all the questions I'll be\nasking you on this date!",
-      "_offset": 1032,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "En fin!\nEsas son todas las preguntas\nde esta cita!"
+      "english": "If you answer all my questions\ncorrectly...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8525,
+      "_bytes": 43,
+      "translation": "Si respondes bien a todas\nmis preguntas..."
     },
     {
       "index": 25,
-      "english": "Please look forward to the\nresults!",
-      "_offset": 1098,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Esperad con ganas los\nresultados!"
+      "english": "Then...?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8569,
+      "_bytes": 8,
+      "translation": "¿Entonces...?"
     },
     {
       "index": 26,
-      "english": "You seem to know everything about\nus so far.",
-      "_offset": 1134,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Parece que lo sabes\ntodo de nosotros."
+      "english": "You'll receive an extraordinary\nprize far above and beyond your\ncola!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8578,
+      "_bytes": 69,
+      "translation": "¡Recibirás un premio\nextraordinario, mucho mejor\nque tu cola!"
     },
     {
       "index": 27,
-      "english": "It's proof we really *are*\ncompatible!",
-      "_offset": 1179,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Es la prueba de que somos\ncompatibles!"
+      "english": "Really?!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8648,
+      "_bytes": 8,
+      "translation": "¡¿En serio?!"
     },
     {
       "index": 28,
-      "english": "Ugh, why is he saying this...",
-      "_offset": 1218,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Uf, por qué dice eso..."
+      "english": "Here's the first question!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8657,
+      "_bytes": 26,
+      "translation": "¡Ahí va la primera pregunta!"
     },
     {
       "index": 29,
-      "english": "I'm surprised, too.",
-      "_offset": 1248,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Yo también, vaya."
+      "english": "Where did we have our first\nconversation?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8684,
+      "_bytes": 41,
+      "translation": "¿Dónde tuvimos nuestra\nprimera conversación?"
     },
     {
       "index": 30,
-      "english": "My love! Mimi! Here, take this!",
-      "_offset": 1268,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Mi amor! Mimi! Toma esto!"
+      "english": "Hmmmm...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8726,
+      "_bytes": 8,
+      "translation": "Mmmmm..."
     },
     {
       "index": 31,
-      "english": "It's kinda sticky, but thank you,\nI appreciate it.",
-      "_offset": 1300,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Está algo pegajoso, pero\ngracias, lo agradezco."
+      "english": "In the bathroom supply room",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 8735,
+      "_bytes": 27,
+      "translation": "En el almacén del baño"
     },
     {
       "index": 32,
-      "english": "Are we truly compatible?",
-      "_offset": 1351,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Somos compatibles?"
+      "english": "Near the vending machines",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 8763,
+      "_bytes": 25,
+      "translation": "Junto a las máquinas"
     },
     {
       "index": 33,
-      "english": "What's with the upwards glance?",
-      "_offset": 1376,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Qué es esa mirada de\nreojo?"
+      "english": "I don't remember",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 8789,
+      "_bytes": 16,
+      "translation": "No me acuerdo"
     },
     {
       "index": 34,
-      "english": "Patience, Mimi!",
-      "_offset": 1408,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Paciencia, Mimi"
+      "english": "...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8806,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 35,
-      "english": "All right, Mimi, here! This is for\nyou!",
-      "_offset": 1424,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Vale, Mimi, toma! Esto es\npara ti!"
+      "english": "...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8810,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 36,
-      "english": "Thank you, I'll take it.",
-      "_offset": 1464,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Gracias, lo acepto."
+      "english": "......",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8814,
+      "_bytes": 6,
+      "translation": "......"
     },
     {
       "index": 37,
-      "english": "Doesn't look like I have a lot of\ncompatibility with Mimi...",
-      "_offset": 1489,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Parece que no tengo mucha\ncompatibilidad con Mimi..."
+      "english": "......",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8821,
+      "_bytes": 6,
+      "translation": "......"
     },
     {
       "index": 38,
-      "english": "Well, Mimi's totally out of your\nleague.",
-      "_offset": 1550,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Bueno, Mimi está fuera de\ntu alcance."
+      "english": "Rude! I know what you're trying to\nsay!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8828,
+      "_bytes": 39,
+      "translation": "¡Grosera! ¡Ya sé lo que\nquieres decir!"
     },
     {
       "index": 39,
-      "english": "Maybe...",
-      "_offset": 1591,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Puede..."
+      "english": "Huh? Was I wrong?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8868,
+      "_bytes": 17,
+      "translation": "¿Eh? ¿Me he equivocado?"
     },
     {
       "index": 40,
-      "english": "Does our love end here?",
-      "_offset": 1600,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Nuestro amor acaba aquí"
+      "english": "Gh, you're so cold, Mimi! Anyway,\nlet's put that aside and continue\nour date!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8886,
+      "_bytes": 77,
+      "translation": "¡Ghh, qué fría eres, Mimi!\n¡Bueno, dejemos eso y sigamos\ncon la cita!"
     },
     {
       "index": 41,
-      "english": "Well, there are other fish in the\nsea...",
-      "_offset": 1624,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Bueno, hay más peces en el\nmar..."
+      "english": "...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8964,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 42,
-      "english": "So, where's the cola you promised\nme?",
-      "_offset": 1665,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Y la cola que\nprometiste?"
+      "english": "...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8968,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 43,
-      "english": "I had fun today! Here's the\npromised cola!",
-      "_offset": 1703,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Hoy me lo pasé bien!\nAquí tienes la cola!"
+      "english": "......",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8972,
+      "_bytes": 6,
+      "translation": "......"
     },
     {
       "index": 44,
-      "english": "Yaaaaaay! I'll have some right\nnow!",
-      "_offset": 1746,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Bieeeen! Me la tomo ya\nmismo!"
+      "english": "......",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8979,
+      "_bytes": 6,
+      "translation": "......"
     },
     {
       "index": 45,
-      "english": "Please wait. This cola seems to be\nexpired...",
-      "_offset": 1782,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Espera. Esta cola parece\nestar caducada..."
+      "english": "Correct! Is this love? This is\nlove, right!?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 8986,
+      "_bytes": 44,
+      "translation": "¡Correcto! ¿Es amor? Esto es\namor, ¿¡verdad!?"
     },
     {
       "index": 46,
-      "english": "What?! Ah, it's all syrupy inside.\nEw, it's gross!",
-      "_offset": 1828,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Qué?! Ah, está melosa\npor dentro. Puaj, qué\nasco!"
+      "english": "Ugh, you touched me...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9031,
+      "_bytes": 22,
+      "translation": "Puaj, me has tocado..."
     },
     {
       "index": 47,
-      "english": "Expired? Isn't syrupy cola\nsupposed to be the best?",
-      "_offset": 1879,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Caducada? No se supone\nque la cola melosa es\nla mejor"
+      "english": "Woo! Mimi, I'm so happy! Now,\nlet's collect our thoughts and\ncontinue our date!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9054,
+      "_bytes": 79,
+      "translation": "¡Yuju! Mimi, ¡qué feliz soy!\n¡Venga, centrémonos y\nsigamos con la cita!"
     },
     {
       "index": 48,
-      "english": "Heh, if you can drink that...",
-      "_offset": 1931,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Je, si puedes bebértela..."
+      "english": "...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9134,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 49,
+      "english": "...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9138,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 50,
+      "english": "......",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9142,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 51,
+      "english": "......",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9149,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 52,
+      "english": "How horrible! You can't even\nanswer!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9156,
+      "_bytes": 36,
+      "translation": "¡Qué horror! ¡Ni siquiera\nsabes responder!"
+    },
+    {
+      "index": 53,
+      "english": "But... I really don't remember.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9193,
+      "_bytes": 31,
+      "translation": "Pero... es que no me acuerdo."
+    },
+    {
+      "index": 54,
+      "english": "Gh, you're so cold, Mimi! Anyway,\nlet's put that aside and continue\nour date!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9225,
+      "_bytes": 77,
+      "translation": "¡Ghh, qué fría eres, Mimi!\n¡Bueno, dejemos eso y sigamos\ncon la cita!"
+    },
+    {
+      "index": 55,
+      "english": "Hey, do we still have to continue\nthis date?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9303,
+      "_bytes": 44,
+      "translation": "Oye, ¿de verdad tenemos que\nseguir con la cita?"
+    },
+    {
+      "index": 56,
+      "english": "But we're just getting started!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9348,
+      "_bytes": 31,
+      "translation": "¡Pero si acabamos de empezar!"
+    },
+    {
+      "index": 57,
+      "english": "Hm?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9380,
+      "_bytes": 3,
+      "translation": "¿Mm?"
+    },
+    {
+      "index": 58,
+      "english": "I mean, we've only just begun this\ndate.",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9384,
+      "_bytes": 40,
+      "translation": "Digo, que la cita acaba de\nempezar."
+    },
+    {
+      "index": 59,
+      "english": "*sigh*",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9425,
+      "_bytes": 6,
+      "translation": "(suspiro)"
+    },
+    {
+      "index": 60,
+      "english": "I'm not sure how to feel about\nwhat's going on here, so it's Love\nQuestion time!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9432,
+      "_bytes": 80,
+      "translation": "¡No sé qué pensar de lo que\npasa aquí, así que toca\nPregunta de Amor!"
+    },
+    {
+      "index": 61,
+      "english": "*clap, clap, clap*",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9513,
+      "_bytes": 18,
+      "translation": "(plas, plas, plas)"
+    },
+    {
+      "index": 62,
+      "english": "Here's the second question!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9532,
+      "_bytes": 27,
+      "translation": "¡Ahí va la segunda pregunta!"
+    },
+    {
+      "index": 63,
+      "english": "What color is the P-O-O-P we\nNumemon throw?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9560,
+      "_bytes": 43,
+      "translation": "¿De qué color es la C-A-C-A\nque tiramos los Numemon?"
+    },
+    {
+      "index": 64,
+      "english": "Ummmm...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9604,
+      "_bytes": 8,
+      "translation": "Ummmm..."
+    },
+    {
+      "index": 65,
+      "english": "Brown",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 9613,
+      "_bytes": 5,
+      "translation": "Marrón"
+    },
+    {
+      "index": 66,
+      "english": "Yellow",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 9619,
+      "_bytes": 6,
+      "translation": "Amarilla"
+    },
+    {
+      "index": 67,
+      "english": "Purple",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 9626,
+      "_bytes": 6,
+      "translation": "Morada"
+    },
+    {
+      "index": 68,
+      "english": "...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9633,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 69,
+      "english": "...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9637,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 70,
+      "english": "......",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9641,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 71,
+      "english": "......",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9648,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 72,
+      "english": "How horrible! You've broken my\nfragile heart!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9655,
+      "_bytes": 45,
+      "translation": "¡Qué horror! ¡Me has roto mi\nfrágil corazón!"
+    },
+    {
+      "index": 73,
+      "english": "But...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9701,
+      "_bytes": 6,
+      "translation": "Pero..."
+    },
+    {
+      "index": 74,
+      "english": "No! Say no more! Anyway, let's put\nthat aside and continue our date!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9708,
+      "_bytes": 68,
+      "translation": "¡No! ¡No digas más! ¡Bueno,\ndejemos eso y sigamos con la\ncita!"
+    },
+    {
+      "index": 75,
+      "english": "...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9777,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 76,
+      "english": "...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9781,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 77,
+      "english": "......",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9785,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 78,
+      "english": "......",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9792,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 79,
+      "english": "How horrible! What's this?! Is\nthat how you think of me?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9799,
+      "_bytes": 56,
+      "translation": "¡Qué horror! ¡¿Qué es esto?! ¿Es\nlo que piensas de mí?"
+    },
+    {
+      "index": 80,
+      "english": "I know it's some kind of weird\ncolor...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9856,
+      "_bytes": 39,
+      "translation": "Sé que es de un color raro..."
+    },
+    {
+      "index": 81,
+      "english": "At least you're on the right\ntrack! Anyway, let's put that\naside and continue our date!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9896,
+      "_bytes": 87,
+      "translation": "¡Al menos vas bien\nencaminada! ¡Bueno, dejemos\neso y sigamos con la cita!"
+    },
+    {
+      "index": 82,
+      "english": "...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9984,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 83,
+      "english": "...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9988,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 84,
+      "english": "......",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 9992,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 85,
+      "english": "......",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9999,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 86,
+      "english": "Correct! Is this love? This is\nlove, right?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10006,
+      "_bytes": 43,
+      "translation": "¡Correcto! ¿Es amor? Esto es\namor, ¿verdad?"
+    },
+    {
+      "index": 87,
+      "english": "Ugh, you touched me...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10050,
+      "_bytes": 22,
+      "translation": "Puaj, me has tocado..."
+    },
+    {
+      "index": 88,
+      "english": "Woo! Mimi, I'm so happy! Now,\nlet's collect our thoughts and\ncontinue our date!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10073,
+      "_bytes": 79,
+      "translation": "¡Yuju! Mimi, ¡qué feliz soy!\n¡Venga, centrémonos y\nsigamos con la cita!"
+    },
+    {
+      "index": 89,
+      "english": "Ah, this is so much fun! I think\nthis is the best day of my life!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10153,
+      "_bytes": 65,
+      "translation": "¡Ah, qué divertido! ¡Creo que\nes el mejor día de mi vida!"
+    },
+    {
+      "index": 90,
+      "english": "Are you having fun too, Mimi?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10219,
+      "_bytes": 29,
+      "translation": "¿Te diviertes tú también,\nMimi?"
+    },
+    {
+      "index": 91,
+      "english": "Well, I'm actually completely\nbored.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10249,
+      "_bytes": 36,
+      "translation": "Pues me aburro\nmuchísimo."
+    },
+    {
+      "index": 92,
+      "english": "How horrible!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10286,
+      "_bytes": 13,
+      "translation": "¡Qué horror!"
+    },
+    {
+      "index": 93,
+      "english": "So, are you gonna give me the cola\nsoon? And the prize?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10300,
+      "_bytes": 55,
+      "translation": "Bueno, ¿me das ya la cola? ¿Y\nel premio?"
+    },
+    {
+      "index": 94,
+      "english": "B-but... okay, then, it's time for\nthe last Love Question!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10356,
+      "_bytes": 58,
+      "translation": "¡B-bueno... vale, es hora de\nla última Pregunta de Amor!"
+    },
+    {
+      "index": 95,
+      "english": "What's our favorite food?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10415,
+      "_bytes": 25,
+      "translation": "¿Nuestra comida favorita?"
+    },
+    {
+      "index": 96,
+      "english": "Ummmm...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10441,
+      "_bytes": 8,
+      "translation": "Ummmm..."
+    },
+    {
+      "index": 97,
+      "english": "Tree leaves",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 10450,
+      "_bytes": 11,
+      "translation": "Hojas"
+    },
+    {
+      "index": 98,
+      "english": "Salt",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 10462,
+      "_bytes": 4,
+      "translation": "Sal"
+    },
+    {
+      "index": 99,
+      "english": "Poop",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 10467,
+      "_bytes": 4,
+      "translation": "Caca"
+    },
+    {
+      "index": 100,
+      "english": "...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10472,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 101,
+      "english": "...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10476,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 102,
+      "english": "......",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10480,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 103,
+      "english": "......",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10487,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 104,
+      "english": "A-amazing! Correct! Absolutely\ncorrect!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10494,
+      "_bytes": 39,
+      "translation": "¡I-increíble! ¡Correcto\ndel todo!"
+    },
+    {
+      "index": 105,
+      "english": "Where on earth did you learn\nthat!? That's top-secret\ninformation!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10534,
+      "_bytes": 66,
+      "translation": "¡¿Dónde diablos aprendiste\neso?! ¡Es información\nalto secreto!"
+    },
+    {
+      "index": 106,
+      "english": "Ahaha...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10601,
+      "_bytes": 8,
+      "translation": "Ajaja..."
+    },
+    {
+      "index": 107,
+      "english": "(I actually just picked an answer\nI thought made sense, but I can't\nsay that out loud...)",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10610,
+      "_bytes": 89,
+      "translation": "(La verdad es que elegí una\nrespuesta que sonaba lógica,\npero no puedo decir eso...)"
+    },
+    {
+      "index": 108,
+      "english": "All right! That's all the\nquestions I'll ask you on this\ndate!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10700,
+      "_bytes": 62,
+      "translation": "¡Muy bien! ¡Esas son todas\nlas preguntas de esta cita!"
+    },
+    {
+      "index": 109,
+      "english": "Please look forward to the\nresults!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10763,
+      "_bytes": 35,
+      "translation": "¡Espera con ganas los\nresultados!"
+    },
+    {
+      "index": 110,
+      "english": "...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10799,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 111,
+      "english": "...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10803,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 112,
+      "english": "......",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10807,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 113,
+      "english": "......",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10814,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 114,
+      "english": "Horrible! Do you really think we\nlike that stuff? I thought that\nwas obvious!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10821,
+      "_bytes": 77,
+      "translation": "¡Horrible! ¿De verdad crees que\nnos gusta eso? ¡Pensaba que\nera obvio!"
+    },
+    {
+      "index": 115,
+      "english": "Well, I thought since you Digimon\nalways hang out in unusual\nplaces...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10899,
+      "_bytes": 70,
+      "translation": "Bueno, pensé que ya que los\nDigimon siempre están en\nsitios raros..."
+    },
+    {
+      "index": 116,
+      "english": "Yeah, maybe! But we hate salt!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10970,
+      "_bytes": 30,
+      "translation": "¡Sí, puede! ¡Pero odiamos la sal!"
+    },
+    {
+      "index": 117,
+      "english": "Aaah, so I was wrong...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11001,
+      "_bytes": 23,
+      "translation": "Aaah, me equivoqué..."
+    },
+    {
+      "index": 118,
+      "english": "All right! That's all the\nquestions I'll ask you on this\ndate!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11025,
+      "_bytes": 62,
+      "translation": "¡Muy bien! ¡Esas son todas\nlas preguntas de esta cita!"
+    },
+    {
+      "index": 119,
+      "english": "Please look forward to the\nresults!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11088,
+      "_bytes": 35,
+      "translation": "¡Espera con ganas los\nresultados!"
+    },
+    {
+      "index": 120,
+      "english": "...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11124,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 121,
+      "english": "...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11128,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 122,
+      "english": "......",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11132,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 123,
+      "english": "......",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11139,
+      "_bytes": 6,
+      "translation": "......"
+    },
+    {
+      "index": 124,
+      "english": "Mimi, did you *seriously* just say\nthat?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11146,
+      "_bytes": 40,
+      "translation": "Mimi, ¿en serio has dicho\neso?"
+    },
+    {
+      "index": 125,
+      "english": "I thought it made sense?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11187,
+      "_bytes": 24,
+      "translation": "Pensé que tenía sentido..."
+    },
+    {
+      "index": 126,
+      "english": "Rude! Really rude! How could you\nthink that?!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11212,
+      "_bytes": 45,
+      "translation": "¡Qué grosería! ¡¿Cómo puedes\npensar eso?!"
+    },
+    {
+      "index": 127,
+      "english": "We like poop, but we don't eat it!\nWe like it, but we don't eat it!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11258,
+      "_bytes": 67,
+      "translation": "¡Nos gusta la caca, pero no\nla comemos! ¡Nos gusta, pero\nno la comemos!"
+    },
+    {
+      "index": 128,
+      "english": "Stop! Is this how you act in front\nof a lady?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11326,
+      "_bytes": 45,
+      "translation": "¡Para! ¿Así te comportas\ndelante de una dama?"
+    },
+    {
+      "index": 129,
+      "english": "...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11372,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 130,
+      "english": "...Ahem.",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11376,
+      "_bytes": 8,
+      "translation": "...Ejem."
+    },
+    {
+      "index": 131,
+      "english": "Anyway!\nThat's all the questions I'll be\nasking you on this date!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11385,
+      "_bytes": 65,
+      "translation": "¡En fin!\n¡Esas son todas las preguntas\nde esta cita!"
+    },
+    {
+      "index": 132,
+      "english": "Please look forward to the\nresults!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11451,
+      "_bytes": 35,
+      "translation": "¡Espera con ganas los\nresultados!"
+    },
+    {
+      "index": 133,
+      "english": "You seem to know everything about\nus so far.",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11487,
+      "_bytes": 44,
+      "translation": "Parece que lo sabes\ntodo de nosotros."
+    },
+    {
+      "index": 134,
+      "english": "It's proof we really *are*\ncompatible!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11532,
+      "_bytes": 38,
+      "translation": "¡Es la prueba de que somos\ncompatibles!"
+    },
+    {
+      "index": 135,
+      "english": "Ugh, why is he saying this...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11571,
+      "_bytes": 29,
+      "translation": "Uf, ¿por qué dice eso...?"
+    },
+    {
+      "index": 136,
+      "english": "I'm surprised, too.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 11601,
+      "_bytes": 19,
+      "translation": "Yo también me he sorprendido."
+    },
+    {
+      "index": 137,
+      "english": "My love! Mimi! Here, take this!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11621,
+      "_bytes": 31,
+      "translation": "¡Mi amor! ¡Mimi! ¡Toma esto!"
+    },
+    {
+      "index": 138,
+      "english": "It's kinda sticky, but thank you,\nI appreciate it.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11653,
+      "_bytes": 50,
+      "translation": "Está algo pegajoso, pero\ngracias, lo agradezco."
+    },
+    {
+      "index": 139,
+      "english": "Are we truly compatible?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11704,
+      "_bytes": 24,
+      "translation": "¿Somos compatibles?"
+    },
+    {
+      "index": 140,
+      "english": "What's with the upwards glance?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11729,
+      "_bytes": 31,
+      "translation": "¿Qué es esa mirada de reojo?"
+    },
+    {
+      "index": 141,
+      "english": "Patience, Mimi!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 11761,
+      "_bytes": 15,
+      "translation": "¡Paciencia, Mimi!"
+    },
+    {
+      "index": 142,
+      "english": "All right, Mimi, here! This is for\nyou!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11777,
+      "_bytes": 39,
+      "translation": "¡Vale, Mimi, toma! ¡Esto es\npara ti!"
+    },
+    {
+      "index": 143,
+      "english": "Thank you, I'll take it.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11817,
+      "_bytes": 24,
+      "translation": "Gracias, lo acepto."
+    },
+    {
+      "index": 144,
+      "english": "Doesn't look like I have a lot of\ncompatibility with Mimi...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11842,
+      "_bytes": 60,
+      "translation": "Parece que no tengo mucha\ncompatibilidad con Mimi..."
+    },
+    {
+      "index": 145,
+      "english": "Well, Mimi's totally out of your\nleague.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 11903,
+      "_bytes": 40,
+      "translation": "Bueno, Mimi está fuera de\ntu alcance."
+    },
+    {
+      "index": 146,
+      "english": "Maybe...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11944,
+      "_bytes": 8,
+      "translation": "Puede..."
+    },
+    {
+      "index": 147,
+      "english": "Does our love end here?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11953,
+      "_bytes": 23,
+      "translation": "¿Nuestro amor acaba aquí?"
+    },
+    {
+      "index": 148,
+      "english": "Well, there are other fish in the\nsea...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11977,
+      "_bytes": 40,
+      "translation": "Bueno, hay más peces en el\nmar..."
+    },
+    {
+      "index": 149,
+      "english": "So, where's the cola you promised\nme?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 12018,
+      "_bytes": 37,
+      "translation": "¿Y la cola que\nprometiste?"
+    },
+    {
+      "index": 150,
+      "english": "I had fun today! Here's the\npromised cola!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 12056,
+      "_bytes": 42,
+      "translation": "¡Hoy me lo pasé bien!\n¡Aquí tienes la cola!"
+    },
+    {
+      "index": 151,
+      "english": "Yaaaaaay! I'll have some right\nnow!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 12099,
+      "_bytes": 35,
+      "translation": "¡Bieeeen! ¡Me la tomo ya\nmismo!"
+    },
+    {
+      "index": 152,
+      "english": "Please wait. This cola seems to be\nexpired...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 12135,
+      "_bytes": 45,
+      "translation": "Espera. Esta cola parece\nestar caducada..."
+    },
+    {
+      "index": 153,
+      "english": "What?! Ah, it's all syrupy inside.\nEw, it's gross!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 12181,
+      "_bytes": 50,
+      "translation": "¡¿Qué?! Ah, está melosa\npor dentro. ¡Puaj, qué\nasco!"
+    },
+    {
+      "index": 154,
+      "english": "Expired? Isn't syrupy cola\nsupposed to be the best?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 12232,
+      "_bytes": 51,
+      "translation": "¿Caducada? ¿No era la cola\nmelosa la mejor?"
+    },
+    {
+      "index": 155,
+      "english": "Heh, if you can drink that...",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 12284,
+      "_bytes": 29,
+      "translation": "Je, si puedes bebértela..."
+    },
+    {
+      "index": 156,
       "english": "I *really* shouldn't have gone on\nthat date...",
-      "_offset": 1961,
-      "_length": 46,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 12314,
+      "_bytes": 46,
       "translation": "De verdad no debí ir a esa\ncita..."
     }
   ]

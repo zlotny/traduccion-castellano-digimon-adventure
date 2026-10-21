@@ -1,926 +1,1079 @@
 {
   "file_id": "3556",
-  "text_count": 115,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 119,
   "dialog": [
     {
       "index": 0,
-      "english": "��������All right, let's hurry to the\ngate!",
-      "_offset": 5773,
-      "_length": 43,
-      "speaker_id": 255,
-      "translation": "Venga, vamos deprisa a la\npuerta!"
+      "english": "All right, let's hurry to the\ngate!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13800,
+      "_bytes": 35,
+      "translation": "¡Venga, vamos deprisa a la\npuerta!"
     },
     {
       "index": 1,
       "english": "Yeah!",
-      "_offset": 5817,
-      "_length": 5,
-      "speaker_id": 255,
-      "translation": "Sí!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13836,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     },
     {
       "index": 2,
       "english": "Enlistment Conscription",
-      "_offset": 5823,
-      "_length": 23,
-      "speaker_id": 255,
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 13842,
+      "_bytes": 23,
       "translation": "Reclutamiento forzoso"
     },
     {
       "index": 3,
       "english": "...Can those Digimon even read\nthis?",
-      "_offset": 5847,
-      "_length": 36,
-      "speaker_id": 255,
-      "translation": "...Sabrán leer esto esos\nDigimon?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13866,
+      "_bytes": 36,
+      "translation": "...¿Sabrán leer esto esos\nDigimon?"
     },
     {
       "index": 4,
       "english": "Come on, Tai! Lay out the\ncards!",
-      "_offset": 5884,
-      "_length": 35,
-      "speaker_id": 21,
-      "translation": "Venga, Tai! Coloca las\ncartas!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 13903,
+      "_bytes": 35,
+      "translation": "¡Venga, Tai! ¡Coloca las\ncartas!"
     },
     {
       "index": 5,
       "english": "Huh? Are you sure you want me to\ndo it?",
-      "_offset": 5920,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Eh? Seguro que queréis que lo\nhaga yo?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13939,
+      "_bytes": 39,
+      "translation": "¿Eh? ¿Seguro que queréis que lo\nhaga yo?"
     },
     {
       "index": 6,
       "english": "I'll leave this to you, Tai!",
-      "_offset": 5960,
-      "_length": 31,
-      "speaker_id": 21,
-      "translation": "Te lo dejamos a ti, Tai!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13979,
+      "_bytes": 31,
+      "translation": "¡Te lo dejamos a ti, Tai!"
     },
     {
       "index": 7,
       "english": "W-what's this all of a sudden?",
-      "_offset": 5992,
-      "_length": 30,
-      "speaker_id": 21,
-      "translation": "Q-qué es esto tan de repente?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14011,
+      "_bytes": 30,
+      "translation": "¿Q-qué es esto tan de repente?"
     },
     {
       "index": 8,
       "english": "I'm not just trying to shove all\nthe responsibility onto you. I\nreally believe in you!",
-      "_offset": 6023,
-      "_length": 86,
-      "speaker_id": 21,
-      "translation": "No es que quiera cargarte con\ntoda la responsabilidad. De\nverdad confío en ti!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14042,
+      "_bytes": 86,
+      "translation": "No es que quiera cargarte con\ntoda la responsabilidad. ¡De\nverdad confío en ti!"
     },
     {
       "index": 9,
       "english": "Huuuuuuuuuh?!",
-      "_offset": 6110,
-      "_length": 13,
-      "speaker_id": 7,
-      "translation": "Ehhhhhhhhh?!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14129,
+      "_bytes": 13,
+      "translation": "¡¿Ehhhhhhhhh?!"
     },
     {
       "index": 10,
       "english": "Me, too! At a time like this, we\nshould be following the leader!",
-      "_offset": 6124,
-      "_length": 64,
-      "speaker_id": 21,
-      "translation": "Yo también! En un momento así,\ndebemos seguir al líder!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14143,
+      "_bytes": 64,
+      "translation": "¡Yo también! ¡En un momento así,\ndebemos seguir al líder!"
     },
     {
       "index": 11,
       "english": "Hey, hey! When did I become the\nleader?",
-      "_offset": 6189,
-      "_length": 39,
-      "speaker_id": 21,
-      "translation": "Eh, eh! Desde cuándo soy yo el\nlíder?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14208,
+      "_bytes": 39,
+      "translation": "¡Eh, eh! ¿Desde cuándo soy yo el\nlíder?"
     },
     {
       "index": 12,
       "english": "The group fell apart the moment\nyou disappeared!",
-      "_offset": 6229,
-      "_length": 48,
-      "speaker_id": 21,
-      "translation": "El grupo se vino abajo en cuanto\ndesapareciste!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14248,
+      "_bytes": 48,
+      "translation": "¡El grupo se vino abajo en cuanto\ndesapareciste!"
     },
     {
       "index": 13,
       "english": "And you're the one who brought us\nall together again!",
-      "_offset": 6278,
-      "_length": 53,
-      "speaker_id": 6,
-      "translation": "Y fuiste tú quien nos volvió a\nunir a todos!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14297,
+      "_bytes": 53,
+      "translation": "¡Y fuiste tú quien nos volvió a\nunir a todos!"
     },
     {
       "index": 14,
       "english": "Well, I don't care about that!",
-      "_offset": 6332,
-      "_length": 30,
-      "speaker_id": 8,
-      "translation": "Bueno, a mí eso me da igual!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 14351,
+      "_bytes": 30,
+      "translation": "¡Bueno, a mí eso me da igual!"
     },
     {
       "index": 15,
       "english": "Mimi...",
-      "_offset": 6363,
-      "_length": 7,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 14382,
+      "_bytes": 7,
       "translation": "Mimi..."
     },
     {
       "index": 16,
       "english": "Get me home! Do whatever you can!",
-      "_offset": 6371,
-      "_length": 33,
-      "speaker_id": 23,
-      "translation": "Llevadme a casa, sea como sea!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 14390,
+      "_bytes": 33,
+      "translation": "¡Llevadme a casa, sea como sea!"
     },
     {
       "index": 17,
       "english": "..that's what I'd have said back \nthen, but I'm not gonna say \nselfish things like that anymore!",
-      "_offset": 6405,
-      "_length": 96,
-      "speaker_id": 21,
-      "translation": "...eso habría dicho antes, pero\nya no pienso decir cosas\negoístas como esas!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 14424,
+      "_bytes": 96,
+      "translation": "...eso habría dicho antes, pero\n¡ya no pienso decir cosas\negoístas como esas!"
     },
     {
       "index": 18,
       "english": "You're right. If we don't change\nourselves, nothing else will\nchange.",
-      "_offset": 6502,
-      "_length": 69,
-      "speaker_id": 21,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 14521,
+      "_bytes": 69,
       "translation": "Tienes razón. Si no cambiamos\nnosotros, nada más cambiará."
     },
     {
       "index": 19,
       "english": "I'll believe in my friends!",
-      "_offset": 6572,
-      "_length": 27,
-      "speaker_id": 21,
-      "translation": "Confiaré en mis amigos!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14591,
+      "_bytes": 27,
+      "translation": "¡Confiaré en mis amigos!"
     },
     {
       "index": 20,
       "english": "Guys...",
-      "_offset": 6600,
-      "_length": 7,
-      "speaker_id": 255,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14619,
+      "_bytes": 7,
       "translation": "Tíos..."
     },
     {
       "index": 21,
       "english": "Don't you agree, T.K?",
-      "_offset": 6608,
-      "_length": 24,
-      "speaker_id": 21,
-      "translation": "No crees, T.K.?"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14627,
+      "_bytes": 24,
+      "translation": "¿No crees, T.K.?"
     },
     {
       "index": 22,
       "english": "Yeah! We'll still be together even\nif we end up in the wrong world,\nright?",
-      "_offset": 6633,
-      "_length": 74,
-      "speaker_id": 21,
-      "translation": "Sí! Seguiremos juntos aunque\nacabemos en el mundo\nequivocado, no?"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 14652,
+      "_bytes": 74,
+      "translation": "¡Sí! Seguiremos juntos aunque\nacabemos en el mundo\nequivocado, ¿no?"
     },
     {
       "index": 23,
       "english": "I'm not scared at all!",
-      "_offset": 6708,
-      "_length": 22,
-      "speaker_id": 21,
-      "translation": "No tengo ningún miedo!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 14727,
+      "_bytes": 22,
+      "translation": "¡No tengo ningún miedo!"
     },
     {
       "index": 24,
       "english": "Yeah...",
-      "_offset": 6731,
-      "_length": 7,
-      "speaker_id": 21,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14750,
+      "_bytes": 7,
       "translation": "Sí..."
     },
     {
       "index": 25,
       "english": "What about you, Izzy?",
-      "_offset": 6739,
-      "_length": 26,
-      "speaker_id": 21,
-      "translation": "Y tú qué dices, Izzy?"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 14758,
+      "_bytes": 26,
+      "translation": "¿Y tú qué dices, Izzy?"
     },
     {
       "index": 26,
       "english": "Ah, yes. As always, I believe in\nTai.",
-      "_offset": 6766,
-      "_length": 40,
-      "speaker_id": 21,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14785,
+      "_bytes": 40,
       "translation": "Ah, sí. Como siempre, confío en\nTai."
     },
     {
       "index": 27,
       "english": "Do it, Tai!",
-      "_offset": 6807,
-      "_length": 14,
-      "speaker_id": 21,
-      "translation": "Hazlo, Tai!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 14826,
+      "_bytes": 14,
+      "translation": "¡Hazlo, Tai!"
     },
     {
       "index": 28,
       "english": "...Okay.",
-      "_offset": 6822,
-      "_length": 8,
-      "speaker_id": 21,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14841,
+      "_bytes": 8,
       "translation": "...Vale."
     },
     {
       "index": 29,
       "english": "Hm?! This is...",
-      "_offset": 6831,
-      "_length": 15,
-      "speaker_id": 18,
-      "translation": "Eh?! Esto es..."
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14850,
+      "_bytes": 15,
+      "translation": "¡¿Eh?! Esto es..."
     },
     {
       "index": 30,
       "english": "What's wrong?",
-      "_offset": 6847,
-      "_length": 13,
-      "speaker_id": 21,
-      "translation": "Qué pasa?"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14866,
+      "_bytes": 13,
+      "translation": "¿Qué pasa?"
     },
     {
       "index": 31,
       "english": "There's something written in the\narea where you put the cards.",
-      "_offset": 6861,
-      "_length": 62,
-      "speaker_id": 18,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14880,
+      "_bytes": 62,
       "translation": "Hay algo escrito en la zona\ndonde se ponen las cartas."
     },
     {
       "index": 32,
       "english": "It must be a hint about what cards\nto choose!",
-      "_offset": 6924,
-      "_length": 45,
-      "speaker_id": 21,
-      "translation": "Debe ser una pista sobre qué\ncartas elegir!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14943,
+      "_bytes": 45,
+      "translation": "¡Debe ser una pista sobre qué\ncartas elegir!"
     },
     {
       "index": 33,
       "english": "They're the same characters we've \nseen elsewhere in this world. I'll \ntranslate them with my computer.",
-      "_offset": 6970,
-      "_length": 103,
-      "speaker_id": 21,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14989,
+      "_bytes": 103,
       "translation": "Son los mismos caracteres de\notras zonas de este mundo.\nLos traduzco con el ordenador."
     },
     {
       "index": 34,
       "english": "Okay, I'll leave it to you!",
-      "_offset": 7074,
-      "_length": 27,
-      "speaker_id": 21,
-      "translation": "Vale, te lo dejo a ti!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15093,
+      "_bytes": 27,
+      "translation": "¡Vale, te lo dejo a ti!"
     },
     {
       "index": 35,
       "english": "Here's the first sentence.",
-      "_offset": 7102,
-      "_length": 26,
-      "speaker_id": 255,
-      "translation": "Aquí está la primera frase"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15121,
+      "_bytes": 26,
+      "translation": "Aquí está la primera frase."
     },
     {
       "index": 36,
       "english": "\"From the Virus-types, present a\nChild form.\"",
-      "_offset": 7129,
-      "_length": 45,
-      "speaker_id": 255,
-      "translation": "\"Tipo Virus, mostrad un Cuerpo\nNovato.\""
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15148,
+      "_bytes": 45,
+      "translation": "\"Tipo Virus, mostrad un\nNovato.\""
     },
     {
       "index": 37,
       "english": "A Child form from the\nVirus-types... um...",
-      "_offset": 7175,
-      "_length": 42,
-      "speaker_id": 18,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15194,
+      "_bytes": 42,
       "translation": "Un Novato de tipo\nVirus... a ver..."
     },
     {
       "index": 38,
       "english": "It's Kuwagamon!",
-      "_offset": 7218,
-      "_length": 15,
-      "speaker_id": 255,
-      "translation": "Es Kuwagamon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15237,
+      "_bytes": 15,
+      "translation": "¡Es Kuwagamon!"
     },
     {
       "index": 39,
       "english": "It's Gazimon!",
-      "_offset": 7234,
-      "_length": 13,
-      "speaker_id": 255,
-      "translation": "Es Gazimon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15253,
+      "_bytes": 13,
+      "translation": "¡Es Gazimon!"
     },
     {
       "index": 40,
       "english": "It's TonosamaGekomon!",
-      "_offset": 7248,
-      "_length": 21,
-      "speaker_id": 255,
-      "translation": "Es ShogunGekomon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15267,
+      "_bytes": 21,
+      "translation": "¡Es ShogunGekomon!"
     },
     {
       "index": 41,
       "english": "Next one, Izzy.",
-      "_offset": 7270,
-      "_length": 20,
-      "speaker_id": 21,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15289,
+      "_bytes": 20,
       "translation": "El siguiente, Izzy."
     },
     {
       "index": 42,
       "english": "Yes. Here's the second hint.",
-      "_offset": 7291,
-      "_length": 28,
-      "speaker_id": 255,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15310,
+      "_bytes": 28,
       "translation": "Sí, la segunda pista."
     },
     {
       "index": 43,
       "english": "\"From the Data-types, present an\nAdult form.\"",
-      "_offset": 7320,
-      "_length": 45,
-      "speaker_id": 255,
-      "translation": "\"Tipo Datos, mostrad un Cuerpo\nMaduro.\""
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15339,
+      "_bytes": 45,
+      "translation": "\"Tipo Datos, mostrad un\nCampeón.\""
     },
     {
       "index": 44,
       "english": "An Adult form from the Data-types,\nthat's...",
-      "_offset": 7366,
-      "_length": 44,
-      "speaker_id": 18,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15385,
+      "_bytes": 44,
       "translation": "Un Campeón de tipo Datos,\neso es..."
     },
     {
       "index": 45,
       "english": "It's Unimon!",
-      "_offset": 7411,
-      "_length": 12,
-      "speaker_id": 255,
-      "translation": "Es Unimon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15430,
+      "_bytes": 12,
+      "translation": "¡Es Unimon!"
     },
     {
       "index": 46,
       "english": "It's Digitamamon!",
-      "_offset": 7424,
-      "_length": 17,
-      "speaker_id": 255,
-      "translation": "Es Digitamamon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15443,
+      "_bytes": 17,
+      "translation": "¡Es Digitamamon!"
     },
     {
       "index": 47,
       "english": "It's Drimogemon!",
-      "_offset": 7442,
-      "_length": 16,
-      "speaker_id": 255,
-      "translation": "Es Drimogemon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15461,
+      "_bytes": 16,
+      "translation": "¡Es Drimogemon!"
     },
     {
       "index": 48,
       "english": "That brings us to the third\nsentence.",
-      "_offset": 7459,
-      "_length": 37,
-      "speaker_id": 255,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15478,
+      "_bytes": 37,
       "translation": "Y eso nos lleva a la tercera\nfrase."
     },
     {
       "index": 49,
       "english": "\"From the Vaccine-types, present a\nPerfect form.\"",
-      "_offset": 7497,
-      "_length": 49,
-      "speaker_id": 255,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15516,
+      "_bytes": 49,
       "translation": "\"Tipo Vacuna, mostrad un Cuerpo\nPerfecto.\""
     },
     {
       "index": 50,
       "english": "A Perfect form from the\nVaccine-types, that's...",
-      "_offset": 7547,
-      "_length": 48,
-      "speaker_id": 18,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15566,
+      "_bytes": 48,
       "translation": "Un Cuerpo Perfecto de tipo\nVacuna, eso es..."
     },
     {
       "index": 51,
       "english": "It's Unimon!",
-      "_offset": 7596,
-      "_length": 12,
-      "speaker_id": 255,
-      "translation": "Es Unimon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15615,
+      "_bytes": 12,
+      "translation": "¡Es Unimon!"
     },
     {
       "index": 52,
       "english": "It's Digitamamon!",
-      "_offset": 7609,
-      "_length": 17,
-      "speaker_id": 255,
-      "translation": "Es Digitamamon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15628,
+      "_bytes": 17,
+      "translation": "¡Es Digitamamon!"
     },
     {
       "index": 53,
       "english": "It's Andromon!",
-      "_offset": 7627,
-      "_length": 14,
-      "speaker_id": 255,
-      "translation": "Es Andromon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15646,
+      "_bytes": 14,
+      "translation": "¡Es Andromon!"
     },
     {
       "index": 54,
       "english": "Got it! Izzy, the last hint.",
-      "_offset": 7642,
-      "_length": 33,
-      "speaker_id": 21,
-      "translation": "Entendido! Izzy, la última pista."
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15661,
+      "_bytes": 33,
+      "translation": "¡Entendido! Izzy, la última pista."
     },
     {
       "index": 55,
       "english": "It's still translating. Just a\nlittle longer...",
-      "_offset": 7676,
-      "_length": 47,
-      "speaker_id": 255,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15695,
+      "_bytes": 47,
       "translation": "Todavía está traduciendo. Un\npoco más..."
     },
     {
       "index": 56,
       "english": "I won't let you do that!",
-      "_offset": 7724,
-      "_length": 24,
-      "speaker_id": 255,
-      "translation": "No os lo voy a permitir!"
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 15743,
+      "_bytes": 24,
+      "translation": "¡No os lo voy a permitir!"
     },
     {
       "index": 57,
-      "english": "What's that?",
-      "_offset": 7752,
-      "_length": 12,
-      "speaker_id": 6,
-      "translation": "Qué es eso?"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 15768,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 58,
-      "english": "I won't let you intrude in Lord\nVamdemon's castle!",
-      "_offset": 7765,
-      "_length": 50,
-      "speaker_id": 255,
-      "translation": "No entraréis en el castillo\ndel Amo Myotismon!"
+      "english": "What's that?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15771,
+      "_bytes": 12,
+      "translation": "¿Qué es eso?"
     },
     {
       "index": 59,
-      "english": "Aaaaaaaaaaaah!",
-      "_offset": 7816,
-      "_length": 14,
-      "speaker_id": 6,
-      "translation": "Aaaaaaaaaaaah!"
+      "english": "I won't let you intrude in Lord\nMyotismon's castle!",
+      "speaker_id": 4914,
+      "line_type": 2,
+      "_offset": 15784,
+      "_bytes": 50,
+      "translation": "¡No entraréis en el castillo\ndel Amo Myotismon!"
     },
     {
       "index": 60,
-      "english": "Tai, we can't do anything else\nhere!",
-      "_offset": 7831,
-      "_length": 39,
-      "speaker_id": 6,
-      "translation": "Tai, no podemos hacer nada más\naquí!"
+      "english": "Aaaaaaaaaaaah!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15835,
+      "_bytes": 14,
+      "translation": "¡Aaaaaaaaaaaah!"
     },
     {
       "index": 61,
-      "english": "Wh...what?!",
-      "_offset": 7871,
-      "_length": 11,
-      "speaker_id": 7,
-      "translation": "Q...qué?!"
+      "english": "Tai, we can't do anything else\nhere!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15850,
+      "_bytes": 39,
+      "translation": "Tai, ¡no podemos hacer nada más\naquí!"
     },
     {
       "index": 62,
-      "english": "This is bad! The castle's\nbeginning to fall apart!",
-      "_offset": 7883,
-      "_length": 50,
-      "speaker_id": 7,
-      "translation": "Esto es malo! El castillo\nempieza a desmoronarse!"
+      "english": "Wh...what?!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 15890,
+      "_bytes": 11,
+      "translation": "¡¿Q...qué?!"
     },
     {
       "index": 63,
-      "english": "Tai, we're out of time! Hurry!",
-      "_offset": 7934,
-      "_length": 33,
-      "speaker_id": 6,
-      "translation": "Tai, no queda tiempo! Deprisa!"
+      "english": "This is bad! The castle's\nbeginning to fall apart!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 15902,
+      "_bytes": 50,
+      "translation": "¡Esto es malo! ¡El castillo\nempieza a desmoronarse!"
     },
     {
       "index": 64,
-      "english": "Ah, okay!",
-      "_offset": 7968,
-      "_length": 9,
-      "speaker_id": 6,
-      "translation": "Ah, vale!"
+      "english": "Tai, we're out of time! Hurry!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 15953,
+      "_bytes": 33,
+      "translation": "Tai, ¡no queda tiempo! ¡Deprisa!"
     },
     {
       "index": 65,
-      "english": "Tai, can I have a moment?",
-      "_offset": 7978,
-      "_length": 28,
-      "speaker_id": 21,
-      "translation": "Tai, tienes un momento?"
+      "english": "Ah, okay!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15987,
+      "_bytes": 9,
+      "translation": "¡Ah, vale!"
     },
     {
       "index": 66,
-      "english": "What's wrong, Izzy? At a time\nlike this...",
-      "_offset": 8007,
-      "_length": 47,
-      "speaker_id": 21,
-      "translation": "Qué pasa, Izzy? Con lo que\nqueda..."
+      "english": "Tai, can I have a moment?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15997,
+      "_bytes": 28,
+      "translation": "Tai, ¿tienes un momento?"
     },
     {
       "index": 67,
-      "english": "You made a mistake in the cards\nyou chose, so I went ahead and\ncorrected it.",
-      "_offset": 8055,
-      "_length": 76,
-      "speaker_id": 21,
-      "translation": "Te equivocaste con las cartas\nque elegiste, así que lo he\ncorregido."
+      "english": "What's wrong, Izzy? At a time\nlike this...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16026,
+      "_bytes": 47,
+      "translation": "¿Qué pasa, Izzy? ¿Justo\nahora...?"
     },
     {
       "index": 68,
-      "english": "Gh! Thank you...",
-      "_offset": 8132,
-      "_length": 16,
-      "speaker_id": 7,
-      "translation": "Ah! Gracias..."
+      "english": "You made a mistake in the cards\nyou chose, so I went ahead and\ncorrected it.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16074,
+      "_bytes": 76,
+      "translation": "Te equivocaste con las cartas\nque elegiste, así que lo he\ncorregido."
     },
     {
       "index": 69,
-      "english": "...Translation complete!",
-      "_offset": 8149,
-      "_length": 24,
-      "speaker_id": 23,
-      "translation": "...Traducción completa!"
+      "english": "Gh! Thank you...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16151,
+      "_bytes": 16,
+      "translation": "¡Ah! Gracias..."
     },
     {
       "index": 70,
-      "english": "\"From the Vaccine-types, present a\nChild form.\"",
-      "_offset": 8174,
-      "_length": 47,
-      "speaker_id": 24,
-      "translation": "\"Tipo Vacuna, mostrad un Cuerpo\nNovato.\""
+      "english": "...Translation complete!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16168,
+      "_bytes": 24,
+      "translation": "...¡Traducción completa!"
     },
     {
       "index": 71,
-      "english": "A Child form from the\nVaccine-types! That's...",
-      "_offset": 8222,
-      "_length": 46,
-      "speaker_id": 7,
-      "translation": "Un Novato de tipo\nVacuna! Eso es..."
+      "english": "\"From the Vaccine-types, present a\nChild form.\"",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16193,
+      "_bytes": 47,
+      "translation": "\"Tipo Vacuna, mostrad un\nNovato.\""
     },
     {
       "index": 72,
-      "english": "What's wrong...",
-      "_offset": 8269,
-      "_length": 15,
-      "speaker_id": 21,
-      "translation": "Qué pasa..."
+      "english": "A Child form from the\nVaccine-types! That's...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16241,
+      "_bytes": 46,
+      "translation": "¡Un Novato de tipo\nVacuna! Eso es..."
     },
     {
       "index": 73,
-      "english": "There are two cards that work!\nAgumon and Gomamon...",
-      "_offset": 8285,
-      "_length": 52,
-      "speaker_id": 255,
-      "translation": "Hay dos cartas que sirven!\nAgumon y Gomamon..."
+      "english": "What's wrong...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16288,
+      "_bytes": 15,
+      "translation": "¿Qué pasa...?"
     },
     {
       "index": 74,
-      "english": "N-no way...",
-      "_offset": 8338,
-      "_length": 11,
-      "speaker_id": 7,
-      "translation": "Imposible!"
+      "english": "There are two cards that work!\nAgumon and Gomamon...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16304,
+      "_bytes": 52,
+      "translation": "¡Hay dos cartas que sirven!\nAgumon y Gomamon..."
     },
     {
       "index": 75,
-      "english": "What do we do? Tai?",
-      "_offset": 8350,
-      "_length": 22,
-      "speaker_id": 21,
-      "translation": "Qué hacemos? Tai?"
+      "english": "N-no way...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16357,
+      "_bytes": 11,
+      "translation": "¡Imposible!"
     },
     {
       "index": 76,
-      "english": "Agumon",
-      "_offset": 8377,
-      "_length": 6,
-      "speaker_id": 255,
-      "translation": "Agumon"
+      "english": "What do we do? Tai?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16369,
+      "_bytes": 22,
+      "translation": "¿Qué hacemos? ¿Tai?"
     },
     {
       "index": 77,
-      "english": "Gomamon",
-      "_offset": 8384,
-      "_length": 7,
-      "speaker_id": 255,
-      "translation": "Gomamon"
+      "english": "...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16392,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 78,
-      "english": "I can't choose...",
-      "_offset": 8392,
-      "_length": 17,
-      "speaker_id": 255,
-      "translation": "No puedo elegir!"
+      "english": "Agumon",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16396,
+      "_bytes": 6,
+      "translation": "Agumon"
     },
     {
       "index": 79,
-      "english": "All right! I've decided!",
-      "_offset": 8410,
-      "_length": 24,
-      "speaker_id": 6,
-      "translation": "Muy bien! Ya lo decidí!"
+      "english": "Gomamon",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16403,
+      "_bytes": 7,
+      "translation": "Gomamon"
     },
     {
       "index": 80,
-      "english": "It's the Agumon card! Open the\ndoor!",
-      "_offset": 8435,
-      "_length": 36,
-      "speaker_id": 6,
-      "translation": "Carta de Agumon! Abre la\npuerta!"
+      "english": "I can't choose...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16411,
+      "_bytes": 17,
+      "translation": "¡No puedo elegir!"
     },
     {
       "index": 81,
       "english": "All right! I've decided!",
-      "_offset": 8472,
-      "_length": 24,
-      "speaker_id": 21,
-      "translation": "Muy bien! Ya lo decidí!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16429,
+      "_bytes": 24,
+      "translation": "¡Muy bien! ¡Ya lo decidí!"
     },
     {
       "index": 82,
-      "english": "It's this one! Open the door,\nGomamon!",
-      "_offset": 8497,
-      "_length": 38,
-      "speaker_id": 6,
-      "translation": "Es esta! Abre la puerta,\nGomamon!"
+      "english": "It's the Agumon card! Open the\ndoor!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16454,
+      "_bytes": 36,
+      "translation": "¡La carta de Agumon! ¡Abre la\npuerta!"
     },
     {
       "index": 83,
-      "english": "It's no good, I can't choose!",
-      "_offset": 8536,
-      "_length": 29,
-      "speaker_id": 18,
-      "translation": "No hay forma, no puedo\nelegir"
+      "english": "All right! I've decided!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16491,
+      "_bytes": 24,
+      "translation": "¡Muy bien! ¡Ya lo decidí!"
     },
     {
       "index": 84,
-      "english": "I'll do it!",
-      "_offset": 8566,
-      "_length": 11,
-      "speaker_id": 6,
-      "translation": "Lo haré yo!"
+      "english": "It's this one! Open the door,\nGomamon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16516,
+      "_bytes": 38,
+      "translation": "¡Es esta! ¡Abre la puerta,\nGomamon!"
     },
     {
       "index": 85,
-      "english": "It's this one! Open the door,\nGomamon!",
-      "_offset": 8578,
-      "_length": 38,
-      "speaker_id": 6,
-      "translation": "Es esta! Abre la puerta,\nGomamon!"
+      "english": "It's no good, I can't choose!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16555,
+      "_bytes": 29,
+      "translation": "No hay forma, ¡no puedo elegir!"
     },
     {
       "index": 86,
-      "english": "Please!",
-      "_offset": 8617,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Porfa!"
+      "english": "I'll do it!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16585,
+      "_bytes": 11,
+      "translation": "¡Lo haré yo!"
     },
     {
       "index": 87,
-      "english": "Open!",
-      "_offset": 8625,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Abre!"
+      "english": "It's this one! Open the door,\nGomamon!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16597,
+      "_bytes": 38,
+      "translation": "¡Es esta! ¡Abre la puerta,\nGomamon!"
     },
     {
       "index": 88,
-      "english": "It's opening...",
-      "_offset": 8631,
-      "_length": 15,
-      "speaker_id": 2,
-      "translation": "Ya se abre..."
+      "english": "Please!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16636,
+      "_bytes": 7,
+      "translation": "¡Porfa!"
     },
     {
       "index": 89,
-      "english": "We did it!",
-      "_offset": 8647,
-      "_length": 10,
-      "speaker_id": 2,
-      "translation": "Ya está!"
+      "english": "Open!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 16644,
+      "_bytes": 5,
+      "translation": "¡Abre!"
     },
     {
       "index": 90,
-      "english": "Ah..!",
-      "_offset": 8658,
-      "_length": 5,
-      "speaker_id": 7,
-      "translation": "Ah..!"
+      "english": "It's opening...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16650,
+      "_bytes": 15,
+      "translation": "Ya se abre..."
     },
     {
       "index": 91,
-      "english": "What's wrong, Tai?",
-      "_offset": 8664,
-      "_length": 21,
-      "speaker_id": 21,
-      "translation": "Qué pasa, Tai?"
+      "english": "We did it!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 16666,
+      "_bytes": 10,
+      "translation": "¡Ya está!"
     },
     {
       "index": 92,
-      "english": "I put down the wrong card! I\naccidentally put in the Gomamon\ncard!",
-      "_offset": 8686,
-      "_length": 66,
-      "speaker_id": 21,
-      "translation": "Puse la carta equivocada! Metí\npor error la carta de\nGomamon!"
+      "english": "Ah..!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16677,
+      "_bytes": 5,
+      "translation": "¡Ah...!"
     },
     {
       "index": 93,
-      "english": "Well, the result turned out fine.",
-      "_offset": 8753,
-      "_length": 33,
-      "speaker_id": 7,
-      "translation": "Bueno, al final salió bien."
+      "english": "What's wrong, Tai?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16683,
+      "_bytes": 21,
+      "translation": "¿Qué pasa, Tai?"
     },
     {
       "index": 94,
-      "english": "We'll keep this a secret.",
-      "_offset": 8787,
-      "_length": 25,
-      "speaker_id": 21,
-      "translation": "Esto quedará en secreto."
+      "english": "I put down the wrong card! I\naccidentally put in the Gomamon\ncard!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16705,
+      "_bytes": 66,
+      "translation": "¡Puse la carta equivocada! ¡Metí\npor error la carta de\nGomamon!"
     },
     {
       "index": 95,
-      "english": "Y-yes...",
-      "_offset": 8813,
-      "_length": 8,
-      "speaker_id": 21,
-      "translation": "S-sí..."
+      "english": "Well, the result turned out fine.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16772,
+      "_bytes": 33,
+      "translation": "Bueno, al final salió bien."
     },
     {
       "index": 96,
-      "english": "Come on, everyone! Go through the\ndoor!",
-      "_offset": 8822,
-      "_length": 39,
-      "speaker_id": 6,
-      "translation": "Venga, todos! Cruzad la\npuerta!"
+      "english": "We'll keep this a secret.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16806,
+      "_bytes": 25,
+      "translation": "Esto quedará en secreto."
     },
     {
       "index": 97,
-      "english": "Let's go, guys!",
-      "_offset": 8862,
-      "_length": 15,
-      "speaker_id": 6,
-      "translation": "Vamos, chicos!"
+      "english": "Y-yes...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16832,
+      "_bytes": 8,
+      "translation": "S-sí..."
     },
     {
       "index": 98,
-      "english": "Huh? W-we're in...",
-      "_offset": 8881,
-      "_length": 18,
-      "speaker_id": 255,
-      "translation": "Eh? Estamos en..."
+      "english": "Come on, everyone! Go through the\ndoor!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16841,
+      "_bytes": 39,
+      "translation": "¡Venga, todos! ¡Cruzad la\npuerta!"
     },
     {
       "index": 99,
-      "english": "Japan...?",
-      "_offset": 8900,
-      "_length": 9,
-      "speaker_id": 255,
-      "translation": "Japón...?"
+      "english": "Let's go, guys!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16881,
+      "_bytes": 15,
+      "translation": "¡Vamos, chicos!"
     },
     {
       "index": 100,
-      "english": "The shrine! The campgrounds! We're\nback!",
-      "_offset": 8910,
-      "_length": 40,
-      "speaker_id": 2,
-      "translation": "El templo! El camping! Hemos\nvuelto!"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 16897,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 101,
-      "english": "Yaaaaaaaaaaaay!",
-      "_offset": 8951,
-      "_length": 15,
-      "speaker_id": 2,
-      "translation": "Bieeeeeeeeeen!"
+      "english": "Huh? W-we're in...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16900,
+      "_bytes": 18,
+      "translation": "¿Eh? Estamos en..."
     },
     {
       "index": 102,
-      "english": "But...what about the Digimon?",
-      "_offset": 8967,
-      "_length": 29,
-      "speaker_id": 21,
-      "translation": "Pero...y los Digimon?"
+      "english": "Japan...?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16919,
+      "_bytes": 9,
+      "translation": "¿Japón...?"
     },
     {
       "index": 103,
-      "english": "Soraaaaaaaaa!",
-      "_offset": 8997,
-      "_length": 13,
-      "speaker_id": 255,
-      "translation": "Soraaaaaaaaa!"
+      "english": "The shrine! The campgrounds! We're\nback!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 16929,
+      "_bytes": 40,
+      "translation": "¡El templo! ¡El camping! ¡Hemos\nvuelto!"
     },
     {
       "index": 104,
-      "english": "Welcome back!",
-      "_offset": 9014,
-      "_length": 13,
-      "speaker_id": 255,
-      "translation": "Bienvenida!"
+      "english": "Yaaaaaaaaaaaay!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 16970,
+      "_bytes": 15,
+      "translation": "¡Bieeeeeeeeeen!"
     },
     {
       "index": 105,
-      "english": "Welcome back!",
-      "_offset": 9028,
-      "_length": 13,
-      "speaker_id": 255,
-      "translation": "Bienvenida!"
+      "english": "But...what about the Digimon?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 16986,
+      "_bytes": 29,
+      "translation": "Pero...¿y los Digimon?"
     },
     {
       "index": 106,
-      "english": "Welcome back!",
-      "_offset": 9042,
-      "_length": 13,
-      "speaker_id": 255,
-      "translation": "Bienvenida!"
+      "english": "Soraaaaaaaaa!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 17016,
+      "_bytes": 13,
+      "translation": "¡Soraaaaaaaaa!"
     },
     {
       "index": 107,
-      "english": "We're back!",
-      "_offset": 9056,
-      "_length": 11,
-      "speaker_id": 255,
-      "translation": "Volvimos!"
+      "english": "!!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17030,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 108,
-      "english": "Hey, Vamdemon's probably already\ngotten to work by now.",
-      "_offset": 9068,
-      "_length": 55,
-      "speaker_id": 21,
-      "translation": "Oye, seguro que Myotismon se\nha puesto manos a la obra."
+      "english": "Welcome back!",
+      "speaker_id": 6061,
+      "line_type": 2,
+      "_offset": 17033,
+      "_bytes": 13,
+      "translation": "¡Bienvenidos!"
     },
     {
       "index": 109,
-      "english": "Yeah, at Karigaoka! The eighth\nchild must be there!",
-      "_offset": 9124,
-      "_length": 53,
-      "speaker_id": 21,
-      "translation": "Sí, en Hikarioka! El octavo\nniño debe estar allí!"
+      "english": "Welcome back!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 17047,
+      "_bytes": 13,
+      "translation": "¡Bienvenida!"
     },
     {
       "index": 110,
-      "english": "We have to find them before he\ndoes and help them!",
-      "_offset": 9178,
-      "_length": 50,
-      "speaker_id": 6,
-      "translation": "Debemos encontrarlo antes que\nél y ayudarlo!"
+      "english": "Welcome back!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 17061,
+      "_bytes": 13,
+      "translation": "¡Bienvenida!"
     },
     {
       "index": 111,
-      "english": "We have to find them before he\ndoes and help them!",
-      "_offset": 9229,
-      "_length": 50,
-      "speaker_id": 255,
-      "translation": "Debemos encontrarlo antes que\nél y ayudarlo!"
+      "english": "We're back!",
+      "speaker_id": 6081,
+      "line_type": 2,
+      "_offset": 17075,
+      "_bytes": 11,
+      "translation": "¡Volvimos!"
     },
     {
       "index": 112,
-      "english": "We have to find them before he\ndoes and help them!",
-      "_offset": 9280,
-      "_length": 50,
-      "speaker_id": 255,
-      "translation": "Debemos encontrarlo antes que\nél y ayudarlo!"
+      "english": "Hey, Myotismon's probably already\ngotten to work by now.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 17087,
+      "_bytes": 55,
+      "translation": "Oye, seguro que Myotismon se\nha puesto manos a la obra."
     },
     {
       "index": 113,
-      "english": "Yeah!",
-      "_offset": 9331,
-      "_length": 5,
-      "speaker_id": 255,
-      "translation": "Sí!"
+      "english": "Yeah, at Karigaoka! The eighth\nchild must be there!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17143,
+      "_bytes": 53,
+      "translation": "¡Sí, en Hikarioka! ¡El octavo\nniño debe estar allí!"
     },
     {
       "index": 114,
+      "english": "We have to find them before he\ndoes and help them!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17197,
+      "_bytes": 50,
+      "translation": "¡Debemos encontrarlo antes que\nél y ayudarlo!"
+    },
+    {
+      "index": 115,
+      "english": "We have to find them before he\ndoes and help them!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 17248,
+      "_bytes": 50,
+      "translation": "¡Debemos encontrarlo antes que\nél y ayudarlo!"
+    },
+    {
+      "index": 116,
+      "english": "We have to find them before he\ndoes and help them!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 17299,
+      "_bytes": 50,
+      "translation": "¡Debemos encontrarlo antes que\nél y ayudarlo!"
+    },
+    {
+      "index": 117,
+      "english": "Yeah!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 17350,
+      "_bytes": 5,
+      "translation": "¡Sí!"
+    },
+    {
+      "index": 118,
       "english": "Oh, Tai! I found this while we\nwere going through the gate.",
-      "_offset": 9337,
-      "_length": 62,
-      "speaker_id": 255,
-      "translation": "Oh, Tai! Encontré esto\nmientras cruzábamos la puerta."
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 17356,
+      "_bytes": 62,
+      "translation": "¡Oh, Tai! Encontré esto\nmientras cruzábamos la puerta."
     }
   ]
 }

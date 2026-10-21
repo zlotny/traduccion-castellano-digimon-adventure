@@ -1,670 +1,782 @@
 {
   "file_id": "3580",
-  "text_count": 83,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 86,
   "dialog": [
     {
       "index": 0,
-      "english": "��������Nf... U-Ugh...",
-      "_offset": 3618,
-      "_length": 22,
-      "speaker_id": 0,
+      "english": "Nf... U-Ugh...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 9512,
+      "_bytes": 14,
       "translation": "U-ugh..."
     },
     {
       "index": 1,
       "english": "Where am...?",
-      "_offset": 3641,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Dónde...?"
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 9527,
+      "_bytes": 12,
+      "translation": "¿Dónde...?"
     },
     {
       "index": 2,
       "english": "Oh, you're awake?",
-      "_offset": 3654,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Has despertado?"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 9540,
+      "_bytes": 17,
+      "translation": "¿Has despertado?"
     },
     {
       "index": 3,
       "english": "Kari!",
-      "_offset": 3672,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Kari!"
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 9558,
+      "_bytes": 7,
+      "translation": "¡Kari!"
     },
     {
       "index": 4,
       "english": "T.K... Tailmon...",
-      "_offset": 3680,
-      "_length": 20,
-      "speaker_id": 0,
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 9566,
+      "_bytes": 20,
       "translation": "T.K... Gatomon..."
     },
     {
       "index": 5,
       "english": "How do you feel?",
-      "_offset": 3701,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Cómo te sientes?"
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 9587,
+      "_bytes": 16,
+      "translation": "¿Cómo te sientes?"
     },
     {
       "index": 6,
       "english": "My fever's coming down. And I feel\na lot better.",
-      "_offset": 3718,
-      "_length": 48,
-      "speaker_id": 0,
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 9604,
+      "_bytes": 48,
       "translation": "Se me baja la fiebre. Y me\nsiento mucho mejor."
     },
     {
       "index": 7,
       "english": "Oh, Kari! You're awake.",
-      "_offset": 3767,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Kari! Ya has despertado."
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 9653,
+      "_bytes": 25,
+      "translation": "¡Kari! Ya has despertado."
     },
     {
       "index": 8,
       "english": "Sora...?",
-      "_offset": 3793,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Sora...?"
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 9679,
+      "_bytes": 8,
+      "translation": "¿Sora...?"
     },
     {
       "index": 9,
       "english": "Where's Tai?",
-      "_offset": 3802,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Dónde está Tai?"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 9688,
+      "_bytes": 15,
+      "translation": "¿Dónde está Tai?"
     },
     {
       "index": 10,
       "english": "I couldn't find him anywhere\nnearby, but I've found this: cold\nmedicine!",
-      "_offset": 3818,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "No lo encontré, pero hallé\nesto: medicina para el\nresfriado!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 9704,
+      "_bytes": 72,
+      "translation": "No lo encontré, pero hallé\nesto: ¡medicina para el\nresfriado!"
     },
     {
       "index": 11,
       "english": "Pretty sure Tai must have\ngotten it for you and dropped it.",
-      "_offset": 3891,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Seguro que Tai la compró\npara ti y se le cayó."
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 9777,
+      "_bytes": 62,
+      "translation": "Seguro que Tai la consiguió\npara ti y se le cayó."
     },
     {
       "index": 12,
       "english": "Medicine that Tai had... so\ndoes that mean he's somewhere\naround here?",
-      "_offset": 3954,
-      "_length": 73,
-      "speaker_id": 0,
-      "translation": "La medicina de Tai... o sea\nque está por aquí cerca?"
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 9840,
+      "_bytes": 73,
+      "translation": "La medicina de Tai... ¿o sea\nque está por aquí cerca?"
     },
     {
       "index": 13,
       "english": "Seems like this place is a maze.\nIf we look for him together, I'm\nsure we'll find him.",
-      "_offset": 4028,
-      "_length": 86,
-      "speaker_id": 0,
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 9914,
+      "_bytes": 86,
       "translation": "Parece que esto es un laberinto.\nSi lo buscamos juntos, seguro\nque lo encontramos."
     },
     {
       "index": 14,
       "english": "You see? So cheer up!",
-      "_offset": 4115,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ves? Así que anímate!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 10001,
+      "_bytes": 21,
+      "translation": "¿Ves? ¡Así que anímate!"
     },
     {
       "index": 15,
       "english": "I'll help you guys out! I'm his\nlittle sister, after all!",
-      "_offset": 4137,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Os ayudaré! Al fin y al cabo,\nsoy su hermana pequeña!"
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10023,
+      "_bytes": 57,
+      "translation": "¡Os ayudaré! ¡Al fin y al cabo,\nsoy su hermana pequeña!"
     },
     {
       "index": 16,
       "english": "Wait!",
-      "_offset": 4195,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Alto!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 10081,
+      "_bytes": 5,
+      "translation": "¡Alto!"
     },
     {
       "index": 17,
       "english": "What's wrong, Sora?",
-      "_offset": 4201,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Qué pasa, Sora?"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 10087,
+      "_bytes": 19,
+      "translation": "¿Qué pasa, Sora?"
     },
     {
       "index": 18,
       "english": "Quiet! I can hear voices coming\nfrom there!",
-      "_offset": 4221,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Silencio! Oigo voces\nque vienen de allí!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 10107,
+      "_bytes": 43,
+      "translation": "¡Silencio! ¡Oigo voces\nque vienen de allí!"
     },
     {
       "index": 19,
       "english": "Let's get a little closer.",
-      "_offset": 4265,
-      "_length": 26,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 10151,
+      "_bytes": 26,
       "translation": "Acerquémonos un poco."
     },
     {
       "index": 20,
       "english": "Work! Work! Work harder!",
-      "_offset": 4292,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Trabajad! Trabajad! Más!"
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 10178,
+      "_bytes": 24,
+      "translation": "¡Trabajad! ¡Trabajad! ¡Más!"
     },
     {
       "index": 21,
       "english": "Nuuuu!",
-      "_offset": 4317,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Nuuuu!"
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10203,
+      "_bytes": 6,
+      "translation": "¡Nuuuu!"
     },
     {
       "index": 22,
       "english": "Listen up, Numemon. This here\nmountain's the property of\nMugendramon.",
-      "_offset": 4324,
-      "_length": 69,
-      "speaker_id": 0,
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 10210,
+      "_bytes": 69,
       "translation": "Escuchad, Numemon. Esta montaña\nes propiedad de Machinedramon."
     },
     {
       "index": 23,
       "english": "And you all are the power source\nfor the greater urban area! So\nwork, work, work until you die!",
-      "_offset": 4394,
-      "_length": 95,
-      "speaker_id": 0,
-      "translation": "Sois la fuente de energía de\nla gran zona urbana! Así que\na trabajar hasta morir!"
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 10280,
+      "_bytes": 95,
+      "translation": "¡Sois la fuente de energía de\nla gran zona urbana! ¡Así que\na trabajar hasta morir!"
     },
     {
       "index": 24,
       "english": "Nuuuu!!",
-      "_offset": 4490,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Nuuuu!!"
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10376,
+      "_bytes": 7,
+      "translation": "¡¡Nuuuu!!"
     },
     {
       "index": 25,
       "english": "Is that... Monzaemon?",
-      "_offset": 4498,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Eso es... Monzaemon?"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 10384,
+      "_bytes": 21,
+      "translation": "Eso es... ¿Monzaemon?"
     },
     {
       "index": 26,
       "english": "That's not Monzaemon. It's\nWaruMonzaemon!",
-      "_offset": 4520,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Ese no es Monzaemon. Es\nWaruMonzaemon!"
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 10406,
+      "_bytes": 41,
+      "translation": "Ese no es Monzaemon. ¡Es\nWaruMonzaemon!"
     },
     {
       "index": 27,
       "english": "The poor Numemon...",
-      "_offset": 4562,
-      "_length": 19,
-      "speaker_id": 0,
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10448,
+      "_bytes": 19,
       "translation": "Pobres Numemon..."
     },
     {
       "index": 28,
       "english": "Kari...?!",
-      "_offset": 4582,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Kari...?!"
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 10468,
+      "_bytes": 11,
+      "translation": "¡¿Kari...?!"
     },
     {
       "index": 29,
-      "english": "Nuuuu!?",
-      "_offset": 4597,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Nuuuu!?"
+      "english": "?!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 10480,
+      "_bytes": 2,
+      "translation": "?!"
     },
     {
       "index": 30,
-      "english": "What's going on? Flaking off now?",
-      "_offset": 4605,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Qué pasa? Dejáis de currar?"
+      "english": "Nuuuu!?",
+      "speaker_id": 4032,
+      "line_type": 2,
+      "_offset": 10483,
+      "_bytes": 7,
+      "translation": "¿¡Nuuuu!?"
     },
     {
       "index": 31,
-      "english": "Y...You!!",
-      "_offset": 4639,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "T...Tú!!"
+      "english": "What's going on? Flaking off now?",
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 10491,
+      "_bytes": 33,
+      "translation": "¿Qué pasa? ¿Dejáis de currar?"
     },
     {
       "index": 32,
-      "english": "Gyaaaaah! Run!!",
-      "_offset": 4649,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Gyaaah! Huid!!"
+      "english": "Y...You!!",
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 10525,
+      "_bytes": 9,
+      "translation": "¡¡T...Tú!!"
     },
     {
       "index": 33,
-      "english": "Hey! Stop right there!",
-      "_offset": 4665,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Eh! Quieto ahí!"
+      "english": "Gyaaaaah! Run!!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 10535,
+      "_bytes": 15,
+      "translation": "¡Gyaaah! ¡¡Huid!!"
     },
     {
       "index": 34,
-      "english": "Tailmon, don't worry about me. We\nhave to free the Numemon.",
-      "_offset": 4688,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Gatomon, no te preocupes.\nHay que liberar a los Numemon."
+      "english": "Hey! Stop right there!",
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 10551,
+      "_bytes": 22,
+      "translation": "¡Eh! ¡Quietos ahí!"
     },
     {
       "index": 35,
-      "english": "All right...",
-      "_offset": 4748,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Vale..."
+      "english": "Tailmon, don't worry about me. We\nhave to free the Numemon.",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10574,
+      "_bytes": 59,
+      "translation": "Gatomon, no te preocupes.\nHay que liberar a los Numemon."
     },
     {
       "index": 36,
-      "english": "Stop!",
-      "_offset": 4761,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Alto!"
+      "english": "All right...",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 10634,
+      "_bytes": 12,
+      "translation": "Vale..."
     },
     {
       "index": 37,
-      "english": "What are we gonna do, Sora?",
-      "_offset": 4767,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Qué hacemos, Sora?"
+      "english": "Stop!",
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 10647,
+      "_bytes": 5,
+      "translation": "¡Alto!"
     },
     {
       "index": 38,
-      "english": "The only thing we can do is run!",
-      "_offset": 4795,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Solo podemos correr!"
+      "english": "What are we gonna do, Sora?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 10653,
+      "_bytes": 27,
+      "translation": "¿Qué hacemos, Sora?"
     },
     {
       "index": 39,
-      "english": "Lady Kari... Lady Kari...",
-      "_offset": 4828,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Ama Kari... Ama Kari..."
+      "english": "The only thing we can do is run!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 10681,
+      "_bytes": 32,
+      "translation": "¡Solo podemos correr!"
     },
     {
       "index": 40,
-      "english": "The Numemon are...",
-      "_offset": 4858,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Los Numemon..."
+      "english": "Lady Kari... Lady Kari...",
+      "speaker_id": 4032,
+      "line_type": 2,
+      "_offset": 10714,
+      "_bytes": 29,
+      "translation": "Ama Kari... Ama Kari..."
     },
     {
       "index": 41,
-      "english": "Gyaaaaah!",
-      "_offset": 4881,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Gyaaaaah!"
+      "english": "The Numemon are...",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 10744,
+      "_bytes": 18,
+      "translation": "Los Numemon..."
     },
     {
       "index": 42,
-      "english": "Aaaaah!",
-      "_offset": 4891,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Aaaaah!"
+      "english": "...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10763,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 43,
-      "english": "Kari?",
-      "_offset": 4903,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Kari?"
+      "english": "Gyaaaaah!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 10767,
+      "_bytes": 9,
+      "translation": "¡Gyaaaaah!"
     },
     {
       "index": 44,
-      "english": "Nu, nuuuuuu!",
-      "_offset": 4911,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Nu, nuuuuuu!"
+      "english": "Aaaaah!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 10777,
+      "_bytes": 7,
+      "translation": "¡Aaaaah!"
     },
     {
       "index": 45,
-      "english": "Hey, you Numemon over there!\nWhaddya think you're doing?",
-      "_offset": 4924,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Eh, vosotros, Numemon!\nQué creéis que hacéis?"
+      "english": "...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10785,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 46,
-      "english": "Nu!",
-      "_offset": 4981,
-      "_length": 3,
-      "speaker_id": 0,
-      "translation": "Nu!"
+      "english": "Kari?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 10789,
+      "_bytes": 7,
+      "translation": "¿Kari?"
     },
     {
       "index": 47,
-      "english": "...Gh! Who released the Numemon?",
-      "_offset": 4985,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "...Argh! Quién los soltó?"
+      "english": "Nu, nuuuuuu!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10797,
+      "_bytes": 12,
+      "translation": "¡Nu, nuuuuuu!"
     },
     {
       "index": 48,
-      "english": "That would be me.",
-      "_offset": 5018,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "He sido yo."
+      "english": "Hey, you Numemon over there!\nWhaddya think you're doing?",
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 10810,
+      "_bytes": 56,
+      "translation": "¡Eh, vosotros, Numemon!\n¿Qué creéis que hacéis?"
     },
     {
       "index": 49,
-      "english": "Kari!",
-      "_offset": 5036,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Kari!"
+      "english": "Nu!",
+      "speaker_id": 4032,
+      "line_type": 2,
+      "_offset": 10867,
+      "_bytes": 3,
+      "translation": "¡Nu!"
     },
     {
       "index": 50,
-      "english": "Kari!",
-      "_offset": 5044,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Kari!"
+      "english": "...Gh! Who released the Numemon?",
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 10871,
+      "_bytes": 32,
+      "translation": "...¡Argh! ¿Quién los soltó?"
     },
     {
       "index": 51,
-      "english": "Why, you!",
-      "_offset": 5052,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Serás...!"
+      "english": "That would be me.",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10904,
+      "_bytes": 17,
+      "translation": "He sido yo."
     },
     {
       "index": 52,
-      "english": "Nuuuu!",
-      "_offset": 5062,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Nuuuu!"
+      "english": "Kari!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 10922,
+      "_bytes": 7,
+      "translation": "¡Kari!"
     },
     {
       "index": 53,
-      "english": "You think you can defeat *me*, the\ngreat WaruMonzaemon?",
-      "_offset": 5069,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Creéis que podéis derrotar\nal gran WaruMonzaemon?"
+      "english": "Kari!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 10930,
+      "_bytes": 7,
+      "translation": "¡Kari!"
     },
     {
       "index": 54,
-      "english": "Nu, nu!",
-      "_offset": 5125,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Nu, nu!"
+      "english": "Why, you!",
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 10938,
+      "_bytes": 9,
+      "translation": "¡Serás...!"
     },
     {
       "index": 55,
-      "english": "Hah hah ha! It's the end for you!",
-      "_offset": 5133,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Ja ja ja! Se acabó para vosotros!"
+      "english": "Nuuuu!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 10948,
+      "_bytes": 6,
+      "translation": "¡Nuuuu!"
     },
     {
       "index": 56,
-      "english": "W-What's with this light...",
-      "_offset": 5167,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Q-qué es esta luz..."
+      "english": "You think you can defeat *me*, the\ngreat WaruMonzaemon?",
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 10955,
+      "_bytes": 55,
+      "translation": "¿Creéis que podéis derrotar\nal gran WaruMonzaemon?"
     },
     {
       "index": 57,
-      "english": "Kari...",
-      "_offset": 5195,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Kari..."
+      "english": "Nu, nu!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11011,
+      "_bytes": 7,
+      "translation": "¡Nu, nu!"
     },
     {
       "index": 58,
-      "english": "I feel power coming from inside\nher...",
-      "_offset": 5205,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Noto un poder saliendo\nde ella..."
+      "english": "Hah hah ha! It's the end for you!",
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 11019,
+      "_bytes": 33,
+      "translation": "¡Ja ja ja! ¡Se acabó para vosotros!"
     },
     {
       "index": 59,
-      "english": "Yeah, there's power overflowing\nfrom inside her body!",
-      "_offset": 5244,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Sí, hay un poder que desborda\nde todo su cuerpo!"
+      "english": "W-What's with this light...",
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 11053,
+      "_bytes": 27,
+      "translation": "¿Q-qué es esta luz...?"
     },
     {
       "index": 60,
-      "english": "Wanna try going at it?",
-      "_offset": 5298,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Vamos a por él?"
+      "english": "Kari...",
+      "speaker_id": 2831,
+      "line_type": 2,
+      "_offset": 11081,
+      "_bytes": 9,
+      "translation": "Kari..."
     },
     {
       "index": 61,
-      "english": "Yeah! Leave it to us!",
-      "_offset": 5321,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Sí! Dejádnoslo!"
+      "english": "I feel power coming from inside\nher...",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 11091,
+      "_bytes": 38,
+      "translation": "Noto un poder saliendo\nde ella..."
     },
     {
       "index": 62,
-      "english": "I'm ready whenever you are!",
-      "_offset": 5343,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Lista cuando queráis!"
+      "english": "Yeah, there's power overflowing\nfrom inside her body!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 11130,
+      "_bytes": 53,
+      "translation": "¡Sí, hay un poder que desborda\nde todo su cuerpo!"
     },
     {
       "index": 63,
-      "english": "Gaaahh!!",
-      "_offset": 5371,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Gaaahh!!"
+      "english": "Wanna try going at it?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11184,
+      "_bytes": 22,
+      "translation": "¿Vamos a por él?"
     },
     {
       "index": 64,
-      "english": "Are you okay, Numemon?",
-      "_offset": 5380,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Estáis bien, Numemon?"
+      "english": "Yeah! Leave it to us!",
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 11207,
+      "_bytes": 21,
+      "translation": "¡Sí! ¡Dejádnoslo!"
     },
     {
       "index": 65,
-      "english": "Nu... nu...",
-      "_offset": 5403,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Nu... nu..."
+      "english": "I'm ready whenever you are!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 11229,
+      "_bytes": 27,
+      "translation": "¡Listo cuando queráis!"
     },
     {
       "index": 66,
-      "english": "They'll be okay in no time flat!",
-      "_offset": 5415,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Se pondrán bien enseguida!"
+      "english": "Gaaahh!!",
+      "speaker_id": 4461,
+      "line_type": 2,
+      "_offset": 11257,
+      "_bytes": 8,
+      "translation": "¡¡Gaaahh!!"
     },
     {
       "index": 67,
-      "english": "Thank goodness...",
-      "_offset": 5448,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Menos mal..."
+      "english": "Are you okay, Numemon?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11266,
+      "_bytes": 22,
+      "translation": "¿Estáis bien, Numemon?"
     },
     {
       "index": 68,
-      "english": "Kari's light...",
-      "_offset": 5466,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "La luz de Kari..."
+      "english": "Nu... nu...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 11289,
+      "_bytes": 11,
+      "translation": "Nu... nu..."
     },
     {
       "index": 69,
-      "english": "The light is showing us the way...",
-      "_offset": 5484,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "La luz nos muestra el camino..."
+      "english": "They'll be okay in no time flat!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11301,
+      "_bytes": 32,
+      "translation": "¡Se pondrán bien enseguida!"
     },
     {
       "index": 70,
-      "english": "If we keep following the light,\nmaybe we'll find Tai and the\nothers!",
-      "_offset": 5519,
-      "_length": 71,
-      "speaker_id": 0,
-      "translation": "Si seguimos la luz, seguro que\nencontramos a Tai y a los demás!"
+      "english": "Thank goodness...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11334,
+      "_bytes": 17,
+      "translation": "Menos mal..."
     },
     {
       "index": 71,
-      "english": "Okay! We'll put our faith in your\nlight, Kari.",
-      "_offset": 5591,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Vale! Confiaremos en tu luz,\nKari."
+      "english": "Kari's light...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 11352,
+      "_bytes": 17,
+      "translation": "La luz de Kari..."
     },
     {
       "index": 72,
-      "english": "Sora... I wonder how Matt is\ndoing?",
-      "_offset": 5640,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Sora... me pregunto cómo\nestará Matt?"
+      "english": "The light is showing us the way...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11370,
+      "_bytes": 34,
+      "translation": "La luz nos muestra el camino..."
     },
     {
       "index": 73,
-      "english": "Matt has Gabumon with him.",
-      "_offset": 5678,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Matt tiene a Gabumon con él."
+      "english": "If we keep following the light,\nmaybe we'll find Tai and the\nothers!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 11405,
+      "_bytes": 71,
+      "translation": "¡Si seguimos la luz, seguro que\nencontramos a Tai y a los demás!"
     },
     {
       "index": 74,
-      "english": "He wouldn't want you sad, T.K.",
-      "_offset": 5707,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "No querría verte triste, T.K."
+      "english": "Okay! We'll put our faith in your\nlight, Kari.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11477,
+      "_bytes": 48,
+      "translation": "¡Vale! Confiaremos en tu luz,\nKari."
     },
     {
       "index": 75,
-      "english": "Those two won't be taken down so\neasily.",
-      "_offset": 5741,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Esos dos no caerán tan\nfácilmente."
+      "english": "Sora... I wonder how Matt is\ndoing?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 11526,
+      "_bytes": 37,
+      "translation": "Sora... ¿cómo estará\nMatt?"
     },
     {
       "index": 76,
-      "english": "I'm sure he'll come back when he\nfeels better.",
-      "_offset": 5782,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Seguro que vuelve en cuanto\nse encuentre mejor."
+      "english": "Matt has Gabumon with him.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 11564,
+      "_bytes": 28,
+      "translation": "Matt tiene a Gabumon con él."
     },
     {
       "index": 77,
-      "english": "Yeah...",
-      "_offset": 5829,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Sí..."
+      "english": "He wouldn't want you sad, T.K.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 11593,
+      "_bytes": 33,
+      "translation": "No querría verte triste, T.K."
     },
     {
       "index": 78,
-      "english": "I'm sure he's thinking of you,\nT.K.",
-      "_offset": 5837,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Seguro que está pensando\nen ti, T.K."
+      "english": "Those two won't be taken down so\neasily.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11627,
+      "_bytes": 40,
+      "translation": "Esos dos no caerán tan\nfácilmente."
     },
     {
       "index": 79,
-      "english": "So have faith in him, okay?",
-      "_offset": 5876,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Confía en él, vale?"
+      "english": "I'm sure he'll come back when he\nfeels better.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11668,
+      "_bytes": 46,
+      "translation": "Seguro que vuelve en cuanto\nse encuentre mejor."
     },
     {
       "index": 80,
-      "english": "You're right... Matt's always\nthinking of me.",
-      "_offset": 5904,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Tienes razón... Matt siempre\npiensa en mí."
+      "english": "Yeah...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 11715,
+      "_bytes": 7,
+      "translation": "Sí..."
     },
     {
       "index": 81,
-      "english": "But this time, I'll be the one to\nlook after him!",
-      "_offset": 5952,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Pero esta vez, yo cuidaré\nde él!"
+      "english": "I'm sure he's thinking of you,\nT.K.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11723,
+      "_bytes": 38,
+      "translation": "Seguro que está pensando\nen ti, T.K."
     },
     {
       "index": 82,
+      "english": "So have faith in him, okay?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11762,
+      "_bytes": 27,
+      "translation": "Confía en él, ¿vale?"
+    },
+    {
+      "index": 83,
+      "english": "You're right... Matt's always\nthinking of me.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 11790,
+      "_bytes": 47,
+      "translation": "Tienes razón... Matt siempre\npiensa en mí."
+    },
+    {
+      "index": 84,
+      "english": "But this time, I'll be the one to\nlook after him!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 11838,
+      "_bytes": 49,
+      "translation": "¡Pero esta vez, yo cuidaré\nde él!"
+    },
+    {
+      "index": 85,
       "english": "Yeah!",
-      "_offset": 6002,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 11888,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     }
   ]
 }

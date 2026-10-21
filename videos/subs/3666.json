@@ -1,0 +1,31 @@
+{
+  "file_id": "3666",
+  "style": {
+    "center_x": 240,
+    "baseline_y": 252,
+    "cap_height": 12,
+    "line_height": 23,
+    "fill": "#fdfbfc",
+    "outline": "#120d0f",
+    "outline_width": 2,
+    "font": "digimon_toolkit/fonts/Nunito.ttf",
+    "font_variation": "Black",
+    "font_size": 16
+  },
+  "subtitles": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 1.602,
+      "english": "Taichi...",
+      "translation": "Tai..."
+    },
+    {
+      "index": 1,
+      "start": 2.703,
+      "end": 3.837,
+      "english": "Taichi!",
+      "translation": "¡Tai!"
+    }
+  ]
+}

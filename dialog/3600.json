@@ -1,429 +1,493 @@
 {
   "file_id": "3600",
-  "text_count": 53,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 54,
   "dialog": [
     {
       "index": 0,
-      "english": "��������This is bad! This is baaaaaaad!",
-      "_offset": 2734,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Esto es malo! Esto es\nmalíiiisimo!"
+      "english": "This is bad! This is baaaaaaad!",
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 6712,
+      "_bytes": 31,
+      "translation": "¡Esto es malo! ¡Malíiiiisimo!"
     },
     {
       "index": 1,
       "english": "Elecmon! What happened?",
-      "_offset": 2774,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Elecmon! Qué pasó?"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6744,
+      "_bytes": 23,
+      "translation": "¡Elecmon! ¿Qué pasó?"
     },
     {
       "index": 2,
       "english": "T.K! Patamon! We have trouble!",
-      "_offset": 2798,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "T.K! Patamon! Problemas!"
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 6768,
+      "_bytes": 33,
+      "translation": "¡T.K.! ¡Patamon! ¡Problemas!"
     },
     {
       "index": 3,
       "english": "Calm down, Elecmon!",
-      "_offset": 2832,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Cálmate, Elecmon!"
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 6802,
+      "_bytes": 19,
+      "translation": "¡Cálmate, Elecmon!"
     },
     {
       "index": 4,
       "english": "The babies! My babies have been\nkidnapped!",
-      "_offset": 2852,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Los bebés! Se han llevado\na mis bebés!"
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 6822,
+      "_bytes": 42,
+      "translation": "¡Los bebés! ¡Se han llevado\na mis bebés!"
     },
     {
       "index": 5,
       "english": "Kidnapped?! Are you serious?",
-      "_offset": 2895,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Secuestrados?! En serio?"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6865,
+      "_bytes": 28,
+      "translation": "¡¿Secuestrados?! ¿En serio?"
     },
     {
       "index": 6,
       "english": "Let's look for them together,\nT.K!",
-      "_offset": 2924,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Busquémoslos juntos, T.K!"
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 6894,
+      "_bytes": 37,
+      "translation": "¡Busquémoslos juntos, T.K.!"
     },
     {
       "index": 7,
       "english": "We'll help out, too!",
-      "_offset": 2962,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Nosotros ayudamos!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6932,
+      "_bytes": 20,
+      "translation": "¡Nosotros también ayudamos!"
     },
     {
       "index": 8,
       "english": "Okay!",
-      "_offset": 2983,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Vale!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6953,
+      "_bytes": 5,
+      "translation": "¡Vale!"
     },
     {
       "index": 9,
       "english": "The kidnapped babies are Botamon,\nPunimon, and Yuramon.",
-      "_offset": 2989,
-      "_length": 55,
-      "speaker_id": 0,
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 6959,
+      "_bytes": 55,
       "translation": "Los bebés secuestrados son\nBotamon, Punimon y Yuramon."
     },
     {
       "index": 10,
       "english": "Wait for us, babies!",
-      "_offset": 3045,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Esperadnos, bebés!"
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 7015,
+      "_bytes": 20,
+      "translation": "¡Esperadnos, bebés!"
     },
     {
       "index": 11,
       "english": "Looks like we've found everyone!",
-      "_offset": 3066,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Parece que ya están\ntodos!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7036,
+      "_bytes": 32,
+      "translation": "¡Parece que ya están todos!"
     },
     {
       "index": 12,
       "english": "Good job, T.K!",
-      "_offset": 3099,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Buen trabajo, T.K"
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 7069,
+      "_bytes": 17,
+      "translation": "¡Buen trabajo, T.K.!"
     },
     {
       "index": 13,
       "english": "Thank you, guys!",
-      "_offset": 3117,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Gracias, chicos!"
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 7087,
+      "_bytes": 16,
+      "translation": "¡Gracias, chicos!"
     },
     {
       "index": 14,
       "english": "So the babies were safe after all!\nBut... why were they here?",
-      "_offset": 3134,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Así que los bebés estaban\nbien! Pero... por qué\nestaban aquí?"
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 7104,
+      "_bytes": 61,
+      "translation": "¡Así que los bebés estaban\nbien! Pero... ¿por qué\nestaban aquí?"
     },
     {
       "index": 15,
       "english": "No matter how you look at it, this\ndoesn't seem like kidnapping.",
-      "_offset": 3196,
-      "_length": 64,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 7166,
+      "_bytes": 64,
       "translation": "Se mire como se mire, esto\nno parece un secuestro."
     },
     {
       "index": 16,
       "english": "Anyway, we should go back to the\nVillage of Beginnings.",
-      "_offset": 3261,
-      "_length": 55,
-      "speaker_id": 0,
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7231,
+      "_bytes": 55,
       "translation": "En fin, deberíamos volver a\nla Ciudad de los Bebés."
     },
     {
       "index": 17,
       "english": "Yeah, you're right. Let's go,\nbabies.",
-      "_offset": 3317,
-      "_length": 37,
-      "speaker_id": 0,
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 7287,
+      "_bytes": 37,
       "translation": "Sí, tienes razón. Vamos,\nbebés."
     },
     {
       "index": 18,
       "english": "What on earth were you doing? I\nwas so sure you had been\nkidnapped...",
-      "_offset": 3355,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Qué diablos hacíais? Estaba\nseguro de que os habían\nsecuestrado..."
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 7325,
+      "_bytes": 69,
+      "translation": "¿Qué diablos hacíais? Estaba\nseguro de que os habían\nsecuestrado..."
     },
     {
       "index": 19,
       "english": "*Bo, bo!*",
-      "_offset": 3425,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "(Bo, bo!)"
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 7395,
+      "_bytes": 9,
+      "translation": "(¡Bo, bo!)"
     },
     {
       "index": 20,
-      "english": "But... you're kidding!",
-      "_offset": 3437,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Pero... es broma!"
+      "english": "!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 7405,
+      "_bytes": 1,
+      "translation": "!"
     },
     {
       "index": 21,
-      "english": "What'd they say, Patamon?",
-      "_offset": 3460,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Qué dijeron, Patamon?"
+      "english": "But... you're kidding!",
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 7407,
+      "_bytes": 22,
+      "translation": "Pero... ¡no me digas!"
     },
     {
       "index": 22,
-      "english": "Um, they said Elecmon's always\ntaking care of them, so...",
-      "_offset": 3486,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Dicen que Elecmon siempre\ncuida de ellos, así que..."
+      "english": "What'd they say, Patamon?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7430,
+      "_bytes": 25,
+      "translation": "¿Qué dijeron, Patamon?"
     },
     {
       "index": 23,
-      "english": "...they wanted to sing a song to\nthank him, and had been practicing\nit in secret.",
-      "_offset": 3544,
-      "_length": 81,
-      "speaker_id": 0,
-      "translation": "...querían cantarle una\ncanción para agradecérselo,\ny la ensayaban en secreto."
+      "english": "Um, they said Elecmon's always\ntaking care of them, so...",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 7456,
+      "_bytes": 57,
+      "translation": "Dicen que Elecmon siempre\ncuida de ellos, así que..."
     },
     {
       "index": 24,
-      "english": "Wow!",
-      "_offset": 3626,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Guau"
+      "english": "...they wanted to sing a song to\nthank him, and had been practicing\nit in secret.",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 7514,
+      "_bytes": 81,
+      "translation": "...querían cantarle una\ncanción para agradecérselo,\ny la ensayaban en secreto."
     },
     {
       "index": 25,
-      "english": "You wanted to sing for me.\nAaaaaaaah! My babies!",
-      "_offset": 3631,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Queríais cantarme.\nAaaaaaaah! Mis bebés!"
+      "english": "Wow!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 7596,
+      "_bytes": 4,
+      "translation": "¡Guau!"
     },
     {
       "index": 26,
-      "english": "Seems like they all like you,\nElecmon.",
-      "_offset": 3680,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Parece que todos te\nquieren, Elecmon."
+      "english": "You wanted to sing for me.\nAaaaaaaah! My babies!",
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 7601,
+      "_bytes": 48,
+      "translation": "Queríais cantarme.\n¡Aaaaaaaah! ¡Mis bebés!"
     },
     {
       "index": 27,
-      "english": "They understand you, Elecmon!",
-      "_offset": 3719,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Te entienden, Elecmon!"
+      "english": "Seems like they all like you,\nElecmon.",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 7650,
+      "_bytes": 38,
+      "translation": "Parece que todos te\nquieren, Elecmon."
     },
     {
       "index": 28,
-      "english": "T.K! Patamon! Guys! I'm so\nsorry for causing all this\ntrouble!",
-      "_offset": 3749,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "T.K! Patamon! Chicos!\nSiento haberos causado\ntantos problemas!"
+      "english": "They understand you, Elecmon!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7689,
+      "_bytes": 29,
+      "translation": "¡Te entienden, Elecmon!"
     },
     {
       "index": 29,
-      "english": "T.K! I'm sorry, thank you so\nmuch! Here, take this!",
-      "_offset": 3815,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "T.K! Lo siento y gracias!\nToma, esto es para ti!"
+      "english": "T.K! Patamon! Guys! I'm so\nsorry for causing all this\ntrouble!",
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 7719,
+      "_bytes": 65,
+      "translation": "¡T.K.! ¡Patamon! ¡Chicos!\n¡Siento haberos causado\ntantos problemas!"
     },
     {
       "index": 30,
-      "english": "Are you sure? Thank you, Elecmon!",
-      "_offset": 3870,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Seguro? Gracias, Elecmon!"
+      "english": "T.K! I'm sorry, thank you so\nmuch! Here, take this!",
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 7785,
+      "_bytes": 54,
+      "translation": "¡T.K.! ¡Lo siento y gracias!\n¡Toma, esto es para ti!"
     },
     {
       "index": 31,
-      "english": "You're welcome to come back and\nsee the babies' faces again!",
-      "_offset": 3904,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Podéis volver cuando queráis\na ver a los bebés!"
+      "english": "Are you sure? Thank you, Elecmon!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7840,
+      "_bytes": 33,
+      "translation": "¿Seguro? ¡Gracias, Elecmon!"
     },
     {
       "index": 32,
-      "english": "Okay! We'll do it!",
-      "_offset": 3965,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Vale! Lo haremos!"
+      "english": "You're welcome to come back and\nsee the babies' faces again!",
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 7874,
+      "_bytes": 60,
+      "translation": "¡Podéis volver cuando queráis\na ver a los bebés!"
     },
     {
       "index": 33,
-      "english": "Ah! Here you are!",
-      "_offset": 3984,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Ah! Aquí estás!"
+      "english": "Okay! We'll do it!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7935,
+      "_bytes": 18,
+      "translation": "¡Vale! ¡Lo haremos!"
     },
     {
       "index": 34,
-      "english": "Thank goodness, my poor baby!",
-      "_offset": 4002,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Menos mal, mi pobre bebé!"
+      "english": "Ah! Here you are!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7954,
+      "_bytes": 17,
+      "translation": "¡Ah! ¡Aquí estás!"
     },
     {
       "index": 35,
-      "english": "Ffffff, that tickles!",
-      "_offset": 4032,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ffffff, cosquillas!"
+      "english": "Thank goodness, my poor baby!",
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 7972,
+      "_bytes": 29,
+      "translation": "¡Menos mal, mi pobre bebé!"
     },
     {
       "index": 36,
-      "english": "T.K can just pick one right\nup...",
-      "_offset": 4054,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "T.K puede cogerlos así sin\nmás..."
+      "english": "Ffffff, that tickles!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8002,
+      "_bytes": 21,
+      "translation": "¡Ffffff, cosquillas!"
     },
     {
       "index": 37,
-      "english": "It's a baby! There's one here,\ntoo!",
-      "_offset": 4091,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Es un bebé! Hay uno aquí\ntambién!"
+      "english": "T.K can just pick one right\nup...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 8024,
+      "_bytes": 36,
+      "translation": "T.K. puede cogerlos así sin\nmás..."
     },
     {
       "index": 38,
-      "english": "Thank goodness, thank goodess!",
-      "_offset": 4127,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Menos mal, menos mal!"
+      "english": "It's a baby! There's one here,\ntoo!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8061,
+      "_bytes": 35,
+      "translation": "¡Es un bebé! ¡Hay uno aquí\ntambién!"
     },
     {
       "index": 39,
-      "english": "Waaaah! That tickles!",
-      "_offset": 4158,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Waaaah! Cosquillas!"
+      "english": "Thank goodness, thank goodess!",
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 8097,
+      "_bytes": 30,
+      "translation": "¡Menos mal, menos mal!"
     },
     {
       "index": 40,
-      "english": "How sweet. I wish I could make\nfriends as easily as T.K can...",
-      "_offset": 4180,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Qué bonito. Ojalá pudiera\nhacer amigos tan fácil\ncomo T.K..."
+      "english": "Waaaah! That tickles!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8128,
+      "_bytes": 21,
+      "translation": "¡Waaaah! ¡Cosquillas!"
     },
     {
       "index": 41,
-      "english": "*muttering*",
-      "_offset": 4246,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "(murmura)"
+      "english": "How sweet. I wish I could make\nfriends as easily as T.K can...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8150,
+      "_bytes": 65,
+      "translation": "Qué bonito. Ojalá pudiera\nhacer amigos tan fácil\ncomo T.K..."
     },
     {
       "index": 42,
-      "english": "Haha, it's half-asleep!",
-      "_offset": 4258,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Jaja, medio dormido!"
+      "english": "*muttering*",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 8216,
+      "_bytes": 11,
+      "translation": "(murmura)"
     },
     {
       "index": 43,
-      "english": "So these babies haven't been\nkidnapped.",
-      "_offset": 4282,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Entonces no los\nsecuestraron."
+      "english": "Haha, it's half-asleep!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8228,
+      "_bytes": 23,
+      "translation": "¡Jaja, medio dormido!"
     },
     {
       "index": 44,
-      "english": "*zzzzzz*",
-      "_offset": 4322,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "(zzzzzz)"
+      "english": "So these babies haven't been\nkidnapped.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8252,
+      "_bytes": 39,
+      "translation": "Entonces no los\nsecuestraron."
     },
     {
       "index": 45,
-      "english": "It's sleeping pretty soundly.",
-      "_offset": 4331,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Duerme como un tronco."
+      "english": "*zzzzzz*",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 8292,
+      "_bytes": 8,
+      "translation": "(zzzzzz)"
     },
     {
       "index": 46,
-      "english": "There's nobody in this cradle...",
-      "_offset": 4361,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "No hay nadie en esta cuna..."
+      "english": "It's sleeping pretty soundly.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 8301,
+      "_bytes": 29,
+      "translation": "Duerme como un tronco."
     },
     {
       "index": 47,
-      "english": "The babies! We have to help them\nright away!",
-      "_offset": 4394,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Los bebés! Hay que\nayudarlos ya!"
+      "english": "There's nobody in this cradle...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 8331,
+      "_bytes": 32,
+      "translation": "No hay nadie en esta cuna..."
     },
     {
       "index": 48,
-      "english": "A DigiEgg!",
-      "_offset": 4439,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "DigiHuevo!"
+      "english": "The babies! We have to help them\nright away!",
+      "speaker_id": 4141,
+      "line_type": 2,
+      "_offset": 8364,
+      "_bytes": 44,
+      "translation": "¡Los bebés! ¡Hay que\nayudarlos ya!"
     },
     {
       "index": 49,
-      "english": "If you rub it, a Digimon will\nhatch!",
-      "_offset": 4450,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Si lo frotas, eclosiona un\nDigimon!"
+      "english": "A DigiEgg!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 8409,
+      "_bytes": 10,
+      "translation": "¡DigiHuevo!"
     },
     {
       "index": 50,
-      "english": "Really!? I wanna rub it!",
-      "_offset": 4487,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "En serio? Quiero\nfrotarlo"
+      "english": "If you rub it, a Digimon will\nhatch!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8420,
+      "_bytes": 36,
+      "translation": "¡Si lo frotas, eclosiona un\nDigimon!"
     },
     {
       "index": 51,
-      "english": "But Mimi, we have to find the\nkidnapped babies.",
-      "_offset": 4512,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Pero Mimi, hay que\nencontrar a los bebés."
+      "english": "Really!? I wanna rub it!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8457,
+      "_bytes": 24,
+      "translation": "¿En serio? ¡Quiero frotarlo!"
     },
     {
       "index": 52,
+      "english": "But Mimi, we have to find the\nkidnapped babies.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 8482,
+      "_bytes": 47,
+      "translation": "Pero Mimi, hay que\nencontrar a los bebés."
+    },
+    {
+      "index": 53,
       "english": "All right, let's keep looking for\nthem.",
-      "_offset": 4560,
-      "_length": 39,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8530,
+      "_bytes": 39,
       "translation": "Vale, sigamos buscándolos."
     }
   ]

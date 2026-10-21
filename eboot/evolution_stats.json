@@ -2,6 +2,36 @@
   "source": "EBOOT.BIN/evolution_stats",
   "strings": [
     {
+      "text": "triHP",
+      "translation": "",
+      "_offset": 1530848,
+      "_length": 5
+    },
+    {
+      "text": "triSP",
+      "translation": "",
+      "_offset": 1530856,
+      "_length": 5
+    },
+    {
+      "text": "triATK",
+      "translation": "",
+      "_offset": 1530864,
+      "_length": 6
+    },
+    {
+      "text": "triDEF",
+      "translation": "",
+      "_offset": 1530872,
+      "_length": 6
+    },
+    {
+      "text": "triSPD",
+      "translation": "",
+      "_offset": 1530880,
+      "_length": 6
+    },
+    {
       "text": "Max HP +50.",
       "translation": "HP Máx +50.",
       "_offset": 1744132,
@@ -105,7 +135,7 @@
     },
     {
       "text": "Recover Full HP (one ally).",
-      "translation": "Recupera todo HP (aliado).",
+      "translation": "Recupera todo el HP (aliado).",
       "_offset": 1752399,
       "_length": 27
     },
@@ -129,7 +159,7 @@
     },
     {
       "text": "Recover Full HP (all allies).",
-      "translation": "Recupera todo el HP\n(todos).",
+      "translation": "Recupera todo el HP (todos).",
       "_offset": 1752556,
       "_length": 29
     },
@@ -158,6 +188,12 @@
       "_length": 28
     },
     {
+      "text": "Meat",
+      "translation": "Carne",
+      "_offset": 1752740,
+      "_length": 4
+    },
+    {
       "text": "Recover Full HP and SP, cure \nbad status (one ally).",
       "translation": "Recupera todo el HP y SP,\ncura estados (aliado).",
       "_offset": 1752745,
@@ -165,7 +201,7 @@
     },
     {
       "text": "Special Meat",
-      "translation": "Carne Esp.",
+      "translation": "Carne Especial",
       "_offset": 1752798,
       "_length": 12
     },
@@ -225,7 +261,7 @@
     },
     {
       "text": "Lower ATK by 1 level (one enemy).",
-      "translation": "Baja ATK 1 nivel (1\nenemigo).",
+      "translation": "Baja ATK 1 nivel (1 enemigo).",
       "_offset": 1753261,
       "_length": 33
     },
@@ -237,7 +273,7 @@
     },
     {
       "text": "Lower ATK by 2 levels (one enemy).",
-      "translation": "Baja ATK 2 niveles (1\nenemigo).",
+      "translation": "Baja ATK 2 niveles (1 enemigo).",
       "_offset": 1753358,
       "_length": 34
     },
@@ -249,7 +285,7 @@
     },
     {
       "text": "Lower DEF by 1 level (one enemy).",
-      "translation": "Baja DEF 1 nivel (1\nenemigo).",
+      "translation": "Baja DEF 1 nivel (1 enemigo).",
       "_offset": 1753457,
       "_length": 33
     },
@@ -261,7 +297,7 @@
     },
     {
       "text": "Lower DEF by 2 levels (one enemy).",
-      "translation": "Baja DEF 2 niveles (1\nenemigo).",
+      "translation": "Baja DEF 2 niveles (1 enemigo).",
       "_offset": 1753554,
       "_length": 34
     },
@@ -284,6 +320,12 @@
       "_length": 36
     },
     {
+      "text": "Antidote",
+      "translation": "Antídoto",
+      "_offset": 1753694,
+      "_length": 8
+    },
+    {
       "text": "Cures Poison for one ally.",
       "translation": "Cura Veneno a 1 aliado.",
       "_offset": 1753703,
@@ -291,13 +333,13 @@
     },
     {
       "text": "Skill Release",
-      "translation": "Liberar Hab.",
+      "translation": "Desbloqueo",
       "_offset": 1753730,
       "_length": 13
     },
     {
       "text": "Unseals Skills for one ally.",
-      "translation": "Desbloquea Hab. de 1\naliado.",
+      "translation": "Desbloquea habilidades de 1 aliado.",
       "_offset": 1753744,
       "_length": 28
     },
@@ -314,10 +356,22 @@
       "_length": 26
     },
     {
+      "text": "Remedy",
+      "translation": "Remedio",
+      "_offset": 1753814,
+      "_length": 6
+    },
+    {
       "text": "Cures Poison, Sticky, \nand Skill Seal for one ally.",
-      "translation": "Cura Veneno, Pegajoso y\nSello de Hab. a 1 aliado.",
+      "translation": "Cura Veneno, Pegajoso y Sello\nde Habilidad a 1 aliado.",
       "_offset": 1753821,
       "_length": 51
+    },
+    {
+      "text": "scroll",
+      "translation": "",
+      "_offset": 1754140,
+      "_length": 6
     },
     {
       "text": "Recover 400 HP (one ally).",
@@ -332,6 +386,12 @@
       "_length": 25
     },
     {
+      "text": "Antidote",
+      "translation": "Antídoto",
+      "_offset": 1754229,
+      "_length": 8
+    },
+    {
       "text": "Cures Poison for one ally.",
       "translation": "Cura Veneno a 1 aliado.",
       "_offset": 1754238,
@@ -339,13 +399,13 @@
     },
     {
       "text": "Skill Release",
-      "translation": "Liberar Hab.",
+      "translation": "Desbloqueo",
       "_offset": 1754265,
       "_length": 13
     },
     {
       "text": "Unseals Skills for one ally.",
-      "translation": "Desbloquea Hab. de 1\naliado.",
+      "translation": "Desbloquea habilidades de 1 aliado.",
       "_offset": 1754279,
       "_length": 28
     },
@@ -384,6 +444,666 @@
       "translation": "Revive a 1 aliado KO con\ntodo el HP.",
       "_offset": 1754445,
       "_length": 36
+    },
+    {
+      "text": "ATK Boost Ω",
+      "translation": "Sube ATK Ω",
+      "_offset": 1744575,
+      "_length": 12
+    },
+    {
+      "text": "DEF Boost Ω",
+      "translation": "Sube DEF Ω",
+      "_offset": 1744706,
+      "_length": 12
+    },
+    {
+      "text": "SPD Boost Ω",
+      "translation": "Sube SPD Ω",
+      "_offset": 1744836,
+      "_length": 12
+    },
+    {
+      "text": "Poison Guard Ω",
+      "translation": "Antiveneno Ω",
+      "_offset": 1744968,
+      "_length": 15
+    },
+    {
+      "text": "Sticky Guard Ω",
+      "translation": "Antipegajoso Ω",
+      "_offset": 1745040,
+      "_length": 15
+    },
+    {
+      "text": "Skill Guard Ω",
+      "translation": "Antisello Ω",
+      "_offset": 1745115,
+      "_length": 14
+    },
+    {
+      "text": "ATK Charge Ω",
+      "translation": "Carga ATK Ω",
+      "_offset": 1745466,
+      "_length": 13
+    },
+    {
+      "text": "ATK Charge Ω+",
+      "translation": "Carga ATK Ω+",
+      "_offset": 1745574,
+      "_length": 14
+    },
+    {
+      "text": "DEF Charge Ω",
+      "translation": "Carga DEF Ω",
+      "_offset": 1745681,
+      "_length": 13
+    },
+    {
+      "text": "DEF Charge Ω+",
+      "translation": "Carga DEF Ω+",
+      "_offset": 1745789,
+      "_length": 14
+    },
+    {
+      "text": "Shock Attack Ω",
+      "translation": "Golpe Shock Ω",
+      "_offset": 1746854,
+      "_length": 15
+    },
+    {
+      "text": "Break Attack Ω",
+      "translation": "Golpe Rotura Ω",
+      "_offset": 1746963,
+      "_length": 15
+    },
+    {
+      "text": "Rage Attack Ω",
+      "translation": "Golpe Furia Ω",
+      "_offset": 1747081,
+      "_length": 14
+    },
+    {
+      "text": "Poison Attack Ω",
+      "translation": "Golpe Veneno Ω",
+      "_offset": 1747251,
+      "_length": 16
+    },
+    {
+      "text": "Sticky Attack Ω",
+      "translation": "Golpe Pegaj. Ω",
+      "_offset": 1747364,
+      "_length": 16
+    },
+    {
+      "text": "ATK Break Ω",
+      "translation": "Baja ATK Ω",
+      "_offset": 1747590,
+      "_length": 12
+    },
+    {
+      "text": "DEF Break Ω",
+      "translation": "Baja DEF Ω",
+      "_offset": 1747724,
+      "_length": 12
+    },
+    {
+      "text": "Auto Heal Ω",
+      "translation": "Auto Cura Ω",
+      "_offset": 1749236,
+      "_length": 12
+    },
+    {
+      "text": "ATK↑ Chip",
+      "translation": "Chip ATK↑",
+      "_offset": 1752866,
+      "_length": 10
+    },
+    {
+      "text": "ATK↑ Chip Ω",
+      "translation": "Chip ATK↑ Ω",
+      "_offset": 1752910,
+      "_length": 13
+    },
+    {
+      "text": "ATK↑↑ Chip",
+      "translation": "Chip ATK↑↑",
+      "_offset": 1752959,
+      "_length": 12
+    },
+    {
+      "text": "ATK↑↑ Chip Ω",
+      "translation": "Chip ATK↑↑ Ω",
+      "_offset": 1753006,
+      "_length": 15
+    },
+    {
+      "text": "DEF↑ Chip",
+      "translation": "Chip DEF↑",
+      "_offset": 1753058,
+      "_length": 10
+    },
+    {
+      "text": "DEF↑ Chip Ω",
+      "translation": "Chip DEF↑ Ω",
+      "_offset": 1753102,
+      "_length": 13
+    },
+    {
+      "text": "DEF↑↑ Chip",
+      "translation": "Chip DEF↑↑",
+      "_offset": 1753151,
+      "_length": 12
+    },
+    {
+      "text": "DEF↑↑ Chip Ω",
+      "translation": "Chip DEF↑↑ Ω",
+      "_offset": 1753198,
+      "_length": 15
+    },
+    {
+      "text": "ATK↓ Chip",
+      "translation": "Chip ATK↓",
+      "_offset": 1753250,
+      "_length": 10
+    },
+    {
+      "text": "ATK↓ Chip Ω",
+      "translation": "Chip ATK↓ Ω",
+      "_offset": 1753295,
+      "_length": 13
+    },
+    {
+      "text": "ATK↓↓ Chip",
+      "translation": "Chip ATK↓↓",
+      "_offset": 1753345,
+      "_length": 12
+    },
+    {
+      "text": "ATK↓↓ Chip Ω",
+      "translation": "Chip ATK↓↓ Ω",
+      "_offset": 1753393,
+      "_length": 15
+    },
+    {
+      "text": "DEF↓ Chip",
+      "translation": "Chip DEF↓",
+      "_offset": 1753446,
+      "_length": 10
+    },
+    {
+      "text": "DEF↓ Chip Ω",
+      "translation": "Chip DEF↓ Ω",
+      "_offset": 1753491,
+      "_length": 13
+    },
+    {
+      "text": "DEF↓↓ Chip",
+      "translation": "Chip DEF↓↓",
+      "_offset": 1753541,
+      "_length": 12
+    },
+    {
+      "text": "DEF↓↓ Chip Ω",
+      "translation": "Chip DEF↓↓ Ω",
+      "_offset": 1753589,
+      "_length": 15
+    },
+    {
+      "text": "HP Boost Ⅰ",
+      "translation": "Sube HP Ⅰ",
+      "_offset": 1744120,
+      "_length": 11
+    },
+    {
+      "text": "HP Boost Ⅱ",
+      "translation": "Sube HP Ⅱ",
+      "_offset": 1744144,
+      "_length": 11
+    },
+    {
+      "text": "HP Boost Ⅲ",
+      "translation": "Sube HP Ⅲ",
+      "_offset": 1744169,
+      "_length": 11
+    },
+    {
+      "text": "HP Boost Ⅳ",
+      "translation": "Sube HP Ⅳ",
+      "_offset": 1744194,
+      "_length": 11
+    },
+    {
+      "text": "HP Boost Ⅴ",
+      "translation": "Sube HP Ⅴ",
+      "_offset": 1744219,
+      "_length": 11
+    },
+    {
+      "text": "HP Boost Ⅵ",
+      "translation": "Sube HP Ⅵ",
+      "_offset": 1744244,
+      "_length": 11
+    },
+    {
+      "text": "HP Boost Ω",
+      "translation": "Sube HP Ω",
+      "_offset": 1744270,
+      "_length": 11
+    },
+    {
+      "text": "SP Boost Ⅰ",
+      "translation": "Sube SP Ⅰ",
+      "_offset": 1744296,
+      "_length": 11
+    },
+    {
+      "text": "SP Boost Ⅱ",
+      "translation": "Sube SP Ⅱ",
+      "_offset": 1744320,
+      "_length": 11
+    },
+    {
+      "text": "SP Boost Ⅲ",
+      "translation": "Sube SP Ⅲ",
+      "_offset": 1744344,
+      "_length": 11
+    },
+    {
+      "text": "SP Boost Ⅳ",
+      "translation": "Sube SP Ⅳ",
+      "_offset": 1744368,
+      "_length": 11
+    },
+    {
+      "text": "SP Boost Ⅴ",
+      "translation": "Sube SP Ⅴ",
+      "_offset": 1744392,
+      "_length": 11
+    },
+    {
+      "text": "SP Boost Ⅵ",
+      "translation": "Sube SP Ⅵ",
+      "_offset": 1744416,
+      "_length": 11
+    },
+    {
+      "text": "SP Boost Ω",
+      "translation": "Sube SP Ω",
+      "_offset": 1744441,
+      "_length": 11
+    },
+    {
+      "text": "ATK Boost Ⅰ",
+      "translation": "Sube ATK Ⅰ",
+      "_offset": 1744466,
+      "_length": 12
+    },
+    {
+      "text": "ATK Boost Ⅱ",
+      "translation": "Sube ATK Ⅱ",
+      "_offset": 1744487,
+      "_length": 12
+    },
+    {
+      "text": "ATK Boost Ⅲ",
+      "translation": "Sube ATK Ⅲ",
+      "_offset": 1744509,
+      "_length": 12
+    },
+    {
+      "text": "ATK Boost Ⅳ",
+      "translation": "Sube ATK Ⅳ",
+      "_offset": 1744531,
+      "_length": 12
+    },
+    {
+      "text": "ATK Boost Ⅴ",
+      "translation": "Sube ATK Ⅴ",
+      "_offset": 1744553,
+      "_length": 12
+    },
+    {
+      "text": "DEF Boost Ⅰ",
+      "translation": "Sube DEF Ⅰ",
+      "_offset": 1744597,
+      "_length": 12
+    },
+    {
+      "text": "DEF Boost Ⅱ",
+      "translation": "Sube DEF Ⅱ",
+      "_offset": 1744618,
+      "_length": 12
+    },
+    {
+      "text": "DEF Boost Ⅲ",
+      "translation": "Sube DEF Ⅲ",
+      "_offset": 1744640,
+      "_length": 12
+    },
+    {
+      "text": "DEF Boost Ⅳ",
+      "translation": "Sube DEF Ⅳ",
+      "_offset": 1744662,
+      "_length": 12
+    },
+    {
+      "text": "DEF Boost Ⅴ",
+      "translation": "Sube DEF Ⅴ",
+      "_offset": 1744684,
+      "_length": 12
+    },
+    {
+      "text": "SPD Boost Ⅰ",
+      "translation": "Sube SPD Ⅰ",
+      "_offset": 1744728,
+      "_length": 12
+    },
+    {
+      "text": "SPD Boost Ⅱ",
+      "translation": "Sube SPD Ⅱ",
+      "_offset": 1744749,
+      "_length": 12
+    },
+    {
+      "text": "SPD Boost Ⅲ",
+      "translation": "Sube SPD Ⅲ",
+      "_offset": 1744770,
+      "_length": 12
+    },
+    {
+      "text": "SPD Boost Ⅳ",
+      "translation": "Sube SPD Ⅳ",
+      "_offset": 1744792,
+      "_length": 12
+    },
+    {
+      "text": "SPD Boost Ⅴ",
+      "translation": "Sube SPD Ⅴ",
+      "_offset": 1744814,
+      "_length": 12
+    },
+    {
+      "text": "Lifeup Ω",
+      "translation": "Vida+ Ω",
+      "_offset": 1748361,
+      "_length": 9
+    },
+    {
+      "text": "SP Compressor",
+      "translation": "Compresor SP",
+      "_offset": 1748920,
+      "_length": 13
+    },
+    {
+      "text": "Infinite SP",
+      "translation": "SP Infinito",
+      "_offset": 1748957,
+      "_length": 11
+    },
+    {
+      "text": "EVO Boost Ⅰ",
+      "translation": "Sube EVO Ⅰ",
+      "_offset": 1748995,
+      "_length": 12
+    },
+    {
+      "text": "EVO Boost Ⅱ",
+      "translation": "Sube EVO Ⅱ",
+      "_offset": 1749063,
+      "_length": 12
+    },
+    {
+      "text": "EVO Boost Ⅲ",
+      "translation": "Sube EVO Ⅲ",
+      "_offset": 1749132,
+      "_length": 12
+    },
+    {
+      "text": "HP Capsule S",
+      "translation": "Cápsula HP S",
+      "_offset": 1752264,
+      "_length": 12
+    },
+    {
+      "text": "HP Capsule M",
+      "translation": "Cápsula HP M",
+      "_offset": 1752304,
+      "_length": 12
+    },
+    {
+      "text": "HP Capsule L",
+      "translation": "Cápsula HP L",
+      "_offset": 1752344,
+      "_length": 12
+    },
+    {
+      "text": "HP Capsule XL",
+      "translation": "Cápsula HP XL",
+      "_offset": 1752385,
+      "_length": 13
+    },
+    {
+      "text": "HP Disk S",
+      "translation": "Disco HP S",
+      "_offset": 1752427,
+      "_length": 9
+    },
+    {
+      "text": "HP Disk M",
+      "translation": "Disco HP M",
+      "_offset": 1752466,
+      "_length": 9
+    },
+    {
+      "text": "HP Disk L",
+      "translation": "Disco HP L",
+      "_offset": 1752505,
+      "_length": 9
+    },
+    {
+      "text": "HP Disk XL",
+      "translation": "Disco HP XL",
+      "_offset": 1752545,
+      "_length": 10
+    },
+    {
+      "text": "SP Capsule",
+      "translation": "Cápsula SP",
+      "_offset": 1752586,
+      "_length": 10
+    },
+    {
+      "text": "SP Capsule Ω",
+      "translation": "Cápsula SP Ω",
+      "_offset": 1752623,
+      "_length": 13
+    },
+    {
+      "text": "SP Disk",
+      "translation": "Disco SP",
+      "_offset": 1752664,
+      "_length": 7
+    },
+    {
+      "text": "SP Disk Ω",
+      "translation": "Disco SP Ω",
+      "_offset": 1752700,
+      "_length": 10
+    },
+    {
+      "text": "HP Capsule S",
+      "translation": "Cápsula HP S",
+      "_offset": 1754152,
+      "_length": 12
+    },
+    {
+      "text": "SP Capsule",
+      "translation": "Cápsula SP",
+      "_offset": 1754192,
+      "_length": 10
+    },
+    {
+      "text": "HP Capsule M",
+      "translation": "Cápsula HP M",
+      "_offset": 1754349,
+      "_length": 12
+    },
+    {
+      "text": "SP Capsule Ω",
+      "translation": "Cápsula SP Ω",
+      "_offset": 1754389,
+      "_length": 13
+    },
+    {
+      "text": "EXP.",
+      "translation": "EXP.",
+      "_offset": 1634060,
+      "_length": 4
+    },
+    {
+      "text": "ATK +5.",
+      "translation": "ATK +5.",
+      "_offset": 1744479,
+      "_length": 7
+    },
+    {
+      "text": "ATK +10.",
+      "translation": "ATK +10.",
+      "_offset": 1744500,
+      "_length": 8
+    },
+    {
+      "text": "ATK +15.",
+      "translation": "ATK +15.",
+      "_offset": 1744522,
+      "_length": 8
+    },
+    {
+      "text": "ATK +20.",
+      "translation": "ATK +20.",
+      "_offset": 1744544,
+      "_length": 8
+    },
+    {
+      "text": "ATK +35.",
+      "translation": "ATK +35.",
+      "_offset": 1744566,
+      "_length": 8
+    },
+    {
+      "text": "ATK +50.",
+      "translation": "ATK +50.",
+      "_offset": 1744588,
+      "_length": 8
+    },
+    {
+      "text": "DEF +5.",
+      "translation": "DEF +5.",
+      "_offset": 1744610,
+      "_length": 7
+    },
+    {
+      "text": "DEF +10.",
+      "translation": "DEF +10.",
+      "_offset": 1744631,
+      "_length": 8
+    },
+    {
+      "text": "DEF +15.",
+      "translation": "DEF +15.",
+      "_offset": 1744653,
+      "_length": 8
+    },
+    {
+      "text": "DEF +20.",
+      "translation": "DEF +20.",
+      "_offset": 1744675,
+      "_length": 8
+    },
+    {
+      "text": "DEF +35.",
+      "translation": "DEF +35.",
+      "_offset": 1744697,
+      "_length": 8
+    },
+    {
+      "text": "DEF +50.",
+      "translation": "DEF +50.",
+      "_offset": 1744719,
+      "_length": 8
+    },
+    {
+      "text": "SPD +3.",
+      "translation": "SPD +3.",
+      "_offset": 1744741,
+      "_length": 7
+    },
+    {
+      "text": "SPD +5.",
+      "translation": "SPD +5.",
+      "_offset": 1744762,
+      "_length": 7
+    },
+    {
+      "text": "SPD +10.",
+      "translation": "SPD +10.",
+      "_offset": 1744783,
+      "_length": 8
+    },
+    {
+      "text": "SPD +15.",
+      "translation": "SPD +15.",
+      "_offset": 1744805,
+      "_length": 8
+    },
+    {
+      "text": "SPD +20.",
+      "translation": "SPD +20.",
+      "_offset": 1744827,
+      "_length": 8
+    },
+    {
+      "text": "SPD +25.",
+      "translation": "SPD +25.",
+      "_offset": 1744849,
+      "_length": 8
+    },
+    {
+      "text": "Heal +",
+      "translation": "Cura +",
+      "_offset": 1746224,
+      "_length": 6
+    },
+    {
+      "text": "Cure-All",
+      "translation": "Cura Total",
+      "_offset": 1746497,
+      "_length": 8
+    },
+    {
+      "text": "Cure-All +",
+      "translation": "Cura Total +",
+      "_offset": 1746558,
+      "_length": 10
+    },
+    {
+      "text": "Lock-On",
+      "translation": "Fijar",
+      "_offset": 1747951,
+      "_length": 7
+    },
+    {
+      "text": "2x Action",
+      "translation": "Acción x2",
+      "_offset": 1748430,
+      "_length": 9
+    },
+    {
+      "text": "3x Action",
+      "translation": "Acción x3",
+      "_offset": 1748474,
+      "_length": 9
     }
   ]
 }

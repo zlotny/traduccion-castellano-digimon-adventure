@@ -1,349 +1,511 @@
 {
   "file_id": "3563",
-  "text_count": 43,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 56,
   "dialog": [
     {
       "index": 0,
-      "english": "ere having an adventure\nin the Digimon world, it hasn't\neven been a day here...",
-      "_offset": 28,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "tenemos una aventura en el\nMundo Digimon y aquí no ha\npasado ni un día..."
+      "english": "Did you have fun today?",
+      "speaker_id": 6191,
+      "line_type": 2,
+      "_offset": 3672,
+      "_bytes": 23,
+      "translation": "¿Te lo has pasado bien hoy?"
     },
     {
       "index": 1,
-      "english": "it hasn't even been a day here...",
-      "_offset": 108,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "aquí no ha pasado ni un día..."
+      "english": "Yeah! I had tons of fun, because\nyou were there with me!",
+      "speaker_id": 6201,
+      "line_type": 2,
+      "_offset": 3696,
+      "_bytes": 56,
+      "translation": "¡Sí! ¡Me lo he pasado genial,\nporque estabas conmigo!"
     },
     {
       "index": 2,
-      "english": "Palmon! You're supposed to be a\nstuffed animal right now! Don't\ntalk!",
-      "_offset": 142,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Palmon! Se supone que ahora\neres un peluche! No hables!"
+      "english": "Really?",
+      "speaker_id": 6191,
+      "line_type": 2,
+      "_offset": 3753,
+      "_bytes": 7,
+      "translation": "¿De verdad?"
     },
     {
       "index": 3,
-      "english": "Nooooooooo! I'm so bored...",
-      "_offset": 212,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Noooooooo! Qué aburrida..."
+      "english": "Really!",
+      "speaker_id": 6201,
+      "line_type": 2,
+      "_offset": 3761,
+      "_bytes": 7,
+      "translation": "¡De verdad!"
     },
     {
       "index": 4,
-      "english": "Nooooooooo! I'm so bored...",
-      "_offset": 240,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Noooooooo! Qué aburrida..."
+      "english": "I had fun, too!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 3769,
+      "_bytes": 15,
+      "translation": "¡Yo también me lo he pasado bien!"
     },
     {
       "index": 5,
-      "english": "Mimi! If you don't hurry up, we're\ngonna be late!",
-      "_offset": 268,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Mimi! Si no te das prisa, vamos\na llegar tarde!"
+      "english": "It's been a long time since I've\nbeen out and about with Papa and\nMama...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 3785,
+      "_bytes": 73,
+      "translation": "Hacía mucho que no salía con\npapá y mamá..."
     },
     {
       "index": 6,
-      "english": "I'm comiiiiiiiiing!",
-      "_offset": 318,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Ya voooooooooy!"
+      "english": "And we bought a new swimsuit that\nMom picked out for me!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 3859,
+      "_bytes": 56,
+      "translation": "¡Y compramos un bañador nuevo\nque eligió mamá para mí!"
     },
     {
       "index": 7,
-      "english": "I'm comiiiiiiiiing!",
-      "_offset": 338,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Ya voooooooooy!"
+      "english": "And we bought a new swimsuit!",
+      "speaker_id": 6191,
+      "line_type": 2,
+      "_offset": 3916,
+      "_bytes": 29,
+      "translation": "¡Y compramos un bañador nuevo!"
     },
     {
       "index": 8,
-      "english": "If they find out that you're a\nDigimon, everyone will make a big\nfuss over you!",
-      "_offset": 358,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "Si descubren que eres un\nDigimon, se van a montar un\nlío tremendo contigo!"
+      "english": "??",
+      "speaker_id": 6201,
+      "line_type": 2,
+      "_offset": 3946,
+      "_bytes": 2,
+      "translation": "??"
     },
     {
       "index": 9,
-      "english": "Got it. I'll be quiet.",
-      "_offset": 438,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Vale, no diré ni pío."
+      "english": "Hm? Did I say something weird?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 3949,
+      "_bytes": 30,
+      "translation": "¿Mm? ¿He dicho algo raro?"
     },
     {
       "index": 10,
-      "english": "Mimi, over there!",
-      "_offset": 461,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Mimi, mira allí!"
+      "english": "What're you saying? Don't we\nalways go to this restaurant?",
+      "speaker_id": 6201,
+      "line_type": 2,
+      "_offset": 3980,
+      "_bytes": 58,
+      "translation": "¿Qué dices? Si siempre venimos\na este restaurante."
     },
     {
       "index": 11,
-      "english": "That's...",
-      "_offset": 479,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Eso es..."
+      "english": "Don't you remember that?",
+      "speaker_id": 6191,
+      "line_type": 2,
+      "_offset": 4039,
+      "_bytes": 24,
+      "translation": "¿No te acuerdas?"
     },
     {
       "index": 12,
-      "english": "One of Vamdemon's minions!",
-      "_offset": 489,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Un secuaz de Myotismon!"
+      "english": "Ah! You're totally right! I must\nbe confused.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4064,
+      "_bytes": 45,
+      "translation": "¡Ah! ¡Es verdad! Me habré\nliado."
     },
     {
       "index": 13,
-      "english": "Why hasn't anyone else noticed\nhim?!",
-      "_offset": 516,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Cómo nadie más se ha dado\ncuenta?!"
+      "english": "While we were having an adventure\nin the Digimon world, it hasn't\neven been a day here...",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4110,
+      "_bytes": 89,
+      "translation": "Mientras vivíamos una aventura\nen el Digimundo, aquí no\nha pasado ni un día..."
     },
     {
       "index": 14,
-      "english": "We're the only ones who can see\nhim! He hasn't completely\nmaterialized here!",
-      "_offset": 553,
-      "_length": 76,
-      "speaker_id": 0,
-      "translation": "Somos los únicos que podemos\nverlo! No se ha materializado\ndel todo aquí!"
+      "english": "it hasn't even been a day here...",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4200,
+      "_bytes": 33,
+      "translation": "aquí no ha pasado ni un día..."
     },
     {
       "index": 15,
-      "english": "No way!",
-      "_offset": 630,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Qué va!"
+      "english": "Palmon! You're supposed to be a\nstuffed animal right now! Don't\ntalk!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4234,
+      "_bytes": 69,
+      "translation": "¡Palmon! ¡Se supone que ahora\neres un peluche! ¡No hables!"
     },
     {
       "index": 16,
-      "english": "We have to lure him somewhere\nelse! There are too many people\naround!",
-      "_offset": 638,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Hay que llevarlo a otro\nsitio! Hay demasiada gente\npor aquí!"
+      "english": "Nooooooooo! I'm so bored...",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4304,
+      "_bytes": 27,
+      "translation": "¡Noooooooo! Qué aburrida..."
     },
     {
       "index": 17,
-      "english": "There are too many people around!",
-      "_offset": 708,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Hay demasiada gente por aquí!"
+      "english": "Nooooooooo! I'm so bored...",
+      "speaker_id": 9901,
+      "line_type": 2,
+      "_offset": 4332,
+      "_bytes": 27,
+      "translation": "¡Noooooooo! Qué aburrida..."
     },
     {
       "index": 18,
-      "english": "Papa, Mama! I have to go somewhere\nfor a bit!",
-      "_offset": 742,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Papá, Mamá! Voy a un sitio,\nvuelvo enseguida!"
+      "english": "Mimi! If you don't hurry up, we're\ngonna be late!",
+      "speaker_id": 6191,
+      "line_type": 2,
+      "_offset": 4360,
+      "_bytes": 49,
+      "translation": "¡Mimi! ¡Si no te das prisa, vamos\na llegar tarde!"
     },
     {
       "index": 19,
-      "english": "Go...where?",
-      "_offset": 788,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Adónde...?"
+      "english": "I'm comiiiiiiiiing!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4410,
+      "_bytes": 19,
+      "translation": "¡Ya voooooooooy!"
     },
     {
       "index": 20,
-      "english": "Here! Come over here!",
-      "_offset": 800,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Aquí! Ven por aquí!"
+      "english": "I'm comiiiiiiiiing!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4430,
+      "_bytes": 19,
+      "translation": "¡Ya voooooooooy!"
     },
     {
       "index": 21,
-      "english": "We won't have to worry about being\nspotted over here!",
-      "_offset": 822,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Aquí no tendremos que\npreocuparnos por si nos ven!"
+      "english": "If they find out that you're a\nDigimon, everyone will make a big\nfuss over you!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4450,
+      "_bytes": 79,
+      "translation": "¡Si descubren que eres un\nDigimon, se van a montar un\nlío tremendo contigo!"
     },
     {
       "index": 22,
-      "english": "I'm leaving this to you, Palmon!",
-      "_offset": 876,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Te lo dejo a ti, Palmon!"
+      "english": "Got it. I'll be quiet.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4530,
+      "_bytes": 22,
+      "translation": "Vale, no diré ni pío."
     },
     {
       "index": 23,
-      "english": "Okay!",
-      "_offset": 909,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Vale!"
+      "english": "Mimi, over there!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4553,
+      "_bytes": 17,
+      "translation": "Mimi, ¡mira allí!"
     },
     {
       "index": 24,
-      "english": "That was close...",
-      "_offset": 915,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Uf, qué cerca..."
+      "english": "That's...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4571,
+      "_bytes": 9,
+      "translation": "Eso es..."
     },
     {
       "index": 25,
-      "english": "I can't believe he appeared here,\nof all places. Ah!",
-      "_offset": 933,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "No puedo creer que apareciera\naquí precisamente. Ah!"
+      "english": "One of Myotismon's minions!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4581,
+      "_bytes": 26,
+      "translation": "¡Un secuaz de Myotismon!"
     },
     {
       "index": 26,
-      "english": "What's wrong, Mimi?",
-      "_offset": 986,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Qué pasa, Mimi?"
+      "english": "Why hasn't anyone else noticed\nhim?!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4608,
+      "_bytes": 36,
+      "translation": "¡¿Cómo es que nadie se ha dado\ncuenta?!"
     },
     {
       "index": 27,
-      "english": "We were running so much that the\nswimsuit Mama bought me got all\nmessed up...",
-      "_offset": 1006,
-      "_length": 77,
-      "speaker_id": 0,
-      "translation": "De tanto correr, el bañador\nque me compró Mamá se ha\nestropeado..."
+      "english": "We're the only ones who can see\nhim! He hasn't completely\nmaterialized here!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4645,
+      "_bytes": 76,
+      "translation": "¡Somos los únicos que podemos\nverlo! ¡No se ha materializado\ndel todo aquí!"
     },
     {
       "index": 28,
-      "english": "Mimi...",
-      "_offset": 1084,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Mimi..."
+      "english": "No way!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4722,
+      "_bytes": 7,
+      "translation": "¡No puede ser!"
     },
     {
       "index": 29,
-      "english": "You took so long!",
-      "_offset": 1092,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Menuda tardanza!"
+      "english": "We have to lure him somewhere\nelse! There are too many people\naround!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4730,
+      "_bytes": 69,
+      "translation": "¡Hay que llevarlo a otro\nsitio! ¡Hay demasiada gente\npor aquí!"
     },
     {
       "index": 30,
-      "english": "Did you go somewhere?",
-      "_offset": 1110,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Fuiste a algún sitio?"
+      "english": "There are too many people around!",
+      "speaker_id": 6201,
+      "line_type": 2,
+      "_offset": 4800,
+      "_bytes": 33,
+      "translation": "¡Hay demasiada gente por aquí!"
     },
     {
       "index": 31,
-      "english": "Yeah! I was chasing someone I\nthought I knew...",
-      "_offset": 1132,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Sí! Seguía a alguien que\ncreía conocer..."
+      "english": "Papa, Mama! I have to go somewhere\nfor a bit!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4834,
+      "_bytes": 45,
+      "translation": "¡Papá, mamá! ¡Voy a un sitio,\nvuelvo enseguida!"
     },
     {
       "index": 32,
-      "english": "But I guess they just looked\nreally similar.",
-      "_offset": 1180,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Pero supongo que solo se\nparecían mucho."
+      "english": "Go...where?",
+      "speaker_id": 6201,
+      "line_type": 2,
+      "_offset": 4880,
+      "_bytes": 11,
+      "translation": "¿Adónde...?"
     },
     {
       "index": 33,
-      "english": "Okay, then. Let's go to the\nmovies!",
-      "_offset": 1225,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Vale, pues. Vamos al\ncine!"
+      "english": "Here! Come over here!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4892,
+      "_bytes": 21,
+      "translation": "¡Aquí! ¡Ven por aquí!"
     },
     {
       "index": 34,
-      "english": "I remember, this was the movie\ntheater we went to on our first\ndate...",
-      "_offset": 1261,
-      "_length": 70,
-      "speaker_id": 0,
-      "translation": "Me acuerdo, este es el cine\nal que fuimos en nuestra\nprimera cita..."
+      "english": "We won't have to worry about being\nspotted over here!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4914,
+      "_bytes": 53,
+      "translation": "¡Aquí no tendremos que\npreocuparnos por si nos ven!"
     },
     {
       "index": 35,
-      "english": "Yeah, yeah! We were watching...",
-      "_offset": 1332,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Sí, sí! Estábamos viendo..."
+      "english": "I'm leaving this to you, Palmon!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4968,
+      "_bytes": 32,
+      "translation": "¡Te lo dejo a ti, Palmon!"
     },
     {
       "index": 36,
-      "english": "Yeah, yeah! We were watching...",
-      "_offset": 1364,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Sí, sí! Estábamos viendo..."
+      "english": "Okay!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 5001,
+      "_bytes": 5,
+      "translation": "¡Vale!"
     },
     {
       "index": 37,
-      "english": "Yeah, yeah! We were watching...",
-      "_offset": 1396,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Sí, sí! Estábamos viendo..."
+      "english": "That was close...",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 5007,
+      "_bytes": 17,
+      "translation": "Uf, qué cerca..."
     },
     {
       "index": 38,
-      "english": "I thought you'd be really upset,\nbut you seem to be cheerful.",
-      "_offset": 1428,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Pensé que estarías muy\ndisgustada, pero pareces animada."
+      "english": "I can't believe he appeared here,\nof all places. Ah!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 5025,
+      "_bytes": 52,
+      "translation": "No puedo creer que apareciera\naquí precisamente. ¡Ah!"
     },
     {
       "index": 39,
-      "english": "Well, yeah. It'd be nice if I\ncould buy another swimsuit, but...",
-      "_offset": 1490,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "Bueno, sí. Estaría bien poder\ncomprar otro bañador, pero..."
+      "english": "What's wrong, Mimi?",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 5078,
+      "_bytes": 19,
+      "translation": "¿Qué pasa, Mimi?"
     },
     {
       "index": 40,
-      "english": "Going out with Mama and Papa is\nsomething money can't buy.",
-      "_offset": 1555,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Salir con Mamá y Papá es algo\nque no compra el dinero."
+      "english": "We were running so much that the\nswimsuit Mama bought me got all\nmessed up...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 5098,
+      "_bytes": 77,
+      "translation": "De tanto correr, el bañador\nque me compró mamá se ha\nestropeado..."
     },
     {
       "index": 41,
-      "english": "Huh, Mimi, you've gotten pretty\nmature.",
-      "_offset": 1614,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Vaya, Mimi, qué madura te\nhas vuelto."
+      "english": "Mimi...",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 5176,
+      "_bytes": 7,
+      "translation": "Mimi..."
     },
     {
       "index": 42,
+      "english": "You took so long!",
+      "speaker_id": 6201,
+      "line_type": 2,
+      "_offset": 5184,
+      "_bytes": 17,
+      "translation": "¡Menuda tardanza!"
+    },
+    {
+      "index": 43,
+      "english": "Did you go somewhere?",
+      "speaker_id": 6191,
+      "line_type": 2,
+      "_offset": 5202,
+      "_bytes": 21,
+      "translation": "¿Fuiste a algún sitio?"
+    },
+    {
+      "index": 44,
+      "english": "Yeah! I was chasing someone I\nthought I knew...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 5224,
+      "_bytes": 47,
+      "translation": "¡Sí! Seguía a alguien que\ncreía conocer..."
+    },
+    {
+      "index": 45,
+      "english": "But I guess they just looked\nreally similar.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 5272,
+      "_bytes": 44,
+      "translation": "Pero supongo que solo se\nparecían mucho."
+    },
+    {
+      "index": 46,
+      "english": "Okay, then. Let's go to the\nmovies!",
+      "speaker_id": 6201,
+      "line_type": 2,
+      "_offset": 5317,
+      "_bytes": 35,
+      "translation": "Vale, pues. ¡Vamos al\ncine!"
+    },
+    {
+      "index": 47,
+      "english": "I remember, this was the movie\ntheater we went to on our first\ndate...",
+      "speaker_id": 6191,
+      "line_type": 2,
+      "_offset": 5353,
+      "_bytes": 70,
+      "translation": "Me acuerdo, este es el cine\nal que fuimos en nuestra\nprimera cita..."
+    },
+    {
+      "index": 48,
+      "english": "Yeah, yeah! We were watching...",
+      "speaker_id": 6201,
+      "line_type": 2,
+      "_offset": 5424,
+      "_bytes": 31,
+      "translation": "¡Sí, sí! Estábamos viendo..."
+    },
+    {
+      "index": 49,
+      "english": "Yeah, yeah! We were watching...",
+      "speaker_id": 9901,
+      "line_type": 2,
+      "_offset": 5456,
+      "_bytes": 31,
+      "translation": "¡Sí, sí! Estábamos viendo..."
+    },
+    {
+      "index": 50,
+      "english": "Yeah, yeah! We were watching...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 5488,
+      "_bytes": 31,
+      "translation": "¡Sí, sí! Estábamos viendo..."
+    },
+    {
+      "index": 51,
+      "english": "I thought you'd be really upset,\nbut you seem to be cheerful.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 5520,
+      "_bytes": 61,
+      "translation": "Pensé que estarías muy\ndisgustada, pero pareces animada."
+    },
+    {
+      "index": 52,
+      "english": "Well, yeah. It'd be nice if I\ncould buy another swimsuit, but...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 5582,
+      "_bytes": 64,
+      "translation": "Bueno, sí. Estaría bien poder\ncomprar otro bañador, pero..."
+    },
+    {
+      "index": 53,
+      "english": "Going out with Mama and Papa is\nsomething money can't buy.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 5647,
+      "_bytes": 58,
+      "translation": "Salir con mamá y papá es algo\nque no compra el dinero."
+    },
+    {
+      "index": 54,
+      "english": "Huh, Mimi, you've gotten pretty\nmature.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 5706,
+      "_bytes": 39,
+      "translation": "Vaya, Mimi, qué madura te\nhas vuelto."
+    },
+    {
+      "index": 55,
       "english": "Eheheh... I'm just joking around.",
-      "_offset": 1654,
-      "_length": 33,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 5746,
+      "_bytes": 33,
       "translation": "Jeje... solo estaba de broma."
     }
   ]

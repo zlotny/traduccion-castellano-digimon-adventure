@@ -1,63 +1,467 @@
 {
   "file_id": "3601",
-  "text_count": 7,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 51,
   "dialog": [
     {
       "index": 0,
-      "english": "O�Bいがい�",
-      "_offset": 0,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": ""
+      "english": "あら！　もんざえモンじゃない！",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 1880,
+      "_bytes": 30,
+      "translation": "¡Anda! ¡Si es Monzaemon!"
     },
     {
       "index": 1,
-      "english": "に興味�Bきょうみ�",
-      "_offset": 11,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": ""
+      "english": "ミミさん！",
+      "speaker_id": 4051,
+      "line_type": 2,
+      "_offset": 1911,
+      "_bytes": 10,
+      "translation": "¡Mimi!"
     },
     {
       "index": 2,
-      "english": "ありやせん",
-      "_offset": 29,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": ""
+      "english": "こんなところでどうしたの？",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 1922,
+      "_bytes": 26,
+      "translation": "¿Qué haces por aquí?"
     },
     {
       "index": 3,
-      "english": "あとはアンドロモンに任�Aまか�",
-      "_offset": 40,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": ""
+      "english": "実は心を入れ替えておもちゃの町でおもちゃの修理屋を始めたんです",
+      "speaker_id": 4051,
+      "line_type": 2,
+      "_offset": 1949,
+      "_bytes": 128,
+      "translation": "Pues he cambiado de vida y he\nabierto un taller de juguetes\nen el País de los Juguetes."
     },
     {
       "index": 4,
-      "english": "せましょ��私�Aわたし�",
-      "_offset": 70,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": ""
+      "english": "へえ、おもちゃのお医者さんみたいだね",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 2078,
+      "_bytes": 46,
+      "translation": "Hala, como un médico de\njuguetes."
     },
     {
       "index": 5,
-      "english": "たちはもんざえもんを助�Aたす�",
-      "_offset": 92,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": ""
+      "english": "それで困ったことに大切な仕事道具のプラスドライバーを無くちゃって……",
+      "speaker_id": 4051,
+      "line_type": 2,
+      "_offset": 2125,
+      "_bytes": 116,
+      "translation": "Y el problema es que he\nperdido mi destornillador de\nestrella, mi herramienta clave..."
     },
     {
       "index": 6,
-      "english": "けなきゃ",
-      "_offset": 122,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": ""
+      "english": "それじゃあ、お仕事出来ないじゃない",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 2242,
+      "_bytes": 52,
+      "translation": "Entonces no puedes trabajar."
+    },
+    {
+      "index": 7,
+      "english": "そうなんです、そこでこの工場からドライバーを借りてこようと思って",
+      "speaker_id": 4051,
+      "line_type": 2,
+      "_offset": 2295,
+      "_bytes": 94,
+      "translation": "Exacto, así que pensé en coger\nprestado uno de esta fábrica."
+    },
+    {
+      "index": 8,
+      "english": "ちょっと待った！　この工場のものを勝手に持ち出したら泥棒じゃないか",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 2390,
+      "_bytes": 122,
+      "translation": "¡Un momento! Si te llevas cosas\nde la fábrica sin permiso,\neres un ladrón."
+    },
+    {
+      "index": 9,
+      "english": "違います！　泥棒じゃなくてちょっとの間だけ借りるだけです",
+      "speaker_id": 4051,
+      "line_type": 2,
+      "_offset": 2513,
+      "_bytes": 94,
+      "translation": "¡No! No es robar, solo lo\ncojo prestado un ratito."
+    },
+    {
+      "index": 10,
+      "english": "呆れた……　それを泥棒って言うんじゃない……",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 2608,
+      "_bytes": 72,
+      "translation": "Qué cara... Eso es robar..."
+    },
+    {
+      "index": 11,
+      "english": "そう言うわけでプラスドライバーを探して来ますね",
+      "speaker_id": 4051,
+      "line_type": 2,
+      "_offset": 2681,
+      "_bytes": 68,
+      "translation": "Así que voy a buscar el\ndestornillador de estrella."
+    },
+    {
+      "index": 12,
+      "english": "あっ！　待ちなさい……どうする、ミミ？",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 2750,
+      "_bytes": 46,
+      "translation": "¡Eh! ¡Espera...! ¿Qué hacemos,\nMimi?"
+    },
+    {
+      "index": 13,
+      "english": "もんざえモンを放ってはおけないわ追いかけて止めるのよ！",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 2797,
+      "_bytes": 76,
+      "translation": "No podemos dejar solo a\nMonzaemon. ¡Hay que alcanzarle\ny pararle!"
+    },
+    {
+      "index": 14,
+      "english": "みなさん　そんなに慌てて何か事件でも？",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 2874,
+      "_bytes": 66,
+      "translation": "Chicos, ¿a qué viene tanta\nprisa? ¿Ha pasado algo?"
+    },
+    {
+      "index": 15,
+      "english": "あのね、実は……",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 2941,
+      "_bytes": 24,
+      "translation": "Pues verás, es que..."
+    },
+    {
+      "index": 16,
+      "english": "いいえ！　久しぶりに近くに来たからアンドロモンに会いに来ただけよ",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 2966,
+      "_bytes": 100,
+      "translation": "¡No, nada! Pasábamos cerca y\nvinimos a ver a Andromon."
+    },
+    {
+      "index": 17,
+      "english": "そうですか、私は元気でやっていますよただ、最近おかしなことがあるんです",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 3067,
+      "_bytes": 104,
+      "translation": "Ya veo. Yo estoy bien. Aunque\núltimamente pasan cosas\nraras."
+    },
+    {
+      "index": 18,
+      "english": "へえ……　どんなことがあったんだ？",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 3172,
+      "_bytes": 34,
+      "translation": "Vaya... ¿Qué ha pasado?"
+    },
+    {
+      "index": 19,
+      "english": "ええ、工場から色々なものが無くなるんです",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 3207,
+      "_bytes": 74,
+      "translation": "Sí, desaparecen cosas de la\nfábrica."
+    },
+    {
+      "index": 20,
+      "english": "ギクっ！　た、例えばどんなもの？",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 3282,
+      "_bytes": 40,
+      "translation": "¡Glups! ¿P-por ejemplo?"
+    },
+    {
+      "index": 21,
+      "english": "そうですね、最近だと工具箱に入れていたプラスドライバーが……",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 3323,
+      "_bytes": 98,
+      "translation": "Pues hace poco, el\ndestornillador de estrella de\nla caja de herramientas..."
+    },
+    {
+      "index": 22,
+      "english": "あとは、倉庫のカギと電動ドリルですね",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 3422,
+      "_bytes": 58,
+      "translation": "Y también la llave del almacén\ny un taladro eléctrico."
+    },
+    {
+      "index": 23,
+      "english": "へ、へえ……　",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 3481,
+      "_bytes": 14,
+      "translation": "¡Va-vaya...!"
+    },
+    {
+      "index": 24,
+      "english": "みなさんも、工場内では盗難に気を付けてください",
+      "speaker_id": 4021,
+      "line_type": 2,
+      "_offset": 3496,
+      "_bytes": 90,
+      "translation": "Tened cuidado con los robos\ndentro de la fábrica."
+    },
+    {
+      "index": 25,
+      "english": "まさか、さっきの盗まれたものってもんざえモンが仕業じゃないだろうな？",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 3587,
+      "_bytes": 88,
+      "translation": "¿No habrá sido Monzaemon el\nque robó todo eso?"
+    },
+    {
+      "index": 26,
+      "english": "う～ん　ですがおもちゃの修理のために倉庫のカギや電動ドリルは盗みませんよ",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3676,
+      "_bytes": 116,
+      "translation": "Mmm... Pero para arreglar\njuguetes no robaría la llave\nni el taladro."
+    },
+    {
+      "index": 27,
+      "english": "ともかく、もんざえモンを探しましょ",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 3793,
+      "_bytes": 42,
+      "translation": "Bueno, busquemos a Monzaemon."
+    },
+    {
+      "index": 28,
+      "english": "誰かいるわ！",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 3836,
+      "_bytes": 20,
+      "translation": "¡Hay alguien!"
+    },
+    {
+      "index": 29,
+      "english": "そこにいるのはだれ？！",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 3857,
+      "_bytes": 22,
+      "translation": "¡¿Quién anda ahí?!"
+    },
+    {
+      "index": 30,
+      "english": "しまった！",
+      "speaker_id": 4161,
+      "line_type": 2,
+      "_offset": 3880,
+      "_bytes": 10,
+      "translation": "¡Ostras!"
+    },
+    {
+      "index": 31,
+      "english": "そこで何をしてるんだ！",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 3891,
+      "_bytes": 30,
+      "translation": "¡¿Qué haces ahí?!"
+    },
+    {
+      "index": 32,
+      "english": "バレちまったら仕方ねえな怪盗ドリモゲモンとはあっしのことだ！",
+      "speaker_id": 4161,
+      "line_type": 2,
+      "_offset": 3922,
+      "_bytes": 84,
+      "translation": "Si me habéis pillado, qué le\nvamos a hacer. ¡Servidor es\nDrimogemon, el Ladrón Fantasma!"
+    },
+    {
+      "index": 33,
+      "english": "怪盗ドリモゲモン？　聞いたことある？",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4007,
+      "_bytes": 54,
+      "translation": "¿Drimogemon, el Ladrón\nFantasma? ¿Te suena?"
+    },
+    {
+      "index": 34,
+      "english": "全然！",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4062,
+      "_bytes": 18,
+      "translation": "¡Para nada!"
+    },
+    {
+      "index": 35,
+      "english": "うるせえ！　あっしの伝説はこれから始まるんでえ！　邪魔すんじゃねえ",
+      "speaker_id": 4161,
+      "line_type": 2,
+      "_offset": 4081,
+      "_bytes": 98,
+      "translation": "¡Callaos! ¡Mi leyenda empieza\nahora! ¡No me estorbéis!"
+    },
+    {
+      "index": 36,
+      "english": "ミミ！　私に任せない！",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4180,
+      "_bytes": 40,
+      "translation": "¡Mimi! ¡Déjamelo a mí!"
+    },
+    {
+      "index": 37,
+      "english": "神妙にお縄を頂戴いたします！",
+      "speaker_id": 4161,
+      "line_type": 2,
+      "_offset": 4221,
+      "_bytes": 64,
+      "translation": "Me rindo. Pongo las manos\npara las esposas."
+    },
+    {
+      "index": 38,
+      "english": "ずいぶんあっさり捕まったわね",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 4286,
+      "_bytes": 36,
+      "translation": "Qué rápido lo hemos pillado."
+    },
+    {
+      "index": 39,
+      "english": "それにしてもドライバー、倉庫のカギに電動ドライバーなんてなぜ盗んだんだ？",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 4323,
+      "_bytes": 104,
+      "translation": "¿Y por qué robaste el\ndestornillador, la llave y el\ntaladro?"
+    },
+    {
+      "index": 40,
+      "english": "あっしの鼻のドリルみたいでしょうそれで回るもの見るとついつい……",
+      "speaker_id": 4161,
+      "line_type": 2,
+      "_offset": 4428,
+      "_bytes": 88,
+      "translation": "Se parecen al taladro de mi\nnariz. Veo algo que gira y no\nlo puedo evitar..."
+    },
+    {
+      "index": 41,
+      "english": "もしかして、おもちゃの町でもプラスドライバーを盗んでないわよね",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 4517,
+      "_bytes": 80,
+      "translation": "¿No habrás robado también el\ndestornillador del País de\nlos Juguetes?"
+    },
+    {
+      "index": 42,
+      "english": "さすがに察しが良い　あっしの仕業です",
+      "speaker_id": 4161,
+      "line_type": 2,
+      "_offset": 4598,
+      "_bytes": 60,
+      "translation": "Qué lista. Sí, fue un\nservidor."
+    },
+    {
+      "index": 43,
+      "english": "もんざえモンも被害者の１人だったのね",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4659,
+      "_bytes": 60,
+      "translation": "Así que Monzaemon también era\nuna víctima."
+    },
+    {
+      "index": 44,
+      "english": "じゃあ、もんざえモンは一体どこに？",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 4720,
+      "_bytes": 46,
+      "translation": "¿Y dónde está Monzaemon?"
+    },
+    {
+      "index": 45,
+      "english": "もんざえモンでしたらあっちの通風口に体がハマってつっかえてましたぜ",
+      "speaker_id": 4161,
+      "line_type": 2,
+      "_offset": 4767,
+      "_bytes": 98,
+      "translation": "Monzaemon se quedó atascado en\nel conducto de ventilación de\nallí."
+    },
+    {
+      "index": 46,
+      "english": "人騒がせなヤツだな……",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4866,
+      "_bytes": 34,
+      "translation": "Menudo lío ha montado..."
+    },
+    {
+      "index": 47,
+      "english": "皆さんにご迷惑をかけたお詫びにこいつを差し上げますよ",
+      "speaker_id": 4161,
+      "line_type": 2,
+      "_offset": 4901,
+      "_bytes": 92,
+      "translation": "Para disculparme por las\nmolestias, os doy esto."
+    },
+    {
+      "index": 48,
+      "english": "まさか、盗んだものじゃないわよね",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 4994,
+      "_bytes": 40,
+      "translation": "No será robado, ¿no?"
+    },
+    {
+      "index": 49,
+      "english": "ご心配なく！クルクル回るもの以外に興味ありやせん",
+      "speaker_id": 4161,
+      "line_type": 2,
+      "_offset": 5035,
+      "_bytes": 92,
+      "translation": "¡Tranquilos! Solo me interesa\nlo que da vueltas."
+    },
+    {
+      "index": 50,
+      "english": "あとはアンドロモンに任せましょ私たちはもんざえもんを助けなきゃ",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 5128,
+      "_bytes": 90,
+      "translation": "Dejemos el resto a Andromon.\nNosotros tenemos que rescatar\na Monzaemon."
     }
-  ],
-  "skip": true
+  ]
 }

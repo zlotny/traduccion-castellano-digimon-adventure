@@ -1,174 +1,197 @@
 {
   "file_id": "3534",
+  "format": "etdf",
+  "kind": "ETDF",
   "text_count": 21,
   "dialog": [
     {
       "index": 0,
-      "english": "����Where'd everyone go...?",
-      "_offset": 676,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Donde están todos...?"
+      "english": "Where'd everyone go...?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2424,
+      "_bytes": 23,
+      "translation": "¿Dónde están todos...?"
     },
     {
       "index": 1,
       "english": "Yuuuuukidaaaarumoooooooon!",
-      "_offset": 704,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Friiiigiiiimooooon!"
+      "speaker_id": 4081,
+      "line_type": 2,
+      "_offset": 2448,
+      "_bytes": 26,
+      "translation": "¡Friiiigiiiimooooon!"
     },
     {
       "index": 2,
       "english": "It's Frigimon! He's being\ncontrolled by a black gear!",
-      "_offset": 731,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Es Frigimon! Lo controla una\nrueda negra!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 2475,
+      "_bytes": 56,
+      "translation": "¡Es Frigimon! ¡Lo controla una\nrueda negra!"
     },
     {
       "index": 3,
       "english": "Huh...Why was I rampaging?",
-      "_offset": 788,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Por qué estaba iracundo?"
+      "speaker_id": 4081,
+      "line_type": 2,
+      "_offset": 2532,
+      "_bytes": 26,
+      "translation": "¿Por qué estaba iracundo?"
     },
     {
       "index": 4,
       "english": "We did it! We destroyed the black\ngear!",
-      "_offset": 815,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Lo hicimos! Destruimos la rueda\nnegra!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2559,
+      "_bytes": 39,
+      "translation": "¡Lo hicimos! ¡Destruimos la rueda\nnegra!"
     },
     {
       "index": 5,
       "english": "You're not hurt, are you? I saw a\nkid like you and a Gabumon fall\nover there.",
-      "_offset": 855,
-      "_length": 77,
-      "speaker_id": 0,
-      "translation": "Estás bien, verdad? Vi a un niño\ncomo tu y un Gabumon caer por\naquí."
+      "speaker_id": 4081,
+      "line_type": 2,
+      "_offset": 2599,
+      "_bytes": 77,
+      "translation": "Estás bien, ¿verdad? Vi a un niño\ncomo tú y un Gabumon caer por\naquí."
     },
     {
       "index": 6,
       "english": "Is Matt on that island?!",
-      "_offset": 933,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Está Matt en esa isla?!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2677,
+      "_bytes": 26,
+      "translation": "¡¿Está Matt en esa isla?!"
     },
     {
       "index": 7,
       "english": "But how are we gonna get there? I\ncan't swim...",
-      "_offset": 960,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Pero cómo llegaremos allí? No\npuedo nadar..."
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 2704,
+      "_bytes": 47,
+      "translation": "¿Pero cómo llegaremos allí? No\npuedo nadar..."
     },
     {
       "index": 8,
       "english": "Well, as my way of thanking you,\nI'll help you get there!",
-      "_offset": 1008,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Bueno, como agradecimiento, te\nayudaré a llegar!"
+      "speaker_id": 4081,
+      "line_type": 2,
+      "_offset": 2752,
+      "_bytes": 57,
+      "translation": "¡Bueno, como agradecimiento, te\nayudaré a llegar!"
     },
     {
       "index": 9,
       "english": "Can you do that?",
-      "_offset": 1066,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Podrías?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2810,
+      "_bytes": 16,
+      "translation": "¿Podrías?"
     },
     {
       "index": 10,
       "english": "Yeah. I'll freeze the sea to make\nan ice bridge to the next island.",
-      "_offset": 1083,
-      "_length": 67,
-      "speaker_id": 0,
+      "speaker_id": 4081,
+      "line_type": 2,
+      "_offset": 2827,
+      "_bytes": 67,
       "translation": "Claro. Congelaré el mar para\nhacer un puente gélido hacia la\nisla."
     },
     {
       "index": 11,
       "english": "Oh! So we can just walk over the\nbridge!",
-      "_offset": 1151,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Entiendo! Con un puente podríamos\nandar!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2895,
+      "_bytes": 40,
+      "translation": "¡Entiendo! ¡Con un puente podríamos\nandar!"
     },
     {
       "index": 12,
       "english": "So? Should we go?",
-      "_offset": 1192,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Vamos, entonces?"
+      "speaker_id": 4081,
+      "line_type": 2,
+      "_offset": 2936,
+      "_bytes": 17,
+      "translation": "¿Vamos, entonces?"
     },
     {
       "index": 13,
       "english": "It's not like we have anything\nleft to do here.",
-      "_offset": 1210,
-      "_length": 47,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2954,
+      "_bytes": 47,
       "translation": "No es que tengamos nada mejor\nque hacer..."
     },
     {
       "index": 14,
       "english": "Let's explore a bit more first.",
-      "_offset": 1258,
-      "_length": 31,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 3002,
+      "_bytes": 31,
       "translation": "Exploremos algo más antes."
     },
     {
       "index": 15,
       "english": "All right! Let's go look for Matt!",
-      "_offset": 1290,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Vale! Vayamos a buscar a Matt!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 3034,
+      "_bytes": 36,
+      "translation": "¡Vale! ¡Vayamos a buscar a Matt!"
     },
     {
       "index": 16,
       "english": "Got it. I'll be waiting here, so\ncall me when you're ready.",
-      "_offset": 1327,
-      "_length": 59,
-      "speaker_id": 0,
+      "speaker_id": 4081,
+      "line_type": 2,
+      "_offset": 3071,
+      "_bytes": 59,
       "translation": "Vale. Estaré esperando aquí,\navisa cuando estés preparado."
     },
     {
       "index": 17,
-      "english": "Okay! Here I go!\nGolpe Congelante!",
-      "_offset": 1387,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Vale! Allá va!\nGolpe Congelante!"
+      "english": "Okay! Here I go!\nAbsolute Zero Punch!",
+      "speaker_id": 4081,
+      "line_type": 2,
+      "_offset": 3131,
+      "_bytes": 37,
+      "translation": "¡Vale! ¡Allá va!\n¡Golpe Congelante!"
     },
     {
       "index": 18,
       "english": "Wow! He made a whole bridge,\njust like that!",
-      "_offset": 1425,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Uah! Ha hecho un puente entero,\nasí sin más!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 3169,
+      "_bytes": 44,
+      "translation": "¡Uah! ¡Ha hecho un puente entero,\nasí sin más!"
     },
     {
       "index": 19,
       "english": "It's slippery, so watch your step.",
-      "_offset": 1470,
-      "_length": 34,
-      "speaker_id": 0,
+      "speaker_id": 4081,
+      "line_type": 2,
+      "_offset": 3214,
+      "_bytes": 34,
       "translation": "Resbala, tened cuidado."
     },
     {
       "index": 20,
       "english": "All right, let's cross the bridge\nand look for Matt!",
-      "_offset": 1505,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Vale, crucemos el puente y\nbusquemos a Matt!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 3249,
+      "_bytes": 54,
+      "translation": "¡Vale, crucemos el puente y\nbusquemos a Matt!"
     }
   ]
 }

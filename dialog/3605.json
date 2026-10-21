@@ -1,494 +1,566 @@
 {
   "file_id": "3605",
-  "text_count": 61,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 62,
   "dialog": [
     {
       "index": 0,
       "english": "Look, T.K! Ogremon's over\nthere.",
-      "_offset": 581,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Mira, T.K! Ahí está\nOgremon."
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 5272,
+      "_bytes": 35,
+      "translation": "¡Mira, T.K.! Ahí está\nOgremon."
     },
     {
       "index": 1,
       "english": "What's he doing here?",
-      "_offset": 617,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Qué hace aquí?"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 5308,
+      "_bytes": 21,
+      "translation": "¿Qué hace aquí?"
     },
     {
       "index": 2,
       "english": "(Gh! Why are the brats here?! I'll\nhave to put on a little act!)",
-      "_offset": 639,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "(Argh! Qué hacen aquí\nestos mocosos?! Habrá que\nfingir un poco!)"
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 5330,
+      "_bytes": 64,
+      "translation": "(¡Argh! ¡¿Qué hacen aquí\nestos mocosos?! ¡Habrá que\nfingir un poco!)"
     },
     {
       "index": 3,
       "english": "He's not coming to attack us like\nhe usually does...",
-      "_offset": 704,
-      "_length": 52,
-      "speaker_id": 0,
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 5395,
+      "_bytes": 52,
       "translation": "No viene a atacarnos como\nsuele hacer..."
     },
     {
       "index": 4,
       "english": "Think he's planning something?",
-      "_offset": 757,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Crees que trama algo?"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 5448,
+      "_bytes": 30,
+      "translation": "¿Crees que trama algo?"
     },
     {
       "index": 5,
       "english": "Ahem! Hey, whatcha doin' here at\nthe arena?",
-      "_offset": 788,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Ejem! Oye, qué hacéis\naquí en la arena?"
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 5479,
+      "_bytes": 43,
+      "translation": "¡Ejem! Oye, ¿qué hacéis\naquí en la arena?"
     },
     {
       "index": 6,
       "english": "You're the Ogremon who's attacked\nus before, aren't you?",
-      "_offset": 832,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Eres el Ogremon que nos\natacó antes, no?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 5523,
+      "_bytes": 56,
+      "translation": "Eres el Ogremon que nos\natacó antes, ¿no?"
     },
     {
       "index": 7,
       "english": "No, that'd be my cousin's\ngreat-grandfather's little brother\nOgremon.",
-      "_offset": 889,
-      "_length": 69,
-      "speaker_id": 0,
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 5580,
+      "_bytes": 69,
       "translation": "No, ese sería el hermano\nmenor del bisabuelo de mi\nprimo, Ogremon."
     },
     {
       "index": 8,
       "english": "I'm a different Ogremon!",
-      "_offset": 959,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Soy otro Ogremon!"
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 5650,
+      "_bytes": 24,
+      "translation": "¡Soy otro Ogremon!"
     },
     {
       "index": 9,
       "english": "I'm a different Ogremon!",
-      "_offset": 984,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Soy otro Ogremon!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 5675,
+      "_bytes": 24,
+      "translation": "¡Soy otro Ogremon!"
     },
     {
       "index": 10,
       "english": "I'm a different Ogremon!",
-      "_offset": 1009,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Soy otro Ogremon!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 5700,
+      "_bytes": 24,
+      "translation": "¡Soy otro Ogremon!"
     },
     {
       "index": 11,
-      "english": "Well, we'll leave it at that.",
-      "_offset": 1038,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Bueno, lo dejamos ahí."
+      "english": "...",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 5725,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 12,
-      "english": "What are you doing here, Ogremon?",
-      "_offset": 1068,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Qué haces aquí, Ogremon?"
+      "english": "Well, we'll leave it at that.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 5729,
+      "_bytes": 29,
+      "translation": "Bueno, lo dejamos ahí."
     },
     {
       "index": 13,
-      "english": "My favorite bone club's gotten all\nbanged up, so I'm here to get a\nnew one.",
-      "_offset": 1102,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "Mi garrote favorito quedó\nhecho pedazos, y vengo a\npor uno nuevo."
+      "english": "What are you doing here, Ogremon?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 5759,
+      "_bytes": 33,
+      "translation": "¿Qué haces aquí, Ogremon?"
     },
     {
       "index": 14,
-      "english": "What kind of bone do you need?",
-      "_offset": 1178,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Qué tipo de hueso\nnecesitas?"
+      "english": "My favorite bone club's gotten all\nbanged up, so I'm here to get a\nnew one.",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 5793,
+      "_bytes": 75,
+      "translation": "Mi garrote favorito quedó\nhecho pedazos, y vengo a\npor uno nuevo."
     },
     {
       "index": 15,
-      "english": "How couldja not know? Believe it\nor not, it's a SkullGreymon bone!",
-      "_offset": 1209,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Cómo que no sabéis? Aunque\nno lo creáis, un hueso de\nSkullGreymon!"
+      "english": "What kind of bone do you need?",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 5869,
+      "_bytes": 30,
+      "translation": "¿Qué tipo de hueso necesitas?"
     },
     {
       "index": 16,
-      "english": "A SkullGreymon bone?!",
-      "_offset": 1276,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "De SkullGreymon?!"
+      "english": "How couldja not know? Believe it\nor not, it's a SkullGreymon bone!",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 5900,
+      "_bytes": 66,
+      "translation": "¿Cómo que no sabéis? ¡Aunque\nno lo creáis, un hueso de\nSkullGreymon!"
     },
     {
       "index": 17,
-      "english": "Oh hey! Yeah...you guys, why\ndon'tcha help me out?",
-      "_offset": 1298,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Ah, oye! Sí... por qué no\nme echáis una mano?"
+      "english": "A SkullGreymon bone?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 5967,
+      "_bytes": 21,
+      "translation": "¡¿De SkullGreymon?!"
     },
     {
       "index": 18,
-      "english": "I'm goin' to the back of the\nunderground ruins. Follow me!",
-      "_offset": 1349,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Voy al fondo de las ruinas\nsubterráneas. Seguidme!"
+      "english": "Oh hey! Yeah...you guys, why\ndon'tcha help me out?",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 5989,
+      "_bytes": 50,
+      "translation": "¡Ah, oye! Sí... ¿por qué no\nme echáis una mano?"
     },
     {
       "index": 19,
-      "english": "We'll have to help Ogremon, we\ncan't back out of it like this...",
-      "_offset": 1408,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "Tendremos que ayudar a\nOgremon, no podemos echarnos\natrás ahora..."
+      "english": "I'm goin' to the back of the\nunderground ruins. Follow me!",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 6040,
+      "_bytes": 58,
+      "translation": "Voy al fondo de las ruinas\nsubterráneas. ¡Seguidme!"
     },
     {
       "index": 20,
-      "english": "Hey, guys... is it okay to trust\nthat Ogremon?",
-      "_offset": 1473,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Oye, chicos... podemos\nconfiar en ese Ogremon?"
+      "english": "We'll have to help Ogremon, we\ncan't back out of it like this...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6099,
+      "_bytes": 64,
+      "translation": "Tendremos que ayudar a\nOgremon, no podemos echarnos\natrás ahora..."
     },
     {
       "index": 21,
-      "english": "We'll beat him up!",
-      "_offset": 1520,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Le daremos caña!"
+      "english": "Hey, guys... is it okay to trust\nthat Ogremon?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6164,
+      "_bytes": 46,
+      "translation": "Oye, chicos... ¿podemos\nconfiar en ese Ogremon?"
     },
     {
       "index": 22,
-      "english": "Doesn't feel like a trap.",
-      "_offset": 1539,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "No parece una trampa."
+      "english": "We'll beat him up!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6211,
+      "_bytes": 18,
+      "translation": "¡Le daremos caña!"
     },
     {
       "index": 23,
-      "english": "Once we get a chance, I'll have\nGarurumon take him out.",
-      "_offset": 1565,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "En cuanto pueda, haré que\nGarurumon lo elimine."
+      "english": "Doesn't feel like a trap.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6230,
+      "_bytes": 25,
+      "translation": "No parece una trampa."
     },
     {
       "index": 24,
-      "english": "That's not what I meant, I mean\nwhether he's trying to lead us\ninto a trap!",
-      "_offset": 1621,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "No es eso lo que quería\ndecir, sino si intenta\nllevarnos a una trampa!"
+      "english": "Once we get a chance, I'll have\nGarurumon take him out.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6256,
+      "_bytes": 55,
+      "translation": "En cuanto pueda, haré que\nGarurumon lo elimine."
     },
     {
       "index": 25,
-      "english": "Aren't you thinking too far into\nthis?",
-      "_offset": 1697,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "No le estás dando demasiadas\nvueltas?"
+      "english": "That's not what I meant, I mean\nwhether he's trying to lead us\ninto a trap!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6312,
+      "_bytes": 75,
+      "translation": "¡No es eso lo que quería\ndecir, sino si intenta\nllevarnos a una trampa!"
     },
     {
       "index": 26,
-      "english": "Ugh, I don't care anymore!",
-      "_offset": 1736,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Uf, ya me da igual!"
+      "english": "Aren't you thinking too far into\nthis?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6388,
+      "_bytes": 38,
+      "translation": "¿No le estás dando demasiadas\nvueltas?"
     },
     {
       "index": 27,
-      "english": "Doesn't feel like he's leading us\ninto a trap.",
-      "_offset": 1763,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "No parece que nos lleve\na una trampa."
+      "english": "Ugh, I don't care anymore!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6427,
+      "_bytes": 26,
+      "translation": "¡Uf, ya me da igual!"
     },
     {
       "index": 28,
-      "english": "After all, we're the ones who\ncaught him off guard.",
-      "_offset": 1810,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Al fin y al cabo, lo\npillamos desprevenido."
+      "english": "Doesn't feel like he's leading us\ninto a trap.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6454,
+      "_bytes": 46,
+      "translation": "No parece que nos lleve\na una trampa."
     },
     {
       "index": 29,
-      "english": "What if we're being naive? What if\nhe ends up holding me hostage!",
-      "_offset": 1862,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Y si somos unos ingenuos?\nY si acabo de rehén!"
+      "english": "After all, we're the ones who\ncaught him off guard.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6501,
+      "_bytes": 51,
+      "translation": "Al fin y al cabo, lo\npillamos desprevenido."
     },
     {
       "index": 30,
-      "english": "Then I'll come save you.",
-      "_offset": 1928,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Entonces iré a salvarte."
+      "english": "What if we're being naive? What if\nhe ends up holding me hostage!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6553,
+      "_bytes": 65,
+      "translation": "¿Y si somos unos ingenuos?\n¿Y si acabo de rehén?"
     },
     {
       "index": 31,
-      "english": "If you're willing to do that, then\nI'll forgive you!",
-      "_offset": 1953,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Si estás dispuesto a eso,\nte perdono!"
+      "english": "Then I'll come save you.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6619,
+      "_bytes": 24,
+      "translation": "Entonces iré a salvarte."
     },
     {
       "index": 32,
-      "english": "You're finally here! Let's start\nhuntin' for that bone.",
-      "_offset": 2006,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Por fin llegáis! Vamos a\nbuscar ese hueso."
+      "english": "If you're willing to do that, then\nI'll forgive you!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6644,
+      "_bytes": 52,
+      "translation": "¡Si estás dispuesto a eso,\nte perdono!"
     },
     {
       "index": 33,
-      "english": "So now we're bone hunters?",
-      "_offset": 2062,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Ahora cazamos huesos?"
+      "english": "You're finally here! Let's start\nhuntin' for that bone.",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 6697,
+      "_bytes": 55,
+      "translation": "¡Por fin llegáis! Vamos a\nbuscar ese hueso."
     },
     {
       "index": 34,
-      "english": "Shut up! What I'm sayin' is, we\nneed to hunt down a SkullGreymon\nbone!",
-      "_offset": 2089,
-      "_length": 70,
-      "speaker_id": 0,
-      "translation": "Cállate! Lo que digo es que\nhay que cazar un hueso de\nSkullGreymon!"
+      "english": "So now we're bone hunters?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6753,
+      "_bytes": 26,
+      "translation": "¿Ahora cazamos huesos?"
     },
     {
       "index": 35,
-      "english": "SkullGreymon's hard to deal with,\nso do exactly as I say!",
-      "_offset": 2160,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "SkullGreymon es difícil,\nasí que haced justo lo\nque digo!"
+      "english": "Shut up! What I'm sayin' is, we\nneed to hunt down a SkullGreymon\nbone!",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 6780,
+      "_bytes": 70,
+      "translation": "¡Cállate! ¡Lo que digo es que\nhay que cazar un hueso de\nSkullGreymon!"
     },
     {
       "index": 36,
-      "english": "That's a huge door...",
-      "_offset": 2218,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Vaya puerta enorme..."
+      "english": "SkullGreymon's hard to deal with,\nso do exactly as I say!",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 6851,
+      "_bytes": 57,
+      "translation": "¡SkullGreymon es difícil,\nasí que haced justo lo\nque digo!"
     },
     {
       "index": 37,
-      "english": "I wonder what's behind it?",
-      "_offset": 2240,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Qué habrá detrás?"
+      "english": "That's a huge door...",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 6909,
+      "_bytes": 21,
+      "translation": "Vaya puerta enorme..."
     },
     {
       "index": 38,
-      "english": "Wanna take a look?",
-      "_offset": 2267,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Echamos un vistazo"
+      "english": "I wonder what's behind it?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6931,
+      "_bytes": 26,
+      "translation": "¿Qué habrá detrás?"
     },
     {
       "index": 39,
-      "english": "Yeah!",
-      "_offset": 2286,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí!"
+      "english": "Wanna take a look?",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 6958,
+      "_bytes": 18,
+      "translation": "¿Echamos un vistazo?"
     },
     {
       "index": 40,
-      "english": "Hey, little helper! Whatcha doin'?",
-      "_offset": 2292,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Eh, ayudante! Qué haces?"
+      "english": "Yeah!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6977,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     },
     {
       "index": 41,
-      "english": "Aaaaaaaaaaaaah!",
-      "_offset": 2327,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Aaaaaaaaaaaaah!"
+      "english": "Hey, little helper! Whatcha doin'?",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 6983,
+      "_bytes": 34,
+      "translation": "¡Eh, ayudante! ¿Qué haces?"
     },
     {
       "index": 42,
-      "english": "It's SkullGreymon!",
-      "_offset": 2343,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Es SkullGreymon!"
+      "english": "Aaaaaaaaaaaaah!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 7018,
+      "_bytes": 15,
+      "translation": "¡Aaaaaaaaaaaaah!"
     },
     {
       "index": 43,
-      "english": "T.K!",
-      "_offset": 2362,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "T.K!"
+      "english": "It's SkullGreymon!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7034,
+      "_bytes": 18,
+      "translation": "¡Es SkullGreymon!"
     },
     {
       "index": 44,
-      "english": "Stop! A SkullGreymon that's just\nbeen revived is unstoppable!",
-      "_offset": 2370,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Parad! Un SkullGreymon\nrecién revivido es\nimparable!"
+      "english": "T.K!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7053,
+      "_bytes": 7,
+      "translation": "¡T.K.!"
     },
     {
       "index": 45,
-      "english": "T.K's my little brother! I\ncan't just abandon him and run\naway!",
-      "_offset": 2432,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "T.K es mi hermano pequeño!\nNo puedo abandonarlo y\nhuir sin más!"
+      "english": "Stop! A SkullGreymon that's just\nbeen revived is unstoppable!",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 7061,
+      "_bytes": 61,
+      "translation": "¡Parad! ¡Un SkullGreymon\nrecién revivido es\nimparable!"
     },
     {
       "index": 46,
-      "english": "Tch! Fine, then!",
-      "_offset": 2499,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Tch! Vale, pues!"
+      "english": "T.K's my little brother! I\ncan't just abandon him and run\naway!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7123,
+      "_bytes": 66,
+      "translation": "¡T.K. es mi hermano pequeño!\n¡No puedo abandonarlo y\nhuir sin más!"
     },
     {
       "index": 47,
-      "english": "Matt!",
-      "_offset": 2516,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Matt!"
+      "english": "Tch! Fine, then!",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 7190,
+      "_bytes": 16,
+      "translation": "¡Tch! ¡Vale, pues!"
     },
     {
       "index": 48,
-      "english": "T.K, you're okay!",
-      "_offset": 2524,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "T.K, estás bien!"
+      "english": "Matt!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7207,
+      "_bytes": 7,
+      "translation": "¡Matt!"
     },
     {
       "index": 49,
-      "english": "Yeah!",
-      "_offset": 2545,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí!"
+      "english": "T.K, you're okay!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7215,
+      "_bytes": 20,
+      "translation": "T.K., ¡estás bien!"
     },
     {
       "index": 50,
-      "english": "Good thing Patamon's fine, too.",
-      "_offset": 2551,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Patamon también\nestá bien."
+      "english": "Yeah!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7236,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     },
     {
       "index": 51,
-      "english": "Ah, that was a shock...",
-      "_offset": 2583,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Ah, menudo susto..."
+      "english": "Good thing Patamon's fine, too.",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 7242,
+      "_bytes": 31,
+      "translation": "Menos mal que Patamon\ntambién está bien."
     },
     {
       "index": 52,
-      "english": "Ogremon, did you find a bone you\ncould use?",
-      "_offset": 2607,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Ogremon, encontraste un\nhueso que sirviera?"
+      "english": "Ah, that was a shock...",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 7274,
+      "_bytes": 23,
+      "translation": "Ah, menudo susto..."
     },
     {
       "index": 53,
-      "english": "Yeah! I've finally nabbed a good\nbone! Matt!",
-      "_offset": 2651,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Sí! Por fin pillé un buen\nhueso! Matt!"
+      "english": "Ogremon, did you find a bone you\ncould use?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 7298,
+      "_bytes": 43,
+      "translation": "Ogremon, ¿encontraste un\nhueso que sirviera?"
     },
     {
       "index": 54,
-      "english": "What do you want, Ogremon!",
-      "_offset": 2698,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Qué quieres, Ogremon!"
+      "english": "Yeah! I've finally nabbed a good\nbone! Matt!",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 7342,
+      "_bytes": 46,
+      "translation": "¡Sí! ¡Por fin pillé un buen\nhueso! ¡Matt!"
     },
     {
       "index": 55,
-      "english": "I've fought a lot of battles, but\nto stand up against the fearsome\nSkullGreymon!",
-      "_offset": 2725,
-      "_length": 80,
-      "speaker_id": 0,
-      "translation": "He luchado en muchas\nbatallas, pero plantarle cara\nal temible SkullGreymon!"
+      "english": "What do you want, Ogremon!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7389,
+      "_bytes": 26,
+      "translation": "¡¿Qué quieres, Ogremon?!"
     },
     {
       "index": 56,
-      "english": "You're pretty okay guys! You've\ngot guts! I'll give you this!\nThanks for helping with the hunt!",
-      "_offset": 2806,
-      "_length": 95,
-      "speaker_id": 0,
-      "translation": "Sois buena gente! Tenéis\nagallas! Toma, esto es para\nti! Gracias por la caza!"
+      "english": "I've fought a lot of battles, but\nto stand up against the fearsome\nSkullGreymon!",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 7416,
+      "_bytes": 80,
+      "translation": "¡He luchado en muchas\nbatallas, pero plantarle cara\nal temible SkullGreymon!"
     },
     {
       "index": 57,
-      "english": "Hey, wait a minute...",
-      "_offset": 2902,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Oye, espera..."
+      "english": "You're pretty okay guys! You've\ngot guts! I'll give you this!\nThanks for helping with the hunt!",
+      "speaker_id": 4061,
+      "line_type": 2,
+      "_offset": 7497,
+      "_bytes": 95,
+      "translation": "¡Sois buena gente! ¡Tenéis\nagallas! ¡Toma, esto es para\nti! ¡Gracias por la caza!"
     },
     {
       "index": 58,
-      "english": "Should we take it?",
-      "_offset": 2924,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Lo aceptamos?"
+      "english": "Hey, wait a minute...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7593,
+      "_bytes": 21,
+      "translation": "Oye, espera..."
     },
     {
       "index": 59,
-      "english": "Thanks, Matt!",
-      "_offset": 2943,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Gracias, Matt!"
+      "english": "Should we take it?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7615,
+      "_bytes": 18,
+      "translation": "¿Lo aceptamos?"
     },
     {
       "index": 60,
+      "english": "Thanks, Matt!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7634,
+      "_bytes": 15,
+      "translation": "¡Gracias, Matt!"
+    },
+    {
+      "index": 61,
       "english": "Of course! You're my brother,\nafter all.",
-      "_offset": 2959,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Claro! Al fin y al cabo,\neres mi hermano."
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7650,
+      "_bytes": 40,
+      "translation": "¡Claro! Al fin y al cabo,\neres mi hermano."
     }
   ]
 }

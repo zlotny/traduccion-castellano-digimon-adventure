@@ -1,949 +1,1123 @@
 {
   "file_id": "3572",
-  "text_count": 118,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 124,
   "dialog": [
     {
       "index": 0,
-      "english": "Tai, look above you!",
-      "_offset": 982,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Tai, mira arriba!"
+      "english": "Are we back?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9880,
+      "_bytes": 12,
+      "translation": "¿Hemos vuelto?"
     },
     {
       "index": 1,
-      "english": "Hm? What's that?!",
-      "_offset": 1006,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Eh? Qué es eso?!"
+      "english": "Tai, look above you!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 9893,
+      "_bytes": 23,
+      "translation": "Tai, ¡mira arriba!"
     },
     {
       "index": 2,
-      "english": "Is that Earth?!",
-      "_offset": 1024,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Es la Tierra?!"
+      "english": "Hm? What's that?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9917,
+      "_bytes": 17,
+      "translation": "¿Eh? ¡¿Qué es eso?!"
     },
     {
       "index": 3,
-      "english": "Just like how the Digimon world\nlooked from Earth, our world has\ncome to look like this as well.",
-      "_offset": 1040,
-      "_length": 96,
-      "speaker_id": 0,
-      "translation": "Igual que el Digimundo se veía\ndesde la Tierra, nuestro mundo\ntambién ha acabado así."
+      "english": "Is that Earth?!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 9935,
+      "_bytes": 15,
+      "translation": "¡¿Es la Tierra?!"
     },
     {
       "index": 4,
-      "english": "A-aaaaah!",
-      "_offset": 1137,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "A-aaaaah!"
+      "english": "Just like how the Digimon world\nlooked from Earth, our world has\ncome to look like this as well.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 9951,
+      "_bytes": 96,
+      "translation": "Igual que el Digimundo se veía\ndesde la Tierra, nuestro mundo\ntambién ha acabado así."
     },
     {
       "index": 5,
-      "english": "Joe?!",
-      "_offset": 1147,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Joe?!"
+      "english": "A-aaaaah!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 10048,
+      "_bytes": 9,
+      "translation": "¡A-aaaaah!"
     },
     {
       "index": 6,
-      "english": "Wait!",
-      "_offset": 1153,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Para!"
+      "english": "Joe?!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 10058,
+      "_bytes": 5,
+      "translation": "¡¿Joe?!"
     },
     {
       "index": 7,
-      "english": "Let's go after it!",
-      "_offset": 1159,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Vamos a por él!"
+      "english": "Wait!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 10064,
+      "_bytes": 5,
+      "translation": "¡Para!"
     },
     {
       "index": 8,
-      "english": "Yeah!",
-      "_offset": 1178,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí!"
+      "english": "Let's go after it!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10070,
+      "_bytes": 18,
+      "translation": "¡Vamos a por él!"
     },
     {
       "index": 9,
-      "english": "I can't believe all this happened\nto the Digital World while we were\ngone...",
-      "_offset": 1184,
-      "_length": 76,
-      "speaker_id": 0,
-      "translation": "No puedo creer que esto le\npasara al Digimundo mientras\nestábamos fuera..."
+      "english": "Yeah!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 10089,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     },
     {
       "index": 10,
-      "english": "I'm sure *something* hasn't changed.",
-      "_offset": 1261,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Seguro que ALGO no ha cambiado."
+      "english": "I can't believe all this happened\nto the Digital World while we were\ngone...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 10095,
+      "_bytes": 76,
+      "translation": "No puedo creer que esto le\npasara al Digimundo mientras\nestábamos fuera..."
     },
     {
       "index": 11,
-      "english": "Everyone's starting to feel nervous.",
-      "_offset": 1298,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Todos empiezan a estar nerviosos."
+      "english": "I'm sure *something* hasn't changed.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10172,
+      "_bytes": 36,
+      "translation": "Seguro que ALGO no ha cambiado."
     },
     {
       "index": 12,
-      "english": "I'm sure *something* out there\nhasn't changed.",
-      "_offset": 1335,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Seguro que hay ALGO ahí\nque no ha cambiado."
+      "english": "Everyone's starting to feel nervous.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 10209,
+      "_bytes": 36,
+      "translation": "Todos empiezan a estar nerviosos."
     },
     {
       "index": 13,
-      "english": "I don't know about that...",
-      "_offset": 1382,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "No lo tengo tan claro..."
+      "english": "I'm sure *something* out there\nhasn't changed.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10246,
+      "_bytes": 46,
+      "translation": "Seguro que hay ALGO ahí\nque no ha cambiado."
     },
     {
       "index": 14,
-      "english": "Being negative isn't going to help\nanything.",
-      "_offset": 1409,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Ser negativo no va a ayudar\nen nada."
+      "english": "I don't know about that...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 10293,
+      "_bytes": 26,
+      "translation": "No lo tengo tan claro..."
     },
     {
       "index": 15,
-      "english": "I can't just take this at face\nvalue, not like you can.",
-      "_offset": 1454,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Yo no puedo tomármelo tan a la\nligera como tú."
+      "english": "Being negative isn't going to help\nanything.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10320,
+      "_bytes": 44,
+      "translation": "Ser negativo no va a ayudar\nen nada."
     },
     {
       "index": 16,
-      "english": "Matt...",
-      "_offset": 1510,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Matt..."
+      "english": "I can't just take this at face\nvalue, not like you can.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 10365,
+      "_bytes": 55,
+      "translation": "Yo no puedo tomármelo tan a la\nligera como tú."
     },
     {
       "index": 17,
-      "english": "It's not just you. Everyone's\nfeeling nervous.",
-      "_offset": 1520,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "No eres el único. Todos\nestamos nerviosos."
+      "english": "Matt...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10421,
+      "_bytes": 9,
+      "translation": "Matt..."
     },
     {
       "index": 18,
-      "english": "I know. You, me, all of us.",
-      "_offset": 1567,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Lo sé. Tú, yo, todos."
+      "english": "It's not just you. Everyone's\nfeeling nervous.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10431,
+      "_bytes": 46,
+      "translation": "No eres el único. Todos\nestamos nerviosos."
     },
     {
       "index": 19,
-      "english": "It'll be fine. We've gotten\nthrough all sorts of bad stuff,\nright?",
-      "_offset": 1595,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Todo irá bien. Hemos pasado\npor cosas peores, no?"
+      "english": "I know. You, me, all of us.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 10478,
+      "_bytes": 27,
+      "translation": "Lo sé. Tú, yo, todos."
     },
     {
       "index": 20,
-      "english": "You're right. We'll be counting on\nyou, Tai.",
-      "_offset": 1662,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Tienes razón. Contamos\ncontigo, Tai."
+      "english": "It'll be fine. We've gotten\nthrough all sorts of bad stuff,\nright?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10506,
+      "_bytes": 66,
+      "translation": "Todo irá bien. Hemos pasado\npor cosas peores, ¿no?"
     },
     {
       "index": 21,
-      "english": "Tai, is this the Digital World?",
-      "_offset": 1710,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Tai, esto es el Digimundo?"
+      "english": "You're right. We'll be counting on\nyou, Tai.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 10573,
+      "_bytes": 47,
+      "translation": "Tienes razón. Contamos\ncontigo, Tai."
     },
     {
       "index": 22,
-      "english": "It's kind of scarier than I heard\nit would be...",
-      "_offset": 1745,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Da más miedo de lo que me\nhabían contado..."
+      "english": "Tai, is this the Digital World?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10621,
+      "_bytes": 34,
+      "translation": "Tai, ¿esto es el Digimundo?"
     },
     {
       "index": 23,
-      "english": "It wasn't like this when we were\nhere.",
-      "_offset": 1794,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "No era así cuando estuvimos\naquí."
+      "english": "It's kind of scarier than I heard\nit would be...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10656,
+      "_bytes": 48,
+      "translation": "Da más miedo de lo que me\nhabían contado..."
     },
     {
       "index": 24,
-      "english": "I wonder if I can fit in with the\ngroup...",
-      "_offset": 1833,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Me pregunto si encajaré con\nel grupo..."
+      "english": "It wasn't like this when we were\nhere.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10705,
+      "_bytes": 38,
+      "translation": "No era así cuando estuvimos\naquí."
     },
     {
       "index": 25,
-      "english": "Everyone starts off being nervous",
-      "_offset": 1876,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Todos empiezan estando\nnerviosos"
+      "english": "I wonder if I can fit in with the\ngroup...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10744,
+      "_bytes": 42,
+      "translation": "Me pregunto si encajaré con\nel grupo..."
     },
     {
       "index": 26,
-      "english": "You're a Chosen Child, you can do it",
-      "_offset": 1910,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Eres una Niña Elegida, tú\npuedes"
+      "english": "Everyone starts off being nervous",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10787,
+      "_bytes": 33,
+      "translation": "Todos empiezan estando nerviosos"
     },
     {
       "index": 27,
-      "english": "Everyone starts off being nervous.",
-      "_offset": 1947,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Todos empiezan estando\nnerviosos."
+      "english": "You're a Chosen Child, you can do it",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10821,
+      "_bytes": 36,
+      "translation": "Eres una Niña Elegida, tú puedes"
     },
     {
       "index": 28,
-      "english": "Were you nervous at first?",
-      "_offset": 1982,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Tenías miedo al principio?"
+      "english": "Everyone starts off being nervous.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10858,
+      "_bytes": 34,
+      "translation": "Todos empiezan estando nerviosos."
     },
     {
       "index": 29,
-      "english": "Yeah, when I came to the Digital\nWorld I was so scared I couldn't\neven sleep at night.",
-      "_offset": 2009,
-      "_length": 86,
-      "speaker_id": 0,
-      "translation": "Sí, cuando llegué al Digimundo\ntenía tanto miedo que no podía\ndormir por las noches."
+      "english": "Were you nervous at first?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 10893,
+      "_bytes": 26,
+      "translation": "¿Tenías miedo al principio?"
     },
     {
       "index": 30,
-      "english": "You? Aren't you the one who\nnormally sleeps like a rock?",
-      "_offset": 2096,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Tú? No eras el que siempre\nduerme como un tronco?"
+      "english": "Yeah, when I came to the Digital\nWorld I was so scared I couldn't\neven sleep at night.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10920,
+      "_bytes": 86,
+      "translation": "Sí, cuando llegué al Digimundo\ntenía tanto miedo que no podía\ndormir por las noches."
     },
     {
       "index": 31,
-      "english": "Yeah! So you'll be fine, Kari!",
-      "_offset": 2153,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Sí! Así que estarás bien,\nKari!"
+      "english": "You? Aren't you the one who\nnormally sleeps like a rock?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11007,
+      "_bytes": 56,
+      "translation": "¿Tú? ¿No eres el que siempre\nduerme como un tronco?"
     },
     {
       "index": 32,
-      "english": "You're a Chosen Child, so you can\ndo it.",
-      "_offset": 2186,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Eres una Niña Elegida, así\nque puedes."
+      "english": "Yeah! So you'll be fine, Kari!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11064,
+      "_bytes": 32,
+      "translation": "¡Sí! ¡Así que estarás bien, Kari!"
     },
     {
       "index": 33,
-      "english": "But I don't have any confidence...",
-      "_offset": 2227,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Pero no tengo confianza..."
+      "english": "You're a Chosen Child, so you can\ndo it.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11097,
+      "_bytes": 40,
+      "translation": "Eres una Niña Elegida, así\nque puedes."
     },
     {
       "index": 34,
-      "english": "Just give it time and it'll come!",
-      "_offset": 2262,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Dale tiempo y ya vendrá!"
+      "english": "But I don't have any confidence...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11138,
+      "_bytes": 34,
+      "translation": "Pero no tengo confianza..."
     },
     {
       "index": 35,
-      "english": "Okay...",
-      "_offset": 2296,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Vale..."
+      "english": "Just give it time and it'll come!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11173,
+      "_bytes": 33,
+      "translation": "¡Dale tiempo y ya vendrá!"
     },
     {
       "index": 36,
-      "english": "Hey! Come out!",
-      "_offset": 2304,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Eh! Sal ya!"
+      "english": "Okay...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11207,
+      "_bytes": 7,
+      "translation": "Vale..."
     },
     {
       "index": 37,
-      "english": "Wait!",
-      "_offset": 2319,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Para!"
+      "english": "Hey! Come out!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 11215,
+      "_bytes": 14,
+      "translation": "¡Eh! ¡Sal ya!"
     },
     {
       "index": 38,
-      "english": "Don't be scared. We won't do\nanything to you... come out...",
-      "_offset": 2325,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "No tengas miedo. No te\nharemos nada... sal..."
+      "english": "Wait!",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11230,
+      "_bytes": 5,
+      "translation": "¡Espera!"
     },
     {
       "index": 39,
-      "english": "Hey, aren't you Chuumon?",
-      "_offset": 2385,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Oye, no eres tú Chuumon?"
+      "english": "Don't be scared. We won't do\nanything to you... come out...",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 11236,
+      "_bytes": 59,
+      "translation": "No tengas miedo. No te\nharemos nada... sal..."
     },
     {
       "index": 40,
-      "english": "You're right! It's the Chuumon we\nmet on File Island!",
-      "_offset": 2410,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Tienes razón! El Chuumon de\nla Isla File!"
+      "english": "Hey, aren't you Chuumon?",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 11296,
+      "_bytes": 24,
+      "translation": "Oye, ¿no eres tú Chuumon?"
     },
     {
       "index": 41,
-      "english": "Mimi? Palmon? I'm so glad... you\ncame back...",
-      "_offset": 2464,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Mimi? Palmon? Qué alegría...\nhabéis vuelto..."
+      "english": "You're right! It's the Chuumon we\nmet on File Island!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11321,
+      "_bytes": 53,
+      "translation": "¡Tienes razón! ¡El Chuumon de\nla Isla File!"
     },
     {
       "index": 42,
-      "english": "Chuumon... what on earth happened\nto you?",
-      "_offset": 2510,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Chuumon... qué te ha pasado?"
+      "english": "Mimi? Palmon? I'm so glad... you\ncame back...",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 11375,
+      "_bytes": 45,
+      "translation": "¿Mimi? ¿Palmon? Qué alegría...\nhabéis vuelto..."
     },
     {
       "index": 43,
-      "english": "And what happened to your friend,\nScumon?",
-      "_offset": 2556,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Y qué le pasó a tu amigo\nScumon?"
+      "english": "Chuumon... what on earth happened\nto you?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11421,
+      "_bytes": 41,
+      "translation": "Chuumon... ¿qué te ha pasado?"
     },
     {
       "index": 44,
-      "english": "He's deaaaaaaaad!",
-      "_offset": 2598,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Está muertoooooo!"
+      "english": "...",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 11463,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 45,
-      "english": "After Mimi and Palmon left File\nIsland, we were living out our\nordinary lives...",
-      "_offset": 2616,
-      "_length": 80,
-      "speaker_id": 0,
-      "translation": "Tras irse Mimi y Palmon de la\nIsla File, vivíamos nuestra\nvida normal..."
+      "english": "And what happened to your friend,\nScumon?",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 11467,
+      "_bytes": 41,
+      "translation": "¿Y qué le pasó a tu amigo\nScumon?"
     },
     {
       "index": 46,
-      "english": "But one day, dark forces covered\nthe world, and formed a new world\nover it...",
-      "_offset": 2701,
-      "_length": 77,
-      "speaker_id": 0,
-      "translation": "Pero un día, fuerzas oscuras\ncubrieron el mundo y crearon\nuno nuevo encima..."
+      "english": "He's deaaaaaaaad!",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 11509,
+      "_bytes": 17,
+      "translation": "¡Está muertoooooo!"
     },
     {
       "index": 47,
-      "english": "All so they could have control\nover it themselves... and then,\nScumon fell down a huge hole.",
-      "_offset": 2779,
-      "_length": 92,
-      "speaker_id": 0,
-      "translation": "Todo para controlarlo ellos\nmismos... y entonces, Scumon\ncayó por un agujero enorme."
+      "english": "After Mimi and Palmon left File\nIsland, we were living out our\nordinary lives...",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 11527,
+      "_bytes": 80,
+      "translation": "Tras irse Mimi y Palmon de la\nIsla File, vivíamos nuestra\nvida normal..."
     },
     {
       "index": 48,
-      "english": "You said they created a new\nworld...",
-      "_offset": 2872,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Dijiste que crearon otro\nmundo..."
+      "english": "...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11608,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 49,
-      "english": "What kind of world?",
-      "_offset": 2909,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Qué clase de mundo?"
+      "english": "But one day, dark forces covered\nthe world, and formed a new world\nover it...",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 11612,
+      "_bytes": 77,
+      "translation": "Pero un día, fuerzas oscuras\ncubrieron el mundo y crearon\nuno nuevo encima..."
     },
     {
       "index": 50,
-      "english": "It's called Spiral Mountain.",
-      "_offset": 2929,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Se llama Montaña Espiral."
+      "english": "All so they could have control\nover it themselves... and then,\nScumon fell down a huge hole.",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 11690,
+      "_bytes": 92,
+      "translation": "Todo para controlarlo ellos\nmismos... y entonces, Scumon\ncayó por un agujero enorme."
     },
     {
       "index": 51,
-      "english": "Spiral Mountain?",
-      "_offset": 2958,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Montaña Espiral?"
+      "english": "You said they created a new\nworld...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11783,
+      "_bytes": 36,
+      "translation": "Dijiste que crearon otro\nmundo..."
     },
     {
       "index": 52,
-      "english": "They turned the Digimon world into\nthis...",
-      "_offset": 2975,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Convirtieron el Digimundo en\nesto..."
+      "english": "What kind of world?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 11820,
+      "_bytes": 19,
+      "translation": "¿Qué clase de mundo?"
     },
     {
       "index": 53,
-      "english": "What happened to the other\nDigimon? Like Leomon...",
-      "_offset": 3018,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Qué pasó con los demás\nDigimon? Como Leomon..."
+      "english": "It's called Spiral Mountain.",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 11840,
+      "_bytes": 28,
+      "translation": "Se llama Montaña Espiral."
     },
     {
       "index": 54,
-      "english": "I don't know... but they say that\nall who resisted were defeated.",
-      "_offset": 3069,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "No lo sé... pero dicen que\nderrotaron a todo el que\nse resistió."
+      "english": "Spiral Mountain?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 11869,
+      "_bytes": 16,
+      "translation": "¿Montaña Espiral?"
     },
     {
       "index": 55,
-      "english": "By whom?",
-      "_offset": 3135,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Quién?"
+      "english": "They turned the Digimon world into\nthis...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 11886,
+      "_bytes": 42,
+      "translation": "Convirtieron el Digimundo en\nesto..."
     },
     {
       "index": 56,
-      "english": "The Dark Masters.",
-      "_offset": 3144,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Los Amos Oscuros."
+      "english": "What happened to the other\nDigimon? Like Leomon...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11929,
+      "_bytes": 50,
+      "translation": "¿Qué pasó con los demás\nDigimon? Como Leomon..."
     },
     {
       "index": 57,
-      "english": "So we'll have to fight them, then!",
-      "_offset": 3162,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Entonces lucharemos\ncontra ellos!"
+      "english": "I don't know... but they say that\nall who resisted were defeated.",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 11980,
+      "_bytes": 65,
+      "translation": "No lo sé... pero dicen que\nderrotaron a todo el que\nse resistió."
     },
     {
       "index": 58,
-      "english": "Fight them?! You can't do that!",
-      "_offset": 3197,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Luchar?! Eso no podéis\nhacerlo!"
+      "english": "By whom?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12046,
+      "_bytes": 8,
+      "translation": "¿Quiénes?"
     },
     {
       "index": 59,
-      "english": "We defeated Vamdemon! It'll be\nokay!",
-      "_offset": 3229,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Vencimos a Myotismon! Todo\nirá bien!"
+      "english": "The Dark Masters.",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 12055,
+      "_bytes": 17,
+      "translation": "Los Amos Oscuros."
     },
     {
       "index": 60,
-      "english": "It'll be fine! If the eight of us\nChosen Children are together, we\ncan save the world!",
-      "_offset": 3266,
-      "_length": 86,
-      "speaker_id": 0,
-      "translation": "Todo irá bien! Si los ocho\nNiños Elegidos estamos juntos,\npodemos salvar el mundo!"
+      "english": "So we'll have to fight them, then!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12073,
+      "_bytes": 34,
+      "translation": "¡Entonces lucharemos contra ellos!"
     },
     {
       "index": 61,
-      "english": "we can save the world!",
-      "_offset": 3353,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Podemos salvarlo!"
+      "english": "Fight them?! You can't do that!",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 12108,
+      "_bytes": 31,
+      "translation": "¡¿Luchar?! ¡Eso no podéis hacerlo!"
     },
     {
       "index": 62,
-      "english": "we can save the world!",
-      "_offset": 3376,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Podemos salvarlo!"
+      "english": "We defeated Myotismon! It'll be\nokay!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12140,
+      "_bytes": 36,
+      "translation": "¡Vencimos a Myotismon! ¡Todo\nirá bien!"
     },
     {
       "index": 63,
-      "english": "Hah... hahahahaha...",
-      "_offset": 3399,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Ja... jajajajaja..."
+      "english": "It'll be fine! If the eight of us\nChosen Children are together, we\ncan save the world!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 12177,
+      "_bytes": 86,
+      "translation": "¡Todo irá bien! ¡Si los ocho\nNiños Elegidos estamos juntos,\npodemos salvar el mundo!"
     },
     {
       "index": 64,
-      "english": "Such lively children. Let's play\nwith them a little..",
-      "_offset": 3423,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Qué críos tan animados. Vamos\na jugar con ellos.."
+      "english": "we can save the world!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12264,
+      "_bytes": 22,
+      "translation": "¡Podemos salvarlo!"
     },
     {
       "index": 65,
-      "english": "W-who's there?!",
-      "_offset": 3477,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Quién hay ahí?!"
+      "english": "we can save the world!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 12287,
+      "_bytes": 22,
+      "translation": "¡Podemos salvarlo!"
     },
     {
       "index": 66,
-      "english": "W-who's there?!",
-      "_offset": 3493,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Quién hay ahí?!"
+      "english": "Hah... hahahahaha...",
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 12310,
+      "_bytes": 20,
+      "translation": "Ja... jajajajaja..."
     },
     {
       "index": 67,
-      "english": "W-who's there?!",
-      "_offset": 3509,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Quién hay ahí?!"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 12331,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 68,
-      "english": "Aaaaaaaaah!",
-      "_offset": 3525,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Aaaaaaaaah!"
+      "english": "Such lively children. Let's play\nwith them a little..",
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 12334,
+      "_bytes": 53,
+      "translation": "Qué críos tan animados. Vamos\na jugar con ellos..."
     },
     {
       "index": 69,
-      "english": "Gyaaaaaah! It's Piemon!",
-      "_offset": 3537,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Gyaaaaaah! Es Piedmon!"
+      "english": "W-who's there?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12388,
+      "_bytes": 15,
+      "translation": "¡¿Quién hay ahí?!"
     },
     {
       "index": 70,
-      "english": "Hahahahaha...",
-      "_offset": 3561,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Jajajajaja..."
+      "english": "W-who's there?!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12404,
+      "_bytes": 15,
+      "translation": "¡¿Quién hay ahí?!"
     },
     {
       "index": 71,
-      "english": "T-They're...",
-      "_offset": 3575,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "S-son..."
+      "english": "W-who's there?!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 12420,
+      "_bytes": 15,
+      "translation": "¡¿Quién hay ahí?!"
     },
     {
       "index": 72,
-      "english": "The Dark Masters...",
-      "_offset": 3588,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Los Amos Oscuros..."
+      "english": "Aaaaaaaaah!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 12436,
+      "_bytes": 11,
+      "translation": "¡Aaaaaaaaah!"
     },
     {
       "index": 73,
-      "english": "Don't worry, guys!",
-      "_offset": 3608,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "No os preocupéis!"
+      "english": "Gyaaaaaah! It's Piemon!",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 12448,
+      "_bytes": 23,
+      "translation": "¡Gyaaaaaah! ¡Es Piedmon!"
     },
     {
       "index": 74,
-      "english": "We've got a little trump card of\nour own. Right, Agumon?",
-      "_offset": 3627,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "También tenemos una carta de\ntriunfo, verdad, Agumon?"
+      "english": "Hahahahaha...",
+      "speaker_id": 3081,
+      "line_type": 2,
+      "_offset": 12472,
+      "_bytes": 13,
+      "translation": "Jajajajaja..."
     },
     {
       "index": 75,
-      "english": "We're counting on you, Gabumon!",
-      "_offset": 3684,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Contamos contigo, Gabumon!"
+      "english": "T-They're...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 12486,
+      "_bytes": 12,
+      "translation": "S-son..."
     },
     {
       "index": 76,
-      "english": "Go! Let's show them what we can\ndo!",
-      "_offset": 3716,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Vamos! A enseñarles lo que\nvalemos!"
+      "english": "The Dark Masters...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12499,
+      "_bytes": 19,
+      "translation": "Los Amos Oscuros..."
     },
     {
       "index": 77,
-      "english": "MetalGarurumon! We can save the\nworld if we defeat them!",
-      "_offset": 3752,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "MetalGarurumon! Si los\nderrotamos, salvaremos el mundo!"
+      "english": "Don't worry, guys!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12519,
+      "_bytes": 18,
+      "translation": "¡No os preocupéis!"
     },
     {
       "index": 78,
-      "english": "Trump Sword!",
-      "_offset": 3809,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Esp. Trump!"
+      "english": "We've got a little trump card of\nour own. Right, Agumon?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12538,
+      "_bytes": 56,
+      "translation": "También tenemos un as\nen la manga, ¿verdad, Agumon?"
     },
     {
       "index": 79,
-      "english": "No way...",
-      "_offset": 3822,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Qué va..."
+      "english": "We're counting on you, Gabumon!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 12595,
+      "_bytes": 31,
+      "translation": "¡Contamos contigo, Gabumon!"
     },
     {
       "index": 80,
-      "english": "Even two Ultimates are no match\nfor him...",
-      "_offset": 3832,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Ni dos Cuerpo Supremo le\nhacen frente..."
+      "english": "Go! Let's show them what we can\ndo!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12627,
+      "_bytes": 35,
+      "translation": "¡Vamos! ¡A enseñarles lo que\nvalemos!"
     },
     {
       "index": 81,
-      "english": "You may be Ultimates just like me, \nbut it hasn't been long since \nyou've evolved to that level.",
-      "_offset": 3875,
-      "_length": 96,
-      "speaker_id": 0,
-      "translation": "Seréis Cuerpo Supremo como yo,\npero no hace mucho que\nevolucionasteis a ese nivel."
+      "english": "MetalGarurumon! We can save the\nworld if we defeat them!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 12663,
+      "_bytes": 56,
+      "translation": "¡MetalGarurumon! ¡Si los\nderrotamos, salvaremos el mundo!"
     },
     {
       "index": 82,
-      "english": "You're making a huge mistake if\nyou think you can win.",
-      "_offset": 3972,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Cometéis un gran error si\ncreéis que podéis ganar."
+      "english": "Trump Sword!",
+      "speaker_id": 3081,
+      "line_type": 2,
+      "_offset": 12720,
+      "_bytes": 12,
+      "translation": "¡Espada Trump!"
     },
     {
       "index": 83,
-      "english": "No! Nooooo! I'm just a normal\nelementary school student!",
-      "_offset": 4027,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "No! Noooo! Solo soy un\nestudiante normal de primaria!"
+      "english": "No way...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 12733,
+      "_bytes": 9,
+      "translation": "No puede ser..."
     },
     {
       "index": 84,
-      "english": "Why do I have to die here?!",
-      "_offset": 4084,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Por qué he de morir aquí?!"
+      "english": "Even two Ultimates are no match\nfor him...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12743,
+      "_bytes": 42,
+      "translation": "Ni dos Digimon de Cuerpo\nSupremo pueden con él..."
     },
     {
       "index": 85,
-      "english": "Mimi...",
-      "_offset": 4112,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Mimi..."
+      "english": "You may be Ultimates just like me, \nbut it hasn't been long since \nyou've evolved to that level.",
+      "speaker_id": 3081,
+      "line_type": 2,
+      "_offset": 12786,
+      "_bytes": 96,
+      "translation": "Seréis Cuerpo Supremo como yo,\npero no hace mucho que\nevolucionasteis a ese nivel."
     },
     {
       "index": 86,
-      "english": "You're annoying. I'll start with\nyou, then.",
-      "_offset": 4120,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Qué molesto. Empezaré\ncontigo, entonces."
+      "english": "You're making a huge mistake if\nyou think you can win.",
+      "speaker_id": 3081,
+      "line_type": 2,
+      "_offset": 12883,
+      "_bytes": 54,
+      "translation": "Cometéis un gran error si\ncreéis que podéis ganar."
     },
     {
       "index": 87,
-      "english": "Gh...!",
-      "_offset": 4167,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Gh...!"
+      "english": "No! Nooooo! I'm just a normal\nelementary school student!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 12938,
+      "_bytes": 56,
+      "translation": "¡No! ¡Noooo! ¡Solo soy una\nestudiante normal de primaria!"
     },
     {
       "index": 88,
-      "english": "Chuumon!",
-      "_offset": 4174,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Chuumon!"
+      "english": "Why do I have to die here?!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 12995,
+      "_bytes": 27,
+      "translation": "¡¿Por qué he de morir aquí?!"
     },
     {
       "index": 89,
       "english": "Mimi...",
-      "_offset": 4183,
-      "_length": 7,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 13023,
+      "_bytes": 7,
       "translation": "Mimi..."
     },
     {
       "index": 90,
-      "english": "Chuumon! Hang in there!",
-      "_offset": 4191,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Chuumon! Aguanta!"
+      "english": "You're annoying. I'll start with\nyou, then.",
+      "speaker_id": 3081,
+      "line_type": 2,
+      "_offset": 13031,
+      "_bytes": 43,
+      "translation": "Qué pesada. Empezaré\ncontigo, entonces."
     },
     {
       "index": 91,
-      "english": "When I'm reborn... go on a date\nwith me...",
-      "_offset": 4215,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Cuando renazca... ten una\ncita conmigo..."
+      "english": "!!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 13075,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 92,
-      "english": "Chuumon!",
-      "_offset": 4258,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Chuumon!"
+      "english": "Gh...!",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 13078,
+      "_bytes": 6,
+      "translation": "¡Gh...!"
     },
     {
       "index": 93,
-      "english": "What a foolish Digimon. How\npointless, charging in so quickly\ninto his own death like that.",
-      "_offset": 4267,
-      "_length": 91,
-      "speaker_id": 0,
-      "translation": "Qué Digimon tan tonto. Qué\ninútil correr tan rápido\nhacia su propia muerte."
+      "english": "Chuumon!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 13085,
+      "_bytes": 8,
+      "translation": "¡Chuumon!"
     },
     {
       "index": 94,
-      "english": "Why, you! We won't forgive you for\nthat!",
-      "_offset": 4359,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Serás...! No te perdonaremos\npor eso!"
+      "english": "Mimi...",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 13094,
+      "_bytes": 7,
+      "translation": "Mimi..."
     },
     {
       "index": 95,
-      "english": "Haha... All right, next is...",
-      "_offset": 4400,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Jaja... El siguiente es..."
+      "english": "Chuumon! Hang in there!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 13102,
+      "_bytes": 23,
+      "translation": "¡Chuumon! ¡Aguanta!"
     },
     {
       "index": 96,
-      "english": "Pit Bomb!",
-      "_offset": 4430,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "BombaFos!"
+      "english": "When I'm reborn... go on a date\nwith me...",
+      "speaker_id": 4341,
+      "line_type": 2,
+      "_offset": 13126,
+      "_bytes": 42,
+      "translation": "Cuando renazca... ten una\ncita conmigo..."
     },
     {
       "index": 97,
-      "english": "Ugh!!",
-      "_offset": 4440,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Ay!!"
+      "english": "Chuumon!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 13169,
+      "_bytes": 8,
+      "translation": "¡Chuumon!"
     },
     {
       "index": 98,
-      "english": "Piccolomon! We've missed you!",
-      "_offset": 4446,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Te hemos echado de\nmenos!"
+      "english": "What a foolish Digimon. How\npointless, charging in so quickly\ninto his own death like that.",
+      "speaker_id": 3081,
+      "line_type": 2,
+      "_offset": 13178,
+      "_bytes": 91,
+      "translation": "Qué Digimon tan tonto. Qué\ninútil correr tan rápido\nhacia su propia muerte."
     },
     {
       "index": 99,
-      "english": "I've missed you, too!",
-      "_offset": 4476,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Y yo a vosotros!"
+      "english": "Why, you! We won't forgive you for\nthat!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13270,
+      "_bytes": 40,
+      "translation": "¡Serás...! ¡No te perdonaremos\npor eso!"
     },
     {
       "index": 100,
-      "english": "Piccolomon! We thought the eight\nof us could save this world and\nEarth, so we came here!",
-      "_offset": 4498,
-      "_length": 88,
-      "speaker_id": 0,
-      "translation": "Pensamos que los ocho\npodríamos salvar este mundo\ny la Tierra, así que vinimos!"
+      "english": "Haha... All right, next is...",
+      "speaker_id": 3081,
+      "line_type": 2,
+      "_offset": 13311,
+      "_bytes": 29,
+      "translation": "Jaja... El siguiente es..."
     },
     {
       "index": 101,
-      "english": "But how are we supposed to do\nthat?",
-      "_offset": 4587,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Pero cómo hacemos eso?"
+      "english": "Pit Bomb!",
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 13341,
+      "_bytes": 9,
+      "translation": "¡Bomba Fosa!"
     },
     {
       "index": 102,
-      "english": "It's true that you're all\ntogether, pi! But you can't win\nwith just that, pi!",
-      "_offset": 4623,
-      "_length": 77,
-      "speaker_id": 0,
-      "translation": "Es verdad que estáis todos\njuntos, pi! Pero con eso solo\nno podéis ganar, pi!"
+      "english": "Ugh!!",
+      "speaker_id": 3081,
+      "line_type": 2,
+      "_offset": 13351,
+      "_bytes": 5,
+      "translation": "¡¡Ay!!"
     },
     {
       "index": 103,
-      "english": "What are we missing?",
-      "_offset": 4701,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Qué nos falta?"
+      "english": "Piccolomon! We've missed you!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 13357,
+      "_bytes": 29,
+      "translation": "¡Te hemos echado de menos!"
     },
     {
       "index": 104,
-      "english": "Tell us!",
-      "_offset": 4722,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Dínoslo!"
+      "english": "I've missed you, too!",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 13387,
+      "_bytes": 21,
+      "translation": "¡Y yo a vosotros!"
     },
     {
       "index": 105,
-      "english": "Unfortunately, now's not the time,\npi!",
-      "_offset": 4731,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Por desgracia, no es el\nmomento, pi!"
+      "english": "Piccolomon! We thought the eight\nof us could save this world and\nEarth, so we came here!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13409,
+      "_bytes": 88,
+      "translation": "¡Pensamos que los ocho\npodríamos salvar este mundo\ny la Tierra, así que vinimos!"
     },
     {
       "index": 106,
-      "english": "I'll hold them off here, pi! Head\nto Spiral Mountain while you have\nthe chance, pi!",
-      "_offset": 4770,
-      "_length": 83,
-      "speaker_id": 0,
-      "translation": "Yo los entretendré aquí, pi!\nId a la Montaña Espiral\nmientras podáis, pi!"
+      "english": "But how are we supposed to do\nthat?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13498,
+      "_bytes": 35,
+      "translation": "¿Pero cómo hacemos eso?"
     },
     {
       "index": 107,
-      "english": "Hold them off? But they're all\nUltimates!",
-      "_offset": 4854,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Entretenerlos? Son todos\nCuerpo Supremo!"
+      "english": "It's true that you're all\ntogether, pi! But you can't win\nwith just that, pi!",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 13534,
+      "_bytes": 77,
+      "translation": "¡Es verdad que estáis todos\njuntos, pi! ¡Pero con eso solo\nno podéis ganar, pi!"
     },
     {
       "index": 108,
-      "english": "I know, pi! It's impossible for me\nto win, but there are still things\nI can do, pi!",
-      "_offset": 4896,
-      "_length": 83,
-      "speaker_id": 0,
-      "translation": "Lo sé, pi! Es imposible que\ngane, pero aún puedo hacer\nalgunas cosas, pi!"
+      "english": "What are we missing?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 13612,
+      "_bytes": 20,
+      "translation": "¿Qué nos falta?"
     },
     {
       "index": 109,
-      "english": "I'm sure you'll be able to find\nout what you're missing, pi!",
-      "_offset": 4980,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Seguro que descubrís qué os\nfalta, pi!"
+      "english": "Tell us!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13633,
+      "_bytes": 8,
+      "translation": "¡Dínoslo!"
     },
     {
       "index": 110,
-      "english": "Go, Chosen Children!",
-      "_offset": 5041,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Id, Niños Elegidos!"
+      "english": "Unfortunately, now's not the time,\npi!",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 13642,
+      "_bytes": 38,
+      "translation": "¡Por desgracia, no es el\nmomento, pi!"
     },
     {
       "index": 111,
-      "english": "So you're Piccolomon... right?",
-      "_offset": 5062,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Piccolomon... verdad?"
+      "english": "I'll hold them off here, pi! Head\nto Spiral Mountain while you have\nthe chance, pi!",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 13681,
+      "_bytes": 83,
+      "translation": "¡Yo los entretendré aquí, pi!\n¡Id a la Montaña Espiral\nmientras podáis, pi!"
     },
     {
       "index": 112,
-      "english": "You expect to put up a serious\nfight, even though you're only a\nPerfect-level?",
-      "_offset": 5096,
-      "_length": 78,
-      "speaker_id": 0,
-      "translation": "Esperas plantar cara en serio\naunque solo seas Cuerpo\nPerfecto?"
+      "english": "Hold them off? But they're all\nUltimates!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13765,
+      "_bytes": 41,
+      "translation": "¿Entretenerlos? ¡Son todos\nCuerpo Supremo!"
     },
     {
       "index": 113,
-      "english": "You're in for trouble if you take\nme lightly, pi!",
-      "_offset": 5175,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Os arrepentiréis si me\nsubestimáis, pi!"
+      "english": "I know, pi! It's impossible for me\nto win, but there are still things\nI can do, pi!",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 13807,
+      "_bytes": 83,
+      "translation": "¡Lo sé, pi! ¡Es imposible que\ngane, pero aún puedo hacer\nalgunas cosas, pi!"
     },
     {
       "index": 114,
-      "english": "Piccolomon just died, didn't\nhe...?",
-      "_offset": 5225,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Piccolomon murió, verdad...?"
+      "english": "I'm sure you'll be able to find\nout what you're missing, pi!",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 13891,
+      "_bytes": 60,
+      "translation": "¡Seguro que descubrís qué os\nfalta, pi!"
     },
     {
       "index": 115,
-      "english": "With that huge sacrifice...",
-      "_offset": 5261,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Con ese gran sacrificio..."
+      "english": "Go, Chosen Children!",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 13952,
+      "_bytes": 20,
+      "translation": "¡Id, Niños Elegidos!"
     },
     {
       "index": 116,
-      "english": "the children finally arrived at\nSpiral Mountain.",
-      "_offset": 5289,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "los niños llegaron por fin a\nla Montaña Espiral."
+      "english": "So you're Piccolomon... right?",
+      "speaker_id": 3081,
+      "line_type": 2,
+      "_offset": 13973,
+      "_bytes": 30,
+      "translation": "Piccolomon... ¿verdad?"
     },
     {
       "index": 117,
+      "english": "!!",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 14004,
+      "_bytes": 2,
+      "translation": "!!"
+    },
+    {
+      "index": 118,
+      "english": "You expect to put up a serious\nfight, even though you're only a\nPerfect-level?",
+      "speaker_id": 3081,
+      "line_type": 2,
+      "_offset": 14007,
+      "_bytes": 78,
+      "translation": "¿Esperas plantar cara en serio\naunque solo seas Cuerpo\nPerfecto?"
+    },
+    {
+      "index": 119,
+      "english": "You're in for trouble if you take\nme lightly, pi!",
+      "speaker_id": 4201,
+      "line_type": 2,
+      "_offset": 14086,
+      "_bytes": 49,
+      "translation": "¡Os arrepentiréis si me\nsubestimáis, pi!"
+    },
+    {
+      "index": 120,
+      "english": "Piccolomon just died, didn't\nhe...?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 14136,
+      "_bytes": 35,
+      "translation": "Piccolomon murió, ¿verdad...?"
+    },
+    {
+      "index": 121,
+      "english": "With that huge sacrifice...",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 14172,
+      "_bytes": 27,
+      "translation": "Con ese gran sacrificio..."
+    },
+    {
+      "index": 122,
+      "english": "the children finally arrived at\nSpiral Mountain.",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 14200,
+      "_bytes": 48,
+      "translation": "los niños llegaron por fin a\nla Montaña Espiral."
+    },
+    {
+      "index": 123,
       "english": "But their battle with the Dark\nMasters had only just begun...",
-      "_offset": 5338,
-      "_length": 61,
-      "speaker_id": 0,
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 14249,
+      "_bytes": 61,
       "translation": "Pero su lucha contra los\nAmos Oscuros solo empezaba..."
     }
   ]

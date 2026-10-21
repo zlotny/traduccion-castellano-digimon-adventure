@@ -1,0 +1,59 @@
+{
+  "file_id": "3687",
+  "style": {
+    "center_x": 240,
+    "baseline_y": 252,
+    "cap_height": 12,
+    "line_height": 23,
+    "fill": "#fdfbfc",
+    "outline": "#120d0f",
+    "outline_width": 2,
+    "font": "digimon_toolkit/fonts/Nunito.ttf",
+    "font_variation": "Black",
+    "font_size": 16
+  },
+  "subtitles": [
+    {
+      "index": 0,
+      "start": 3.604,
+      "end": 4.838,
+      "english": "Taichi! Koushirou!",
+      "translation": "¡Tai! ¡Izzy!"
+    },
+    {
+      "index": 1,
+      "start": 5.572,
+      "end": 6.006,
+      "english": "We're almost there!",
+      "translation": "¡Ya casi estamos!"
+    },
+    {
+      "index": 2,
+      "start": 6.006,
+      "end": 7.407,
+      "english": "We're counting on you, Agumon!",
+      "translation": "¡Contamos contigo, Agumon!"
+    },
+    {
+      "index": 3,
+      "start": 7.441,
+      "end": 9.276,
+      "english": "Tentomon, we can catch him by surprise!",
+      "translation": "Tentomon, ¡podemos pillarlo por sorpresa!"
+    },
+    {
+      "index": 4,
+      "start": 9.376,
+      "end": 11.612,
+      "english": "He hasn't noticed us yet!",
+      "translation": "¡Aún no nos ha visto!"
+    },
+    {
+      "index": 5,
+      "start": 12.012,
+      "end": 13.413,
+      "english": "Right-o, let's go!",
+      "translation": "¡Entendido, vamos allá!"
+    }
+  ]
+}

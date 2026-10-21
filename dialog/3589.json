@@ -1,862 +1,971 @@
 {
   "file_id": "3589",
+  "format": "etdf",
+  "kind": "ETDF",
   "text_count": 107,
   "dialog": [
     {
       "index": 0,
       "english": "Tai! What happened? WarGreymon\nstopped moving!",
-      "_offset": 6511,
-      "_length": 49,
-      "speaker_id": 255,
-      "translation": "Tai! Qué ha pasado?\nWarGreymon dejó de moverse!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14680,
+      "_bytes": 49,
+      "translation": "¡Tai! ¿Qué ha pasado?\n¡WarGreymon dejó de moverse!"
     },
     {
       "index": 1,
       "english": "Huh? What?",
-      "_offset": 6561,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Eh? Qué?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14730,
+      "_bytes": 10,
+      "translation": "¿Eh? ¿Qué?"
     },
     {
       "index": 2,
       "english": "Sorry about that...",
-      "_offset": 6572,
-      "_length": 19,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14741,
+      "_bytes": 19,
       "translation": "Perdón por eso..."
     },
     {
       "index": 3,
       "english": "Izzy, the computer's not\nworking.",
-      "_offset": 6592,
-      "_length": 38,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14761,
+      "_bytes": 38,
       "translation": "Izzy, el ordenador no\nfunciona."
     },
     {
       "index": 4,
       "english": "What happened?!",
-      "_offset": 6631,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Qué ha pasado?!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14800,
+      "_bytes": 15,
+      "translation": "¡¿Qué ha pasado?!"
     },
     {
       "index": 5,
       "english": "I didn't do anything? Why'd you\nhave to go to the bathroom at the\nmost important time?",
-      "_offset": 6647,
-      "_length": 86,
-      "speaker_id": 0,
-      "translation": "Yo no hice nada! Por qué\ntuviste que ir al baño\njusto en el momento clave?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14816,
+      "_bytes": 86,
+      "translation": "¡Yo no hice nada! ¿Por qué\ntuviste que ir al baño\njusto en el momento clave?"
     },
     {
       "index": 6,
       "english": "It's not working... What did you\ndo? Why did you make it freeze?",
-      "_offset": 6734,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "No funciona... Qué hiciste?\nPor qué lo dejaste congelado?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14903,
+      "_bytes": 64,
+      "translation": "No funciona... ¿Qué hiciste?\n¿Por qué se ha colgado?"
     },
     {
       "index": 7,
       "english": "It wasn't on purpose!",
-      "_offset": 6799,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "No fue a propósito!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14968,
+      "_bytes": 21,
+      "translation": "¡No fue a propósito!"
     },
     {
       "index": 8,
       "english": "See, this is why you get into\nfights with Sora!",
-      "_offset": 6821,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Por eso es por lo que te\npeleas con Sora!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14990,
+      "_bytes": 47,
+      "translation": "¡Por eso es por lo que te\npeleas con Sora!"
     },
     {
       "index": 9,
       "english": "I... I didn't... I just wanted to\nget her a present...",
-      "_offset": 6869,
-      "_length": 54,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15038,
+      "_bytes": 54,
       "translation": "Yo... yo no... solo quería\nregalarle algo..."
     },
     {
       "index": 10,
       "english": "A present?",
-      "_offset": 6924,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Un regalo?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15093,
+      "_bytes": 10,
+      "translation": "¿Un regalo?"
     },
     {
       "index": 11,
       "english": "Her birthday was coming up, so I\ngot her a hairpin, but...",
-      "_offset": 6935,
-      "_length": 58,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15104,
+      "_bytes": 58,
       "translation": "Se acercaba su cumple y le\ncompré una horquilla, pero..."
     },
     {
       "index": 12,
       "english": "She started saying stuff like \"Oh,\nso you don't think this hat looks\ngood on me?\"...",
-      "_offset": 6994,
-      "_length": 84,
-      "speaker_id": 0,
-      "translation": "Y empezó con que \"Ah, o sea\nque este sombrero no me\nqueda bien?\"..."
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15163,
+      "_bytes": 84,
+      "translation": "Y empezó con que \"Ah, ¿o sea\nque esta gorra no me\nqueda bien?\"..."
     },
     {
       "index": 13,
       "english": "So that was it?",
-      "_offset": 7079,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Era por eso?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15248,
+      "_bytes": 15,
+      "translation": "¿Era por eso?"
     },
     {
       "index": 14,
       "english": "But I apologized, you know!",
-      "_offset": 7095,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Pero si ya me disculpé!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15264,
+      "_bytes": 27,
+      "translation": "¡Pero si ya me disculpé!"
     },
     {
       "index": 15,
       "english": "It's back!",
-      "_offset": 7123,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Ha vuelto!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15292,
+      "_bytes": 10,
+      "translation": "¡Ha vuelto!"
     },
     {
       "index": 16,
       "english": "Aaaaaah... WarGreymon!",
-      "_offset": 7134,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Aaaaaah... WarGreymon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15303,
+      "_bytes": 22,
+      "translation": "Aaaaaah... ¡WarGreymon!"
     },
     {
       "index": 17,
       "english": "Tai! Izzy! You idiots!\nWhat were you up to?",
-      "_offset": 7157,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Tai! Izzy! Serán idiotas!\nQué estabais haciendo?"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15326,
+      "_bytes": 51,
+      "translation": "¡Tai! ¡Izzy! ¡Seréis idiotas!\n¿Qué estabais haciendo?"
     },
     {
       "index": 18,
       "english": "WarGreymon! WarGreymon!\nWarGreymooooooon!",
-      "_offset": 7209,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "WarGreymon! WarGreymon!\nWarGreymooooooon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15378,
+      "_bytes": 41,
+      "translation": "¡WarGreymon! ¡WarGreymon!\n¡WarGreymooooooon!"
     },
     {
       "index": 19,
       "english": "T-Tai...",
-      "_offset": 7251,
-      "_length": 11,
-      "speaker_id": 0,
+      "speaker_id": 2151,
+      "line_type": 2,
+      "_offset": 15420,
+      "_bytes": 11,
       "translation": "T-Tai..."
     },
     {
       "index": 20,
       "english": "If I could be there... If I could\nbe right next to you...",
-      "_offset": 7263,
-      "_length": 57,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15432,
+      "_bytes": 57,
       "translation": "Si pudiera estar allí... Si\npudiera estar a tu lado..."
     },
     {
       "index": 21,
       "english": "\"You lost again?\"",
-      "_offset": 7321,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "\"Otra derrota?\""
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15490,
+      "_bytes": 17,
+      "translation": "\"¿Otra derrota?\""
     },
     {
       "index": 22,
       "english": "What?!",
-      "_offset": 7339,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Qué?!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15508,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
     },
     {
       "index": 23,
       "english": "That was from Canberra...",
-      "_offset": 7346,
-      "_length": 25,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15515,
+      "_bytes": 25,
       "translation": "Ese era de Canberra..."
     },
     {
       "index": 24,
       "english": "\"You were almost there, too. What\nthe heck?\"",
-      "_offset": 7372,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "\"Tú también estabas cerca.\nQué te pasó?\""
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15541,
+      "_bytes": 44,
+      "translation": "\"Tú también estabas cerca.\n¿Qué te pasó?\""
     },
     {
       "index": 25,
       "english": "This one's from Berlin...",
-      "_offset": 7417,
-      "_length": 25,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15586,
+      "_bytes": 25,
       "translation": "Este es de Berlín..."
     },
     {
       "index": 26,
       "english": "Put a lid on it!",
-      "_offset": 7443,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Cállate ya!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15612,
+      "_bytes": 16,
+      "translation": "¡Cállate ya!"
     },
     {
       "index": 27,
       "english": "I'm just reading all the emails!",
-      "_offset": 7460,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Solo estoy leyendo los\nemails!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15629,
+      "_bytes": 32,
+      "translation": "¡Solo estoy leyendo los emails!"
     },
     {
       "index": 28,
       "english": "Why, you, Izzy...!",
-      "_offset": 7493,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Serás, Izzy...!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15662,
+      "_bytes": 23,
+      "translation": "¡Serás, Izzy...!"
     },
     {
       "index": 29,
       "english": "Hey, stop it! Right now's not the\ntime to be fighting!",
-      "_offset": 7517,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Eh, parad ya! Ahora no es\nmomento de pelearos!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15686,
+      "_bytes": 54,
+      "translation": "¡Eh, parad ya! ¡Ahora no es\nmomento de pelearos!"
     },
     {
       "index": 30,
       "english": "Hmph! Stupid emails...",
-      "_offset": 7572,
-      "_length": 22,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15741,
+      "_bytes": 22,
       "translation": "Bah, estos emails..."
     },
     {
       "index": 31,
       "english": "We've received another email from\nDiablomon!",
-      "_offset": 7595,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Nos ha llegado otro email de\nDiaboromon!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15764,
+      "_bytes": 44,
+      "translation": "¡Nos ha llegado otro email de\nDiaboromon!"
     },
     {
       "index": 32,
       "english": "\"WHO'S GOT THE CLOCK?\" ...That's\nall it says.",
-      "_offset": 7640,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "\"QUIÉN TIENE EL RELOJ?\"\nY no dice nada más."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15809,
+      "_bytes": 45,
+      "translation": "\"¿QUIÉN TIENE EL RELOJ?\"\nY no dice nada más."
     },
     {
       "index": 33,
       "english": "The clock?",
-      "_offset": 7686,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "El reloj?"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 15855,
+      "_bytes": 10,
+      "translation": "¿El reloj?"
     },
     {
       "index": 34,
       "english": "It's copying itself!",
-      "_offset": 7697,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Se copia a sí mismo!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15866,
+      "_bytes": 20,
+      "translation": "¡Se copia a sí mismo!"
     },
     {
       "index": 35,
       "english": "What's that number?",
-      "_offset": 7718,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Qué número es ese?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15887,
+      "_bytes": 19,
+      "translation": "¿Qué número es ese?"
     },
     {
       "index": 36,
       "english": "What are we going to do?!",
-      "_offset": 7738,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Qué vamos a hacer?!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15907,
+      "_bytes": 25,
+      "translation": "¡¿Qué vamos a hacer?!"
     },
     {
       "index": 37,
       "english": "Huh?",
-      "_offset": 7764,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Eh?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15933,
+      "_bytes": 4,
+      "translation": "¿Eh?"
     },
     {
       "index": 38,
       "english": "I received an email from a\nTaiwanese middle school student...",
-      "_offset": 7769,
-      "_length": 61,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15938,
+      "_bytes": 61,
       "translation": "Me llegó un email de un\nestudiante de secundaria de\nTaiwán..."
     },
     {
       "index": 39,
       "english": "Thirty minutes ago, an American\nmilitary base fired a missile.",
-      "_offset": 7831,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Hace treinta minutos, base\nmilitar americana lanzó un\nmisil."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16000,
+      "_bytes": 62,
+      "translation": "Hace treinta minutos, una\nbase militar americana lanzó un\nmisil."
     },
     {
       "index": 40,
       "english": "What?!",
-      "_offset": 7894,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Qué?!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16063,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
     },
     {
       "index": 41,
       "english": "They said it's a bug in the launch\ncontrol computer, but...I'm sure\nit's because of this!",
-      "_offset": 7901,
-      "_length": 89,
-      "speaker_id": 0,
-      "translation": "Dicen que fue un fallo del\nordenador de lanzamiento,\npero seguro que es por esto!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16070,
+      "_bytes": 89,
+      "translation": "¡Dicen que fue un fallo del\nordenador de lanzamiento,\npero seguro que es por esto!"
     },
     {
       "index": 42,
       "english": "So then, this number would be...",
-      "_offset": 7991,
-      "_length": 32,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16160,
+      "_bytes": 32,
       "translation": "Entonces este número sería..."
     },
     {
       "index": 43,
       "english": "Probably when the missile will hit\nits destination...",
-      "_offset": 8024,
-      "_length": 53,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16193,
+      "_bytes": 53,
       "translation": "Probablemente cuándo\nimpactará el misil..."
     },
     {
       "index": 44,
       "english": "No way...",
-      "_offset": 8078,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Venga ya"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16247,
+      "_bytes": 9,
+      "translation": "No puede ser..."
     },
     {
       "index": 45,
       "english": "Only one missile was fired. Its\nname is Peace Keeper.",
-      "_offset": 8088,
-      "_length": 53,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16257,
+      "_bytes": 53,
       "translation": "Solo se lanzó un misil. Se\nllama Peace Keeper."
     },
     {
       "index": 46,
       "english": "But nobody knows where it's\nheaded, so it could be going\nanywhere...",
-      "_offset": 8142,
-      "_length": 68,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16311,
+      "_bytes": 68,
       "translation": "Pero nadie sabe hacia dónde\nva, podría caer en\ncualquier sitio..."
     },
     {
       "index": 47,
       "english": "And in nine minutes, it's going to\nexplode somewhere in the world...",
-      "_offset": 8211,
-      "_length": 68,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16380,
+      "_bytes": 68,
       "translation": "Y en nueve minutos va a\nexplotar en algún lugar del\nmundo..."
     },
     {
       "index": 48,
       "english": "How are we going to defeat all of\nthem?",
-      "_offset": 8280,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Cómo vamos a vencerlos a\ntodos?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16449,
+      "_bytes": 39,
+      "translation": "¿Cómo vamos a vencerlos a\ntodos?"
     },
     {
       "index": 49,
       "english": "Nuclear missiles don't explode if\nthe fuse in them fails to\nactivate...",
-      "_offset": 8320,
-      "_length": 71,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16489,
+      "_bytes": 71,
       "translation": "Los misiles nucleares no\nexplotan si el detonador no\nse activa..."
     },
     {
       "index": 50,
       "english": "If it's trying to play a game with\nus, only one of them will have the\nclock.",
-      "_offset": 8392,
-      "_length": 76,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16561,
+      "_bytes": 76,
       "translation": "Si quiere jugar con\nnosotros, solo uno de ellos\ntendrá el reloj."
     },
     {
       "index": 51,
       "english": "And if we defeat that one, then we\ncan stop it...",
-      "_offset": 8469,
-      "_length": 49,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16638,
+      "_bytes": 49,
       "translation": "Y si derrotamos a ese,\npodremos detenerlo..."
     },
     {
       "index": 52,
       "english": "How are we gonna find that one,\nthen?",
-      "_offset": 8519,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Y cómo encontramos a ese?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16688,
+      "_bytes": 37,
+      "translation": "¿Y cómo encontramos a ese?"
     },
     {
       "index": 53,
       "english": "We'll just have to take them out,\none at a time...",
-      "_offset": 8557,
-      "_length": 50,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16726,
+      "_bytes": 50,
       "translation": "Tendremos que ir\neliminándolos uno a uno..."
     },
     {
       "index": 54,
       "english": "That's gonna take way too long!",
-      "_offset": 8608,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Eso va a tardar demasiado!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16777,
+      "_bytes": 31,
+      "translation": "¡Eso va a tardar demasiado!"
     },
     {
       "index": 55,
       "english": "But there's no other way...",
-      "_offset": 8640,
-      "_length": 27,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16809,
+      "_bytes": 27,
       "translation": "Pero no hay otra forma..."
     },
     {
       "index": 56,
       "english": "Tai... Tai... Tai!",
-      "_offset": 8668,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Tai... Tai... Tai!"
+      "speaker_id": 2151,
+      "line_type": 2,
+      "_offset": 16837,
+      "_bytes": 27,
+      "translation": "Tai... Tai... ¡Tai!"
     },
     {
       "index": 57,
       "english": "Ah!",
-      "_offset": 8696,
-      "_length": 3,
-      "speaker_id": 0,
-      "translation": "Ah!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16865,
+      "_bytes": 3,
+      "translation": "¡Ah!"
     },
     {
       "index": 58,
       "english": "Tai! Get yourself together,\nTai! Leave it to me...",
-      "_offset": 8700,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Tai! Reacciona, Tai! Déjamelo\na mí..."
+      "speaker_id": 2151,
+      "line_type": 2,
+      "_offset": 16869,
+      "_bytes": 56,
+      "translation": "¡Tai! ¡Reacciona, Tai! Déjamelo\na mí..."
     },
     {
       "index": 59,
       "english": "WarGreymon...",
-      "_offset": 8757,
-      "_length": 13,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16926,
+      "_bytes": 13,
       "translation": "WarGreymon..."
     },
     {
       "index": 60,
       "english": "Do you know where it is?",
-      "_offset": 8771,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Sabes dónde está?"
+      "speaker_id": 2251,
+      "line_type": 2,
+      "_offset": 16940,
+      "_bytes": 24,
+      "translation": "¿Sabes dónde está?"
     },
     {
       "index": 61,
       "english": "MetalGarurumon...",
-      "_offset": 8796,
-      "_length": 17,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16965,
+      "_bytes": 17,
       "translation": "MetalGarurumon..."
     },
     {
       "index": 62,
       "english": "I'll send you the address now!",
-      "_offset": 8814,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Te mando la dirección ahora!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16983,
+      "_bytes": 30,
+      "translation": "¡Te mando la dirección ahora!"
     },
     {
       "index": 63,
       "english": "Please!",
-      "_offset": 8845,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Porfa!"
+      "speaker_id": 2151,
+      "line_type": 2,
+      "_offset": 17014,
+      "_bytes": 7,
+      "translation": "¡Por favor!"
     },
     {
       "index": 64,
       "english": "Yeah... It's our only choice...\nI'm sorry...",
-      "_offset": 8853,
-      "_length": 44,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17022,
+      "_bytes": 44,
       "translation": "Sí... Es nuestra única\nopción. Lo siento..."
     },
     {
       "index": 65,
       "english": "No, don't...",
-      "_offset": 8898,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "No lo hagas"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17067,
+      "_bytes": 12,
+      "translation": "No lo hagas..."
     },
     {
       "index": 66,
       "english": "We're getting so many emails...",
-      "_offset": 8911,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Nos llegan muchísimos\nemails..."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17080,
+      "_bytes": 31,
+      "translation": "Nos llegan muchísimos emails..."
     },
     {
       "index": 67,
       "english": "\"You can do it, WarGreymon!\"\nThat's from Costa Rica...",
-      "_offset": 8943,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "\"Tú puedes, WarGreymon!\" Ese\nes de Costa Rica..."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17112,
+      "_bytes": 54,
+      "translation": "\"¡Tú puedes, WarGreymon!\" Ese\nes de Costa Rica..."
     },
     {
       "index": 68,
       "english": "From the Philippines, \"You gotta\nwin, MetalGarurumon!\"",
-      "_offset": 8998,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Desde Filipinas, \"Tienes que\nganar, MetalGarurumon!\""
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17167,
+      "_bytes": 54,
+      "translation": "Desde Filipinas, \"¡Tienes que\nganar, MetalGarurumon!\""
     },
     {
       "index": 69,
       "english": "They're coming in like a flood.",
-      "_offset": 9053,
-      "_length": 31,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17222,
+      "_bytes": 31,
       "translation": "Llegan a raudales."
     },
     {
       "index": 70,
       "english": "We can't give up... until the\nend...",
-      "_offset": 9085,
-      "_length": 36,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 17254,
+      "_bytes": 36,
       "translation": "No podemos rendirnos\nhasta el final."
     },
     {
       "index": 71,
       "english": "There's no way we can give up...",
-      "_offset": 9122,
-      "_length": 32,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17291,
+      "_bytes": 32,
       "translation": "No vamos a rendirnos..."
     },
     {
       "index": 72,
       "english": "How many of them are there?!",
-      "_offset": 9155,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Cuántos hay?!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 17324,
+      "_bytes": 28,
+      "translation": "¡¿Cuántos hay?!"
     },
     {
       "index": 73,
       "english": "Eight thousand... no, sixteen\nthousand... It keeps copying\nitself!",
-      "_offset": 9184,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Ocho mil... no, dieciséis\nmil... Sigue copiándose!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17353,
+      "_bytes": 66,
+      "translation": "Ocho mil... no, dieciséis\nmil... ¡Sigue copiándose!"
     },
     {
       "index": 74,
       "english": "Aaaaaah!",
-      "_offset": 9251,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Aaaaaah!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 17420,
+      "_bytes": 8,
+      "translation": "¡Aaaaaah!"
     },
     {
       "index": 75,
       "english": "WarGreymon...",
-      "_offset": 9260,
-      "_length": 13,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17429,
+      "_bytes": 13,
       "translation": "WarGreymon..."
     },
     {
       "index": 76,
       "english": "Something's wrong with the way\nWarGreymon and MetalGarurumon are\nmoving!",
-      "_offset": 9274,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "Algo va mal con los\nmovimientos de WarGreymon y\nMetalGarurumon!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 17443,
+      "_bytes": 72,
+      "translation": "¡Algo va mal con los\nmovimientos de WarGreymon y\nMetalGarurumon!"
     },
     {
       "index": 77,
       "english": "It's because of all the emails\ncoming from all over the world!",
-      "_offset": 9347,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Es por todos los emails que\nllegan de todo el mundo!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17516,
+      "_bytes": 62,
+      "translation": "¡Es por todos los emails que\nllegan de todo el mundo!"
     },
     {
       "index": 78,
       "english": "The sheer amount of emails is\ntaking up processing speed!",
-      "_offset": 9410,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Tantos emails están\nconsumiendo velocidad de\nproceso!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17579,
+      "_bytes": 57,
+      "translation": "¡Tantos emails están\nconsumiendo velocidad de\nproceso!"
     },
     {
       "index": 79,
       "english": "To everyone around the world,\nWarGreymon and MetalGarurumon's\nresponse time is too low!",
-      "_offset": 9468,
-      "_length": 87,
-      "speaker_id": 0,
-      "translation": "A todo el mundo: el tiempo\nde respuesta de WarGreymon y\nMetalGarurumon es muy bajo!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17637,
+      "_bytes": 87,
+      "translation": "A todo el mundo: ¡el tiempo\nde respuesta de WarGreymon y\nMetalGarurumon es muy bajo!"
     },
     {
       "index": 80,
       "english": "Please! Stop sending us emails!",
-      "_offset": 9556,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Por favor! Dejad de\nescribir!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17725,
+      "_bytes": 31,
+      "translation": "¡Por favor! ¡Dejad de escribir!"
     },
     {
       "index": 81,
       "english": "Ah...",
-      "_offset": 9588,
-      "_length": 5,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 17757,
+      "_bytes": 5,
       "translation": "Ah..."
     },
     {
       "index": 82,
       "english": "WarGreymon...",
-      "_offset": 9594,
-      "_length": 13,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17763,
+      "_bytes": 13,
       "translation": "WarGreymon..."
     },
     {
       "index": 83,
       "english": "Do you want more tea, Izzy?",
-      "_offset": 9608,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Quieres más té, Izzy?"
+      "speaker_id": 6101,
+      "line_type": 2,
+      "_offset": 17777,
+      "_bytes": 32,
+      "translation": "¿Quieres más té, Izzy?"
     },
     {
       "index": 84,
       "english": "Ah, sorry. I'll leave you alone...",
-      "_offset": 9641,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Ah, perdón. Te dejo\ntranquilo..."
+      "speaker_id": 6101,
+      "line_type": 2,
+      "_offset": 17810,
+      "_bytes": 34,
+      "translation": "Ah, perdón. Te dejo tranquilo..."
     },
     {
       "index": 85,
       "english": "It's no use. The emails keep\ncoming in. We only have five\nminutes left, what are we to do?",
-      "_offset": 9676,
-      "_length": 90,
-      "speaker_id": 0,
-      "translation": "Es inútil. Siguen llegando\nemails. Solo quedan cinco\nminutos, qué hacemos?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 17845,
+      "_bytes": 90,
+      "translation": "Es inútil. Siguen llegando\nemails. Solo quedan cinco\nminutos, ¿qué hacemos?"
     },
     {
       "index": 86,
       "english": "WarGreymon...",
-      "_offset": 9767,
-      "_length": 13,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 17936,
+      "_bytes": 13,
       "translation": "WarGreymon..."
     },
     {
       "index": 87,
       "english": "MetalGarurumon... It's me,\nMatt... Open your eyes...",
-      "_offset": 9781,
-      "_length": 54,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 17950,
+      "_bytes": 54,
       "translation": "MetalGarurumon... Soy yo,\nMatt... Abre los ojos..."
     },
     {
       "index": 88,
       "english": "I'm here! I'm here, too!",
-      "_offset": 9836,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Estoy aquí! Yo también!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18005,
+      "_bytes": 24,
+      "translation": "¡Estoy aquí! ¡Yo también!"
     },
     {
       "index": 89,
       "english": "I want to fight with you... I\nwon't let you fight alone...I'm\nhere...",
-      "_offset": 9861,
-      "_length": 69,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 18030,
+      "_bytes": 69,
       "translation": "Quiero luchar contigo... No\nte dejaré luchar solo...\nEstoy aquí..."
     },
     {
       "index": 90,
       "english": "MetalGarurumon... let's fight\ntogether!",
-      "_offset": 9931,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "MetalGarurumon... luchemos\njuntos!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 18100,
+      "_bytes": 39,
+      "translation": "MetalGarurumon... ¡luchemos\njuntos!"
     },
     {
       "index": 91,
       "english": "WarGreymon and...",
-      "_offset": 9971,
-      "_length": 17,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 18140,
+      "_bytes": 17,
       "translation": "WarGreymon y..."
     },
     {
       "index": 92,
       "english": "MetalGarurumon...",
-      "_offset": 9989,
-      "_length": 17,
-      "speaker_id": 0,
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 18158,
+      "_bytes": 17,
       "translation": "MetalGarurumon..."
     },
     {
       "index": 93,
       "english": "Combined...",
-      "_offset": 10007,
-      "_length": 11,
-      "speaker_id": 0,
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 18176,
+      "_bytes": 11,
       "translation": "Fusión..."
     },
     {
       "index": 94,
       "english": "There! There's the last one! That\none has the clock!",
-      "_offset": 10019,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Ahí! Ese es el último!\nEse tiene el reloj!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 18188,
+      "_bytes": 52,
+      "translation": "¡Ahí! ¡Ese es el último!\n¡Ese tiene el reloj!"
     },
     {
       "index": 95,
       "english": "Matt! Hurry up and find it! We\ndon't have time! Hurry!",
-      "_offset": 10072,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Matt! Date prisa y\nencuéntralo! No hay tiempo!\nRápido!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 18241,
+      "_bytes": 56,
+      "translation": "¡Matt! ¡Date prisa y\nencuéntralo! ¡No hay tiempo!\n¡Rápido!"
     },
     {
       "index": 96,
       "english": "It's too fast...",
-      "_offset": 10129,
-      "_length": 16,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 18298,
+      "_bytes": 16,
       "translation": "Es muy rápido..."
     },
     {
       "index": 97,
       "english": "And it still outclasses us in\npower and response time...",
-      "_offset": 10146,
-      "_length": 56,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 18315,
+      "_bytes": 56,
       "translation": "Y nos supera en potencia\ny velocidad de respuesta..."
     },
     {
       "index": 98,
       "english": "What should I do...",
-      "_offset": 10203,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Qué hago..."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 18372,
+      "_bytes": 19,
+      "translation": "¿Qué hago...?"
     },
     {
       "index": 99,
       "english": "Thirty seconds!",
-      "_offset": 10223,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "30 segundos!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 18392,
+      "_bytes": 15,
+      "translation": "¡30 segundos!"
     },
     {
       "index": 100,
       "english": "That's it... redirection!",
-      "_offset": 10239,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Ya está... redirigirlos!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 18408,
+      "_bytes": 25,
+      "translation": "¡Ya está... redirigirlos!"
     },
     {
       "index": 101,
       "english": "If I redirect all of these emails\nto its address...",
-      "_offset": 10265,
-      "_length": 51,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 18434,
+      "_bytes": 51,
       "translation": "Si redirijo todos estos\nemails a su dirección..."
     },
     {
       "index": 102,
       "english": "Go!",
-      "_offset": 10317,
-      "_length": 3,
-      "speaker_id": 0,
-      "translation": "Ya!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 18486,
+      "_bytes": 3,
+      "translation": "¡Ya!"
     },
     {
       "index": 103,
       "english": "Ten seconds! Nine... eight...\nseven... six... five... four...\nthree... two... one...",
-      "_offset": 10321,
-      "_length": 84,
-      "speaker_id": 0,
-      "translation": "Diez segundos! 9... 8...\n7... 6... 5... 4... 3...\n2... 1..."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 18490,
+      "_bytes": 84,
+      "translation": "¡Diez segundos! 9... 8...\n7... 6... 5... 4... 3...\n2... 1..."
     },
     {
       "index": 104,
       "english": "Ah! A response?",
-      "_offset": 10406,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Ah! Respuesta?"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18575,
+      "_bytes": 15,
+      "translation": "¡Ah! ¿Respuesta?"
     },
     {
       "index": 105,
       "english": "\"Dear Sora, it was my fault, so\ndon't be angry anymore...\"",
-      "_offset": 10422,
-      "_length": 58,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18591,
+      "_bytes": 58,
       "translation": "\"Querida Sora, fue culpa\nmía, no sigas enfadada...\""
     },
     {
       "index": 106,
       "english": "\"Tai Yagami\"...? Oh, what an\nidiot!",
-      "_offset": 10481,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "\"Tai Yagami\"...? Será\nidiota!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 18650,
+      "_bytes": 38,
+      "translation": "¿\"Tai Yagami\"...? ¡Será\nidiota!"
     }
   ]
 }

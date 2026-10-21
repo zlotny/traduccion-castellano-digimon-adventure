@@ -1,318 +1,575 @@
 {
   "file_id": "3564",
-  "text_count": 39,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 63,
   "dialog": [
     {
       "index": 0,
-      "english": "It's a big one! Let's haul it in!",
-      "_offset": 24,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Es grande! Vamos a sacarlo!"
+      "english": "Shin!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 3720,
+      "_bytes": 5,
+      "translation": "¡Shin!"
     },
     {
       "index": 1,
-      "english": "W-what?! We caught a Digimon?!",
-      "_offset": 58,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Q-qué?! Pescamos un Digimon?!"
+      "english": "Oh look, it's Joe! No cram school\ntoday?",
+      "speaker_id": 6271,
+      "line_type": 2,
+      "_offset": 3726,
+      "_bytes": 40,
+      "translation": "¡Anda, es Joe! ¿Hoy no tienes\nacademia?"
     },
     {
       "index": 2,
-      "english": "You've gotta be kidding me!",
-      "_offset": 89,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "No me lo puedo creer!"
+      "english": "Yeah, it's my day off.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 3767,
+      "_bytes": 22,
+      "translation": "No, hoy libro."
     },
     {
       "index": 3,
-      "english": "Ah, that was a shock. It really\nwas a big one, Joe.",
-      "_offset": 117,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Vaya susto. Sí que era\ngrande, Joe."
+      "english": "Huh, okay. If you're ever worried\nabout your future, feel free to\ntalk about it with me.",
+      "speaker_id": 6271,
+      "line_type": 2,
+      "_offset": 3790,
+      "_bytes": 88,
+      "translation": "Ah, vale. Si alguna vez te\npreocupa tu futuro, puedes\nhablarlo conmigo."
     },
     {
       "index": 4,
-      "english": "Joe! What's wrong?",
-      "_offset": 169,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Joe! Qué pasa?"
+      "english": "After all, I'm your big brother.\nAnyway, I've got college classes\nto go to, so see ya.",
+      "speaker_id": 6271,
+      "line_type": 2,
+      "_offset": 3879,
+      "_bytes": 86,
+      "translation": "Para algo soy tu hermano\nmayor. Bueno, tengo clase en\nla uni, nos vemos."
     },
     {
       "index": 5,
-      "english": "Broken?!",
-      "_offset": 188,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Rota?!"
+      "english": "Okay! Take care!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 3966,
+      "_bytes": 16,
+      "translation": "¡Vale! ¡Cuídate!"
     },
     {
       "index": 6,
-      "english": "?? Did you break your leg?",
-      "_offset": 197,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "?? Te has roto la pierna?"
+      "english": "Huh, so that's your brother, Joe?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 3983,
+      "_bytes": 33,
+      "translation": "¿Así que ese es tu hermano?"
     },
     {
       "index": 7,
-      "english": "?? Did you break your leg?",
-      "_offset": 224,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "?? Te has roto la pierna?"
+      "english": "Yeah, he's a medical student.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4017,
+      "_bytes": 29,
+      "translation": "Sí, estudia Medicina."
     },
     {
       "index": 8,
-      "english": "No! I broke my brother's fishing\nrod!",
-      "_offset": 251,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "No! Rompí la caña\nde mi hermano!"
+      "english": "Anyway, I'm glad we didn't get\ncaught borrowing his fishing rod\nwithout permission.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4047,
+      "_bytes": 83,
+      "translation": "Menos mal que no nos ha\npillado cogiendo su caña sin\npermiso."
     },
     {
       "index": 9,
-      "english": "Eeeeeeeeeeeh?!",
-      "_offset": 289,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Eeeeeeeeeh?!"
+      "english": "Didn't I tell you? If you do it\nwith confidence, it's surprisingly\neasy to get away with it.",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 4131,
+      "_bytes": 92,
+      "translation": "Te lo dije. Si lo haces con\nseguridad, es facilísimo que\nno te pillen."
     },
     {
       "index": 10,
-      "english": "What am I gonna do? We took his\nfishing rod without permission,\nand on top of that we broke it...",
-      "_offset": 304,
-      "_length": 97,
-      "speaker_id": 0,
-      "translation": "Qué voy a hacer? Cogimos su\ncaña sin permiso, y encima\nla rompimos..."
+      "english": "Maybe so, but it doesn't feel\nright to lie to him.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4224,
+      "_bytes": 50,
+      "translation": "Ya, pero no me gusta\nmentirle."
     },
     {
       "index": 11,
-      "english": "What do I tell him? Hey, Gomamon,\nwhat should we do...",
-      "_offset": 402,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Qué le digo? Oye, Gomamon,\nqué hacemos..."
+      "english": "Don't worry about it! Let's hurry\nup and go fishing!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 4275,
+      "_bytes": 52,
+      "translation": "¡No te agobies! ¡Corre, vamos\na pescar!"
     },
     {
       "index": 12,
-      "english": "No choice but to just be honest\nand apologize.",
-      "_offset": 457,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "No queda otra que ser sincero\ny pedir perdón."
+      "english": "Are we gonna be okay? I'm just a\nstudent, you know.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4328,
+      "_bytes": 51,
+      "translation": "¿Seguro que sale bien? Que\nsolo soy un estudiante..."
     },
     {
       "index": 13,
-      "english": "N-no way...",
-      "_offset": 504,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Ay, no..."
+      "english": "Heeeeeeeeeeeey! Joe! Hurry up,\nhurry up!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 4380,
+      "_bytes": 40,
+      "translation": "¡Eeeeeeeeeeeh! ¡Joe! ¡Corre,\ncorre!"
     },
     {
       "index": 14,
-      "english": "I'm sorry, Shin!",
-      "_offset": 516,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Lo siento, Shin!"
+      "english": "Don't rush me. If you make this\nmuch noise, the fish are gonna\nswim away.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4421,
+      "_bytes": 73,
+      "translation": "No me metas prisa. Con tanto\nruido los peces se van a\nescapar."
     },
     {
       "index": 15,
-      "english": "Sneaking in, taking your fishing\nrod, and on top of that breaking\nit...",
-      "_offset": 537,
-      "_length": 71,
-      "speaker_id": 0,
-      "translation": "Entré a escondidas, cogí tu\ncaña, y encima la rompí..."
+      "english": "Joe, stop being lazy! We gotta\ncatch these fish while they're\nstill flapping around!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 4495,
+      "_bytes": 84,
+      "translation": "Joe, ¡no seas vago! ¡Hay que\npescarlos mientras aún\ncoleteen!"
     },
     {
       "index": 16,
-      "english": "I don't know if you'll forgive me.\nI can pay you back with my pocket\nmoney, little by little...",
-      "_offset": 609,
-      "_length": 95,
-      "speaker_id": 0,
-      "translation": "No sé si podrás perdonarme.\nTe la pagaré con mi paga,\npoco a poco..."
+      "english": "Wait a minute. How exactly are you\nsupposed to use the fishing rod?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4580,
+      "_bytes": 67,
+      "translation": "Espera. ¿Cómo se usa\nexactamente una caña?"
     },
     {
       "index": 17,
-      "english": "It's fine, Joe.",
-      "_offset": 705,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Tranquilo, Joe."
+      "english": "Come on, Joe, haven't you ever\nfished before?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 4648,
+      "_bytes": 45,
+      "translation": "Venga ya, Joe, ¿nunca has\npescado?"
     },
     {
       "index": 18,
-      "english": "Huh?",
-      "_offset": 721,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Eh?"
+      "english": "I can't help it! I've always been\ntoo busy studying.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4694,
+      "_bytes": 52,
+      "translation": "¡Qué quieres! Siempre he\nestado liado estudiando."
     },
     {
       "index": 19,
-      "english": "I'm glad you're taking an interest\nin things other than studying.",
-      "_offset": 726,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Me alegra que te intereses\npor algo más que estudiar."
+      "english": "Anyway, since you can swim, why\ndon't you just catch the fish with\nyour paws?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4747,
+      "_bytes": 77,
+      "translation": "Oye, tú que sabes nadar, ¿por\nqué no los pescas con las\npatas?"
     },
     {
       "index": 20,
-      "english": "Shin...?",
-      "_offset": 792,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Shin...?"
+      "english": "Don't say that! While we're in\nthis world, let me take it easy!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 4825,
+      "_bytes": 63,
+      "translation": "¡Ni hablar! ¡Mientras esté en\neste mundo, quiero relajarme!"
     },
     {
       "index": 21,
-      "english": "You've been working really hard to\nbecome a doctor, just like Dad\nsaid.",
-      "_offset": 801,
-      "_length": 71,
-      "speaker_id": 0,
-      "translation": "Te has esforzado mucho por\nser médico, tal y como\ndijo papá."
+      "english": "*I'm* the one who wants to take it\neasy...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4889,
+      "_bytes": 42,
+      "translation": "Soy YO el que quiere\nrelajarse..."
     },
     {
       "index": 22,
-      "english": "But as your older brother, I want\nyou to be able to have fun like a\nnormal kid.",
-      "_offset": 873,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "Pero como tu hermano mayor,\nquiero que te diviertas como\nun niño normal."
+      "english": "Joe, it's biting!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 4932,
+      "_bytes": 17,
+      "translation": "Joe, ¡que pican!"
     },
     {
       "index": 23,
-      "english": "I didn't know you were thinking\nsomething like that...",
-      "_offset": 953,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "No sabía que pensabas\nalgo así..."
+      "english": "It's a big one! Let's haul it in!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4950,
+      "_bytes": 33,
+      "translation": "¡Es grande! ¡Vamos a sacarlo!"
     },
     {
       "index": 24,
-      "english": "Anyway, I have to go. Go put the\nbroken fishing rod in the storage\nroom.",
-      "_offset": 1008,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "Bueno, me tengo que ir. Deja\nla caña rota en el trastero."
+      "english": "W-what?! We caught a Digimon?!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 4984,
+      "_bytes": 30,
+      "translation": "¡¿Q-qué?! ¡¿Pescamos un Digimon?!"
     },
     {
       "index": 25,
-      "english": "Y-yeah. I'm really sorry.",
-      "_offset": 1081,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "S-sí. Lo siento mucho."
+      "english": "You've gotta be kidding me!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 5015,
+      "_bytes": 27,
+      "translation": "¡No me lo puedo creer!"
     },
     {
       "index": 26,
-      "english": "Hey, Joe!",
-      "_offset": 1107,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Oye, Joe!"
+      "english": "Ah, that was a shock. It really\nwas a big one, Joe.",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 5043,
+      "_bytes": 51,
+      "translation": "Vaya susto. Sí que era\ngrande, Joe."
     },
     {
       "index": 27,
-      "english": "W-what?",
-      "_offset": 1117,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Q-qué?"
+      "english": "Joe! What's wrong?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 5095,
+      "_bytes": 18,
+      "translation": "¡Joe! ¿Qué pasa?"
     },
     {
       "index": 28,
-      "english": "I feel like you've changed a bit.\nLike you've become a bit more\nresilient.",
-      "_offset": 1125,
-      "_length": 74,
-      "speaker_id": 0,
-      "translation": "Creo que has cambiado un poco.\nTe has vuelto más fuerte."
+      "english": "Broken?!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5114,
+      "_bytes": 8,
+      "translation": "¡¿Rota?!"
     },
     {
       "index": 29,
-      "english": "Is that so.",
-      "_offset": 1200,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Eso parece."
+      "english": "?? Did you break your leg?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 5123,
+      "_bytes": 26,
+      "translation": "?? ¿Te has roto la pierna?"
     },
     {
       "index": 30,
-      "english": "Yeah! Before, you would have kept\nquiet about that broken fishing\nrod!",
-      "_offset": 1212,
-      "_length": 70,
-      "speaker_id": 0,
-      "translation": "Sí! Antes te habrías callado\nlo de la caña rota!"
+      "english": "?? Did you break your leg?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 5150,
+      "_bytes": 26,
+      "translation": "?? ¿Te has roto la pierna?"
     },
     {
       "index": 31,
-      "english": "Really?!",
-      "_offset": 1283,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Serio?!"
+      "english": "No! I broke my brother's fishing\nrod!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5177,
+      "_bytes": 37,
+      "translation": "¡No! ¡Rompí la caña\nde mi hermano!"
     },
     {
       "index": 32,
-      "english": "Ahaha, see you.",
-      "_offset": 1292,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Jaja, adiós."
+      "english": "Eeeeeeeeeeeh?!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 5215,
+      "_bytes": 14,
+      "translation": "¡¿Eeeeeeeeeh?!"
     },
     {
       "index": 33,
-      "english": "Yeah.",
-      "_offset": 1308,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí."
+      "english": "What am I gonna do? We took his\nfishing rod without permission,\nand on top of that we broke it...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5230,
+      "_bytes": 97,
+      "translation": "¿Qué voy a hacer? Cogimos su\ncaña sin permiso, y encima\nla rompimos..."
     },
     {
       "index": 34,
-      "english": "See? Just like I said, right?",
-      "_offset": 1314,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Ves? Como te dije, no?"
+      "english": "What do I tell him? Hey, Gomamon,\nwhat should we do...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5328,
+      "_bytes": 54,
+      "translation": "¿Qué le digo? Oye, Gomamon,\n¿qué hacemos...?"
     },
     {
       "index": 35,
-      "english": "Yeah! And I'm glad I got to know\nhow my brother feels.",
-      "_offset": 1344,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Sí! Y me alegro de saber\ncómo se siente mi hermano."
+      "english": "No choice but to just be honest\nand apologize.",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 5383,
+      "_bytes": 46,
+      "translation": "No queda otra que ser sincero\ny pedir perdón."
     },
     {
       "index": 36,
-      "english": "Okay, now I want a hamburger as my\nreward.",
-      "_offset": 1399,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Vale, quiero una\nhamburguesa de premio."
+      "english": "N-no way...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5430,
+      "_bytes": 11,
+      "translation": "Ay, no..."
     },
     {
       "index": 37,
-      "english": "Huh?! Do I have enough pocket\nmoney for that?",
-      "_offset": 1442,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Eh?! Me llegará la paga\npara eso?"
+      "english": "I'm sorry, Shin!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5442,
+      "_bytes": 16,
+      "translation": "¡Lo siento, Shin!"
     },
     {
       "index": 38,
+      "english": "...",
+      "speaker_id": 6271,
+      "line_type": 2,
+      "_offset": 5459,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 39,
+      "english": "Sneaking in, taking your fishing\nrod, and on top of that breaking\nit...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5463,
+      "_bytes": 71,
+      "translation": "Entré a escondidas, cogí tu\ncaña, y encima la rompí..."
+    },
+    {
+      "index": 40,
+      "english": "I don't know if you'll forgive me.\nI can pay you back with my pocket\nmoney, little by little...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5535,
+      "_bytes": 95,
+      "translation": "No sé si podrás perdonarme.\nTe la pagaré con mi paga,\npoco a poco..."
+    },
+    {
+      "index": 41,
+      "english": "It's fine, Joe.",
+      "speaker_id": 6271,
+      "line_type": 2,
+      "_offset": 5631,
+      "_bytes": 15,
+      "translation": "Tranquilo, Joe."
+    },
+    {
+      "index": 42,
+      "english": "Huh?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5647,
+      "_bytes": 4,
+      "translation": "¿Eh?"
+    },
+    {
+      "index": 43,
+      "english": "I'm glad you're taking an interest\nin things other than studying.",
+      "speaker_id": 6271,
+      "line_type": 2,
+      "_offset": 5652,
+      "_bytes": 65,
+      "translation": "Me alegra que te intereses\npor algo más que estudiar."
+    },
+    {
+      "index": 44,
+      "english": "Shin...?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5718,
+      "_bytes": 8,
+      "translation": "¿Shin...?"
+    },
+    {
+      "index": 45,
+      "english": "You've been working really hard to\nbecome a doctor, just like Dad\nsaid.",
+      "speaker_id": 6271,
+      "line_type": 2,
+      "_offset": 5727,
+      "_bytes": 71,
+      "translation": "Te has esforzado mucho por\nser médico, tal y como\ndijo papá."
+    },
+    {
+      "index": 46,
+      "english": "But as your older brother, I want\nyou to be able to have fun like a\nnormal kid.",
+      "speaker_id": 6271,
+      "line_type": 2,
+      "_offset": 5799,
+      "_bytes": 79,
+      "translation": "Pero como tu hermano mayor,\nquiero que te diviertas como\nun niño normal."
+    },
+    {
+      "index": 47,
+      "english": "I didn't know you were thinking\nsomething like that...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5879,
+      "_bytes": 54,
+      "translation": "No sabía que pensabas\nalgo así..."
+    },
+    {
+      "index": 48,
+      "english": "Anyway, I have to go. Go put the\nbroken fishing rod in the storage\nroom.",
+      "speaker_id": 6271,
+      "line_type": 2,
+      "_offset": 5934,
+      "_bytes": 72,
+      "translation": "Bueno, me tengo que ir. Deja\nla caña rota en el trastero."
+    },
+    {
+      "index": 49,
+      "english": "Y-yeah. I'm really sorry.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6007,
+      "_bytes": 25,
+      "translation": "S-sí. Lo siento mucho."
+    },
+    {
+      "index": 50,
+      "english": "Hey, Joe!",
+      "speaker_id": 6271,
+      "line_type": 2,
+      "_offset": 6033,
+      "_bytes": 9,
+      "translation": "¡Oye, Joe!"
+    },
+    {
+      "index": 51,
+      "english": "W-what?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6043,
+      "_bytes": 7,
+      "translation": "¿Q-qué?"
+    },
+    {
+      "index": 52,
+      "english": "I feel like you've changed a bit.\nLike you've become a bit more\nresilient.",
+      "speaker_id": 6271,
+      "line_type": 2,
+      "_offset": 6051,
+      "_bytes": 74,
+      "translation": "Creo que has cambiado un poco.\nTe has vuelto más fuerte."
+    },
+    {
+      "index": 53,
+      "english": "Is that so.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6126,
+      "_bytes": 11,
+      "translation": "¿Tú crees?"
+    },
+    {
+      "index": 54,
+      "english": "Yeah! Before, you would have kept\nquiet about that broken fishing\nrod!",
+      "speaker_id": 6271,
+      "line_type": 2,
+      "_offset": 6138,
+      "_bytes": 70,
+      "translation": "¡Sí! ¡Antes te habrías callado\nlo de la caña rota!"
+    },
+    {
+      "index": 55,
+      "english": "Really?!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6209,
+      "_bytes": 8,
+      "translation": "¡¿En serio?!"
+    },
+    {
+      "index": 56,
+      "english": "Ahaha, see you.",
+      "speaker_id": 6271,
+      "line_type": 2,
+      "_offset": 6218,
+      "_bytes": 15,
+      "translation": "Jaja, adiós."
+    },
+    {
+      "index": 57,
+      "english": "Yeah.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6234,
+      "_bytes": 5,
+      "translation": "Sí."
+    },
+    {
+      "index": 58,
+      "english": "See? Just like I said, right?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 6240,
+      "_bytes": 29,
+      "translation": "¿Ves? Como te dije, ¿no?"
+    },
+    {
+      "index": 59,
+      "english": "Yeah! And I'm glad I got to know\nhow my brother feels.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6270,
+      "_bytes": 54,
+      "translation": "¡Sí! Y me alegro de saber\ncómo se siente mi hermano."
+    },
+    {
+      "index": 60,
+      "english": "Okay, now I want a hamburger as my\nreward.",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 6325,
+      "_bytes": 42,
+      "translation": "Vale, quiero una\nhamburguesa de premio."
+    },
+    {
+      "index": 61,
+      "english": "Huh?! Do I have enough pocket\nmoney for that?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6368,
+      "_bytes": 45,
+      "translation": "¡¿Eh?! ¿Me llegará la paga\npara eso?"
+    },
+    {
+      "index": 62,
       "english": "Hahaha!",
-      "_offset": 1488,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Jajaja!"
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 6414,
+      "_bytes": 7,
+      "translation": "¡Jajaja!"
     }
   ]
 }

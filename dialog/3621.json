@@ -1,757 +1,925 @@
 {
   "file_id": "3621",
-  "text_count": 94,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 102,
   "dialog": [
     {
       "index": 0,
-      "english": "Someone else is there, too!",
-      "_offset": 1640,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Hay alguien más ahí!"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 9048,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 1,
-      "english": "Yo, man, that's the biggest one\nI've seen so far! Go get him,\nArresterdramon!",
-      "_offset": 1668,
-      "_length": 77,
-      "speaker_id": 0,
-      "translation": "Tío, es el más grande que\nhe visto! A por él,\nArresterdramon!"
+      "english": "That's Gankuumon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9051,
+      "_bytes": 17,
+      "translation": "¡Es Gankoomon!"
     },
     {
       "index": 2,
-      "english": "Grooooooooh!",
-      "_offset": 1746,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Groooooooh!"
+      "english": "Someone else is there, too!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9069,
+      "_bytes": 27,
+      "translation": "¡Hay alguien más ahí!"
     },
     {
       "index": 3,
-      "english": "...Too inexperienced!",
-      "_offset": 1759,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "...Aún eres novato!"
+      "english": "Yo, man, that's the biggest one\nI've seen so far! Go get him,\nArresterdramon!",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 9097,
+      "_bytes": 77,
+      "translation": "Tío, ¡es el más grande que\nhe visto! ¡A por él,\nArresterdramon!"
     },
     {
       "index": 4,
-      "english": "Aaaaaaagh!",
-      "_offset": 1781,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Aaaaaagh!"
+      "english": "Grooooooooh!",
+      "speaker_id": 7171,
+      "line_type": 2,
+      "_offset": 9175,
+      "_bytes": 12,
+      "translation": "¡Groooooooh!"
     },
     {
       "index": 5,
-      "english": "Arresterdramon!",
-      "_offset": 1792,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Arresterdramon!"
+      "english": "...Too inexperienced!",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 9188,
+      "_bytes": 21,
+      "translation": "...¡Aún eres novato!"
     },
     {
       "index": 6,
-      "english": "There you are, Gankuumon!",
-      "_offset": 1808,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Ahí estás, Gankuumon!"
+      "english": "Aaaaaaagh!",
+      "speaker_id": 7171,
+      "line_type": 2,
+      "_offset": 9210,
+      "_bytes": 10,
+      "translation": "¡Aaaaaagh!"
     },
     {
       "index": 7,
-      "english": "Not again!",
-      "_offset": 1838,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Otra vez!"
+      "english": "Arresterdramon!",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 9221,
+      "_bytes": 15,
+      "translation": "¡Arresterdramon!"
     },
     {
       "index": 8,
-      "english": "He's gone...",
-      "_offset": 1849,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Se ha ido..."
+      "english": "There you are, Gankuumon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9237,
+      "_bytes": 25,
+      "translation": "¡Ahí estás, Gankoomon!"
     },
     {
       "index": 9,
-      "english": "Man, he got away...",
-      "_offset": 1862,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Vaya, se escapó..."
+      "english": "...",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 9263,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 10,
-      "english": "Sorry, Tagiru!",
-      "_offset": 1882,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Perdón, Tagiru"
+      "english": "Not again!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9267,
+      "_bytes": 10,
+      "translation": "¡Ay, no!"
     },
     {
       "index": 11,
-      "english": "No sweat, no sweat. We'll just\nhave to look for him again.",
-      "_offset": 1897,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Tranquilo, tranquilo. Solo\ntenemos que buscarlo otra vez."
+      "english": "He's gone...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9278,
+      "_bytes": 12,
+      "translation": "Se ha ido..."
     },
     {
       "index": 12,
-      "english": "By the way, would you happen to be\nTaiki's friend?",
-      "_offset": 1956,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Por cierto, serás amigo\nde Taiki?"
+      "english": "Man, he got away...",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 9291,
+      "_bytes": 19,
+      "translation": "Vaya, se escapó..."
     },
     {
       "index": 13,
-      "english": "Taiki? Aaaaah! Aaaaaaaaaaaaaaaah!",
-      "_offset": 2007,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Taiki? Aaaah! Aaaaaaaaaah!"
+      "english": "Sorry, Tagiru!",
+      "speaker_id": 7171,
+      "line_type": 2,
+      "_offset": 9311,
+      "_bytes": 14,
+      "translation": "¡Perdón, Tagiru!"
     },
     {
       "index": 14,
-      "english": "Ack!",
-      "_offset": 2041,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Ay!"
+      "english": "No sweat, no sweat. We'll just\nhave to look for him again.",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 9326,
+      "_bytes": 58,
+      "translation": "Tranquilo, tranquilo. Solo\ntenemos que buscarlo otra vez."
     },
     {
       "index": 15,
-      "english": "Whoopsie-daisy! I *totally* forgot\nabout Taiki!",
-      "_offset": 2046,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Uy, uy! Me olvidé\ntotalmente de Taiki!"
+      "english": "By the way, would you happen to be\nTaiki's friend?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9385,
+      "_bytes": 50,
+      "translation": "Por cierto, ¿serás amigo\nde Taiki?"
     },
     {
       "index": 16,
-      "english": "We gotta go back, Arresterdramon!",
-      "_offset": 2094,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Hay que volver, Arresterdramon!"
+      "english": "Taiki? Aaaaah! Aaaaaaaaaaaaaaaah!",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 9436,
+      "_bytes": 33,
+      "translation": "¿Taiki? ¡Aaaah! ¡Aaaaaaaaaah!"
     },
     {
       "index": 17,
-      "english": "But, Tagiru... what about these\nguys...",
-      "_offset": 2128,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Pero, Tagiru... y estos\nde aquí..."
+      "english": "Ack!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9470,
+      "_bytes": 4,
+      "translation": "¡Ay!"
     },
     {
       "index": 18,
-      "english": "Oops, forgot about them! Hey, why\ndon't you come with us?",
-      "_offset": 2168,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Uy, me olvidé de vosotros!\nVenid con nosotros!"
+      "english": "Whoopsie-daisy! I *totally* forgot\nabout Taiki!",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 9475,
+      "_bytes": 47,
+      "translation": "¡Uy, uy! ¡Me olvidé\ntotalmente de Taiki!"
     },
     {
       "index": 19,
-      "english": "O-Okay!",
-      "_offset": 2226,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "V-Vale!"
+      "english": "We gotta go back, Arresterdramon!",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 9523,
+      "_bytes": 33,
+      "translation": "¡Hay que volver, Arresterdramon!"
     },
     {
       "index": 20,
-      "english": "I'm Tagiru Akashi, and this is\nArresterdramon.",
-      "_offset": 2234,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Soy Tagiru Akashi, y este\nes Arresterdramon."
+      "english": "But, Tagiru... what about these\nguys...",
+      "speaker_id": 7171,
+      "line_type": 2,
+      "_offset": 9557,
+      "_bytes": 39,
+      "translation": "Pero, Tagiru... y estos\nde aquí..."
     },
     {
       "index": 21,
-      "english": "Nice to meet you, Tai and\nAgumon!",
-      "_offset": 2281,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Encantado, Tai y Agumon!"
+      "english": "Oops, forgot about them! Hey, why\ndon't you come with us?",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 9597,
+      "_bytes": 57,
+      "translation": "¡Uy, me olvidé de vosotros!\n¡Venid con nosotros!"
     },
     {
       "index": 22,
-      "english": "Nice to meet you!",
-      "_offset": 2318,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Encantado!"
+      "english": "O-Okay!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9655,
+      "_bytes": 7,
+      "translation": "¡V-Vale!"
     },
     {
       "index": 23,
-      "english": "Nice to meet you!",
-      "_offset": 2336,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Encantado!"
+      "english": "I'm Tagiru Akashi, and this is\nArresterdramon.",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 9663,
+      "_bytes": 46,
+      "translation": "Soy Tagiru Akashi, y este\nes Arresterdramon."
     },
     {
       "index": 24,
-      "english": "I'm Taiki's junior, and a Digimon\nHunter!",
-      "_offset": 2354,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Soy junior de Taiki, y\nCazador de Digimon!"
+      "english": "Nice to meet you, Tai and\nAgumon!",
+      "speaker_id": 7171,
+      "line_type": 2,
+      "_offset": 9710,
+      "_bytes": 36,
+      "translation": "¡Encantado, Tai y Agumon!"
     },
     {
       "index": 25,
-      "english": "What?!",
-      "_offset": 2396,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Qué?!"
+      "english": "Nice to meet you!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9747,
+      "_bytes": 17,
+      "translation": "¡Encantado!"
     },
     {
       "index": 26,
-      "english": "A Digimon... Hunter?!",
-      "_offset": 2403,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Cazador de Digimon?!"
+      "english": "Nice to meet you!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9765,
+      "_bytes": 17,
+      "translation": "¡Encantado!"
     },
     {
       "index": 27,
-      "english": "Oh! No worries, no worries! We\ndon't take other people's Digimon!",
-      "_offset": 2425,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Tranquilo, tranquilo! No nos\nquedamos con Digimon ajenos!"
+      "english": "I'm Taiki's junior, and a Digimon\nHunter!",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 9783,
+      "_bytes": 41,
+      "translation": "¡Soy el sucesor de Taiki\ny Cazador de Digimon!"
     },
     {
       "index": 28,
-      "english": "...R-Right! Thank goodness!",
-      "_offset": 2491,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "...C-Claro! Menos mal!"
+      "english": "What?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9825,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
     },
     {
       "index": 29,
-      "english": "There's a fake, right there!",
-      "_offset": 2523,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Ahí hay un falso!"
+      "english": "A Digimon... Hunter?!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9832,
+      "_bytes": 21,
+      "translation": "¡¿Cazador de Digimon?!"
     },
     {
       "index": 30,
-      "english": "Right on... just like they said.\nLooks just like Arresterdramon!",
-      "_offset": 2552,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "Justo... como dijeron.\nEs igual a Arresterdramon!"
+      "english": "Oh! No worries, no worries! We\ndon't take other people's Digimon!",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 9854,
+      "_bytes": 65,
+      "translation": "¡Tranquilo, tranquilo! ¡No nos\nquedamos con Digimon ajenos!"
     },
     {
       "index": 31,
-      "english": "Let's go, guys!",
-      "_offset": 2617,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Vamos, chicos!"
+      "english": "...R-Right! Thank goodness!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9920,
+      "_bytes": 27,
+      "translation": "...¡C-Claro! ¡Menos mal!"
     },
     {
       "index": 32,
-      "english": "We did it, Tagiru!",
-      "_offset": 2633,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Ganamos, Tagiru!"
+      "english": "...",
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 9948,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 33,
-      "english": "Great job as always,\nArresterdramon!",
-      "_offset": 2652,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Buen trabajo,\nArresterdramon!"
+      "english": "There's a fake, right there!",
+      "speaker_id": 7171,
+      "line_type": 2,
+      "_offset": 9952,
+      "_bytes": 28,
+      "translation": "¡Ahí hay un falso!"
     },
     {
       "index": 34,
-      "english": "You did great, Agumon!",
-      "_offset": 2689,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Bien hecho, Agumon!"
+      "english": "Right on... just like they said.\nLooks just like Arresterdramon!",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 9981,
+      "_bytes": 64,
+      "translation": "Justo... como dijeron.\n¡Es igual a Arresterdramon!"
     },
     {
       "index": 35,
-      "english": "Well, it wasn't easy...",
-      "_offset": 2712,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Bueno, no fue fácil..."
+      "english": "Let's go, guys!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10046,
+      "_bytes": 15,
+      "translation": "¡Vamos, chicos!"
     },
     {
       "index": 36,
-      "english": "So Tai can go home, right?",
-      "_offset": 2736,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Así Tai puede volver, no?"
+      "english": "We did it, Tagiru!",
+      "speaker_id": 7171,
+      "line_type": 2,
+      "_offset": 10062,
+      "_bytes": 18,
+      "translation": "¡Ganamos, Tagiru!"
     },
     {
       "index": 37,
-      "english": "You've finally arrived, chosen\nones...",
-      "_offset": 2772,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Por fin llegasteis,\nelegidos..."
+      "english": "Great job as always,\nArresterdramon!",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 10081,
+      "_bytes": 36,
+      "translation": "¡Buen trabajo,\nArresterdramon!"
     },
     {
       "index": 38,
-      "english": "Gankuumon!",
-      "_offset": 2811,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Gankuumon!"
+      "english": "You did great, Agumon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10118,
+      "_bytes": 22,
+      "translation": "¡Bien hecho, Agumon!"
     },
     {
       "index": 39,
-      "english": "I'm gonna get revenge for Hackmon!",
-      "_offset": 2822,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Voy a vengar a Hackmon!"
+      "english": "Well, it wasn't easy...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 10141,
+      "_bytes": 23,
+      "translation": "Bueno, no fue fácil..."
     },
     {
       "index": 40,
-      "english": "And we're gonna getcha this time!",
-      "_offset": 2857,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Y esta vez te atrapamos!"
+      "english": "So Tai can go home, right?",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 10165,
+      "_bytes": 29,
+      "translation": "Así Tai puede volver, ¿no?"
     },
     {
       "index": 41,
-      "english": "Get ready!",
-      "_offset": 2891,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Prepárate!"
+      "english": "!!",
+      "speaker_id": 7171,
+      "line_type": 2,
+      "_offset": 10195,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 42,
-      "english": "Ngh... ghhhh...",
-      "_offset": 2906,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Ngh... ghhhh..."
+      "english": "!!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 10198,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 43,
-      "english": "Hackmon!",
-      "_offset": 2922,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Hackmon!"
+      "english": "You've finally arrived, chosen\nones...",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 10201,
+      "_bytes": 38,
+      "translation": "Por fin llegasteis,\nelegidos..."
     },
     {
       "index": 44,
-      "english": "Tai... Agumon...",
-      "_offset": 2931,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Tai... Agumon..."
+      "english": "Gankuumon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10240,
+      "_bytes": 10,
+      "translation": "¡Gankoomon!"
     },
     {
       "index": 45,
-      "english": "So you've finally recovered...\nHave you finally trained properly?",
-      "_offset": 2951,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Así que por fin te\nrecuperaste... ya entrenas\nbien de verdad?"
+      "english": "I'm gonna get revenge for Hackmon!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 10251,
+      "_bytes": 34,
+      "translation": "¡Voy a vengar a Hackmon!"
     },
     {
       "index": 46,
-      "english": "And you didn't let a silly little\npunch get you down either, did\nyou?",
-      "_offset": 3017,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Y no dejaste que un simple\npuñetazo te derrotara,\nverdad?"
+      "english": "And we're gonna getcha this time!",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 10286,
+      "_bytes": 33,
+      "translation": "¡Y esta vez te atrapamos!"
     },
     {
       "index": 47,
-      "english": "Hahahahaha!",
-      "_offset": 3087,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Jajajaja!"
+      "english": "Get ready!",
+      "speaker_id": 7171,
+      "line_type": 2,
+      "_offset": 10320,
+      "_bytes": 10,
+      "translation": "¡Prepárate!"
     },
     {
       "index": 48,
-      "english": "Hahahahaha!",
-      "_offset": 3099,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Jajajaja!"
+      "english": "...",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 10331,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 49,
-      "english": "...Why are you two so friendly all\nof a sudden?",
-      "_offset": 3114,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "...Por qué de repente sois\ntan amigos?"
+      "english": "Ngh... ghhhh...",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10335,
+      "_bytes": 15,
+      "translation": "Ngh... ghhhh..."
     },
     {
       "index": 50,
-      "english": "Oh, Gankuumon's like my guardian\nof sorts.",
-      "_offset": 3162,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Ah, Gankuumon es mi\nguardián, más o menos."
+      "english": "Hackmon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10351,
+      "_bytes": 8,
+      "translation": "¡Hackmon!"
     },
     {
       "index": 51,
-      "english": "What?!",
-      "_offset": 3205,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Qué?!"
+      "english": "Tai... Agumon...",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10360,
+      "_bytes": 19,
+      "translation": "Tai... Agumon..."
     },
     {
       "index": 52,
-      "english": "So then why were you attacking\nGankuumon earlier?",
-      "_offset": 3212,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Entonces por qué atacabas\na Gankuumon antes?"
+      "english": "So you've finally recovered...\nHave you finally trained properly?",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 10380,
+      "_bytes": 65,
+      "translation": "Así que por fin te recuperaste...\n¿Ya has entrenado como\nes debido?"
     },
     {
       "index": 53,
-      "english": "Oh, I always do that. It's like\nour daily ritual.",
-      "_offset": 3262,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Ah, siempre hago eso. Es\nnuestro ritual diario."
+      "english": "And you didn't let a silly little\npunch get you down either, did\nyou?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10446,
+      "_bytes": 69,
+      "translation": "Y no dejaste que un simple\npuñetazo te derrotara,\n¿verdad?"
     },
     {
       "index": 54,
-      "english": "'Cause if I don't, he's gonna get\n*me* instead.",
-      "_offset": 3312,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Porque si no, me atrapa\na mí en su lugar."
+      "english": "Hahahahaha!",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 10516,
+      "_bytes": 11,
+      "translation": "¡Jajajaja!"
     },
     {
       "index": 55,
-      "english": "Exactly.",
-      "_offset": 3360,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Exacto."
+      "english": "Hahahahaha!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10528,
+      "_bytes": 11,
+      "translation": "¡Jajajaja!"
     },
     {
       "index": 56,
-      "english": "What? You really seemed like you\nhated each other, I thought you\nwere mortal enemies!",
-      "_offset": 3369,
-      "_length": 85,
-      "speaker_id": 0,
-      "translation": "Qué? Parecía que os\nodiabais! Pensé que erais\nenemigos mortales!"
+      "english": "??",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 10540,
+      "_bytes": 2,
+      "translation": "??"
     },
     {
       "index": 57,
-      "english": "Hey, hey, but then what are you?\nYou're clearly not normal.",
-      "_offset": 3455,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Oye, oye, entonces qué\neres? Está claro que no\neres normal."
+      "english": "...Why are you two so friendly all\nof a sudden?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 10543,
+      "_bytes": 47,
+      "translation": "...¿Por qué de repente sois\ntan amigos?"
     },
     {
       "index": 58,
-      "english": "Gankuumon is one of the Royal\nKnights who protects the order of\nthe Digital World!",
-      "_offset": 3515,
-      "_length": 82,
-      "speaker_id": 0,
-      "translation": "Gankuumon es uno de los\nCaballeros Reales que protegen\nel orden del Digimundo!"
+      "english": "Oh, Gankuumon's like my guardian\nof sorts.",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10591,
+      "_bytes": 42,
+      "translation": "Ah, Gankoomon es mi\nguardián, más o menos."
     },
     {
       "index": 59,
-      "english": "The Royal Knights?!",
-      "_offset": 3598,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Caballeros Reales?!"
+      "english": "What?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10634,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
     },
     {
       "index": 60,
-      "english": "And someday I'll be as strong as\nhim, you just wait!",
-      "_offset": 3618,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Y algún día seré tan\nfuerte como él, ya verás!"
+      "english": "So then why were you attacking\nGankuumon earlier?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 10641,
+      "_bytes": 49,
+      "translation": "¿Entonces por qué atacabas\na Gankoomon antes?"
     },
     {
       "index": 61,
-      "english": "So then why are *we* trapped in\nhere?",
-      "_offset": 3671,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Y por qué estamos\natrapados aquí?"
+      "english": "Oh, I always do that. It's like\nour daily ritual.",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10691,
+      "_bytes": 49,
+      "translation": "Ah, siempre hago eso. Es\nnuestro ritual diario."
     },
     {
       "index": 62,
-      "english": "We need you to correct the\ndistortions in the digital fields.",
-      "_offset": 3709,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Debéis corregir las\ndistorsiones de los campos\ndigitales."
+      "english": "'Cause if I don't, he's gonna get\n*me* instead.",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10741,
+      "_bytes": 47,
+      "translation": "Porque si no, me atrapa\na mí en su lugar."
     },
     {
       "index": 63,
-      "english": "Something with great power has\nforced itself into this space and\nhastened its collapse.",
-      "_offset": 3771,
-      "_length": 87,
-      "speaker_id": 0,
-      "translation": "Algo con mucho poder se\ncoló en este espacio y\naceleró su colapso."
+      "english": "Exactly.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 10789,
+      "_bytes": 8,
+      "translation": "Exacto."
     },
     {
       "index": 64,
-      "english": "You have defeated numerous\nenemies, and you have finally\nreached this place.",
-      "_offset": 3859,
-      "_length": 76,
-      "speaker_id": 0,
-      "translation": "Habéis derrotado a muchos\nenemigos, y por fin habéis\nllegado hasta aquí."
+      "english": "What? You really seemed like you\nhated each other, I thought you\nwere mortal enemies!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10798,
+      "_bytes": 85,
+      "translation": "¿Qué? ¡Parecía que os\nodiabais! ¡Pensé que erais\nenemigos mortales!"
     },
     {
       "index": 65,
-      "english": "So then what are the distortions?",
-      "_offset": 3936,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Y qué son las distorsiones?"
+      "english": "Hey, hey, but then what are you?\nYou're clearly not normal.",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 10884,
+      "_bytes": 59,
+      "translation": "Oye, oye, ¿entonces qué\neres? Está claro que no\neres normal."
     },
     {
       "index": 66,
-      "english": "In this place, distorted fragments\nin the Digital World are\ngathering...",
-      "_offset": 3970,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "Aquí se están juntando\nfragmentos distorsionados\ndel Digimundo..."
+      "english": "Gankuumon is one of the Royal\nKnights who protects the order of\nthe Digital World!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 10944,
+      "_bytes": 82,
+      "translation": "¡Gankoomon es uno de los\nCaballeros Reales que protegen\nel orden del Digimundo!"
     },
     {
       "index": 67,
-      "english": "It has copied the appearance of\nyour Digimon and, without any\nconscience, continued to grow.",
-      "_offset": 4043,
-      "_length": 92,
-      "speaker_id": 0,
-      "translation": "Ha copiado la apariencia\nde vuestros Digimon y sigue\ncreciendo sin consciencia."
+      "english": "The Royal Knights?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11027,
+      "_bytes": 19,
+      "translation": "¡¿Caballeros Reales?!"
     },
     {
       "index": 68,
-      "english": "So if we don't do anything about\nall the fake Digimon...",
-      "_offset": 4136,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Así que si no hacemos nada\ncon los Digimon falsos..."
+      "english": "And someday I'll be as strong as\nhim, you just wait!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 11047,
+      "_bytes": 52,
+      "translation": "¡Y algún día seré tan\nfuerte como él, ya verás!"
     },
     {
       "index": 69,
-      "english": "The copies will continue to\npermeate through things and gain\npower.",
-      "_offset": 4193,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Las copias seguirán\nextendiéndose y ganando\npoder."
+      "english": "So then why are *we* trapped in\nhere?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11100,
+      "_bytes": 37,
+      "translation": "¿Y por qué estamos\natrapados aquí?"
     },
     {
       "index": 70,
-      "english": "If they were to overflow from this\nspace, they would completely cover\nthe Digital Field.",
-      "_offset": 4261,
-      "_length": 88,
-      "speaker_id": 0,
-      "translation": "Si desbordaran este\nespacio, cubrirían por\ncompleto el campo digital."
+      "english": "We need you to correct the\ndistortions in the digital fields.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 11138,
+      "_bytes": 61,
+      "translation": "Debéis corregir las\ndistorsiones de los campos\ndigitales."
     },
     {
       "index": 71,
-      "english": "No way...",
-      "_offset": 4350,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Qué va..."
+      "english": "Something with great power has\nforced itself into this space and\nhastened its collapse.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 11200,
+      "_bytes": 87,
+      "translation": "Algo con mucho poder se\ncoló en este espacio y\naceleró su colapso."
     },
     {
       "index": 72,
-      "english": "And if that happens, it'll have\nbad effects on our world, too.",
-      "_offset": 4360,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Y si eso pasa, también\nafectará mal a nuestro\nmundo."
+      "english": "You have defeated numerous\nenemies, and you have finally\nreached this place.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 11288,
+      "_bytes": 76,
+      "translation": "Habéis derrotado a muchos\nenemigos, y por fin habéis\nllegado hasta aquí."
     },
     {
       "index": 73,
-      "english": "There is not much time left before\nthis space collapses.",
-      "_offset": 4423,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Queda poco tiempo antes de\nque este espacio colapse."
+      "english": "So then what are the distortions?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 11365,
+      "_bytes": 33,
+      "translation": "¿Y qué son las distorsiones?"
     },
     {
       "index": 74,
-      "english": "I have opened the door to the\nspatial core that controls this\nspace. Now go, chosen ones.",
-      "_offset": 4480,
-      "_length": 89,
-      "speaker_id": 0,
-      "translation": "He abierto la puerta al\nnúcleo espacial que controla\neste lugar. Id ya, elegidos."
+      "english": "In this place, distorted fragments\nin the Digital World are\ngathering...",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 11399,
+      "_bytes": 72,
+      "translation": "Aquí se están juntando\nfragmentos distorsionados\ndel Digimundo..."
     },
     {
       "index": 75,
-      "english": "I shall stave off the collapse of\nthis space in the meantime.",
-      "_offset": 4570,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Yo contendré el colapso\nde este espacio mientras\ntanto."
+      "english": "It has copied the appearance of\nyour Digimon and, without any\nconscience, continued to grow.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 11472,
+      "_bytes": 92,
+      "translation": "Ha copiado la apariencia\nde vuestros Digimon y sigue\ncreciendo sin consciencia."
     },
     {
       "index": 76,
-      "english": "Hackmon, come here!",
-      "_offset": 4632,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Hackmon, ven aquí!"
+      "english": "So if we don't do anything about\nall the fake Digimon...",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 11565,
+      "_bytes": 56,
+      "translation": "Así que si no hacemos nada\ncon los Digimon falsos..."
     },
     {
       "index": 77,
-      "english": "Gankuumon...",
-      "_offset": 4652,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Gankuumon..."
+      "english": "The copies will continue to\npermeate through things and gain\npower.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 11622,
+      "_bytes": 67,
+      "translation": "Las copias seguirán\nextendiéndose y ganando\npoder."
     },
     {
       "index": 78,
-      "english": "You are still immature, but your\npotential exceeds even mine.",
-      "_offset": 4665,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Aún eres inmaduro, pero tu\npotencial supera incluso\nal mío."
+      "english": "If they were to overflow from this\nspace, they would completely cover\nthe Digital Field.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 11690,
+      "_bytes": 88,
+      "translation": "Si desbordaran este\nespacio, cubrirían por\ncompleto el campo digital."
     },
     {
       "index": 79,
-      "english": "I-It does?!",
-      "_offset": 4727,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "En serio?!"
+      "english": "No way...",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 11779,
+      "_bytes": 9,
+      "translation": "No puede ser..."
     },
     {
       "index": 80,
-      "english": "You'll lead the chosen ones to the \nspatial core, where you will fix \nthe source that has gone haywire.",
-      "_offset": 4739,
-      "_length": 103,
-      "speaker_id": 0,
-      "translation": "Guiarás a los elegidos hasta\nel núcleo espacial, donde\narreglarás la fuente dañada."
+      "english": "And if that happens, it'll have\nbad effects on our world, too.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11789,
+      "_bytes": 62,
+      "translation": "Y si eso pasa, también\nafectará mal a nuestro\nmundo."
     },
     {
       "index": 81,
-      "english": "I will!",
-      "_offset": 4843,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Haré!"
+      "english": "There is not much time left before\nthis space collapses.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 11852,
+      "_bytes": 56,
+      "translation": "Queda poco tiempo antes de\nque este espacio colapse."
     },
     {
       "index": 82,
-      "english": "Tai!",
-      "_offset": 4851,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Tai!"
+      "english": "I have opened the door to the\nspatial core that controls this\nspace. Now go, chosen ones.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 11909,
+      "_bytes": 89,
+      "translation": "He abierto la puerta al\nnúcleo espacial que controla\neste lugar. Id ya, elegidos."
     },
     {
       "index": 83,
-      "english": "Yeah, there's no way we're gonna\nrun away from this!",
-      "_offset": 4859,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Sí, no vamos a huir\nde esto!"
+      "english": "I shall stave off the collapse of\nthis space in the meantime.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 11999,
+      "_bytes": 61,
+      "translation": "Yo contendré el colapso\nde este espacio mientras\ntanto."
     },
     {
       "index": 84,
-      "english": "We'll go with you, too!",
-      "_offset": 4912,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Nosotros también vamos!"
+      "english": "Hackmon, come here!",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 12061,
+      "_bytes": 19,
+      "translation": "¡Hackmon, ven aquí!"
     },
     {
       "index": 85,
-      "english": "Yeah, let us join in!",
-      "_offset": 4936,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Sí, dejadnos unirnos!"
+      "english": "Gankuumon...",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 12081,
+      "_bytes": 12,
+      "translation": "Gankoomon..."
     },
     {
       "index": 86,
-      "english": "Let's go, guys!",
-      "_offset": 4958,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Vamos, chicos!"
+      "english": "You are still immature, but your\npotential exceeds even mine.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 12094,
+      "_bytes": 61,
+      "translation": "Aún eres inmaduro, pero tu\npotencial supera incluso\nal mío."
     },
     {
       "index": 87,
-      "english": "I've reached my limits in my\ntraining as a Digimon Hunter. I'll\nshow you a real Hunt next time!",
-      "_offset": 4974,
-      "_length": 95,
-      "speaker_id": 0,
-      "translation": "He llegado al límite como\nCazador de Digimon. La próxima\nos mostraré una caza real!"
+      "english": "I-It does?!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 12156,
+      "_bytes": 11,
+      "translation": "¡¿En serio?!"
     },
     {
       "index": 88,
-      "english": "And in order to make that happen,\nwe'll save the digital field!\nLet's go!",
-      "_offset": 5070,
-      "_length": 73,
-      "speaker_id": 0,
-      "translation": "Y para lograrlo, vamos a\nsalvar el campo digital!\nVamos!"
+      "english": "You'll lead the chosen ones to the \nspatial core, where you will fix \nthe source that has gone haywire.",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 12168,
+      "_bytes": 103,
+      "translation": "Guiarás a los elegidos hasta\nel núcleo espacial, donde\narreglarás la fuente dañada."
     },
     {
       "index": 89,
-      "english": "It'll be fine, Tai!",
-      "_offset": 5144,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Todo saldrá bien, Tai!"
+      "english": "I will!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 12272,
+      "_bytes": 7,
+      "translation": "¡Lo haré!"
     },
     {
       "index": 90,
-      "english": "Of course! We'll always find a\nway!",
-      "_offset": 5167,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Claro! Siempre encontramos\nla forma!"
+      "english": "Tai!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 12280,
+      "_bytes": 7,
+      "translation": "¡Tai!"
     },
     {
       "index": 91,
-      "english": "【Area 1】",
-      "_offset": 5203,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Zona 1"
+      "english": "Yeah, there's no way we're gonna\nrun away from this!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12288,
+      "_bytes": 52,
+      "translation": "¡Sí, no vamos a huir\nde esto!"
     },
     {
       "index": 92,
-      "english": "【Area 2】",
-      "_offset": 5226,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Zona 2"
+      "english": "We'll go with you, too!",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 12341,
+      "_bytes": 23,
+      "translation": "¡Nosotros también vamos!"
     },
     {
       "index": 93,
-      "english": "【Area 3】",
-      "_offset": 5249,
-      "_length": 22,
-      "speaker_id": 0,
+      "english": "Yeah, let us join in!",
+      "speaker_id": 7171,
+      "line_type": 2,
+      "_offset": 12365,
+      "_bytes": 21,
+      "translation": "¡Sí, dejadnos unirnos!"
+    },
+    {
+      "index": 94,
+      "english": "Let's go, guys!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 12387,
+      "_bytes": 15,
+      "translation": "¡Vamos, chicos!"
+    },
+    {
+      "index": 95,
+      "english": "I've reached my limits in my\ntraining as a Digimon Hunter. I'll\nshow you a real Hunt next time!",
+      "speaker_id": 7061,
+      "line_type": 2,
+      "_offset": 12403,
+      "_bytes": 95,
+      "translation": "He llegado al límite como\nCazador de Digimon. ¡La próxima\nos mostraré una caza real!"
+    },
+    {
+      "index": 96,
+      "english": "And in order to make that happen,\nwe'll save the digital field!\nLet's go!",
+      "speaker_id": 7191,
+      "line_type": 2,
+      "_offset": 12499,
+      "_bytes": 73,
+      "translation": "¡Y para lograrlo, vamos a\nsalvar el campo digital!\n¡Vamos!"
+    },
+    {
+      "index": 97,
+      "english": "It'll be fine, Tai!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 12573,
+      "_bytes": 22,
+      "translation": "¡Todo saldrá bien, Tai!"
+    },
+    {
+      "index": 98,
+      "english": "Of course! We'll always find a\nway!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12596,
+      "_bytes": 35,
+      "translation": "¡Claro! ¡Siempre encontramos\nla forma!"
+    },
+    {
+      "index": 99,
+      "english": "　　　　　　【Area 1】",
+      "speaker_id": 9003,
+      "line_type": 4,
+      "_offset": 12632,
+      "_bytes": 22,
+      "translation": "Zona 1"
+    },
+    {
+      "index": 100,
+      "english": "　　　　　　【Area 2】",
+      "speaker_id": 9003,
+      "line_type": 4,
+      "_offset": 12655,
+      "_bytes": 22,
+      "translation": "Zona 2"
+    },
+    {
+      "index": 101,
+      "english": "　　　　　　【Area 3】",
+      "speaker_id": 9003,
+      "line_type": 4,
+      "_offset": 12678,
+      "_bytes": 22,
       "translation": "Zona 3"
     }
   ]

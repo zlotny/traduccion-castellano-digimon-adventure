@@ -2,22 +2,10 @@
   "source": "EBOOT.BIN/skills_attacks",
   "strings": [
     {
-      "text": "Numemon Boss",
-      "translation": "Numemon Jefe",
-      "_offset": 1678090,
-      "_length": 12
-    },
-    {
-      "text": "Great Bakemon",
-      "translation": "Gran Bakemon",
-      "_offset": 1678205,
-      "_length": 13
-    },
-    {
-      "text": "Stray Bakemon",
-      "translation": "Bakemon perd.",
-      "_offset": 1678219,
-      "_length": 13
+      "text": "Bubbles",
+      "translation": "Burbujas",
+      "_offset": 1762548,
+      "_length": 7
     },
     {
       "text": "Baby Flame",
@@ -26,8 +14,14 @@
       "_length": 10
     },
     {
+      "text": "Spitfire",
+      "translation": "Escupefuego",
+      "_offset": 1762780,
+      "_length": 8
+    },
+    {
       "text": "Sharp Claws",
-      "translation": "Garras afil",
+      "translation": "Garra Afilada",
       "_offset": 1762896,
       "_length": 11
     },
@@ -45,37 +39,37 @@
     },
     {
       "text": "Grey Tooth",
-      "translation": "DienteGris",
+      "translation": "Diente Grey",
       "_offset": 1763244,
       "_length": 10
     },
     {
       "text": "Giga Destroyer",
-      "translation": "GigaDestruct.",
+      "translation": "Giga Destructor",
       "_offset": 1763360,
       "_length": 14
     },
     {
       "text": "Trident Arm",
-      "translation": "Brazo Tri.",
+      "translation": "Brazo Tridente",
       "_offset": 1763476,
       "_length": 11
     },
     {
       "text": "Metal Slash",
-      "translation": "Cuch. Metal",
+      "translation": "Cuchilla Metal",
       "_offset": 1763592,
       "_length": 11
     },
     {
       "text": "Gaia Force",
-      "translation": "FuerzaGaia",
+      "translation": "Fuerza Gaia",
       "_offset": 1763708,
       "_length": 10
     },
     {
       "text": "Brave Tornado",
-      "translation": "TornadoValor",
+      "translation": "Tornado Valiente",
       "_offset": 1763824,
       "_length": 13
     },
@@ -87,13 +81,13 @@
     },
     {
       "text": "Petit Fire",
-      "translation": "MiniFuego",
+      "translation": "Mini Fuego",
       "_offset": 1764056,
       "_length": 10
     },
     {
       "text": "Little Horn",
-      "translation": "PequeCuerno",
+      "translation": "Pequeño Cuerno",
       "_offset": 1764172,
       "_length": 11
     },
@@ -105,13 +99,13 @@
     },
     {
       "text": "Fox Fire",
-      "translation": "Fue.Zorr",
+      "translation": "Fuego de Zorro",
       "_offset": 1764404,
       "_length": 8
     },
     {
       "text": "Freeze Fang",
-      "translation": "Colm Gelido",
+      "translation": "Colmillo Gélido",
       "_offset": 1764520,
       "_length": 11
     },
@@ -123,7 +117,7 @@
     },
     {
       "text": "Kaiser Nail",
-      "translation": "PuntaKaiser",
+      "translation": "Garra Kaiser",
       "_offset": 1764752,
       "_length": 11
     },
@@ -135,7 +129,7 @@
     },
     {
       "text": "Baldy Blow",
-      "translation": "GolpeBaldy",
+      "translation": "Golpe Baldy",
       "_offset": 1764984,
       "_length": 10
     },
@@ -165,7 +159,7 @@
     },
     {
       "text": "Piyorin Attack",
-      "translation": "Ataque Piyo.",
+      "translation": "Ataque Piyorin",
       "_offset": 1765564,
       "_length": 14
     },
@@ -177,79 +171,79 @@
     },
     {
       "text": "Meteor Wing",
-      "translation": "AlasMeteoro",
+      "translation": "Alas Meteoro",
       "_offset": 1765796,
       "_length": 11
     },
     {
       "text": "Fire Flap",
-      "translation": "AlaFuego",
+      "translation": "Aleteo de Fuego",
       "_offset": 1765912,
       "_length": 9
     },
     {
       "text": "Mach Glide",
-      "translation": "VueloVeloz",
+      "translation": "Vuelo Mach",
       "_offset": 1766028,
       "_length": 10
     },
     {
       "text": "Shadow Wing",
-      "translation": "AlaSombra",
+      "translation": "Ala Sombra",
       "_offset": 1766144,
       "_length": 11
     },
     {
       "text": "Fire Hurricane",
-      "translation": "Huracán Fuego",
+      "translation": "Huracán de Fuego",
       "_offset": 1766260,
       "_length": 14
     },
     {
       "text": "Eagle Claw",
-      "translation": "Garra Agui",
+      "translation": "Garra de Águila",
       "_offset": 1766376,
       "_length": 10
     },
     {
       "text": "Crimson Flare",
-      "translation": "Fue Esmeralda",
+      "translation": "Fuego Carmesí",
       "_offset": 1766608,
       "_length": 13
     },
     {
       "text": "Life Force",
-      "translation": "FuerzaVida",
+      "translation": "Fuerza Vital",
       "_offset": 1766724,
       "_length": 10
     },
     {
       "text": "Poison Ivy",
-      "translation": "HiedVeneno",
+      "translation": "Hiedra Venenosa",
       "_offset": 1766840,
       "_length": 10
     },
     {
       "text": "Root Stretch",
-      "translation": "Estira Raiz",
+      "translation": "Estira Raíz",
       "_offset": 1766956,
       "_length": 12
     },
     {
       "text": "Plant Shock",
-      "translation": "ChoquePlant",
+      "translation": "Choque Planta",
       "_offset": 1767072,
       "_length": 11
     },
     {
       "text": "Prickly Bang Bang",
-      "translation": "Puas Bang Bang",
+      "translation": "Púas Bang Bang",
       "_offset": 1767188,
       "_length": 17
     },
     {
       "text": "Mach Jab",
-      "translation": "GolpMach",
+      "translation": "Golpe Mach",
       "_offset": 1767304,
       "_length": 8
     },
@@ -261,19 +255,25 @@
     },
     {
       "text": "Flower Cannon",
-      "translation": "Cañon Floral",
+      "translation": "Cañón Floral",
       "_offset": 1767536,
       "_length": 13
     },
     {
+      "text": "Temptation",
+      "translation": "Tentación",
+      "_offset": 1767652,
+      "_length": 10
+    },
+    {
       "text": "Flower Necklace",
-      "translation": "Colgante Flores",
+      "translation": "Collar de Flores",
       "_offset": 1767768,
       "_length": 15
     },
     {
       "text": "Thorn Whip",
-      "translation": "Latigo Pua",
+      "translation": "Látigo de Espinas",
       "_offset": 1767884,
       "_length": 10
     },
@@ -291,7 +291,7 @@
     },
     {
       "text": "Twice Arm",
-      "translation": "DobleBraz",
+      "translation": "Doble Brazo",
       "_offset": 1768348,
       "_length": 9
     },
@@ -309,19 +309,19 @@
     },
     {
       "text": "Beetle Horn",
-      "translation": "Cuerno Esc.",
+      "translation": "Cuerno Escarabajo",
       "_offset": 1768696,
       "_length": 11
     },
     {
       "text": "Blink Thrust",
-      "translation": "Lanza. Blink",
+      "translation": "Estocada Rápida",
       "_offset": 1768812,
       "_length": 12
     },
     {
       "text": "Horn Buster",
-      "translation": "CazaCuerno",
+      "translation": "Cuerno Rompedor",
       "_offset": 1768928,
       "_length": 11
     },
@@ -333,7 +333,7 @@
     },
     {
       "text": "Wild Scratch",
-      "translation": "Ara. Salvaje",
+      "translation": "Arañazo Salvaje",
       "_offset": 1769160,
       "_length": 12
     },
@@ -351,7 +351,7 @@
     },
     {
       "text": "Horn Buster Revised",
-      "translation": "CazaCuerno Rev.",
+      "translation": "Cuerno Rompedor+",
       "_offset": 1769508,
       "_length": 19
     },
@@ -363,61 +363,61 @@
     },
     {
       "text": "Sharp Edge",
-      "translation": "Filo Afil.",
+      "translation": "Filo Afilado",
       "_offset": 1769740,
       "_length": 10
     },
     {
       "text": "Surfer Dive",
-      "translation": "Buceo surf",
+      "translation": "Buceo Surfero",
       "_offset": 1769856,
       "_length": 11
     },
     {
       "text": "Harpoon Vulcan",
-      "translation": "Arpón Volcan",
+      "translation": "Arpón Volcán",
       "_offset": 1769972,
       "_length": 14
     },
     {
       "text": "Icicle Coat",
-      "translation": "Capa Estal.",
+      "translation": "Capa de Hielo",
       "_offset": 1770088,
       "_length": 11
     },
     {
       "text": "Golden TriHorn",
-      "translation": "Tricuerno Oro",
+      "translation": "Tricuerno Dorado",
       "_offset": 1770204,
       "_length": 14
     },
     {
       "text": "Hammer Spark",
-      "translation": "Chispa Mart.",
+      "translation": "Chispa Martillo",
       "_offset": 1770320,
       "_length": 12
     },
     {
       "text": "Horn & Tusk",
-      "translation": "Cuer. Tromp",
+      "translation": "Cuerno y Colmillo",
       "_offset": 1770436,
       "_length": 11
     },
     {
       "text": "Hammer Boomerang",
-      "translation": "Martillo Bumer.",
+      "translation": "Martillo Bumerán",
       "_offset": 1770552,
       "_length": 16
     },
     {
       "text": "Arctic Blizzard",
-      "translation": "Ventisca Artica",
+      "translation": "Ventisca Ártica",
       "_offset": 1770668,
       "_length": 15
     },
     {
       "text": "Viking Axe",
-      "translation": "Hacha Vik.",
+      "translation": "Hacha Vikinga",
       "_offset": 1770784,
       "_length": 10
     },
@@ -429,7 +429,7 @@
     },
     {
       "text": "Air Shot",
-      "translation": "DispAire",
+      "translation": "Disparo de Aire",
       "_offset": 1771016,
       "_length": 8
     },
@@ -447,375 +447,1863 @@
     },
     {
       "text": "Heaven's Knuckle",
-      "translation": "Puño del cielo",
+      "translation": "Puño del Cielo",
       "_offset": 1771364,
       "_length": 16
     },
     {
       "text": "Holy Rod",
-      "translation": "Vara C.",
+      "translation": "Vara Sagrada",
       "_offset": 1771480,
       "_length": 8
     },
     {
       "text": "God Typhoon",
-      "translation": "Tornado C.",
+      "translation": "Tifón Divino",
       "_offset": 1771596,
       "_length": 11
     },
     {
       "text": "Heaven's Gate",
-      "translation": "Puerta Cielo",
+      "translation": "Puerta del Cielo",
       "_offset": 1771712,
       "_length": 13
     },
     {
-      "text": "Mega Heal",
-      "translation": "Mega Cura",
-      "_offset": 1811268,
+      "text": "Excalibur",
+      "translation": "Excalibur",
+      "_offset": 1771828,
       "_length": 9
     },
     {
-      "text": "Giga Heal",
-      "translation": "Giga Cura",
-      "_offset": 1811384,
-      "_length": 9
-    },
-    {
-      "text": "Tera Heal",
-      "translation": "Tera Cura",
-      "_offset": 1811500,
-      "_length": 9
-    },
-    {
-      "text": "Mega Heal +",
-      "translation": "Mega Cura +",
-      "_offset": 1811732,
-      "_length": 11
-    },
-    {
-      "text": "Giga Heal +",
-      "translation": "Giga Cura +",
-      "_offset": 1811848,
-      "_length": 11
-    },
-    {
-      "text": "Tera Heal +",
-      "translation": "Tera Cura +",
-      "_offset": 1811964,
-      "_length": 11
-    },
-    {
-      "text": "Poison Cure",
-      "translation": "Antidoto",
-      "_offset": 1812080,
-      "_length": 11
-    },
-    {
-      "text": "Skill Release",
-      "translation": "Soltar Skill",
-      "_offset": 1812312,
+      "text": "Seven Heavens",
+      "translation": "Siete Cielos",
+      "_offset": 1772060,
       "_length": 13
     },
     {
-      "text": "Super Counter",
-      "translation": "Super Contra",
-      "_offset": 1815328,
-      "_length": 13
-    },
-    {
-      "text": "Ultra Counter",
-      "translation": "Ultra Contra",
-      "_offset": 1815444,
-      "_length": 13
-    },
-    {
-      "text": "Auto Heal",
-      "translation": "Auto Cura",
-      "_offset": 1815560,
+      "text": "Testament",
+      "translation": "Testamento",
+      "_offset": 1772176,
       "_length": 9
     },
     {
-      "text": "Poop Throw",
-      "translation": "Tira Caca",
-      "_offset": 1816836,
+      "text": "Divine Breaker",
+      "translation": "Rompe Divino",
+      "_offset": 1772292,
+      "_length": 14
+    },
+    {
+      "text": "Cat Punch",
+      "translation": "Zarpazo",
+      "_offset": 1772408,
+      "_length": 9
+    },
+    {
+      "text": "Cat Kick ",
+      "translation": "¡Patada! ",
+      "_offset": 1772524,
+      "_length": 9
+    },
+    {
+      "text": "Cat's Eye",
+      "translation": "Ojo de Gato",
+      "_offset": 1772640,
+      "_length": 9
+    },
+    {
+      "text": "Holy Arrow",
+      "translation": "Flecha Sagrada",
+      "_offset": 1772756,
       "_length": 10
     },
     {
-      "text": "Poop Throw",
-      "translation": "Tira Caca",
-      "_offset": 1816952,
+      "text": "Heaven's Charm",
+      "translation": "Amuleto Cielo",
+      "_offset": 1772872,
+      "_length": 14
+    },
+    {
+      "text": "Saint Air",
+      "translation": "Aire Santo",
+      "_offset": 1772988,
+      "_length": 9
+    },
+    {
+      "text": "Holy Flame",
+      "translation": "Llama Sagrada",
+      "_offset": 1773104,
       "_length": 10
     },
     {
-      "text": "Poop Throw",
-      "translation": "Tira Caca",
-      "_offset": 1817068,
+      "text": "Hermit Fog",
+      "translation": "Niebla Ermitaña",
+      "_offset": 1773220,
       "_length": 10
     },
     {
-      "text": "Super Stinky Spray",
-      "translation": "Spray Oloroso +",
-      "_offset": 1817184,
-      "_length": 18
+      "text": "Apocalypse",
+      "translation": "Apocalipsis",
+      "_offset": 1773336,
+      "_length": 10
+    },
+    {
+      "text": "Grey Sword",
+      "translation": "Espada Grey",
+      "_offset": 1773452,
+      "_length": 10
+    },
+    {
+      "text": "Garuru Cannon",
+      "translation": "Cañón Garuru",
+      "_offset": 1773568,
+      "_length": 13
+    },
+    {
+      "text": "Omega Blast",
+      "translation": "Bomba Omega",
+      "_offset": 1773684,
+      "_length": 11
     },
     {
       "text": "Scissor Arms",
       "translation": "Brazo Tijera",
-      "_offset": 1817300,
+      "_offset": 1773800,
       "_length": 12
     },
     {
       "text": "Power Guillotine",
-      "translation": "Guillotina Pot.",
-      "_offset": 1817416,
+      "translation": "Guillotina Poderosa",
+      "_offset": 1773916,
       "_length": 16
     },
     {
-      "text": "Grateful Knuckle",
-      "translation": "Nudillo Agradec.",
-      "_offset": 1817532,
-      "_length": 16
-    },
-    {
-      "text": "Plasma Shoot",
-      "translation": "Disp. Plasma",
-      "_offset": 1817648,
-      "_length": 12
-    },
-    {
-      "text": "Light Aura Barrier",
-      "translation": "Barrera Aura Luz",
-      "_offset": 1817764,
-      "_length": 18
-    },
-    {
-      "text": "Extreme Jihad",
-      "translation": "Jihad Extremo",
-      "_offset": 1817880,
-      "_length": 13
-    },
-    {
-      "text": "Royal Saber",
-      "translation": "Sable Real",
-      "_offset": 1817996,
-      "_length": 11
-    },
-    {
-      "text": "Royal Slash",
-      "translation": "Cuch Real",
-      "_offset": 1818112,
-      "_length": 11
-    },
-    {
-      "text": "Final Elysion",
-      "translation": "Final Elysion",
-      "_offset": 1818228,
-      "_length": 13
-    },
-    {
-      "text": "Dragon Soul Sword ",
-      "translation": "Esp. Alma Dragón",
-      "_offset": 1818344,
-      "_length": 18
-    },
-    {
-      "text": "Flame Dragon Strike",
-      "translation": "Golpe Fuego Dragón",
-      "_offset": 1818460,
-      "_length": 19
-    },
-    {
-      "text": "Nine-headed Dragon Formation",
-      "translation": "Formación Dragon 9 Cabezas",
-      "_offset": 1818576,
-      "_length": 28
-    },
-    {
-      "text": "Shining Blast",
-      "translation": "Expl. Brill.",
-      "_offset": 1818692,
-      "_length": 13
-    },
-    {
-      "text": "GeoGrey Sword",
-      "translation": "Esp. GeoGrey",
-      "_offset": 1818808,
-      "_length": 13
-    },
-    {
-      "text": "Glorious Burst",
-      "translation": "Raf. Gloriosa",
-      "_offset": 1818924,
+      "text": "Hydro Pressure",
+      "translation": "Presión Hídrica",
+      "_offset": 1774032,
       "_length": 14
     },
     {
-      "text": "Beat Slash",
-      "translation": "Cuch. Ritm",
-      "_offset": 1819040,
+      "text": "Shell Guard",
+      "translation": "Defensa Concha",
+      "_offset": 1774148,
+      "_length": 11
+    },
+    {
+      "text": "Volcano Strike",
+      "translation": "Golpe Volcánico",
+      "_offset": 1774264,
+      "_length": 14
+    },
+    {
+      "text": "Grand Fire",
+      "translation": "Gran Fuego",
+      "_offset": 1774380,
       "_length": 10
     },
     {
-      "text": "Hard Rock Spirit",
-      "translation": "Esp Hard Rock",
-      "_offset": 1819156,
-      "_length": 16
+      "text": "Guardy Tusk",
+      "translation": "Colmillo Guardián",
+      "_offset": 1774496,
+      "_length": 11
     },
     {
-      "text": "Heavy Metal Vulcan",
-      "translation": "Volcan Heavy Metal",
-      "_offset": 1819272,
+      "text": "Ice Arrow",
+      "translation": "Flecha de Hielo",
+      "_offset": 1774612,
+      "_length": 9
+    },
+    {
+      "text": "Tail Attack",
+      "translation": "Colazo",
+      "_offset": 1774728,
+      "_length": 11
+    },
+    {
+      "text": "Bind",
+      "translation": "Atadura",
+      "_offset": 1774844,
+      "_length": 4
+    },
+    {
+      "text": "Burning Fist",
+      "translation": "Puño Ardiente",
+      "_offset": 1774960,
+      "_length": 12
+    },
+    {
+      "text": "Heat Wave",
+      "translation": "Ola de Calor",
+      "_offset": 1775076,
+      "_length": 9
+    },
+    {
+      "text": "Gatling Missile",
+      "translation": "Misil Gatling",
+      "_offset": 1775192,
+      "_length": 15
+    },
+    {
+      "text": "Spiral Sword",
+      "translation": "Espada Espiral",
+      "_offset": 1775308,
+      "_length": 12
+    },
+    {
+      "text": "Weak Slap",
+      "translation": "Bofetada",
+      "_offset": 1775424,
+      "_length": 9
+    },
+    {
+      "text": "Poop Throw",
+      "translation": "Tira Caca",
+      "_offset": 1775540,
+      "_length": 10
+    },
+    {
+      "text": "Poop Throw Barrage",
+      "translation": "Lluvia de Caca",
+      "_offset": 1775656,
       "_length": 18
     },
     {
-      "text": "Mach Flicker",
-      "translation": "Parp. Mach",
-      "_offset": 1819388,
-      "_length": 12
+      "text": "Super Stinky Spray",
+      "translation": "Spray Oloroso +",
+      "_offset": 1775772,
+      "_length": 18
     },
     {
-      "text": "Spin Caliber",
-      "translation": "Giro Calibre",
-      "_offset": 1819504,
-      "_length": 12
-    },
-    {
-      "text": "Prism Garrett",
-      "translation": "Prism Garrett",
-      "_offset": 1819620,
+      "text": "Lovely Attack",
+      "translation": "Ataque Amoroso",
+      "_offset": 1775888,
       "_length": 13
     },
     {
-      "text": "First Strike Punishment",
-      "translation": "Castigo Primer Golpe",
-      "_offset": 1819736,
-      "_length": 23
+      "text": "Bun Bun Punch",
+      "translation": "Puño Bun Bun",
+      "_offset": 1776004,
+      "_length": 13
     },
     {
-      "text": "Quake! Lightning! Fire! Father!",
-      "translation": "Seismo! Rayo! Fuego! Padre!",
-      "_offset": 1819852,
-      "_length": 31
-    },
-    {
-      "text": "Flipping Table In Anger",
-      "translation": "Voltear Mesa Enfadado",
-      "_offset": 1819968,
-      "_length": 23
-    },
-    {
-      "text": "Continuous Attack",
-      "translation": "Ataque continuo",
-      "_offset": 1820084,
-      "_length": 17
-    },
-    {
-      "text": "Auto Heal ",
-      "translation": "Auto Cura",
-      "_offset": 1820316,
-      "_length": 10
-    },
-    {
-      "text": "Fox Tail",
-      "translation": "Cola Zor",
-      "_offset": 1820548,
+      "text": "Eye Beam",
+      "translation": "Rayo Ocular",
+      "_offset": 1776120,
       "_length": 8
     },
     {
-      "text": "Puppy Howling",
-      "translation": "Aullido Cria",
-      "_offset": 1820664,
-      "_length": 13
+      "text": "Holy Shot",
+      "translation": "Disparo Sagrado",
+      "_offset": 1776236,
+      "_length": 9
     },
     {
-      "text": "Gran Death Big Bang",
-      "translation": "Big Bang + Muerte",
-      "_offset": 1820780,
+      "text": "Uni Gallop",
+      "translation": "Galope Uni",
+      "_offset": 1776352,
+      "_length": 10
+    },
+    {
+      "text": "Fist of the Tyrant",
+      "translation": "Puño Imperial",
+      "_offset": 1776468,
+      "_length": 18
+    },
+    {
+      "text": "Bone Club",
+      "translation": "Garrote",
+      "_offset": 1776584,
+      "_length": 9
+    },
+    {
+      "text": "Fist of the Beast King",
+      "translation": "Puño Real",
+      "_offset": 1776700,
+      "_length": 22
+    },
+    {
+      "text": "Lion King",
+      "translation": "Rey León",
+      "_offset": 1776816,
+      "_length": 9
+    },
+    {
+      "text": "Death Claw",
+      "translation": "Garra Mortal",
+      "_offset": 1776932,
+      "_length": 10
+    },
+    {
+      "text": "Razor Wing",
+      "translation": "Ala Navaja",
+      "_offset": 1777048,
+      "_length": 10
+    },
+    {
+      "text": "Demon's Ray",
+      "translation": "Rayo Demoníaco",
+      "_offset": 1777164,
+      "_length": 11
+    },
+    {
+      "text": "Absolute Zero Punch",
+      "translation": "Golpe Congelante",
+      "_offset": 1777280,
       "_length": 19
     },
     {
-      "text": "Death Evolution",
-      "translation": "Muerevolución",
-      "_offset": 1820896,
-      "_length": 15
-    },
-    {
-      "text": "V-mon Head",
-      "translation": "Cab. V-mon",
-      "_offset": 1821012,
+      "text": "Ice Breath",
+      "translation": "Aliento Helado",
+      "_offset": 1777396,
       "_length": 10
     },
     {
-      "text": "Boom Boom Punch",
-      "translation": "Puño Boom Boom",
-      "_offset": 1821128,
-      "_length": 15
+      "text": "Snowball Fight",
+      "translation": "Guerra Nieve",
+      "_offset": 1777512,
+      "_length": 14
     },
     {
-      "text": "Rock Breaker",
-      "translation": "Rompe Roca",
-      "_offset": 1821360,
+      "text": "Icicle Rod",
+      "translation": "Vara de Hielo",
+      "_offset": 1777628,
+      "_length": 10
+    },
+    {
+      "text": "Bone Bone Boomerang",
+      "translation": "Bumerán Hueso Hueso",
+      "_offset": 1777744,
+      "_length": 19
+    },
+    {
+      "text": "Cheese Bomb",
+      "translation": "Bomba de Queso",
+      "_offset": 1777860,
+      "_length": 11
+    },
+    {
+      "text": "Double Attack",
+      "translation": "Ataque Doble",
+      "_offset": 1777976,
+      "_length": 13
+    },
+    {
+      "text": "Hunting Cannon",
+      "translation": "Cañón de Caza",
+      "_offset": 1778092,
+      "_length": 14
+    },
+    {
+      "text": "Jet Gallop",
+      "translation": "Galope Jet",
+      "_offset": 1778208,
+      "_length": 10
+    },
+    {
+      "text": "Heat Upper",
+      "translation": "Gancho Ardiente",
+      "_offset": 1778324,
+      "_length": 10
+    },
+    {
+      "text": "Death Charm",
+      "translation": "Encanto Mortal",
+      "_offset": 1778440,
+      "_length": 11
+    },
+    {
+      "text": "Hell's Hand",
+      "translation": "Mano Infernal",
+      "_offset": 1778556,
+      "_length": 11
+    },
+    {
+      "text": "Ghost Chop",
+      "translation": "Golpe Fantasma",
+      "_offset": 1778672,
+      "_length": 10
+    },
+    {
+      "text": "Sparkling Thunder",
+      "translation": "Trueno Chispeante",
+      "_offset": 1778788,
+      "_length": 17
+    },
+    {
+      "text": "Thunder Knife",
+      "translation": "Cuchillo Trueno",
+      "_offset": 1778904,
+      "_length": 13
+    },
+    {
+      "text": "Jet Arrow",
+      "translation": "Flecha Jet",
+      "_offset": 1779020,
+      "_length": 9
+    },
+    {
+      "text": "Tidal Wave",
+      "translation": "Maremoto",
+      "_offset": 1779136,
+      "_length": 10
+    },
+    {
+      "text": "Body Blow",
+      "translation": "Cuerpazo",
+      "_offset": 1779252,
+      "_length": 9
+    },
+    {
+      "text": "Drill Spin",
+      "translation": "Giro Taladro",
+      "_offset": 1779368,
+      "_length": 10
+    },
+    {
+      "text": "Crusher Bone",
+      "translation": "Hueso Triturador",
+      "_offset": 1779484,
       "_length": 12
     },
     {
-      "text": "Burning Salamander",
-      "translation": "Salam. Ardiente",
-      "_offset": 1821476,
-      "_length": 18
+      "text": "Poison Bubbles",
+      "translation": "Burbujas Veneno",
+      "_offset": 1779600,
+      "_length": 14
     },
     {
-      "text": "Salamander Break",
-      "translation": "Rot. Salamandra",
-      "_offset": 1821592,
+      "text": "Paralyze Breath",
+      "translation": "Aliento Paralizante",
+      "_offset": 1779716,
+      "_length": 15
+    },
+    {
+      "text": "Hidden Blow",
+      "translation": "Golpe Oculto",
+      "_offset": 1779832,
+      "_length": 11
+    },
+    {
+      "text": "Love Serenade",
+      "translation": "Serenata de Amor",
+      "_offset": 1779948,
+      "_length": 13
+    },
+    {
+      "text": "Dark Spirits",
+      "translation": "Espíritus Oscuros",
+      "_offset": 1780064,
+      "_length": 12
+    },
+    {
+      "text": "Grateful Knuckle",
+      "translation": "Puño Agradecido",
+      "_offset": 1780180,
       "_length": 16
     },
     {
-      "text": "Baby Burner",
-      "translation": "Quem. Bebé",
-      "_offset": 1821708,
+      "text": "Ground Zero Revised",
+      "translation": "Punto Cero+",
+      "_offset": 1780296,
+      "_length": 19
+    },
+    {
+      "text": "Ground Zero",
+      "translation": "Punto Cero",
+      "_offset": 1780412,
       "_length": 11
     },
     {
-      "text": "Rock Spirit",
-      "translation": "Esp. Roca",
-      "_offset": 1821824,
+      "text": "Death Nail ",
+      "translation": "Uña Mortal ",
+      "_offset": 1780528,
       "_length": 11
     },
     {
-      "text": "Soul Crusher",
-      "translation": "Rompe Almas",
-      "_offset": 1821940,
-      "_length": 12
-    },
-    {
-      "text": "Rowdy Rocker",
-      "translation": "Rock Brutal",
-      "_offset": 1822056,
-      "_length": 12
-    },
-    {
-      "text": "Fifth Rush",
-      "translation": "5ta Carga",
-      "_offset": 1822172,
+      "text": "Petra Fire",
+      "translation": "Fuego Pétreo",
+      "_offset": 1780644,
       "_length": 10
     },
     {
-      "text": "Teen Ram",
-      "translation": "Carga Ad",
-      "_offset": 1822288,
+      "text": "Feather Cutter",
+      "translation": "Corta Plumas",
+      "_offset": 1780760,
+      "_length": 14
+    },
+    {
+      "text": "Again Star",
+      "translation": "Otra Estrella",
+      "_offset": 1780876,
+      "_length": 10
+    },
+    {
+      "text": "Pit Bomb",
+      "translation": "Bomba Fosa",
+      "_offset": 1780992,
       "_length": 8
     },
     {
-      "text": "Baby Flame",
-      "translation": "Llama Bebé",
-      "_offset": 1822404,
+      "text": "Fire Breath",
+      "translation": "Aliento de Fuego",
+      "_offset": 1781108,
+      "_length": 11
+    },
+    {
+      "text": "Slash Nail",
+      "translation": "Uña Cortante",
+      "_offset": 1781224,
       "_length": 10
     },
     {
-      "text": "Great Bakemon",
-      "translation": "Gran Bakemon",
-      "_offset": 1836040,
+      "text": "Dino Kick",
+      "translation": "Patada Dino",
+      "_offset": 1781340,
+      "_length": 9
+    },
+    {
+      "text": "Plug Bomb",
+      "translation": "Bomba Clavija",
+      "_offset": 1781456,
+      "_length": 9
+    },
+    {
+      "text": "Nano Crash",
+      "translation": "Choque Nano",
+      "_offset": 1781572,
+      "_length": 10
+    },
+    {
+      "text": "Counter Trap",
+      "translation": "Contratrampa",
+      "_offset": 1781688,
+      "_length": 12
+    },
+    {
+      "text": "Love Serenade Chaos",
+      "translation": "Serenata Amor Caos",
+      "_offset": 1781804,
+      "_length": 19
+    },
+    {
+      "text": "Dark Spirits Chaos",
+      "translation": "Espíritus del Caos",
+      "_offset": 1781920,
+      "_length": 18
+    },
+    {
+      "text": "Pico Darts",
+      "translation": "Dardos Pico",
+      "_offset": 1782036,
+      "_length": 10
+    },
+    {
+      "text": "Bat Flutter",
+      "translation": "Aleteo Murciélago",
+      "_offset": 1782152,
+      "_length": 11
+    },
+    {
+      "text": "Devil's Whisper",
+      "translation": "Susurro Diabólico",
+      "_offset": 1782268,
+      "_length": 15
+    },
+    {
+      "text": "Sharp Leaf",
+      "translation": "Hoja Afilada",
+      "_offset": 1782384,
+      "_length": 10
+    },
+    {
+      "text": "Delicious Breath",
+      "translation": "Aliento Delicioso",
+      "_offset": 1782500,
+      "_length": 16
+    },
+    {
+      "text": "Nightmare Syndrome",
+      "translation": "Síndrome Pesadilla",
+      "_offset": 1782616,
+      "_length": 18
+    },
+    {
+      "text": "Enigma",
+      "translation": "Enigma",
+      "_offset": 1782732,
+      "_length": 6
+    },
+    {
+      "text": "Swing Egg",
+      "translation": "Huevo Giratorio",
+      "_offset": 1782848,
+      "_length": 9
+    },
+    {
+      "text": "Electric Shock",
+      "translation": "Descarga Eléctrica",
+      "_offset": 1782964,
+      "_length": 14
+    },
+    {
+      "text": "Beta Slugger",
+      "translation": "Golpe Beta",
+      "_offset": 1783080,
+      "_length": 12
+    },
+    {
+      "text": "Devil's Blown Kiss",
+      "translation": "Beso Diabólico",
+      "_offset": 1783196,
+      "_length": 18
+    },
+    {
+      "text": "Abduction Ray",
+      "translation": "Rayo Secuestro",
+      "_offset": 1783312,
       "_length": 13
+    },
+    {
+      "text": "Mute Ray",
+      "translation": "Rayo Mudo",
+      "_offset": 1783428,
+      "_length": 8
+    },
+    {
+      "text": "Lullaby Bubble",
+      "translation": "Burbuja de Nana",
+      "_offset": 1783544,
+      "_length": 14
+    },
+    {
+      "text": "Child Claw",
+      "translation": "Garra Infantil",
+      "_offset": 1783660,
+      "_length": 10
+    },
+    {
+      "text": "Crash Symphony",
+      "translation": "Sinfonía Estruendosa",
+      "_offset": 1783776,
+      "_length": 14
+    },
+    {
+      "text": "Noisy Echo",
+      "translation": "Eco Ruidoso",
+      "_offset": 1783892,
+      "_length": 10
+    },
+    {
+      "text": "Samurai Tone",
+      "translation": "Tono Samurái",
+      "_offset": 1784008,
+      "_length": 12
+    },
+    {
+      "text": "Tonosama Jump",
+      "translation": "Salto Shogun",
+      "_offset": 1784124,
+      "_length": 13
+    },
+    {
+      "text": "Stomp",
+      "translation": "Pisotón",
+      "_offset": 1784240,
+      "_length": 5
+    },
+    {
+      "text": "Night Raid",
+      "translation": "Asalto Nocturno",
+      "_offset": 1784356,
+      "_length": 10
+    },
+    {
+      "text": "Bloody Stream",
+      "translation": "Chorro Sangre",
+      "_offset": 1784472,
+      "_length": 13
+    },
+    {
+      "text": "Dead Scream",
+      "translation": "Grito Mortal",
+      "_offset": 1784588,
+      "_length": 11
+    },
+    {
+      "text": "Deadly Sting",
+      "translation": "Aguijón Mortal",
+      "_offset": 1784704,
+      "_length": 12
+    },
+    {
+      "text": "Poison Powder",
+      "translation": "Polvo Venenoso",
+      "_offset": 1784820,
+      "_length": 13
+    },
+    {
+      "text": "Howling Noise",
+      "translation": "Ruido Aullador",
+      "_offset": 1784936,
+      "_length": 13
+    },
+    {
+      "text": "Poop Dunk",
+      "translation": "Caca Dunk",
+      "_offset": 1785052,
+      "_length": 9
+    },
+    {
+      "text": "BOSS Punch",
+      "translation": "Puño JEFE",
+      "_offset": 1785168,
+      "_length": 10
+    },
+    {
+      "text": "Crimson Nail",
+      "translation": "Garra Carmesí",
+      "_offset": 1785284,
+      "_length": 12
+    },
+    {
+      "text": "Demonic Gale",
+      "translation": "Vendaval Demoníaco",
+      "_offset": 1785516,
+      "_length": 12
+    },
+    {
+      "text": "Stinger Pollation",
+      "translation": "Aguijón Tóxico",
+      "_offset": 1785632,
+      "_length": 17
+    },
+    {
+      "text": "Arachno Batoto",
+      "translation": "Arachno Batoto",
+      "_offset": 1785748,
+      "_length": 14
+    },
+    {
+      "text": "Spider Machine Gun",
+      "translation": "Ametralladora Araña",
+      "_offset": 1785864,
+      "_length": 18
+    },
+    {
+      "text": "Tusk Strikes",
+      "translation": "Golpe Colmillo",
+      "_offset": 1785980,
+      "_length": 12
+    },
+    {
+      "text": "Tundra Breath",
+      "translation": "Aliento Tundra",
+      "_offset": 1786096,
+      "_length": 13
+    },
+    {
+      "text": "Nose Stamp",
+      "translation": "Golpe de Nariz",
+      "_offset": 1786212,
+      "_length": 10
+    },
+    {
+      "text": "Deadly Shade",
+      "translation": "Sombra Mortal",
+      "_offset": 1786328,
+      "_length": 12
+    },
+    {
+      "text": "Devil Bashing",
+      "translation": "Golpe Diablo",
+      "_offset": 1786444,
+      "_length": 13
+    },
+    {
+      "text": "Squire Dome",
+      "translation": "Domo Escudero",
+      "_offset": 1786560,
+      "_length": 11
+    },
+    {
+      "text": "Sludge",
+      "translation": "Fango",
+      "_offset": 1786676,
+      "_length": 6
+    },
+    {
+      "text": "Stinky Gas",
+      "translation": "Gas Fétido",
+      "_offset": 1786792,
+      "_length": 10
+    },
+    {
+      "text": "Rotun Tackle",
+      "translation": "Placaje Rotun",
+      "_offset": 1786908,
+      "_length": 12
+    },
+    {
+      "text": "Heavy Metal Fire",
+      "translation": "Fuego Metal Pesado",
+      "_offset": 1787024,
+      "_length": 16
+    },
+    {
+      "text": "Heat Chain",
+      "translation": "Cadena Ardiente",
+      "_offset": 1787140,
+      "_length": 10
+    },
+    {
+      "text": "Trick or Treat",
+      "translation": "Truco o Trato",
+      "_offset": 1787256,
+      "_length": 14
+    },
+    {
+      "text": "Surprise",
+      "translation": "Sorpresa",
+      "_offset": 1787372,
+      "_length": 8
+    },
+    {
+      "text": "Angry Rock",
+      "translation": "Roca Furiosa",
+      "_offset": 1787488,
+      "_length": 10
+    },
+    {
+      "text": "Hardest Punch",
+      "translation": "Puño Durísimo",
+      "_offset": 1787604,
+      "_length": 13
+    },
+    {
+      "text": "Thunder Cloud",
+      "translation": "Nube de Trueno",
+      "_offset": 1787720,
+      "_length": 13
+    },
+    {
+      "text": "Magic Game",
+      "translation": "Juego Mágico",
+      "_offset": 1787836,
+      "_length": 10
+    },
+    {
+      "text": "Magic Heal",
+      "translation": "Cura Mágica",
+      "_offset": 1787952,
+      "_length": 10
+    },
+    {
+      "text": "Spiral Edge",
+      "translation": "Filo Espiral",
+      "_offset": 1788068,
+      "_length": 11
+    },
+    {
+      "text": "Frog Kick",
+      "translation": "Patada de Rana",
+      "_offset": 1788184,
+      "_length": 9
+    },
+    {
+      "text": "Water Cure",
+      "translation": "Cura de Agua",
+      "_offset": 1788300,
+      "_length": 10
+    },
+    {
+      "text": "Soul Chopper",
+      "translation": "Cortador de Almas",
+      "_offset": 1788416,
+      "_length": 12
+    },
+    {
+      "text": "Diabolic Star",
+      "translation": "Estrella Diabólica",
+      "_offset": 1788532,
+      "_length": 13
+    },
+    {
+      "text": "Death Sentence",
+      "translation": "Sentencia Mortal",
+      "_offset": 1788648,
+      "_length": 14
+    },
+    {
+      "text": "Fire Blast",
+      "translation": "Explosión de Fuego",
+      "_offset": 1788764,
+      "_length": 10
+    },
+    {
+      "text": "Iron Tail",
+      "translation": "Cola de Hierro",
+      "_offset": 1788880,
+      "_length": 9
+    },
+    {
+      "text": "Thunder Javelin",
+      "translation": "Jabalina de Trueno",
+      "_offset": 1788996,
+      "_length": 15
+    },
+    {
+      "text": "Maelstrom",
+      "translation": "Remolino",
+      "_offset": 1789112,
+      "_length": 9
+    },
+    {
+      "text": "Panzer Knuckle",
+      "translation": "Puño Panzer",
+      "_offset": 1789228,
+      "_length": 14
+    },
+    {
+      "text": "Horn Driver",
+      "translation": "Cuerno Taladro",
+      "_offset": 1789344,
+      "_length": 11
+    },
+    {
+      "text": "Shadow Sickle",
+      "translation": "Hoz Sombría",
+      "_offset": 1789460,
+      "_length": 13
+    },
+    {
+      "text": "Sharp Edge",
+      "translation": "Filo Afilado",
+      "_offset": 1789576,
+      "_length": 10
+    },
+    {
+      "text": "Venom Infuse",
+      "translation": "Infusión Veneno",
+      "_offset": 1789692,
+      "_length": 12
+    },
+    {
+      "text": "Tyrant Savage",
+      "translation": "Tirano Salvaje",
+      "_offset": 1789808,
+      "_length": 13
+    },
+    {
+      "text": "Inferno",
+      "translation": "Infierno",
+      "_offset": 1789924,
+      "_length": 7
+    },
+    {
+      "text": "Chaos Flame",
+      "translation": "Llama Caos",
+      "_offset": 1790040,
+      "_length": 11
+    },
+    {
+      "text": "Ultimate Stream",
+      "translation": "Chorro Supremo",
+      "_offset": 1790156,
+      "_length": 15
+    },
+    {
+      "text": "Hell Squeeze",
+      "translation": "Apretón Infernal",
+      "_offset": 1790272,
+      "_length": 12
+    },
+    {
+      "text": "Crunch",
+      "translation": "Mordisco",
+      "_offset": 1790388,
+      "_length": 6
+    },
+    {
+      "text": "Bullet Hammer",
+      "translation": "Martillo Bala",
+      "_offset": 1790504,
+      "_length": 13
+    },
+    {
+      "text": "Bullet Machine Gun",
+      "translation": "Ametralladora",
+      "_offset": 1790620,
+      "_length": 18
+    },
+    {
+      "text": "Infinity Cannon",
+      "translation": "Cañón Infinito",
+      "_offset": 1790852,
+      "_length": 15
+    },
+    {
+      "text": "Booster Claw",
+      "translation": "Garra Impulso",
+      "_offset": 1790968,
+      "_length": 12
+    },
+    {
+      "text": "Catastrophe",
+      "translation": "Catástrofe",
+      "_offset": 1791084,
+      "_length": 11
+    },
+    {
+      "text": "Trump Sword",
+      "translation": "Espada Trump",
+      "_offset": 1791200,
+      "_length": 11
+    },
+    {
+      "text": "Ending Spell",
+      "translation": "Hechizo Final",
+      "_offset": 1791316,
+      "_length": 12
+    },
+    {
+      "text": "Toy Wonderness",
+      "translation": "Mundo Juguete",
+      "_offset": 1791432,
+      "_length": 14
+    },
+    {
+      "text": "Stinger Surprise",
+      "translation": "Aguijón Sorpresa",
+      "_offset": 1791548,
+      "_length": 16
+    },
+    {
+      "text": "Tail Blade",
+      "translation": "Cola Cuchilla",
+      "_offset": 1791664,
+      "_length": 10
+    },
+    {
+      "text": "Sand Shower",
+      "translation": "Lluvia de Arena",
+      "_offset": 1791780,
+      "_length": 11
+    },
+    {
+      "text": "Strike Fishing",
+      "translation": "Pesca de Ataque",
+      "_offset": 1791896,
+      "_length": 14
+    },
+    {
+      "text": "Hell Dive",
+      "translation": "Buceo Infernal",
+      "_offset": 1792012,
+      "_length": 9
+    },
+    {
+      "text": "Little Pecker",
+      "translation": "Picotazo Pequeño",
+      "_offset": 1792128,
+      "_length": 13
+    },
+    {
+      "text": "Nose Mattock",
+      "translation": "Azada Nariz",
+      "_offset": 1792244,
+      "_length": 12
+    },
+    {
+      "text": "Poison Smush",
+      "translation": "Hongo Venenoso",
+      "_offset": 1792360,
+      "_length": 12
+    },
+    {
+      "text": "Rough Smush",
+      "translation": "Hongo Brusco",
+      "_offset": 1792476,
+      "_length": 11
+    },
+    {
+      "text": "Spiral Flower",
+      "translation": "Flor Espiral",
+      "_offset": 1792592,
+      "_length": 13
+    },
+    {
+      "text": "Thorn Whip",
+      "translation": "Látigo de Espinas",
+      "_offset": 1792708,
+      "_length": 10
+    },
+    {
+      "text": "Cherry Bomb",
+      "translation": "Bomba Cereza",
+      "_offset": 1792824,
+      "_length": 11
+    },
+    {
+      "text": "Illusion Mist",
+      "translation": "Niebla Ilusión",
+      "_offset": 1792940,
+      "_length": 13
+    },
+    {
+      "text": "Poop Bazooka",
+      "translation": "Bazuca de Caca",
+      "_offset": 1793056,
+      "_length": 12
+    },
+    {
+      "text": "Dirty Saucer",
+      "translation": "Plato Sucio",
+      "_offset": 1793172,
+      "_length": 12
+    },
+    {
+      "text": "Black Hole",
+      "translation": "Agujero Negro",
+      "_offset": 1793288,
+      "_length": 10
+    },
+    {
+      "text": "Mjolnir Thunder",
+      "translation": "Trueno de Mjolnir",
+      "_offset": 1793404,
+      "_length": 15
+    },
+    {
+      "text": "Sonic Destroyer",
+      "translation": "Destructor Sónico",
+      "_offset": 1793520,
+      "_length": 15
+    },
+    {
+      "text": "Destruction Grenade",
+      "translation": "Granada Destructora",
+      "_offset": 1793636,
+      "_length": 19
+    },
+    {
+      "text": "Homing Laser",
+      "translation": "Láser Guiado",
+      "_offset": 1793752,
+      "_length": 12
+    },
+    {
+      "text": "Warning Laser",
+      "translation": "Láser de Aviso",
+      "_offset": 1793868,
+      "_length": 13
+    },
+    {
+      "text": "Twinkle Beam",
+      "translation": "Rayo Centelleante",
+      "_offset": 1793984,
+      "_length": 12
+    },
+    {
+      "text": "Gyro Break",
+      "translation": "Giro Rompedor",
+      "_offset": 1794100,
+      "_length": 10
+    },
+    {
+      "text": "Branch Drain",
+      "translation": "Drenaje Rama",
+      "_offset": 1794216,
+      "_length": 12
+    },
+    {
+      "text": "Woody Smash",
+      "translation": "Golpe Madera",
+      "_offset": 1794332,
+      "_length": 11
+    },
+    {
+      "text": "Banana Slip",
+      "translation": "Resbalón de Plátano",
+      "_offset": 1794448,
+      "_length": 11
+    },
+    {
+      "text": "Dark Spirits Deluxe",
+      "translation": "Espíritus Deluxe",
+      "_offset": 1794564,
+      "_length": 19
+    },
+    {
+      "text": "No. 1 Punch",
+      "translation": "Puño Número 1",
+      "_offset": 1794680,
+      "_length": 11
+    },
+    {
+      "text": "Allergy Shower",
+      "translation": "Lluvia Alérgica",
+      "_offset": 1794796,
+      "_length": 14
+    },
+    {
+      "text": "Sweet Scent",
+      "translation": "Aroma Dulce",
+      "_offset": 1794912,
+      "_length": 11
+    },
+    {
+      "text": "Royal Nuts",
+      "translation": "Nueces Reales",
+      "_offset": 1795028,
+      "_length": 10
+    },
+    {
+      "text": "Gorgeous Beak",
+      "translation": "Pico Hermoso",
+      "_offset": 1795144,
+      "_length": 13
+    },
+    {
+      "text": "Nail Crusher",
+      "translation": "Tritura Uñas",
+      "_offset": 1795260,
+      "_length": 12
+    },
+    {
+      "text": "Infinity Arrow",
+      "translation": "Flecha Infinita",
+      "_offset": 1795376,
+      "_length": 14
+    },
+    {
+      "text": "Hazard Breath",
+      "translation": "Aliento Peligroso",
+      "_offset": 1795492,
+      "_length": 13
+    },
+    {
+      "text": "Red Thorn",
+      "translation": "Espina Roja",
+      "_offset": 1795608,
+      "_length": 9
+    },
+    {
+      "text": "Red Hot Machine Gun",
+      "translation": "Ametralladora Roja",
+      "_offset": 1795724,
+      "_length": 19
+    },
+    {
+      "text": "Darkness Gear",
+      "translation": "Engranaje Oscuro",
+      "_offset": 1795840,
+      "_length": 13
+    },
+    {
+      "text": "Haguru Attack",
+      "translation": "Ataque Haguru",
+      "_offset": 1795956,
+      "_length": 13
+    },
+    {
+      "text": "Crash Device",
+      "translation": "Dispositivo Choque",
+      "_offset": 1796072,
+      "_length": 12
+    },
+    {
+      "text": "Hyper Cannon",
+      "translation": "Hipercañón",
+      "_offset": 1796188,
+      "_length": 12
+    },
+    {
+      "text": "Machine Gun Arm",
+      "translation": "Brazo Ametralladora",
+      "_offset": 1796304,
+      "_length": 15
+    },
+    {
+      "text": "Hell Drive",
+      "translation": "Marcha Infernal",
+      "_offset": 1796420,
+      "_length": 10
+    },
+    {
+      "text": "Genocide Attack",
+      "translation": "Ataque Genocida",
+      "_offset": 1796536,
+      "_length": 15
+    },
+    {
+      "text": "Ultimate Slicer",
+      "translation": "Cortador Supremo",
+      "_offset": 1796652,
+      "_length": 15
+    },
+    {
+      "text": "Metal Arm",
+      "translation": "Brazo Metálico",
+      "_offset": 1796768,
+      "_length": 9
+    },
+    {
+      "text": "Genocide Gear",
+      "translation": "Engranaje Genocida",
+      "_offset": 1796884,
+      "_length": 13
+    },
+    {
+      "text": "Guilty Claw",
+      "translation": "Garra Culpable",
+      "_offset": 1797000,
+      "_length": 11
+    },
+    {
+      "text": "Heartbreak Attack",
+      "translation": "Ataque Desamor",
+      "_offset": 1797116,
+      "_length": 17
+    },
+    {
+      "text": "Bear Claw",
+      "translation": "Garra de Oso",
+      "_offset": 1797232,
+      "_length": 9
+    },
+    {
+      "text": "Megalo Spark",
+      "translation": "Chispa Megalo",
+      "_offset": 1797348,
+      "_length": 12
+    },
+    {
+      "text": "Darkness Wave",
+      "translation": "Onda de Oscuridad",
+      "_offset": 1797464,
+      "_length": 13
+    },
+    {
+      "text": "Poison",
+      "translation": "Veneno",
+      "_offset": 1797580,
+      "_length": 6
+    },
+    {
+      "text": "Darkness Spear",
+      "translation": "Lanza Oscura",
+      "_offset": 1797696,
+      "_length": 14
+    },
+    {
+      "text": "Nightmare Shock",
+      "translation": "Shock de Pesadilla",
+      "_offset": 1797812,
+      "_length": 15
+    },
+    {
+      "text": "Scratch Beat",
+      "translation": "Golpe Arañazo",
+      "_offset": 1797928,
+      "_length": 12
+    },
+    {
+      "text": "Darkness Zone",
+      "translation": "Zona Oscura",
+      "_offset": 1798044,
+      "_length": 13
+    },
+    {
+      "text": "Ultimate Stream",
+      "translation": "Chorro Supremo",
+      "_offset": 1798160,
+      "_length": 15
+    },
+    {
+      "text": "Plug Bomb",
+      "translation": "Bomba Clavija",
+      "_offset": 1798276,
+      "_length": 9
+    },
+    {
+      "text": "Bloody Stream",
+      "translation": "Chorro Sangre",
+      "_offset": 1798392,
+      "_length": 13
+    },
+    {
+      "text": "Infinity Cannon",
+      "translation": "Cañón Infinito",
+      "_offset": 1798508,
+      "_length": 15
+    },
+    {
+      "text": "Death Claw",
+      "translation": "Garra Mortal",
+      "_offset": 1798624,
+      "_length": 10
+    },
+    {
+      "text": "Glare Eye",
+      "translation": "Ojo Fulminante",
+      "_offset": 1798740,
+      "_length": 9
+    },
+    {
+      "text": "Nail Scratch",
+      "translation": "Arañazo",
+      "_offset": 1798856,
+      "_length": 12
+    },
+    {
+      "text": "Crazy Giggle",
+      "translation": "Risa Loca",
+      "_offset": 1798972,
+      "_length": 12
+    },
+    {
+      "text": "Data Crusher",
+      "translation": "Triturador de Datos",
+      "_offset": 1799088,
+      "_length": 12
+    },
+    {
+      "text": "Hell's Grenade",
+      "translation": "Granada Infernal",
+      "_offset": 1799320,
+      "_length": 14
+    },
+    {
+      "text": "Cocoon Attack",
+      "translation": "Ataque Capullo",
+      "_offset": 1799436,
+      "_length": 13
+    },
+    {
+      "text": "Catastrophe Cannon",
+      "translation": "Cañón Catástrofe",
+      "_offset": 1799552,
+      "_length": 18
+    },
+    {
+      "text": "Tentacle Bug",
+      "translation": "Bicho Tentáculo",
+      "_offset": 1799668,
+      "_length": 12
+    },
+    {
+      "text": "Shock",
+      "translation": "Shock",
+      "_offset": 1799900,
+      "_length": 5
+    },
+    {
+      "text": "Heal",
+      "translation": "Cura",
+      "_offset": 1800016,
+      "_length": 4
+    },
+    {
+      "text": "Claw Attack",
+      "translation": "Garrazo",
+      "_offset": 1800132,
+      "_length": 11
+    },
+    {
+      "text": "Bit Fire",
+      "translation": "Fuego Bit",
+      "_offset": 1800248,
+      "_length": 8
+    },
+    {
+      "text": "Over Flame",
+      "translation": "Sobrellama",
+      "_offset": 1800364,
+      "_length": 10
+    },
+    {
+      "text": "Slash",
+      "translation": "Tajo",
+      "_offset": 1800480,
+      "_length": 5
+    },
+    {
+      "text": "Crush Nail",
+      "translation": "Uña Feroz",
+      "_offset": 1800596,
+      "_length": 10
+    },
+    {
+      "text": "Slamming Attack",
+      "translation": "Ataque Brutal",
+      "_offset": 1800712,
+      "_length": 15
+    },
+    {
+      "text": "Garuru Kick",
+      "translation": "Patada Garuru",
+      "_offset": 1800828,
+      "_length": 11
+    },
+    {
+      "text": "Metal Fang",
+      "translation": "Colmillo Metálico",
+      "_offset": 1800944,
+      "_length": 10
+    },
+    {
+      "text": "Spiral Wing",
+      "translation": "Ala Espiral",
+      "_offset": 1801060,
+      "_length": 11
+    },
+    {
+      "text": "Kick",
+      "translation": "Patada",
+      "_offset": 1801176,
+      "_length": 4
+    },
+    {
+      "text": "Crimson Claw",
+      "translation": "Zarpa Carmesí",
+      "_offset": 1801292,
+      "_length": 12
+    },
+    {
+      "text": "Wing Flutter",
+      "translation": "Aleteo Alar",
+      "_offset": 1801408,
+      "_length": 12
+    },
+    {
+      "text": "Scooping Punch",
+      "translation": "Puño Elevador",
+      "_offset": 1801524,
+      "_length": 14
+    },
+    {
+      "text": "Body Attack",
+      "translation": "Cuerpazo",
+      "_offset": 1801640,
+      "_length": 11
+    },
+    {
+      "text": "Kick",
+      "translation": "Patada",
+      "_offset": 1801756,
+      "_length": 4
+    },
+    {
+      "text": "Whip Attack",
+      "translation": "Latigazo",
+      "_offset": 1801872,
+      "_length": 11
+    },
+    {
+      "text": "Rolling Attack",
+      "translation": "Ataque Rodante",
+      "_offset": 1801988,
+      "_length": 14
+    },
+    {
+      "text": "Scratch",
+      "translation": "Arañazo",
+      "_offset": 1802104,
+      "_length": 7
+    },
+    {
+      "text": "Edge Toss",
+      "translation": "Lanza Filo",
+      "_offset": 1802220,
+      "_length": 9
+    },
+    {
+      "text": "Edge Toss Revised",
+      "translation": "Lanza Filo+",
+      "_offset": 1802336,
+      "_length": 17
+    },
+    {
+      "text": "Bubble Barrier",
+      "translation": "Barrera Burbuja",
+      "_offset": 1802452,
+      "_length": 14
+    },
+    {
+      "text": "Northern Lights",
+      "translation": "Aurora Boreal",
+      "_offset": 1802568,
+      "_length": 15
+    },
+    {
+      "text": "Thor's Hammer",
+      "translation": "Martillo Thor",
+      "_offset": 1802684,
+      "_length": 13
+    },
+    {
+      "text": "Mjolnir",
+      "translation": "Mjolnir",
+      "_offset": 1802800,
+      "_length": 7
+    },
+    {
+      "text": "Pretty Rush",
+      "translation": "Carga Bella",
+      "_offset": 1802916,
+      "_length": 11
+    },
+    {
+      "text": "Rod Strike",
+      "translation": "Golpe de Vara",
+      "_offset": 1803032,
+      "_length": 10
+    },
+    {
+      "text": "Soul Banish",
+      "translation": "Destierro",
+      "_offset": 1803148,
+      "_length": 11
+    },
+    {
+      "text": "Spiritual Energy Blast",
+      "translation": "Explosión Espiritual",
+      "_offset": 1803264,
+      "_length": 22
+    },
+    {
+      "text": "Scratch",
+      "translation": "Arañazo",
+      "_offset": 1803380,
+      "_length": 7
+    },
+    {
+      "text": "Holy Slap",
+      "translation": "Palmada",
+      "_offset": 1803496,
+      "_length": 9
+    },
+    {
+      "text": "Tail Crash",
+      "translation": "Colazo",
+      "_offset": 1803612,
+      "_length": 10
+    },
+    {
+      "text": "Eden's Needle",
+      "translation": "Aguja de Edén",
+      "_offset": 1803728,
+      "_length": 13
+    },
+    {
+      "text": "Sefirot Crystal",
+      "translation": "Cristal Sefirot",
+      "_offset": 1803844,
+      "_length": 15
+    },
+    {
+      "text": "Eden's Javelin",
+      "translation": "Jabalina del Edén",
+      "_offset": 1803960,
+      "_length": 14
+    },
+    {
+      "text": "Eden's Air",
+      "translation": "Aire del Edén",
+      "_offset": 1804076,
+      "_length": 10
+    },
+    {
+      "text": "Sword Attack",
+      "translation": "Espadazo",
+      "_offset": 1804192,
+      "_length": 12
+    },
+    {
+      "text": "Dark Nail",
+      "translation": "Uña Oscura",
+      "_offset": 1804308,
+      "_length": 9
+    },
+    {
+      "text": "Energy Shot",
+      "translation": "Disparo Energía",
+      "_offset": 1804424,
+      "_length": 11
+    },
+    {
+      "text": "Pollinosis Shower",
+      "translation": "Lluvia Alérgica",
+      "_offset": 1804540,
+      "_length": 17
+    },
+    {
+      "text": "Ivy Attack",
+      "translation": "Hiedrazo",
+      "_offset": 1804656,
+      "_length": 10
+    },
+    {
+      "text": "Cocoon Guard",
+      "translation": "Defensa Capullo",
+      "_offset": 1804772,
+      "_length": 12
+    },
+    {
+      "text": "Tentacle",
+      "translation": "Tentáculo",
+      "_offset": 1804888,
+      "_length": 8
+    },
+    {
+      "text": "Paradise Lost",
+      "translation": "Paraíso Perdido",
+      "_offset": 1805004,
+      "_length": 13
+    },
+    {
+      "text": "Full Out",
+      "translation": "A Tope",
+      "_offset": 1805120,
+      "_length": 8
+    },
+    {
+      "text": "Dark Crusher",
+      "translation": "Triturador Oscuro",
+      "_offset": 1805236,
+      "_length": 12
+    },
+    {
+      "text": "Starlight EX",
+      "translation": "Explosión Estelar",
+      "_offset": 1766492,
+      "_length": 12
+    },
+    {
+      "text": "FB Temptation",
+      "translation": "Tentación Prohibida",
+      "_offset": 1768116,
+      "_length": 13
+    },
+    {
+      "text": "H Disinfection",
+      "translation": "Desinfección Sagrada",
+      "_offset": 1771944,
+      "_length": 14
+    },
+    {
+      "text": "HP Capsule S",
+      "translation": "Cápsula HP S",
+      "_offset": 1805352,
+      "_length": 12
+    },
+    {
+      "text": "HP Capsule M",
+      "translation": "Cápsula HP M",
+      "_offset": 1805468,
+      "_length": 12
+    },
+    {
+      "text": "HP Capsule L",
+      "translation": "Cápsula HP L",
+      "_offset": 1805584,
+      "_length": 12
+    },
+    {
+      "text": "HP Capsule XL",
+      "translation": "Cápsula HP XL",
+      "_offset": 1805700,
+      "_length": 13
+    },
+    {
+      "text": "HP Disk S",
+      "translation": "Disco HP S",
+      "_offset": 1805816,
+      "_length": 9
+    },
+    {
+      "text": "HP Disk M",
+      "translation": "Disco HP M",
+      "_offset": 1805932,
+      "_length": 9
+    },
+    {
+      "text": "HP Disk L",
+      "translation": "Disco HP L",
+      "_offset": 1806048,
+      "_length": 9
+    },
+    {
+      "text": "HP Disk XL",
+      "translation": "Disco HP XL",
+      "_offset": 1806164,
+      "_length": 10
+    },
+    {
+      "text": "SP Capsule",
+      "translation": "Cápsula SP",
+      "_offset": 1806280,
+      "_length": 10
+    },
+    {
+      "text": "SP Capsule Ω",
+      "translation": "Cápsula SP Ω",
+      "_offset": 1806396,
+      "_length": 13
+    },
+    {
+      "text": "SP Disk",
+      "translation": "Disco SP",
+      "_offset": 1806512,
+      "_length": 7
+    },
+    {
+      "text": "SP Disk Ω",
+      "translation": "Disco SP Ω",
+      "_offset": 1806628,
+      "_length": 10
+    },
+    {
+      "text": "Red Eye",
+      "translation": "Ojo Rojo",
+      "_offset": 1785400,
+      "_length": 7
+    },
+    {
+      "text": "Clean Up",
+      "translation": "Limpieza",
+      "_offset": 1790736,
+      "_length": 8
+    },
+    {
+      "text": "Mis-connecting",
+      "translation": "Conexión Errónea",
+      "_offset": 1799204,
+      "_length": 14
+    },
+    {
+      "text": "Rise Up",
+      "translation": "Alzamiento",
+      "_offset": 1799784,
+      "_length": 7
+    },
+    {
+      "text": "Heal +",
+      "translation": "Cura +",
+      "_offset": 1811616,
+      "_length": 6
+    },
+    {
+      "text": "Cure-All",
+      "translation": "Cura Total",
+      "_offset": 1812428,
+      "_length": 8
+    },
+    {
+      "text": "Cure-All +",
+      "translation": "Cura Total +",
+      "_offset": 1812544,
+      "_length": 10
     }
   ]
 }

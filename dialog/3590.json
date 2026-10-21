@@ -1,958 +1,1205 @@
 {
   "file_id": "3590",
-  "text_count": 119,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 133,
   "dialog": [
     {
       "index": 0,
-      "english": "t get it, but whatever...",
-      "_offset": 0,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "...no lo pillo, en fin..."
+      "english": "Hey, Joe! What kind of gifts do\nyou like?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 9512,
+      "_bytes": 41,
+      "translation": "¡Eh, Joe! ¿Qué regalos te\ngustan?"
     },
     {
       "index": 1,
-      "english": "Yaaaaay! Joe, thank you!",
-      "_offset": 26,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Bieeen! Gracias, Joe!"
+      "english": "Where'd that come from?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 9554,
+      "_bytes": 23,
+      "translation": "¿Y eso a qué viene?"
     },
     {
       "index": 2,
-      "english": "We finally made it.",
-      "_offset": 51,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Por fin llegamos."
+      "english": "Well, I wanted to get the Marching\nFishes a present, 'cause they're\nalways helping me out.",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 9578,
+      "_bytes": 90,
+      "translation": "Es que quería hacerles un\nregalo a los Marching Fishes,\nque siempre me ayudan."
     },
     {
       "index": 3,
-      "english": "I wonder if any more Digimon are\ngonna attack us...",
-      "_offset": 71,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Me pregunto si nos atacarán\nmás Digimon..."
+      "english": "The Marching... you mean those\nlittle fish?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 9669,
+      "_bytes": 43,
+      "translation": "¿Los Marching... esos\npececillos?"
     },
     {
       "index": 4,
-      "english": "It's okay, we won't stick around\nfor long! Let's find as many\nDigiClams as we can!",
-      "_offset": 123,
-      "_length": 82,
-      "speaker_id": 0,
-      "translation": "Tranquilo, no nos quedaremos\nmucho! Busquemos todas las\nDigiAlmejas que podamos!"
+      "english": "Yeah, yeah! I wanted to show my\ngratitude and get them a present!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 9713,
+      "_bytes": 65,
+      "translation": "¡Sí, sí! ¡Quería darles las\ngracias con un regalo!"
     },
     {
       "index": 5,
-      "english": "Matt, I challenge you!",
-      "_offset": 206,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Matt, te reto!"
+      "english": "Hm, I'm not sure if I'm the one\nyou should be asking about this.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 9779,
+      "_bytes": 64,
+      "translation": "Mmm, no sé si soy el más\nindicado para esto."
     },
     {
       "index": 6,
-      "english": "Sounds fun. Bring it on!",
-      "_offset": 231,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Suena bien. Adelante!"
+      "english": "Okay, then if you can't come up \nwith anything better, why don't we\ngo find some DigiClams?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 9844,
+      "_bytes": 91,
+      "translation": "Vale, pues si no se te ocurre\nnada mejor, ¿por qué no\nbuscamos DigiAlmejas?"
     },
     {
       "index": 7,
-      "english": "Is it really okay to be taking all\nthese DigiClams?",
-      "_offset": 256,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Seguro que está bien llevarnos\ntantas DigiAlmejas?"
+      "english": "There's such a thing as\n\"DigiClams\"? Do they live near the\nocean, like normal clams?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 9936,
+      "_bytes": 84,
+      "translation": "¿Existen las \"DigiAlmejas\"?\n¿Viven en el mar, como las\nalmejas normales?"
     },
     {
       "index": 8,
-      "english": "Sure! Why don't we take about five\nmillion?",
-      "_offset": 308,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Claro! Por qué no cogemos\ncinco millones?"
+      "english": "DigiClams should be at sandy\nbeaches! Okay, Joe! Let's go to\nthe beach!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 10021,
+      "_bytes": 71,
+      "translation": "¡Las DigiAlmejas están en las\nplayas de arena! ¡Vamos, Joe!\n¡A la playa!"
     },
     {
       "index": 9,
-      "english": "F-f-five million?",
-      "_offset": 352,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "C-cinco millones?"
+      "english": "Huh? Right now?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 10093,
+      "_bytes": 15,
+      "translation": "¿Eh? ¿Ahora mismo?"
     },
     {
       "index": 10,
-      "english": "Hahaha, I'm kidding. You can't\ntake a joke at all!",
-      "_offset": 370,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Jajaja, es broma. No sabes\naguantar una broma!"
+      "english": "Hey, Joe! We're gonna get going\nsoon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10109,
+      "_bytes": 37,
+      "translation": "¡Eh, Joe! ¡Nos vamos ya!"
     },
     {
       "index": 11,
-      "english": "We're all working together, so I\nthink you'll only need to get\naround five or so!",
-      "_offset": 421,
-      "_length": 81,
-      "speaker_id": 0,
-      "translation": "Estamos todos juntos en esto,\nasí que con cinco o así\nbastará!"
+      "english": "Ah, Tai! Sorry, but can we go\nto the beach now?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 10147,
+      "_bytes": 50,
+      "translation": "¡Ah, Tai! Perdona, ¿pero\npodemos ir a la playa?"
     },
     {
       "index": 12,
-      "english": "Whew! Are these all the DigiClams?",
-      "_offset": 503,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Uf! Son todas las\nDigiAlmejas?"
+      "english": "What? We don't have time to go\nsunbathing!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10198,
+      "_bytes": 42,
+      "translation": "¿Qué? ¡No tenemos tiempo para\ntomar el sol!"
     },
     {
       "index": 13,
-      "english": "That's it! Thanks so much, Joe!",
-      "_offset": 538,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Eso es todo! Gracias, Joe!"
+      "english": "No, we have to! Gomamon's honor\ndepends on this passionate,\nheartfelt gift! As does mine!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 10241,
+      "_bytes": 89,
+      "translation": "¡Tenemos que ir! ¡El honor de\nGomamon depende de este\nregalo! ¡Y el mío también!"
     },
     {
       "index": 14,
-      "english": "We really found a lot, didn't we?",
-      "_offset": 570,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Encontramos un montón,\nverdad?"
+      "english": "I don't get it, but whatever...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10331,
+      "_bytes": 31,
+      "translation": "No lo pillo, pero vale..."
     },
     {
       "index": 15,
-      "english": "Yep! I bet the Marching Fishes\nwill be happy, too!",
-      "_offset": 604,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Sí! Seguro que los Marching\nFishes se alegran!"
+      "english": "Yaaaaay! Joe, thank you!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 10363,
+      "_bytes": 24,
+      "translation": "¡Bieeen! ¡Gracias, Joe!"
     },
     {
       "index": 16,
-      "english": "What's going on? Are Tai and\nMatt fighting? Let's check it\nout.",
-      "_offset": 655,
-      "_length": 68,
-      "speaker_id": 0,
-      "translation": "Qué pasa? Se están peleando\nTai y Matt? Vamos a ver."
+      "english": "We finally made it.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 10388,
+      "_bytes": 19,
+      "translation": "Por fin llegamos."
     },
     {
       "index": 17,
-      "english": "My DigiClams are bigger!",
-      "_offset": 724,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Las mías, más\ngrandes!"
+      "english": "I wonder if any more Digimon are\ngonna attack us...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10408,
+      "_bytes": 51,
+      "translation": "Me pregunto si nos atacarán\nmás Digimon..."
     },
     {
       "index": 18,
-      "english": "It's not the size that matters,\nit's the number you caught!",
-      "_offset": 749,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "No importa el tamaño, sino\ncuántas has cogido!"
+      "english": "It's okay, we won't stick around\nfor long! Let's find as many\nDigiClams as we can!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 10460,
+      "_bytes": 82,
+      "translation": "¡Tranquila, no nos quedaremos\nmucho! ¡Busquemos todas las\nDigiAlmejas que podamos!"
     },
     {
       "index": 19,
-      "english": "Size!",
-      "_offset": 809,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Talla"
+      "english": "Matt, I challenge you!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 10543,
+      "_bytes": 24,
+      "translation": "Matt, ¡te reto!"
     },
     {
       "index": 20,
-      "english": "Number!",
-      "_offset": 815,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Número!"
+      "english": "Sounds fun. Bring it on!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 10568,
+      "_bytes": 24,
+      "translation": "Suena bien. ¡Adelante!"
     },
     {
       "index": 21,
-      "english": "Stop! Let's not get ahead of\nourselves!",
-      "_offset": 823,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Parad! No nos precipitemos!"
+      "english": "Is it really okay to be taking all\nthese DigiClams?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 10593,
+      "_bytes": 51,
+      "translation": "¿Seguro que está bien llevarnos\ntantas DigiAlmejas?"
     },
     {
       "index": 22,
-      "english": "Okay, let's have Joe decide!",
-      "_offset": 863,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Vale, que decida Joe!"
+      "english": "Sure! Why don't we take about five\nmillion?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 10645,
+      "_bytes": 43,
+      "translation": "¡Claro! ¿Por qué no cogemos\ncinco millones?"
     },
     {
       "index": 23,
-      "english": "There's no other way to settle\nthis!",
-      "_offset": 892,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "No hay otra forma de\nresolver esto!"
+      "english": "F-f-five million?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 10689,
+      "_bytes": 17,
+      "translation": "¿C-cinco millones?"
     },
     {
       "index": 24,
-      "english": "Whoever found the biggest\nDigiClams is the winner, right?",
-      "_offset": 929,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Gana quien tenga las\nDigiAlmejas más grandes, no?"
+      "english": "Hahaha, I'm kidding. You can't\ntake a joke at all!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 10707,
+      "_bytes": 50,
+      "translation": "Jajaja, es broma. ¡No sabes\naguantar una broma!"
     },
     {
       "index": 25,
-      "english": "Joe! Shouldn't the winner be the\none who gathered more?",
-      "_offset": 987,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Joe! No debería ganar quien\nrecogió más?"
+      "english": "We're all working together, so I\nthink you'll only need to get\naround five or so!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 10758,
+      "_bytes": 81,
+      "translation": "¡Estamos todos juntos en esto,\nasí que con cinco o así\nbastará!"
     },
     {
       "index": 26,
-      "english": "Um...",
-      "_offset": 1043,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Eh..."
+      "english": "Whew! Are these all the DigiClams?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 10840,
+      "_bytes": 34,
+      "translation": "¡Uf! ¿Son todas las DigiAlmejas?"
     },
     {
       "index": 27,
-      "english": "Tai's the winner!",
-      "_offset": 1049,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Tai gana!"
+      "english": "That's it! Thanks so much, Joe!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 10875,
+      "_bytes": 31,
+      "translation": "¡Eso es todo! ¡Gracias, Joe!"
     },
     {
       "index": 28,
-      "english": "Matt's the winner!",
-      "_offset": 1070,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Matt gana!"
+      "english": "We really found a lot, didn't we?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 10907,
+      "_bytes": 33,
+      "translation": "Encontramos un montón, ¿verdad?"
     },
     {
       "index": 29,
-      "english": "It's a tie!",
-      "_offset": 1091,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Empate!"
+      "english": "Yep! I bet the Marching Fishes\nwill be happy, too!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 10941,
+      "_bytes": 50,
+      "translation": "¡Sí! ¡Seguro que los Marching\nFishes se alegran!"
     },
     {
       "index": 30,
-      "english": "All right!",
-      "_offset": 1103,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Muy bien!"
+      "english": "What's going on? Are Tai and\nMatt fighting? Let's check it\nout.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 10992,
+      "_bytes": 68,
+      "translation": "¿Qué pasa? ¿Se están peleando\nTai y Matt? Vamos a ver."
     },
     {
       "index": 31,
-      "english": "No way...",
-      "_offset": 1114,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Venga ya"
+      "english": "My DigiClams are bigger!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11061,
+      "_bytes": 24,
+      "translation": "¡Las mías, más grandes!"
     },
     {
       "index": 32,
-      "english": "See?",
-      "_offset": 1124,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Ves?"
+      "english": "It's not the size that matters,\nit's the number you caught!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 11086,
+      "_bytes": 59,
+      "translation": "¡No importa el tamaño, sino\ncuántas has cogido!"
     },
     {
       "index": 33,
-      "english": "Whaaaaat?!",
-      "_offset": 1129,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Quéeee?!"
+      "english": "Size!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11146,
+      "_bytes": 5,
+      "translation": "¡Tamaño!"
     },
     {
       "index": 34,
-      "english": "That can't be right.",
-      "_offset": 1140,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Eso no puede ser."
+      "english": "Number!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 11152,
+      "_bytes": 7,
+      "translation": "¡Número!"
     },
     {
       "index": 35,
-      "english": "Hmmmm...",
-      "_offset": 1161,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Mmmmm..."
+      "english": "Stop! Let's not get ahead of\nourselves!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 11160,
+      "_bytes": 39,
+      "translation": "¡Parad! ¡No nos precipitemos!"
     },
     {
       "index": 36,
-      "english": "(Both of them look\ndisappointed...)",
-      "_offset": 1170,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "(Los dos parecen\ndecepcionados...)"
+      "english": "Okay, let's have Joe decide!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11200,
+      "_bytes": 28,
+      "translation": "¡Vale, que decida Joe!"
     },
     {
       "index": 37,
-      "english": "Wait! Something's coming!",
-      "_offset": 1206,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Espera! Algo se acerca!"
+      "english": "There's no other way to settle\nthis!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 11229,
+      "_bytes": 36,
+      "translation": "¡No hay otra forma de\nresolver esto!"
     },
     {
       "index": 38,
-      "english": "Ah!",
-      "_offset": 1232,
-      "_length": 3,
-      "speaker_id": 0,
-      "translation": "Ah!"
+      "english": "Whoever found the biggest\nDigiClams is the winner, right?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11266,
+      "_bytes": 57,
+      "translation": "Gana quien tenga las\nDigiAlmejas más grandes, ¿no?"
     },
     {
       "index": 39,
-      "english": "There *were* Digimon here after\nall!",
-      "_offset": 1236,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Sí había Digimon, al\nfinal!"
+      "english": "Joe! Shouldn't the winner be the\none who gathered more?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 11324,
+      "_bytes": 55,
+      "translation": "¡Joe! ¿No debería ganar quien\nrecogió más?"
     },
     {
       "index": 40,
-      "english": "They came because they smelled the\nDigiClams!",
-      "_offset": 1273,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Vinieron porque olieron las\nDigiAlmejas!"
+      "english": "Um...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 11380,
+      "_bytes": 5,
+      "translation": "Eh..."
     },
     {
       "index": 41,
-      "english": "Let's fight for 'em!",
-      "_offset": 1319,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Luchemos por ellas!"
+      "english": "Tai's the winner!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 11386,
+      "_bytes": 20,
+      "translation": "¡Tai gana!"
     },
     {
       "index": 42,
-      "english": "Whew. We managed to fight them\noff... Hey, Gomamon, look at all\nthe DigiClams we gathered!",
-      "_offset": 1340,
-      "_length": 90,
-      "speaker_id": 0,
-      "translation": "Uf. Conseguimos ahuyentarlos...\nOye, Gomamon, mira todas las\nDigiAlmejas que reunimos!"
+      "english": "Matt's the winner!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 11407,
+      "_bytes": 20,
+      "translation": "¡Matt gana!"
     },
     {
       "index": 43,
-      "english": "Thank you, Joe! Guys! I bet the\nMarching Fishes will be really\nhappy!",
-      "_offset": 1431,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Gracias, Joe! Chicos! Seguro\nque los Marching Fishes se\nalegran!"
+      "english": "It's a tie!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 11428,
+      "_bytes": 11,
+      "translation": "¡Empate!"
     },
     {
       "index": 44,
-      "english": "...Joe and Gomamon's happy faces\nmake me feel kinda stupid for\ngetting into that fight.",
-      "_offset": 1501,
-      "_length": 87,
-      "speaker_id": 0,
-      "translation": "...Ver felices a Joe y Gomamon\nme hace sentir tonto por\nhaberme peleado."
+      "english": "All right!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11440,
+      "_bytes": 10,
+      "translation": "¡Muy bien!"
     },
     {
       "index": 45,
-      "english": "It was my fault! I'm sorry.",
-      "_offset": 1589,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Fue culpa mía! Lo siento."
+      "english": "No way...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 11451,
+      "_bytes": 9,
+      "translation": "Venga ya..."
     },
     {
       "index": 46,
-      "english": "My bad too. I'm sorry.",
-      "_offset": 1617,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Yo también. Lo siento."
+      "english": "See?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 11461,
+      "_bytes": 4,
+      "translation": "¿Ves?"
     },
     {
       "index": 47,
-      "english": "Joe, you said that they tied\nbecause you didn't want them to\nfight, didn't you?",
-      "_offset": 1640,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "Joe, dijiste que empataron\nporque no querías que\npelearan, verdad?"
+      "english": "Whaaaaat?!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11466,
+      "_bytes": 10,
+      "translation": "¡¿Quéeee?!"
     },
     {
       "index": 48,
-      "english": "Hm? Well, yeah, that's basically\nit.",
-      "_offset": 1720,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Eh? Bueno, sí, más o menos\nes eso."
+      "english": "That can't be right.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11477,
+      "_bytes": 20,
+      "translation": "Eso no puede ser."
     },
     {
       "index": 49,
-      "english": "You're amazing, Joe!",
-      "_offset": 1757,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Eres genial, Joe!"
+      "english": "Hmmmm...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 11498,
+      "_bytes": 8,
+      "translation": "Mmmmm..."
     },
     {
       "index": 50,
-      "english": "You can only get DigiClams at\nsandy beaches!",
-      "_offset": 1778,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Solo hay DigiAlmejas en\nplayas de arena!"
+      "english": "(Both of them look\ndisappointed...)",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 11507,
+      "_bytes": 35,
+      "translation": "(Los dos parecen\ndecepcionados...)"
     },
     {
       "index": 51,
-      "english": "Joe!",
-      "_offset": 1823,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Joe!"
+      "english": "Wait! Something's coming!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 11543,
+      "_bytes": 25,
+      "translation": "¡Espera! ¡Algo se acerca!"
     },
     {
       "index": 52,
-      "english": "What's up, T.K?",
-      "_offset": 1828,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Qué pasa, T.K?"
+      "english": "Ah!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 11569,
+      "_bytes": 3,
+      "translation": "¡Ah!"
     },
     {
       "index": 53,
-      "english": "I found this while we were looking\nfor DigiClams. I'll let you have\nit, Joe.",
-      "_offset": 1847,
-      "_length": 76,
-      "speaker_id": 0,
-      "translation": "Encontré esto buscando\nDigiAlmejas. Te lo doy a\nti, Joe."
+      "english": "There *were* Digimon here after\nall!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 11573,
+      "_bytes": 36,
+      "translation": "¡Sí había Digimon, al\nfinal!"
     },
     {
       "index": 54,
-      "english": "I found this. I'll let you have\nit, Joe.",
-      "_offset": 1924,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Encontré esto. Te lo doy\na ti, Joe."
+      "english": "They came because they smelled the\nDigiClams!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 11610,
+      "_bytes": 45,
+      "translation": "¡Vinieron porque olieron las\nDigiAlmejas!"
     },
     {
       "index": 55,
-      "english": "Ah, thank you so much!",
-      "_offset": 1965,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Ah, muchas gracias!"
+      "english": "Let's fight for 'em!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 11656,
+      "_bytes": 20,
+      "translation": "¡Luchemos por ellas!"
     },
     {
       "index": 56,
-      "english": "No problem, it's my thanks to you\nfor stopping that fight!",
-      "_offset": 1988,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "De nada, es mi forma de\nagradecerte que pararas la\npelea!"
+      "english": "Whew. We managed to fight them\noff... Hey, Gomamon, look at all\nthe DigiClams we gathered!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 11677,
+      "_bytes": 90,
+      "translation": "Uf. Conseguimos ahuyentarlos...\n¡Oye, Gomamon, mira todas las\nDigiAlmejas que reunimos!"
     },
     {
       "index": 57,
-      "english": "Obtained a DigiClam!",
-      "_offset": 2047,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "DigiAlmeja obtenida!"
+      "english": "Thank you, Joe! Guys! I bet the\nMarching Fishes will be really\nhappy!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 11768,
+      "_bytes": 69,
+      "translation": "¡Gracias, Joe! ¡Chicos! ¡Seguro\nque los Marching Fishes se\nalegran!"
     },
     {
       "index": 58,
-      "english": "Hey, Joe, how's Matt doing?",
-      "_offset": 2068,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Oye, Joe, cómo va Matt?"
+      "english": "...Joe and Gomamon's happy faces\nmake me feel kinda stupid for\ngetting into that fight.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 11838,
+      "_bytes": 87,
+      "translation": "...Ver felices a Joe y Gomamon\nme hace sentir tonto por\nhaberme peleado."
     },
     {
       "index": 59,
-      "english": "I mean, I'm just curious!",
-      "_offset": 2098,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Bueno, es solo curiosidad"
+      "english": "It was my fault! I'm sorry.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 11926,
+      "_bytes": 27,
+      "translation": "¡Fue culpa mía! Lo siento."
     },
     {
       "index": 60,
-      "english": "We're in a contest, after all.\nAsking for help is basically\ncheating.",
-      "_offset": 2124,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Al fin y al cabo, es una\ncompetición. Pedir ayuda es\ncasi trampa."
+      "english": "My bad too. I'm sorry.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 11954,
+      "_bytes": 22,
+      "translation": "Yo también. Lo siento."
     },
     {
       "index": 61,
-      "english": "I'll win, I'll definitely win...\n*mumble*",
-      "_offset": 2194,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Voy a ganar, seguro que\ngano... (murmura)"
+      "english": "Joe, you said that they tied\nbecause you didn't want them to\nfight, didn't you?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 11977,
+      "_bytes": 79,
+      "translation": "Joe, dijiste que empataron\nporque no querías que\npelearan, ¿verdad?"
     },
     {
       "index": 62,
-      "english": "Nice job, Matt! What amazing\nconcentration!",
-      "_offset": 2236,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Bien hecho, Matt! Qué\nconcentración!"
+      "english": "Hm? Well, yeah, that's basically\nit.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 12057,
+      "_bytes": 36,
+      "translation": "¿Eh? Bueno, sí, más o menos\nes eso."
     },
     {
       "index": 63,
-      "english": "I mean, I know it's a thank-you\ngift, but I've never heard of\nDigiClams...",
-      "_offset": 2282,
-      "_length": 74,
-      "speaker_id": 0,
-      "translation": "Sé que es un regalo, pero\nnunca oí hablar de las\nDigiAlmejas..."
+      "english": "You're amazing, Joe!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12094,
+      "_bytes": 20,
+      "translation": "¡Eres genial, Joe!"
     },
     {
       "index": 64,
-      "english": "We really aren't in Japan after\nall, huh.",
-      "_offset": 2357,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Desde luego, esto no es\nJapón, eh."
+      "english": "You can only get DigiClams at\nsandy beaches!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 12115,
+      "_bytes": 44,
+      "translation": "¡Solo hay DigiAlmejas en\nplayas de arena!"
     },
     {
       "index": 65,
-      "english": "The sea breeze is bad for\nprecision machinery...",
-      "_offset": 2399,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "La brisa marina es mala\npara mi maquinaria..."
+      "english": "Joe!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12160,
+      "_bytes": 4,
+      "translation": "¡Joe!"
     },
     {
       "index": 66,
-      "english": "Why didn't you leave your computer\nbehind?",
-      "_offset": 2448,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Por qué no dejaste el\nordenador en casa?"
+      "english": "What's up, T.K?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 12165,
+      "_bytes": 18,
+      "translation": "¿Qué pasa, T.K.?"
     },
     {
       "index": 67,
-      "english": "I'm worried it'll break if I'm not\nwatching it...",
-      "_offset": 2491,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Me preocupa que se rompa si\nno lo vigilo..."
+      "english": "I found this while we were looking\nfor DigiClams. I'll let you have\nit, Joe.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12184,
+      "_bytes": 76,
+      "translation": "Encontré esto buscando\nDigiAlmejas. Te lo doy a\nti, Joe."
     },
     {
       "index": 68,
-      "english": "The sea breeze feels so good...",
-      "_offset": 2541,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Qué gusto da la brisa\nmarina..."
+      "english": "I found this. I'll let you have\nit, Joe.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12261,
+      "_bytes": 40,
+      "translation": "Encontré esto. Te lo doy\na ti, Joe."
     },
     {
       "index": 69,
-      "english": "Looks like someone's having fun,\nunlike a certain someone who likes\nto get all high and mighty.",
-      "_offset": 2573,
-      "_length": 95,
-      "speaker_id": 0,
-      "translation": "Parece que alguien se lo\npasa bien, a diferencia de\ncierta persona tan sabionda."
+      "english": "Ah, thank you so much!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 12302,
+      "_bytes": 22,
+      "translation": "¡Ah, muchas gracias!"
     },
     {
       "index": 70,
-      "english": "Hey! I'm doing my best, you know!",
-      "_offset": 2669,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Eh! Yo hago lo que puedo!"
+      "english": "No problem, it's my thanks to you\nfor stopping that fight!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12325,
+      "_bytes": 58,
+      "translation": "¡De nada, es mi forma de\nagradecerte que pararas la\npelea!"
     },
     {
       "index": 71,
-      "english": "T.Kuu! Look, look, it's a\nDigiStarfish!",
-      "_offset": 2703,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "T.Kuu! Mira, mira, una\nDigiEstrella!"
+      "english": "Obtained a DigiClam!",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 12384,
+      "_bytes": 20,
+      "translation": "¡DigiAlmeja obtenida!"
     },
     {
       "index": 72,
-      "english": "Whoaaaaa! Wow!",
-      "_offset": 2746,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Oooooh! Guau!"
+      "english": "Hey, Joe, how's Matt doing?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12405,
+      "_bytes": 29,
+      "translation": "Oye, Joe, ¿cómo va Matt?"
     },
     {
       "index": 73,
-      "english": "Whoaaaaa! Wow!",
-      "_offset": 2761,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Oooooh! Guau!"
+      "english": "I mean, I'm just curious!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12435,
+      "_bytes": 25,
+      "translation": "Bueno, es solo curiosidad."
     },
     {
       "index": 74,
-      "english": "Whoaaaaa! Wow!",
-      "_offset": 2776,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Oooooh! Guau!"
+      "english": "We're in a contest, after all.\nAsking for help is basically\ncheating.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 12461,
+      "_bytes": 69,
+      "translation": "Al fin y al cabo, es una\ncompetición. Pedir ayuda es\ncasi trampa."
     },
     {
       "index": 75,
-      "english": "Those two are totally fixated by\nthe seashore. Are they even\nlooking for DigiClams?",
-      "_offset": 2791,
-      "_length": 83,
-      "speaker_id": 0,
-      "translation": "Esos dos están fascinados\ncon la orilla. Están\nbuscando DigiAlmejas o qué?"
+      "english": "I'll win, I'll definitely win...\n*mumble*",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 12531,
+      "_bytes": 41,
+      "translation": "Voy a ganar, seguro que\ngano... (murmura)"
     },
     {
       "index": 76,
-      "english": "Seriously!",
-      "_offset": 2875,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "En serio!"
+      "english": "Nice job, Matt! What amazing\nconcentration!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 12573,
+      "_bytes": 45,
+      "translation": "¡Bien hecho, Matt! ¡Qué\nconcentración!"
     },
     {
       "index": 77,
-      "english": "Hey, Joe. Why is ocean water\nsalty?",
-      "_offset": 2886,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Oye, Joe. Por qué el mar\nes salado?"
+      "english": "I mean, I know it's a thank-you\ngift, but I've never heard of\nDigiClams...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12619,
+      "_bytes": 74,
+      "translation": "Sé que es un regalo, pero\nnunca oí hablar de las\nDigiAlmejas..."
     },
     {
       "index": 78,
-      "english": "Because of the salt flow from land.",
-      "_offset": 2922,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Por la sal que viene de\ntierra."
+      "english": "We really aren't in Japan after\nall, huh.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 12694,
+      "_bytes": 41,
+      "translation": "Desde luego, esto no es\nJapón, eh."
     },
     {
       "index": 79,
-      "english": "Because the ocean contains salt.",
-      "_offset": 2958,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Porque el mar contiene sal."
+      "english": "The sea breeze is bad for\nprecision machinery...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 12736,
+      "_bytes": 48,
+      "translation": "La brisa marina es mala\npara mi maquinaria..."
     },
     {
       "index": 80,
-      "english": "It's because salt flows into the\nsea from the land!",
-      "_offset": 2991,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Es porque la sal llega al\nmar desde la tierra!"
+      "english": "Why didn't you leave your computer\nbehind?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 12785,
+      "_bytes": 42,
+      "translation": "¿Por qué no dejaste el\nordenador en casa?"
     },
     {
       "index": 81,
-      "english": "Then how come river water isn't\nall that salty?",
-      "_offset": 3043,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Entonces por qué el río no\nes tan salado?"
+      "english": "I'm worried it'll break if I'm not\nwatching it...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 12828,
+      "_bytes": 49,
+      "translation": "Me preocupa que se rompa si\nno lo vigilo..."
     },
     {
       "index": 82,
-      "english": "Now that you mention it, you might\nbe right...",
-      "_offset": 3091,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Ahora que lo dices, puede\nque tengas razón..."
+      "english": "The sea breeze feels so good...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 12878,
+      "_bytes": 31,
+      "translation": "Qué gusto da la brisa marina..."
     },
     {
       "index": 83,
-      "english": "Come on, Joe...",
-      "_offset": 3138,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Venga, Joe..."
+      "english": "Looks like someone's having fun,\nunlike a certain someone who likes\nto get all high and mighty.",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 12910,
+      "_bytes": 95,
+      "translation": "Parece que alguien se lo\npasa bien, a diferencia de\ncierta persona tan sabionda."
     },
     {
       "index": 84,
-      "english": "It's because the ocean contains\ndissolved salt.",
-      "_offset": 3154,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Es porque el mar contiene\nsal disuelta."
+      "english": "Hey! I'm doing my best, you know!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13006,
+      "_bytes": 33,
+      "translation": "¡Eh! ¡Yo hago lo que puedo!"
     },
     {
       "index": 85,
-      "english": "But what about rain and river\nwater flowing in? Wouldn't that\ndilute it?",
-      "_offset": 3202,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "Pero y la lluvia y los ríos\nque desembocan? No lo\ndiluiría eso?"
+      "english": "T.Kuu! Look, look, it's a\nDigiStarfish!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 13040,
+      "_bytes": 42,
+      "translation": "¡T.K.! ¡Mira, mira, una\nDigiEstrella!"
     },
     {
       "index": 86,
-      "english": "True, but moisture evaporates from \nthe ocean's surface. If you're\ncurious, I'll lend you my book.",
-      "_offset": 3275,
-      "_length": 98,
-      "speaker_id": 0,
-      "translation": "Cierto, el agua se evapora\ndel mar. Si tienes curiosidad,\nte presto el libro."
+      "english": "Whoaaaaa! Wow!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 13083,
+      "_bytes": 14,
+      "translation": "¡Oooooh! ¡Guau!"
     },
     {
       "index": 87,
-      "english": "Thanks! I'll check it out!",
-      "_offset": 3374,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Gracias! Lo miraré"
+      "english": "Whoaaaaa! Wow!",
+      "speaker_id": 9901,
+      "line_type": 2,
+      "_offset": 13098,
+      "_bytes": 14,
+      "translation": "¡Oooooh! ¡Guau!"
     },
     {
       "index": 88,
-      "english": "I've never heard of DigiClams\nbefore...",
-      "_offset": 3401,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Nunca oí hablar de las\nDigiAlmejas..."
+      "english": "Whoaaaaa! Wow!",
+      "speaker_id": 9901,
+      "line_type": 2,
+      "_offset": 13113,
+      "_bytes": 14,
+      "translation": "¡Oooooh! ¡Guau!"
     },
     {
       "index": 89,
-      "english": "Me too. I wonder if they're like\nnormal clams?",
-      "_offset": 3441,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Yo tampoco. Serán como las\nalmejas normales?"
+      "english": "Those two are totally fixated by\nthe seashore. Are they even\nlooking for DigiClams?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13128,
+      "_bytes": 83,
+      "translation": "Esos dos están fascinados\ncon la orilla. ¿Están\nbuscando DigiAlmejas o qué?"
     },
     {
       "index": 90,
-      "english": "What do clams look like?",
-      "_offset": 3488,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Cómo son las almejas?"
+      "english": "Seriously!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 13212,
+      "_bytes": 10,
+      "translation": "¡En serio!"
     },
     {
       "index": 91,
-      "english": "Try to answer it yourself",
-      "_offset": 3513,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Intenta responder tú"
+      "english": "Hey, Joe. Why is ocean water\nsalty?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 13223,
+      "_bytes": 35,
+      "translation": "Oye, Joe. ¿Por qué el mar\nes salado?"
     },
     {
       "index": 92,
-      "english": "Ask an expert",
-      "_offset": 3539,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Un experto"
+      "english": "Because of the salt flow from land.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 13259,
+      "_bytes": 35,
+      "translation": "Por la sal que viene de tierra."
     },
     {
       "index": 93,
-      "english": "They're shellfish with two sides,\nand they have a zigzag pattern.",
-      "_offset": 3553,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Son mariscos con dos\nvalvas, con un patrón en\nzigzag."
+      "english": "Because the ocean contains salt.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 13295,
+      "_bytes": 32,
+      "translation": "Porque el mar contiene sal."
     },
     {
       "index": 94,
-      "english": "Aren't those scallops?",
-      "_offset": 3619,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Eso no son vieiras?"
+      "english": "It's because salt flows into the\nsea from the land!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13328,
+      "_bytes": 51,
+      "translation": "¡Es porque la sal llega al\nmar desde la tierra!"
     },
     {
       "index": 95,
-      "english": "Huh? I was so sure those were\nclams...",
-      "_offset": 3642,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Eh? Creía que eran\nalmejas..."
+      "english": "Then how come river water isn't\nall that salty?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 13380,
+      "_bytes": 47,
+      "translation": "¿Entonces por qué el río no\nes tan salado?"
     },
     {
       "index": 96,
-      "english": "You're pretty unreliable...",
-      "_offset": 3681,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Qué poco fiable eres..."
+      "english": "Now that you mention it, you might\nbe right...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13428,
+      "_bytes": 46,
+      "translation": "Ahora que lo dices, puede\nque tengas razón..."
     },
     {
       "index": 97,
-      "english": "Let's ask Gomamon.",
-      "_offset": 3709,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Lo sabrá Gomamon"
+      "english": "Come on, Joe...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 13475,
+      "_bytes": 15,
+      "translation": "Venga, Joe..."
     },
     {
       "index": 98,
-      "english": "So there are things even you don't\nknow...",
-      "_offset": 3728,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Así que hay cosas que ni\ntú sabes..."
+      "english": "It's because the ocean contains\ndissolved salt.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13491,
+      "_bytes": 47,
+      "translation": "Es porque el mar contiene\nsal disuelta."
     },
     {
       "index": 99,
-      "english": "It's better to get a definitive\nanswer from an expert than to rely\non incomplete knowledge.",
-      "_offset": 3771,
-      "_length": 91,
-      "speaker_id": 0,
-      "translation": "Es mejor una respuesta clara\nde un experto que fiarse de un\nconocimiento a medias."
+      "english": "But what about rain and river\nwater flowing in? Wouldn't that\ndilute it?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 13539,
+      "_bytes": 72,
+      "translation": "¿Pero y la lluvia y los ríos\nque desembocan? ¿No lo\ndiluiría eso?"
     },
     {
       "index": 100,
-      "english": "So that's how you think!",
-      "_offset": 3863,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Así que piensas así!"
+      "english": "True, but moisture evaporates from \nthe ocean's surface. If you're\ncurious, I'll lend you my book.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13612,
+      "_bytes": 98,
+      "translation": "Cierto, el agua se evapora\ndel mar. Si tienes curiosidad,\nte presto el libro."
     },
     {
       "index": 101,
-      "english": "Hey, Mimi, why aren't you looking\nfor DigiClams too?",
-      "_offset": 3888,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Oye, Mimi, por qué no\nbuscas tú también\nDigiAlmejas?"
+      "english": "Thanks! I'll check it out!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 13711,
+      "_bytes": 26,
+      "translation": "¡Gracias! Lo miraré."
     },
     {
       "index": 102,
-      "english": "I refuse! If I do that, I'll get\ndirty!",
-      "_offset": 3941,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Me niego! Si hago eso, me\nensucio!"
+      "english": "I've never heard of DigiClams\nbefore...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 13738,
+      "_bytes": 39,
+      "translation": "Nunca oí hablar de las\nDigiAlmejas..."
     },
     {
       "index": 103,
-      "english": "Then you can't have dinner today!",
-      "_offset": 3981,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Pues hoy no cenas!"
+      "english": "Me too. I wonder if they're like\nnormal clams?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13778,
+      "_bytes": 46,
+      "translation": "Yo tampoco. ¿Serán como las\nalmejas normales?"
     },
     {
       "index": 104,
-      "english": "I'll reward you if you help out.",
-      "_offset": 4015,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Te recompensaré si ayudas."
+      "english": "What do clams look like?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 13825,
+      "_bytes": 24,
+      "translation": "¿Cómo son las almejas?"
     },
     {
       "index": 105,
-      "english": "If you don't help out, I won't let\nyou have anything to eat!",
-      "_offset": 4048,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Si no ayudas, no te dejaré\ncomer nada!"
+      "english": "Try to answer it yourself",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 13850,
+      "_bytes": 25,
+      "translation": "Intenta responder tú"
     },
     {
       "index": 106,
-      "english": "Huh? I'm the one in charge of\ndinner today.",
-      "_offset": 4109,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Eh? Hoy me toca a mí\npreparar la cena."
+      "english": "Ask an expert",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 13876,
+      "_bytes": 13,
+      "translation": "Pregunta a un experto"
     },
     {
       "index": 107,
-      "english": "So *you* won't get any dinner,\nJoe!",
-      "_offset": 4153,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Pues tú tampoco cenas,\nJoe!"
+      "english": "They're shellfish with two sides,\nand they have a zigzag pattern.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13890,
+      "_bytes": 65,
+      "translation": "Son mariscos con dos\nvalvas, con un patrón en\nzigzag."
     },
     {
       "index": 108,
-      "english": "N-no way. I'm sorry... please\nforget about this whole \"going\nwithout dinner\" thing...",
-      "_offset": 4189,
-      "_length": 85,
-      "speaker_id": 0,
-      "translation": "N-no puede ser. Lo siento...\nolvidad todo esto de\n\"quedarse sin cenar\"..."
+      "english": "Aren't those scallops?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 13956,
+      "_bytes": 22,
+      "translation": "¿Eso no son vieiras?"
     },
     {
       "index": 109,
-      "english": "Heehee!",
-      "_offset": 4275,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Jeje!"
+      "english": "Huh? I was so sure those were\nclams...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 13979,
+      "_bytes": 38,
+      "translation": "¿Eh? Creía que eran\nalmejas..."
     },
     {
       "index": 110,
-      "english": "Huh, a reward?",
-      "_offset": 4283,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Eh, un premio?"
+      "english": "You're pretty unreliable...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 14018,
+      "_bytes": 27,
+      "translation": "Qué poco fiable eres..."
     },
     {
       "index": 111,
-      "english": "I'll give you some fruit that I\npicked up on the way here.",
-      "_offset": 4298,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Te daré fruta que recogí\nde camino hasta aquí."
+      "english": "Let's ask Gomamon.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14046,
+      "_bytes": 18,
+      "translation": "Preguntemos a Gomamon."
     },
     {
       "index": 112,
-      "english": "Fruit, huh? Not a bad offer, Joe!",
-      "_offset": 4357,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Fruta, eh? No está mal,\nJoe!"
+      "english": "So there are things even you don't\nknow...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 14065,
+      "_bytes": 42,
+      "translation": "Así que hay cosas que ni\ntú sabes..."
     },
     {
       "index": 113,
-      "english": "But you *have* to help out.",
-      "_offset": 4391,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Pero tienes que ayudar."
+      "english": "It's better to get a definitive\nanswer from an expert than to rely\non incomplete knowledge.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14108,
+      "_bytes": 91,
+      "translation": "Es mejor una respuesta clara\nde un experto que fiarse de un\nconocimiento a medias."
     },
     {
       "index": 114,
-      "english": "Okaaaaay!",
-      "_offset": 4419,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Valeee!"
+      "english": "So that's how you think!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 14200,
+      "_bytes": 24,
+      "translation": "¡Así que piensas así!"
     },
     {
       "index": 115,
-      "english": "Okay, only four left!",
-      "_offset": 4429,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Vale, quedan cuatro!"
+      "english": "Hey, Mimi, why aren't you looking\nfor DigiClams too?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14225,
+      "_bytes": 52,
+      "translation": "Oye, Mimi, ¿por qué no\nbuscas tú también\nDigiAlmejas?"
     },
     {
       "index": 116,
-      "english": "Only three left, Joe!",
-      "_offset": 4451,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Quedan tres, Joe!"
+      "english": "I refuse! If I do that, I'll get\ndirty!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 14278,
+      "_bytes": 39,
+      "translation": "¡Me niego! ¡Si hago eso, me\nensucio!"
     },
     {
       "index": 117,
-      "english": "Only two left! I'm getting the\nhang of it!",
-      "_offset": 4473,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Quedan dos! Ya le voy\npillando el truco!"
+      "english": "Then you can't have dinner today!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 14318,
+      "_bytes": 33,
+      "translation": "¡Pues hoy no cenas!"
     },
     {
       "index": 118,
+      "english": "I'll reward you if you help out.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 14352,
+      "_bytes": 32,
+      "translation": "Te recompensaré si ayudas."
+    },
+    {
+      "index": 119,
+      "english": "If you don't help out, I won't let\nyou have anything to eat!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14385,
+      "_bytes": 60,
+      "translation": "¡Si no ayudas, no te dejaré\ncomer nada!"
+    },
+    {
+      "index": 120,
+      "english": "Huh? I'm the one in charge of\ndinner today.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 14446,
+      "_bytes": 43,
+      "translation": "¿Eh? Hoy me toca a mí\npreparar la cena."
+    },
+    {
+      "index": 121,
+      "english": "So *you* won't get any dinner,\nJoe!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 14490,
+      "_bytes": 35,
+      "translation": "¡Pues tú tampoco cenas,\nJoe!"
+    },
+    {
+      "index": 122,
+      "english": "N-no way. I'm sorry... please\nforget about this whole \"going\nwithout dinner\" thing...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14526,
+      "_bytes": 85,
+      "translation": "N-no puede ser. Lo siento...\nolvida todo esto de\n\"quedarse sin cenar\"..."
+    },
+    {
+      "index": 123,
+      "english": "Heehee!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 14612,
+      "_bytes": 7,
+      "translation": "¡Jeje!"
+    },
+    {
+      "index": 124,
+      "english": "Huh, a reward?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 14620,
+      "_bytes": 14,
+      "translation": "Eh, ¿un premio?"
+    },
+    {
+      "index": 125,
+      "english": "I'll give you some fruit that I\npicked up on the way here.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14635,
+      "_bytes": 58,
+      "translation": "Te daré fruta que recogí\nde camino hasta aquí."
+    },
+    {
+      "index": 126,
+      "english": "Fruit, huh? Not a bad offer, Joe!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 14694,
+      "_bytes": 33,
+      "translation": "Fruta, ¿eh? ¡No está mal, Joe!"
+    },
+    {
+      "index": 127,
+      "english": "But you *have* to help out.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14728,
+      "_bytes": 27,
+      "translation": "Pero tienes que ayudar."
+    },
+    {
+      "index": 128,
+      "english": "Okaaaaay!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 14756,
+      "_bytes": 9,
+      "translation": "¡Valeee!"
+    },
+    {
+      "index": 129,
+      "english": "Okay, only four left!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14766,
+      "_bytes": 21,
+      "translation": "¡Vale, quedan cuatro!"
+    },
+    {
+      "index": 130,
+      "english": "Only three left, Joe!",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 14788,
+      "_bytes": 21,
+      "translation": "¡Quedan tres, Joe!"
+    },
+    {
+      "index": 131,
+      "english": "Only two left! I'm getting the\nhang of it!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 14810,
+      "_bytes": 42,
+      "translation": "¡Quedan dos! ¡Ya le voy\npillando el truco!"
+    },
+    {
+      "index": 132,
       "english": "Only one left! Hold out for just a\nbit longer, Joe!",
-      "_offset": 4516,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Solo queda una! Aguanta un\npoco más, Joe!"
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 14853,
+      "_bytes": 51,
+      "translation": "¡Solo queda una! ¡Aguanta un\npoco más, Joe!"
     }
   ]
 }

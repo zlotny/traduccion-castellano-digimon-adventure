@@ -1,598 +1,701 @@
 {
   "file_id": "3608",
-  "text_count": 74,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 77,
   "dialog": [
     {
       "index": 0,
-      "english": "��������T.K! It's the amusement park!",
-      "_offset": 1206,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "T.K! Es el parque de\natracciones!"
+      "english": "T.K! It's the amusement park!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 6488,
+      "_bytes": 32,
+      "translation": "¡T.K.! ¡Es el parque de atracciones!"
     },
     {
       "index": 1,
       "english": "Which one should we ride?",
-      "_offset": 1247,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "En cuál nos montamos?"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6521,
+      "_bytes": 25,
+      "translation": "¿En cuál nos montamos?"
     },
     {
       "index": 2,
       "english": "I wonder if they sell cola at the\nshop?",
-      "_offset": 1273,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Venderán cola en la\ntienda?"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6547,
+      "_bytes": 39,
+      "translation": "¿Venderán cola en la\ntienda?"
     },
     {
       "index": 3,
       "english": "Matt, is there anything you want\nto ride?",
-      "_offset": 1313,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Matt, hay algo en lo que\nquieras montarte?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 6587,
+      "_bytes": 43,
+      "translation": "Matt, ¿hay algo en lo que\nquieras montarte?"
     },
     {
       "index": 4,
-      "english": "Matt?",
-      "_offset": 1361,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Matt?"
+      "english": "...",
+      "speaker_id": 1021,
+      "line_type": 4,
+      "_offset": 6631,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 5,
-      "english": "Matt, let's go ride that Ferris\nwheel!",
-      "_offset": 1369,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Matt, vamos a montarnos\nen la noria!"
+      "english": "Matt?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 6635,
+      "_bytes": 7,
+      "translation": "¿Matt?"
     },
     {
       "index": 6,
-      "english": "I... I can't!",
-      "_offset": 1410,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Yo no puedo"
+      "english": "Matt, let's go ride that Ferris\nwheel!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6643,
+      "_bytes": 40,
+      "translation": "Matt, ¡vamos a montarnos\nen la noria!"
     },
     {
       "index": 7,
-      "english": "Matt!",
-      "_offset": 1424,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Matt!"
+      "english": "I... I can't!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6684,
+      "_bytes": 13,
+      "translation": "¡Yo... yo no puedo!"
     },
     {
       "index": 8,
-      "english": "What's wrong with him?",
-      "_offset": 1432,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Qué le pasa?"
+      "english": "Matt!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6698,
+      "_bytes": 7,
+      "translation": "¡Matt!"
     },
     {
       "index": 9,
-      "english": "T.K, let's go after him!",
-      "_offset": 1455,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "T.K, vamos tras él!"
+      "english": "What's wrong with him?",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 6706,
+      "_bytes": 22,
+      "translation": "¿Qué le pasa?"
     },
     {
       "index": 10,
-      "english": "Yeah!",
-      "_offset": 1483,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí!"
+      "english": "T.K, let's go after him!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 6729,
+      "_bytes": 27,
+      "translation": "T.K., ¡vamos tras él!"
     },
     {
       "index": 11,
-      "english": "There he is! It's Matt!",
-      "_offset": 1489,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Ahí está! Es Matt!"
+      "english": "Yeah!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6757,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     },
     {
       "index": 12,
-      "english": "Matt, wait!",
-      "_offset": 1515,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Matt, espera!"
+      "english": "There he is! It's Matt!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 6763,
+      "_bytes": 25,
+      "translation": "¡Ahí está! ¡Es Matt!"
     },
     {
       "index": 13,
-      "english": "Matt...",
-      "_offset": 1533,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Matt..."
+      "english": "Matt, wait!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6789,
+      "_bytes": 13,
+      "translation": "Matt, ¡espera!"
     },
     {
       "index": 14,
-      "english": "T.K...I'm sure Matt had a\nreason.",
-      "_offset": 1543,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "T.K... seguro que Matt\ntenía un motivo."
+      "english": "...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6803,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 15,
-      "english": "Yeah, there's gotta be something\ngoing on.",
-      "_offset": 1582,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Sí, algo debe de estar\npasando."
-    },
-    {
-      "index": 16,
-      "english": "It must be because of me...",
-      "_offset": 1625,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Debe de ser por mi\nculpa..."
-    },
-    {
-      "index": 17,
-      "english": "I always say selfish things and\nhe's always been patient with\nme...",
-      "_offset": 1653,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Siempre digo cosas\negoístas y él siempre me\nha tenido paciencia..."
-    },
-    {
-      "index": 18,
-      "english": "He must have started to hate me.",
-      "_offset": 1721,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Debe de haber empezado a\nodiarme."
-    },
-    {
-      "index": 19,
-      "english": "T.K! Believe in Matt!",
-      "_offset": 1754,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "T.K! Confía en Matt!"
-    },
-    {
-      "index": 20,
-      "english": "...Okay.",
-      "_offset": 1781,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "...Vale."
-    },
-    {
-      "index": 21,
-      "english": "Matt!",
-      "_offset": 1790,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Matt!"
-    },
-    {
-      "index": 22,
-      "english": "...S-stop it. Stay away...",
-      "_offset": 1798,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "...P-parad. Alejaos..."
-    },
-    {
-      "index": 23,
-      "english": "I've never seen Matt like this\nbefore!",
-      "_offset": 1825,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Nunca había visto a Matt\nasí!"
-    },
-    {
-      "index": 24,
-      "english": "I've taken this child's strong\nheart.",
-      "_offset": 1866,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Le quité el corazón\nfuerte a este niño"
-    },
-    {
-      "index": 25,
-      "english": "It's Vadermon!",
-      "_offset": 1907,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Es Vademon!"
-    },
-    {
-      "index": 26,
-      "english": "You said you took Matt's heart?!",
-      "_offset": 1922,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Le quitaste el\ncorazón a Matt?!"
-    },
-    {
-      "index": 27,
-      "english": "Without a strong heart, he is\ndoomed to succumb to fear. He will\nbe like that for eternity.",
-      "_offset": 1957,
-      "_length": 91,
-      "speaker_id": 0,
-      "translation": "Sin un corazón fuerte, está\ncondenado a sucumbir al\nmiedo. Será así por siempre."
-    },
-    {
-      "index": 28,
-      "english": "No! My brother is kind and calm\nand very strong!",
-      "_offset": 2049,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "No! Mi hermano es amable,\ntranquilo y muy fuerte!"
-    },
-    {
-      "index": 29,
-      "english": "T.K...!",
-      "_offset": 2098,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "T.K...!"
-    },
-    {
-      "index": 30,
-      "english": "Give back Matt's heart!",
-      "_offset": 2109,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Devuélvele su\ncorazón!"
-    },
-    {
-      "index": 31,
-      "english": "Matt, are you okay?",
-      "_offset": 2135,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Matt, estás bien?"
-    },
-    {
-      "index": 32,
-      "english": "...Yeah, I'm fine. I'm not afraid\nof you and Gabumon anymore.",
-      "_offset": 2157,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "...Sí, estoy bien. Ya no os\ntengo miedo a ti y a\nGabumon."
-    },
-    {
-      "index": 33,
-      "english": "Thank goodness...",
-      "_offset": 2219,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Menos mal..."
-    },
-    {
-      "index": 34,
-      "english": "Thank you, T.K. Oh, right...\ntake this.",
-      "_offset": 2237,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Gracias, T.K. Ah, cierto...\ntoma esto."
-    },
-    {
-      "index": 35,
-      "english": "What's this?",
-      "_offset": 2280,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Qué es esto?"
-    },
-    {
-      "index": 36,
-      "english": "Vadermon dropped it, so I picked\nit up. Let's take it with us.",
-      "_offset": 2293,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Se le cayó a Vademon, lo\nrecogí. Llevémonoslo."
-    },
-    {
-      "index": 37,
-      "english": "Now that you've gotten your strong\nheart back, let's ride the roller\ncoasters.",
-      "_offset": 2356,
-      "_length": 78,
-      "speaker_id": 0,
-      "translation": "Ahora que recuperaste tu\ncorazón fuerte, vamos a\nmontarnos en la montaña rusa."
-    },
-    {
-      "index": 38,
-      "english": "Whaaaat? The Ferris wheel's good\nenough!",
-      "_offset": 2435,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Quéee? Con la noria ya\nvale!"
-    },
-    {
-      "index": 39,
-      "english": "Matt, which do you prefer?",
-      "_offset": 2476,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Matt, cuál prefieres?"
-    },
-    {
-      "index": 40,
-      "english": "Uh...I'll... excuse myself from\nboth.",
-      "_offset": 2505,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Eh... paso de las dos,\nla verdad."
-    },
-    {
-      "index": 41,
-      "english": "Come on, Matt, are you *sure*\nyou're not scared?",
-      "_offset": 2543,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Vamos, Matt, seguro que\nno tienes miedo?"
-    },
-    {
-      "index": 42,
-      "english": "D-don't be stupid!",
-      "_offset": 2594,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "N-no seas tonto!"
-    },
-    {
-      "index": 43,
-      "english": "Really? What a shocking twist!",
-      "_offset": 2613,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "En serio? Vaya giro!"
-    },
-    {
-      "index": 44,
-      "english": "Hey, stop it...!",
-      "_offset": 2644,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Eh, parad ya...!"
-    },
-    {
-      "index": 45,
-      "english": "Are you okay, T.K?",
-      "_offset": 2661,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Estás bien, T.K?"
-    },
-    {
-      "index": 46,
-      "english": "I wonder what happened to\nMatt...",
-      "_offset": 2683,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Me pregunto qué le pasó\na Matt..."
-    },
-    {
-      "index": 47,
-      "english": "Let's find Matt first!",
-      "_offset": 2719,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Busquemos a Matt\nprimero!"
-    },
-    {
-      "index": 48,
       "english": "Matt...",
-      "_offset": 2744,
-      "_length": 9,
-      "speaker_id": 0,
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6807,
+      "_bytes": 9,
       "translation": "Matt..."
     },
     {
+      "index": 16,
+      "english": "T.K...I'm sure Matt had a\nreason.",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 6817,
+      "_bytes": 38,
+      "translation": "T.K... seguro que Matt\ntenía un motivo."
+    },
+    {
+      "index": 17,
+      "english": "Yeah, there's gotta be something\ngoing on.",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 6856,
+      "_bytes": 42,
+      "translation": "Sí, algo debe de estar\npasando."
+    },
+    {
+      "index": 18,
+      "english": "It must be because of me...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6899,
+      "_bytes": 27,
+      "translation": "Debe de ser por mi culpa..."
+    },
+    {
+      "index": 19,
+      "english": "I always say selfish things and\nhe's always been patient with\nme...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6927,
+      "_bytes": 67,
+      "translation": "Siempre digo cosas\negoístas y él siempre me\nha tenido paciencia..."
+    },
+    {
+      "index": 20,
+      "english": "He must have started to hate me.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6995,
+      "_bytes": 32,
+      "translation": "Debe de haber empezado a odiarme."
+    },
+    {
+      "index": 21,
+      "english": "T.K! Believe in Matt!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 7028,
+      "_bytes": 26,
+      "translation": "¡T.K.! ¡Confía en Matt!"
+    },
+    {
+      "index": 22,
+      "english": "...Okay.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7055,
+      "_bytes": 8,
+      "translation": "...Vale."
+    },
+    {
+      "index": 23,
+      "english": "Matt!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7064,
+      "_bytes": 7,
+      "translation": "¡Matt!"
+    },
+    {
+      "index": 24,
+      "english": "...S-stop it. Stay away...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7072,
+      "_bytes": 26,
+      "translation": "...P-parad. Alejaos..."
+    },
+    {
+      "index": 25,
+      "english": "I've never seen Matt like this\nbefore!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 7099,
+      "_bytes": 40,
+      "translation": "¡Nunca había visto a Matt\nasí!"
+    },
+    {
+      "index": 26,
+      "english": "I've taken this child's strong\nheart.",
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 7140,
+      "_bytes": 37,
+      "translation": "Le quité el corazón\nfuerte a este niño."
+    },
+    {
+      "index": 27,
+      "english": "!!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7178,
+      "_bytes": 2,
+      "translation": "!!"
+    },
+    {
+      "index": 28,
+      "english": "It's Vadermon!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 7181,
+      "_bytes": 14,
+      "translation": "¡Es Vademon!"
+    },
+    {
+      "index": 29,
+      "english": "You said you took Matt's heart?!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 7196,
+      "_bytes": 34,
+      "translation": "¡¿Le quitaste el corazón a Matt?!"
+    },
+    {
+      "index": 30,
+      "english": "Without a strong heart, he is\ndoomed to succumb to fear. He will\nbe like that for eternity.",
+      "speaker_id": 4251,
+      "line_type": 2,
+      "_offset": 7231,
+      "_bytes": 91,
+      "translation": "Sin un corazón fuerte, está\ncondenado a sucumbir al\nmiedo. Será así por siempre."
+    },
+    {
+      "index": 31,
+      "english": "No! My brother is kind and calm\nand very strong!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7323,
+      "_bytes": 48,
+      "translation": "¡No! ¡Mi hermano es amable,\ntranquilo y muy fuerte!"
+    },
+    {
+      "index": 32,
+      "english": "T.K...!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 7372,
+      "_bytes": 10,
+      "translation": "¡T.K...!"
+    },
+    {
+      "index": 33,
+      "english": "Give back Matt's heart!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7383,
+      "_bytes": 25,
+      "translation": "¡Devuélvele su corazón!"
+    },
+    {
+      "index": 34,
+      "english": "Matt, are you okay?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7409,
+      "_bytes": 21,
+      "translation": "Matt, ¿estás bien?"
+    },
+    {
+      "index": 35,
+      "english": "...Yeah, I'm fine. I'm not afraid\nof you and Gabumon anymore.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7431,
+      "_bytes": 61,
+      "translation": "...Sí, estoy bien. Ya no os\ntengo miedo a ti y a\nGabumon."
+    },
+    {
+      "index": 36,
+      "english": "Thank goodness...",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 7493,
+      "_bytes": 17,
+      "translation": "Menos mal..."
+    },
+    {
+      "index": 37,
+      "english": "Thank you, T.K. Oh, right...\ntake this.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7511,
+      "_bytes": 42,
+      "translation": "Gracias, T.K. Ah, cierto...\ntoma esto."
+    },
+    {
+      "index": 38,
+      "english": "What's this?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7554,
+      "_bytes": 12,
+      "translation": "¿Qué es esto?"
+    },
+    {
+      "index": 39,
+      "english": "Vadermon dropped it, so I picked\nit up. Let's take it with us.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7567,
+      "_bytes": 62,
+      "translation": "Se le cayó a Vademon, lo\nrecogí. Llevémonoslo."
+    },
+    {
+      "index": 40,
+      "english": "Now that you've gotten your strong\nheart back, let's ride the roller\ncoasters.",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 7630,
+      "_bytes": 78,
+      "translation": "Ahora que recuperaste tu\ncorazón fuerte, vamos a\nmontarnos en la montaña rusa."
+    },
+    {
+      "index": 41,
+      "english": "Whaaaat? The Ferris wheel's good\nenough!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7709,
+      "_bytes": 40,
+      "translation": "¿Quéee? ¡Con la noria ya\nvale!"
+    },
+    {
+      "index": 42,
+      "english": "Matt, which do you prefer?",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 7750,
+      "_bytes": 28,
+      "translation": "Matt, ¿cuál prefieres?"
+    },
+    {
+      "index": 43,
+      "english": "Uh...I'll... excuse myself from\nboth.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7779,
+      "_bytes": 37,
+      "translation": "Eh... paso de las dos,\nla verdad."
+    },
+    {
+      "index": 44,
+      "english": "Come on, Matt, are you *sure*\nyou're not scared?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7817,
+      "_bytes": 50,
+      "translation": "Vamos, Matt, ¿seguro que\nno tienes miedo?"
+    },
+    {
+      "index": 45,
+      "english": "D-don't be stupid!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7868,
+      "_bytes": 18,
+      "translation": "¡N-no seas tonto!"
+    },
+    {
+      "index": 46,
+      "english": "Really? What a shocking twist!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 7887,
+      "_bytes": 30,
+      "translation": "¿En serio? ¡Vaya giro!"
+    },
+    {
+      "index": 47,
+      "english": "Hey, stop it...!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7918,
+      "_bytes": 16,
+      "translation": "¡Eh, parad ya...!"
+    },
+    {
+      "index": 48,
+      "english": "Are you okay, T.K?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 7935,
+      "_bytes": 21,
+      "translation": "¿Estás bien, T.K.?"
+    },
+    {
       "index": 49,
-      "english": "He's started to hate me.",
-      "_offset": 2754,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Ha empezado a odiarme."
+      "english": "I wonder what happened to\nMatt...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7957,
+      "_bytes": 35,
+      "translation": "Me pregunto qué le pasó\na Matt..."
     },
     {
       "index": 50,
-      "english": "He was acting kind of strange...",
-      "_offset": 2779,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Actuaba algo raro..."
+      "english": "Let's find Matt first!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 7993,
+      "_bytes": 24,
+      "translation": "¡Busquemos a Matt primero!"
     },
     {
       "index": 51,
-      "english": "T.K, please calm down!",
-      "_offset": 2812,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "T.K, cálmate, por favor!"
+      "english": "Matt...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8018,
+      "_bytes": 9,
+      "translation": "Matt..."
     },
     {
       "index": 52,
-      "english": "What should we do...",
-      "_offset": 2838,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Qué hacemos..."
+      "english": "He's started to hate me.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 8028,
+      "_bytes": 24,
+      "translation": "Ha empezado a odiarme."
     },
     {
       "index": 53,
-      "english": "T.K...",
-      "_offset": 2859,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "T.K..."
+      "english": "He was acting kind of strange...",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 8053,
+      "_bytes": 32,
+      "translation": "Actuaba algo raro..."
     },
     {
       "index": 54,
-      "english": "Matt certainly wasn't acting\nlike his usual self, was he?",
-      "_offset": 2869,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Matt no actuaba como de\ncostumbre, verdad?"
+      "english": "T.K, please calm down!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 8086,
+      "_bytes": 25,
+      "translation": "T.K., ¡cálmate, por favor!"
     },
     {
       "index": 55,
-      "english": "Help him, Izzy!",
-      "_offset": 2929,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Ayúdalo, Izzy!"
+      "english": "What should we do...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8112,
+      "_bytes": 20,
+      "translation": "¿Qué hacemos...?"
     },
     {
       "index": 56,
-      "english": "Of course!",
-      "_offset": 2950,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Claro!"
-    },
-    {
-      "index": 57,
-      "english": "Please feel better, T.K.",
-      "_offset": 2961,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Ánimo, T.K."
-    },
-    {
-      "index": 58,
-      "english": "Thank you, Sora.",
-      "_offset": 2989,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Gracias, Sora."
-    },
-    {
-      "index": 59,
-      "english": "Matt must have had a reason.\nBelieve in him, T.K.",
-      "_offset": 3006,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Matt debía de tener un\nmotivo. Confía en él, T.K."
-    },
-    {
-      "index": 60,
-      "english": "I'll believe in Matt.",
-      "_offset": 3061,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Confiaré en Matt."
-    },
-    {
-      "index": 61,
-      "english": "I'm scared to see Matt.",
-      "_offset": 3085,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Me da miedo ver a Matt."
-    },
-    {
-      "index": 62,
-      "english": "Come on, let's find Matt as\nquickly as we can.",
-      "_offset": 3111,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Vamos, busquemos a Matt\ncuanto antes."
-    },
-    {
-      "index": 63,
-      "english": "Okay!",
-      "_offset": 3160,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Vale!"
-    },
-    {
-      "index": 64,
-      "english": "He was almost like a completely\ndifferent person.",
-      "_offset": 3166,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Parecía casi una persona\ncompletamente distinta."
-    },
-    {
-      "index": 65,
       "english": "T.K...",
-      "_offset": 3216,
-      "_length": 9,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 8133,
+      "_bytes": 9,
       "translation": "T.K..."
     },
     {
+      "index": 57,
+      "english": "Matt certainly wasn't acting\nlike his usual self, was he?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 8143,
+      "_bytes": 59,
+      "translation": "Matt no actuaba como de\ncostumbre, ¿verdad?"
+    },
+    {
+      "index": 58,
+      "english": "Help him, Izzy!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8203,
+      "_bytes": 20,
+      "translation": "¡Ayúdalo, Izzy!"
+    },
+    {
+      "index": 59,
+      "english": "Of course!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 8224,
+      "_bytes": 10,
+      "translation": "¡Claro!"
+    },
+    {
+      "index": 60,
+      "english": "Please feel better, T.K.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 8235,
+      "_bytes": 27,
+      "translation": "Ánimo, T.K."
+    },
+    {
+      "index": 61,
+      "english": "Thank you, Sora.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8263,
+      "_bytes": 16,
+      "translation": "Gracias, Sora."
+    },
+    {
+      "index": 62,
+      "english": "Matt must have had a reason.\nBelieve in him, T.K.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 8280,
+      "_bytes": 54,
+      "translation": "Matt debía de tener un\nmotivo. Confía en él, T.K."
+    },
+    {
+      "index": 63,
+      "english": "I'll believe in Matt.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 8335,
+      "_bytes": 23,
+      "translation": "Confiaré en Matt."
+    },
+    {
+      "index": 64,
+      "english": "I'm scared to see Matt.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 8359,
+      "_bytes": 25,
+      "translation": "Me da miedo ver a Matt."
+    },
+    {
+      "index": 65,
+      "english": "Come on, let's find Matt as\nquickly as we can.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 8385,
+      "_bytes": 48,
+      "translation": "Vamos, busquemos a Matt\ncuanto antes."
+    },
+    {
       "index": 66,
-      "english": "Hey, T.K... got any idea how\nMatt got like that?",
-      "_offset": 3226,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Oye, T.K... sabes por qué\nMatt se puso así?"
+      "english": "Okay!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8434,
+      "_bytes": 5,
+      "translation": "¡Vale!"
     },
     {
       "index": 67,
-      "english": "No idea...",
-      "_offset": 3280,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Ni idea..."
+      "english": "He was almost like a completely\ndifferent person.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8440,
+      "_bytes": 49,
+      "translation": "Parecía casi una persona\ncompletamente distinta."
     },
     {
       "index": 68,
-      "english": "Maybe because I used his harmonica?",
-      "_offset": 3291,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Quizás porque usé su\narmónica?"
+      "english": "T.K...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 8490,
+      "_bytes": 9,
+      "translation": "T.K..."
     },
     {
       "index": 69,
-      "english": "Okay... what happened?",
-      "_offset": 3327,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Vale... qué pasó?"
+      "english": "Hey, T.K... got any idea how\nMatt got like that?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8500,
+      "_bytes": 53,
+      "translation": "Oye, T.K... ¿sabes por qué\nMatt se puso así?"
     },
     {
       "index": 70,
-      "english": "I was trying to keep it quiet,\nbut...",
-      "_offset": 3350,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Intentaba que fuera\nsecreto, pero..."
+      "english": "No idea...",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 8554,
+      "_bytes": 10,
+      "translation": "Ni idea..."
     },
     {
       "index": 71,
-      "english": "Matt wouldn't get mad about\nsomething like that.",
-      "_offset": 3388,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Matt no se enfadaría por\nalgo así."
+      "english": "Maybe because I used his harmonica?",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 8565,
+      "_bytes": 35,
+      "translation": "¿Quizás porque usé su armónica?"
     },
     {
       "index": 72,
-      "english": "In any case, we have to find him.",
-      "_offset": 3439,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "En fin, hay que\nencontrarlo."
+      "english": "Okay... what happened?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8601,
+      "_bytes": 22,
+      "translation": "Vale... ¿qué pasó?"
     },
     {
       "index": 73,
+      "english": "I was trying to keep it quiet,\nbut...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8624,
+      "_bytes": 37,
+      "translation": "Intentaba que fuera\nsecreto, pero..."
+    },
+    {
+      "index": 74,
+      "english": "Matt wouldn't get mad about\nsomething like that.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8662,
+      "_bytes": 50,
+      "translation": "Matt no se enfadaría por\nalgo así."
+    },
+    {
+      "index": 75,
+      "english": "In any case, we have to find him.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8713,
+      "_bytes": 33,
+      "translation": "En fin, hay que encontrarlo."
+    },
+    {
+      "index": 76,
       "english": "Right!",
-      "_offset": 3473,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Cierto"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8747,
+      "_bytes": 6,
+      "translation": "¡Vale!"
     }
   ]
 }

@@ -1,422 +1,476 @@
 {
   "file_id": "3599",
+  "format": "etdf",
+  "kind": "ETDF",
   "text_count": 52,
   "dialog": [
     {
       "index": 0,
-      "english": "��������Haaaah! Thank you for coming!",
-      "_offset": 2330,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Haaaah! Gracias por venir!"
+      "english": "Haaaah! Thank you for coming!",
+      "speaker_id": 4091,
+      "line_type": 2,
+      "_offset": 6616,
+      "_bytes": 29,
+      "translation": "¡Haaaah! ¡Gracias por venir!"
     },
     {
       "index": 1,
       "english": "No problem! So what happened?",
-      "_offset": 2368,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "No hay de qué! Qué pasó?"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6646,
+      "_bytes": 29,
+      "translation": "¡No hay de qué! ¿Qué pasó?"
     },
     {
       "index": 2,
       "english": "My fur's gotten all dry and rough\nlately!",
-      "_offset": 2398,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Mi pelaje está seco y\náspero últimamente!"
+      "speaker_id": 4091,
+      "line_type": 2,
+      "_offset": 6676,
+      "_bytes": 41,
+      "translation": "¡Mi pelaje está seco y\náspero últimamente!"
     },
     {
       "index": 3,
       "english": "Really? I think it's pretty shiny\nnow, but...",
-      "_offset": 2440,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "En serio? Yo lo veo\nbrillante, pero..."
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 6718,
+      "_bytes": 45,
+      "translation": "¿En serio? Yo lo veo\nbrillante, pero..."
     },
     {
       "index": 4,
       "english": "We Mojyamon use a special medicine\nto make it shiny!",
-      "_offset": 2486,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Los Mojyamon usamos una\nmedicina especial para\neso!"
+      "speaker_id": 4091,
+      "line_type": 2,
+      "_offset": 6764,
+      "_bytes": 52,
+      "translation": "¡Los Mojyamon usamos una\nmedicina especial para\neso!"
     },
     {
       "index": 5,
       "english": "Huh? Using treatment on your fur?\nThat's so fashionable!",
-      "_offset": 2539,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Eh? Tratamiento para el\npelaje? Qué a la moda!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6817,
+      "_bytes": 56,
+      "translation": "¿Eh? ¿Tratamiento para el\npelaje? ¡Qué a la moda!"
     },
     {
       "index": 6,
       "english": "So what should we do?",
-      "_offset": 2596,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Entonces qué hacemos?"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 6874,
+      "_bytes": 21,
+      "translation": "¿Entonces qué hacemos?"
     },
     {
       "index": 7,
       "english": "I traveled around here a lot when\nI was looking for T.K, so I'm\nup for helping you out!",
-      "_offset": 2618,
-      "_length": 90,
-      "speaker_id": 0,
-      "translation": "Viajé mucho por aquí\nbuscando a T.K, así que\npuedo ayudaros!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6896,
+      "_bytes": 90,
+      "translation": "¡Viajé mucho por aquí\nbuscando a T.K., así que\npuedo ayudaros!"
     },
     {
       "index": 8,
       "english": "I'll help, too!",
-      "_offset": 2709,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "También ayudo!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6987,
+      "_bytes": 15,
+      "translation": "¡Yo también ayudo!"
     },
     {
       "index": 9,
       "english": "Thank you, Matt! I'm counting on\nyou, guys!",
-      "_offset": 2725,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Gracias, Matt! Contamos\ncon vosotros!"
+      "speaker_id": 4091,
+      "line_type": 2,
+      "_offset": 7003,
+      "_bytes": 45,
+      "translation": "¡Gracias, Matt! ¡Cuento\ncon vosotros!"
     },
     {
       "index": 10,
       "english": "Hey, guys, do you have ingredients\nfor the medicine?",
-      "_offset": 2771,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Oye, tenéis los ingredientes\npara la medicina?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7049,
+      "_bytes": 52,
+      "translation": "Oye, ¿tenéis los ingredientes\npara la medicina?"
     },
     {
       "index": 11,
       "english": "Nope! This isn't enough at all!",
-      "_offset": 2824,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "No! Esto no basta ni de\ncerca!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 7102,
+      "_bytes": 31,
+      "translation": "¡No! ¡Esto no basta ni de cerca!"
     },
     {
       "index": 12,
       "english": "That's weird, I feel like there\nwas more last time I was here...",
-      "_offset": 2856,
-      "_length": 64,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7134,
+      "_bytes": 64,
       "translation": "Qué raro, creo que había\nmás la última vez que\nestuve aquí..."
     },
     {
       "index": 13,
       "english": "There's evidence of someone\nwalking around here. Maybe they\ngrabbed it first.",
-      "_offset": 2921,
-      "_length": 77,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 7199,
+      "_bytes": 77,
       "translation": "Hay huellas de alguien por\naquí. Igual se lo llevaron\nantes."
     },
     {
       "index": 14,
       "english": "So they took everything? They\nshould have at least left a little\nfor us!",
-      "_offset": 2999,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "Se lo llevaron todo? Podrían\nhabernos dejado un poco al\nmenos!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 7277,
+      "_bytes": 72,
+      "translation": "¿Se lo llevaron todo? ¡Podrían\nhabernos dejado un poco al\nmenos!"
     },
     {
       "index": 15,
       "english": "If we follow the trail, maybe\nwe'll catch up to them.",
-      "_offset": 3072,
-      "_length": 53,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 7350,
+      "_bytes": 53,
       "translation": "Si seguimos el rastro, quizás\nlos alcancemos."
     },
     {
       "index": 16,
       "english": "Yeah, maybe we can talk it out and\nconvince them to share with us.",
-      "_offset": 3126,
-      "_length": 66,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7404,
+      "_bytes": 66,
       "translation": "Sí, quizás podamos\nconvencerlos de compartir\ncon nosotros."
     },
     {
       "index": 17,
       "english": "Let's go, Matt!",
-      "_offset": 3193,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Vamos, Matt!"
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 7471,
+      "_bytes": 17,
+      "translation": "¡Vamos, Matt!"
     },
     {
       "index": 18,
       "english": "Yeah!",
-      "_offset": 3211,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí!"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7489,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     },
     {
       "index": 19,
       "english": "There are Digimon in the back!",
-      "_offset": 3217,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Hay Digimon al fondo!"
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 7495,
+      "_bytes": 30,
+      "translation": "¡Hay Digimon al fondo!"
     },
     {
       "index": 20,
       "english": "There's something weird about\nthese Digimon!",
-      "_offset": 3248,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Hay algo raro en estos\nDigimon!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 7526,
+      "_bytes": 44,
+      "translation": "¡Hay algo raro en estos\nDigimon!"
     },
     {
       "index": 21,
       "english": "Don't tell me they've eaten the\ningredients?!",
-      "_offset": 3293,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "No me digas que se comieron\nlos ingredientes?!"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 7571,
+      "_bytes": 45,
+      "translation": "¡¿No me digas que se comieron\nlos ingredientes?!"
     },
     {
       "index": 22,
       "english": "The ingredients have side effects\nthat could have made them\naggressive!",
-      "_offset": 3339,
-      "_length": 71,
-      "speaker_id": 0,
-      "translation": "Los ingredientes tienen\nefectos que pueden\nvolverlos agresivos!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 7617,
+      "_bytes": 71,
+      "translation": "¡Los ingredientes tienen\nefectos que pueden\nvolverlos agresivos!"
     },
     {
       "index": 23,
       "english": "That was a real ride.",
-      "_offset": 3411,
-      "_length": 21,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7689,
+      "_bytes": 21,
       "translation": "Menudo viaje ha sido."
     },
     {
       "index": 24,
       "english": "If we wait a little while, they\nshould return to normal.",
-      "_offset": 3433,
-      "_length": 56,
-      "speaker_id": 0,
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 7711,
+      "_bytes": 56,
       "translation": "Si esperamos un poco,\ndeberían volver a la\nnormalidad."
     },
     {
       "index": 25,
       "english": "Gah! What's going on here?",
-      "_offset": 3490,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Agh! Qué está pasando?"
+      "speaker_id": 4091,
+      "line_type": 2,
+      "_offset": 7768,
+      "_bytes": 26,
+      "translation": "¡Agh! ¿Qué está pasando?"
     },
     {
       "index": 26,
       "english": "Seems like the medicinal\ningredients drove them mad.",
-      "_offset": 3517,
-      "_length": 52,
-      "speaker_id": 0,
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 7795,
+      "_bytes": 52,
       "translation": "Parece que los ingredientes\nlos volvieron locos."
     },
     {
       "index": 27,
       "english": "Hm, looks like there's more than\nenough left. I'll take care of\n'em.",
-      "_offset": 3570,
-      "_length": 68,
-      "speaker_id": 0,
-      "translation": "Mm, parece que ha sobrado\nde sobra. Yo me encargo de\nellos."
+      "speaker_id": 4091,
+      "line_type": 2,
+      "_offset": 7848,
+      "_bytes": 68,
+      "translation": "Mm, parece que ha sobrado\nmucho. Yo me encargo de\nellos."
     },
     {
       "index": 28,
       "english": "That said, I wonder why they were\nalso collecting ingredients...",
-      "_offset": 3639,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "Aun así, por qué estarían\ntambién recogiendo\ningredientes..."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 7917,
+      "_bytes": 64,
+      "translation": "Aun así, ¿por qué estarían\ntambién recogiendo\ningredientes...?"
     },
     {
       "index": 29,
       "english": "I bet they wanted to have shiny\nfur like Mojyamon!",
-      "_offset": 3704,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Seguro que querían un\npelaje brillante como\nMojyamon"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 7982,
+      "_bytes": 50,
+      "translation": "¡Seguro que querían un\npelaje brillante como\nMojyamon!"
     },
     {
       "index": 30,
       "english": "That must be it!",
-      "_offset": 3755,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Debe de ser eso!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8033,
+      "_bytes": 16,
+      "translation": "¡Debe de ser eso!"
     },
     {
       "index": 31,
       "english": "Thanks for taking care of this!\nHere's my thank-you gift!",
-      "_offset": 3772,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Gracias por encargaros de\nesto! Aquí tenéis mi regalo!"
+      "speaker_id": 4091,
+      "line_type": 2,
+      "_offset": 8050,
+      "_bytes": 57,
+      "translation": "¡Gracias por encargaros de\nesto! ¡Aquí tenéis mi regalo!"
     },
     {
       "index": 32,
       "english": "Thanks, Mojyamon!",
-      "_offset": 3830,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Gracias, Mojyamon"
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 8108,
+      "_bytes": 17,
+      "translation": "¡Gracias, Mojyamon!"
     },
     {
       "index": 33,
       "english": "Tell us when you become a shiny\nMojyamon! We'll come and visit\nyou!",
-      "_offset": 3848,
-      "_length": 67,
-      "speaker_id": 0,
-      "translation": "Avísanos cuando brilles!\nVendremos a visitarte!"
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 8126,
+      "_bytes": 67,
+      "translation": "¡Avísanos cuando brilles!\n¡Vendremos a visitarte!"
     },
     {
       "index": 34,
       "english": "Hah! Looking forward to it!",
-      "_offset": 3916,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Ja! Lo espero con ganas!"
+      "speaker_id": 4091,
+      "line_type": 2,
+      "_offset": 8194,
+      "_bytes": 27,
+      "translation": "¡Ja! ¡Lo espero con ganas!"
     },
     {
       "index": 35,
       "english": "There should be some ingredients\nin this area. Let's look for them.",
-      "_offset": 3944,
-      "_length": 67,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 8222,
+      "_bytes": 67,
       "translation": "Debería haber ingredientes\npor esta zona. Busquémoslos."
     },
     {
       "index": 36,
       "english": "Obtained medicine ingredients!",
-      "_offset": 4012,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Ingredientes obtenidos!"
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 8290,
+      "_bytes": 30,
+      "translation": "¡Ingredientes obtenidos!"
     },
     {
       "index": 37,
       "english": "This looks like it'll taste\ndisgusting. Are you sure these are\nmedicinal ingredients?",
-      "_offset": 4043,
-      "_length": 85,
-      "speaker_id": 0,
-      "translation": "Esto tiene toda la pinta\nde saber fatal. Seguro que\nson ingredientes medicinales?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8321,
+      "_bytes": 85,
+      "translation": "Esto tiene toda la pinta\nde saber fatal. ¿Seguro que\nson ingredientes medicinales?"
     },
     {
       "index": 38,
       "english": "It's probably some kind of topical\ncream.",
-      "_offset": 4129,
-      "_length": 41,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 8407,
+      "_bytes": 41,
       "translation": "Debe de ser algún tipo de\ncrema tópica."
     },
     {
       "index": 39,
       "english": "This can't possibly be enough.\nLet's look elsewhere.",
-      "_offset": 4171,
-      "_length": 52,
-      "speaker_id": 0,
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 8449,
+      "_bytes": 52,
       "translation": "Esto no puede ser\nsuficiente. Busquemos en\notro sitio."
     },
     {
       "index": 40,
       "english": "Obtained medicine ingredients!",
-      "_offset": 4224,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Ingredientes obtenidos!"
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 8502,
+      "_bytes": 30,
+      "translation": "¡Ingredientes obtenidos!"
     },
     {
       "index": 41,
       "english": "Considering how big Mojyamon is,\nwe need to get a lot more than\nthis.",
-      "_offset": 4255,
-      "_length": 69,
-      "speaker_id": 0,
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 8533,
+      "_bytes": 69,
       "translation": "Considerando lo grande que\nes Mojyamon, necesitamos\nmucho más que esto."
     },
     {
       "index": 42,
       "english": "Yeah...",
-      "_offset": 4325,
-      "_length": 7,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 8603,
+      "_bytes": 7,
       "translation": "Sí..."
     },
     {
       "index": 43,
       "english": "Obtained medicine ingredients!",
-      "_offset": 4333,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Ingredientes obtenidos!"
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 8611,
+      "_bytes": 30,
+      "translation": "¡Ingredientes obtenidos!"
     },
     {
       "index": 44,
       "english": "Let's enter the cave!",
-      "_offset": 4364,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Entremos en la cueva!"
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 8642,
+      "_bytes": 21,
+      "translation": "¡Entremos en la cueva!"
     },
     {
       "index": 45,
       "english": "Get more information first.",
-      "_offset": 4386,
-      "_length": 27,
-      "speaker_id": 0,
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 8664,
+      "_bytes": 27,
       "translation": "Primero, más información."
     },
     {
       "index": 46,
       "english": "The back's pitch dark.",
-      "_offset": 4414,
-      "_length": 22,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8692,
+      "_bytes": 22,
       "translation": "El fondo está oscuro."
     },
     {
       "index": 47,
       "english": "We shouldn't just charge in there.",
-      "_offset": 4437,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "No deberíamos entrar así\nsin más."
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 8715,
+      "_bytes": 34,
+      "translation": "No deberíamos entrar así sin más."
     },
     {
       "index": 48,
       "english": "You're right.",
-      "_offset": 4472,
-      "_length": 13,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 8750,
+      "_bytes": 13,
       "translation": "Tienes razón."
     },
     {
       "index": 49,
       "english": "Mojyamon said he needs three types\nof ingredients to make the\nmedicine.",
-      "_offset": 4486,
-      "_length": 71,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 8764,
+      "_bytes": 71,
       "translation": "Mojyamon dijo que necesita\ntres tipos de ingredientes\npara la medicina."
     },
     {
       "index": 50,
       "english": "There should be some ingredients\nin this area. Let's look for them.",
-      "_offset": 4558,
-      "_length": 67,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 8836,
+      "_bytes": 67,
       "translation": "Debería haber ingredientes\npor esta zona. Busquémoslos."
     },
     {
       "index": 51,
       "english": "Yeah!",
-      "_offset": 4626,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8904,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     }
   ]
 }

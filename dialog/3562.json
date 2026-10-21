@@ -1,206 +1,557 @@
 {
   "file_id": "3562",
-  "text_count": 25,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 61,
   "dialog": [
     {
       "index": 0,
-      "english": "l miss your morning\npractice.",
-      "_offset": 0,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "tu entreno de la mañana."
+      "english": "Morning! Sora, what's wrong?\nWhat's with the long face...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 3032,
+      "_bytes": 57,
+      "translation": "¡Buenas! Sora, ¿qué te pasa?\nVaya cara larga..."
     },
     {
       "index": 1,
-      "english": "This isn't the time to be worrying\nabout this! Let's go, Yokomon!",
-      "_offset": 30,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "No hay tiempo para preocuparse\npor eso! Vamos, Yokomon!"
+      "english": "Sorry for calling you over so\nearly in the morning.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 3090,
+      "_bytes": 51,
+      "translation": "Perdona por llamarte tan\ntemprano."
     },
     {
       "index": 2,
-      "english": "Let's go, Yokomon!",
-      "_offset": 97,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Vamos, Yokomon!"
+      "english": "I thought maybe I'd just say that\nI can't go to soccer practice\ntoday and leave it at that, but...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 3142,
+      "_bytes": 98,
+      "translation": "Pensaba decirte que hoy no\npuedo ir al entreno de fútbol\ny ya está, pero..."
     },
     {
       "index": 3,
-      "english": "We heard everything you said! We\nwon't let you attack the florist!",
-      "_offset": 117,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Lo hemos oído todo! No vamos a\ndejar que ataques la floristería!"
+      "english": "Did something happen? And you just\nstarted playing again after all\nthis time...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 3241,
+      "_bytes": 79,
+      "translation": "¿Ha pasado algo? Si acababas de\nvolver a jugar después de\ntanto tiempo..."
     },
     {
       "index": 4,
-      "english": "Gh, I got caught. Oh well. I'll\njust have to beat you up!",
-      "_offset": 184,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Ghh, me pillasteis. Da igual,\nos voy a dar una paliza!"
+      "english": "This morning, my mom asked me to\ndo something for her...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 3321,
+      "_bytes": 56,
+      "translation": "Esta mañana mi madre me ha\npedido un favor..."
     },
     {
       "index": 5,
-      "english": "Let's go!",
-      "_offset": 242,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Vamos!"
+      "english": "She really does hate me playing\nsoccer.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 3378,
+      "_bytes": 39,
+      "translation": "Odia que juegue al fútbol."
     },
     {
       "index": 6,
-      "english": "*whew*",
-      "_offset": 252,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Fiu..."
+      "english": "Sora...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 3418,
+      "_bytes": 7,
+      "translation": "Sora..."
     },
     {
       "index": 7,
-      "english": "Sora, did you see that?",
-      "_offset": 259,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Sora, has visto eso?"
+      "english": "I'm sorry, Tai. Please tell the\ncoach for me...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 3426,
+      "_bytes": 50,
+      "translation": "Lo siento, Tai. Díselo al\nentrenador de mi parte..."
     },
     {
       "index": 8,
-      "english": "You did great, Yokomon!",
-      "_offset": 283,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Genial, Yokomon!"
+      "english": "Now that that's settled, bye...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 3477,
+      "_bytes": 31,
+      "translation": "Bueno, pues eso. Adiós..."
     },
     {
       "index": 9,
-      "english": "Eheheh!",
-      "_offset": 308,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Jeje!"
+      "english": "Hey! Sora!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 3509,
+      "_bytes": 10,
+      "translation": "¡Eh! ¡Sora!"
     },
     {
       "index": 10,
-      "english": "Sora! Are you okay?!",
-      "_offset": 316,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Sora! Estás bien?!"
+      "english": "Hey! Sora!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 3520,
+      "_bytes": 10,
+      "translation": "¡Eh! ¡Sora!"
     },
     {
       "index": 11,
-      "english": "Mom!",
-      "_offset": 337,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Mamá"
+      "english": "I'm glad we got that over with.",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 3531,
+      "_bytes": 31,
+      "translation": "Menos mal, ya está hecho."
     },
     {
       "index": 12,
-      "english": "I heard there was a child with a\nstrange stuffed animal causing a\nriot in front of the flower shop.",
-      "_offset": 342,
-      "_length": 99,
-      "speaker_id": 0,
-      "translation": "Me dijeron que un niño con un\npeluche raro montó un lío\nfrente a la floristería."
+      "english": "All Mom said was that she needed a\nbunch of flowers.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 3563,
+      "_bytes": 52,
+      "translation": "Mamá solo dijo que necesitaba\nun ramo de flores."
     },
     {
       "index": 13,
-      "english": "I was worried you might have\ngotten caught up in it...",
-      "_offset": 442,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Me preocupaba que te hubieras\nvisto envuelta..."
+      "english": "(She could have easily told me\nthis on the phone, so why...?)",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 3616,
+      "_bytes": 61,
+      "translation": "(Eso me lo podía haber dicho\npor teléfono. ¿Por qué...?)"
     },
     {
       "index": 14,
-      "english": "Yeah, I'm fine. I finished what\nyou asked me to do.",
-      "_offset": 497,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Sí, estoy bien. Ya hice lo\nque me pediste."
+      "english": "If you hurry, you can still make\nit to practice.",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 3678,
+      "_bytes": 48,
+      "translation": "Si te das prisa, aún llegas\nal entreno."
     },
     {
       "index": 15,
-      "english": "Sorry for putting you in such a\ndangerous situation, Sora. I\ndidn't mean to.",
-      "_offset": 549,
-      "_length": 76,
-      "speaker_id": 0,
-      "translation": "Perdona por ponerte en una\nsituación peligrosa, Sora. No\nera mi intención."
+      "english": "You're right, Yokomon. Let's\nhurry.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 3727,
+      "_bytes": 36,
+      "translation": "Tienes razón, Yokomon.\nDémonos prisa."
     },
     {
       "index": 16,
-      "english": "Mom...",
-      "_offset": 626,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Mamá.."
+      "english": "Sora, a Digimon!",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 3764,
+      "_bytes": 16,
+      "translation": "¡Sora, un Digimon!"
     },
     {
       "index": 17,
-      "english": "All I wanted was for you to\nunderstand a flower arrangement\nschool head's job a little.",
-      "_offset": 633,
-      "_length": 87,
-      "speaker_id": 0,
-      "translation": "Solo quería que entendieras\nun poco el trabajo de una\ndirectora de escuela de flores."
+      "english": "Really?! What's it doing in front\nof the florist?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 3781,
+      "_bytes": 49,
+      "translation": "¡¿En serio?! ¿Qué hace delante\nde la floristería?"
     },
     {
       "index": 18,
-      "english": "Yeah...",
-      "_offset": 721,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Sí..."
+      "english": "Doesn't look like it's searching\nfor the eighth Chosen Child...",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 3831,
+      "_bytes": 63,
+      "translation": "No parece que esté buscando\nal octavo Niño Elegido..."
     },
     {
       "index": 19,
-      "english": "Anyway, let's go home.",
-      "_offset": 729,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Bueno, vamos a casa."
+      "english": "for the eighth Chosen Child...",
+      "speaker_id": 9901,
+      "line_type": 2,
+      "_offset": 3895,
+      "_bytes": 30,
+      "translation": "al octavo Niño Elegido..."
     },
     {
       "index": 20,
-      "english": "Okay.",
-      "_offset": 752,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Vale."
+      "english": "*muttering*",
+      "speaker_id": 4231,
+      "line_type": 2,
+      "_offset": 3926,
+      "_bytes": 11,
+      "translation": "(murmullos)"
     },
     {
       "index": 21,
-      "english": "Your mom was worried about you,\nSora.",
-      "_offset": 758,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Tu madre se preocupó\npor ti, Sora."
+      "english": "*muttering*",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 3938,
+      "_bytes": 11,
+      "translation": "(murmullos)"
     },
     {
       "index": 22,
-      "english": "Yeah...",
-      "_offset": 796,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Sí..."
+      "english": "It's muttering something.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 3950,
+      "_bytes": 25,
+      "translation": "Está murmurando algo."
     },
     {
       "index": 23,
-      "english": "Aren't you happy, Sora?",
-      "_offset": 804,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "No estás feliz, Sora?"
+      "english": "Let's sneak up and listen in.",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 3976,
+      "_bytes": 29,
+      "translation": "Acerquémonos a escuchar."
     },
     {
       "index": 24,
+      "english": "Ah, so many cuties that I've never\nseen before, not even in the\nDigimon world!",
+      "speaker_id": 4231,
+      "line_type": 2,
+      "_offset": 4006,
+      "_bytes": 78,
+      "translation": "¡Ah, cuántas monadas que no\nhabía visto nunca, ni en el\nDigimundo!"
+    },
+    {
+      "index": 25,
+      "english": "Selling them to humans in a place\nlike this...",
+      "speaker_id": 4231,
+      "line_type": 2,
+      "_offset": 4085,
+      "_bytes": 46,
+      "translation": "Venderlas a los humanos en\nun sitio así..."
+    },
+    {
+      "index": 26,
+      "english": "in a place like this...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 4132,
+      "_bytes": 23,
+      "translation": "en un sitio así..."
+    },
+    {
+      "index": 27,
+      "english": "Cuties, he said.",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 4156,
+      "_bytes": 16,
+      "translation": "Dice \"monadas\"."
+    },
+    {
+      "index": 28,
+      "english": "I wonder if he's talking about the\nflowers for sale here.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 4173,
+      "_bytes": 57,
+      "translation": "¿Hablará de las flores que\nvenden aquí?"
+    },
+    {
+      "index": 29,
+      "english": "I wonder if he's talking about the\nflowers for sale here.",
+      "speaker_id": 9901,
+      "line_type": 2,
+      "_offset": 4231,
+      "_bytes": 57,
+      "translation": "¿Hablará de las flores que\nvenden aquí?"
+    },
+    {
+      "index": 30,
+      "english": "I, Veggiemon, will rescue these\ncaptive cuties!",
+      "speaker_id": 4231,
+      "line_type": 2,
+      "_offset": 4289,
+      "_bytes": 47,
+      "translation": "¡Yo, Veggiemon, liberaré a\nestas monadas presas!"
+    },
+    {
+      "index": 31,
+      "english": "\"You're so amazing, Mr.\nVeggiemon\", they'll say! I'll be\nso popular!",
+      "speaker_id": 4231,
+      "line_type": 2,
+      "_offset": 4337,
+      "_bytes": 68,
+      "translation": "¡\"Qué maravilla, señor\nVeggiemon\", dirán! ¡Voy\na ser popularísimo!"
+    },
+    {
+      "index": 32,
+      "english": "Treat the plants well! Free the\ncuties!",
+      "speaker_id": 4231,
+      "line_type": 2,
+      "_offset": 4406,
+      "_bytes": 39,
+      "translation": "¡Tratad bien a las plantas!\n¡Libertad!"
+    },
+    {
+      "index": 33,
+      "english": "Free the cuties!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 4446,
+      "_bytes": 16,
+      "translation": "¡Libres, monadas!"
+    },
+    {
+      "index": 34,
+      "english": "Look at him! He's only gonna be\npopular in his own mind!",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 4463,
+      "_bytes": 56,
+      "translation": "¡Míralo! ¡Solo es popular\nen su cabeza!"
+    },
+    {
+      "index": 35,
+      "english": "At this rate, he'll cause the\nflorist a lot of trouble! We have\nto stop him!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 4520,
+      "_bytes": 76,
+      "translation": "¡Así va a causarle problemas a\nla floristería! ¡Hay que\npararle!"
+    },
+    {
+      "index": 36,
+      "english": "But Sora, you'll miss your morning\npractice.",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 4597,
+      "_bytes": 44,
+      "translation": "Sora, te perderás el\nentreno de la mañana."
+    },
+    {
+      "index": 37,
+      "english": "This isn't the time to be worrying\nabout this! Let's go, Yokomon!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 4642,
+      "_bytes": 66,
+      "translation": "¡No hay tiempo para preocuparse\npor eso! ¡Vamos, Yokomon!"
+    },
+    {
+      "index": 38,
+      "english": "Let's go, Yokomon!",
+      "speaker_id": 4231,
+      "line_type": 2,
+      "_offset": 4709,
+      "_bytes": 19,
+      "translation": "¡Vamos, Yokomon!"
+    },
+    {
+      "index": 39,
+      "english": "We heard everything you said! We\nwon't let you attack the florist!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 4729,
+      "_bytes": 66,
+      "translation": "¡Lo hemos oído todo! ¡No vamos a\ndejar que ataques la floristería!"
+    },
+    {
+      "index": 40,
+      "english": "Gh, I got caught. Oh well. I'll\njust have to beat you up!",
+      "speaker_id": 4231,
+      "line_type": 2,
+      "_offset": 4796,
+      "_bytes": 57,
+      "translation": "Ghh, me pillasteis. ¡Da igual,\nos voy a dar una paliza!"
+    },
+    {
+      "index": 41,
+      "english": "Let's go!",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 4854,
+      "_bytes": 9,
+      "translation": "¡Vamos!"
+    },
+    {
+      "index": 42,
+      "english": "*whew*",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 4864,
+      "_bytes": 6,
+      "translation": "Fiu..."
+    },
+    {
+      "index": 43,
+      "english": "Sora, did you see that?",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 4871,
+      "_bytes": 23,
+      "translation": "Sora, ¿has visto eso?"
+    },
+    {
+      "index": 44,
+      "english": "You did great, Yokomon!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 4895,
+      "_bytes": 24,
+      "translation": "¡Genial, Yokomon!"
+    },
+    {
+      "index": 45,
+      "english": "Eheheh!",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 4920,
+      "_bytes": 7,
+      "translation": "¡Jeje!"
+    },
+    {
+      "index": 46,
+      "english": "Sora! Are you okay?!",
+      "speaker_id": 6141,
+      "line_type": 2,
+      "_offset": 4928,
+      "_bytes": 20,
+      "translation": "¡Sora! ¡¿Estás bien?!"
+    },
+    {
+      "index": 47,
+      "english": "Mom!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 4949,
+      "_bytes": 4,
+      "translation": "¡Mamá!"
+    },
+    {
+      "index": 48,
+      "english": "I heard there was a child with a\nstrange stuffed animal causing a\nriot in front of the flower shop.",
+      "speaker_id": 6141,
+      "line_type": 2,
+      "_offset": 4954,
+      "_bytes": 99,
+      "translation": "Me dijeron que un niño con un\npeluche raro montó un lío\nfrente a la floristería."
+    },
+    {
+      "index": 49,
+      "english": "I was worried you might have\ngotten caught up in it...",
+      "speaker_id": 6141,
+      "line_type": 2,
+      "_offset": 5054,
+      "_bytes": 54,
+      "translation": "Me preocupaba que te hubieras\nvisto envuelta..."
+    },
+    {
+      "index": 50,
+      "english": "Yeah, I'm fine. I finished what\nyou asked me to do.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 5109,
+      "_bytes": 51,
+      "translation": "Sí, estoy bien. Ya hice lo\nque me pediste."
+    },
+    {
+      "index": 51,
+      "english": "Sorry for putting you in such a\ndangerous situation, Sora. I\ndidn't mean to.",
+      "speaker_id": 6141,
+      "line_type": 2,
+      "_offset": 5161,
+      "_bytes": 76,
+      "translation": "Perdona por ponerte en una\nsituación peligrosa, Sora. No\nera mi intención."
+    },
+    {
+      "index": 52,
+      "english": "Mom...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 5238,
+      "_bytes": 6,
+      "translation": "Mamá..."
+    },
+    {
+      "index": 53,
+      "english": "All I wanted was for you to\nunderstand a flower arrangement\nschool head's job a little.",
+      "speaker_id": 6141,
+      "line_type": 2,
+      "_offset": 5245,
+      "_bytes": 87,
+      "translation": "Solo quería que entendieras\nun poco el trabajo de una\nmaestra de arreglos florales."
+    },
+    {
+      "index": 54,
+      "english": "Yeah...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 5333,
+      "_bytes": 7,
+      "translation": "Sí..."
+    },
+    {
+      "index": 55,
+      "english": "Anyway, let's go home.",
+      "speaker_id": 6141,
+      "line_type": 2,
+      "_offset": 5341,
+      "_bytes": 22,
+      "translation": "Bueno, vamos a casa."
+    },
+    {
+      "index": 56,
+      "english": "Okay.",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 5364,
+      "_bytes": 5,
+      "translation": "Vale."
+    },
+    {
+      "index": 57,
+      "english": "Your mom was worried about you,\nSora.",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 5370,
+      "_bytes": 37,
+      "translation": "Tu madre se preocupó\npor ti, Sora."
+    },
+    {
+      "index": 58,
+      "english": "Yeah...",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 5408,
+      "_bytes": 7,
+      "translation": "Sí..."
+    },
+    {
+      "index": 59,
+      "english": "Aren't you happy, Sora?",
+      "speaker_id": 2311,
+      "line_type": 2,
+      "_offset": 5416,
+      "_bytes": 23,
+      "translation": "¿No estás feliz, Sora?"
+    },
+    {
+      "index": 60,
       "english": "Sorry, sorry! Don't worry about\nme. Come on, let's go home!",
-      "_offset": 828,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Perdón, perdón! No te preocupes\npor mí. Va, vamos a casa!"
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 5440,
+      "_bytes": 59,
+      "translation": "¡Perdón, perdón! No te preocupes\npor mí. ¡Va, vamos a casa!"
     }
   ]
 }

@@ -1,1253 +1,1447 @@
 {
   "file_id": "3567",
-  "text_count": 156,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 160,
   "dialog": [
     {
       "index": 0,
-      "english": "��������30 minutes ago...",
-      "_offset": 2058,
-      "_length": 25,
-      "speaker_id": 0,
+      "english": "30 minutes ago...",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 12424,
+      "_bytes": 17,
       "translation": "Hace 30 minutos..."
     },
     {
       "index": 1,
       "english": "Stupid Patamon!",
-      "_offset": 2084,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Patamon tonto!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12442,
+      "_bytes": 15,
+      "translation": "¡Patamon tonto!"
     },
     {
       "index": 2,
       "english": "Do whatever you want, T.K! I\ndon't care!",
-      "_offset": 2100,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Haz lo que quieras, T.K! Me\nda igual!"
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 12458,
+      "_bytes": 43,
+      "translation": "¡Haz lo que quieras, T.K.! ¡Me\nda igual!"
     },
     {
       "index": 3,
       "english": "Right now...",
-      "_offset": 2144,
-      "_length": 12,
-      "speaker_id": 0,
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 12502,
+      "_bytes": 12,
       "translation": "Ahora..."
     },
     {
       "index": 4,
       "english": "I wonder where Patamon went...",
-      "_offset": 2157,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Dónde estará Patamon?"
+      "speaker_id": 2211,
+      "line_type": 2,
+      "_offset": 12515,
+      "_bytes": 30,
+      "translation": "¿Dónde estará Patamon?"
     },
     {
       "index": 5,
       "english": "He flew away after you told him\noff.",
-      "_offset": 2188,
-      "_length": 36,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 12546,
+      "_bytes": 36,
       "translation": "Se fue volando cuando le\nregañaste."
     },
     {
       "index": 6,
       "english": "I *had* to say something! It's his\nown fault for asking me all those\npersonal questions...",
-      "_offset": 2225,
-      "_length": 90,
-      "speaker_id": 0,
-      "translation": "Tenía que decir algo! Es culpa\nsuya por hacerme todas esas\npreguntas personales..."
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12583,
+      "_bytes": 90,
+      "translation": "¡Tenía que decir algo! Es culpa\nsuya por hacerme todas esas\npreguntas personales..."
     },
     {
       "index": 7,
       "english": "Stuff like \"Was it hard to have to\nlive separately from your brother\nand dad?\"",
-      "_offset": 2316,
-      "_length": 78,
-      "speaker_id": 0,
-      "translation": "Cosas como: \"Te costó vivir\nseparado de tu hermano y tu\npadre?\""
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12674,
+      "_bytes": 78,
+      "translation": "Cosas como: \"¿Te costó vivir\nseparado de tu hermano y tu\npadre?\""
     },
     {
       "index": 8,
       "english": "I understand, but I still think\nyou were too harsh.",
-      "_offset": 2395,
-      "_length": 51,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 12753,
+      "_bytes": 51,
       "translation": "Lo entiendo, pero creo que\nfuiste demasiado duro."
     },
     {
       "index": 9,
       "english": "I was just being honest...",
-      "_offset": 2447,
-      "_length": 26,
-      "speaker_id": 0,
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12805,
+      "_bytes": 26,
       "translation": "Solo era sincero..."
     },
     {
       "index": 10,
       "english": "C'mon, let's go make up with\nPatamon.",
-      "_offset": 2474,
-      "_length": 37,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 12832,
+      "_bytes": 37,
       "translation": "Vamos a hacer las paces\ncon Patamon."
     },
     {
       "index": 11,
       "english": "Okay...",
-      "_offset": 2512,
-      "_length": 7,
-      "speaker_id": 0,
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12870,
+      "_bytes": 7,
       "translation": "Vale..."
     },
     {
       "index": 12,
       "english": "I think he's that way! Let's go\nlook!",
-      "_offset": 2520,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Creo que se fue por ahí!\nVamos a ver!"
+      "speaker_id": 2211,
+      "line_type": 2,
+      "_offset": 12878,
+      "_bytes": 37,
+      "translation": "¡Creo que se fue por ahí!\n¡Vamos a ver!"
     },
     {
       "index": 13,
       "english": "Where did Patamon go?",
-      "_offset": 2558,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Adónde fue Patamon?"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 12916,
+      "_bytes": 21,
+      "translation": "¿Adónde fue Patamon?"
     },
     {
       "index": 14,
       "english": "T.K...",
-      "_offset": 2580,
-      "_length": 9,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 12938,
+      "_bytes": 9,
       "translation": "T.K..."
     },
     {
       "index": 15,
       "english": "Cheer up, T.K.",
-      "_offset": 2590,
-      "_length": 17,
-      "speaker_id": 0,
+      "speaker_id": 2211,
+      "line_type": 2,
+      "_offset": 12948,
+      "_bytes": 17,
       "translation": "Anímate, T.K."
     },
     {
       "index": 16,
       "english": "Hey, missy!",
-      "_offset": 2608,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Oye, guapa!"
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 12966,
+      "_bytes": 11,
+      "translation": "¡Oye, guapa!"
     },
     {
       "index": 17,
       "english": "What time is it?",
-      "_offset": 2620,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Qué hora es?"
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 12978,
+      "_bytes": 16,
+      "translation": "¿Qué hora es?"
     },
     {
       "index": 18,
       "english": "Tch! What's wrong, are you scared\nof our faces?",
-      "_offset": 2637,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Tch! Qué pasa, te dan miedo\nnuestras caras?"
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 12995,
+      "_bytes": 47,
+      "translation": "¡Tch! ¿Qué pasa, te dan miedo\nnuestras caras?"
     },
     {
       "index": 19,
       "english": "Y'know, Shibuya is the best! It's\nso much more fun than the Digimon\nworld!",
-      "_offset": 2685,
-      "_length": 74,
-      "speaker_id": 0,
-      "translation": "Shibuya es lo mejor! Es mucho\nmás divertido que el Digimundo!"
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 13043,
+      "_bytes": 74,
+      "translation": "¡Shibuya es lo mejor! ¡Es mucho\nmás divertido que el Digimundo!"
     },
     {
       "index": 20,
-      "english": "It's Pumpmon and Gotsumon!",
-      "_offset": 2763,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Son Pumpmon y Gotsumon!"
+      "english": "!!",
+      "speaker_id": 2211,
+      "line_type": 2,
+      "_offset": 13118,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 21,
-      "english": "Do you know those Digimon?",
-      "_offset": 2790,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Conocéis a esos Digimon?"
+      "english": "It's Pumpmon and Gotsumon!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 13121,
+      "_bytes": 26,
+      "translation": "¡Son Pumpmon y Gotsumon!"
     },
     {
       "index": 22,
-      "english": "They must be Vamdemon's minions!",
-      "_offset": 2817,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Serán secuaces de\nMyotismon!"
+      "english": "Do you know those Digimon?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 13148,
+      "_bytes": 26,
+      "translation": "¿Conocéis a esos Digimon?"
     },
     {
       "index": 23,
-      "english": "What?! Let's go!",
-      "_offset": 2850,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Qué?! Vamos!"
+      "english": "They must be Myotismon's minions!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 13175,
+      "_bytes": 32,
+      "translation": "¡Serán secuaces de\nMyotismon!"
     },
     {
       "index": 24,
-      "english": "Yeah!",
-      "_offset": 2867,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí!"
+      "english": "What?! Let's go!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13208,
+      "_bytes": 16,
+      "translation": "¡¿Qué?! ¡Vamos!"
     },
     {
       "index": 25,
-      "english": "Pumpmon! Gotsumon!",
-      "_offset": 2873,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Pumpmon! Gotsumon!"
+      "english": "Yeah!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 13225,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     },
     {
       "index": 26,
-      "english": "Wah?!",
-      "_offset": 2892,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Ah?!"
+      "english": "Pumpmon! Gotsumon!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 13231,
+      "_bytes": 18,
+      "translation": "¡Pumpmon! ¡Gotsumon!"
     },
     {
       "index": 27,
-      "english": "Aaaaah! Chosen Children!",
-      "_offset": 2898,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Aaaaah! Niños Elegidos!"
+      "english": "Wah?!",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 13250,
+      "_bytes": 5,
+      "translation": "¡¿Ah?!"
     },
     {
       "index": 28,
-      "english": "Did you come here to look for the\neighth Chosen Child?!",
-      "_offset": 2923,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Habéis venido a buscar al\noctavo Niño Elegido?!"
+      "english": "Aaaaah! Chosen Children!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 13256,
+      "_bytes": 24,
+      "translation": "¡Aaaaah! ¡Niños Elegidos!"
     },
     {
       "index": 29,
-      "english": "Yeah, but hanging out in Shibuya\nwound up being a lot more fun.",
-      "_offset": 2979,
-      "_length": 63,
-      "speaker_id": 0,
-      "translation": "Sí, pero salir en Shibuya\nfue mucho más divertido."
+      "english": "Did you come here to look for the\neighth Chosen Child?!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 13281,
+      "_bytes": 55,
+      "translation": "¡¿Habéis venido a buscar al\noctavo Niño Elegido?!"
     },
     {
       "index": 30,
-      "english": "Hanging out in Shibuya wound up\nbeing a lot more fun?",
-      "_offset": 3043,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Salir en Shibuya fue mucho\nmás divertido?"
+      "english": "Yeah, but hanging out in Shibuya\nwound up being a lot more fun.",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 13337,
+      "_bytes": 63,
+      "translation": "Sí, pero salir en Shibuya\nfue mucho más divertido."
     },
     {
       "index": 31,
-      "english": "We've totally become Shibuya-type\nDigimon!",
-      "_offset": 3097,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Nos hemos vuelto Digimon al\nestilo Shibuya!"
+      "english": "Hanging out in Shibuya wound up\nbeing a lot more fun?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13401,
+      "_bytes": 53,
+      "translation": "¿Salir en Shibuya fue mucho\nmás divertido?"
     },
     {
       "index": 32,
-      "english": "Shibuya-type Digimon?",
-      "_offset": 3140,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Digimon de Shibuya?"
+      "english": "We've totally become Shibuya-type\nDigimon!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 13455,
+      "_bytes": 42,
+      "translation": "¡Nos hemos vuelto Digimon al\nestilo Shibuya!"
     },
     {
       "index": 33,
-      "english": "What kind of little scheme are you\ntwo coming up with?",
-      "_offset": 3162,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Qué tramáis vosotros dos ahora?"
+      "english": "Shibuya-type Digimon?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 13498,
+      "_bytes": 21,
+      "translation": "¿Digimon de Shibuya?"
     },
     {
       "index": 34,
-      "english": "Nothing at all!",
-      "_offset": 3217,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Nada de nada!"
+      "english": "What kind of little scheme are you\ntwo coming up with?",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 13520,
+      "_bytes": 54,
+      "translation": "¿Qué tramáis vosotros dos ahora?"
     },
     {
       "index": 35,
       "english": "Nothing at all!",
-      "_offset": 3233,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Nada de nada!"
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 13575,
+      "_bytes": 15,
+      "translation": "¡Nada de nada!"
     },
     {
       "index": 36,
-      "english": "Aaaaah, they...!",
-      "_offset": 3249,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Aaaah, ellos...!"
+      "english": "Nothing at all!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 13591,
+      "_bytes": 15,
+      "translation": "¡Nada de nada!"
     },
     {
       "index": 37,
-      "english": "Let's follow them!",
-      "_offset": 3266,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Vamos a seguirlos!"
+      "english": "Aaaaah, they...!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13607,
+      "_bytes": 16,
+      "translation": "¡Aaaah, ellos...!"
     },
     {
       "index": 38,
-      "english": "Ten minutes later...",
-      "_offset": 3285,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Pasan 10 minutos..."
+      "english": "Let's follow them!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 13624,
+      "_bytes": 18,
+      "translation": "¡Vamos a seguirlos!"
     },
     {
       "index": 39,
-      "english": "*pant* *pant*...",
-      "_offset": 3306,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "(jadeos)..."
-    },
-    {
-      "index": 40,
-      "english": "Where'd they go?",
-      "_offset": 3323,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Adónde han ido?"
-    },
-    {
-      "index": 41,
-      "english": "Over there, Matt!",
-      "_offset": 3340,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Por ahí, Matt!"
-    },
-    {
-      "index": 42,
-      "english": "This is delicious!",
-      "_offset": 3360,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Qué rico está!"
-    },
-    {
-      "index": 43,
-      "english": "You can't get ice cream\nin the Digimon world!",
-      "_offset": 3379,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "No hay helados en el\nDigimundo!"
-    },
-    {
-      "index": 44,
-      "english": "Pumpmon! Gotsumon!",
-      "_offset": 3425,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Pumpmon! Gotsumon!"
-    },
-    {
-      "index": 45,
-      "english": "Uh-oh! We've been spotted!",
-      "_offset": 3444,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Uy! Nos han visto!"
-    },
-    {
-      "index": 46,
-      "english": "Run!!",
-      "_offset": 3471,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Huid!"
-    },
-    {
-      "index": 47,
-      "english": "Wait!",
-      "_offset": 3477,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Alto!"
-    },
-    {
-      "index": 48,
       "english": "Ten minutes later...",
-      "_offset": 3483,
-      "_length": 20,
-      "speaker_id": 0,
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 13643,
+      "_bytes": 20,
       "translation": "Pasan 10 minutos..."
     },
     {
-      "index": 49,
+      "index": 40,
       "english": "*pant* *pant*...",
-      "_offset": 3504,
-      "_length": 16,
-      "speaker_id": 0,
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 13664,
+      "_bytes": 16,
       "translation": "(jadeos)..."
     },
     {
+      "index": 41,
+      "english": "Where'd they go?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13681,
+      "_bytes": 16,
+      "translation": "¿Adónde han ido?"
+    },
+    {
+      "index": 42,
+      "english": "Over there, Matt!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 13698,
+      "_bytes": 19,
+      "translation": "¡Por ahí, Matt!"
+    },
+    {
+      "index": 43,
+      "english": "This is delicious!",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 13718,
+      "_bytes": 18,
+      "translation": "¡Qué rico está!"
+    },
+    {
+      "index": 44,
+      "english": "You can't get ice cream\nin the Digimon world!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 13737,
+      "_bytes": 45,
+      "translation": "¡No hay helados en el\nDigimundo!"
+    },
+    {
+      "index": 45,
+      "english": "Pumpmon! Gotsumon!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13783,
+      "_bytes": 18,
+      "translation": "¡Pumpmon! ¡Gotsumon!"
+    },
+    {
+      "index": 46,
+      "english": "Uh-oh! We've been spotted!",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 13802,
+      "_bytes": 26,
+      "translation": "¡Uy! ¡Nos han visto!"
+    },
+    {
+      "index": 47,
+      "english": "Run!!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 13829,
+      "_bytes": 5,
+      "translation": "¡Corre!"
+    },
+    {
+      "index": 48,
+      "english": "Wait!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 13835,
+      "_bytes": 5,
+      "translation": "¡Alto!"
+    },
+    {
+      "index": 49,
+      "english": "Ten minutes later...",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 13841,
+      "_bytes": 20,
+      "translation": "Pasan 10 minutos..."
+    },
+    {
       "index": 50,
-      "english": "*pant* Where are they this time?",
-      "_offset": 3521,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "(jadeos) Dónde están ahora?"
+      "english": "*pant* *pant*...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 13862,
+      "_bytes": 16,
+      "translation": "(jadeos)..."
     },
     {
       "index": 51,
-      "english": "Matt, over there!",
-      "_offset": 3554,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Matt, por ahí!"
+      "english": "*pant* Where are they this time?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13879,
+      "_bytes": 32,
+      "translation": "(jadeos) ¿Dónde están ahora?"
     },
     {
       "index": 52,
-      "english": "Wouldn't you look better in this\none?",
-      "_offset": 3574,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "No te quedaría mejor este?"
+      "english": "Matt, over there!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 13912,
+      "_bytes": 19,
+      "translation": "Matt, ¡por ahí!"
     },
     {
       "index": 53,
-      "english": "I think so, too!",
-      "_offset": 3612,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Yo también!"
+      "english": "Wouldn't you look better in this\none?",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 13932,
+      "_bytes": 37,
+      "translation": "¿No te quedaría mejor este?"
     },
     {
       "index": 54,
-      "english": "Found you!",
-      "_offset": 3629,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Os pillé!"
+      "english": "I think so, too!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 13970,
+      "_bytes": 16,
+      "translation": "¡Yo también!"
     },
     {
       "index": 55,
-      "english": "They found us again!",
-      "_offset": 3640,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Otra vez nos pillan!"
+      "english": "Found you!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 13987,
+      "_bytes": 10,
+      "translation": "¡Os pillé!"
     },
     {
       "index": 56,
-      "english": "Ruuuuuuun!!",
-      "_offset": 3661,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Huuuuuid!!"
+      "english": "They found us again!",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 13998,
+      "_bytes": 20,
+      "translation": "¡Otra vez nos pillan!"
     },
     {
       "index": 57,
-      "english": "D-darn it!",
-      "_offset": 3673,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "P-porras!"
+      "english": "Ruuuuuuun!!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 14019,
+      "_bytes": 11,
+      "translation": "¡¡Correeee!!"
     },
     {
       "index": 58,
-      "english": "I'm so tired, I can't run\nanymore...",
-      "_offset": 3684,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Estoy muy cansado, no\npuedo más..."
+      "english": "D-darn it!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14031,
+      "_bytes": 10,
+      "translation": "¡P-porras!"
     },
     {
       "index": 59,
-      "english": "They're...",
-      "_offset": 3721,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Son..."
+      "english": "I'm so tired, I can't run\nanymore...",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 14042,
+      "_bytes": 36,
+      "translation": "Estoy muy cansado, no\npuedo más..."
     },
     {
       "index": 60,
-      "english": "Aaaah! Patamon!",
-      "_offset": 3732,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Aaaah! Patamon!"
+      "english": "They're...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14079,
+      "_bytes": 10,
+      "translation": "Son..."
     },
     {
       "index": 61,
-      "english": "T.K, let's go after him!",
-      "_offset": 3748,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "T.K, vamos tras él!"
+      "english": "Aaaah! Patamon!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 14090,
+      "_bytes": 15,
+      "translation": "¡Aaaah! ¡Patamon!"
     },
     {
       "index": 62,
-      "english": "Wait! Patamooooooooon!",
-      "_offset": 3776,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Espera! Patamooooooon!"
+      "english": "T.K, let's go after him!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14106,
+      "_bytes": 27,
+      "translation": "T.K., ¡vamos tras él!"
     },
     {
       "index": 63,
-      "english": "They didn't follow us...",
-      "_offset": 3799,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "No nos han seguido..."
+      "english": "Wait! Patamooooooooon!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 14134,
+      "_bytes": 22,
+      "translation": "¡Espera! ¡Patamooooooon!"
     },
     {
       "index": 64,
-      "english": "Should we wait and see what\nhappens?",
-      "_offset": 3824,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Deberíamos esperar y ver qué\npasa?"
+      "english": "They didn't follow us...",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 14157,
+      "_bytes": 24,
+      "translation": "No nos han seguido..."
     },
     {
       "index": 65,
-      "english": "Hmm... Yeah, we should.",
-      "_offset": 3861,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Hmm... Sí, deberíamos."
+      "english": "Should we wait and see what\nhappens?",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 14182,
+      "_bytes": 36,
+      "translation": "¿Deberíamos esperar y ver qué\npasa?"
     },
     {
       "index": 66,
-      "english": "Lord Vamdemon!",
-      "_offset": 3885,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Amo Myotismon"
+      "english": "Hmm... Yeah, we should.",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 14219,
+      "_bytes": 23,
+      "translation": "Hmm... Sí, deberíamos."
     },
     {
       "index": 67,
-      "english": "Lord Vamdemon!",
-      "_offset": 3900,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Amo Myotismon"
+      "english": "Lord Myotismon!",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 14243,
+      "_bytes": 14,
+      "translation": "¡Amo Myotismon!"
     },
     {
       "index": 68,
-      "english": "Pumpmon. Gotsumon.",
-      "_offset": 3915,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Pumpmon. Gotsumon."
+      "english": "Lord Myotismon!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 14258,
+      "_bytes": 14,
+      "translation": "¡Amo Myotismon!"
     },
     {
       "index": 69,
-      "english": "Yes, sir!",
-      "_offset": 3934,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Sí, señor"
+      "english": "Pumpmon. Gotsumon.",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 14273,
+      "_bytes": 18,
+      "translation": "Pumpmon. Gotsumon."
     },
     {
       "index": 70,
       "english": "Yes, sir!",
-      "_offset": 3944,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Sí, señor"
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 14292,
+      "_bytes": 9,
+      "translation": "¡Sí, señor!"
     },
     {
       "index": 71,
-      "english": "Have you found the eighth Chosen\nChild yet?",
-      "_offset": 3954,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Habéis encontrado al octavo\nNiño Elegido?"
+      "english": "Yes, sir!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 14302,
+      "_bytes": 9,
+      "translation": "¡Sí, señor!"
     },
     {
       "index": 72,
-      "english": "We still haven't found them.",
-      "_offset": 3998,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Todavía no lo encontramos."
+      "english": "Have you found the eighth Chosen\nChild yet?",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 14312,
+      "_bytes": 43,
+      "translation": "¿Habéis encontrado al octavo\nNiño Elegido?"
     },
     {
       "index": 73,
-      "english": "Then why haven't you seized the\nEmblemas from the Chosen Children?",
-      "_offset": 4027,
-      "_length": 64,
-      "speaker_id": 0,
-      "translation": "Entonces por qué no les\nquitasteis los Emblemas?"
+      "english": "We still haven't found them.",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 14356,
+      "_bytes": 28,
+      "translation": "Aún no lo hemos encontrado."
     },
     {
       "index": 74,
-      "english": "We were thinking about doing that\njust now!",
-      "_offset": 4092,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Estábamos pensando hacerlo\nahora mismo!"
+      "english": "Then why haven't you seized the\nCrests from the Chosen Children?",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 14385,
+      "_bytes": 64,
+      "translation": "¿Entonces por qué no les\nquitasteis los Emblemas?"
     },
     {
       "index": 75,
-      "english": "What he said!",
-      "_offset": 4136,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Eso digo yo!"
+      "english": "We were thinking about doing that\njust now!",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 14450,
+      "_bytes": 43,
+      "translation": "¡Estábamos pensando hacerlo\nahora mismo!"
     },
     {
       "index": 76,
-      "english": "Patamooooooooooon!",
-      "_offset": 4150,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Patamooooooooooon!"
+      "english": "What he said!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 14494,
+      "_bytes": 13,
+      "translation": "¡Eso digo yo!"
     },
     {
       "index": 77,
-      "english": "T.K! Why'd you come here?",
-      "_offset": 4169,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "T.K! Por qué has venido?"
+      "english": "Patamooooooooooon!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 14508,
+      "_bytes": 18,
+      "translation": "¡Patamooooooooooon!"
     },
     {
       "index": 78,
-      "english": "Sorry, Patamon, I was too harsh on\nyou.",
-      "_offset": 4198,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Perdona, Patamon, fui muy\nduro contigo."
+      "english": "T.K! Why'd you come here?",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 14527,
+      "_bytes": 28,
+      "translation": "¡T.K.! ¿Por qué has venido?"
     },
     {
       "index": 79,
-      "english": "Patamon!",
-      "_offset": 4242,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Patamon!"
+      "english": "Sorry, Patamon, I was too harsh on\nyou.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 14556,
+      "_bytes": 39,
+      "translation": "Perdona, Patamon, fui muy\nduro contigo."
     },
     {
       "index": 80,
-      "english": "...I'm sorry, too.",
-      "_offset": 4251,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "...Y yo lo siento."
+      "english": "...",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 14596,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 81,
-      "english": "Okay!",
-      "_offset": 4270,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Vale!"
+      "english": "Patamon!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 14600,
+      "_bytes": 8,
+      "translation": "¡Patamon!"
     },
     {
       "index": 82,
-      "english": "That's great, T.K!",
-      "_offset": 4276,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Qué bien, T.K!"
+      "english": "...I'm sorry, too.",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 14609,
+      "_bytes": 18,
+      "translation": "...Y yo lo siento."
     },
     {
       "index": 83,
-      "english": "Hey, Chosen Children!",
-      "_offset": 4298,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Eh, Niños Elegidos!"
+      "english": "Okay!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 14628,
+      "_bytes": 5,
+      "translation": "¡Vale!"
     },
     {
       "index": 84,
-      "english": "Hand over your Circuitos and Emblemas!",
-      "_offset": 4320,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Dadme los Circuitos y\nEmblemas!"
+      "english": "That's great, T.K!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14634,
+      "_bytes": 21,
+      "translation": "¡Qué bien, T.K.!"
     },
     {
       "index": 85,
-      "english": "Huh?!",
-      "_offset": 4352,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Eh?!"
+      "english": "Hey, Chosen Children!",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 14656,
+      "_bytes": 21,
+      "translation": "¡Eh, Niños Elegidos!"
     },
     {
       "index": 86,
-      "english": "What happened now? What's with the\none-eighty?",
-      "_offset": 4358,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Y ahora qué? A qué viene ese\ncambio?"
+      "english": "Hand over your Tags and Crests!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 14678,
+      "_bytes": 31,
+      "translation": "¡Dadme los Circuitos y\nEmblemas!"
     },
     {
       "index": 87,
-      "english": "I guess we should have expected\nthis. They were Vamdemon's minions\nall along.",
-      "_offset": 4405,
-      "_length": 77,
-      "speaker_id": 0,
-      "translation": "Supongo que debíamos\nesperarlo. Eran secuaces de\nMyotismon desde el principio."
+      "english": "Huh?!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 14710,
+      "_bytes": 5,
+      "translation": "¡¿Eh?!"
     },
     {
       "index": 88,
-      "english": "Guess we'll have to fight them...",
-      "_offset": 4483,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Habrá que luchar contra\nellos..."
+      "english": "What happened now? What's with the\none-eighty?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14716,
+      "_bytes": 46,
+      "translation": "¿Y ahora qué? ¿A qué viene ese\ncambio?"
     },
     {
       "index": 89,
-      "english": "Roaaaaaar!",
-      "_offset": 4517,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Roaaaaaar!"
+      "english": "I guess we should have expected\nthis. They were Myotismon's minions\nall along.",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 14763,
+      "_bytes": 77,
+      "translation": "Supongo que debíamos\nesperarlo. Eran secuaces de\nMyotismon desde el principio."
     },
     {
       "index": 90,
-      "english": "We'll mess you up!",
-      "_offset": 4528,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Os machacaremos!"
+      "english": "Guess we'll have to fight them...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14841,
+      "_bytes": 33,
+      "translation": "Habrá que luchar contra ellos..."
     },
     {
       "index": 91,
-      "english": "They're coming for us!",
-      "_offset": 4547,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Vienen a por nosotros!"
+      "english": "Roaaaaaar!",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 14875,
+      "_bytes": 10,
+      "translation": "¡Roaaaaaar!"
     },
     {
       "index": 92,
-      "english": "All right then, come at us!",
-      "_offset": 4570,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Pues venid a por\nnosotros!"
+      "english": "We'll mess you up!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 14886,
+      "_bytes": 18,
+      "translation": "¡Os machacaremos!"
     },
     {
       "index": 93,
-      "english": "...I give up.",
-      "_offset": 4598,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "...Me rindo."
+      "english": "They're coming for us!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14905,
+      "_bytes": 22,
+      "translation": "¡Vienen a por nosotros!"
     },
     {
       "index": 94,
-      "english": "Me, too.",
-      "_offset": 4612,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Yo igual"
+      "english": "All right then, come at us!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 14928,
+      "_bytes": 27,
+      "translation": "¡Pues venid a por nosotros!"
     },
     {
       "index": 95,
-      "english": "Huh?",
-      "_offset": 4621,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Eh?"
+      "english": "...I give up.",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 14956,
+      "_bytes": 13,
+      "translation": "...Me rindo."
     },
     {
       "index": 96,
-      "english": "I'd have a lot more fun hanging\nout in Shibuya than fighting the\nChosen Children.",
-      "_offset": 4626,
-      "_length": 81,
-      "speaker_id": 0,
-      "translation": "Me lo pasaría mejor en\nShibuya que luchando contra\nlos Niños Elegidos."
+      "english": "Me, too.",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 14970,
+      "_bytes": 8,
+      "translation": "Y yo."
     },
     {
       "index": 97,
-      "english": "Yeah, yeah. Wanna hang with us?",
-      "_offset": 4708,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Sí, sí. Venid con\nnosotros?"
+      "english": "Huh?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 14979,
+      "_bytes": 4,
+      "translation": "¿Eh?"
     },
     {
       "index": 98,
-      "english": "Whaaaaaaaaat?",
-      "_offset": 4740,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Quéeeeeeee?"
+      "english": "I'd have a lot more fun hanging\nout in Shibuya than fighting the\nChosen Children.",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 14984,
+      "_bytes": 81,
+      "translation": "Me lo pasaría mejor en\nShibuya que luchando contra\nlos Niños Elegidos."
     },
     {
       "index": 99,
-      "english": "I don't get them at all.",
-      "_offset": 4754,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "No los entiendo nada."
+      "english": "Yeah, yeah. Wanna hang with us?",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 15066,
+      "_bytes": 31,
+      "translation": "Sí, sí. ¿Os venís con nosotros?"
     },
     {
       "index": 100,
-      "english": "W-what's wrong?",
-      "_offset": 4782,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Q-qué pasa?"
+      "english": "Whaaaaaaaaat?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15098,
+      "_bytes": 13,
+      "translation": "¡¿Queeeeeeé?!"
     },
     {
       "index": 101,
-      "english": "Vamdemon's coming!",
-      "_offset": 4798,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Viene Myotismon!"
+      "english": "I don't get them at all.",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 15112,
+      "_bytes": 24,
+      "translation": "No los entiendo nada."
     },
     {
       "index": 102,
-      "english": "Why haven't you defeated the\nChosen Children?",
-      "_offset": 4817,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Por qué no vencisteis a los\nNiños Elegidos?"
+      "english": "!!",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 15137,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 103,
-      "english": "T-that's because...",
-      "_offset": 4863,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "E-es que..."
+      "english": "W-what's wrong?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15140,
+      "_bytes": 15,
+      "translation": "¿Q-qué pasa?"
     },
     {
       "index": 104,
-      "english": "You're worthless! I have no\nfurther use for you!",
-      "_offset": 4883,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "No valéis nada! Ya no me\nsois útiles!"
+      "english": "Myotismon's coming!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 15156,
+      "_bytes": 18,
+      "translation": "¡Viene Myotismon!"
     },
     {
       "index": 105,
-      "english": "Night Raid!",
-      "_offset": 4932,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Asalto Noc!"
+      "english": "Why haven't you defeated the\nChosen Children?",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 15175,
+      "_bytes": 45,
+      "translation": "¿Por qué no vencisteis a los\nNiños Elegidos?"
     },
     {
       "index": 106,
-      "english": "Gyaaaaaaaaaaaaaaah!",
-      "_offset": 4944,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Gyaaaaaaaaaaaaaaah!"
+      "english": "T-that's because...",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 15221,
+      "_bytes": 19,
+      "translation": "E-es que..."
     },
     {
       "index": 107,
-      "english": "Gyaaaaaaaaaaaaaaah!",
-      "_offset": 4964,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Gyaaaaaaaaaaaaaaah!"
+      "english": "You're worthless! I have no\nfurther use for you!",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 15241,
+      "_bytes": 48,
+      "translation": "¡No valéis nada! ¡Ya no me\nsois útiles!"
     },
     {
       "index": 108,
-      "english": "Pumpmon!",
-      "_offset": 4984,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Pumpmon!"
+      "english": "Night Raid!",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 15290,
+      "_bytes": 11,
+      "translation": "¡Asalto Nocturno!"
     },
     {
       "index": 109,
-      "english": "Gotsumon!",
-      "_offset": 4993,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Gotsumon!"
+      "english": "Gyaaaaaaaaaaaaaaah!",
+      "speaker_id": 4301,
+      "line_type": 2,
+      "_offset": 15302,
+      "_bytes": 19,
+      "translation": "¡Gyaaaaaaaaaaaaaaah!"
     },
     {
       "index": 110,
-      "english": "You're next.",
-      "_offset": 5003,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Vas tú ahora"
+      "english": "Gyaaaaaaaaaaaaaaah!",
+      "speaker_id": 4311,
+      "line_type": 2,
+      "_offset": 15322,
+      "_bytes": 19,
+      "translation": "¡Gyaaaaaaaaaaaaaaah!"
     },
     {
       "index": 111,
-      "english": "They were good guys... You didn't\nhave to kill them!",
-      "_offset": 5016,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Eran buena gente... No hacía\nfalta matarlos!"
+      "english": "Pumpmon!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 15342,
+      "_bytes": 8,
+      "translation": "¡Pumpmon!"
     },
     {
       "index": 112,
-      "english": "*sob* What are we gonna do now?",
-      "_offset": 5069,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "(llora) Qué hacemos ahora?"
+      "english": "Gotsumon!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 15351,
+      "_bytes": 9,
+      "translation": "¡Gotsumon!"
     },
     {
       "index": 113,
-      "english": "T.K... I'll protect T.K!",
-      "_offset": 5101,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "T.K... Protegeré a T.K!"
+      "english": "You're next.",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 15361,
+      "_bytes": 12,
+      "translation": "Ahora vas tú."
     },
     {
       "index": 114,
-      "english": "Patamoooooooooooooooooooon!",
-      "_offset": 5132,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Patamoooooooooooooooooooon!"
+      "english": "They were good guys... You didn't\nhave to kill them!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15374,
+      "_bytes": 52,
+      "translation": "Eran buena gente... ¡No hacía\nfalta matarlos!"
     },
     {
       "index": 115,
-      "english": "Vamdemon! I won't let you do as\nyou please!",
-      "_offset": 5160,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Myotismon! No harás lo que\nquieras!"
+      "english": "*sob* What are we gonna do now?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 15427,
+      "_bytes": 31,
+      "translation": "(llora) ¿Qué hacemos ahora?"
     },
     {
       "index": 116,
-      "english": "Ngh... You're...",
-      "_offset": 5204,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Ngh... Eres..."
+      "english": "T.K... I'll protect T.K!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 15459,
+      "_bytes": 30,
+      "translation": "T.K... ¡Protegeré a T.K.!"
     },
     {
       "index": 117,
-      "english": "Angemon! You evolved!",
-      "_offset": 5221,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Angemon evolucionó!"
+      "english": "Patamoooooooooooooooooooon!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 15490,
+      "_bytes": 27,
+      "translation": "¡Patamoooooooooooooooooooon!"
     },
     {
       "index": 118,
-      "english": "The one who holds holy power...\nWe'll put this fight on hold for\nnow! Mwahahahaha!",
-      "_offset": 5243,
-      "_length": 82,
-      "speaker_id": 0,
-      "translation": "El portador del poder\nsagrado... Dejaremos esto para\nmás tarde! Mwahahahaha!"
+      "english": "Myotismon! I won't let you do as\nyou please!",
+      "speaker_id": 2731,
+      "line_type": 2,
+      "_offset": 15518,
+      "_bytes": 43,
+      "translation": "¡Myotismon! ¡No harás lo que\nquieras!"
     },
     {
       "index": 119,
-      "english": "Pumpmon... Gotsumon...",
-      "_offset": 5326,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Pumpmon... Gotsumon..."
+      "english": "Ngh... You're...",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 15562,
+      "_bytes": 16,
+      "translation": "Ngh... Eres..."
     },
     {
       "index": 120,
-      "english": "We knew them for such a short\ntime, but they were our friends.",
-      "_offset": 5349,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Los conocimos poco tiempo,\npero eran nuestros amigos."
+      "english": "Angemon! You evolved!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 15579,
+      "_bytes": 21,
+      "translation": "¡Angemon! ¡Has evolucionado!"
     },
     {
       "index": 121,
-      "english": "Yeah...",
-      "_offset": 5412,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Sí..."
+      "english": "The one who holds holy power...\nWe'll put this fight on hold for\nnow! Mwahahahaha!",
+      "speaker_id": 3031,
+      "line_type": 2,
+      "_offset": 15601,
+      "_bytes": 82,
+      "translation": "El portador del poder\nsagrado... ¡Dejaremos esto para\nmás tarde! ¡Mwahahahaha!"
     },
     {
       "index": 122,
-      "english": "Let's go home.",
-      "_offset": 5420,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Vamos a casa."
+      "english": "Pumpmon... Gotsumon...",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 15684,
+      "_bytes": 22,
+      "translation": "Pumpmon... Gotsumon..."
     },
     {
       "index": 123,
-      "english": "Wait, Matt! We have to look for\nPatamon!",
-      "_offset": 5435,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Espera, Matt! Hay que buscar\na Patamon!"
+      "english": "We knew them for such a short\ntime, but they were our friends.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15707,
+      "_bytes": 62,
+      "translation": "Los conocimos poco tiempo,\npero eran nuestros amigos."
     },
     {
       "index": 124,
-      "english": "A-ah. Sorry, sorry...",
-      "_offset": 5478,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "A-ah. Perdón, perdón."
+      "english": "Yeah...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 15770,
+      "_bytes": 7,
+      "translation": "Sí..."
     },
     {
       "index": 125,
-      "english": "Miss, have you seen Patamon?",
-      "_offset": 5500,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Señorita ha visto a Patamon?"
+      "english": "Let's go home.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15778,
+      "_bytes": 14,
+      "translation": "Vamos a casa."
     },
     {
       "index": 126,
-      "english": "Patamon? Uh, what's that?",
-      "_offset": 5529,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Patamon? Eso qué es?"
+      "english": "Wait, Matt! We have to look for\nPatamon!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 15793,
+      "_bytes": 42,
+      "translation": "¡Espera, Matt! ¡Hay que buscar\na Patamon!"
     },
     {
       "index": 127,
-      "english": "T-T.K!",
-      "_offset": 5555,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "T-T.K!"
+      "english": "A-ah. Sorry, sorry...",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15836,
+      "_bytes": 21,
+      "translation": "A-ah. Perdón, perdón."
     },
     {
       "index": 128,
-      "english": "Nothing, nothing, Ahaha.",
-      "_offset": 5565,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Nada, nada, jaja."
+      "english": "Miss, have you seen Patamon?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 15858,
+      "_bytes": 28,
+      "translation": "Señorita, ¿ha visto a Patamon?"
     },
     {
       "index": 129,
-      "english": "Mister, have you seen Patamon?",
-      "_offset": 5590,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Señor, ha visto a Patamon?"
+      "english": "Patamon? Uh, what's that?",
+      "speaker_id": 6401,
+      "line_type": 2,
+      "_offset": 15887,
+      "_bytes": 25,
+      "translation": "¿Patamon? ¿Eso qué es?"
     },
     {
       "index": 130,
-      "english": "Hm? Patamon?",
-      "_offset": 5621,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Hm? Patamon?"
+      "english": "T-T.K!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15913,
+      "_bytes": 9,
+      "translation": "¡T-T.K.!"
     },
     {
       "index": 131,
-      "english": "T-T.K!",
-      "_offset": 5634,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "T-T.K!"
+      "english": "Nothing, nothing, Ahaha.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15923,
+      "_bytes": 24,
+      "translation": "Nada, nada, jaja."
     },
     {
       "index": 132,
-      "english": "But we're keeping the Digimon secret",
-      "_offset": 5644,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Pero lo del Digimon es\nsecreto"
+      "english": "Mister, have you seen Patamon?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 15948,
+      "_bytes": 30,
+      "translation": "Señor, ¿ha visto a Patamon?"
     },
     {
       "index": 133,
-      "english": "He may have devolved to Tokomon",
-      "_offset": 5681,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Puede que haya vuelto a\nTokomon"
+      "english": "Hm? Patamon?",
+      "speaker_id": 6381,
+      "line_type": 2,
+      "_offset": 15979,
+      "_bytes": 12,
+      "translation": "¿Hm? ¿Patamon?"
     },
     {
       "index": 134,
-      "english": "Right, it's a secret.",
-      "_offset": 5713,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Cierto, es secreto."
+      "english": "T-T.K!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 15992,
+      "_bytes": 9,
+      "translation": "¡T-T.K.!"
     },
     {
       "index": 135,
-      "english": "I'll do everything I can to help\nyou find Patamon, so relax.",
-      "_offset": 5735,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Haré lo posible para ayudarte\na buscar a Patamon, tranquilo."
+      "english": "But we're keeping the Digimon secret",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16002,
+      "_bytes": 36,
+      "translation": "Pero lo del Digimon es secreto"
     },
     {
       "index": 136,
-      "english": "Thanks, Matt!",
-      "_offset": 5796,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Gracias, Matt!"
+      "english": "He may have devolved to Tokomon",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 16039,
+      "_bytes": 31,
+      "translation": "Puede que haya vuelto a Tokomon"
     },
     {
       "index": 137,
-      "english": "Anyway, mister! Forget what you\njust heard!",
-      "_offset": 5812,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Bueno, señor! Olvide lo que\nacaba de oír!"
+      "english": "Right, it's a secret.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 16071,
+      "_bytes": 21,
+      "translation": "Cierto, es secreto."
     },
     {
       "index": 138,
-      "english": "*sigh*",
-      "_offset": 5856,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Uf..."
+      "english": "I'll do everything I can to help\nyou find Patamon, so relax.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16093,
+      "_bytes": 60,
+      "translation": "Haré lo posible para ayudarte\na buscar a Patamon, tranquilo."
     },
     {
       "index": 139,
-      "english": "Looks like he's sleeping... he\nmust be drunk.",
-      "_offset": 5863,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Parece que duerme... debe de\nestar borracho."
+      "english": "Thanks, Matt!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 16154,
+      "_bytes": 15,
+      "translation": "¡Gracias, Matt!"
     },
     {
       "index": 140,
-      "english": "What!? That means he's in danger!\nIf he gets attacked by a\nDigimon...",
-      "_offset": 5909,
-      "_length": 69,
-      "speaker_id": 0,
-      "translation": "Qué?! Entonces está en\npeligro! Si le ataca un\nDigimon..."
+      "english": "Anyway, mister! Forget what you\njust heard!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 16170,
+      "_bytes": 43,
+      "translation": "¡Bueno, señor! ¡Olvide lo que\nacaba de oír!"
     },
     {
       "index": 141,
-      "english": "S-sorry, I was joking. Let's look\nfor Patamon!",
-      "_offset": 5979,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "P-perdón, era broma. Vamos a\nbuscar a Patamon!"
+      "english": "*sigh*",
+      "speaker_id": 6381,
+      "line_type": 2,
+      "_offset": 16214,
+      "_bytes": 6,
+      "translation": "Uf..."
     },
     {
       "index": 142,
-      "english": "Yeah.",
-      "_offset": 6026,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí."
+      "english": "Looks like he's sleeping... he\nmust be drunk.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16221,
+      "_bytes": 45,
+      "translation": "Parece que duerme... debe de\nestar borracho."
     },
     {
       "index": 143,
-      "english": "Patter, patter... now that I think\nabout it, I messed up in that golf\ngame.",
-      "_offset": 6032,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "Pata, pata... pensándolo bien,\nla lié en esa partida de golf."
+      "english": "What!? That means he's in danger!\nIf he gets attacked by a\nDigimon...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 16267,
+      "_bytes": 69,
+      "translation": "¡¿Qué?! ¡Entonces está en\npeligro! Si le ataca un\nDigimon..."
     },
     {
       "index": 144,
-      "english": "I'll ask this old lady. Have you\nseen Patamon?",
-      "_offset": 6108,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Le preguntaré a esa vieja.\nHa visto a Patamon?"
+      "english": "S-sorry, I was joking. Let's look\nfor Patamon!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16337,
+      "_bytes": 46,
+      "translation": "P-perdón, era broma. ¡Vamos a\nbuscar a Patamon!"
     },
     {
       "index": 145,
-      "english": "Hello?",
-      "_offset": 6159,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Hola?"
-    },
-    {
-      "index": 146,
-      "english": "Did you just call me an old lady?",
-      "_offset": 6166,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Me acabas de llamar\nvieja?"
-    },
-    {
-      "index": 147,
-      "english": "T-T.K! Don't call her that!",
-      "_offset": 6200,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "T-T.K! No la llames así!"
-    },
-    {
-      "index": 148,
-      "english": "It's nothing... Ahaha.",
-      "_offset": 6231,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Nada, nada... Jaja."
-    },
-    {
-      "index": 149,
-      "english": "Mister, have you seen Patamon?",
-      "_offset": 6254,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Señor, ha visto a Patamon?"
-    },
-    {
-      "index": 150,
-      "english": "I have.",
-      "_offset": 6285,
-      "_length": 7,
-      "speaker_id": 0,
+      "english": "Yeah.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 16384,
+      "_bytes": 5,
       "translation": "Sí."
     },
     {
+      "index": 146,
+      "english": "Patter, patter... now that I think\nabout it, I messed up in that golf\ngame.",
+      "speaker_id": 6381,
+      "line_type": 2,
+      "_offset": 16390,
+      "_bytes": 75,
+      "translation": "Pata, pata... pensándolo bien,\nla lié en esa partida de golf."
+    },
+    {
+      "index": 147,
+      "english": "I'll ask this old lady. Have you\nseen Patamon?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 16466,
+      "_bytes": 46,
+      "translation": "Le preguntaré a esa vieja.\n¿Ha visto a Patamon?"
+    },
+    {
+      "index": 148,
+      "english": "...",
+      "speaker_id": 6401,
+      "line_type": 2,
+      "_offset": 16513,
+      "_bytes": 3,
+      "translation": "..."
+    },
+    {
+      "index": 149,
+      "english": "Hello?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 16517,
+      "_bytes": 6,
+      "translation": "¿Hola?"
+    },
+    {
+      "index": 150,
+      "english": "Did you just call me an old lady?",
+      "speaker_id": 6401,
+      "line_type": 2,
+      "_offset": 16524,
+      "_bytes": 33,
+      "translation": "¿Me acabas de llamar vieja?"
+    },
+    {
       "index": 151,
-      "english": "Really!? Where?",
-      "_offset": 6293,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Serio? Dónde?"
+      "english": "T-T.K! Don't call her that!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16558,
+      "_bytes": 30,
+      "translation": "¡T-T.K.! ¡No la llames así!"
     },
     {
       "index": 152,
-      "english": "*burp*",
-      "_offset": 6309,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Hip..."
+      "english": "It's nothing... Ahaha.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16589,
+      "_bytes": 22,
+      "translation": "Nada, nada... Jaja."
     },
     {
       "index": 153,
-      "english": "Looks like he's drunk... let's go,\nT.K.",
-      "_offset": 6316,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Parece que está borracho...\nvamos, T.K."
+      "english": "Mister, have you seen Patamon?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 16612,
+      "_bytes": 30,
+      "translation": "Señor, ¿ha visto a Patamon?"
     },
     {
       "index": 154,
-      "english": "Okay...",
-      "_offset": 6359,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Vale..."
+      "english": "I have.",
+      "speaker_id": 6381,
+      "line_type": 2,
+      "_offset": 16643,
+      "_bytes": 7,
+      "translation": "Sí."
     },
     {
       "index": 155,
+      "english": "Really!? Where?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 16651,
+      "_bytes": 15,
+      "translation": "¡¿En serio?! ¿Dónde?"
+    },
+    {
+      "index": 156,
+      "english": "*burp*",
+      "speaker_id": 6381,
+      "line_type": 2,
+      "_offset": 16667,
+      "_bytes": 6,
+      "translation": "Hip..."
+    },
+    {
+      "index": 157,
+      "english": "Looks like he's drunk... let's go,\nT.K.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 16674,
+      "_bytes": 42,
+      "translation": "Parece que está borracho...\nvamos, T.K."
+    },
+    {
+      "index": 158,
+      "english": "Okay...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 16717,
+      "_bytes": 7,
+      "translation": "Vale..."
+    },
+    {
+      "index": 159,
       "english": "10 more minutes later...",
-      "_offset": 6367,
-      "_length": 24,
-      "speaker_id": 0,
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 16725,
+      "_bytes": 24,
       "translation": "10 minutos más tarde..."
     }
   ]

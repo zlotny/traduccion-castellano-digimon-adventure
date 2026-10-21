@@ -1,46 +1,80 @@
 {
   "file_id": "3611",
-  "text_count": 5,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 8,
   "dialog": [
     {
       "index": 0,
-      "english": "wimming\nall this time without resting,\njust for us...",
-      "_offset": 0,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "...nadando sin descansar,\nsolo por nosotros..."
+      "english": "Excuse me, everyone...",
+      "speaker_id": 4151,
+      "line_type": 2,
+      "_offset": 472,
+      "_bytes": 22,
+      "translation": "Disculpad, chicos..."
     },
     {
       "index": 1,
-      "english": "We're really sorry.",
-      "_offset": 54,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Lo sentimos mucho."
+      "english": "What's wrong, Whamon?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 495,
+      "_bytes": 21,
+      "translation": "¿Qué te pasa, Whamon?"
     },
     {
       "index": 2,
-      "english": "Do not worry. You are this world's\nlast hope.",
-      "_offset": 74,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "No os preocupéis. Sois la\núltima esperanza."
+      "english": "There's an undersea cave nearby.\nMay I rest there for a bit?",
+      "speaker_id": 4151,
+      "line_type": 2,
+      "_offset": 517,
+      "_bytes": 60,
+      "translation": "Hay una cueva submarina\ncerca. ¿Puedo descansar allí\nun poco?"
     },
     {
       "index": 3,
-      "english": "Thanks, Whamon.",
-      "_offset": 120,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Gracias, Whamon"
+      "english": "Of course! You've been swimming\nall this time without resting,\njust for us...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 578,
+      "_bytes": 77,
+      "translation": "¡Claro! Llevas todo el rato\nnadando sin descansar, solo\npor nosotros..."
     },
     {
       "index": 4,
+      "english": "We're really sorry.",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 656,
+      "_bytes": 19,
+      "translation": "Lo sentimos mucho."
+    },
+    {
+      "index": 5,
+      "english": "Do not worry. You are this world's\nlast hope.",
+      "speaker_id": 4151,
+      "line_type": 2,
+      "_offset": 676,
+      "_bytes": 45,
+      "translation": "No os preocupéis. Sois la\núltima esperanza."
+    },
+    {
+      "index": 6,
       "english": "Thanks, Whamon.",
-      "_offset": 136,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Gracias, Whamon"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 722,
+      "_bytes": 15,
+      "translation": "Gracias, Whamon."
+    },
+    {
+      "index": 7,
+      "english": "Thanks, Whamon.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 738,
+      "_bytes": 15,
+      "translation": "Gracias, Whamon."
     }
   ]
 }

@@ -1,262 +1,485 @@
 {
   "file_id": "3565",
-  "text_count": 32,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 53,
   "dialog": [
     {
       "index": 0,
-      "english": "Really? Well, anyway, let's head\nhome.",
-      "_offset": 21,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Ah, vale. Bueno, vamos ya\npara casa."
+      "english": "What is it?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3144,
+      "_bytes": 11,
+      "translation": "¿Qué pasa?"
     },
     {
       "index": 1,
-      "english": "Okay!",
-      "_offset": 60,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Vale!"
+      "english": "Do you like your mom, T.K?",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 3156,
+      "_bytes": 29,
+      "translation": "¿Quieres a tu mamá, T.K.?"
     },
     {
       "index": 2,
-      "english": "Oh, right. Mommy, let's go this\nway today!",
-      "_offset": 66,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Ah, cierto. Mamá, vayamos por\naquí hoy!"
+      "english": "Of course I do!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3186,
+      "_bytes": 15,
+      "translation": "¡Pues claro!"
     },
     {
       "index": 3,
-      "english": "Huh? Why?",
-      "_offset": 109,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Por qué?"
+      "english": "Who do you like more, me or your\nmom?",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 3202,
+      "_bytes": 37,
+      "translation": "¿A quién quieres más, a mí\no a tu mamá?"
     },
     {
       "index": 4,
-      "english": "I heard there's a shortcut this\nway.",
-      "_offset": 119,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Dicen que hay un atajo\npor aquí."
+      "english": "My mom!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3240,
+      "_bytes": 7,
+      "translation": "¡A mamá!"
     },
     {
       "index": 5,
-      "english": "Huh, okay! It's nice to take\nanother route once in a while.",
-      "_offset": 156,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Anda, vale! Está bien cambiar\nde camino de vez en cuando."
+      "english": "*waaaaah*",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 3248,
+      "_bytes": 9,
+      "translation": "¡Buaaaah!"
     },
     {
       "index": 6,
-      "english": "It's nice to take another route\nonce in a while.",
-      "_offset": 216,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Está bien cambiar de camino\nde vez en cuando."
+      "english": "I'm kidding, don't cry! Honestly,\nI like you just as much as I like\nmy mom.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3258,
+      "_bytes": 75,
+      "translation": "¡Es broma, no llores! Te\nquiero tanto como a mi\nmamá, de verdad."
     },
     {
       "index": 7,
-      "english": "What should I make for tonight's\ndinner?",
-      "_offset": 265,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Qué preparo para cenar esta\nnoche?"
+      "english": "T.K, you meanie...",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 3334,
+      "_bytes": 21,
+      "translation": "T.K., qué malo..."
     },
     {
       "index": 8,
-      "english": "I'm fine with whatever! I like\nanything you make, Mommy.",
-      "_offset": 306,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Me vale cualquier cosa! Me\ngusta lo que haces, mamá."
+      "english": "It's Mommy! Patamon, hide!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3356,
+      "_bytes": 26,
+      "translation": "¡Mamá! Patamon, ¡escóndete!"
     },
     {
       "index": 9,
-      "english": "Hey! Found you!",
-      "_offset": 363,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Ya te encontré!"
+      "english": "O-okay!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 3383,
+      "_bytes": 7,
+      "translation": "¡V-vale!"
     },
     {
       "index": 10,
-      "english": "A... a talking spider?! Ah!",
-      "_offset": 379,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Un... una araña que habla?!"
+      "english": "T.K!",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 3391,
+      "_bytes": 7,
+      "translation": "¡T.K.!"
     },
     {
       "index": 11,
-      "english": "Mama!",
-      "_offset": 408,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Mamá!"
+      "english": "Ah! Welcome back, Mommy!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3399,
+      "_bytes": 24,
+      "translation": "¡Ah! ¡Hola, mamá!"
     },
     {
       "index": 12,
-      "english": "It's Dokugumon! T.K, get down!\nOops, I talked...",
-      "_offset": 414,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Es Dokugumon! T.K., agáchate!\nUy, he hablado..."
+      "english": "T.K, were you just talking to\nthat stuffed animal?",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 3424,
+      "_bytes": 53,
+      "translation": "T.K., ¿hablabas con ese\nmuñeco de peluche?"
     },
     {
       "index": 13,
-      "english": "It's okay, Patamon, it looks like\nMommy fainted.",
-      "_offset": 466,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Tranquilo, Patamon, mamá\nparece que se desmayó."
+      "english": "(What should I do? I can't tell\nher about Patamon...)",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3478,
+      "_bytes": 53,
+      "translation": "(¿Qué hago? No puedo hablarle\nde Patamon...)"
     },
     {
       "index": 14,
-      "english": "Mommy hates spiders even more than\nshe hates cockroaches.",
-      "_offset": 515,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Mamá odia las arañas incluso\nmás que las cucarachas."
+      "english": "No, I wasn't talking to anyone.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3532,
+      "_bytes": 31,
+      "translation": "No, no hablaba con nadie."
     },
     {
       "index": 15,
-      "english": "Hey, hey, Chosen Child! Gimme your\nTag and Crest!",
-      "_offset": 573,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Eh, eh, Niño Elegido! Dame tu\nCircuito y Emblema!"
+      "english": "I'm sure heard you talking to\nsomeone.",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 3564,
+      "_bytes": 38,
+      "translation": "Te he oído hablar con\nalguien, seguro."
     },
     {
       "index": 16,
-      "english": "I'm gonna protect T.K and his\nmom!",
-      "_offset": 623,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Voy a proteger a T.K. y a\nsu mamá!"
+      "english": "I was just talking to myself...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3603,
+      "_bytes": 31,
+      "translation": "Hablaba solo..."
     },
     {
       "index": 17,
-      "english": "U...gh...",
-      "_offset": 661,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "U...gh..."
+      "english": "(T.K, she'll be able to see\nthrough a lie like that in no time\nflat!)",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 3635,
+      "_bytes": 72,
+      "translation": "(T.K., ¡esa mentira la va a\npillar en un segundo!)"
     },
     {
       "index": 18,
-      "english": "Mama!",
-      "_offset": 671,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Mamá!"
+      "english": "(Maybe T.K's stressed out from\nour divorce...)",
+      "speaker_id": 6221,
+      "line_type": 4,
+      "_offset": 3708,
+      "_bytes": 49,
+      "translation": "(Puede que T.K. esté mal por\nel divorcio...)"
     },
     {
       "index": 19,
-      "english": "T.K! W-where's that spider\nmonster?",
-      "_offset": 677,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "T.K.! D-dónde está ese\nmonstruo araña?"
+      "english": "Have you been doing okay lately,\nT.K? Are you sleeping and\neating enough?",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 3758,
+      "_bytes": 76,
+      "translation": "¿Estás bien últimamente,\nT.K.? ¿Duermes y comes lo\nsuficiente?"
     },
     {
       "index": 20,
-      "english": "Monster? There was a spider, but\nit was just a normal spider.",
-      "_offset": 716,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Monstruo? Había una araña, pero\nera una araña normal."
+      "english": "Of course I am. I'm doing fine!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3835,
+      "_bytes": 31,
+      "translation": "Claro que sí. ¡Estoy bien!"
     },
     {
       "index": 21,
-      "english": "Huh?! But it was the size of a\nperson...",
-      "_offset": 778,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Eh?! Pero medía como una\npersona..."
+      "english": "Really? Well, anyway, let's head\nhome.",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 3867,
+      "_bytes": 38,
+      "translation": "Ah, vale. Bueno, vamos ya\npara casa."
     },
     {
       "index": 22,
-      "english": "You must have thought it was\nbigger out of shock. It's okay, \nI grabbed it and threw it away.",
-      "_offset": 819,
-      "_length": 93,
-      "speaker_id": 0,
-      "translation": "Debiste de verla más grande por\nel susto. Tranquila, la cogí\ny la tiré."
+      "english": "Okay!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3906,
+      "_bytes": 5,
+      "translation": "¡Vale!"
     },
     {
       "index": 23,
-      "english": "(Maybe *I'm* the one who's worn\nout, not T.K...)",
-      "_offset": 913,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "(Creo que la que está agotada\nsoy yo, no T.K...)"
+      "english": "Oh, right. Mommy, let's go this\nway today!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3912,
+      "_bytes": 42,
+      "translation": "Ah, cierto. Mamá, ¡vayamos por\naquí hoy!"
     },
     {
       "index": 24,
-      "english": "Yeah...Yeah, you're right, giant\nspiders don't exist.",
-      "_offset": 965,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Sí, sí, tienes razón, las\narañas gigantes no existen."
+      "english": "Huh? Why?",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 3955,
+      "_bytes": 9,
+      "translation": "¿Y eso?"
     },
     {
       "index": 25,
-      "english": "Right! Anyway, let's hurry up and\ngo home. I have so much to tell\nyou about camp.",
-      "_offset": 1019,
-      "_length": 81,
-      "speaker_id": 0,
-      "translation": "Cierto! Bueno, vamos rápido a\ncasa. Tengo mucho que\ncontarte del campamento."
+      "english": "I heard there's a shortcut this\nway.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 3965,
+      "_bytes": 36,
+      "translation": "Dicen que hay un atajo\npor aquí."
     },
     {
       "index": 26,
-      "english": "Yeah! Let's go home.",
-      "_offset": 1101,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Sí! Vamos a casa."
+      "english": "Huh, okay! It's nice to take\nanother route once in a while.",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 4002,
+      "_bytes": 59,
+      "translation": "¡Anda, vale! Está bien cambiar\nde camino de vez en cuando."
     },
     {
       "index": 27,
-      "english": "You seemed a lot more mature just\nnow. Maybe because of camp?",
-      "_offset": 1122,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Te has visto mucho más maduro\nahora. Será por el campamento?"
+      "english": "It's nice to take another route\nonce in a while.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 4062,
+      "_bytes": 48,
+      "translation": "Está bien cambiar de camino\nde vez en cuando."
     },
     {
       "index": 28,
-      "english": "I grew up a little!",
-      "_offset": 1184,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "He crecido un poco!"
+      "english": "What should I make for tonight's\ndinner?",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 4111,
+      "_bytes": 40,
+      "translation": "¿Qué preparo para cenar esta\nnoche?"
     },
     {
       "index": 29,
-      "english": "And just what do you mean by that?",
-      "_offset": 1204,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Y qué quieres decir con eso?"
+      "english": "I'm fine with whatever! I like\nanything you make, Mommy.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 4152,
+      "_bytes": 56,
+      "translation": "¡Me vale cualquier cosa! Me\ngusta lo que haces, mamá."
     },
     {
       "index": 30,
-      "english": "Right, Patamon?",
-      "_offset": 1239,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Verdad Patamon?"
+      "english": "Hey! Found you!",
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 4209,
+      "_bytes": 15,
+      "translation": "¡Ya te encontré!"
     },
     {
       "index": 31,
+      "english": "A... a talking spider?! Ah!\n",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 4225,
+      "_bytes": 28,
+      "translation": "¡¿Un... una araña que habla?!"
+    },
+    {
+      "index": 32,
+      "english": "Mama!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 4254,
+      "_bytes": 5,
+      "translation": "¡Mamá!"
+    },
+    {
+      "index": 33,
+      "english": "It's Dokugumon! T.K, get down!\nOops, I talked...",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 4260,
+      "_bytes": 51,
+      "translation": "¡Es Dokugumon! T.K., ¡agáchate!\nUy, he hablado..."
+    },
+    {
+      "index": 34,
+      "english": "It's okay, Patamon, it looks like\nMommy fainted.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 4312,
+      "_bytes": 48,
+      "translation": "Tranquilo, Patamon, mamá\nparece que se desmayó."
+    },
+    {
+      "index": 35,
+      "english": "Mommy hates spiders even more than\nshe hates cockroaches.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 4361,
+      "_bytes": 57,
+      "translation": "Mamá odia las arañas incluso\nmás que las cucarachas."
+    },
+    {
+      "index": 36,
+      "english": "Hey, hey, Chosen Child! Gimme your\nTag and Crest!",
+      "speaker_id": 4914,
+      "line_type": 2,
+      "_offset": 4419,
+      "_bytes": 49,
+      "translation": "¡Eh, eh, Niño Elegido! ¡Dame tu\nCircuito y tu Emblema!"
+    },
+    {
+      "index": 37,
+      "english": "I'm gonna protect T.K and his\nmom!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 4469,
+      "_bytes": 37,
+      "translation": "¡Voy a proteger a T.K. y a\nsu mamá!"
+    },
+    {
+      "index": 38,
+      "english": "U...gh...",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 4507,
+      "_bytes": 9,
+      "translation": "U...gh..."
+    },
+    {
+      "index": 39,
+      "english": "Mama!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 4517,
+      "_bytes": 5,
+      "translation": "¡Mamá!"
+    },
+    {
+      "index": 40,
+      "english": "T.K! W-where's that spider\nmonster?",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 4523,
+      "_bytes": 38,
+      "translation": "¡T.K.! ¿D-dónde está ese\nmonstruo araña?"
+    },
+    {
+      "index": 41,
+      "english": "Monster? There was a spider, but\nit was just a normal spider.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 4562,
+      "_bytes": 61,
+      "translation": "¿Monstruo? Había una araña, pero\nera una araña normal."
+    },
+    {
+      "index": 42,
+      "english": "Huh?! But it was the size of a\nperson...",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 4624,
+      "_bytes": 40,
+      "translation": "¡¿Eh?! Pero medía como una\npersona..."
+    },
+    {
+      "index": 43,
+      "english": "You must have thought it was\nbigger out of shock. It's okay, \nI grabbed it and threw it away.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 4665,
+      "_bytes": 93,
+      "translation": "Debiste de verla más grande por\nel susto. Tranquila, la cogí\ny la tiré."
+    },
+    {
+      "index": 44,
+      "english": "(Maybe *I'm* the one who's worn\nout, not T.K...)",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 4759,
+      "_bytes": 51,
+      "translation": "(Creo que la que está agotada\nsoy yo, no T.K...)"
+    },
+    {
+      "index": 45,
+      "english": "Yeah...Yeah, you're right, giant\nspiders don't exist.",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 4811,
+      "_bytes": 53,
+      "translation": "Sí, sí, tienes razón, las\narañas gigantes no existen."
+    },
+    {
+      "index": 46,
+      "english": "Right! Anyway, let's hurry up and\ngo home. I have so much to tell\nyou about camp.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 4865,
+      "_bytes": 81,
+      "translation": "¡Cierto! Bueno, vamos rápido a\ncasa. Tengo mucho que\ncontarte del campamento."
+    },
+    {
+      "index": 47,
+      "english": "Yeah! Let's go home.",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 4947,
+      "_bytes": 20,
+      "translation": "¡Sí! Vamos a casa."
+    },
+    {
+      "index": 48,
+      "english": "You seemed a lot more mature just\nnow. Maybe because of camp?",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 4968,
+      "_bytes": 61,
+      "translation": "Pareces mucho más maduro\nahora. ¿Será por el campamento?"
+    },
+    {
+      "index": 49,
+      "english": "I grew up a little!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 5030,
+      "_bytes": 19,
+      "translation": "¡He crecido un poco!"
+    },
+    {
+      "index": 50,
+      "english": "And just what do you mean by that?",
+      "speaker_id": 6221,
+      "line_type": 2,
+      "_offset": 5050,
+      "_bytes": 34,
+      "translation": "¿Y qué quieres decir con eso?"
+    },
+    {
+      "index": 51,
+      "english": "Right, Patamon?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 5085,
+      "_bytes": 15,
+      "translation": "¿Verdad, Patamon?"
+    },
+    {
+      "index": 52,
       "english": "(Right, T.K!)",
-      "_offset": 1255,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "(Verdad, T.K.!)"
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 5101,
+      "_bytes": 16,
+      "translation": "(¡Verdad, T.K.!)"
     }
   ]
 }

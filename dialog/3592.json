@@ -1,406 +1,845 @@
 {
   "file_id": "3592",
-  "text_count": 50,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 93,
   "dialog": [
     {
       "index": 0,
-      "english": "There's no way that has anything\nto do with the badge.",
-      "_offset": 20,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "No puede tener nada que ver\ncon la insignia."
+      "english": "Ah!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 5416,
+      "_bytes": 3,
+      "translation": "¡Ah!"
     },
     {
       "index": 1,
-      "english": "That's it! The Numemon boss has\nT.K's badge!",
-      "_offset": 75,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Eso es! El jefe Numemon\ntiene la insignia de T.K"
+      "english": "What's wrong, T.K?",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 5420,
+      "_bytes": 21,
+      "translation": "¿Qué pasa, T.K.?"
     },
     {
       "index": 2,
-      "english": "What?!",
-      "_offset": 123,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Qué?!"
+      "english": "My badge fell off my shirt when we\nwere running from the Numemon.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 5442,
+      "_bytes": 65,
+      "translation": "Se me cayó la insignia de la\ncamiseta cuando huíamos de\nlos Numemon."
     },
     {
       "index": 3,
-      "english": "You're not saying... that T.K's\nbadge is actually that p-p-poo...",
-      "_offset": 130,
-      "_length": 68,
-      "speaker_id": 0,
-      "translation": "No me digas... que la insignia\nde T.K es esa c-c-caca..."
+      "english": "Well, if that's your problem, I'll \nbuy you a new one when we get \nback. Even if it's expensive.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 5508,
+      "_bytes": 96,
+      "translation": "Bueno, si es por eso, te\ncompro otra al volver. Aunque\nsea cara."
     },
     {
       "index": 4,
-      "english": "N-No! That's not what I meant!",
-      "_offset": 199,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "N-No! No quería decir eso!"
+      "english": "Wow, Matt is so generous!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 5605,
+      "_bytes": 27,
+      "translation": "¡Hala, qué generoso es Matt!"
     },
     {
       "index": 5,
-      "english": "You see, T.K's badge was\nactually a present from my dad.",
-      "_offset": 230,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Veréis, la insignia de T.K\nera un regalo de mi padre."
+      "english": "But...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 5633,
+      "_bytes": 6,
+      "translation": "Pero..."
     },
     {
       "index": 6,
-      "english": "T.K loves ice cream,\nso my dad thought he'd like a\nbadge shaped like one.",
-      "_offset": 290,
-      "_length": 76,
-      "speaker_id": 0,
-      "translation": "A T.K le encanta el helado,\ny mi padre pensó que le\ngustaría una insignia así."
+      "english": "Well, Matt, there's nothing\nwrong with going back for a bit.\nRight, everyone?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 5640,
+      "_bytes": 79,
+      "translation": "Venga, Matt, no pasa nada por\nvolver un momento. ¿Verdad,\nchicos?"
     },
     {
       "index": 7,
-      "english": "What a nice dad!",
-      "_offset": 367,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Qué padre majo!"
+      "english": "It's important to you, isn't it,\nT.K?",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 5720,
+      "_bytes": 40,
+      "translation": "Es importante para ti, ¿a que\nsí, T.K.?"
     },
     {
       "index": 8,
-      "english": "I get it! So that Numemon boss\nmistook it for a lucky white poop!",
-      "_offset": 384,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Ya lo pillo! El jefe Numemon\nla confundió con caca de\nla suerte!"
+      "english": "Yeah...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 5761,
+      "_bytes": 7,
+      "translation": "Sí..."
     },
     {
       "index": 9,
-      "english": "Let's go find the boss!",
-      "_offset": 450,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Vamos a buscar al jefe!"
+      "english": "Well, I guess there's nothing else\nwe can do.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 5769,
+      "_bytes": 45,
+      "translation": "Bueno, supongo que no queda\notra."
     },
     {
       "index": 10,
-      "english": "Hey, do you know where the Numemon\nboss is?",
-      "_offset": 474,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Oye, sabes dónde está el\njefe Numemon?"
+      "english": "Look, there's a Numemon over\nthere!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 5815,
+      "_bytes": 35,
+      "translation": "¡Mirad, ahí hay un Numemon!"
     },
     {
       "index": 11,
-      "english": "Hmm? I dunno 'bout complicated\nstuff like that. I just live\n'round here.",
-      "_offset": 518,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "Eh? No sé de cosas tan\ncomplicadas. Yo solo vivo\npor aquí."
+      "english": "It's alone, and it's facing the\nwall. What's\nit doing there?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 5851,
+      "_bytes": 60,
+      "translation": "Está solo, mirando a la\npared. ¿Qué hace ahí?"
     },
     {
       "index": 12,
-      "english": "But he should be somewhere 'round\nthe sewer.",
-      "_offset": 591,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "Pero debe de andar por la\nalcantarilla."
+      "english": "It evidently appears to be\ndifferent from all of the other\nNumemon...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 5912,
+      "_bytes": 69,
+      "translation": "Se ve claramente que es\ndistinto de los demás\nNumemon..."
     },
     {
       "index": 13,
-      "english": "By the way, missy, would you mind\naccompanying me to...",
-      "_offset": 636,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Por cierto, señorita, le\nimportaría acompañarme a..."
+      "english": "Maybe we should ask the Numemon\nabout the badge.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5982,
+      "_bytes": 48,
+      "translation": "A lo mejor deberíamos\npreguntarle por la insignia."
     },
     {
       "index": 14,
-      "english": "I do N-O-T want to take a sewer\nbath!",
-      "_offset": 692,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "N-O quiero un baño en la\nalcantarilla!"
+      "english": "You're actually gonna go ahead and\ntalk to a Numemon?",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 6031,
+      "_bytes": 53,
+      "translation": "¿De verdad vas a ponerte a\nhablar con un Numemon?"
     },
     {
       "index": 15,
-      "english": "There he is!",
-      "_offset": 730,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Ahí está!"
+      "english": "We *did* drop the badge while we\nwere running from them, so...",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6085,
+      "_bytes": 62,
+      "translation": "La insignia se nos cayó\nhuyendo de ellos, así que..."
     },
     {
       "index": 16,
-      "english": "He's all squirmy, like the other\nNumemon. I'm definitely getting a\nbad vibe from him.",
-      "_offset": 743,
-      "_length": 85,
-      "speaker_id": 0,
-      "translation": "Es todo viscoso, como los\notros Numemon. Me da muy\nmala espina."
+      "english": "...some of the Digimon around here\nmight know where it is.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6148,
+      "_bytes": 58,
+      "translation": "...puede que algún Digimon\nde por aquí sepa dónde está."
     },
     {
       "index": 17,
-      "english": "Nunuuu! Rude! Whaddya mean by\nthat?",
-      "_offset": 829,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Nunuuu! Grosero! Qué\nquieres decir?"
+      "english": "Yeah. Let's hear what that Numemon\nhas to say.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6207,
+      "_bytes": 46,
+      "translation": "Sí. Vamos a ver qué dice ese\nNumemon."
     },
     {
       "index": 18,
-      "english": "That badge! It's mine! Can't you\ngive it back?",
-      "_offset": 865,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Esa insignia! Es mía! No\npuedes devolvérmela?"
+      "english": "If it puts up a fight, just leave\nit to us!",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 6254,
+      "_bytes": 43,
+      "translation": "¡Si se pone a pelear, déjanoslo\na nosotros!"
     },
     {
       "index": 19,
-      "english": "This symbol has been passed down\nby boss Numemon for generations! \nAre you trying to start a fight?",
-      "_offset": 912,
-      "_length": 99,
-      "speaker_id": 0,
-      "translation": "Este símbolo pasa de jefe\nNumemon en jefe Numemon por\ngeneraciones! Quieres pelea?"
+      "english": "A badge? I don't know anything\nabout it.",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 6298,
+      "_bytes": 40,
+      "translation": "¿Una insignia? No sé nada de\neso."
     },
     {
       "index": 20,
-      "english": "No way.",
-      "_offset": 1012,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Anda ya"
+      "english": "Do we look like the type to care\nabout aesthetic stuff?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 6339,
+      "_bytes": 55,
+      "translation": "¿Tenemos pinta de que nos\nimporte la estética?"
     },
     {
       "index": 21,
-      "english": "You're horrible!",
-      "_offset": 1020,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Eres horrible!"
+      "english": "That's too bad.",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6395,
+      "_bytes": 15,
+      "translation": "Qué pena."
     },
     {
       "index": 22,
-      "english": "It's such an obvious lie.",
-      "_offset": 1037,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Es una mentira muy obvia."
+      "english": "Okay, let's ask someone else.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6411,
+      "_bytes": 29,
+      "translation": "Vale, preguntemos a otro."
     },
     {
       "index": 23,
-      "english": "Aren't you the boss? Don't you\nhave any shame at all, lying like\nthat?",
-      "_offset": 1063,
-      "_length": 70,
-      "speaker_id": 0,
-      "translation": "No eres el jefe? No te da\nvergüenza mentir así?"
+      "english": "By the way, what are you doing\nhere?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6441,
+      "_bytes": 36,
+      "translation": "Por cierto, ¿qué haces aquí?"
     },
     {
       "index": 24,
-      "english": "I got it from my dad when we were\nseparated. There's only one like\nit... so give it back!",
-      "_offset": 1134,
-      "_length": 89,
-      "speaker_id": 0,
-      "translation": "Me la dio mi padre cuando nos\nseparamos. Es única en su\ntipo... así que devuélvemela!"
+      "english": "Oh?! Hey, missy, are you\ninterested in a sewer bath?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 6478,
+      "_bytes": 52,
+      "translation": "¡¿Oh?! Eh, guapa, ¿te interesa\nun baño de cloaca?"
     },
     {
       "index": 25,
-      "english": "Nunuuu! I can't hear you when you\ntalk so quietly! Wahahaha!",
-      "_offset": 1224,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Nunuuu! No te oigo si hablas\ntan bajito! Wajajaja!"
+      "english": "A sewer bath?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6531,
+      "_bytes": 13,
+      "translation": "¿Un baño de cloaca?"
     },
     {
       "index": 26,
-      "english": "Now I'm angry!",
-      "_offset": 1285,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Me enfado!"
+      "english": "Listen to the sewer water near the\ngrey walls, like so...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 6545,
+      "_bytes": 57,
+      "translation": "Escucha el agua de la cloaca\njunto a las paredes grises,\nasí..."
     },
     {
       "index": 27,
-      "english": "Patamon!",
-      "_offset": 1300,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Patamon!"
+      "english": "...and see, how about that?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 6603,
+      "_bytes": 27,
+      "translation": "...y mira, ¿qué te parece?"
     },
     {
       "index": 28,
-      "english": "I'll get it back for you, no\nmatter what!",
-      "_offset": 1309,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Te la recuperaré, pase lo\nque pase!"
+      "english": "Your angry and hardened heart will\nbe washed away like poop in a\ntoilet!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 6631,
+      "_bytes": 72,
+      "translation": "¡Tu corazón enfadado y duro se\nirá como la caca por el\nváter!"
     },
     {
       "index": 29,
-      "english": "Do you really think so, kiddo?",
-      "_offset": 1351,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "De verdad lo crees, chaval?"
+      "english": "Whaddya think?",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 6704,
+      "_bytes": 14,
+      "translation": "¿Qué me dices?"
     },
     {
       "index": 30,
-      "english": "We'll back you up, Patamon!",
-      "_offset": 1382,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Te apoyamos, Patamon!"
+      "english": "Gross.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6719,
+      "_bytes": 6,
+      "translation": "Qué asco."
     },
     {
       "index": 31,
-      "english": "We did it, T.K! We got your\nbadge back!",
-      "_offset": 1410,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Lo logramos, T.K! Recuperamos\ntu insignia!"
+      "english": "Such blunt words, missy...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 6726,
+      "_bytes": 26,
+      "translation": "Qué palabras tan duras,\nguapa..."
     },
     {
       "index": 32,
-      "english": "Thank you, Patamon! Thanks, guys!",
-      "_offset": 1453,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Gracias, Patamon! Gracias,\nchicos!"
+      "english": "...",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6753,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 33,
-      "english": "Well, you're like a little brother\nto all of us, T.K.",
-      "_offset": 1487,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Bueno, eres como un hermano\npequeño para todos, T.K."
+      "english": "Don't worry, T.K. We know you\nlost it somewhere in this sewer.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6757,
+      "_bytes": 65,
+      "translation": "Tranquilo, T.K. Sabemos que\nla perdiste en esta cloaca."
     },
     {
       "index": 34,
-      "english": "There's that disgrace of a boss!\nHaven't you taken some time to\nthink about what you've done?",
-      "_offset": 1544,
-      "_length": 93,
-      "speaker_id": 0,
-      "translation": "Ahí está el jefe deshonroso!\nNo has tenido tiempo de\npensar en lo que hiciste?"
+      "english": "If we look really hard, we'll find\nit.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6823,
+      "_bytes": 38,
+      "translation": "Si buscamos bien, la\nencontraremos."
     },
     {
       "index": 35,
-      "english": "Yes! I'll be good!",
-      "_offset": 1638,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Sí! Seré bueno!"
+      "english": "Yeah!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6862,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     },
     {
       "index": 36,
-      "english": "Will you really?",
-      "_offset": 1657,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "De verdad?"
+      "english": "Ah! There's another Numemon facing\nthe wall over there!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 6868,
+      "_bytes": 55,
+      "translation": "¡Ah! ¡Ahí hay otro Numemon\nmirando a la pared!"
     },
     {
       "index": 37,
-      "english": "Please accept this as a token of\nmy regret, I beg of you!",
-      "_offset": 1674,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Aceptad esto en señal de mi\narrepentimiento, os lo\nsuplico!"
+      "english": "Seems like a popular thing to do\naround here.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 6924,
+      "_bytes": 45,
+      "translation": "Parece que aquí se lleva\nmucho."
     },
     {
       "index": 38,
-      "english": "Can we really have this?",
-      "_offset": 1732,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Podemos quedárnoslo?"
+      "english": "Maybe he's interested in the same\nthing as that Numemon we saw\nearlier.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6970,
+      "_bytes": 71,
+      "translation": "A lo mejor busca lo mismo\nque el Numemon de antes."
     },
     {
       "index": 39,
-      "english": "Take it, take it!",
-      "_offset": 1757,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Tomadlo, tomadlo!"
+      "english": "He was talking about something\nlike one's hardened heart coming\nout...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 7042,
+      "_bytes": 70,
+      "translation": "Hablaba de algo así como que\nsale un corazón endurecido..."
     },
     {
       "index": 40,
-      "english": "Thank you, Boss!",
-      "_offset": 1775,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Gracias, jefe!"
+      "english": "I don't know much about what you\nguys are lookin' for, missy, but\ncome to think of it...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 7113,
+      "_bytes": 88,
+      "translation": "No sé muy bien qué buscáis,\nguapa, pero ahora que lo\npienso..."
     },
     {
       "index": 41,
-      "english": "If you would like, based on \ninformation we've recieved thus\nfar, I can locate the Numemon.",
-      "_offset": 1792,
-      "_length": 91,
-      "speaker_id": 0,
-      "translation": "Si queréis, con lo que\nsabemos hasta ahora, puedo\nlocalizar al Numemon."
+      "english": "Our boss found a lucky white poop!\nHe was makin' a big deal about it!",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 7202,
+      "_bytes": 69,
+      "translation": "¡El jefe encontró una caca\nblanca de la suerte! ¡Y no\nparaba de presumir!"
     },
     {
       "index": 42,
-      "english": "Please, Izzy.",
-      "_offset": 1884,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Por favor, Izzy."
+      "english": "A lucky white poop...",
+      "speaker_id": 2621,
+      "line_type": 2,
+      "_offset": 7272,
+      "_bytes": 21,
+      "translation": "Una caca blanca de la\nsuerte..."
     },
     {
       "index": 43,
-      "english": "That's strange. My computer seems\nto be malfunctioning...",
-      "_offset": 1903,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Qué raro. Mi ordenador\nparece que falla..."
+      "english": "There's no way that has anything\nto do with the badge.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7294,
+      "_bytes": 54,
+      "translation": "No puede tener nada que ver\ncon la insignia."
     },
     {
       "index": 44,
-      "english": "Hurry up, Izzy!",
-      "_offset": 1961,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Date prisa, Izzy!"
+      "english": "That's it! The Numemon boss has\nT.K's badge!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7349,
+      "_bytes": 47,
+      "translation": "¡Eso es! ¡El jefe Numemon\ntiene la insignia de T.K.!"
     },
     {
       "index": 45,
-      "english": "It's my fault.",
-      "_offset": 1982,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Es culpa mía."
+      "english": "What?!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 7397,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
     },
     {
       "index": 46,
-      "english": "Please don't panic. Let me try\nrestarting it...",
-      "_offset": 1997,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "No os asustéis. Voy a\nintentar reiniciarlo..."
+      "english": "You're not saying... that T.K's\nbadge is actually that p-p-poo...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 7404,
+      "_bytes": 68,
+      "translation": "No me digas... que la insignia\nde T.K. es esa c-c-caca..."
     },
     {
       "index": 47,
-      "english": "It's because we've spent so long\nin this sewer, right?",
-      "_offset": 2045,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Es porque llevamos mucho\ntiempo en la alcantarilla,\nno?"
+      "english": "N-No! That's not what I meant!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7473,
+      "_bytes": 30,
+      "translation": "¡N-No! ¡No quería decir eso!"
     },
     {
       "index": 48,
-      "english": "Oh, no, it's just because of a\nprogram error. Please don't worry\nabout it.",
-      "_offset": 2100,
-      "_length": 74,
-      "speaker_id": 0,
-      "translation": "Ah, no, es solo un error de\nprograma. No os preocupéis\npor eso."
+      "english": "You see, T.K's badge was\nactually a present from my dad.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7504,
+      "_bytes": 59,
+      "translation": "Veréis, la insignia de T.K.\nera un regalo de mi padre."
     },
     {
       "index": 49,
+      "english": "T.K loves ice cream,\nso my dad thought he'd like a\nbadge shaped like one.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 7564,
+      "_bytes": 76,
+      "translation": "A T.K. le encanta el helado,\ny mi padre pensó que le\ngustaría una insignia así."
+    },
+    {
+      "index": 50,
+      "english": "What a nice dad!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 7641,
+      "_bytes": 16,
+      "translation": "¡Qué padre majo!"
+    },
+    {
+      "index": 51,
+      "english": "I get it! So that Numemon boss\nmistook it for a lucky white poop!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 7658,
+      "_bytes": 65,
+      "translation": "¡Ya lo pillo! ¡El jefe Numemon\nla confundió con caca de\nla suerte!"
+    },
+    {
+      "index": 52,
+      "english": "Let's go find the boss!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7724,
+      "_bytes": 23,
+      "translation": "¡Vamos a buscar al jefe!"
+    },
+    {
+      "index": 53,
+      "english": "Hey, do you know where the Numemon\nboss is?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 7748,
+      "_bytes": 43,
+      "translation": "Oye, ¿sabes dónde está el\njefe Numemon?"
+    },
+    {
+      "index": 54,
+      "english": "Hmm? I dunno 'bout complicated\nstuff like that. I just live\n'round here.",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 7792,
+      "_bytes": 72,
+      "translation": "¿Eh? No sé de cosas tan\ncomplicadas. Yo solo vivo\npor aquí."
+    },
+    {
+      "index": 55,
+      "english": "But he should be somewhere 'round\nthe sewer.",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 7865,
+      "_bytes": 44,
+      "translation": "Pero debe de andar por la\nalcantarilla."
+    },
+    {
+      "index": 56,
+      "english": "By the way, missy, would you mind\naccompanying me to...",
+      "speaker_id": 4031,
+      "line_type": 2,
+      "_offset": 7910,
+      "_bytes": 55,
+      "translation": "Por cierto, señorita, ¿te\nimportaría acompañarme a...?"
+    },
+    {
+      "index": 57,
+      "english": "I do N-O-T want to take a sewer\nbath!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 7966,
+      "_bytes": 37,
+      "translation": "¡N-O quiero un baño en la\nalcantarilla!"
+    },
+    {
+      "index": 58,
+      "english": "There he is!",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 8004,
+      "_bytes": 12,
+      "translation": "¡Ahí está!"
+    },
+    {
+      "index": 59,
+      "english": "He's all squirmy, like the other\nNumemon. I'm definitely getting a\nbad vibe from him.",
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 8017,
+      "_bytes": 85,
+      "translation": "Es todo viscoso, como los\notros Numemon. Me da muy\nmala espina."
+    },
+    {
+      "index": 60,
+      "english": "Nunuuu! Rude! Whaddya mean by\nthat?",
+      "speaker_id": 4033,
+      "line_type": 2,
+      "_offset": 8103,
+      "_bytes": 35,
+      "translation": "¡Nunuuu! ¡Grosero! ¿Qué\nquieres decir?"
+    },
+    {
+      "index": 61,
+      "english": "That badge! It's mine! Can't you\ngive it back?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8139,
+      "_bytes": 46,
+      "translation": "¡Esa insignia! ¡Es mía! ¿No\npuedes devolvérmela?"
+    },
+    {
+      "index": 62,
+      "english": "This symbol has been passed down\nby boss Numemon for generations! \nAre you trying to start a fight?",
+      "speaker_id": 4033,
+      "line_type": 2,
+      "_offset": 8186,
+      "_bytes": 99,
+      "translation": "¡Este símbolo pasa de jefe\nNumemon en jefe Numemon por\ngeneraciones! ¿Quieres pelea?"
+    },
+    {
+      "index": 63,
+      "english": "No way.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8286,
+      "_bytes": 7,
+      "translation": "¡Anda ya!"
+    },
+    {
+      "index": 64,
+      "english": "You're horrible!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8294,
+      "_bytes": 16,
+      "translation": "¡Eres horrible!"
+    },
+    {
+      "index": 65,
+      "english": "It's such an obvious lie.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 8311,
+      "_bytes": 25,
+      "translation": "Es una mentira muy obvia."
+    },
+    {
+      "index": 66,
+      "english": "Aren't you the boss? Don't you\nhave any shame at all, lying like\nthat?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 8337,
+      "_bytes": 70,
+      "translation": "¿No eres el jefe? ¿No te da\nvergüenza mentir así?"
+    },
+    {
+      "index": 67,
+      "english": "I got it from my dad when we were\nseparated. There's only one like\nit... so give it back!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8408,
+      "_bytes": 89,
+      "translation": "Me la dio mi padre cuando nos\nseparamos. ¡No hay otra igual...\nasí que devuélvemela!"
+    },
+    {
+      "index": 68,
+      "english": "Nunuuu! I can't hear you when you\ntalk so quietly! Wahahaha!",
+      "speaker_id": 4033,
+      "line_type": 2,
+      "_offset": 8498,
+      "_bytes": 60,
+      "translation": "¡Nunuuu! ¡No te oigo si hablas\ntan bajito! ¡Wajajaja!"
+    },
+    {
+      "index": 69,
+      "english": "Now I'm angry!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 8559,
+      "_bytes": 14,
+      "translation": "¡Ahora sí que me enfado!"
+    },
+    {
+      "index": 70,
+      "english": "Patamon!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8574,
+      "_bytes": 8,
+      "translation": "¡Patamon!"
+    },
+    {
+      "index": 71,
+      "english": "I'll get it back for you, no\nmatter what!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 8583,
+      "_bytes": 41,
+      "translation": "¡Te la recuperaré, pase lo\nque pase!"
+    },
+    {
+      "index": 72,
+      "english": "Do you really think so, kiddo?",
+      "speaker_id": 4033,
+      "line_type": 2,
+      "_offset": 8625,
+      "_bytes": 30,
+      "translation": "¿De verdad lo crees, chaval?"
+    },
+    {
+      "index": 73,
+      "english": "We'll back you up, Patamon!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8656,
+      "_bytes": 27,
+      "translation": "¡Te apoyamos, Patamon!"
+    },
+    {
+      "index": 74,
+      "english": "We did it, T.K! We got your\nbadge back!",
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 8684,
+      "_bytes": 42,
+      "translation": "¡Lo logramos, T.K.! ¡Recuperamos\ntu insignia!"
+    },
+    {
+      "index": 75,
+      "english": "Thank you, Patamon! Thanks, guys!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 8727,
+      "_bytes": 33,
+      "translation": "¡Gracias, Patamon! ¡Y a todos!"
+    },
+    {
+      "index": 76,
+      "english": "Well, you're like a little brother\nto all of us, T.K.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8761,
+      "_bytes": 56,
+      "translation": "Bueno, eres como un hermano\npequeño para todos, T.K."
+    },
+    {
+      "index": 77,
+      "english": "There's that disgrace of a boss!\nHaven't you taken some time to\nthink about what you've done?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8818,
+      "_bytes": 93,
+      "translation": "¡Ahí está el jefe deshonroso!\n¿No has tenido tiempo de\npensar en lo que hiciste?"
+    },
+    {
+      "index": 78,
+      "english": "Yes! I'll be good!",
+      "speaker_id": 4033,
+      "line_type": 2,
+      "_offset": 8912,
+      "_bytes": 18,
+      "translation": "¡Sí! ¡Seré bueno!"
+    },
+    {
+      "index": 79,
+      "english": "Will you really?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8931,
+      "_bytes": 16,
+      "translation": "¿De verdad?"
+    },
+    {
+      "index": 80,
+      "english": "Please accept this as a token of\nmy regret, I beg of you!",
+      "speaker_id": 4033,
+      "line_type": 2,
+      "_offset": 8948,
+      "_bytes": 57,
+      "translation": "¡Aceptad esto en señal de mi\narrepentimiento, os lo\nsuplico!"
+    },
+    {
+      "index": 81,
+      "english": "Can we really have this?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 9006,
+      "_bytes": 24,
+      "translation": "¿Podemos quedárnoslo?"
+    },
+    {
+      "index": 82,
+      "english": "Take it, take it!",
+      "speaker_id": 4033,
+      "line_type": 2,
+      "_offset": 9031,
+      "_bytes": 17,
+      "translation": "¡Tomadlo, tomadlo!"
+    },
+    {
+      "index": 83,
+      "english": "Thank you, Boss!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 9049,
+      "_bytes": 16,
+      "translation": "¡Gracias, jefe!"
+    },
+    {
+      "index": 84,
+      "english": "If you would like, based on \ninformation we've recieved thus\nfar, I can locate the Numemon.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 9066,
+      "_bytes": 91,
+      "translation": "Si queréis, con lo que\nsabemos hasta ahora, puedo\nlocalizar al Numemon."
+    },
+    {
+      "index": 85,
+      "english": "Please, Izzy.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 9158,
+      "_bytes": 18,
+      "translation": "Por favor, Izzy."
+    },
+    {
+      "index": 86,
+      "english": "That's strange. My computer seems\nto be malfunctioning...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 9177,
+      "_bytes": 57,
+      "translation": "Qué raro. Mi ordenador\nparece que falla..."
+    },
+    {
+      "index": 87,
+      "english": "Hurry up, Izzy!",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 9235,
+      "_bytes": 20,
+      "translation": "¡Date prisa, Izzy!"
+    },
+    {
+      "index": 88,
+      "english": "It's my fault.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 9256,
+      "_bytes": 14,
+      "translation": "Es culpa mía."
+    },
+    {
+      "index": 89,
+      "english": "Please don't panic. Let me try\nrestarting it...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 9271,
+      "_bytes": 47,
+      "translation": "No os asustéis. Voy a\nintentar reiniciarlo..."
+    },
+    {
+      "index": 90,
+      "english": "It's because we've spent so long\nin this sewer, right?",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 9319,
+      "_bytes": 54,
+      "translation": "Es porque llevamos mucho\ntiempo en la alcantarilla,\n¿no?"
+    },
+    {
+      "index": 91,
+      "english": "Oh, no, it's just because of a\nprogram error. Please don't worry\nabout it.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 9374,
+      "_bytes": 74,
+      "translation": "Ah, no, es solo un error de\nprograma. No os preocupéis\npor eso."
+    },
+    {
+      "index": 92,
       "english": "Really? That's a relief.",
-      "_offset": 2175,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "En serio? Qué alivio."
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 9449,
+      "_bytes": 24,
+      "translation": "¿En serio? Qué alivio."
     }
   ]
 }

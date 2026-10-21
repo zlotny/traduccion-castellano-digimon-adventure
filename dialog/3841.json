@@ -1,0 +1,1954 @@
+{
+  "file_id": "3841",
+  "format": "etdf",
+  "kind": "TXTD",
+  "text_count": 278,
+  "dialog": [
+    {
+      "index": 0,
+      "english": "Main Menu",
+      "_offset": 1128,
+      "_bytes": 9,
+      "translation": "Menú Principal"
+    },
+    {
+      "index": 1,
+      "english": "Synthesize materials into a new item.",
+      "_offset": 1138,
+      "_bytes": 37,
+      "translation": "Sintetiza materiales en objeto nuevo."
+    },
+    {
+      "index": 2,
+      "english": "    Synthesis",
+      "_offset": 1176,
+      "_bytes": 13,
+      "translation": "     Síntesis"
+    },
+    {
+      "index": 3,
+      "english": "    Equipment",
+      "_offset": 1190,
+      "_bytes": 13,
+      "translation": "      Equipar"
+    },
+    {
+      "index": 4,
+      "english": "    Dismantle",
+      "_offset": 1204,
+      "_bytes": 13,
+      "translation": "    Desmontar"
+    },
+    {
+      "index": 5,
+      "english": "    Materials",
+      "_offset": 1218,
+      "_bytes": 13,
+      "translation": "    Materiales"
+    },
+    {
+      "index": 6,
+      "english": "Synthesize materials into a new DigiPiece.",
+      "_offset": 1232,
+      "_bytes": 42,
+      "translation": "Sintetiza materiales en DigiPieza nueva."
+    },
+    {
+      "index": 7,
+      "english": "Equip new DigiPiece.",
+      "_offset": 1275,
+      "_bytes": 20,
+      "translation": "Equipa DigiPieza."
+    },
+    {
+      "index": 8,
+      "english": "Dismantle DigiPiece into materials.",
+      "_offset": 1296,
+      "_bytes": 35,
+      "translation": "Desmonta DigiPieza en materiales."
+    },
+    {
+      "index": 9,
+      "english": "View all materials.",
+      "_offset": 1332,
+      "_bytes": 19,
+      "translation": "Ver los materiales."
+    },
+    {
+      "index": 10,
+      "english": "Item  ",
+      "_offset": 1352,
+      "_bytes": 6,
+      "translation": "Objeto"
+    },
+    {
+      "index": 11,
+      "english": "     DigiPiece",
+      "_offset": 1359,
+      "_bytes": 14,
+      "translation": "     DigiPieza"
+    },
+    {
+      "index": 12,
+      "english": " Status",
+      "_offset": 1374,
+      "_bytes": 7,
+      "translation": " Estado"
+    },
+    {
+      "index": 13,
+      "english": "  Party   ",
+      "_offset": 1382,
+      "_bytes": 10,
+      "translation": " Equipo"
+    },
+    {
+      "index": 14,
+      "english": "  Library",
+      "_offset": 1393,
+      "_bytes": 9,
+      "translation": " Archivo"
+    },
+    {
+      "index": 15,
+      "english": "Pick",
+      "_offset": 1403,
+      "_bytes": 4,
+      "translation": "Ver"
+    },
+    {
+      "index": 16,
+      "english": "OK",
+      "_offset": 1408,
+      "_bytes": 2,
+      "translation": "OK"
+    },
+    {
+      "index": 17,
+      "english": "Back",
+      "_offset": 1411,
+      "_bytes": 4,
+      "translation": "Volver"
+    },
+    {
+      "index": 18,
+      "english": "Options",
+      "_offset": 1416,
+      "_bytes": 7,
+      "translation": "Opciones"
+    },
+    {
+      "index": 19,
+      "english": "Save",
+      "_offset": 1424,
+      "_bytes": 4,
+      "translation": "Guardar"
+    },
+    {
+      "index": 20,
+      "english": "Type",
+      "_offset": 1429,
+      "_bytes": 4,
+      "translation": "Tipo"
+    },
+    {
+      "index": 21,
+      "english": "Evolution",
+      "_offset": 1434,
+      "_bytes": 9,
+      "translation": "Evolución"
+    },
+    {
+      "index": 22,
+      "english": "Remove",
+      "_offset": 1444,
+      "_bytes": 6,
+      "translation": "Quitar"
+    },
+    {
+      "index": 23,
+      "english": "Back",
+      "_offset": 1451,
+      "_bytes": 4,
+      "translation": "Volver"
+    },
+    {
+      "index": 24,
+      "english": "Change",
+      "_offset": 1456,
+      "_bytes": 6,
+      "translation": "Cambio"
+    },
+    {
+      "index": 25,
+      "english": "Char",
+      "_offset": 1463,
+      "_bytes": 4,
+      "translation": "Digimon"
+    },
+    {
+      "index": 26,
+      "english": "Rotate",
+      "_offset": 1468,
+      "_bytes": 6,
+      "translation": "Girar"
+    },
+    {
+      "index": 27,
+      "english": "Use or synthesize items, or view materials.",
+      "_offset": 1475,
+      "_bytes": 43,
+      "translation": "Usa o sintetiza objetos, o mira materiales."
+    },
+    {
+      "index": 28,
+      "english": "Equip, synthesize, or dismantle a DigiPiece.",
+      "_offset": 1519,
+      "_bytes": 44,
+      "translation": "Equipa, sintetiza o desmonta una DigiPieza."
+    },
+    {
+      "index": 29,
+      "english": "View the Bonding Ranks with your friends.",
+      "_offset": 1564,
+      "_bytes": 41,
+      "translation": "Consulta tu Rango de Vínculo con amigos."
+    },
+    {
+      "index": 30,
+      "english": "Change strategy and party members for battle.",
+      "_offset": 1606,
+      "_bytes": 45,
+      "translation": "Cambia estrategia y equipo para la batalla."
+    },
+    {
+      "index": 31,
+      "english": "View the Digimon Encyclopedia and a summary of past events.",
+      "_offset": 1652,
+      "_bytes": 59,
+      "translation": "Consulta la Enciclopedia Digimon y un resumen de lo pasado."
+    },
+    {
+      "index": 32,
+      "english": "Item",
+      "_offset": 1712,
+      "_bytes": 4,
+      "translation": "Objeto"
+    },
+    {
+      "index": 33,
+      "english": "Digivice",
+      "_offset": 1717,
+      "_bytes": 8,
+      "translation": "Digivice"
+    },
+    {
+      "index": 34,
+      "english": "Status",
+      "_offset": 1726,
+      "_bytes": 6,
+      "translation": "Estado"
+    },
+    {
+      "index": 35,
+      "english": "Party",
+      "_offset": 1733,
+      "_bytes": 5,
+      "translation": "Equipo"
+    },
+    {
+      "index": 36,
+      "english": "Library",
+      "_offset": 1739,
+      "_bytes": 7,
+      "translation": "Archivo"
+    },
+    {
+      "index": 37,
+      "english": "   Use        ",
+      "_offset": 1747,
+      "_bytes": 14,
+      "translation": "   Usar"
+    },
+    {
+      "index": 38,
+      "english": "Use an item.",
+      "_offset": 1762,
+      "_bytes": 12,
+      "translation": "Usa un objeto."
+    },
+    {
+      "index": 39,
+      "english": "    Synthesis",
+      "_offset": 1775,
+      "_bytes": 13,
+      "translation": "     Síntesis"
+    },
+    {
+      "index": 40,
+      "english": "Synthesize materials into a new item.",
+      "_offset": 1789,
+      "_bytes": 37,
+      "translation": "Sintetiza materiales en objeto nuevo."
+    },
+    {
+      "index": 41,
+      "english": "Item to be created",
+      "_offset": 1827,
+      "_bytes": 18,
+      "translation": "Objeto a crear"
+    },
+    {
+      "index": 42,
+      "english": " All",
+      "_offset": 1846,
+      "_bytes": 4,
+      "translation": " Todo"
+    },
+    {
+      "index": 43,
+      "english": "     Recovery",
+      "_offset": 1851,
+      "_bytes": 13,
+      "translation": "   Recuperación"
+    },
+    {
+      "index": 44,
+      "english": "    Battle",
+      "_offset": 1865,
+      "_bytes": 10,
+      "translation": "    Batalla"
+    },
+    {
+      "index": 45,
+      "english": "Event",
+      "_offset": 1876,
+      "_bytes": 5,
+      "translation": "Trama"
+    },
+    {
+      "index": 46,
+      "english": "HP",
+      "_offset": 1882,
+      "_bytes": 2,
+      "translation": "HP"
+    },
+    {
+      "index": 47,
+      "english": "ATK",
+      "_offset": 1885,
+      "_bytes": 3,
+      "translation": "ATK"
+    },
+    {
+      "index": 48,
+      "english": "DEF",
+      "_offset": 1889,
+      "_bytes": 3,
+      "translation": "DEF"
+    },
+    {
+      "index": 49,
+      "english": "Manual",
+      "_offset": 1893,
+      "_bytes": 6,
+      "translation": "Manual"
+    },
+    {
+      "index": 50,
+      "english": "Parameter",
+      "_offset": 1900,
+      "_bytes": 9,
+      "translation": "Parámetro"
+    },
+    {
+      "index": 51,
+      "english": "Select",
+      "_offset": 1910,
+      "_bytes": 6,
+      "translation": "Elegir"
+    },
+    {
+      "index": 52,
+      "english": "Open",
+      "_offset": 1917,
+      "_bytes": 4,
+      "translation": "Abrir"
+    },
+    {
+      "index": 53,
+      "english": "Confirm",
+      "_offset": 1922,
+      "_bytes": 7,
+      "translation": "Aceptar"
+    },
+    {
+      "index": 54,
+      "english": "Back",
+      "_offset": 1930,
+      "_bytes": 4,
+      "translation": "Volver"
+    },
+    {
+      "index": 55,
+      "english": "Keep these settings?",
+      "_offset": 1935,
+      "_bytes": 20,
+      "translation": "¿Conservar ajustes?"
+    },
+    {
+      "index": 56,
+      "english": "     OK",
+      "_offset": 1956,
+      "_bytes": 7,
+      "translation": "   Aceptar"
+    },
+    {
+      "index": 57,
+      "english": "   Cancel",
+      "_offset": 1964,
+      "_bytes": 9,
+      "translation": "  Cancelar"
+    },
+    {
+      "index": 58,
+      "english": "   Material",
+      "_offset": 1974,
+      "_bytes": 11,
+      "translation": "   Material"
+    },
+    {
+      "index": 59,
+      "english": "Synthesize \"%s\"?",
+      "_offset": 1986,
+      "_bytes": 16,
+      "translation": "¿Sintetizar \"%s\"?"
+    },
+    {
+      "index": 60,
+      "english": "Disassemble \"%s\"?",
+      "_offset": 2003,
+      "_bytes": 17,
+      "translation": "¿Desmontar \"%s\"?"
+    },
+    {
+      "index": 61,
+      "english": "Materials to be acquired",
+      "_offset": 2021,
+      "_bytes": 24,
+      "translation": "Materiales a obtener"
+    },
+    {
+      "index": 62,
+      "english": "Skill",
+      "_offset": 2046,
+      "_bytes": 5,
+      "translation": "Habilidades"
+    },
+    {
+      "index": 63,
+      "english": "Abilities",
+      "_offset": 2052,
+      "_bytes": 9,
+      "translation": "Aptitudes"
+    },
+    {
+      "index": 64,
+      "english": "Select the DigiPiece you would like to remove.",
+      "_offset": 2062,
+      "_bytes": 46,
+      "translation": "Elige la DigiPieza que quieras quitar."
+    },
+    {
+      "index": 65,
+      "english": "\"%s\" is currently equipped. Press □ to remove.",
+      "_offset": 2109,
+      "_bytes": 47,
+      "translation": "\"%s\" está equipada. Pulsa □ para quitarla."
+    },
+    {
+      "index": 66,
+      "english": "All",
+      "_offset": 2157,
+      "_bytes": 3,
+      "translation": "Todo"
+    },
+    {
+      "index": 67,
+      "english": "Rank %d Pieces",
+      "_offset": 2161,
+      "_bytes": 14,
+      "translation": "Rango %d Piezas"
+    },
+    {
+      "index": 68,
+      "english": "Composition information",
+      "_offset": 2176,
+      "_bytes": 23,
+      "translation": "Datos de composición"
+    },
+    {
+      "index": 69,
+      "english": "DigiPiece to be synthesized",
+      "_offset": 2200,
+      "_bytes": 27,
+      "translation": "DigiPieza a sintetizar"
+    },
+    {
+      "index": 70,
+      "english": "Required materials",
+      "_offset": 2228,
+      "_bytes": 18,
+      "translation": "Materiales necesarios"
+    },
+    {
+      "index": 71,
+      "english": "Select a Digimon to equip this DigiPiece.",
+      "_offset": 2247,
+      "_bytes": 41,
+      "translation": "Elige un Digimon para esta DigiPieza."
+    },
+    {
+      "index": 72,
+      "english": "Dismantle DigiPiece into materials.",
+      "_offset": 2289,
+      "_bytes": 35,
+      "translation": "Desmonta DigiPieza en materiales."
+    },
+    {
+      "index": 73,
+      "english": "DigiPiece to dismantle",
+      "_offset": 2325,
+      "_bytes": 22,
+      "translation": "DigiPieza a desmontar"
+    },
+    {
+      "index": 74,
+      "english": "Materials to be acquired",
+      "_offset": 2348,
+      "_bytes": 24,
+      "translation": "Materiales a obtener"
+    },
+    {
+      "index": 75,
+      "english": "   Summary",
+      "_offset": 2373,
+      "_bytes": 10,
+      "translation": "   Resumen"
+    },
+    {
+      "index": 76,
+      "english": "Choose the Digimon whose status you want to view.",
+      "_offset": 2384,
+      "_bytes": 49,
+      "translation": "Elige el Digimon cuyo estado quieras ver."
+    },
+    {
+      "index": 77,
+      "english": "Review skills available to this Digimon.",
+      "_offset": 2434,
+      "_bytes": 40,
+      "translation": "Repasa las habilidades de este Digimon."
+    },
+    {
+      "index": 78,
+      "english": "View the Bonding Ranks with your friends.",
+      "_offset": 2475,
+      "_bytes": 41,
+      "translation": "Consulta tu Rango de Vínculo con amigos."
+    },
+    {
+      "index": 79,
+      "english": "You can view your friends' Bonding Ranks here.",
+      "_offset": 2517,
+      "_bytes": 46,
+      "translation": "Aquí puedes ver el Rango de Vínculo de amigos."
+    },
+    {
+      "index": 80,
+      "english": "          List of Skills ",
+      "_offset": 2564,
+      "_bytes": 25,
+      "translation": "           Habilidades"
+    },
+    {
+      "index": 81,
+      "english": "       Bonding Rank ",
+      "_offset": 2590,
+      "_bytes": 20,
+      "translation": "       Rango Vínculo"
+    },
+    {
+      "index": 82,
+      "english": "You may replace the leader with other members.",
+      "_offset": 2611,
+      "_bytes": 46,
+      "translation": "Puedes cambiar al líder por otro miembro."
+    },
+    {
+      "index": 83,
+      "english": "You may replace this party member.",
+      "_offset": 2658,
+      "_bytes": 34,
+      "translation": "Puedes cambiar a este miembro."
+    },
+    {
+      "index": 84,
+      "english": "Add a party member.",
+      "_offset": 2693,
+      "_bytes": 19,
+      "translation": "Añade un miembro."
+    },
+    {
+      "index": 85,
+      "english": "Change party members.",
+      "_offset": 2713,
+      "_bytes": 21,
+      "translation": "Cambia los miembros."
+    },
+    {
+      "index": 86,
+      "english": "Change ally strategy.",
+      "_offset": 2735,
+      "_bytes": 21,
+      "translation": "Cambia la estrategia."
+    },
+    {
+      "index": 87,
+      "english": "Select a party member.",
+      "_offset": 2757,
+      "_bytes": 22,
+      "translation": "Elige un miembro."
+    },
+    {
+      "index": 88,
+      "english": "         Party Members",
+      "_offset": 2780,
+      "_bytes": 22,
+      "translation": "      Miembros del Equipo"
+    },
+    {
+      "index": 89,
+      "english": "  Strategy",
+      "_offset": 2803,
+      "_bytes": 10,
+      "translation": " Estrategia"
+    },
+    {
+      "index": 90,
+      "english": "The leader cannot be changed in this area.",
+      "_offset": 2814,
+      "_bytes": 42,
+      "translation": "No puedes cambiar de líder en esta área."
+    },
+    {
+      "index": 91,
+      "english": "No Digimon can be selected.",
+      "_offset": 2857,
+      "_bytes": 27,
+      "translation": "No hay Digimon que elegir."
+    },
+    {
+      "index": 92,
+      "english": "The supporting Digimon cannot be changed.",
+      "_offset": 2885,
+      "_bytes": 41,
+      "translation": "No puedes cambiar al Digimon de apoyo."
+    },
+    {
+      "index": 93,
+      "english": "? ? ? ? ?",
+      "_offset": 2927,
+      "_bytes": 9,
+      "translation": "? ? ? ? ?"
+    },
+    {
+      "index": 94,
+      "english": "View the data of encountered Digimon.",
+      "_offset": 2937,
+      "_bytes": 37,
+      "translation": "Consulta datos de Digimon vistos."
+    },
+    {
+      "index": 95,
+      "english": "Review previously cleared Episodes.",
+      "_offset": 2975,
+      "_bytes": 35,
+      "translation": "Repasa Episodios ya completados."
+    },
+    {
+      "index": 96,
+      "english": "You can rotate the model with the arrow keys or analog stick.",
+      "_offset": 3011,
+      "_bytes": 61,
+      "translation": "Puedes girar el modelo con las flechas o el stick analógico."
+    },
+    {
+      "index": 97,
+      "english": "View summaries of previously cleared Episodes.",
+      "_offset": 3073,
+      "_bytes": 46,
+      "translation": "Consulta resúmenes de Episodios completados."
+    },
+    {
+      "index": 98,
+      "english": "You can rewatch previous cutscenes here.",
+      "_offset": 3120,
+      "_bytes": 40,
+      "translation": "Aquí puedes repasar escenas anteriores."
+    },
+    {
+      "index": 99,
+      "english": "You can rewatch previous cutscenes here.",
+      "_offset": 3161,
+      "_bytes": 40,
+      "translation": "Aquí puedes repasar escenas anteriores."
+    },
+    {
+      "index": 100,
+      "english": "You can review tutorials here.",
+      "_offset": 3202,
+      "_bytes": 30,
+      "translation": "Aquí puedes repasar tutoriales."
+    },
+    {
+      "index": 101,
+      "english": "You can review tutorials here.",
+      "_offset": 3233,
+      "_bytes": 30,
+      "translation": "Aquí puedes repasar tutoriales."
+    },
+    {
+      "index": 102,
+      "english": " All",
+      "_offset": 3264,
+      "_bytes": 4,
+      "translation": " Todo"
+    },
+    {
+      "index": 103,
+      "english": "        Main Episodes",
+      "_offset": 3269,
+      "_bytes": 21,
+      "translation": "     Episodios Principales"
+    },
+    {
+      "index": 104,
+      "english": "        Sub-Episodes",
+      "_offset": 3291,
+      "_bytes": 20,
+      "translation": "    Episodios Secundarios"
+    },
+    {
+      "index": 105,
+      "english": "     Synopsis",
+      "_offset": 3312,
+      "_bytes": 13,
+      "translation": "     Sinopsis"
+    },
+    {
+      "index": 106,
+      "english": " All",
+      "_offset": 3326,
+      "_bytes": 4,
+      "translation": " Todo"
+    },
+    {
+      "index": 107,
+      "english": "      Registered",
+      "_offset": 3331,
+      "_bytes": 16,
+      "translation": "      Registrado"
+    },
+    {
+      "index": 108,
+      "english": "Virus",
+      "_offset": 3348,
+      "_bytes": 5,
+      "translation": "Virus"
+    },
+    {
+      "index": 109,
+      "english": "Data",
+      "_offset": 3354,
+      "_bytes": 4,
+      "translation": "Datos"
+    },
+    {
+      "index": 110,
+      "english": "Vaccine",
+      "_offset": 3359,
+      "_bytes": 7,
+      "translation": "Vacuna"
+    },
+    {
+      "index": 111,
+      "english": "Other",
+      "_offset": 3367,
+      "_bytes": 5,
+      "translation": "Otro"
+    },
+    {
+      "index": 112,
+      "english": "Baby",
+      "_offset": 3373,
+      "_bytes": 4,
+      "translation": "Bebé"
+    },
+    {
+      "index": 113,
+      "english": "Child",
+      "_offset": 3378,
+      "_bytes": 5,
+      "translation": "Novato"
+    },
+    {
+      "index": 114,
+      "english": "Adult",
+      "_offset": 3384,
+      "_bytes": 5,
+      "translation": "Campeón"
+    },
+    {
+      "index": 115,
+      "english": "Perfect",
+      "_offset": 3390,
+      "_bytes": 7,
+      "translation": "Cuerpo Perfecto"
+    },
+    {
+      "index": 116,
+      "english": "Ultimate",
+      "_offset": 3398,
+      "_bytes": 8,
+      "translation": "Cuerpo Supremo"
+    },
+    {
+      "index": 117,
+      "english": "－",
+      "_offset": 3407,
+      "_bytes": 2,
+      "translation": "−"
+    },
+    {
+      "index": 118,
+      "english": "%s-type Digimon",
+      "_offset": 3410,
+      "_bytes": 15,
+      "translation": "Digimon tipo %s"
+    },
+    {
+      "index": 119,
+      "english": "         Encyclopedia",
+      "_offset": 3426,
+      "_bytes": 21,
+      "translation": "         Enciclopedia"
+    },
+    {
+      "index": 120,
+      "english": "   Episodes",
+      "_offset": 3448,
+      "_bytes": 11,
+      "translation": "   Episodios"
+    },
+    {
+      "index": 121,
+      "english": "Movies",
+      "_offset": 3460,
+      "_bytes": 6,
+      "translation": "Vídeos"
+    },
+    {
+      "index": 122,
+      "english": "     Tutorials ",
+      "_offset": 3467,
+      "_bytes": 15,
+      "translation": "    Tutoriales"
+    },
+    {
+      "index": 123,
+      "english": " All",
+      "_offset": 3483,
+      "_bytes": 4,
+      "translation": " Todo"
+    },
+    {
+      "index": 124,
+      "english": "     Completed",
+      "_offset": 3488,
+      "_bytes": 14,
+      "translation": "    Completado"
+    },
+    {
+      "index": 125,
+      "english": "Skill",
+      "_offset": 3503,
+      "_bytes": 5,
+      "translation": "Habilidades"
+    },
+    {
+      "index": 126,
+      "english": "Description",
+      "_offset": 3509,
+      "_bytes": 11,
+      "translation": "Descripción"
+    },
+    {
+      "index": 127,
+      "english": "Switch",
+      "_offset": 3521,
+      "_bytes": 6,
+      "translation": "Cambio"
+    },
+    {
+      "index": 128,
+      "english": "   BGM        ",
+      "_offset": 3528,
+      "_bytes": 14,
+      "translation": "  Música"
+    },
+    {
+      "index": 129,
+      "english": "          Sound Effects ",
+      "_offset": 3543,
+      "_bytes": 24,
+      "translation": "      Efectos"
+    },
+    {
+      "index": 130,
+      "english": "    Voice      ",
+      "_offset": 3568,
+      "_bytes": 15,
+      "translation": "    Voces"
+    },
+    {
+      "index": 131,
+      "english": "        Data Install",
+      "_offset": 3584,
+      "_bytes": 20,
+      "translation": "          Instalar Datos"
+    },
+    {
+      "index": 132,
+      "english": "Are you sure you would like to install data?",
+      "_offset": 3605,
+      "_bytes": 44,
+      "translation": "¿Seguro que quieres instalar los datos?"
+    },
+    {
+      "index": 133,
+      "english": "Failed to install data.",
+      "_offset": 3650,
+      "_bytes": 23,
+      "translation": "Fallo al instalar."
+    },
+    {
+      "index": 134,
+      "english": "Are you sure you would like to remove data installation?",
+      "_offset": 3674,
+      "_bytes": 56,
+      "translation": "¿Seguro que quieres eliminar la instalación de datos?"
+    },
+    {
+      "index": 135,
+      "english": "        Title Screen",
+      "_offset": 3731,
+      "_bytes": 20,
+      "translation": "          Ir al Título"
+    },
+    {
+      "index": 136,
+      "english": "Return to the title screen?",
+      "_offset": 3752,
+      "_bytes": 27,
+      "translation": "¿Volver a la pantalla de título?"
+    },
+    {
+      "index": 137,
+      "english": " Default",
+      "_offset": 3780,
+      "_bytes": 8,
+      "translation": "     Defecto"
+    },
+    {
+      "index": 138,
+      "english": "Set the volume for BGM.",
+      "_offset": 3789,
+      "_bytes": 23,
+      "translation": "Volumen de la música."
+    },
+    {
+      "index": 139,
+      "english": "Set the volume for sound effects.",
+      "_offset": 3813,
+      "_bytes": 33,
+      "translation": "Volumen de efectos de sonido."
+    },
+    {
+      "index": 140,
+      "english": "Set the volume for voices.",
+      "_offset": 3847,
+      "_bytes": 26,
+      "translation": "Volumen de las voces."
+    },
+    {
+      "index": 141,
+      "english": "Install or remove installed data.",
+      "_offset": 3874,
+      "_bytes": 33,
+      "translation": "Instala o elimina los datos."
+    },
+    {
+      "index": 142,
+      "english": "End the game and return to the title screen.",
+      "_offset": 3908,
+      "_bytes": 44,
+      "translation": "Termina el juego y vuelve al título."
+    },
+    {
+      "index": 143,
+      "english": "Revert to default settings.",
+      "_offset": 3953,
+      "_bytes": 27,
+      "translation": "Restaura ajustes de fábrica."
+    },
+    {
+      "index": 144,
+      "english": "Restore default settings?",
+      "_offset": 3981,
+      "_bytes": 25,
+      "translation": "¿Restaurar de fábrica?"
+    },
+    {
+      "index": 145,
+      "english": "Off",
+      "_offset": 4007,
+      "_bytes": 3,
+      "translation": "No"
+    },
+    {
+      "index": 146,
+      "english": "On",
+      "_offset": 4011,
+      "_bytes": 2,
+      "translation": "Sí"
+    },
+    {
+      "index": 147,
+      "english": "Found %s! \nYou can't hold any more.",
+      "_offset": 4014,
+      "_bytes": 35,
+      "translation": "¡Hallaste %s!\nNo puedes llevar más."
+    },
+    {
+      "index": 148,
+      "english": "Found %s x%d! \nYou can't hold any more.",
+      "_offset": 4050,
+      "_bytes": 39,
+      "translation": "¡Hallaste %s x%d!\nNo puedes llevar más."
+    },
+    {
+      "index": 149,
+      "english": "Obtained \n%s!",
+      "_offset": 4090,
+      "_bytes": 13,
+      "translation": "¡Obtenido\n%s!"
+    },
+    {
+      "index": 150,
+      "english": "Obtained \n%s x%d!",
+      "_offset": 4104,
+      "_bytes": 17,
+      "translation": "¡Obtenido\n%s x%d!"
+    },
+    {
+      "index": 151,
+      "english": "Obtained the recipe \nfor %s!",
+      "_offset": 4122,
+      "_bytes": 28,
+      "translation": "¡Obtenida la receta\nde %s!"
+    },
+    {
+      "index": 152,
+      "english": "Items",
+      "_offset": 4151,
+      "_bytes": 5,
+      "translation": "Objetos"
+    },
+    {
+      "index": 153,
+      "english": "DigiPiece",
+      "_offset": 4157,
+      "_bytes": 9,
+      "translation": "DigiPieza"
+    },
+    {
+      "index": 154,
+      "english": "Materials",
+      "_offset": 4167,
+      "_bytes": 9,
+      "translation": "Materiales"
+    },
+    {
+      "index": 155,
+      "english": "Recipes",
+      "_offset": 4177,
+      "_bytes": 7,
+      "translation": "Recetas"
+    },
+    {
+      "index": 156,
+      "english": "Stat Boost",
+      "_offset": 4185,
+      "_bytes": 10,
+      "translation": "Mejoras"
+    },
+    {
+      "index": 157,
+      "english": "Manual",
+      "_offset": 4196,
+      "_bytes": 6,
+      "translation": "Manual"
+    },
+    {
+      "index": 158,
+      "english": "Auto",
+      "_offset": 4203,
+      "_bytes": 4,
+      "translation": "Auto"
+    },
+    {
+      "index": 159,
+      "english": "Special",
+      "_offset": 4208,
+      "_bytes": 7,
+      "translation": "Especial"
+    },
+    {
+      "index": 160,
+      "english": " All",
+      "_offset": 4216,
+      "_bytes": 4,
+      "translation": " Todo"
+    },
+    {
+      "index": 161,
+      "english": " Main",
+      "_offset": 4221,
+      "_bytes": 5,
+      "translation": " Principal"
+    },
+    {
+      "index": 162,
+      "english": "Sub",
+      "_offset": 4227,
+      "_bytes": 3,
+      "translation": "Secundario"
+    },
+    {
+      "index": 163,
+      "english": "Free",
+      "_offset": 4231,
+      "_bytes": 4,
+      "translation": "Libre"
+    },
+    {
+      "index": 164,
+      "english": "Dungeon",
+      "_offset": 4236,
+      "_bytes": 7,
+      "translation": "Mazmorra"
+    },
+    {
+      "index": 165,
+      "english": "Start \"%s\"?",
+      "_offset": 4244,
+      "_bytes": 11,
+      "translation": "¿Iniciar \"%s\"?"
+    },
+    {
+      "index": 166,
+      "english": "Start Episode",
+      "_offset": 4256,
+      "_bytes": 13,
+      "translation": "Iniciar Episodio"
+    },
+    {
+      "index": 167,
+      "english": "    Party",
+      "_offset": 4270,
+      "_bytes": 9,
+      "translation": "   Equipo"
+    },
+    {
+      "index": 168,
+      "english": "Begin episode with these members.",
+      "_offset": 4280,
+      "_bytes": 33,
+      "translation": "Empieza con este equipo."
+    },
+    {
+      "index": 169,
+      "english": "Change party members.",
+      "_offset": 4314,
+      "_bytes": 21,
+      "translation": "Cambia los miembros."
+    },
+    {
+      "index": 170,
+      "english": "You cannot change party members in this episode.",
+      "_offset": 4336,
+      "_bytes": 48,
+      "translation": "No puedes cambiar miembros en este episodio."
+    },
+    {
+      "index": 171,
+      "english": "The leader cannot be changed in this area.",
+      "_offset": 4385,
+      "_bytes": 42,
+      "translation": "No puedes cambiar de líder en esta área."
+    },
+    {
+      "index": 172,
+      "english": "The leader can be swapped with other party members.",
+      "_offset": 4428,
+      "_bytes": 51,
+      "translation": "Cambia al líder por otro miembro del equipo."
+    },
+    {
+      "index": 173,
+      "english": "Currently using %s. You can replace this party member.",
+      "_offset": 4480,
+      "_bytes": 54,
+      "translation": "Usando %s. Puedes cambiar a este miembro."
+    },
+    {
+      "index": 174,
+      "english": "The supporting Digimon cannot be changed.",
+      "_offset": 4535,
+      "_bytes": 41,
+      "translation": "No puedes cambiar al Digimon de apoyo."
+    },
+    {
+      "index": 175,
+      "english": "Add a party member.",
+      "_offset": 4577,
+      "_bytes": 19,
+      "translation": "Añade un miembro."
+    },
+    {
+      "index": 176,
+      "english": "Change party members.",
+      "_offset": 4597,
+      "_bytes": 21,
+      "translation": "Cambia los miembros."
+    },
+    {
+      "index": 177,
+      "english": "Change ally strategy.",
+      "_offset": 4619,
+      "_bytes": 21,
+      "translation": "Cambia la estrategia."
+    },
+    {
+      "index": 178,
+      "english": "Save data for a New Game+?",
+      "_offset": 4641,
+      "_bytes": 26,
+      "translation": "¿Guardar para Nuevo Juego+?"
+    },
+    {
+      "index": 179,
+      "english": "Save data for a New Game+?\n(Selectiong “Cancel” will return you to the title screen.)",
+      "_offset": 4668,
+      "_bytes": 87,
+      "translation": "¿Guardar para Nuevo Juego+?\n(Si eliges \"Cancelar\", volverás a la pantalla de título.)"
+    },
+    {
+      "index": 180,
+      "english": "Could not save.\nWould you like to create save data for New Game+?",
+      "_offset": 4756,
+      "_bytes": 65,
+      "translation": "No se pudo guardar.\n¿Quieres crear datos para Nuevo Juego+?"
+    },
+    {
+      "index": 181,
+      "english": "Would you like to install data?\n%d KB of free space is required.",
+      "_offset": 4822,
+      "_bytes": 64,
+      "translation": "¿Quieres instalar los datos?\nSe necesitan %d KB libres."
+    },
+    {
+      "index": 182,
+      "english": "Installation was interrupted.\nWould you like to install data again?",
+      "_offset": 4887,
+      "_bytes": 67,
+      "translation": "La instalación se interrumpió.\n¿Quieres instalarlos de nuevo?"
+    },
+    {
+      "index": 183,
+      "english": "Would you like to install data again?",
+      "_offset": 4955,
+      "_bytes": 37,
+      "translation": "¿Quieres instalar los datos de nuevo?"
+    },
+    {
+      "index": 184,
+      "english": " New Game  ",
+      "_offset": 4993,
+      "_bytes": 11,
+      "translation": " Nuevo Juego"
+    },
+    {
+      "index": 185,
+      "english": " Load Game  ",
+      "_offset": 5005,
+      "_bytes": 12,
+      "translation": " Cargar Juego"
+    },
+    {
+      "index": 186,
+      "english": " Install Data",
+      "_offset": 5018,
+      "_bytes": 13,
+      "translation": " Instalar Datos"
+    },
+    {
+      "index": 187,
+      "english": "Examine",
+      "_offset": 5032,
+      "_bytes": 7,
+      "translation": "Mirar"
+    },
+    {
+      "index": 188,
+      "english": "Talk",
+      "_offset": 5040,
+      "_bytes": 4,
+      "translation": "Hablar"
+    },
+    {
+      "index": 189,
+      "english": "Save",
+      "_offset": 5045,
+      "_bytes": 4,
+      "translation": "Guardar"
+    },
+    {
+      "index": 190,
+      "english": "Map",
+      "_offset": 5050,
+      "_bytes": 3,
+      "translation": "Mapa"
+    },
+    {
+      "index": 191,
+      "english": "A successful ambush!",
+      "_offset": 5054,
+      "_bytes": 20,
+      "translation": "¡Emboscada exitosa!"
+    },
+    {
+      "index": 192,
+      "english": "Caught off guard!",
+      "_offset": 5075,
+      "_bytes": 17,
+      "translation": "¡Sorprendido!"
+    },
+    {
+      "index": 193,
+      "english": "Assume a defensive position to reduce the damage.",
+      "_offset": 5093,
+      "_bytes": 49,
+      "translation": "Ponte en posición defensiva para reducir el daño."
+    },
+    {
+      "index": 194,
+      "english": "Try to escape from the battle.",
+      "_offset": 5143,
+      "_bytes": 30,
+      "translation": "Intenta huir de la batalla."
+    },
+    {
+      "index": 195,
+      "english": "Can't escape!",
+      "_offset": 5174,
+      "_bytes": 13,
+      "translation": "¡No hay huida!"
+    },
+    {
+      "index": 196,
+      "english": "Use a skill.",
+      "_offset": 5188,
+      "_bytes": 12,
+      "translation": "Usa una habilidad."
+    },
+    {
+      "index": 197,
+      "english": "Can't use a skill.",
+      "_offset": 5201,
+      "_bytes": 18,
+      "translation": "Sin habilidades."
+    },
+    {
+      "index": 198,
+      "english": "Use an item.",
+      "_offset": 5220,
+      "_bytes": 12,
+      "translation": "Usa un objeto."
+    },
+    {
+      "index": 199,
+      "english": "You don't have any items.",
+      "_offset": 5233,
+      "_bytes": 25,
+      "translation": "No tienes objetos."
+    },
+    {
+      "index": 200,
+      "english": "Change strategy",
+      "_offset": 5259,
+      "_bytes": 15,
+      "translation": "Cambiar estrategia"
+    },
+    {
+      "index": 201,
+      "english": "Evolve into a more advanced stage.",
+      "_offset": 5275,
+      "_bytes": 34,
+      "translation": "Evoluciona a forma más avanzada."
+    },
+    {
+      "index": 202,
+      "english": "A basic attack.",
+      "_offset": 5310,
+      "_bytes": 15,
+      "translation": "Ataque básico."
+    },
+    {
+      "index": 203,
+      "english": "Skills sealed!",
+      "_offset": 5326,
+      "_bytes": 14,
+      "translation": "¡Sellado!"
+    },
+    {
+      "index": 204,
+      "english": "Poisoned!",
+      "_offset": 5341,
+      "_bytes": 9,
+      "translation": "¡Envenenado!"
+    },
+    {
+      "index": 205,
+      "english": "Recovered from poison.",
+      "_offset": 5351,
+      "_bytes": 22,
+      "translation": "Curado del veneno."
+    },
+    {
+      "index": 206,
+      "english": "Skills sealed!",
+      "_offset": 5374,
+      "_bytes": 14,
+      "translation": "¡Sellado!"
+    },
+    {
+      "index": 207,
+      "english": "Skills unsealed.",
+      "_offset": 5389,
+      "_bytes": 16,
+      "translation": "Ya no está sellado."
+    },
+    {
+      "index": 208,
+      "english": "Sticky!",
+      "_offset": 5406,
+      "_bytes": 7,
+      "translation": "¡Pegado!"
+    },
+    {
+      "index": 209,
+      "english": "Recovered from stickiness.",
+      "_offset": 5414,
+      "_bytes": 26,
+      "translation": "Ya no está pegado."
+    },
+    {
+      "index": 210,
+      "english": "Unconscious",
+      "_offset": 5441,
+      "_bytes": 11,
+      "translation": "Inconsciente"
+    },
+    {
+      "index": 211,
+      "english": "Attack",
+      "_offset": 5453,
+      "_bytes": 6,
+      "translation": "Ataque"
+    },
+    {
+      "index": 212,
+      "english": "Defense",
+      "_offset": 5460,
+      "_bytes": 7,
+      "translation": "Defensa"
+    },
+    {
+      "index": 213,
+      "english": "Evasion",
+      "_offset": 5468,
+      "_bytes": 7,
+      "translation": "Evasión"
+    },
+    {
+      "index": 214,
+      "english": "Hit Rate",
+      "_offset": 5476,
+      "_bytes": 8,
+      "translation": "Precisión"
+    },
+    {
+      "index": 215,
+      "english": " inflicted!",
+      "_offset": 5485,
+      "_bytes": 11,
+      "translation": " infligido!"
+    },
+    {
+      "index": 216,
+      "english": " up!",
+      "_offset": 5497,
+      "_bytes": 4,
+      "translation": " sube!"
+    },
+    {
+      "index": 217,
+      "english": " lowered!",
+      "_offset": 5502,
+      "_bytes": 9,
+      "translation": " baja!"
+    },
+    {
+      "index": 218,
+      "english": " returned to normal!",
+      "_offset": 5512,
+      "_bytes": 20,
+      "translation": " vuelve a lo normal!"
+    },
+    {
+      "index": 219,
+      "english": " can't go any higher!",
+      "_offset": 5533,
+      "_bytes": 21,
+      "translation": " no puede subir más!"
+    },
+    {
+      "index": 220,
+      "english": " can't go any lower!",
+      "_offset": 5555,
+      "_bytes": 20,
+      "translation": " no puede bajar más!"
+    },
+    {
+      "index": 221,
+      "english": "、",
+      "_offset": 5576,
+      "_bytes": 2,
+      "translation": "、"
+    },
+    {
+      "index": 222,
+      "english": "Cured of status effects.",
+      "_offset": 5579,
+      "_bytes": 24,
+      "translation": "Curado de alteraciones."
+    },
+    {
+      "index": 223,
+      "english": "Ran away!",
+      "_offset": 5604,
+      "_bytes": 9,
+      "translation": "¡Huyó!"
+    },
+    {
+      "index": 224,
+      "english": "Couldn't escape!",
+      "_offset": 5614,
+      "_bytes": 16,
+      "translation": "¡No pudo huir!"
+    },
+    {
+      "index": 225,
+      "english": "Changed strategy.",
+      "_offset": 5631,
+      "_bytes": 17,
+      "translation": "Nueva estrategia."
+    },
+    {
+      "index": 226,
+      "english": "Resume game",
+      "_offset": 5649,
+      "_bytes": 11,
+      "translation": "Reanudar"
+    },
+    {
+      "index": 227,
+      "english": "Pause game",
+      "_offset": 5661,
+      "_bytes": 10,
+      "translation": "Pausar"
+    },
+    {
+      "index": 228,
+      "english": "Ambush",
+      "_offset": 5672,
+      "_bytes": 6,
+      "translation": "Emboscada"
+    },
+    {
+      "index": 229,
+      "english": "Danger Alert",
+      "_offset": 5679,
+      "_bytes": 12,
+      "translation": "Alerta Peligro"
+    },
+    {
+      "index": 230,
+      "english": "Escape Master",
+      "_offset": 5692,
+      "_bytes": 13,
+      "translation": "Maestro Huida"
+    },
+    {
+      "index": 231,
+      "english": "Taunt",
+      "_offset": 5706,
+      "_bytes": 5,
+      "translation": "Provocar"
+    },
+    {
+      "index": 232,
+      "english": "Protect",
+      "_offset": 5712,
+      "_bytes": 7,
+      "translation": "Proteger"
+    },
+    {
+      "index": 233,
+      "english": "Defend",
+      "_offset": 5720,
+      "_bytes": 6,
+      "translation": "Defender"
+    },
+    {
+      "index": 234,
+      "english": "Continuous Action",
+      "_offset": 5727,
+      "_bytes": 17,
+      "translation": "Acción Continua"
+    },
+    {
+      "index": 235,
+      "english": "Pray",
+      "_offset": 5745,
+      "_bytes": 4,
+      "translation": "Rezar"
+    },
+    {
+      "index": 236,
+      "english": "Lock On",
+      "_offset": 5750,
+      "_bytes": 7,
+      "translation": "Fijar"
+    },
+    {
+      "index": 237,
+      "english": "Auto",
+      "_offset": 5758,
+      "_bytes": 4,
+      "translation": "Auto"
+    },
+    {
+      "index": 238,
+      "english": "Auto Death",
+      "_offset": 5763,
+      "_bytes": 10,
+      "translation": "KO Automático"
+    },
+    {
+      "index": 239,
+      "english": "Counter",
+      "_offset": 5774,
+      "_bytes": 7,
+      "translation": "Contra"
+    },
+    {
+      "index": 240,
+      "english": "Recoil Damage",
+      "_offset": 5782,
+      "_bytes": 13,
+      "translation": "Retroceso"
+    },
+    {
+      "index": 241,
+      "english": "Drain",
+      "_offset": 5796,
+      "_bytes": 5,
+      "translation": "Drenaje"
+    },
+    {
+      "index": 242,
+      "english": "Bonding Attack",
+      "_offset": 5802,
+      "_bytes": 14,
+      "translation": "Ataque Vínculo"
+    },
+    {
+      "index": 243,
+      "english": "Skill Panel size increased!",
+      "_offset": 5817,
+      "_bytes": 27,
+      "translation": "¡Panel de Habilidad mayor!"
+    },
+    {
+      "index": 244,
+      "english": "    Tai",
+      "_offset": 5845,
+      "_bytes": 10,
+      "translation": "    Tai"
+    },
+    {
+      "index": 245,
+      "english": "   Matt",
+      "_offset": 5856,
+      "_bytes": 9,
+      "translation": "   Matt"
+    },
+    {
+      "index": 246,
+      "english": "  Sora",
+      "_offset": 5866,
+      "_bytes": 6,
+      "translation": "  Sora"
+    },
+    {
+      "index": 247,
+      "english": "       Izzy",
+      "_offset": 5873,
+      "_bytes": 16,
+      "translation": "       Izzy"
+    },
+    {
+      "index": 248,
+      "english": "  Mimi",
+      "_offset": 5890,
+      "_bytes": 6,
+      "translation": "  Mimi"
+    },
+    {
+      "index": 249,
+      "english": " Joe",
+      "_offset": 5897,
+      "_bytes": 4,
+      "translation": " Joe"
+    },
+    {
+      "index": 250,
+      "english": "    T.K",
+      "_offset": 5902,
+      "_bytes": 10,
+      "translation": "    T.K."
+    },
+    {
+      "index": 251,
+      "english": "    Kari",
+      "_offset": 5913,
+      "_bytes": 10,
+      "translation": "    Kari"
+    },
+    {
+      "index": 252,
+      "english": "Omegamon",
+      "_offset": 5924,
+      "_bytes": 8,
+      "translation": "Omegamon"
+    },
+    {
+      "index": 253,
+      "english": "Leomon",
+      "_offset": 5933,
+      "_bytes": 6,
+      "translation": "Leomon"
+    },
+    {
+      "index": 254,
+      "english": "Saber Leomon",
+      "_offset": 5940,
+      "_bytes": 12,
+      "translation": "SaberLeomon"
+    },
+    {
+      "index": 255,
+      "english": "Ogremon",
+      "_offset": 5953,
+      "_bytes": 7,
+      "translation": "Ogremon"
+    },
+    {
+      "index": 256,
+      "english": "Andromon",
+      "_offset": 5961,
+      "_bytes": 8,
+      "translation": "Andromon"
+    },
+    {
+      "index": 257,
+      "english": "Daisuke",
+      "_offset": 5970,
+      "_bytes": 7,
+      "translation": "Daisuke"
+    },
+    {
+      "index": 258,
+      "english": "Takato",
+      "_offset": 5978,
+      "_bytes": 6,
+      "translation": "Takato"
+    },
+    {
+      "index": 259,
+      "english": "Takuya",
+      "_offset": 5985,
+      "_bytes": 6,
+      "translation": "Takuya"
+    },
+    {
+      "index": 260,
+      "english": "Masaru",
+      "_offset": 5992,
+      "_bytes": 6,
+      "translation": "Masaru"
+    },
+    {
+      "index": 261,
+      "english": "Taiki",
+      "_offset": 5999,
+      "_bytes": 5,
+      "translation": "Taiki"
+    },
+    {
+      "index": 262,
+      "english": "Tagiru",
+      "_offset": 6005,
+      "_bytes": 6,
+      "translation": "Tagiru"
+    },
+    {
+      "index": 263,
+      "english": "Tailmon",
+      "_offset": 6012,
+      "_bytes": 7,
+      "translation": "Gatomon"
+    },
+    {
+      "index": 264,
+      "english": "Piccolomon",
+      "_offset": 6020,
+      "_bytes": 10,
+      "translation": "Piccolomon"
+    },
+    {
+      "index": 265,
+      "english": "Wizarmon",
+      "_offset": 6031,
+      "_bytes": 8,
+      "translation": "Wizardmon"
+    },
+    {
+      "index": 266,
+      "english": "No memory card was detected.\nIn order to save the game, a memory card\nof at least %d KB of free space is required.",
+      "_offset": 6040,
+      "_bytes": 114,
+      "translation": "No se detectó tarjeta de memoria.\nPara guardar, necesitas una tarjeta\ncon al menos %d KB libres."
+    },
+    {
+      "index": 267,
+      "english": "There is not enough space on the memory card.\nIn order to save the game,\nat least %d KB of free space is required.",
+      "_offset": 6155,
+      "_bytes": 114,
+      "translation": "No hay espacio suficiente en la tarjeta.\nPara guardar, necesitas\nal menos %d KB libres."
+    },
+    {
+      "index": 268,
+      "english": "Delete unnecessary data from the memory card?",
+      "_offset": 6270,
+      "_bytes": 45,
+      "translation": "¿Borrar datos innecesarios de la tarjeta?"
+    },
+    {
+      "index": 269,
+      "english": "Failed to read installed data.\nDisabled the reading of installed data.",
+      "_offset": 6316,
+      "_bytes": 70,
+      "translation": "Fallo al leer los datos instalados.\nSe desactivó su lectura."
+    },
+    {
+      "index": 270,
+      "english": "Data deletion canceled.\nSaving...",
+      "_offset": 6387,
+      "_bytes": 33,
+      "translation": "Borrado cancelado.\nGuardando..."
+    },
+    {
+      "index": 271,
+      "english": "Saving...",
+      "_offset": 6421,
+      "_bytes": 9,
+      "translation": "Guard..."
+    },
+    {
+      "index": 272,
+      "english": "There is not enough space.\nIn order to install data,\nat least %d KB of free space is required.",
+      "_offset": 6431,
+      "_bytes": 94,
+      "translation": "No hay espacio suficiente.\nPara instalar, necesitas al\nmenos %d KB libres."
+    },
+    {
+      "index": 273,
+      "english": "Would you like to open up free space\nby deleting other save data?",
+      "_offset": 6526,
+      "_bytes": 65,
+      "translation": "¿Quieres liberar espacio\nborrando otros datos guardados?"
+    },
+    {
+      "index": 274,
+      "english": "   New Game+",
+      "_offset": 6592,
+      "_bytes": 12,
+      "translation": "  Nuevo Juego+"
+    },
+    {
+      "index": 275,
+      "english": "Keep your data and play the game from the start.\nYou'll be able to use evolution stages that you had.\n*Bonding Ranks will not be retained.",
+      "_offset": 6605,
+      "_bytes": 138,
+      "translation": "Conserva tus datos y juega desde el principio.\nPodrás usar las evoluciones que ya tenías.\n*No se conservará el Rango de Vínculo."
+    },
+    {
+      "index": 276,
+      "english": "Data has already been installed.\nWould you like to delete it\nand reinstall?",
+      "_offset": 6744,
+      "_bytes": 75,
+      "translation": "Los datos ya están\ninstalados. ¿Quieres\nborrarlos y reinstalarlos?"
+    },
+    {
+      "index": 277,
+      "english": "Play time: %2d hr %2d min %2d sec",
+      "_offset": 6820,
+      "_bytes": 33,
+      "translation": "Tiempo: %2d h %2d min %2d s"
+    }
+  ]
+}

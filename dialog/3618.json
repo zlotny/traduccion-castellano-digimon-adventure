@@ -1,501 +1,601 @@
 {
   "file_id": "3618",
-  "text_count": 62,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 66,
   "dialog": [
     {
       "index": 0,
-      "english": "��������*sigh* How long are we gonna have\nto keep doing this...",
-      "_offset": 1910,
-      "_length": 63,
-      "speaker_id": 0,
-      "translation": "Suspiro... cuánto tiempo más\nvamos a seguir así..."
+      "english": "*sigh* How long are we gonna have\nto keep doing this...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 6840,
+      "_bytes": 55,
+      "translation": "(suspiro) ¿Cuánto tiempo más\nvamos a seguir así...?"
     },
     {
       "index": 1,
       "english": "What does that black thing want\nwith us?",
-      "_offset": 1974,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Qué quiere esa cosa negra\nde nosotros?"
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 6896,
+      "_bytes": 40,
+      "translation": "¿Qué quiere esa cosa negra\nde nosotros?"
     },
     {
       "index": 2,
       "english": "Well, we've got to stop it,\nwhatever it's doing. Let's look\nfor clues.",
-      "_offset": 2015,
-      "_length": 70,
-      "speaker_id": 0,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6937,
+      "_bytes": 70,
       "translation": "Bueno, hay que detenerlo,\nsea lo que sea. Busquemos\npistas."
     },
     {
       "index": 3,
       "english": "There's someone here!",
-      "_offset": 2086,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Hay alguien aquí!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 7008,
+      "_bytes": 21,
+      "translation": "¡Hay alguien aquí!"
     },
     {
       "index": 4,
       "english": "You're back!",
-      "_offset": 2108,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Volviste!"
+      "speaker_id": 7091,
+      "line_type": 2,
+      "_offset": 7030,
+      "_bytes": 12,
+      "translation": "¡Volviste!"
     },
     {
       "index": 5,
-      "english": "Is he talking to us?",
-      "_offset": 2124,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Habla con nosotros?"
+      "english": "??",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 7043,
+      "_bytes": 2,
+      "translation": "??"
     },
     {
       "index": 6,
-      "english": "Playing me for a fool, huh? Well,\nit's my turn!",
-      "_offset": 2145,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Me tomas por tonto? Pues\nahora me toca a mí!"
+      "english": "Is he talking to us?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 7046,
+      "_bytes": 20,
+      "translation": "¿Habla con nosotros?"
     },
     {
       "index": 7,
-      "english": "We have *no* idea what you're\ntalking about!",
-      "_offset": 2193,
-      "_length": 44,
-      "speaker_id": 0,
-      "translation": "No tenemos ni idea de qué\nhablas!"
+      "english": "Playing me for a fool, huh? Well,\nit's my turn!",
+      "speaker_id": 7091,
+      "line_type": 2,
+      "_offset": 7067,
+      "_bytes": 47,
+      "translation": "¿Me tomas por tonto? ¡Pues\nahora me toca a mí!"
     },
     {
       "index": 8,
-      "english": "Agumon! Run!",
-      "_offset": 2238,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Corre!"
+      "english": "We have *no* idea what you're\ntalking about!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 7115,
+      "_bytes": 44,
+      "translation": "¡No tenemos ni idea de qué\nhablas!"
     },
     {
       "index": 9,
-      "english": "Take that!",
-      "_offset": 2251,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Toma esto!"
+      "english": "Agumon! Run!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7160,
+      "_bytes": 12,
+      "translation": "¡Corre!"
     },
     {
       "index": 10,
-      "english": "Aaaaaaah!",
-      "_offset": 2262,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Aaaaaah!"
+      "english": "Take that!",
+      "speaker_id": 7091,
+      "line_type": 2,
+      "_offset": 7173,
+      "_bytes": 10,
+      "translation": "¡Toma esto!"
     },
     {
       "index": 11,
-      "english": "W-Waaaaaaait!",
-      "_offset": 2272,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "E-Espera!"
+      "english": "Aaaaaaah!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 7184,
+      "_bytes": 9,
+      "translation": "¡Aaaaaah!"
     },
     {
       "index": 12,
-      "english": "Who are you?",
-      "_offset": 2286,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Quién eres?"
+      "english": "W-Waaaaaaait!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7194,
+      "_bytes": 13,
+      "translation": "¡E-Espera!"
     },
     {
       "index": 13,
-      "english": "I'm not exactly sure what's going\non, but I think you have him\nmistaken for someone else...",
-      "_offset": 2299,
-      "_length": 91,
-      "speaker_id": 0,
-      "translation": "No sé muy bien qué pasa,\npero creo que lo confundes\ncon otra persona..."
+      "english": "Who are you?",
+      "speaker_id": 7091,
+      "line_type": 2,
+      "_offset": 7208,
+      "_bytes": 12,
+      "translation": "¿Quién eres?"
     },
     {
       "index": 14,
-      "english": "Tai, get away from there! I'll\ntake him on!",
-      "_offset": 2395,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Tai, apártate! Yo me\nencargo de él!"
+      "english": "I'm not exactly sure what's going\non, but I think you have him\nmistaken for someone else...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7221,
+      "_bytes": 91,
+      "translation": "No sé muy bien qué pasa,\npero creo que lo confundes\ncon otra persona..."
     },
     {
       "index": 15,
-      "english": "It's okay, Hackmon. Those eyes\ndon't look like they want to\nfight.",
-      "_offset": 2442,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Calma, Hackmon. Sus ojos\nno parecen los de alguien\nque quiere pelear"
+      "english": "...",
+      "speaker_id": 7091,
+      "line_type": 2,
+      "_offset": 7313,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 16,
-      "english": "They look like pretty gentle\neyes...",
-      "_offset": 2509,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Parecen unos ojos muy\namables..."
+      "english": "Tai, get away from there! I'll\ntake him on!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7317,
+      "_bytes": 46,
+      "translation": "Tai, ¡apártate! ¡Yo me\nencargo de él!"
     },
     {
       "index": 17,
-      "english": "Looks like I was wrong, then.",
-      "_offset": 2546,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Entonces me equivoqué."
+      "english": "It's okay, Hackmon. Those eyes\ndon't look like they want to\nfight.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7364,
+      "_bytes": 66,
+      "translation": "Calma, Hackmon. Sus ojos\nno parecen los de alguien\nque quiere pelear."
     },
     {
       "index": 18,
-      "english": "I'm Takuya Kanbara. Sorry for\nstartling you there...",
-      "_offset": 2576,
-      "_length": 52,
-      "speaker_id": 0,
-      "translation": "Soy Takuya Kanbara. Siento\nhaberos asustado..."
+      "english": "They look like pretty gentle\neyes...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7431,
+      "_bytes": 36,
+      "translation": "Parecen unos ojos muy\namables..."
     },
     {
       "index": 19,
-      "english": "A human?!",
-      "_offset": 2629,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Humano?!"
+      "english": "Looks like I was wrong, then.",
+      "speaker_id": 7091,
+      "line_type": 2,
+      "_offset": 7468,
+      "_bytes": 29,
+      "translation": "Entonces me equivoqué."
     },
     {
       "index": 20,
-      "english": "A human evolved into a Digimon?",
-      "_offset": 2639,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Un humano evolucionó a Digimon?"
+      "english": "I'm Takuya Kanbara. Sorry for\nstartling you there...",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 7498,
+      "_bytes": 52,
+      "translation": "Soy Takuya Kanbara. Siento\nhaberos asustado..."
     },
     {
       "index": 21,
-      "english": "Well, it's kinda like that...",
-      "_offset": 2671,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Bueno, algo así..."
+      "english": "A human?!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 7551,
+      "_bytes": 9,
+      "translation": "¡¿Un humano?!"
     },
     {
       "index": 22,
-      "english": "Why'd you attack us all of a\nsudden?",
-      "_offset": 2701,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Por qué nos atacaste\nde repente?"
+      "english": "A human evolved into a Digimon?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7561,
+      "_bytes": 31,
+      "translation": "¿Un humano evolucionó a Digimon?"
     },
     {
       "index": 23,
-      "english": "Sorry about that. A while back,\nsome human with the same Digimon\nas you attacked me.",
-      "_offset": 2738,
-      "_length": 84,
-      "speaker_id": 0,
-      "translation": "Perdón por eso. Hace tiempo,\nun humano con el mismo Digimon\nque tú me atacó."
+      "english": "Well, it's kinda like that...",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 7593,
+      "_bytes": 29,
+      "translation": "Bueno, algo así..."
     },
     {
       "index": 24,
-      "english": "There's another one of me?",
-      "_offset": 2823,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Hay otro yo por ahí?"
+      "english": "Why'd you attack us all of a\nsudden?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7623,
+      "_bytes": 36,
+      "translation": "¿Por qué nos atacaste\nde repente?"
     },
     {
       "index": 25,
-      "english": "I guess there's a copy of Agumon\nrunning around too, huh?",
-      "_offset": 2850,
-      "_length": 57,
-      "speaker_id": 0,
-      "translation": "Supongo que también hay\nuna copia de Agumon suelta."
+      "english": "Sorry about that. A while back,\nsome human with the same Digimon\nas you attacked me.",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 7660,
+      "_bytes": 84,
+      "translation": "Perdón por eso. Hace tiempo,\nun humano con el mismo Digimon\nque tú me atacó."
     },
     {
       "index": 26,
-      "english": "Considering what's happened so\nfar, I wouldn't be surprised.",
-      "_offset": 2908,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Con todo lo que ha pasado,\nno me sorprendería."
+      "english": "There's another one of me?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 7745,
+      "_bytes": 26,
+      "translation": "¿Hay otro yo por ahí?"
     },
     {
       "index": 27,
-      "english": "Anyway, I'm glad we didn't end up\nfighting each other for some\nstupid reason...",
-      "_offset": 2969,
-      "_length": 79,
-      "speaker_id": 0,
-      "translation": "Bueno, me alegro de que no\nacabáramos peleando por\nalguna tontería..."
+      "english": "I guess there's a copy of Agumon\nrunning around too, huh?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7772,
+      "_bytes": 57,
+      "translation": "Supongo que también hay\nuna copia de Agumon suelta."
     },
     {
       "index": 28,
-      "english": "Yeah, I'm glad we avoided that,\ntoo.",
-      "_offset": 3049,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Sí, yo también me alegro\nde evitarlo."
+      "english": "Considering what's happened so\nfar, I wouldn't be surprised.",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7830,
+      "_bytes": 60,
+      "translation": "Con todo lo que ha pasado,\nno me sorprendería."
     },
     {
       "index": 29,
-      "english": "I'm guessing you were trapped\nhere, too. Wanna help us out?",
-      "_offset": 3086,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Supongo que tú también\nestás atrapado. Nos ayudas?"
+      "english": "Anyway, I'm glad we didn't end up\nfighting each other for some\nstupid reason...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7891,
+      "_bytes": 79,
+      "translation": "Bueno, me alegro de que no\nacabáramos peleando por\nalguna tontería..."
     },
     {
       "index": 30,
-      "english": "You too, huh? ...Okay, sure!",
-      "_offset": 3146,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Tú también, eh? Vale, claro!"
+      "english": "Yeah, I'm glad we avoided that,\ntoo.",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 7971,
+      "_bytes": 36,
+      "translation": "Sí, yo también me alegro\nde evitarlo."
     },
     {
       "index": 31,
-      "english": "So, about what you were saying\nearlier... a *human* attacked you?",
-      "_offset": 3175,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Sobre lo que decías antes...\nte atacó un humano?"
+      "english": "I'm guessing you were trapped\nhere, too. Wanna help us out?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8008,
+      "_bytes": 59,
+      "translation": "Supongo que tú también\nestás atrapado. ¿Nos ayudas?"
     },
     {
       "index": 32,
-      "english": "Hmm... He looked like a middle\nschool student, and he had an\nAgumon with him.",
-      "_offset": 3241,
-      "_length": 77,
-      "speaker_id": 0,
-      "translation": "Parecía un chico de\nsecundaria, y llevaba\nun Agumon con él."
+      "english": "You too, huh? ...Okay, sure!",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 8068,
+      "_bytes": 28,
+      "translation": "Tú también, ¿eh? ¡Vale, claro!"
     },
     {
       "index": 33,
-      "english": "But when he did, you were probably\na Digimon at the time...",
-      "_offset": 3319,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Pero entonces tú serías\nun Digimon en ese momento..."
+      "english": "So, about what you were saying\nearlier... a *human* attacked you?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8097,
+      "_bytes": 65,
+      "translation": "Sobre lo que decías antes...\n¿te atacó un humano?"
     },
     {
       "index": 34,
-      "english": "Yeah, I was.",
-      "_offset": 3379,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Sí, lo era."
+      "english": "Hmm... He looked like a middle\nschool student, and he had an\nAgumon with him.",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 8163,
+      "_bytes": 77,
+      "translation": "Parecía un chico de\nsecundaria, y llevaba\nun Agumon con él."
     },
     {
       "index": 35,
-      "english": "A middle school student attacking\na Digimon...",
-      "_offset": 3392,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Un chico de secundaria\natacando a un Digimon..."
+      "english": "But when he did, you were probably\na Digimon at the time...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8241,
+      "_bytes": 59,
+      "translation": "Pero entonces tú serías\nun Digimon en ese momento..."
     },
     {
       "index": 36,
-      "english": "What kind of guy was that?",
-      "_offset": 3439,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Qué clase de tipo era?"
+      "english": "Yeah, I was.",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 8301,
+      "_bytes": 12,
+      "translation": "Sí, lo era."
     },
     {
       "index": 37,
-      "english": "Well, he had a really strong\npunch...",
-      "_offset": 3466,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Bueno, tenía un puñetazo\nmuy fuerte..."
+      "english": "A middle school student attacking\na Digimon...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8314,
+      "_bytes": 46,
+      "translation": "Un chico de secundaria\natacando a un Digimon..."
     },
     {
       "index": 38,
-      "english": "The last person to hit me that\nhard was the goalkeeper, during\none of our matches...",
-      "_offset": 3504,
-      "_length": 84,
-      "speaker_id": 0,
-      "translation": "La última vez que me pegaron\nasí de fuerte fue el portero,\nen un partido..."
+      "english": "What kind of guy was that?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8361,
+      "_bytes": 26,
+      "translation": "¿Qué clase de tipo era?"
     },
     {
       "index": 39,
-      "english": "Wait, you play soccer, too?",
-      "_offset": 3589,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Juegas al fútbol también?"
+      "english": "Well, he had a really strong\npunch...",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 8388,
+      "_bytes": 37,
+      "translation": "Bueno, tenía un puñetazo\nmuy fuerte..."
     },
     {
       "index": 40,
-      "english": "You play?",
-      "_offset": 3617,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Juegas?"
+      "english": "The last person to hit me that\nhard was the goalkeeper, during\none of our matches...",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 8426,
+      "_bytes": 84,
+      "translation": "La última vez que me pegaron\nasí de fuerte fue el portero,\nen un partido..."
     },
     {
       "index": 41,
-      "english": "Yeah, I'm in the soccer club.",
-      "_offset": 3627,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Sí, juego al fútbol."
+      "english": "Wait, you play soccer, too?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8511,
+      "_bytes": 27,
+      "translation": "¿Juegas al fútbol también?"
     },
     {
       "index": 42,
-      "english": "Whoa!",
-      "_offset": 3657,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Vaya!"
+      "english": "You play?",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 8539,
+      "_bytes": 9,
+      "translation": "¿Juegas?"
     },
     {
       "index": 43,
-      "english": "I tend to do a lot of heading, so\nour goalkeeper tends to punch me a\nlot...",
-      "_offset": 3663,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "Remato mucho de cabeza, así\nque el portero me suele\npegar bastante..."
+      "english": "Yeah, I'm in the soccer club.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8549,
+      "_bytes": 29,
+      "translation": "Sí, juego al fútbol."
     },
     {
       "index": 44,
-      "english": "Been there, done that!",
-      "_offset": 3739,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Te entiendo!"
+      "english": "Whoa!",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 8579,
+      "_bytes": 5,
+      "translation": "¡Vaya!"
     },
     {
       "index": 45,
-      "english": "What's soccer? Some kind of human\nmartial arts?",
-      "_offset": 3762,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Qué es fútbol? Un tipo de\narte marcial humano?"
+      "english": "I tend to do a lot of heading, so\nour goalkeeper tends to punch me a\nlot...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8585,
+      "_bytes": 75,
+      "translation": "Remato mucho de cabeza, así\nque el portero me suele\npegar bastante..."
     },
     {
       "index": 46,
-      "english": "No, no!",
-      "_offset": 3810,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "No, no!"
+      "english": "Been there, done that!",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 8661,
+      "_bytes": 22,
+      "translation": "¡Te entiendo!"
     },
     {
       "index": 47,
-      "english": "Hey! Who are you?",
-      "_offset": 3825,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Oye! Quién eres?"
+      "english": "What's soccer? Some kind of human\nmartial arts?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8684,
+      "_bytes": 47,
+      "translation": "¿Qué es fútbol? ¿Un tipo de\narte marcial humano?"
     },
     {
       "index": 48,
-      "english": "It's another fake...",
-      "_offset": 3843,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Otro falso más..."
+      "english": "No, no!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8732,
+      "_bytes": 7,
+      "translation": "¡No, no!"
     },
     {
       "index": 49,
-      "english": "All right, let's work together!",
-      "_offset": 3864,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Bien, trabajemos juntos!"
+      "english": "...",
+      "speaker_id": 9002,
+      "line_type": 2,
+      "_offset": 8740,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 50,
-      "english": "*whew* That's over.",
-      "_offset": 3896,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Uf... eso ya pasó."
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 8744,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 51,
-      "english": "We're done with this one!",
-      "_offset": 3916,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Con este ya terminamos!"
+      "english": "Hey! Who are you?",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 8747,
+      "_bytes": 17,
+      "translation": "¡Oye! ¿Quién eres?"
     },
     {
       "index": 52,
-      "english": "But now we have to leave Takuya...",
-      "_offset": 3942,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Ahora hay que dejar\na Takuya..."
+      "english": "It's another fake...",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8765,
+      "_bytes": 20,
+      "translation": "Otro falso más..."
     },
     {
       "index": 53,
-      "english": "We didn't get to see each other\nfor very long, but I learned a lot\nfrom you guys!",
-      "_offset": 3977,
-      "_length": 81,
-      "speaker_id": 0,
-      "translation": "No pudimos estar juntos\nmucho tiempo, pero aprendí\nmucho de vosotros!"
+      "english": "All right, let's work together!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8786,
+      "_bytes": 31,
+      "translation": "¡Bien, trabajemos juntos!"
     },
     {
       "index": 54,
-      "english": "I'm glad I met you!",
-      "_offset": 4059,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Un placer conoceros"
+      "english": "*whew* That's over.",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 8818,
+      "_bytes": 19,
+      "translation": "Uf... eso ya pasó."
     },
     {
       "index": 55,
-      "english": "Yeah! It was fun, talking about\nsoccer!",
-      "_offset": 4079,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Sí! Fue divertido hablar\nde fútbol!"
+      "english": "We're done with this one!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8838,
+      "_bytes": 25,
+      "translation": "¡Con este ya terminamos!"
     },
     {
       "index": 56,
-      "english": "See you, Takuya!",
-      "_offset": 4119,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Adiós, Takuya!"
+      "english": "But now we have to leave Takuya...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8864,
+      "_bytes": 34,
+      "translation": "Ahora hay que dejar a Takuya..."
     },
     {
       "index": 57,
-      "english": "Yeah, let's meet again!",
-      "_offset": 4136,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Sí, veámonos de nuevo!"
+      "english": "We didn't get to see each other\nfor very long, but I learned a lot\nfrom you guys!",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 8899,
+      "_bytes": 81,
+      "translation": "¡No pudimos estar juntos\nmucho tiempo, pero aprendí\nmucho de vosotros!"
     },
     {
       "index": 58,
-      "english": "So there's another person here...\nwell, I'm gonna have to get myself\nall fired up!",
-      "_offset": 4160,
-      "_length": 82,
-      "speaker_id": 0,
-      "translation": "Así que hay alguien más aquí...\npues voy a ponerme\nlas pilas!"
+      "english": "I'm glad I met you!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8981,
+      "_bytes": 19,
+      "translation": "¡Me alegro de conocerte!"
     },
     {
       "index": 59,
-      "english": "【Area 1】",
-      "_offset": 4243,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Zona 1"
+      "english": "Yeah! It was fun, talking about\nsoccer!",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 9001,
+      "_bytes": 39,
+      "translation": "¡Sí! ¡Fue divertido hablar\nde fútbol!"
     },
     {
       "index": 60,
-      "english": "【Area 2】",
-      "_offset": 4266,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Zona 2"
+      "english": "See you, Takuya!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9041,
+      "_bytes": 16,
+      "translation": "¡Adiós, Takuya!"
     },
     {
       "index": 61,
-      "english": "【Area 3】",
-      "_offset": 4289,
-      "_length": 22,
-      "speaker_id": 0,
+      "english": "Yeah, let's meet again!",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 9058,
+      "_bytes": 23,
+      "translation": "¡Sí, veámonos de nuevo!"
+    },
+    {
+      "index": 62,
+      "english": "So there's another person here...\nwell, I'm gonna have to get myself\nall fired up!",
+      "speaker_id": 7031,
+      "line_type": 2,
+      "_offset": 9082,
+      "_bytes": 82,
+      "translation": "¡Así que hay alguien más aquí...\npues voy a ponerme\nlas pilas!"
+    },
+    {
+      "index": 63,
+      "english": "　　　　　　【Area 1】",
+      "speaker_id": 9003,
+      "line_type": 4,
+      "_offset": 9165,
+      "_bytes": 22,
+      "translation": "Zona 1"
+    },
+    {
+      "index": 64,
+      "english": "　　　　　　【Area 2】",
+      "speaker_id": 9003,
+      "line_type": 4,
+      "_offset": 9188,
+      "_bytes": 22,
+      "translation": "Zona 2"
+    },
+    {
+      "index": 65,
+      "english": "　　　　　　【Area 3】",
+      "speaker_id": 9003,
+      "line_type": 4,
+      "_offset": 9211,
+      "_bytes": 22,
       "translation": "Zona 3"
     }
   ]

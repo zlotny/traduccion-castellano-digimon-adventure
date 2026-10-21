@@ -1,630 +1,728 @@
 {
   "file_id": "3606",
-  "text_count": 78,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 80,
   "dialog": [
     {
       "index": 0,
-      "english": "Ah! It's the princess, ribbit!",
-      "_offset": 1328,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Ah! Es la princesa, croac!"
+      "english": "Guys!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 7608,
+      "_bytes": 5,
+      "translation": "¡Chicos!"
     },
     {
       "index": 1,
-      "english": "Save us, ribbit!",
-      "_offset": 1359,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "Sálvanos, croac!"
+      "english": "It's been a while!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 7614,
+      "_bytes": 18,
+      "translation": "¡Cuánto tiempo!"
     },
     {
       "index": 2,
-      "english": "Everyone's all tired out...",
-      "_offset": 1376,
-      "_length": 27,
-      "speaker_id": 0,
-      "translation": "Todos están agotados..."
+      "english": "Ah! It's the princess, ribbit!",
+      "speaker_id": 4262,
+      "line_type": 2,
+      "_offset": 7633,
+      "_bytes": 30,
+      "translation": "¡Ah! ¡Es la princesa, croac!"
     },
     {
       "index": 3,
-      "english": "What on earth is going on?",
-      "_offset": 1404,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Qué diablos pasa?"
+      "english": "Save us, ribbit!",
+      "speaker_id": 4263,
+      "line_type": 2,
+      "_offset": 7664,
+      "_bytes": 16,
+      "translation": "¡Sálvanos, croac!"
     },
     {
       "index": 4,
-      "english": "It's our lord's karaoke contest,\ntama.",
-      "_offset": 1431,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Es el karaoke de\nnuestro amo, tama."
+      "english": "Everyone's all tired out...",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 7681,
+      "_bytes": 27,
+      "translation": "Todos están agotados..."
     },
     {
       "index": 5,
-      "english": "What do you mean?",
-      "_offset": 1470,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Qué quieres decir"
+      "english": "What on earth is going on?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 7709,
+      "_bytes": 26,
+      "translation": "¿Qué diablos pasa?"
     },
     {
       "index": 6,
-      "english": "We're happy that the princess's\nsong woke up our lord, ribbit.",
-      "_offset": 1488,
-      "_length": 62,
-      "speaker_id": 0,
-      "translation": "Nos alegra que su canción\ndespertara a nuestro\namo, croac."
+      "english": "It's our lord's karaoke contest,\ntama.",
+      "speaker_id": 4271,
+      "line_type": 2,
+      "_offset": 7736,
+      "_bytes": 38,
+      "translation": "Es el karaoke de\nnuestro amo, tama."
     },
     {
       "index": 7,
-      "english": "Our lord has been singing karaoke\nfrom dawn to dusk, and we can't \nsleep from the sound, ribbit.",
-      "_offset": 1551,
-      "_length": 96,
-      "speaker_id": 0,
-      "translation": "Nuestro amo canta karaoke\ndel amanecer al anochecer,\ny no podemos dormir, croac."
+      "english": "What do you mean?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7775,
+      "_bytes": 17,
+      "translation": "¿Qué quieres decir?"
     },
     {
       "index": 8,
-      "english": "So we need the prinshess's help,\ntama!",
-      "_offset": 1648,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Necesitamos ayuda de la\nprinceza, tama!"
+      "english": "We're happy that the princess's\nsong woke up our lord, ribbit.",
+      "speaker_id": 4262,
+      "line_type": 2,
+      "_offset": 7793,
+      "_bytes": 62,
+      "translation": "Nos alegra que su canción\ndespertara a nuestro\namo, croac."
     },
     {
       "index": 9,
-      "english": "Huh?! Me?",
-      "_offset": 1687,
-      "_length": 9,
-      "speaker_id": 0,
-      "translation": "Eh?! Yo?"
+      "english": "Our lord has been singing karaoke\nfrom dawn to dusk, and we can't \nsleep from the sound, ribbit.",
+      "speaker_id": 4263,
+      "line_type": 2,
+      "_offset": 7856,
+      "_bytes": 96,
+      "translation": "Nuestro amo canta karaoke\ndel amanecer al anochecer,\ny no podemos dormir, croac."
     },
     {
       "index": 10,
-      "english": "We want you to make him lose his\nconfidence by beating him cold in\na karaoke contest, tama!",
-      "_offset": 1697,
-      "_length": 91,
-      "speaker_id": 0,
-      "translation": "Queremos que le hagas perder\nla confianza venciéndolo en\nun concurso de karaoke, tama!"
+      "english": "So we need the prinshess's help,\ntama!",
+      "speaker_id": 4271,
+      "line_type": 2,
+      "_offset": 7953,
+      "_bytes": 38,
+      "translation": "¡Necesitamos ayuda de la\nprinceza, tama!"
     },
     {
       "index": 11,
-      "english": "But if she does that...",
-      "_offset": 1789,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Pero si hace eso..."
+      "english": "Huh?! Me?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 7992,
+      "_bytes": 9,
+      "translation": "¡¿Eh?! ¿Yo?"
     },
     {
       "index": 12,
-      "english": "Won't he start focusing *more*\non practicing karaoke?",
-      "_offset": 1813,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "No se centrará AÚN MÁS en\npracticar karaoke?"
+      "english": "We want you to make him lose his\nconfidence by beating him cold in\na karaoke contest, tama!",
+      "speaker_id": 4271,
+      "line_type": 2,
+      "_offset": 8002,
+      "_bytes": 91,
+      "translation": "¡Queremos que le hagas perder\nla confianza venciéndolo en\nun concurso de karaoke, tama!"
     },
     {
       "index": 13,
-      "english": "You're right, ribbit.",
-      "_offset": 1867,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Tienes razón, croac."
+      "english": "But if she does that...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 8094,
+      "_bytes": 23,
+      "translation": "Pero si hace eso..."
     },
     {
       "index": 14,
-      "english": "That's not good, ribbit.",
-      "_offset": 1889,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "Eso no es bueno, croac."
+      "english": "Won't he start focusing *more*\non practicing karaoke?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 8118,
+      "_bytes": 53,
+      "translation": "¿No se centrará AÚN MÁS en\npracticar karaoke?"
     },
     {
       "index": 15,
-      "english": "I got an idea, tama!",
-      "_offset": 1914,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Tengo una idea, tama"
+      "english": "You're right, ribbit.",
+      "speaker_id": 4262,
+      "line_type": 2,
+      "_offset": 8172,
+      "_bytes": 21,
+      "translation": "Tienes razón, croac."
     },
     {
       "index": 16,
-      "english": "What is it, ribbit?",
-      "_offset": 1935,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Qué es, croac?"
+      "english": "That's not good, ribbit.",
+      "speaker_id": 4263,
+      "line_type": 2,
+      "_offset": 8194,
+      "_bytes": 24,
+      "translation": "Eso no es bueno, croac."
     },
     {
       "index": 17,
-      "english": "I found the manual to make that\nmedicine, tama!",
-      "_offset": 1955,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Encontré el manual para\nhacer esa medicina, tama"
+      "english": "I got an idea, tama!",
+      "speaker_id": 4271,
+      "line_type": 2,
+      "_offset": 8219,
+      "_bytes": 20,
+      "translation": "¡Tengo una idea, tama!"
     },
     {
       "index": 18,
-      "english": "Really, ribbit?",
-      "_offset": 2003,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "En serio, croac"
+      "english": "What is it, ribbit?",
+      "speaker_id": 4262,
+      "line_type": 2,
+      "_offset": 8240,
+      "_bytes": 19,
+      "translation": "¿Qué es, croac?"
     },
     {
       "index": 19,
-      "english": "Hey, I don't get what's going on\nhere...",
-      "_offset": 2019,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Oye, no entiendo qué pasa\naquí..."
+      "english": "I found the manual to make that\nmedicine, tama!",
+      "speaker_id": 4271,
+      "line_type": 2,
+      "_offset": 8260,
+      "_bytes": 47,
+      "translation": "¡Encontré el manual para\nhacer esa medicina, tama!"
     },
     {
       "index": 20,
-      "english": "What's this medicine?",
-      "_offset": 2060,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Qué medicina es esa?"
+      "english": "Really, ribbit?",
+      "speaker_id": 4263,
+      "line_type": 2,
+      "_offset": 8308,
+      "_bytes": 15,
+      "translation": "¿En serio, croac?"
     },
     {
       "index": 21,
-      "english": "In this castle, there's a recipe\nfor medicine to change the volume\nof TonosamaGekomon's voice.",
-      "_offset": 2082,
-      "_length": 94,
-      "speaker_id": 0,
-      "translation": "En este castillo hay una\nreceta para bajar el volumen\nde la voz de ShogunGekomon."
+      "english": "Hey, I don't get what's going on\nhere...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8324,
+      "_bytes": 40,
+      "translation": "Oye, no entiendo qué pasa\naquí..."
     },
     {
       "index": 22,
-      "english": "Huh... that's an interesting\nmedicine.",
-      "_offset": 2177,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Eh... qué medicina más\ninteresante."
+      "english": "What's this medicine?",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 8365,
+      "_bytes": 21,
+      "translation": "¿Qué medicina es esa?"
     },
     {
       "index": 23,
-      "english": "If we make this medicine, we might\nbe able to soften our lord's\nvoice, ribbit.",
-      "_offset": 2216,
-      "_length": 78,
-      "speaker_id": 0,
-      "translation": "Si hacemos esta medicina,\npodríamos suavizar la voz\nde nuestro amo, croac."
+      "english": "In this castle, there's a recipe\nfor medicine to change the volume\nof TonosamaGekomon's voice.",
+      "speaker_id": 4262,
+      "line_type": 2,
+      "_offset": 8387,
+      "_bytes": 94,
+      "translation": "En este castillo hay una\nreceta para bajar el volumen\nde la voz de ShogunGekomon."
     },
     {
       "index": 24,
-      "english": "Then TonosamaGekomon can enjoy\nhis karaoke, and you can sleep in\npeace!",
-      "_offset": 2295,
-      "_length": 71,
-      "speaker_id": 0,
-      "translation": "Así ShogunGekomon disfruta\nsu karaoke, y vosotros\ndormís en paz!"
+      "english": "Huh... that's an interesting\nmedicine.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8482,
+      "_bytes": 38,
+      "translation": "Eh... qué medicina más\ninteresante."
     },
     {
       "index": 25,
-      "english": "Prinshess, we'd like you to help\nus make this medicine, tama!",
-      "_offset": 2367,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "Princeza, queremos que nos\nayudes a hacer esta\nmedicina, tama!"
+      "english": "If we make this medicine, we might\nbe able to soften our lord's\nvoice, ribbit.",
+      "speaker_id": 4263,
+      "line_type": 2,
+      "_offset": 8521,
+      "_bytes": 78,
+      "translation": "Si hacemos esta medicina,\npodríamos suavizar la voz\nde nuestro amo, croac."
     },
     {
       "index": 26,
-      "english": "Okay! After all that trouble I\ngave you earlier, I'll have to\nwork hard for you guys!",
-      "_offset": 2429,
-      "_length": 85,
-      "speaker_id": 0,
-      "translation": "Vale! Tras los problemas\nque os causé antes, me\nesforzaré por vosotros!"
+      "english": "Then TonosamaGekomon can enjoy\nhis karaoke, and you can sleep in\npeace!",
+      "speaker_id": 1031,
+      "line_type": 2,
+      "_offset": 8600,
+      "_bytes": 71,
+      "translation": "¡Así ShogunGekomon disfruta\nsu karaoke, y vosotros\ndormís en paz!"
     },
     {
       "index": 27,
-      "english": "Hooraaaaaaaaay! Hooraaaaaaaaaaay!",
-      "_offset": 2515,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Bieeeeeeen! Bieeeeeeeeen!"
+      "english": "Prinshess, we'd like you to help\nus make this medicine, tama!",
+      "speaker_id": 4271,
+      "line_type": 2,
+      "_offset": 8672,
+      "_bytes": 61,
+      "translation": "¡Princesa, queremos que nos\nayudes a hacer esta\nmedicina, tama!"
     },
     {
       "index": 28,
-      "english": "So the materials are hidden\nhere...",
-      "_offset": 2549,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Materiales escondidos\npor aquí..."
+      "english": "Okay! After all that trouble I\ngave you earlier, I'll have to\nwork hard for you guys!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8734,
+      "_bytes": 85,
+      "translation": "¡Vale! ¡Tras los problemas\nque os causé antes, me\nesforzaré por vosotros!"
     },
     {
       "index": 29,
-      "english": "We have to get three materials in\nall...",
-      "_offset": 2585,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Hay que conseguir\ntres materiales..."
+      "english": "Hooraaaaaaaaay! Hooraaaaaaaaaaay!",
+      "speaker_id": 4262,
+      "line_type": 2,
+      "_offset": 8820,
+      "_bytes": 33,
+      "translation": "¡Bieeeeeeen! ¡Bieeeeeeeeen!"
     },
     {
       "index": 30,
-      "english": "I wonder why they divided it up\nand stored it in different places?",
-      "_offset": 2626,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Me pregunto por qué lo\ndividieron y guardaron en\nsitios distintos?"
+      "english": "So the materials are hidden\nhere...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 8854,
+      "_bytes": 35,
+      "translation": "Materiales escondidos\npor aquí..."
     },
     {
       "index": 31,
-      "english": "Bet it's like how you'd separate a\nbank book and seal.",
-      "_offset": 2693,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Debe de ser como separar\nuna libreta y su sello."
+      "english": "We have to get three materials in\nall...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 8890,
+      "_bytes": 40,
+      "translation": "Hay que conseguir\ntres materiales..."
     },
     {
       "index": 32,
-      "english": "I see, so they're valuable\nmaterials.",
-      "_offset": 2748,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Ya veo, son materiales\nvaliosos."
+      "english": "I wonder why they divided it up\nand stored it in different places?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 8931,
+      "_bytes": 66,
+      "translation": "¿Por qué lo dividirían y\nguardarían en sitios\ndistintos?"
     },
     {
       "index": 33,
-      "english": "(Wait, he could understand that\nanalogy!?)",
-      "_offset": 2786,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "(Espera, entendió esa\ncomparación!?)"
+      "english": "Bet it's like how you'd separate a\nbank book and seal.",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 8998,
+      "_bytes": 54,
+      "translation": "Debe de ser como separar\nuna libreta y su sello."
     },
     {
       "index": 34,
-      "english": "Anyway, we just need to get all\nthe materials and give 'em to the\nGekomon.",
-      "_offset": 2829,
-      "_length": 74,
-      "speaker_id": 0,
-      "translation": "En fin, solo hay que\nconseguir los materiales y\ndárselos a los Gekomon."
+      "english": "I see, so they're valuable\nmaterials.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 9053,
+      "_bytes": 37,
+      "translation": "Ya veo, son materiales\nvaliosos."
     },
     {
       "index": 35,
-      "english": "Obtained a medicine material!",
-      "_offset": 2904,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Material obtenido!"
+      "english": "(Wait, he could understand that\nanalogy!?)",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9091,
+      "_bytes": 42,
+      "translation": "(Espera, ¿¡entendió esa\ncomparación!?)"
     },
     {
       "index": 36,
-      "english": "Two materials left! Keep at it,\nMimi!",
-      "_offset": 2934,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Quedan dos! Sigue así,\nMimi!"
+      "english": "Anyway, we just need to get all\nthe materials and give 'em to the\nGekomon.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9134,
+      "_bytes": 74,
+      "translation": "En fin, solo hay que\nconseguir los materiales y\ndárselos a los Gekomon."
     },
     {
       "index": 37,
       "english": "Obtained a medicine material!",
-      "_offset": 2972,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Material obtenido!"
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 9209,
+      "_bytes": 29,
+      "translation": "¡Material obtenido!"
     },
     {
       "index": 38,
-      "english": "One material left! One more, Mimi!",
-      "_offset": 3002,
-      "_length": 34,
-      "speaker_id": 0,
-      "translation": "Queda uno! Uno más, Mimi!"
+      "english": "Two materials left! Keep at it,\nMimi!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 9239,
+      "_bytes": 37,
+      "translation": "¡Quedan dos! ¡Sigue así,\nMimi!"
     },
     {
       "index": 39,
       "english": "Obtained a medicine material!",
-      "_offset": 3037,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Material obtenido!"
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 9277,
+      "_bytes": 29,
+      "translation": "¡Material obtenido!"
     },
     {
       "index": 40,
-      "english": "Now we have to give these\nmaterials to the Gekomon.",
-      "_offset": 3067,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Ahora hay que darles estos\nmateriales a los Gekomon."
+      "english": "One material left! One more, Mimi!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 9307,
+      "_bytes": 34,
+      "translation": "¡Queda uno! ¡Uno más, Mimi!"
     },
     {
       "index": 41,
-      "english": "Finished, tama!",
-      "_offset": 3119,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Terminado, tama"
+      "english": "Obtained a medicine material!",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 9342,
+      "_bytes": 29,
+      "translation": "¡Material obtenido!"
     },
     {
       "index": 42,
-      "english": "We did it, ribbit!",
-      "_offset": 3135,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Lo logramos, croac"
+      "english": "Now we have to give these\nmaterials to the Gekomon.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9372,
+      "_bytes": 51,
+      "translation": "Ahora hay que darles estos\nmateriales a los Gekomon."
     },
     {
       "index": 43,
-      "english": "It's thanks to the princess,\nribbit!",
-      "_offset": 3154,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Es gracias a la princesa,\ncroac!"
+      "english": "Finished, tama!",
+      "speaker_id": 4271,
+      "line_type": 2,
+      "_offset": 9424,
+      "_bytes": 15,
+      "translation": "¡Terminado, tama!"
     },
     {
       "index": 44,
-      "english": "Isn't that great, Mimi?",
-      "_offset": 3191,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "No es genial, Mimi?"
+      "english": "We did it, ribbit!",
+      "speaker_id": 4262,
+      "line_type": 2,
+      "_offset": 9440,
+      "_bytes": 18,
+      "translation": "¡Lo logramos, croac!"
     },
     {
       "index": 45,
-      "english": "Now we just have to get\nTonosamaGekomon to drink this.",
-      "_offset": 3215,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Ahora solo hay que hacer\nque ShogunGekomon se beba\nesto."
+      "english": "It's thanks to the princess,\nribbit!",
+      "speaker_id": 4263,
+      "line_type": 2,
+      "_offset": 9459,
+      "_bytes": 36,
+      "translation": "¡Es gracias a la princesa,\ncroac!"
     },
     {
       "index": 46,
-      "english": "Ugh...",
-      "_offset": 3270,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Uf..."
+      "english": "Isn't that great, Mimi?",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 9496,
+      "_bytes": 23,
+      "translation": "¿No es genial, Mimi?"
     },
     {
       "index": 47,
-      "english": "No point in getting mad, Mimi.",
-      "_offset": 3277,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "No sirve enfadarse, Mimi."
+      "english": "Now we just have to get\nTonosamaGekomon to drink this.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9520,
+      "_bytes": 54,
+      "translation": "Ahora solo hay que hacer\nque ShogunGekomon se beba\nesto."
     },
     {
       "index": 48,
-      "english": "Making the medicine is one thing,\nbut we haven't thought about how\nto get him to drink it...",
-      "_offset": 3308,
-      "_length": 92,
-      "speaker_id": 0,
-      "translation": "Hacer la medicina es una\ncosa, pero no pensamos en\ncómo dársela..."
+      "english": "Ugh...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9575,
+      "_bytes": 6,
+      "translation": "Uf..."
     },
     {
       "index": 49,
-      "english": "This is shameful, ribbit.",
-      "_offset": 3401,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Qué vergüenza, croac."
+      "english": "No point in getting mad, Mimi.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 9582,
+      "_bytes": 30,
+      "translation": "No sirve enfadarse, Mimi."
     },
     {
       "index": 50,
-      "english": "Our lord is fussy about taste,\nribbit. We can't mix it in his\nfood, ribbit.",
-      "_offset": 3427,
-      "_length": 75,
-      "speaker_id": 0,
-      "translation": "Nuestro amo es quisquilloso\ncon el sabor, croac. No\npodemos mezclarla, croac."
+      "english": "Making the medicine is one thing,\nbut we haven't thought about how\nto get him to drink it...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9613,
+      "_bytes": 92,
+      "translation": "Hacer la medicina es una\ncosa, pero no pensamos en\ncómo dársela..."
     },
     {
       "index": 51,
-      "english": "We'll have to force him to drink\nit after all...",
-      "_offset": 3503,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "Tendremos que obligarlo a\nbebérsela..."
+      "english": "This is shameful, ribbit.",
+      "speaker_id": 4262,
+      "line_type": 2,
+      "_offset": 9706,
+      "_bytes": 25,
+      "translation": "Qué vergüenza, croac."
     },
     {
       "index": 52,
-      "english": "Why am *I* the one who has to do\nthis?",
-      "_offset": 3552,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Por qué tengo que ser YO\nquien lo haga"
+      "english": "Our lord is fussy about taste,\nribbit. We can't mix it in his\nfood, ribbit.",
+      "speaker_id": 4263,
+      "line_type": 2,
+      "_offset": 9732,
+      "_bytes": 75,
+      "translation": "Nuestro amo es quisquilloso\ncon el sabor, croac. No\npodemos mezclarla, croac."
     },
     {
       "index": 53,
-      "english": "Go for it, Mimi!",
-      "_offset": 3591,
-      "_length": 16,
-      "speaker_id": 0,
-      "translation": "A por ello, Mimi"
+      "english": "We'll have to force him to drink\nit after all...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 9808,
+      "_bytes": 48,
+      "translation": "Tendremos que obligarlo a\nbebérsela..."
     },
     {
       "index": 54,
-      "english": "Fight, prinshess!",
-      "_offset": 3608,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Lucha, princeza!"
+      "english": "Why am *I* the one who has to do\nthis?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9857,
+      "_bytes": 38,
+      "translation": "¿Por qué tengo que ser YO\nquien lo haga?"
     },
     {
       "index": 55,
-      "english": "Ah! G-good morning...",
-      "_offset": 3626,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ah! B-buenos días..."
+      "english": "Go for it, Mimi!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 9896,
+      "_bytes": 16,
+      "translation": "¡A por ello, Mimi!"
     },
     {
       "index": 56,
-      "english": "Mimi! Run!",
-      "_offset": 3648,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Corre!"
+      "english": "Fight, prinshess!",
+      "speaker_id": 4271,
+      "line_type": 2,
+      "_offset": 9913,
+      "_bytes": 17,
+      "translation": "¡Lucha, princeza!"
     },
     {
       "index": 57,
-      "english": "So *that's* how it goes?!",
-      "_offset": 3659,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Con que ESO es, eh?!"
+      "english": "Ah! G-good morning...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9931,
+      "_bytes": 21,
+      "translation": "¡Ah! B-buenos días..."
     },
     {
       "index": 58,
-      "english": "I didn't know that I was causing\neveryone trouble, ribbit.",
-      "_offset": 3685,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "No sabía que causaba\nproblemas a todos, croac."
+      "english": "Mimi! Run!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 9953,
+      "_bytes": 10,
+      "translation": "¡Corre!"
     },
     {
       "index": 59,
-      "english": "I'll just keep it from morning to\nevening, ribbit.",
-      "_offset": 3744,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Lo guardaré de la mañana\na la noche, croac."
+      "english": "So *that's* how it goes?!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 9964,
+      "_bytes": 25,
+      "translation": "Conque ESO es, ¡¿eh?!"
     },
     {
       "index": 60,
-      "english": "We're indebted to you, princess!\nRibbit!",
-      "_offset": 3795,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Te debemos mucho,\nprincesa! Croac!"
+      "english": "I didn't know that I was causing\neveryone trouble, ribbit.",
+      "speaker_id": 4281,
+      "line_type": 2,
+      "_offset": 9990,
+      "_bytes": 58,
+      "translation": "No sabía que causaba\nproblemas a todos, croac."
     },
     {
       "index": 61,
-      "english": "Thank you, ribbit!",
-      "_offset": 3836,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Gracias, croac!"
+      "english": "I'll just keep it from morning to\nevening, ribbit.",
+      "speaker_id": 4281,
+      "line_type": 2,
+      "_offset": 10049,
+      "_bytes": 50,
+      "translation": "Solo cantaré de la mañana\na la noche, croac."
     },
     {
       "index": 62,
-      "english": "Thank you! Now don't get into any\nmore disputes, okay?",
-      "_offset": 3855,
-      "_length": 54,
-      "speaker_id": 0,
-      "translation": "Gracias! Y no os peleéis\nmás, vale?"
+      "english": "We're indebted to you, princess!\nRibbit!",
+      "speaker_id": 4262,
+      "line_type": 2,
+      "_offset": 10100,
+      "_bytes": 40,
+      "translation": "¡Te debemos mucho,\nprincesa! ¡Croac!"
     },
     {
       "index": 63,
-      "english": "All right then, byyyyyye~!",
-      "_offset": 3910,
-      "_length": 26,
-      "speaker_id": 0,
-      "translation": "Bueno, adióooooós~!"
+      "english": "Thank you, ribbit!",
+      "speaker_id": 4263,
+      "line_type": 2,
+      "_offset": 10141,
+      "_bytes": 18,
+      "translation": "¡Gracias, croac!"
     },
     {
       "index": 64,
-      "english": "So the materials are hidden\nhere...",
-      "_offset": 3937,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Materiales escondidos\npor aquí..."
+      "english": "Thank you! Now don't get into any\nmore disputes, okay?",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10160,
+      "_bytes": 54,
+      "translation": "¡Gracias! Y no os peleéis\nmás, ¿vale?"
     },
     {
       "index": 65,
-      "english": "Three materials left! Keep at it,\nMimi!",
-      "_offset": 3973,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Quedan tres! Sigue así,\nMimi!"
+      "english": "All right then, byyyyyye~!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 10215,
+      "_bytes": 26,
+      "translation": "¡Bueno, adióooooós~!"
     },
     {
       "index": 66,
       "english": "So the materials are hidden\nhere...",
-      "_offset": 4013,
-      "_length": 35,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10242,
+      "_bytes": 35,
       "translation": "Materiales escondidos\npor aquí..."
     },
     {
       "index": 67,
-      "english": "Two materials left! Keep at it,\nMimi!",
-      "_offset": 4049,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Quedan dos! Sigue así,\nMimi!"
+      "english": "Three materials left! Keep at it,\nMimi!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 10278,
+      "_bytes": 39,
+      "translation": "¡Quedan tres! ¡Sigue así,\nMimi!"
     },
     {
       "index": 68,
       "english": "So the materials are hidden\nhere...",
-      "_offset": 4087,
-      "_length": 35,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10318,
+      "_bytes": 35,
       "translation": "Materiales escondidos\npor aquí..."
     },
     {
       "index": 69,
-      "english": "One material left! Keep at it,\nMimi!",
-      "_offset": 4123,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Queda uno! Sigue así,\nMimi!"
+      "english": "Two materials left! Keep at it,\nMimi!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 10354,
+      "_bytes": 37,
+      "translation": "¡Quedan dos! ¡Sigue así,\nMimi!"
     },
     {
       "index": 70,
-      "english": "Now we just have to give these\nmaterials to the Gekomon.",
-      "_offset": 4160,
-      "_length": 56,
-      "speaker_id": 0,
-      "translation": "Ahora hay que dar estos\nmateriales a los Gekomon."
+      "english": "So the materials are hidden\nhere...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10392,
+      "_bytes": 35,
+      "translation": "Materiales escondidos\npor aquí..."
     },
     {
       "index": 71,
-      "english": "We don't have enough materials,\nribbit. We can't make the medicine\nwith this, ribbit...",
-      "_offset": 4217,
-      "_length": 87,
-      "speaker_id": 0,
-      "translation": "No tenemos materiales\nsuficientes, croac. No\npodemos hacerla así, croac..."
+      "english": "One material left! Keep at it,\nMimi!",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 10428,
+      "_bytes": 36,
+      "translation": "¡Queda uno! ¡Sigue así,\nMimi!"
     },
     {
       "index": 72,
-      "english": "I know, but I couldn't really find\nthem...",
-      "_offset": 4305,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Lo sé, pero no logré\nencontrarlos..."
+      "english": "Now we just have to give these\nmaterials to the Gekomon.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10465,
+      "_bytes": 56,
+      "translation": "Ahora hay que dar estos\nmateriales a los Gekomon."
     },
     {
       "index": 73,
-      "english": "We need the princess to pull this\noff, ribbit!",
-      "_offset": 4348,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Necesitamos que la\nprincesa lo consiga, croac!"
+      "english": "We don't have enough materials,\nribbit. We can't make the medicine\nwith this, ribbit...",
+      "speaker_id": 4262,
+      "line_type": 2,
+      "_offset": 10522,
+      "_bytes": 87,
+      "translation": "No tenemos materiales\nsuficientes, croac. No\npodemos hacerla así, croac..."
     },
     {
       "index": 74,
-      "english": "It's okay! I'll figure it out. I\nhave three left.",
-      "_offset": 4395,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Tranquilos! Ya me las\napaño. Me quedan tres."
+      "english": "I know, but I couldn't really find\nthem...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10610,
+      "_bytes": 42,
+      "translation": "Lo sé, pero no logré\nencontrarlos..."
     },
     {
       "index": 75,
-      "english": "It's okay! I'll figure it out. I\nhave two left.",
-      "_offset": 4445,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Tranquilos! Ya me las\napaño. Me quedan dos."
+      "english": "We need the princess to pull this\noff, ribbit!",
+      "speaker_id": 4262,
+      "line_type": 2,
+      "_offset": 10653,
+      "_bytes": 46,
+      "translation": "¡Necesitamos que la\nprincesa lo consiga, croac!"
     },
     {
       "index": 76,
-      "english": "It's okay! I'll figure it out. I\nhave one left.",
-      "_offset": 4493,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Tranquilos! Ya me las\napaño. Me queda uno."
+      "english": "It's okay! I'll figure it out. I\nhave three left.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10700,
+      "_bytes": 49,
+      "translation": "¡Tranquilos! Ya me las\napaño. Me quedan tres."
     },
     {
       "index": 77,
+      "english": "It's okay! I'll figure it out. I\nhave two left.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10750,
+      "_bytes": 47,
+      "translation": "¡Tranquilos! Ya me las\napaño. Me quedan dos."
+    },
+    {
+      "index": 78,
+      "english": "It's okay! I'll figure it out. I\nhave one left.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 10798,
+      "_bytes": 47,
+      "translation": "¡Tranquilos! Ya me las\napaño. Me queda uno."
+    },
+    {
+      "index": 79,
       "english": "Oh, these are all the materials!\nWe can make the medicine!",
-      "_offset": 4541,
-      "_length": 58,
-      "speaker_id": 0,
-      "translation": "Oh, son todos los\nmateriales! Podemos hacer\nla medicina!"
+      "speaker_id": 4262,
+      "line_type": 2,
+      "_offset": 10846,
+      "_bytes": 58,
+      "translation": "¡Oh, son todos los\nmateriales! ¡Podemos hacer\nla medicina!"
     }
   ]
 }

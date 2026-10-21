@@ -1,278 +1,323 @@
 {
   "file_id": "3612",
-  "text_count": 34,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 35,
   "dialog": [
     {
       "index": 0,
-      "english": "��������We defeated MetalSeadramon, but...",
-      "_offset": 3229,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Derrotamos a MetalSeadramon,\npero..."
+      "english": "We defeated MetalSeadramon, but...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 5784,
+      "_bytes": 34,
+      "translation": "Vencimos a MetalSeadramon, pero..."
     },
     {
       "index": 1,
       "english": "...at a horrible cost.",
-      "_offset": 3272,
-      "_length": 22,
-      "speaker_id": 0,
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 5819,
+      "_bytes": 22,
       "translation": "...a un alto precio."
     },
     {
       "index": 2,
       "english": "He was always doing things for us,\nbut we couldn't do anything...",
-      "_offset": 3295,
-      "_length": 65,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 5842,
+      "_bytes": 65,
       "translation": "Siempre hacía cosas por\nnosotros, pero no pudimos\nhacer nada..."
     },
     {
       "index": 3,
       "english": "Mimi...",
-      "_offset": 3361,
-      "_length": 7,
-      "speaker_id": 0,
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 5908,
+      "_bytes": 7,
       "translation": "Mimi..."
     },
     {
       "index": 4,
       "english": "Guys, I think we should make a\ngrave for Whamon.",
-      "_offset": 3369,
-      "_length": 48,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 5916,
+      "_bytes": 48,
       "translation": "Deberíamos hacerle una\ntumba a Whamon, chicos."
     },
     {
       "index": 5,
       "english": "I agree.",
-      "_offset": 3418,
-      "_length": 8,
-      "speaker_id": 0,
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 5965,
+      "_bytes": 8,
       "translation": "Vale."
     },
     {
       "index": 6,
       "english": "Me, too.",
-      "_offset": 3427,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "También."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 5974,
+      "_bytes": 8,
+      "translation": "Yo también."
     },
     {
       "index": 7,
       "english": "Yeah, let me help, too!",
-      "_offset": 3436,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "Sí, yo también ayudo!"
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 5983,
+      "_bytes": 23,
+      "translation": "¡Sí, yo también ayudo!"
     },
     {
       "index": 8,
       "english": "Thanks, guys!",
-      "_offset": 3460,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Gracias!"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6007,
+      "_bytes": 13,
+      "translation": "¡Gracias!"
     },
     {
       "index": 9,
       "english": "All right, Mimi! Let's gather\nflowers for Whamon.",
-      "_offset": 3474,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Vale, Mimi! Vamos a\nrecoger flores para Whamon."
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 6021,
+      "_bytes": 49,
+      "translation": "¡Vale, Mimi! Vamos a\nrecoger flores para Whamon."
     },
     {
       "index": 10,
       "english": "We met Whamon on our way to Server\nContinent...",
-      "_offset": 3524,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Conocimos a Whamon camino\nal Continente Server"
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6071,
+      "_bytes": 47,
+      "translation": "Conocimos a Whamon camino\nal Continente Server..."
     },
     {
       "index": 11,
       "english": "Mimi...",
-      "_offset": 3572,
-      "_length": 7,
-      "speaker_id": 0,
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 6119,
+      "_bytes": 7,
       "translation": "Mimi..."
     },
     {
       "index": 12,
       "english": "If we hadn't met Whamon, we\nprobably wouldn't have made it to\nServer Continent...",
-      "_offset": 3580,
-      "_length": 81,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6127,
+      "_bytes": 81,
       "translation": "Si no hubiéramos conocido a\nWhamon, no habríamos llegado\nal Continente Server..."
     },
     {
       "index": 13,
       "english": "We could have been lost at sea...",
-      "_offset": 3662,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Podríamos perdernos en\nel mar..."
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 6209,
+      "_bytes": 33,
+      "translation": "Podríamos habernos perdido..."
     },
     {
       "index": 14,
       "english": "He was also the one who told us\nwhere to find the tags that\nDevimon hid...",
-      "_offset": 3696,
-      "_length": 74,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6243,
+      "_bytes": 74,
       "translation": "También nos dijo dónde\nencontrar los Circuitos que\nescondió Devimon..."
     },
     {
       "index": 15,
       "english": "You're right...",
-      "_offset": 3771,
-      "_length": 15,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 6318,
+      "_bytes": 15,
       "translation": "Tienes razón..."
     },
     {
       "index": 16,
       "english": "And he protected us from\nMetalSeadramon...",
-      "_offset": 3787,
-      "_length": 42,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6334,
+      "_bytes": 42,
       "translation": "Y nos protegió de\nMetalSeadramon..."
     },
     {
       "index": 17,
       "english": "Whamon...",
-      "_offset": 3830,
-      "_length": 9,
-      "speaker_id": 0,
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 6377,
+      "_bytes": 9,
       "translation": "Whamon..."
     },
     {
       "index": 18,
       "english": "Please watch over us from the sea,\nWhamon...",
-      "_offset": 3840,
-      "_length": 44,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6387,
+      "_bytes": 44,
       "translation": "Cuídanos desde el mar,\nWhamon..."
     },
     {
       "index": 19,
       "english": "Let's do our best for Whamon's\nsake, Mimi!",
-      "_offset": 3885,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "Démoslo todo por Whamon,\nMimi!"
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 6432,
+      "_bytes": 42,
+      "translation": "¡Démoslo todo por Whamon,\nMimi!"
     },
     {
       "index": 20,
       "english": "I'll always remember Whamon...",
-      "_offset": 3928,
-      "_length": 30,
-      "speaker_id": 0,
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6475,
+      "_bytes": 30,
       "translation": "Siempre recordaré a Whamon..."
     },
     {
       "index": 21,
-      "english": "Whamon!",
-      "_offset": 3963,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Whamon!"
+      "english": "...",
+      "speaker_id": 9001,
+      "line_type": 4,
+      "_offset": 6506,
+      "_bytes": 3,
+      "translation": "..."
     },
     {
       "index": 22,
-      "english": "Mimi...",
-      "_offset": 3971,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Mimi..."
+      "english": "Whamon!",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6510,
+      "_bytes": 7,
+      "translation": "¡Whamon!"
     },
     {
       "index": 23,
-      "english": "This is...",
-      "_offset": 3979,
-      "_length": 10,
-      "speaker_id": 0,
-      "translation": "Esto es..."
+      "english": "Mimi...",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 6518,
+      "_bytes": 7,
+      "translation": "Mimi..."
     },
     {
       "index": 24,
-      "english": "Palmon... I feel like I can hear\nWhamon's voice...",
-      "_offset": 3990,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Palmon... creo que oigo la\nvoz de Whamon..."
+      "english": "This is...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6526,
+      "_bytes": 10,
+      "translation": "Esto es..."
     },
     {
       "index": 25,
-      "english": "Yeah, he's probably watching over\nus right now.",
-      "_offset": 4041,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Sí, seguro que nos está\ncuidando ahora mismo."
+      "english": "Palmon... I feel like I can hear\nWhamon's voice...",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6537,
+      "_bytes": 50,
+      "translation": "Palmon... creo que oigo la\nvoz de Whamon..."
     },
     {
       "index": 26,
-      "english": "This must be Whamon's gift to us.",
-      "_offset": 4089,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Debe ser el regalo de\nWhamon."
+      "english": "Yeah, he's probably watching over\nus right now.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 6588,
+      "_bytes": 47,
+      "translation": "Sí, seguro que nos está\ncuidando ahora mismo."
     },
     {
       "index": 27,
-      "english": "Yeah...",
-      "_offset": 4123,
-      "_length": 7,
-      "speaker_id": 0,
-      "translation": "Sí..."
+      "english": "This must be Whamon's gift to us.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6636,
+      "_bytes": 33,
+      "translation": "Debe de ser el regalo de Whamon."
     },
     {
       "index": 28,
-      "english": "Mimi, let's go.",
-      "_offset": 4131,
-      "_length": 15,
-      "speaker_id": 0,
-      "translation": "Mimi, vamos."
+      "english": "Yeah...",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 6670,
+      "_bytes": 7,
+      "translation": "Sí..."
     },
     {
       "index": 29,
-      "english": "We'll meet again, Whamon! We'll\nput an end to this fight for sure.",
-      "_offset": 4147,
-      "_length": 66,
-      "speaker_id": 0,
-      "translation": "Nos volveremos a ver, Whamon!\nAcabaremos con esto, seguro."
+      "english": "Mimi, let's go.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6678,
+      "_bytes": 15,
+      "translation": "Mimi, vamos."
     },
     {
       "index": 30,
-      "english": "All right, Mimi! Let's gather\nflowers for Whamon.",
-      "_offset": 4214,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Vale, Mimi! Vamos a\nrecoger flores para Whamon."
+      "english": "We'll meet again, Whamon! We'll\nput an end to this fight for sure.",
+      "speaker_id": 1061,
+      "line_type": 2,
+      "_offset": 6694,
+      "_bytes": 66,
+      "translation": "¡Nos volveremos a ver, Whamon!\nAcabaremos con esto, seguro."
     },
     {
       "index": 31,
-      "english": "Obtained flowers!",
-      "_offset": 4264,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Flores obtenidas!"
+      "english": "All right, Mimi! Let's gather\nflowers for Whamon.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 6761,
+      "_bytes": 49,
+      "translation": "¡Vale, Mimi! Vamos a\nrecoger flores para Whamon."
     },
     {
       "index": 32,
-      "english": "If we collect more flowers, I'm\nsure Whamon would like that.",
-      "_offset": 4282,
-      "_length": 60,
-      "speaker_id": 0,
-      "translation": "Si recogemos más flores,\nseguro que a Whamon le\ngustaría."
+      "english": "Obtained flowers!",
+      "speaker_id": 9003,
+      "line_type": 2,
+      "_offset": 6811,
+      "_bytes": 17,
+      "translation": "¡Flores obtenidas!"
     },
     {
       "index": 33,
+      "english": "If we collect more flowers, I'm\nsure Whamon would like that.",
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 6829,
+      "_bytes": 60,
+      "translation": "Si recogemos más flores,\nseguro que a Whamon le\ngustaría."
+    },
+    {
+      "index": 34,
       "english": "Hey, Mimi! Let's look elsewhere.",
-      "_offset": 4343,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Oye, Mimi! Miremos en\notro sitio"
+      "speaker_id": 2521,
+      "line_type": 2,
+      "_offset": 6890,
+      "_bytes": 32,
+      "translation": "¡Oye, Mimi! Miremos en otro sitio."
     }
   ]
 }

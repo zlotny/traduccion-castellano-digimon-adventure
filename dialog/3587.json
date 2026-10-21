@@ -1,910 +1,1025 @@
 {
   "file_id": "3587",
+  "format": "etdf",
+  "kind": "ETDF",
   "text_count": 113,
   "dialog": [
     {
       "index": 0,
-      "english": "��������Hey! Tai's writing an email!\nWhat's it say?",
-      "_offset": 5377,
-      "_length": 54,
-      "speaker_id": 2,
-      "translation": "Hey! Tai está escribiendo un\nemail! Qué dice?"
+      "english": "Hey! Tai's writing an email!\nWhat's it say?",
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 13240,
+      "_bytes": 46,
+      "translation": "¡Eh! ¡Tai está escribiendo un\ncorreo! ¿Qué dice?"
     },
     {
       "index": 1,
       "english": "\"Dear Sora, it was my fault, so\ndon't be angry anymore...\"",
-      "_offset": 5432,
-      "_length": 58,
-      "speaker_id": 1,
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 13287,
+      "_bytes": 58,
       "translation": "\"Querida Sora, fue culpa mía,\nno sigas enfadada...\""
     },
     {
       "index": 2,
       "english": "Don't read my emails! Hey, are you\ngoing somewhere?",
-      "_offset": 5491,
-      "_length": 51,
-      "speaker_id": 2,
-      "translation": "No leas mis emails! Oye, vas\na algún sitio?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13346,
+      "_bytes": 51,
+      "translation": "¡No leas mis emails! Oye, ¿vas\na algún sitio?"
     },
     {
       "index": 3,
       "english": "I'm going to a friend's birthday\nparty! I'm getting her this\npresent!",
-      "_offset": 5543,
-      "_length": 69,
-      "speaker_id": 3,
-      "translation": "Voy al cumpleaños de una\namiga! Le llevo este regalo!"
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 13398,
+      "_bytes": 69,
+      "translation": "¡Voy al cumpleaños de una\namiga! ¡Le llevo este regalo!"
     },
     {
       "index": 4,
       "english": "Hmmmm? Gimme!",
-      "_offset": 5613,
-      "_length": 13,
-      "speaker_id": 2,
-      "translation": "Eh? A ver!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13468,
+      "_bytes": 13,
+      "translation": "¿Eh? ¡A ver!"
     },
     {
       "index": 5,
       "english": "No!",
-      "_offset": 5627,
-      "_length": 3,
-      "speaker_id": 2,
-      "translation": "No!"
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 13482,
+      "_bytes": 3,
+      "translation": "¡No!"
     },
     {
       "index": 6,
       "english": "You can't just keep it to\nyourself!",
-      "_offset": 5631,
-      "_length": 35,
-      "speaker_id": 2,
-      "translation": "No puedes quedártelo para\nti solo!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13486,
+      "_bytes": 35,
+      "translation": "¡No puedes quedártelo para\nti sola!"
     },
     {
       "index": 7,
       "english": "If you wanna send an email, all\nyou gotta do is click here!",
-      "_offset": 5667,
-      "_length": 59,
-      "speaker_id": 4,
-      "translation": "Si quieres mandar un email,\nsolo hay que pulsar aquí!"
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 13522,
+      "_bytes": 59,
+      "translation": "¡Si quieres mandar un email,\nsolo hay que pulsar aquí!"
     },
     {
       "index": 8,
       "english": "Don't just *send* it!",
-      "_offset": 5727,
-      "_length": 21,
-      "speaker_id": 28,
-      "translation": "No lo MANDES así!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13582,
+      "_bytes": 21,
+      "translation": "¡No lo MANDES así!"
     },
     {
       "index": 9,
       "english": "Why not?",
-      "_offset": 5749,
-      "_length": 8,
-      "speaker_id": 3,
-      "translation": "Por qué?"
+      "speaker_id": 1081,
+      "line_type": 2,
+      "_offset": 13604,
+      "_bytes": 8,
+      "translation": "¿Por qué?"
     },
     {
       "index": 10,
       "english": "Huh? Mail rejected? Come *on*,\nSora...",
-      "_offset": 5758,
-      "_length": 38,
-      "speaker_id": 1,
-      "translation": "Eh? Email rechazado? Venga\nya, Sora..."
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13613,
+      "_bytes": 38,
+      "translation": "¿Eh? ¿Email rechazado? Venga\nya, Sora..."
     },
     {
       "index": 11,
       "english": "Hey, Izzy!",
-      "_offset": 5797,
-      "_length": 15,
-      "speaker_id": 4,
-      "translation": "Eh, Izzy!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13652,
+      "_bytes": 15,
+      "translation": "¡Eh, Izzy!"
     },
     {
       "index": 12,
       "english": "*pant* *pant* The egg...",
-      "_offset": 5813,
-      "_length": 24,
-      "speaker_id": 4,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13668,
+      "_bytes": 24,
       "translation": "(jadeos) El huevo..."
     },
     {
       "index": 13,
       "english": "Huh?",
-      "_offset": 5838,
-      "_length": 4,
-      "speaker_id": 2,
-      "translation": "Eh?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13693,
+      "_bytes": 4,
+      "translation": "¿Eh?"
     },
     {
       "index": 14,
       "english": "The egg... hatched!",
-      "_offset": 5843,
-      "_length": 19,
-      "speaker_id": 1,
-      "translation": "El huevo... nació!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13698,
+      "_bytes": 19,
+      "translation": "¡El huevo... ha eclosionado!"
     },
     {
       "index": 15,
       "english": "The heck is this? It's like a\nsquishy little jellyfish.",
-      "_offset": 5863,
-      "_length": 55,
-      "speaker_id": 5,
-      "translation": "Qué narices es esto? Parece\nuna medusita blandita."
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13718,
+      "_bytes": 55,
+      "translation": "¿Qué narices es esto? Parece\nuna medusita blandita."
     },
     {
       "index": 16,
       "english": "It's a species of Digimon that\nI've never seen before.",
-      "_offset": 5919,
-      "_length": 54,
-      "speaker_id": 6,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13774,
+      "_bytes": 54,
       "translation": "Es una especie de Digimon\nque nunca había visto."
     },
     {
       "index": 17,
       "english": "Huh, it's pretty cute! So what\nabout it?",
-      "_offset": 5974,
-      "_length": 40,
-      "speaker_id": 9,
-      "translation": "Vaya, qué mono! Y qué\npasa con él?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13829,
+      "_bytes": 40,
+      "translation": "¡Vaya, qué mono! ¿Y qué\npasa con él?"
     },
     {
       "index": 18,
       "english": "It seems that the egg was formed\nfrom the combination of many\ncomputer bugs.",
-      "_offset": 6015,
-      "_length": 76,
-      "speaker_id": 9,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13870,
+      "_bytes": 76,
       "translation": "Parece que el huevo se formó\njuntando muchos errores\ninformáticos."
     },
     {
       "index": 19,
       "english": "The jellyfish evolved!",
-      "_offset": 6092,
-      "_length": 22,
-      "speaker_id": 4,
-      "translation": "La medusa evolucionó!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 13947,
+      "_bytes": 22,
+      "translation": "¡La medusa evolucionó!"
     },
     {
       "index": 20,
       "english": "It grows by eating data...",
-      "_offset": 6115,
-      "_length": 26,
-      "speaker_id": 9,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13970,
+      "_bytes": 26,
       "translation": "Crece comiendo datos..."
     },
     {
       "index": 21,
       "english": "It's only a Baby, but at this rate\nit'll eat up all the data on the\nInternet!",
-      "_offset": 6142,
-      "_length": 77,
-      "speaker_id": 2,
-      "translation": "Solo es un Bebé, pero a este\npaso se comerá todos los\ndatos de Internet!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 13997,
+      "_bytes": 77,
+      "translation": "¡Solo es un Bebé, pero a este\npaso se comerá todos los\ndatos de Internet!"
     },
     {
       "index": 22,
       "english": "What'll happen if it eats data?",
-      "_offset": 6220,
-      "_length": 31,
-      "speaker_id": 9,
-      "translation": "Qué pasará si come datos?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14075,
+      "_bytes": 31,
+      "translation": "¿Qué pasará si come datos?"
     },
     {
       "index": 23,
       "english": "Everything will go haywire!",
-      "_offset": 6252,
-      "_length": 27,
-      "speaker_id": 1,
-      "translation": "Todo se volverá un caos!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14107,
+      "_bytes": 27,
+      "translation": "¡Todo se volverá un caos!"
     },
     {
       "index": 24,
       "english": "What?!",
-      "_offset": 6280,
-      "_length": 6,
-      "speaker_id": 9,
-      "translation": "Qué?!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14135,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
     },
     {
       "index": 25,
       "english": "Hey, can't we find a way to get\nrid of the jellyfish from inside\nthe Internet?",
-      "_offset": 6287,
-      "_length": 78,
-      "speaker_id": 7,
-      "translation": "Oye, no hay forma de\neliminar la medusa desde\ndentro de Internet?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14142,
+      "_bytes": 78,
+      "translation": "Oye, ¿no hay forma de\neliminar la medusa desde\ndentro de Internet?"
     },
     {
       "index": 26,
       "english": "We can't...",
-      "_offset": 6366,
-      "_length": 11,
-      "speaker_id": 9,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14221,
+      "_bytes": 11,
       "translation": "No podemos."
     },
     {
       "index": 27,
       "english": "I was emailing a friend in LA who \nsaid they were in contact with \nvarious organizations, but...",
-      "_offset": 6378,
-      "_length": 96,
-      "speaker_id": 4,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14233,
+      "_bytes": 96,
       "translation": "Le escribí a una amiga de LA\nque dijo que conocía a varias\norganizaciones, pero..."
     },
     {
       "index": 28,
       "english": "They couldn't get anyone to\nlisten...",
-      "_offset": 6475,
-      "_length": 37,
-      "speaker_id": 2,
-      "translation": "Nadie quiso hacerles caso..."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14330,
+      "_bytes": 37,
+      "translation": "Nadie quiso hacerle caso..."
     },
     {
       "index": 29,
       "english": "Ack! It evolved again!",
-      "_offset": 6513,
-      "_length": 22,
-      "speaker_id": 4,
-      "translation": "Evolucionó de nuevo!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14368,
+      "_bytes": 22,
+      "translation": "¡Evolucionó de nuevo!"
     },
     {
       "index": 30,
       "english": "Now it's in its Child form.",
-      "_offset": 6536,
-      "_length": 27,
-      "speaker_id": 4,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14391,
+      "_bytes": 27,
       "translation": "Ahora es Novato."
     },
     {
       "index": 31,
       "english": "Uh-oh! Izzy!",
-      "_offset": 6564,
-      "_length": 17,
-      "speaker_id": 8,
-      "translation": "Cuidado, Izzy!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14419,
+      "_bytes": 17,
+      "translation": "¡Cuidado, Izzy!"
     },
     {
       "index": 32,
       "english": "We have to get rid of him somehow!",
-      "_offset": 6582,
-      "_length": 34,
-      "speaker_id": 1,
-      "translation": "Hay que deshacerse de él\ncomo sea!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14437,
+      "_bytes": 34,
+      "translation": "¡Hay que deshacerse de él como sea!"
     },
     {
       "index": 33,
       "english": "But how?",
-      "_offset": 6617,
-      "_length": 8,
-      "speaker_id": 9,
-      "translation": "Cómo?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14472,
+      "_bytes": 8,
+      "translation": "¿Cómo?"
     },
     {
       "index": 34,
       "english": "Well...",
-      "_offset": 6626,
-      "_length": 7,
-      "speaker_id": 2,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14481,
+      "_bytes": 7,
       "translation": "Pues..."
     },
     {
       "index": 35,
       "english": "Ugh... Times like this, I wish\nAgumon were here...",
-      "_offset": 6634,
-      "_length": 50,
-      "speaker_id": 9,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14489,
+      "_bytes": 50,
       "translation": "Uf... Ojalá Agumon\nestuviera aquí..."
     },
     {
       "index": 36,
       "english": "Tai!",
-      "_offset": 6685,
-      "_length": 7,
-      "speaker_id": 7,
-      "translation": "Tai!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 14540,
+      "_bytes": 7,
+      "translation": "¡Tai!"
     },
     {
       "index": 37,
       "english": "Huh? Agumon?",
-      "_offset": 6693,
-      "_length": 12,
-      "speaker_id": 9,
-      "translation": "Eh? Agumon?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14548,
+      "_bytes": 12,
+      "translation": "¿Eh? ¿Agumon?"
     },
     {
       "index": 38,
       "english": "Tai!",
-      "_offset": 6706,
-      "_length": 7,
-      "speaker_id": 4,
-      "translation": "Tai!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 14561,
+      "_bytes": 7,
+      "translation": "¡Tai!"
     },
     {
       "index": 39,
       "english": "Agumon! Agumon, it's you!",
-      "_offset": 6714,
-      "_length": 25,
-      "speaker_id": 4,
-      "translation": "Agumon! Agumon, eres tú!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14569,
+      "_bytes": 25,
+      "translation": "¡Agumon! Agumon, ¡eres tú!"
     },
     {
       "index": 40,
       "english": "Tai! We're receiving a\ntransmission from the Digital\nWorld!",
-      "_offset": 6740,
-      "_length": 62,
-      "speaker_id": 7,
-      "translation": "Tai! Recibimos una\ntransmisión del Digimundo!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14595,
+      "_bytes": 62,
+      "translation": "¡Tai! ¡Recibimos una\ntransmisión del Digimundo!"
     },
     {
       "index": 41,
       "english": "Tai!",
-      "_offset": 6803,
-      "_length": 7,
-      "speaker_id": 7,
-      "translation": "Tai!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 14658,
+      "_bytes": 7,
+      "translation": "¡Tai!"
     },
     {
       "index": 42,
       "english": "It's been a while.",
-      "_offset": 6811,
-      "_length": 18,
-      "speaker_id": 4,
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 14666,
+      "_bytes": 18,
       "translation": "Cuánto tiempo."
     },
     {
       "index": 43,
       "english": "Gennai!",
-      "_offset": 6830,
-      "_length": 7,
-      "speaker_id": 9,
-      "translation": "Gennai!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14685,
+      "_bytes": 7,
+      "translation": "¡Gennai!"
     },
     {
       "index": 44,
       "english": "How're you doin', Izzy?",
-      "_offset": 6838,
-      "_length": 28,
-      "speaker_id": 9,
-      "translation": "Qué tal, Izzy?"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 14693,
+      "_bytes": 28,
+      "translation": "¿Qué tal, Izzy?"
     },
     {
       "index": 45,
       "english": "Tentomon!",
-      "_offset": 6867,
-      "_length": 9,
-      "speaker_id": 9,
-      "translation": "Tentomon!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14722,
+      "_bytes": 9,
+      "translation": "¡Tentomon!"
     },
     {
       "index": 46,
       "english": "Hey!",
-      "_offset": 6877,
-      "_length": 4,
-      "speaker_id": 7,
-      "translation": "Eh!"
+      "speaker_id": 2321,
+      "line_type": 2,
+      "_offset": 14732,
+      "_bytes": 4,
+      "translation": "¡Eh!"
     },
     {
       "index": 47,
       "english": "Piyomon! Gabumon! Palmon! Hey,\neveryone's here!",
-      "_offset": 6882,
-      "_length": 47,
-      "speaker_id": 9,
-      "translation": "Piyomon! Gabumon! Palmon!\nEstáis todos aquí!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14737,
+      "_bytes": 47,
+      "translation": "¡Piyomon! ¡Gabumon! ¡Palmon!\n¡Estáis todos aquí!"
     },
     {
       "index": 48,
       "english": "So, I assume you already know\nabout it, right?",
-      "_offset": 6930,
-      "_length": 46,
-      "speaker_id": 4,
-      "translation": "Supongo que ya lo sabíais,\nno?"
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 14785,
+      "_bytes": 46,
+      "translation": "Supongo que ya lo sabíais,\n¿no?"
     },
     {
       "index": 49,
       "english": "There's a new Digimon on the\nInternet.",
-      "_offset": 6977,
-      "_length": 38,
-      "speaker_id": 9,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 14832,
+      "_bytes": 38,
       "translation": "Hay un Digimon nuevo en\nInternet."
     },
     {
       "index": 50,
       "english": "See, I thought you would.",
-      "_offset": 7016,
-      "_length": 25,
-      "speaker_id": 4,
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 14871,
+      "_bytes": 25,
       "translation": "Ya me lo imaginaba."
     },
     {
       "index": 51,
       "english": "This isn't looking good, Tai!\nIt's a really dangerous Digimon!",
-      "_offset": 7042,
-      "_length": 65,
-      "speaker_id": 9,
-      "translation": "Esto pinta mal, Tai! Es un\nDigimon muy peligroso!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 14897,
+      "_bytes": 65,
+      "translation": "¡Esto pinta mal, Tai! ¡Es un\nDigimon muy peligroso!"
     },
     {
       "index": 52,
       "english": "Yeah! But how are we supposed to\ntake care of it?",
-      "_offset": 7108,
-      "_length": 49,
-      "speaker_id": 5,
-      "translation": "Ya, pero cómo se supone\nque lo paremos?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 14963,
+      "_bytes": 49,
+      "translation": "Ya, ¿pero cómo se supone\nque lo paremos?"
     },
     {
       "index": 53,
       "english": "We'll fight, Tai!",
-      "_offset": 7158,
-      "_length": 20,
-      "speaker_id": 1,
-      "translation": "Lucharemos, Tai!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 15013,
+      "_bytes": 20,
+      "translation": "¡Lucharemos, Tai!"
     },
     {
       "index": 54,
       "english": "But...",
-      "_offset": 7179,
-      "_length": 6,
-      "speaker_id": 4,
-      "translation": "Pero.."
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15034,
+      "_bytes": 6,
+      "translation": "Pero..."
     },
     {
       "index": 55,
       "english": "We'll go into the Internet.",
-      "_offset": 7186,
-      "_length": 27,
-      "speaker_id": 1,
+      "speaker_id": 2221,
+      "line_type": 2,
+      "_offset": 15041,
+      "_bytes": 27,
       "translation": "Entraremos en Internet."
     },
     {
       "index": 56,
       "english": "You're the ones who saved our\nworld...",
-      "_offset": 7214,
-      "_length": 38,
-      "speaker_id": 7,
+      "speaker_id": 2721,
+      "line_type": 2,
+      "_offset": 15069,
+      "_bytes": 38,
       "translation": "Vosotros salvasteis nuestro\nmundo..."
     },
     {
       "index": 57,
       "english": "so this time 'round, we'll be the\nones to save yours!",
-      "_offset": 7253,
-      "_length": 53,
-      "speaker_id": 3,
-      "translation": "así que esta vez os salvaremos\nnosotros a vosotros!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 15108,
+      "_bytes": 53,
+      "translation": "...¡así que esta vez os salvaremos\nnosotros a vosotros!"
     },
     {
       "index": 58,
       "english": "Tentomon!",
-      "_offset": 7307,
-      "_length": 9,
-      "speaker_id": 2,
-      "translation": "Tentomon!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15162,
+      "_bytes": 9,
+      "translation": "¡Tentomon!"
     },
     {
       "index": 59,
       "english": "Okay, guys!",
-      "_offset": 7317,
-      "_length": 11,
-      "speaker_id": 1,
-      "translation": "Va, chicos!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15172,
+      "_bytes": 11,
+      "translation": "¡Va, chicos!"
     },
     {
       "index": 60,
       "english": "We're counting on you. Got your\nDigivice, Izzy?",
-      "_offset": 7329,
-      "_length": 52,
-      "speaker_id": 2,
-      "translation": "Contamos con vosotros. Tienes\ntu dispositivo, Izzy?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15184,
+      "_bytes": 52,
+      "translation": "Contamos con vosotros. ¿Tienes\ntu Digivice, Izzy?"
     },
     {
       "index": 61,
       "english": "Got your Digivice, Izzy?",
-      "_offset": 7382,
-      "_length": 29,
-      "speaker_id": 1,
-      "translation": "Tienes tu dispositivo,\nIzzy?"
+      "speaker_id": 8011,
+      "line_type": 4,
+      "_offset": 15237,
+      "_bytes": 29,
+      "translation": "¿Tienes tu dispositivo, Izzy?"
     },
     {
       "index": 62,
       "english": "Of course!",
-      "_offset": 7412,
-      "_length": 10,
-      "speaker_id": 2,
-      "translation": "Claro!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15267,
+      "_bytes": 10,
+      "translation": "¡Claro!"
     },
     {
       "index": 63,
       "english": "Of course!",
-      "_offset": 7423,
-      "_length": 10,
-      "speaker_id": 2,
-      "translation": "Claro!"
+      "speaker_id": 9901,
+      "line_type": 2,
+      "_offset": 15278,
+      "_bytes": 10,
+      "translation": "¡Claro!"
     },
     {
       "index": 64,
       "english": "Okay! We've got our Digivices, so\nyou'll be able to evolve!",
-      "_offset": 7434,
-      "_length": 59,
-      "speaker_id": 2,
-      "translation": "Vale! Con los dispositivos,\npodréis evolucionar!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15289,
+      "_bytes": 59,
+      "translation": "¡Vale! ¡Con los Digivices,\npodréis evolucionar!"
     },
     {
       "index": 65,
       "english": "Okay!",
-      "_offset": 7494,
-      "_length": 5,
-      "speaker_id": 1,
-      "translation": "Vale!"
+      "speaker_id": 6061,
+      "line_type": 2,
+      "_offset": 15349,
+      "_bytes": 5,
+      "translation": "¡Vale!"
     },
     {
       "index": 66,
       "english": "I'll be sending the Digimon in, so\nhang tight.",
-      "_offset": 7500,
-      "_length": 46,
-      "speaker_id": 9,
-      "translation": "Voy a mandaros al Digimon,\naguantad ahí."
+      "speaker_id": 5011,
+      "line_type": 2,
+      "_offset": 15355,
+      "_bytes": 46,
+      "translation": "Voy a mandaros a los Digimon,\naguantad ahí."
     },
     {
       "index": 67,
       "english": "I'll get in touch with the others!",
-      "_offset": 7547,
-      "_length": 34,
-      "speaker_id": 1,
-      "translation": "Voy a avisar a los demás!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15402,
+      "_bytes": 34,
+      "translation": "¡Voy a avisar a los demás!"
     },
     {
       "index": 68,
       "english": "None of them are home... Hey,\nIzzy, can you call Sora for\nme?",
-      "_offset": 7582,
-      "_length": 66,
-      "speaker_id": 4,
-      "translation": "Ninguno está en casa... Oye,\nIzzy, llamas a Sora por mí?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15437,
+      "_bytes": 66,
+      "translation": "Ninguno está en casa... Oye,\nIzzy, ¿llamas a Sora por mí?"
     },
     {
       "index": 69,
       "english": "Did something happen?",
-      "_offset": 7649,
-      "_length": 21,
-      "speaker_id": 4,
-      "translation": "Pasó algo?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15504,
+      "_bytes": 21,
+      "translation": "¿Pasó algo?"
     },
     {
       "index": 70,
       "english": "Nothing in particular, just...",
-      "_offset": 7671,
-      "_length": 30,
-      "speaker_id": 1,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15526,
+      "_bytes": 30,
       "translation": "Nada en especial, solo..."
     },
     {
       "index": 71,
       "english": "Did you two just happen to get in\na fight?",
-      "_offset": 7702,
-      "_length": 42,
-      "speaker_id": 1,
-      "translation": "Os habéis peleado los dos,\no qué?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15557,
+      "_bytes": 42,
+      "translation": "Os habéis peleado los dos,\n¿o qué?"
     },
     {
       "index": 72,
       "english": "It wasn't a fight! Anyway, isn't\nit time?",
-      "_offset": 7745,
-      "_length": 41,
-      "speaker_id": 1,
-      "translation": "No fue pelea! No es ya\nla hora?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15600,
+      "_bytes": 41,
+      "translation": "¡No fue una pelea! ¿No es ya\nla hora?"
     },
     {
       "index": 73,
       "english": "Transmission complete!",
-      "_offset": 7787,
-      "_length": 22,
-      "speaker_id": 1,
-      "translation": "Transmisión completa!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15642,
+      "_bytes": 22,
+      "translation": "¡Transmisión completa!"
     },
     {
       "index": 74,
       "english": "Tai! Izzy! We'll be there\nsoon!",
-      "_offset": 7810,
-      "_length": 39,
-      "speaker_id": 1,
-      "translation": "Tai! Izzy! Enseguida\nllegamos!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 15665,
+      "_bytes": 39,
+      "translation": "¡Tai! ¡Izzy! ¡Enseguida\nllegamos!"
     },
     {
       "index": 75,
       "english": "Tai! Izzy! We'll be there\nsoon!",
-      "_offset": 7850,
-      "_length": 39,
-      "speaker_id": 4,
-      "translation": "Tai! Izzy! Enseguida\nllegamos!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 15705,
+      "_bytes": 39,
+      "translation": "¡Tai! ¡Izzy! ¡Enseguida\nllegamos!"
     },
     {
       "index": 76,
       "english": "We're counting on you, Agumon!",
-      "_offset": 7890,
-      "_length": 30,
-      "speaker_id": 1,
-      "translation": "Contamos contigo, Agumon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 15745,
+      "_bytes": 30,
+      "translation": "¡Contamos contigo, Agumon!"
     },
     {
       "index": 77,
       "english": "It hasn't noticed us yet! Let's\nlaunch a surprise attack!",
-      "_offset": 7921,
-      "_length": 57,
-      "speaker_id": 2,
-      "translation": "Aún no nos ha visto! Vamos a\nsorprenderlo!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15776,
+      "_bytes": 57,
+      "translation": "¡Aún no nos ha visto! ¡Vamos a\nsorprenderlo!"
     },
     {
       "index": 78,
       "english": "Right-o! I'm goin' in!",
-      "_offset": 7979,
-      "_length": 22,
-      "speaker_id": 1,
-      "translation": "Vale! Voy para dentro!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 15834,
+      "_bytes": 22,
+      "translation": "¡Vale! ¡Voy para dentro!"
     },
     {
       "index": 79,
       "english": "Why's there Digimon all over?",
-      "_offset": 8002,
-      "_length": 29,
-      "speaker_id": 3,
-      "translation": "Por qué hay tantos\nDigimon?"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 15857,
+      "_bytes": 29,
+      "translation": "¿Por qué hay tantos Digimon?"
     },
     {
       "index": 80,
       "english": "The mysterious Digimon may have\ncaused them to appear...",
-      "_offset": 8032,
-      "_length": 56,
-      "speaker_id": 0,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15887,
+      "_bytes": 56,
       "translation": "El Digimon misterioso puede\nhaberlos hecho aparecer..."
     },
     {
       "index": 81,
       "english": "It must have copied data from the\nDigital World.",
-      "_offset": 8089,
-      "_length": 48,
-      "speaker_id": 3,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 15944,
+      "_bytes": 48,
       "translation": "Debe de haber copiado datos\ndel Digimundo."
     },
     {
       "index": 82,
       "english": "Well, we'll just have to clear\nthem out!",
-      "_offset": 8138,
-      "_length": 40,
-      "speaker_id": 0,
-      "translation": "Bueno, tendremos que\nlimpiarlos!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 15993,
+      "_bytes": 40,
+      "translation": "¡Bueno, tendremos que\nlimpiarlos!"
     },
     {
       "index": 83,
       "english": "Okay, do it!",
-      "_offset": 8179,
-      "_length": 12,
-      "speaker_id": 1,
-      "translation": "Vale, hazlo!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16034,
+      "_bytes": 12,
+      "translation": "¡Vale, hazlo!"
     },
     {
       "index": 84,
       "english": "Now's the time!",
-      "_offset": 8192,
-      "_length": 15,
-      "speaker_id": 1,
-      "translation": "Es la hora!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 16047,
+      "_bytes": 15,
+      "translation": "¡Es la hora!"
     },
     {
       "index": 85,
       "english": "It's a Child, so you guys should\nevolve to Adult!",
-      "_offset": 8208,
-      "_length": 49,
-      "speaker_id": 5,
-      "translation": "Es Novato, evolucionad\na Campeón!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16063,
+      "_bytes": 49,
+      "translation": "¡Es Novato, evolucionad\na Campeón!"
     },
     {
       "index": 86,
       "english": "Okay!",
-      "_offset": 8258,
-      "_length": 5,
-      "speaker_id": 1,
-      "translation": "Vale!"
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 16113,
+      "_bytes": 5,
+      "translation": "¡Vale!"
     },
     {
       "index": 87,
       "english": "Roger!",
-      "_offset": 8264,
-      "_length": 6,
-      "speaker_id": 4,
-      "translation": "Vale!"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 16119,
+      "_bytes": 6,
+      "translation": "¡Vale!"
     },
     {
       "index": 88,
       "english": "Get him!",
-      "_offset": 8271,
-      "_length": 8,
-      "speaker_id": 4,
-      "translation": "A por él"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16126,
+      "_bytes": 8,
+      "translation": "¡A por él!"
     },
     {
       "index": 89,
       "english": "Ha! Piece of cake!",
-      "_offset": 8280,
-      "_length": 18,
-      "speaker_id": 1,
-      "translation": "Ja! Pan comido!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16135,
+      "_bytes": 18,
+      "translation": "¡Ja! ¡Pan comido!"
     },
     {
       "index": 90,
       "english": "Wait a minute!",
-      "_offset": 8299,
-      "_length": 14,
-      "speaker_id": 9,
-      "translation": "Un momento!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16154,
+      "_bytes": 14,
+      "translation": "¡Un momento!"
     },
     {
       "index": 91,
       "english": "Did he just evolve again?!",
-      "_offset": 8314,
-      "_length": 26,
-      "speaker_id": 1,
-      "translation": "Evolucionó otra vez?!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16169,
+      "_bytes": 26,
+      "translation": "¡¿Evolucionó otra vez?!"
     },
     {
       "index": 92,
       "english": "We'll still be okay... it's an\nAdult, just like them.",
-      "_offset": 8341,
-      "_length": 53,
-      "speaker_id": 1,
-      "translation": "Aún estamos bien... es Cuerpo\nMaduro, como ellos."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16196,
+      "_bytes": 53,
+      "translation": "Aún estamos bien... es Campeón,\ncomo ellos."
     },
     {
       "index": 93,
       "english": "Somethin's up! What are we gonna\ndo?",
-      "_offset": 8395,
-      "_length": 36,
-      "speaker_id": 6,
-      "translation": "Algo pasa! Qué hacemos\nahora?"
+      "speaker_id": 2431,
+      "line_type": 2,
+      "_offset": 16250,
+      "_bytes": 36,
+      "translation": "¡Algo pasa! ¿Qué hacemos\nahora?"
     },
     {
       "index": 94,
       "english": "Kabuterimon! Aaaaagh!",
-      "_offset": 8432,
-      "_length": 21,
-      "speaker_id": 9,
-      "translation": "Kabuterimon! Aaaaagh!"
+      "speaker_id": 2131,
+      "line_type": 2,
+      "_offset": 16287,
+      "_bytes": 21,
+      "translation": "¡Kabuterimon! ¡Aaaaagh!"
     },
     {
       "index": 95,
       "english": "Greymon!",
-      "_offset": 8454,
-      "_length": 8,
-      "speaker_id": 1,
-      "translation": "Greymon!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16309,
+      "_bytes": 8,
+      "translation": "¡Greymon!"
     },
     {
       "index": 96,
       "english": "Tai! I just realized! It's\nactually a Perfect-level Digimon!",
-      "_offset": 8463,
-      "_length": 63,
-      "speaker_id": 1,
-      "translation": "Tai! Me acabo de dar cuenta!\nEs un Digimon Cuerpo Perfecto!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16318,
+      "_bytes": 63,
+      "translation": "¡Tai! ¡Me acabo de dar cuenta!\n¡Es un Digimon Cuerpo Perfecto!"
     },
     {
       "index": 97,
       "english": "So that means...",
-      "_offset": 8527,
-      "_length": 16,
-      "speaker_id": 9,
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16382,
+      "_bytes": 16,
       "translation": "Eso significa..."
     },
     {
       "index": 98,
       "english": "It evolved twice back then!",
-      "_offset": 8544,
-      "_length": 27,
-      "speaker_id": 9,
-      "translation": "Evolucionó dos veces ya!"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16399,
+      "_bytes": 27,
+      "translation": "¡Evolucionó dos veces ya!"
     },
     {
       "index": 99,
       "english": "That's not good... okay, we'll\nhave to evolve them to Perfect\ntoo!",
-      "_offset": 8572,
-      "_length": 66,
-      "speaker_id": 4,
-      "translation": "Mal asunto... tendrán que\nevolucionar a Perfecto también!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16427,
+      "_bytes": 66,
+      "translation": "¡Mal asunto! Tendrán que\nevolucionar a Cuerpo Perfecto."
     },
     {
       "index": 100,
       "english": "Aaaaaagh!",
-      "_offset": 8639,
-      "_length": 9,
-      "speaker_id": 2,
-      "translation": "Aaaaaagh!"
+      "speaker_id": 2141,
+      "line_type": 2,
+      "_offset": 16494,
+      "_bytes": 9,
+      "translation": "¡Aaaaaagh!"
     },
     {
       "index": 101,
       "english": "Ack!",
-      "_offset": 8649,
-      "_length": 4,
-      "speaker_id": 1,
-      "translation": "Ay!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16504,
+      "_bytes": 4,
+      "translation": "¡Ay!"
     },
     {
       "index": 102,
       "english": "Did it just attack them while they\nwere evolving?",
-      "_offset": 8654,
-      "_length": 49,
-      "speaker_id": 6,
-      "translation": "Los atacó mientras\nevolucionaban?"
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16509,
+      "_bytes": 49,
+      "translation": "¿Los atacó mientras\nevolucionaban?"
     },
     {
       "index": 103,
       "english": "Are you okay, Agumon?",
-      "_offset": 8704,
-      "_length": 21,
-      "speaker_id": 3,
-      "translation": "Estás bien, Agumon?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16559,
+      "_bytes": 21,
+      "translation": "¿Estás bien, Agumon?"
     },
     {
       "index": 104,
       "english": "Sorry... Tai...",
-      "_offset": 8726,
-      "_length": 18,
-      "speaker_id": 1,
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 16581,
+      "_bytes": 18,
       "translation": "Perdona... Tai..."
     },
     {
       "index": 105,
       "english": "Tentomon...",
-      "_offset": 8745,
-      "_length": 11,
-      "speaker_id": 6,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16600,
+      "_bytes": 11,
       "translation": "Tentomon..."
     },
     {
       "index": 106,
       "english": "That guy's out of our league...",
-      "_offset": 8757,
-      "_length": 31,
-      "speaker_id": 3,
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 16612,
+      "_bytes": 31,
       "translation": "Ese tío nos queda grande..."
     },
     {
       "index": 107,
       "english": "You two need to rest for a bit.",
-      "_offset": 8789,
-      "_length": 31,
-      "speaker_id": 8,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16644,
+      "_bytes": 31,
       "translation": "Descansad los dos un poco."
     },
     {
       "index": 108,
       "english": "But then... where are they gonna\nhide...",
-      "_offset": 8821,
-      "_length": 40,
-      "speaker_id": 7,
-      "translation": "Pero entonces... dónde se\nesconderán..."
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16676,
+      "_bytes": 40,
+      "translation": "Pero entonces... ¿dónde se\nesconderán...?"
     },
     {
       "index": 109,
       "english": "It's been a while since we've\nfought beside them.",
-      "_offset": 8862,
-      "_length": 49,
-      "speaker_id": 9,
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16717,
+      "_bytes": 49,
       "translation": "Hacía tiempo que no\nluchábamos junto a ellos."
     },
     {
       "index": 110,
       "english": "And what about that?",
-      "_offset": 8912,
-      "_length": 20,
-      "speaker_id": 1,
-      "translation": "Y qué hay de eso?"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16767,
+      "_bytes": 20,
+      "translation": "¿Y qué hay de eso?"
     },
     {
       "index": 111,
       "english": "It might take a while for them to\nevolve to Perfect again.",
-      "_offset": 8933,
-      "_length": 58,
-      "speaker_id": 1,
-      "translation": "Puede que tarden en volver\na evolucionar a Perfecto."
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 16788,
+      "_bytes": 58,
+      "translation": "Puede que tarden en volver\na ser Cuerpo Perfecto."
     },
     {
       "index": 112,
       "english": "We'll just have to stick to Adult\nfor now. Let's do it!",
-      "_offset": 8992,
-      "_length": 55,
-      "speaker_id": 7,
-      "translation": "De momento nos quedamos en\nMaduro. Vamos allá!"
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 16847,
+      "_bytes": 55,
+      "translation": "De momento nos quedamos en\nCampeón. ¡Vamos allá!"
     }
   ]
 }

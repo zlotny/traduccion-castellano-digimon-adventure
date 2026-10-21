@@ -1,46 +1,476 @@
 {
   "file_id": "3594",
-  "text_count": 5,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 52,
   "dialog": [
     {
       "index": 0,
-      "english": "Oh! A lot of things like those\nfell from the factory!",
-      "_offset": 1,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Oh! Cayeron muchas cosas\ncomo esas de la fábrica!"
+      "english": "Hey, Izzy. Why'd you want to\nreturn to the factory all of a\nsudden?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 1928,
+      "_bytes": 72,
+      "translation": "Oye, Izzy. ¿Por qué querías\nvolver a la fábrica de\nrepente?"
     },
     {
       "index": 1,
-      "english": "What?! Really?",
-      "_offset": 55,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "Qué? En serio?"
+      "english": "I'm sorry... But my computer\nsuddenly hasn't been working as\nwell.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2001,
+      "_bytes": 66,
+      "translation": "Lo siento... Es que mi\nordenador de repente va\nfatal."
     },
     {
       "index": 2,
-      "english": "There's a whole load of 'em!",
-      "_offset": 70,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Hay un montón de ellas!"
+      "english": "I need replacement parts.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2068,
+      "_bytes": 25,
+      "translation": "Me hacen falta recambios."
     },
     {
       "index": 3,
-      "english": "Isn't that great, Papa?",
-      "_offset": 99,
-      "_length": 23,
-      "speaker_id": 0,
-      "translation": "No es genial, papá?"
+      "english": "So you're gonna look for them at\nthe factory?",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 2094,
+      "_bytes": 45,
+      "translation": "¿Y vais a buscarlos a la\nfábrica?"
     },
     {
       "index": 4,
+      "english": "If there's a replacement kit\nthere, he can replace the parts he\nneeds.",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 2140,
+      "_bytes": 70,
+      "translation": "Si allí hay un kit de\nrecambio, podrá cambiar las\npiezas que necesita."
+    },
+    {
+      "index": 5,
+      "english": "If we don't hurry, I'll lose all\nmy important data. Let's go!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2211,
+      "_bytes": 61,
+      "translation": "Si no nos damos prisa,\nperderé mis datos. ¡Vamos!"
+    },
+    {
+      "index": 6,
+      "english": "Ah... and there they go.",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 2273,
+      "_bytes": 24,
+      "translation": "Ah... y allá van."
+    },
+    {
+      "index": 7,
+      "english": "Can't be helped. Let's go after\nthem.",
+      "speaker_id": 1021,
+      "line_type": 2,
+      "_offset": 2298,
+      "_bytes": 37,
+      "translation": "Qué remedio. Vamos tras\nellos."
+    },
+    {
+      "index": 8,
+      "english": "Hmm... Ah! If it's this kind of\npart, I can replace it with\nthis...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2336,
+      "_bytes": 67,
+      "translation": "Hmm... ¡Ah! Si es esta pieza,\npuedo cambiarla por\nesta..."
+    },
+    {
+      "index": 9,
+      "english": "Papa!",
+      "speaker_id": 2312,
+      "line_type": 2,
+      "_offset": 2404,
+      "_bytes": 5,
+      "translation": "¡Papá!"
+    },
+    {
+      "index": 10,
+      "english": "Gah! Why is there a Yokomon here?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2410,
+      "_bytes": 34,
+      "translation": "¡Ah! ¿Qué hace aquí un Yokomon?"
+    },
+    {
+      "index": 11,
+      "english": "Are you lost?",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 2445,
+      "_bytes": 13,
+      "translation": "¿Te perdiste?"
+    },
+    {
+      "index": 12,
+      "english": "Papa! Papa!",
+      "speaker_id": 2312,
+      "line_type": 2,
+      "_offset": 2459,
+      "_bytes": 11,
+      "translation": "¡Papá! ¡Papá!"
+    },
+    {
+      "index": 13,
+      "english": "Papa? Me?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2471,
+      "_bytes": 9,
+      "translation": "¿Papá? ¿Yo?"
+    },
+    {
+      "index": 14,
+      "english": "It's taken quite the liking to\nyou, Izzy.",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 2481,
+      "_bytes": 46,
+      "translation": "Le has caído muy bien, Izzy."
+    },
+    {
+      "index": 15,
+      "english": "I think it's like when a chick\nsees its parent for the first\ntime. \"Imprinting\", I believe?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2528,
+      "_bytes": 91,
+      "translation": "Creo que es como cuando un\npolluelo ve a su padre por\nprimera vez. \"Impronta\", ¿no?"
+    },
+    {
+      "index": 16,
+      "english": "Yokomon is lost! Help me, Papa!",
+      "speaker_id": 2312,
+      "line_type": 2,
+      "_offset": 2620,
+      "_bytes": 32,
+      "translation": "¡Yokomon se perdió!\n¡Ayuda, papá!"
+    },
+    {
+      "index": 17,
+      "english": "This is quite troublesome...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2653,
+      "_bytes": 28,
+      "translation": "Esto es un problema..."
+    },
+    {
+      "index": 18,
+      "english": "Option A",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 2682,
+      "_bytes": 8,
+      "translation": "Opción A"
+    },
+    {
+      "index": 19,
+      "english": "Take it back to the village.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 2691,
+      "_bytes": 28,
+      "translation": "Llevarlo de nuevo al pueblo."
+    },
+    {
+      "index": 20,
+      "english": "From Option A to the next event",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 2720,
+      "_bytes": 31,
+      "translation": "De la opción A al evento"
+    },
+    {
+      "index": 21,
+      "english": "Option B",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 2752,
+      "_bytes": 8,
+      "translation": "Opción B"
+    },
+    {
+      "index": 22,
+      "english": "Find the replacement parts first.",
+      "speaker_id": 4294967295,
+      "line_type": 2,
+      "_offset": 2761,
+      "_bytes": 33,
+      "translation": "Buscar primero las piezas."
+    },
+    {
+      "index": 23,
+      "english": "Tai, is it open?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 2795,
+      "_bytes": 19,
+      "translation": "Tai, ¿se abre?"
+    },
+    {
+      "index": 24,
+      "english": "No way...!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 2815,
+      "_bytes": 10,
+      "translation": "¡Qué va...!"
+    },
+    {
+      "index": 25,
+      "english": "What's wrong?",
+      "speaker_id": 2312,
+      "line_type": 2,
+      "_offset": 2826,
+      "_bytes": 13,
+      "translation": "¿Qué pasa?"
+    },
+    {
+      "index": 26,
+      "english": "The open and close system for the\ndoor seems to be broken. If I fix\nit...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2840,
+      "_bytes": 73,
+      "translation": "El sistema de apertura de la\npuerta está roto. Si lo\narreglo..."
+    },
+    {
+      "index": 27,
+      "english": "That's...!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2914,
+      "_bytes": 10,
+      "translation": "¡Eso es...!"
+    },
+    {
+      "index": 28,
+      "english": "What's up, Izzy?",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 2925,
+      "_bytes": 21,
+      "translation": "¿Qué pasa, Izzy?"
+    },
+    {
+      "index": 29,
+      "english": "The internal parts are\ncorrupted...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2947,
+      "_bytes": 35,
+      "translation": "Las piezas internas están\ndañadas..."
+    },
+    {
+      "index": 30,
+      "english": "No way!",
+      "speaker_id": 1071,
+      "line_type": 2,
+      "_offset": 2983,
+      "_bytes": 7,
+      "translation": "¡¿Qué?!"
+    },
+    {
+      "index": 31,
+      "english": "Yes... I can fix it if I use the\nparts I got a while ago, but...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 2991,
+      "_bytes": 64,
+      "translation": "Sí... Puedo arreglarlo con\nlas piezas de antes, pero..."
+    },
+    {
+      "index": 32,
+      "english": "...then you can't fix your\ncomputer!",
+      "speaker_id": 1051,
+      "line_type": 2,
+      "_offset": 3056,
+      "_bytes": 36,
+      "translation": "...¡y no podrás\narreglar tu PC!"
+    },
+    {
+      "index": 33,
+      "english": "Izzy...",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 3093,
+      "_bytes": 12,
+      "translation": "Izzy..."
+    },
+    {
+      "index": 34,
+      "english": "It's an obvious choice!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3106,
+      "_bytes": 23,
+      "translation": "¡Está clarísimo!"
+    },
+    {
+      "index": 35,
+      "english": "All right, let's go back!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3130,
+      "_bytes": 25,
+      "translation": "¡Muy bien, volvamos!"
+    },
+    {
+      "index": 36,
+      "english": "Izzy...",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 3156,
+      "_bytes": 12,
+      "translation": "Izzy..."
+    },
+    {
+      "index": 37,
+      "english": "Hey, everyone! Yokomon came back!",
+      "speaker_id": 2312,
+      "line_type": 2,
+      "_offset": 3169,
+      "_bytes": 34,
+      "translation": "¡Eh, chicos! ¡Yokomon ha vuelto!"
+    },
+    {
+      "index": 38,
+      "english": "Looks like they came to look for\ntheir friend.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3204,
+      "_bytes": 46,
+      "translation": "Parece que vinieron a buscar\na su amigo."
+    },
+    {
+      "index": 39,
+      "english": "Thanks, Papa!",
+      "speaker_id": 2312,
+      "line_type": 2,
+      "_offset": 3251,
+      "_bytes": 13,
+      "translation": "¡Gracias, papá!"
+    },
+    {
+      "index": 40,
+      "english": "It's no trouble at all!",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3265,
+      "_bytes": 23,
+      "translation": "¡No ha sido nada!"
+    },
+    {
+      "index": 41,
+      "english": "Here's a gift of thanks from\nYokomon's friends! Yokomon will\ngive it to you, Papa!",
+      "speaker_id": 2312,
+      "line_type": 2,
+      "_offset": 3289,
+      "_bytes": 84,
+      "translation": "¡Un regalo de los amigos de\nYokomon! ¡Yokomon te lo da,\npapá!"
+    },
+    {
+      "index": 42,
+      "english": "Oh, you didn't have to... thank\nyou.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3374,
+      "_bytes": 36,
+      "translation": "Oh, no hacía falta...\ngracias."
+    },
+    {
+      "index": 43,
+      "english": "But it's a shame, after all the\neffort we put in to find those\nparts...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 3411,
+      "_bytes": 71,
+      "translation": "Pero qué pena, con lo que\nnos costó encontrar esas\npiezas..."
+    },
+    {
+      "index": 44,
+      "english": "It's certainly a shame... but\nwe'll go look for them again.",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3483,
+      "_bytes": 59,
+      "translation": "Sí que es una pena... pero\nlas buscaremos otra vez."
+    },
+    {
+      "index": 45,
+      "english": "Parts? What are those?",
+      "speaker_id": 2313,
+      "line_type": 2,
+      "_offset": 3543,
+      "_bytes": 22,
+      "translation": "¿Piezas? ¿Qué es eso?"
+    },
+    {
+      "index": 46,
+      "english": "Huh? Well, they look like this...",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3566,
+      "_bytes": 33,
+      "translation": "¿Eh? Pues son así..."
+    },
+    {
+      "index": 47,
+      "english": "Oh! A lot of things like those\nfell from the factory!",
+      "speaker_id": 2313,
+      "line_type": 2,
+      "_offset": 3600,
+      "_bytes": 53,
+      "translation": "¡Oh! ¡Cayeron muchas cosas\ncomo esas de la fábrica!"
+    },
+    {
+      "index": 48,
+      "english": "What?! Really?",
+      "speaker_id": 1041,
+      "line_type": 2,
+      "_offset": 3654,
+      "_bytes": 14,
+      "translation": "¿Qué? ¿En serio?"
+    },
+    {
+      "index": 49,
+      "english": "There's a whole load of 'em!",
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 3669,
+      "_bytes": 28,
+      "translation": "¡Hay un montón de ellas!"
+    },
+    {
+      "index": 50,
+      "english": "Isn't that great, Papa?",
+      "speaker_id": 2312,
+      "line_type": 2,
+      "_offset": 3698,
+      "_bytes": 23,
+      "translation": "¿No es genial, papá?"
+    },
+    {
+      "index": 51,
       "english": "Isn't that great, Izzy?",
-      "_offset": 123,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "No es genial, Izzy?"
+      "speaker_id": 2421,
+      "line_type": 2,
+      "_offset": 3722,
+      "_bytes": 28,
+      "translation": "¿No es genial, Izzy?"
     }
   ]
 }

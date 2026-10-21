@@ -1,669 +1,790 @@
 {
   "file_id": "3615",
-  "text_count": 83,
+  "format": "etdf",
+  "kind": "ETDF",
+  "text_count": 87,
   "dialog": [
     {
       "index": 0,
-      "english": "Tai! Get yourself together!\nHey, Tai...",
-      "_offset": 315,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Tai! Espabila!\nOye, Tai..."
+      "english": "U-Ugh...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6600,
+      "_bytes": 8,
+      "translation": "Ugh..."
     },
     {
       "index": 1,
-      "english": "A-Agumon... Where are we?",
-      "_offset": 361,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Agumon... dónde estamos?"
+      "english": "Tai! Get yourself together!\nHey, Tai...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 6609,
+      "_bytes": 45,
+      "translation": "¡Tai! ¡Espabila!\nOye, Tai..."
     },
     {
       "index": 2,
-      "english": "I feel like we've been here\nbefore. I definitely feel like\nwe've been here before...",
-      "_offset": 387,
-      "_length": 84,
-      "speaker_id": 0,
-      "translation": "Tengo la sensación de que ya\nhemos estado aquí. En serio,\nya hemos estado aquí..."
+      "english": "A-Agumon... Where are we?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6655,
+      "_bytes": 25,
+      "translation": "Agumon... ¿dónde estamos?"
     },
     {
       "index": 3,
-      "english": "Where are the others?",
-      "_offset": 472,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Dónde están todos?"
+      "english": "I feel like we've been here\nbefore. I definitely feel like\nwe've been here before...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 6681,
+      "_bytes": 84,
+      "translation": "Tengo la sensación de que ya\nhemos estado aquí. En serio,\nya hemos estado aquí..."
     },
     {
       "index": 4,
-      "english": "They're not here. Looks like it's\njust us.",
-      "_offset": 494,
-      "_length": 42,
-      "speaker_id": 0,
-      "translation": "No están. Parece que solo\nestamos nosotros."
+      "english": "Where are the others?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6766,
+      "_bytes": 21,
+      "translation": "¿Dónde están todos?"
     },
     {
       "index": 5,
-      "english": "No way... We just got back to the\nDigital World from Tokyo...",
-      "_offset": 537,
-      "_length": 61,
-      "speaker_id": 0,
-      "translation": "No puede ser... si volvimos\nde Tokio al Digimundo ahora..."
+      "english": "They're not here. Looks like it's\njust us.",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 6788,
+      "_bytes": 42,
+      "translation": "No están. Parece que solo\nestamos nosotros."
     },
     {
       "index": 6,
-      "english": "We'd set up camp and were sleeping\nby the bonfire like we always\ndo...",
-      "_offset": 599,
-      "_length": 70,
-      "speaker_id": 0,
-      "translation": "Acampamos y dormíamos junto\na la hoguera, como siempre..."
+      "english": "No way... We just got back to the\nDigital World from Tokyo...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6831,
+      "_bytes": 61,
+      "translation": "No puede ser... si volvimos\nde Tokio al Digimundo ahora..."
     },
     {
       "index": 7,
-      "english": "Do you think maybe we're in a\ndream?",
-      "_offset": 670,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Crees que esto es un sueño?"
+      "english": "We'd set up camp and were sleeping\nby the bonfire like we always\ndo...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 6893,
+      "_bytes": 70,
+      "translation": "Acampamos y dormíamos junto\na la hoguera, como siempre..."
     },
     {
       "index": 8,
-      "english": "A dream? Then why are both of us\nin the same dream?",
-      "_offset": 707,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "Un sueño? Y por qué\nestamos los dos en el mismo?"
+      "english": "Do you think maybe we're in a\ndream?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 6964,
+      "_bytes": 36,
+      "translation": "¿Crees que esto es un sueño?"
     },
     {
       "index": 9,
-      "english": "I guess it's not a dream, then.",
-      "_offset": 759,
-      "_length": 31,
-      "speaker_id": 0,
-      "translation": "Pues entonces no es un sueño."
+      "english": "A dream? Then why are both of us\nin the same dream?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7001,
+      "_bytes": 51,
+      "translation": "¿Un sueño? ¿Y por qué\nestamos los dos en el mismo?"
     },
     {
       "index": 10,
-      "english": "What's that?",
-      "_offset": 794,
-      "_length": 12,
-      "speaker_id": 0,
-      "translation": "Qué es eso?"
+      "english": "I guess it's not a dream, then.",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 7053,
+      "_bytes": 31,
+      "translation": "Pues entonces no es un sueño."
     },
     {
       "index": 11,
-      "english": "Someone's coming.",
-      "_offset": 807,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Viene alguien."
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 7085,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 12,
-      "english": "Don't move!",
-      "_offset": 825,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Quieto!"
+      "english": "What's that?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 7088,
+      "_bytes": 12,
+      "translation": "¿Qué es eso?"
     },
     {
       "index": 13,
-      "english": "It's a Digimon! Who are you?",
-      "_offset": 840,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "Es un Digimon! Quién eres?"
+      "english": "Someone's coming.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7101,
+      "_bytes": 17,
+      "translation": "Viene alguien."
     },
     {
       "index": 14,
-      "english": "I should be asking *you* that!\nWhat are you doing here?",
-      "_offset": 869,
-      "_length": 55,
-      "speaker_id": 0,
-      "translation": "Esa pregunta te la hago yo!\nQué haces tú aquí?"
+      "english": "Don't move!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7119,
+      "_bytes": 11,
+      "translation": "¡Quietos!"
     },
     {
       "index": 15,
-      "english": "There's no reason for you to\nsuspect us! We were here before we\nknew it!",
-      "_offset": 925,
-      "_length": 72,
-      "speaker_id": 0,
-      "translation": "No tienes motivos para\nsospecharnos! Aparecimos aquí\nsin darnos cuenta!"
+      "english": "!!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 7131,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 16,
-      "english": "Really now...?",
-      "_offset": 998,
-      "_length": 14,
-      "speaker_id": 0,
-      "translation": "En serio...?"
+      "english": "It's a Digimon! Who are you?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7134,
+      "_bytes": 28,
+      "translation": "¡Es un Digimon! ¿Quién eres?"
     },
     {
       "index": 17,
-      "english": "Hey, but you guys look pretty\nstrong!",
-      "_offset": 1013,
-      "_length": 37,
-      "speaker_id": 0,
-      "translation": "Oye, pero parecéis fuertes!"
+      "english": "I should be asking *you* that!\nWhat are you doing here?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7163,
+      "_bytes": 55,
+      "translation": "¡Esa pregunta te la hago yo!\n¿Qué haces tú aquí?"
     },
     {
       "index": 18,
-      "english": "Huh?",
-      "_offset": 1051,
-      "_length": 4,
-      "speaker_id": 0,
-      "translation": "Eh?"
+      "english": "There's no reason for you to\nsuspect us! We were here before we\nknew it!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 7219,
+      "_bytes": 72,
+      "translation": "¡No tienes motivos para\nsospecharnos! ¡Aparecimos aquí\nsin darnos cuenta!"
     },
     {
       "index": 19,
-      "english": "Wanna fight and see who's\nstronger?",
-      "_offset": 1056,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Peleamos a ver quién es\nmás fuerte?"
+      "english": "Really now...?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7292,
+      "_bytes": 14,
+      "translation": "¿En serio...?"
     },
     {
       "index": 20,
-      "english": "Wait, are you talking to me?",
-      "_offset": 1092,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "A mí me hablas?"
+      "english": "Hey, but you guys look pretty\nstrong!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7307,
+      "_bytes": 37,
+      "translation": "¡Oye, pero parecéis fuertes!"
     },
     {
       "index": 21,
-      "english": "Yeah!",
-      "_offset": 1121,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Sí!"
+      "english": "Huh?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7345,
+      "_bytes": 4,
+      "translation": "¿Eh?"
     },
     {
       "index": 22,
-      "english": "What?!",
-      "_offset": 1127,
-      "_length": 6,
-      "speaker_id": 0,
-      "translation": "Qué?!"
+      "english": "Wanna fight and see who's\nstronger?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7350,
+      "_bytes": 35,
+      "translation": "¿Peleamos a ver quién es\nmás fuerte?"
     },
     {
       "index": 23,
-      "english": "T-Tai...",
-      "_offset": 1134,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "T-Tai..."
+      "english": "Wait, are you talking to me?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 7386,
+      "_bytes": 28,
+      "translation": "¿A mí me hablas?"
     },
     {
       "index": 24,
-      "english": "Hey, hey, wait a second! You're\nsaying some weird stuff, you\nknow...",
-      "_offset": 1146,
-      "_length": 68,
-      "speaker_id": 0,
-      "translation": "Espera, espera! Estás\ndiciendo cosas muy raras..."
+      "english": "Yeah!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7415,
+      "_bytes": 5,
+      "translation": "¡Sí!"
     },
     {
       "index": 25,
-      "english": "I'm not a \"you\"! I'm Hackmon!",
-      "_offset": 1215,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "No soy un tú! Soy Hackmon!"
+      "english": "What?!",
+      "speaker_id": 9001,
+      "line_type": 2,
+      "_offset": 7421,
+      "_bytes": 6,
+      "translation": "¡¿Qué?!"
     },
     {
       "index": 26,
-      "english": "Uh, Hackmon... why do you want to\nfight Agumon?",
-      "_offset": 1245,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Hackmon... por qué\nquieres pelear con Agumon?"
+      "english": "T-Tai...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 7428,
+      "_bytes": 11,
+      "translation": "T-Tai..."
     },
     {
       "index": 27,
-      "english": "Why? Because I'm itchin' to fight\nsomeone strong!",
-      "_offset": 1293,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Porque tengo ganas de pelear\ncon alguien fuerte!"
+      "english": "Hey, hey, wait a second! You're\nsaying some weird stuff, you\nknow...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7440,
+      "_bytes": 68,
+      "translation": "¡Espera, espera! Estás\ndiciendo cosas muy raras..."
     },
     {
       "index": 28,
-      "english": "I don't know why I'm here or what\nfor, but...",
-      "_offset": 1343,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "No sé por qué estoy aquí\nni para qué, pero..."
+      "english": "I'm not a \"you\"! I'm Hackmon!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7509,
+      "_bytes": 29,
+      "translation": "¡No me llames \"tú\"! ¡Soy Hackmon!"
     },
     {
       "index": 29,
-      "english": "I just feel like getting in a\nnice, long brawl!",
-      "_offset": 1389,
-      "_length": 47,
-      "speaker_id": 0,
-      "translation": "Solo tengo ganas de una buena\npelea larga!"
+      "english": "Uh, Hackmon... why do you want to\nfight Agumon?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7539,
+      "_bytes": 47,
+      "translation": "Hackmon... ¿por qué\nquieres pelear con Agumon?"
     },
     {
       "index": 30,
-      "english": "Wait, you were brought here, too?",
-      "_offset": 1437,
-      "_length": 33,
-      "speaker_id": 0,
-      "translation": "Espera, a ti también te trajeron?"
+      "english": "Why? Because I'm itchin' to fight\nsomeone strong!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7587,
+      "_bytes": 49,
+      "translation": "¡Porque tengo ganas de pelear\ncon alguien fuerte!"
     },
     {
       "index": 31,
-      "english": "Yeah! While I was doing my\ntraining off in the mountains...",
-      "_offset": 1471,
-      "_length": 59,
-      "speaker_id": 0,
-      "translation": "Sí! Mientras entrenaba\nen las montañas..."
+      "english": "I don't know why I'm here or what\nfor, but...",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7637,
+      "_bytes": 45,
+      "translation": "No sé por qué estoy aquí\nni para qué, pero..."
     },
     {
       "index": 32,
-      "english": "Someone approached me while I was\ntaking a nap, and before I knew it\nI was here!",
-      "_offset": 1531,
-      "_length": 80,
-      "speaker_id": 0,
-      "translation": "Alguien se me acercó mientras\ndormía la siesta, y de repente\nya estaba aquí!"
+      "english": "I just feel like getting in a\nnice, long brawl!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7683,
+      "_bytes": 47,
+      "translation": "¡Solo tengo ganas de una buena\npelea larga!"
     },
     {
       "index": 33,
-      "english": "I was sleeping, so I didn't get to\nsee them, but I certainly felt\nsomeone's presence!",
-      "_offset": 1612,
-      "_length": 85,
-      "speaker_id": 0,
-      "translation": "Estaba dormido, así que no lo vi,\npero sentí la presencia\nde alguien, seguro!"
+      "english": "Wait, you were brought here, too?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7731,
+      "_bytes": 33,
+      "translation": "Espera, ¿a ti también te trajeron?"
     },
     {
       "index": 34,
-      "english": "Someone's presence?",
-      "_offset": 1698,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Sentiste a alguien?"
+      "english": "Yeah! While I was doing my\ntraining off in the mountains...",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7765,
+      "_bytes": 59,
+      "translation": "¡Sí! Mientras entrenaba\nen las montañas..."
     },
     {
       "index": 35,
-      "english": "What's wrong, Agumon?",
-      "_offset": 1721,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Qué pasa, Agumon?"
+      "english": "Someone approached me while I was\ntaking a nap, and before I knew it\nI was here!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7825,
+      "_bytes": 80,
+      "translation": "¡Alguien se me acercó mientras\ndormía la siesta, y de repente\nya estaba aquí!"
     },
     {
       "index": 36,
-      "english": "I forgot to say this earlier,\nbut...",
-      "_offset": 1743,
-      "_length": 36,
-      "speaker_id": 0,
-      "translation": "Se me olvidó decir esto antes\npero..."
+      "english": "I was sleeping, so I didn't get to\nsee them, but I certainly felt\nsomeone's presence!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 7906,
+      "_bytes": 85,
+      "translation": "¡Estaba dormido, así que no lo vi,\npero sentí la presencia\nde alguien, seguro!"
     },
     {
       "index": 37,
-      "english": "I also felt like there was someone\nstanding behind us while we were\nsleeping.",
-      "_offset": 1780,
-      "_length": 77,
-      "speaker_id": 0,
-      "translation": "También sentí que había alguien\ndetrás de nosotros mientras\ndormíamos."
+      "english": "Someone's presence?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 7992,
+      "_bytes": 19,
+      "translation": "¿Sentiste a alguien?"
     },
     {
       "index": 38,
-      "english": "What?! Why didn't you tell me that\nearlier?",
-      "_offset": 1858,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Qué?! Por qué no me lo dijiste\nantes?"
+      "english": "!!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8012,
+      "_bytes": 2,
+      "translation": "!!"
     },
     {
       "index": 39,
-      "english": "I thought maybe I was just\ndreaming...",
-      "_offset": 1902,
-      "_length": 38,
-      "speaker_id": 0,
-      "translation": "Pensé que a lo mejor\nestaba soñando..."
+      "english": "What's wrong, Agumon?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8015,
+      "_bytes": 21,
+      "translation": "¿Qué pasa, Agumon?"
     },
     {
       "index": 40,
-      "english": "Well, that's fair...",
-      "_offset": 1941,
-      "_length": 20,
-      "speaker_id": 0,
-      "translation": "Tiene lógica..."
+      "english": "I forgot to say this earlier,\nbut...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8037,
+      "_bytes": 36,
+      "translation": "Se me olvidó decir esto antes,\npero..."
     },
     {
       "index": 41,
-      "english": "So it seems like you're in my\nboat, then.",
-      "_offset": 1962,
-      "_length": 41,
-      "speaker_id": 0,
-      "translation": "Parece que estás en mi\nmisma situación."
+      "english": "I also felt like there was someone\nstanding behind us while we were\nsleeping.",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8074,
+      "_bytes": 77,
+      "translation": "También sentí que había alguien\ndetrás de nosotros mientras\ndormíamos."
     },
     {
       "index": 42,
-      "english": "Nice to meet you!",
-      "_offset": 2004,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Encantado!"
+      "english": "What?! Why didn't you tell me that\nearlier?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8152,
+      "_bytes": 43,
+      "translation": "¡¿Qué?! ¿Por qué no me lo dijiste\nantes?"
     },
     {
       "index": 43,
-      "english": "I don't wanna hear that! Come on,\nfight me!",
-      "_offset": 2022,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "No quiero oír eso! Vamos,\npelea conmigo!"
+      "english": "I thought maybe I was just\ndreaming...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8196,
+      "_bytes": 38,
+      "translation": "Pensé que a lo mejor\nestaba soñando..."
     },
     {
       "index": 44,
-      "english": "Hey... Hey, Tai...",
-      "_offset": 2066,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Oye... oye, Tai..."
+      "english": "Well, that's fair...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8235,
+      "_bytes": 20,
+      "translation": "Tiene lógica..."
     },
     {
       "index": 45,
-      "english": "Hey, why don't we start looking\nfor the exit instead?",
-      "_offset": 2088,
-      "_length": 53,
-      "speaker_id": 0,
-      "translation": "Oye, por qué no buscamos\nla salida mejor?"
+      "english": "So it seems like you're in my\nboat, then.",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8256,
+      "_bytes": 41,
+      "translation": "Parece que estás en mi\nmisma situación."
     },
     {
       "index": 46,
-      "english": "Yeah, yeah, we've been here\nbefore, so we should be able to\nfind an exit!",
-      "_offset": 2142,
-      "_length": 73,
-      "speaker_id": 0,
-      "translation": "Sí, sí, ya hemos estado aquí,\nasí que deberíamos encontrar\nuna salida!"
+      "english": "Nice to meet you!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8298,
+      "_bytes": 17,
+      "translation": "¡Encantado!"
     },
     {
       "index": 47,
-      "english": "Hm...",
-      "_offset": 2216,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Hm..."
+      "english": "I don't wanna hear that! Come on,\nfight me!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8316,
+      "_bytes": 43,
+      "translation": "¡No quiero oír eso! ¡Vamos,\npelea conmigo!"
     },
     {
       "index": 48,
-      "english": "Aren't there people out there who\nare gonna be worried about you?",
-      "_offset": 2222,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "No hay gente ahí fuera\npreocupada por ti?"
+      "english": "Hey... Hey, Tai...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8360,
+      "_bytes": 21,
+      "translation": "Oye... oye, Tai..."
     },
     {
       "index": 49,
-      "english": "Well, I'm sure \"they\" would be\nconcerned about my absence, but...",
-      "_offset": 2288,
-      "_length": 65,
-      "speaker_id": 0,
-      "translation": "Seguro que \"ellos\" estarían\npreocupados por mi ausencia,\npero..."
+      "english": "Hey, why don't we start looking\nfor the exit instead?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8382,
+      "_bytes": 53,
+      "translation": "Oye, ¿por qué no buscamos\nla salida mejor?"
     },
     {
       "index": 50,
-      "english": "Are \"they\" your friends?",
-      "_offset": 2354,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "\"Ellos\" son tus amigos?"
+      "english": "Yeah, yeah, we've been here\nbefore, so we should be able to\nfind an exit!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8436,
+      "_bytes": 73,
+      "translation": "¡Sí, sí, ya hemos estado aquí,\nasí que deberíamos encontrar\nuna salida!"
     },
     {
       "index": 51,
-      "english": "They're not my friends! More like\nmy caretakers.",
-      "_offset": 2379,
-      "_length": 48,
-      "speaker_id": 0,
-      "translation": "No son mis amigos! Más bien\nmis cuidadores."
+      "english": "Hm...",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8510,
+      "_bytes": 5,
+      "translation": "Hm..."
     },
     {
       "index": 52,
-      "english": "Huh... so you have caretakers?",
-      "_offset": 2428,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Vaya... tienes cuidadores?"
+      "english": "Aren't there people out there who\nare gonna be worried about you?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8516,
+      "_bytes": 65,
+      "translation": "¿No hay gente ahí fuera\npreocupada por ti?"
     },
     {
       "index": 53,
-      "english": "You're weird.",
-      "_offset": 2459,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Eres raro."
+      "english": "Well, I'm sure \"they\" would be\nconcerned about my absence, but...",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8582,
+      "_bytes": 65,
+      "translation": "Seguro que \"ellos\" estarían\npreocupados por mi ausencia,\npero..."
     },
     {
       "index": 54,
-      "english": "Whatever! Let's find a way out of\nhere first.",
-      "_offset": 2473,
-      "_length": 45,
-      "speaker_id": 0,
-      "translation": "Da igual! Busquemos primero\ncómo salir de aquí"
+      "english": "Are \"they\" your friends?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8648,
+      "_bytes": 24,
+      "translation": "¿\"Ellos\" son tus amigos?"
     },
     {
       "index": 55,
-      "english": "...Are we gonna be okay?",
-      "_offset": 2519,
-      "_length": 24,
-      "speaker_id": 0,
-      "translation": "...Vamos a estar bien?"
+      "english": "They're not my friends! More like\nmy caretakers.",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8673,
+      "_bytes": 48,
+      "translation": "¡No son mis amigos! Más bien\nmis cuidadores."
     },
     {
       "index": 56,
-      "english": "I'm worried, too...",
-      "_offset": 2544,
-      "_length": 19,
-      "speaker_id": 0,
-      "translation": "Yo también..."
+      "english": "Huh... so you have caretakers?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8722,
+      "_bytes": 30,
+      "translation": "Vaya... ¿tienes cuidadores?"
     },
     {
       "index": 57,
-      "english": "Hey, Tai! You're not a Digimon,\nare you?",
-      "_offset": 2564,
-      "_length": 43,
-      "speaker_id": 0,
-      "translation": "Oye, Tai! No eres un Digimon,\nverdad?"
+      "english": "You're weird.",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8753,
+      "_bytes": 13,
+      "translation": "Eres raro."
     },
     {
       "index": 58,
-      "english": "Nope! I came to the Digimon world\nfrom another one.",
-      "_offset": 2608,
-      "_length": 51,
-      "speaker_id": 0,
-      "translation": "No! Vine al mundo Digimon\ndesde otro mundo."
+      "english": "Whatever! Let's find a way out of\nhere first.",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8767,
+      "_bytes": 45,
+      "translation": "¡Da igual! Busquemos primero\ncómo salir de aquí."
     },
     {
       "index": 59,
-      "english": "How'd you get there from another\nworld?",
-      "_offset": 2660,
-      "_length": 39,
-      "speaker_id": 0,
-      "translation": "Cómo llegaste aquí desde\notro mundo?"
+      "english": "...Are we gonna be okay?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8813,
+      "_bytes": 24,
+      "translation": "...¿Vamos a estar bien?"
     },
     {
       "index": 60,
-      "english": "Well, at first we couldn't get\nback to our world at all, and then\na lot of stuff happened...",
-      "_offset": 2700,
-      "_length": 92,
-      "speaker_id": 0,
-      "translation": "Al principio no podíamos volver\na nuestro mundo, y luego\npasaron muchas cosas..."
+      "english": "I'm worried, too...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 8838,
+      "_bytes": 19,
+      "translation": "Yo también..."
     },
     {
       "index": 61,
-      "english": "So, Hackmon, what kind of stuff do\nyou usually do?",
-      "_offset": 2793,
-      "_length": 50,
-      "speaker_id": 0,
-      "translation": "Y tú, Hackmon, qué sueles\nhacer normalmente?"
+      "english": "Hey, Tai! You're not a Digimon,\nare you?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8858,
+      "_bytes": 43,
+      "translation": "¡Oye, Tai! No eres un Digimon,\n¿verdad?"
     },
     {
       "index": 62,
-      "english": "I'm training to become stronger!",
-      "_offset": 2844,
-      "_length": 32,
-      "speaker_id": 0,
-      "translation": "Entreno para hacerme más fuerte!"
+      "english": "Nope! I came to the Digimon world\nfrom another one.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8902,
+      "_bytes": 51,
+      "translation": "¡No! Vine al Digimundo\ndesde otro mundo."
     },
     {
       "index": 63,
-      "english": "Is that it?",
-      "_offset": 2877,
-      "_length": 11,
-      "speaker_id": 0,
-      "translation": "Solo eso?"
+      "english": "How'd you get there from another\nworld?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 8954,
+      "_bytes": 39,
+      "translation": "¿Cómo llegaste aquí desde\notro mundo?"
     },
     {
       "index": 64,
-      "english": "Yup! I have a dream, you see.",
-      "_offset": 2889,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Sí! Tengo un sueño, ya ves."
+      "english": "Well, at first we couldn't get\nback to our world at all, and then\na lot of stuff happened...",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 8994,
+      "_bytes": 92,
+      "translation": "Al principio no podíamos volver\na nuestro mundo, y luego\npasaron muchas cosas..."
     },
     {
       "index": 65,
-      "english": "What's your dream?",
-      "_offset": 2919,
-      "_length": 18,
-      "speaker_id": 0,
-      "translation": "Cuál es tu sueño?"
+      "english": "So, Hackmon, what kind of stuff do\nyou usually do?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9087,
+      "_bytes": 50,
+      "translation": "¿Y tú, Hackmon, qué sueles\nhacer normalmente?"
     },
     {
       "index": 66,
-      "english": "Heh heh heh, that's a secret!",
-      "_offset": 2938,
-      "_length": 29,
-      "speaker_id": 0,
-      "translation": "Je je je, eso es secreto!"
+      "english": "I'm training to become stronger!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 9138,
+      "_bytes": 32,
+      "translation": "¡Entreno para hacerme más fuerte!"
     },
     {
       "index": 67,
-      "english": "Aw, man.",
-      "_offset": 2968,
-      "_length": 8,
-      "speaker_id": 0,
-      "translation": "Vaya."
+      "english": "Is that it?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9171,
+      "_bytes": 11,
+      "translation": "¿Solo eso?"
     },
     {
       "index": 68,
-      "english": "Ah! There's the exit!",
-      "_offset": 2977,
-      "_length": 21,
-      "speaker_id": 0,
-      "translation": "Ahí está la salida!"
+      "english": "Yup! I have a dream, you see.",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 9183,
+      "_bytes": 29,
+      "translation": "¡Sí! Tengo un sueño, ya ves."
     },
     {
       "index": 69,
-      "english": "You're right!",
-      "_offset": 2999,
-      "_length": 13,
-      "speaker_id": 0,
-      "translation": "Tienes razón!"
+      "english": "What's your dream?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9213,
+      "_bytes": 18,
+      "translation": "¿Cuál es tu sueño?"
     },
     {
       "index": 70,
-      "english": "So I guess we're parting ways,\nhuh?",
-      "_offset": 3013,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Entonces nos separamos,\nno?"
+      "english": "Heh heh heh, that's a secret!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 9232,
+      "_bytes": 29,
+      "translation": "¡Je je je, eso es secreto!"
     },
     {
       "index": 71,
-      "english": "Hey, Agumon! Can you do me a\nfavor?",
-      "_offset": 3049,
-      "_length": 35,
-      "speaker_id": 0,
-      "translation": "Oye, Agumon! Me haces\nun favor?"
+      "english": "Aw, man.",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9262,
+      "_bytes": 8,
+      "translation": "Vaya."
     },
     {
       "index": 72,
-      "english": "What?",
-      "_offset": 3085,
-      "_length": 5,
-      "speaker_id": 0,
-      "translation": "Qué?"
+      "english": "Ah! There's the exit!",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9271,
+      "_bytes": 21,
+      "translation": "¡Ahí está la salida!"
     },
     {
       "index": 73,
-      "english": "Next time we meet, fight me!",
-      "_offset": 3091,
-      "_length": 28,
-      "speaker_id": 0,
-      "translation": "La próxima vez, pelea!"
+      "english": "You're right!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 9293,
+      "_bytes": 13,
+      "translation": "¡Tienes razón!"
     },
     {
       "index": 74,
-      "english": "Huh?! Are you serious?",
-      "_offset": 3120,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Eh?! En serio?"
+      "english": "So I guess we're parting ways,\nhuh?",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9307,
+      "_bytes": 35,
+      "translation": "Entonces nos separamos,\n¿no?"
     },
     {
       "index": 75,
-      "english": "Of course! I'm gonna be really\nstrong by then!",
-      "_offset": 3143,
-      "_length": 46,
-      "speaker_id": 0,
-      "translation": "Claro! Para entonces seré\nmuy fuerte!"
+      "english": "Hey, Agumon! Can you do me a\nfavor?",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 9343,
+      "_bytes": 35,
+      "translation": "¡Oye, Agumon! ¿Me haces\nun favor?"
     },
     {
       "index": 76,
-      "english": "Hahaha! I knew you'd say that.",
-      "_offset": 3190,
-      "_length": 30,
-      "speaker_id": 0,
-      "translation": "Jajaja! Sabía que dirías eso."
+      "english": "What?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9379,
+      "_bytes": 5,
+      "translation": "¿Qué?"
     },
     {
       "index": 77,
-      "english": "Hey, Tai, at least say\nsomething about this...",
-      "_offset": 3221,
-      "_length": 49,
-      "speaker_id": 0,
-      "translation": "Oye, Tai, di algo al menos\nsobre esto..."
+      "english": "Next time we meet, fight me!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 9385,
+      "_bytes": 28,
+      "translation": "¡La próxima vez, pelea\nconmigo!"
     },
     {
       "index": 78,
-      "english": "See you, Hackmon!",
-      "_offset": 3271,
-      "_length": 17,
-      "speaker_id": 0,
-      "translation": "Adiós, Hackmon!"
+      "english": "Huh?! Are you serious?",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9414,
+      "_bytes": 22,
+      "translation": "¡¿Eh?! ¿En serio?"
     },
     {
       "index": 79,
-      "english": "Yeah! Take care, you two!",
-      "_offset": 3289,
-      "_length": 25,
-      "speaker_id": 0,
-      "translation": "Sí! Cuidaos los dos!"
+      "english": "Of course! I'm gonna be really\nstrong by then!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 9437,
+      "_bytes": 46,
+      "translation": "¡Claro! ¡Para entonces seré\nmuy fuerte!"
     },
     {
       "index": 80,
-      "english": "【Area 1】",
-      "_offset": 3315,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Zona 1"
+      "english": "Hahaha! I knew you'd say that.",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9484,
+      "_bytes": 30,
+      "translation": "¡Jajaja! Sabía que dirías eso."
     },
     {
       "index": 81,
-      "english": "【Area 2】",
-      "_offset": 3338,
-      "_length": 22,
-      "speaker_id": 0,
-      "translation": "Zona 2"
+      "english": "Hey, Tai, at least say\nsomething about this...",
+      "speaker_id": 2121,
+      "line_type": 2,
+      "_offset": 9515,
+      "_bytes": 49,
+      "translation": "Oye, Tai, di algo al menos\nsobre esto..."
     },
     {
       "index": 82,
-      "english": "【Area 3】",
-      "_offset": 3361,
-      "_length": 22,
-      "speaker_id": 0,
+      "english": "See you, Hackmon!",
+      "speaker_id": 1011,
+      "line_type": 2,
+      "_offset": 9565,
+      "_bytes": 17,
+      "translation": "¡Adiós, Hackmon!"
+    },
+    {
+      "index": 83,
+      "english": "Yeah! Take care, you two!",
+      "speaker_id": 7181,
+      "line_type": 2,
+      "_offset": 9583,
+      "_bytes": 25,
+      "translation": "¡Sí! ¡Cuidaos los dos!"
+    },
+    {
+      "index": 84,
+      "english": "　　　　　　【Area 1】",
+      "speaker_id": 9003,
+      "line_type": 4,
+      "_offset": 9609,
+      "_bytes": 22,
+      "translation": "Zona 1"
+    },
+    {
+      "index": 85,
+      "english": "　　　　　　【Area 2】",
+      "speaker_id": 9003,
+      "line_type": 4,
+      "_offset": 9632,
+      "_bytes": 22,
+      "translation": "Zona 2"
+    },
+    {
+      "index": 86,
+      "english": "　　　　　　【Area 3】",
+      "speaker_id": 9003,
+      "line_type": 4,
+      "_offset": 9655,
+      "_bytes": 22,
       "translation": "Zona 3"
     }
   ]
